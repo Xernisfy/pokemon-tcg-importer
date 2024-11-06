@@ -10,3 +10,11 @@ export function matchFirstGroup(
 ): string | undefined {
   return wikitext.match(regex)?.[1];
 }
+const textEncoder = new TextEncoder();
+export function reportProgress(message: string, i: number, max: number) {
+  Deno.stdout.write(
+    textEncoder.encode(
+      `\r${message} ${i}/${max} (${Math.round((i / max) * 100)}%)`,
+    ),
+  );
+}
