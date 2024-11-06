@@ -1,8 +1,10 @@
-import { loadImportConfig } from "./tools.ts";
+import { retry } from "jsr:@std/async";
+import { exportPath, loadImportConfig, matchFirstGroup } from "./tools.ts";
 import {
   Ability,
   Attack,
   Card,
+  Rarity,
   SetCardList,
   Subtype,
   Supertype,
@@ -11,6 +13,19 @@ import {
 
 const bulbapediaRoot = "https://bulbapedia.bulbagarden.net";
 const importPath = import.meta.dirname + "/import";
+const setsPath = importPath + "/sets";
+const wikiPath = importPath + "/wikitexts";
+const rarityMap: Record<string, Rarity> = {
+  "Double Rare": Rarity.RareDouble,
+  "Illustration Rare": Rarity.RareIllustration,
+  "Super Rare": Rarity.RareSuper,
+  "Special Illustration Rare": Rarity.RareSpecialIllustration,
+  "Ultra Rare": Rarity.RareUltra,
+};
+const rarityMarkMap: Record<string, Rarity> = {
+  "Diamond": Rarity.Common,
+  "Star": Rarity.RareIllustration,
+};
 async function fetchWikitext(page: string) {
   const url = new URL("/w/api.php", bulbapediaRoot);
   url.searchParams.append("action", "parse");
@@ -18,7 +33,7 @@ async function fetchWikitext(page: string) {
   url.searchParams.append("prop", "wikitext");
   url.searchParams.append("format", "json");
   url.searchParams.append("redirects", "1");
-  const response = await (await fetch(url)).json() as {
+  const response = await retry((await fetch(url)).json) as {
     parse: { wikitext: { "*": string } };
   };
   return response.parse.wikitext["*"];
@@ -39,9 +54,9 @@ switch (Deno.args[0]) {
         const { setIndex, name, number } = groups;
         cardList.cards.push({ name, number, setIndex });
       }
-      Deno.mkdirSync(importPath + "/sets", { recursive: true });
+      Deno.mkdirSync(setsPath, { recursive: true });
       Deno.writeTextFileSync(
-        importPath + "/sets/" + setId + ".json",
+        `${setsPath}/${setId}.json`,
         JSON.stringify(cardList, null, 2),
       );
     }
@@ -49,76 +64,91 @@ switch (Deno.args[0]) {
   }
   case "cards": {
     for (
-      const { name: setFileName } of Deno.readDirSync(importPath + "/sets")
+      const { name: setFileName } of Deno.readDirSync(setsPath)
     ) {
       const { set, setId, cards } = JSON.parse(
-        Deno.readTextFileSync(importPath + "/sets/" + setFileName),
+        Deno.readTextFileSync(`${setsPath}/${setFileName}`),
       ) as SetCardList;
-      const setPath = importPath + "/wikitexts/" + setId;
+      const setPath = `${wikiPath}/${setId}`;
       Deno.mkdirSync(setPath, { recursive: true });
       for (const { name, number } of cards) {
-        const wikitext = await fetchWikitext(`${name} (${set} ${number})`);
-        Deno.writeTextFileSync(setPath + "/" + number + ".txt", wikitext);
+        Deno.writeTextFileSync(
+          `${setPath}/${number}.txt`,
+          await fetchWikitext(`${name} (${set} ${number})`),
+        );
       }
     }
     break;
   }
   case "format": {
+    Deno.mkdirSync(exportPath, { recursive: true });
     for (
-      const { name: setFileName } of Deno.readDirSync(importPath + "/sets")
+      const { name: setFileName } of Deno.readDirSync(setsPath)
     ) {
       const { setId, cards } = JSON.parse(
-        Deno.readTextFileSync(importPath + "/sets/" + setFileName),
+        Deno.readTextFileSync(`${setsPath}/${setFileName}`),
       ) as SetCardList;
+      const evolutions: Record<string, { from?: string; to?: Set<string> }> =
+        {};
+      for (const { number } of cards) {
+        const wikitext = Deno.readTextFileSync(
+          `${wikiPath}/${setId}/${number}.txt`,
+        );
+        const species = matchFirstGroup(wikitext, /\|species=(.*)/);
+        const prevoName = matchFirstGroup(wikitext, /\|prevo name=(.*)/);
+        if (species && !evolutions[species]) evolutions[species] = {};
+        if (prevoName && !evolutions[prevoName]) evolutions[prevoName] = {};
+        if (species && prevoName) {
+          evolutions[species].from = prevoName;
+          if (!evolutions[prevoName].to) evolutions[prevoName].to = new Set();
+          evolutions[prevoName].to.add(species);
+        }
+      }
       const importCards: Card[] = [];
       for (const { name, number } of cards) {
         const wikitext = Deno.readTextFileSync(
-          importPath + "/wikitexts/" + setId + "/" + number + ".txt",
+          `${wikiPath}/${setId}/${number}.txt`,
         );
-        if (wikitext.startsWith("#REDIRECT")) {
-          console.warn("TODO REDIRECT", number, name);
-          continue;
-        }
         const card: Partial<Card> = {};
         // id
         card.id = `${setId}-${number}`;
         // name
         card.name = name;
         // supertype
-        card.supertype = wikitext.match(
-          /\{\{TCG Card Infobox\/(?<supertype>.*?)\/Pocket/,
-        )?.groups?.supertype as Supertype;
+        card.supertype = matchFirstGroup(
+          wikitext,
+          /\{\{TCG Card Infobox\/(.*?)\/Pocket/,
+        ) as Supertype;
         // subtypes
         if (card.supertype === "Trainer") {
           card.subtypes = [
-            wikitext.match(/\|subtype=(?<subtype>.*)/)?.groups
-              ?.subtype as Subtype,
+            matchFirstGroup(wikitext, /\|subtype=(.*)/) as Subtype,
           ];
         } else {
           card.subtypes = [
-            wikitext.match(/\|evo stage=(?<stage>.*)/)!.groups!
-              .stage as Subtype,
+            matchFirstGroup(wikitext, /\|evo stage=(.*)/) as Subtype,
           ];
           if (wikitext.match(/Cardtext\/Pocket ex/)) {
             card.subtypes.push(Subtype.EX);
           }
         }
         // hp
-        const hp = wikitext.match(/\|hp=(?<hp>.*)/)?.groups?.hp;
+        const hp = matchFirstGroup(wikitext, /\|hp=(.*)/);
         if (hp) card.hp = hp;
         // types
-        const type = wikitext.match(/\|type=(?<type>.*)/)?.groups?.type;
+        const type = matchFirstGroup(wikitext, /\|type=(.*)/);
         if (type) card.types = [type as Type];
-        // evolvesFrom
-        const prevo = wikitext.match(/\|prevo name=(?<prevo>.*)/)?.groups
-          ?.prevo;
-        if (prevo) card.evolvesFrom = prevo;
-        // evolvesTo TODO
+        // evolvesFrom + evolvesTo
+        const species = matchFirstGroup(wikitext, /\|species=(.*)/);
+        if (species) {
+          const { from, to } = evolutions[species];
+          if (from) card.evolvesFrom = from;
+          if (to) card.evolvesTo = [...to.values()];
+        }
         // rules
         const rules = [];
         if (card.supertype === Supertype.Trainer) {
-          const effect = wikitext.match(/\|effect=(?<effect>.*)/)?.groups
-            ?.effect;
+          const effect = matchFirstGroup(wikitext, /\|effect=(.*)/);
           if (effect) {
             rules.push(
               effect.replaceAll(
@@ -151,21 +181,14 @@ switch (Deno.args[0]) {
           ),
         ].map<Ability>((match) => {
           const abilityWikitext = match.groups?.ability!;
-          const name = abilityWikitext.match(/\|name=(?<name>.*)/)?.groups
-            ?.name!;
-          const type = abilityWikitext.match(/\|type=(?<type>.*)/)?.groups
-            ?.type!;
+          const name = matchFirstGroup(abilityWikitext, /\|name=(.*)/)!;
+          const type = matchFirstGroup(abilityWikitext, /\|type=(.*)/)!;
           const text =
-            abilityWikitext.match(/\|effect=(?<effect>.*)/)?.groups?.effect
-              .replaceAll(
-                /\{\{.*?\|(.*?)}\}/g,
-                (_substring, value) => value,
-              ) || "";
-          return {
-            name,
-            text,
-            type,
-          };
+            matchFirstGroup(abilityWikitext, /\|effect=(.*)/)?.replaceAll(
+              /\{\{.*?\|(.*?)}\}/g,
+              (_substring, value) => value,
+            ) || "";
+          return { name, text, type };
         });
         if (abilities.length) card.abilities = abilities;
         // attacks
@@ -175,36 +198,24 @@ switch (Deno.args[0]) {
           ),
         ].map<Attack>((match) => {
           const attackWikitext = match.groups?.attack!;
-          const name = attackWikitext.match(/\|name=(?<name>.*)/)?.groups
-            ?.name!;
-          const costString = attackWikitext.match(/\|cost=(?<cost>.*)/)?.groups
-            ?.cost!;
+          const name = matchFirstGroup(attackWikitext, /\|name=(.*)/)!;
+          const costString = matchFirstGroup(attackWikitext, /\|cost=(.*)/)!;
           const cost = [...costString.matchAll(/\{\{.*?\|(?<type>.*?)}\}/g)]
             .map((m) => m.groups?.type!);
-          const damage = attackWikitext.match(/\|damage=(?<damage>.*)/)?.groups
-            ?.damage || "";
+          const damage = matchFirstGroup(attackWikitext, /\|damage=(.*)/) || "";
           const text =
-            attackWikitext.match(/\|effect=(?<effect>.*)/)?.groups?.effect
-              .replaceAll(
-                /\{\{.*?\|(.*?)}\}/g,
-                (_substring, value) => value,
-              ) || "";
-          return {
-            name,
-            cost,
-            convertedEnergyCost: cost.length,
-            damage,
-            text,
-          };
+            matchFirstGroup(attackWikitext, /\|effect=(.*)/)?.replaceAll(
+              /\{\{.*?\|(.*?)}\}/g,
+              (_substring, value) => value,
+            ) || "";
+          return { name, cost, convertedEnergyCost: cost.length, damage, text };
         });
         if (attacks.length) card.attacks = attacks;
         // weaknesses
-        const weakness = wikitext.match(/\|weakness=(?<weakness>(.*))/)?.groups
-          ?.weakness;
+        const weakness = matchFirstGroup(wikitext, /\|weakness=(.*)/);
         if (weakness) card.weaknesses = [{ type: weakness, value: "+20" }];
         // retreatCost + convertedRetreatCost
-        const retreatCost = wikitext.match(/\|retreat cost=(?<cost>.*)/)?.groups
-          ?.cost;
+        const retreatCost = matchFirstGroup(wikitext, /\|retreat cost=(.*)/);
         if (retreatCost) {
           card.convertedRetreatCost = parseInt(retreatCost);
           card.retreatCost = new Array(card.convertedRetreatCost).fill(
@@ -213,13 +224,42 @@ switch (Deno.args[0]) {
         }
         // number
         card.number = number;
-        // artist TODO
-        // rarity TODO
+        // artist + rarity
+        if (wikitext.match(/\|illustrator=/g)?.length === 1) {
+          const illus = matchFirstGroup(wikitext, /\|illustrator=(.*)/);
+          if (illus) card.artist = illus;
+          // assume rarity based on rarity mark because it is not explicitly stated
+          const rarity = matchFirstGroup(wikitext, /\|rarity=(.*?)\|/);
+          if (rarity) card.rarity = rarityMarkMap[rarity];
+        } else {
+          const cardVersions = [
+            ...wikitext.matchAll(
+              /\{\{TCG Card Infobox\/Tabbed Image\/Pocket\|image=.+?(?<number>\d+).png\|illustrator=(?<illus>.*?)\|caption=(?<rarity>.*?)(?: \(|\}\})/g,
+            ),
+          ];
+          const version = cardVersions.find((match) =>
+            match.groups?.number === card.number
+          );
+          if (version) {
+            const { illus, rarity } = version.groups!;
+            card.artist = illus;
+            if (rarity in Rarity) card.rarity = rarity as Rarity;
+            else {
+              const mappedRarity = rarityMap[rarity];
+              if (mappedRarity) card.rarity = mappedRarity;
+              else console.warn(card.number, "Unknown rarity:", rarity);
+            }
+          } else {
+            console.warn(
+              `Version for card ${card.number} "${card.name}" not found!`,
+            );
+          }
+        }
         // flavorText
-        const dex = wikitext.match(/\|dex=(?<dex>(.*))/)?.groups?.dex;
+        const dex = matchFirstGroup(wikitext, /\|dex=(.*)/);
         if (dex) card.flavorText = dex;
         // nationalPokedexNumbers
-        const ndex = wikitext.match(/|ndex=(?<ndex>.*)/)?.groups?.ndex;
+        const ndex = matchFirstGroup(wikitext, /|ndex=(.*)/);
         if (ndex) card.nationalPokedexNumbers = [parseInt(ndex)];
         // images
         card.images = {
@@ -228,10 +268,8 @@ switch (Deno.args[0]) {
         };
         importCards.push(card as Card);
       }
-      const importCardsPath = import.meta.dirname + "/cards/en/" + setId +
-        ".json";
       Deno.writeTextFileSync(
-        importCardsPath,
+        `${exportPath}/${setId}.json`,
         JSON.stringify(importCards, null, 2),
       );
     }

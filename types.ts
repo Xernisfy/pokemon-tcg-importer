@@ -32,7 +32,7 @@ export type Card =
   & {
     supertype: Supertype;
     subtypes: Subtype[];
-    types: Type[],
+    types: Type[];
     rarity: Rarity;
   };
 export enum Rarity {
