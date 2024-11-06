@@ -27,17 +27,9 @@ import.config.json:
 
 First value is the set name, second is its abbreviation
 
-### 2. download sets
+### 2. download cards
 
-`deno run --allow-read --allow-net --allow-write bulbapedia.ts sets`
-
-### 3. download card data
-
-`deno run --allow-read --allow-net --allow-write bulbapedia.ts cards`
-
-### 4. format data
-
-`deno run --allow-read --allow-write bulbapedia.ts format`
+`deno run --allow-read --allow-net --allow-write main.ts --source bulbapedia`
 
 ### output
 
