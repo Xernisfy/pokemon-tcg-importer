@@ -1,0 +1,56 @@
+{
+  "version": "4",
+  "specifiers": {
+    "jsr:@std/async@*": "1.0.12",
+    "jsr:@std/cli@*": "1.0.16",
+    "jsr:@std/fs@*": "1.0.16",
+    "jsr:@std/path@^1.0.8": "1.0.8",
+    "npm:pokemon-tcg-sdk-typescript@*": "1.3.4"
+  },
+  "jsr": {
+    "@std/async@1.0.12": {
+      "integrity": "d1bfcec459e8012846fe4e38dfc4241ab23240ecda3d8d6dfcf6d81a632e803d"
+    },
+    "@std/cli@1.0.16": {
+      "integrity": "02df293099c35b9e97d8ca05f57f54bd1ee08134f25d19a4756b3924695f4b00"
+    },
+    "@std/fs@1.0.16": {
+      "integrity": "81878f62b6eeda0bf546197fc3daa5327c132fee1273f6113f940784a468b036",
+      "dependencies": [
+        "jsr:@std/path"
+      ]
+    },
+    "@std/path@1.0.8": {
+      "integrity": "548fa456bb6a04d3c1a1e7477986b6cffbce95102d0bb447c67c4ee70e0364be"
+    }
+  },
+  "npm": {
+    "axios@0.19.2": {
+      "integrity": "sha512-fjgm5MvRHLhx+osE2xoekY70AhARk3a6hkN+3Io1jc00jtquGvxYlKlsFUhmUET0V5te6CcZI7lcv2Ym61mjHA==",
+      "dependencies": [
+        "follow-redirects"
+      ]
+    },
+    "debug@3.1.0": {
+      "integrity": "sha512-OX8XqP7/1a9cqkxYw2yXss15f26NKWBpDXQd0/uK/KPqdQhxbPa994hnzjcE2VqQpDslf55723cKPUOGSmMY3g==",
+      "dependencies": [
+        "ms"
+      ]
+    },
+    "follow-redirects@1.5.10": {
+      "integrity": "sha512-0V5l4Cizzvqt5D44aTXbFZz+FtyXV1vrDN6qrelxtfYQKW0KO0W2T/hkE8xvGa/540LkZlkaUjO4ailYTFtHVQ==",
+      "dependencies": [
+        "debug"
+      ]
+    },
+    "ms@2.0.0": {
+      "integrity": "sha512-Tpp60P6IUJDTuOq/5Z8cdskzJujfwqfOTkrwIwj7IRISpnkJnT6SyJ4PCPnGMoFjC9ddhal5KVIYtAt97ix05A=="
+    },
+    "pokemon-tcg-sdk-typescript@1.3.4": {
+      "integrity": "sha512-LX6gpMJRsfpS06jaMiJq0pXC9GOFkVPW3Hog+bweLacX3irjUFZKe1sRnq6O8urpXyvX76Bk/85tKw4dNCcNXQ==",
+      "dependencies": [
+        "axios"
+      ]
+    }
+  }
+}

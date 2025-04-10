@@ -3,6 +3,7 @@ import type { PokemonTCG } from "npm:pokemon-tcg-sdk-typescript";
 // re-export
 export type Ability = PokemonTCG.Ability;
 export type Attack = PokemonTCG.Attack;
+export type CardSet = PokemonTCG.Set;
 
 // overrides
 export type Card =
@@ -45,6 +46,8 @@ export enum Rarity {
   RareSpecialIllustration = "Rare Special Illustration", // 2 Stars
   Immersive = "Immersive", // 3 Stars
   RareUltra = "Rare Ultra", // 1 Crown
+  ShinyRareDouble = "Shiny Rare Double", // 1 Sparkle
+  ShinyRareSuper = "Shiny Rare Super", // 2 Sparkles
   Promo = "Promo", // Promo
 }
 export enum Supertype {
@@ -73,8 +76,19 @@ export enum Type {
 }
 
 // custom
+export type ImportConfig = {
+  sets: {
+    id: string;
+    name: string;
+    printedTotal?: number;
+    releaseDate: string;
+  }[];
+};
+
 export type SetCardList = {
   set: string;
   setId: string;
+  printedTotal?: number;
+  releaseDate: string;
   cards: { name: string; number: string; setIndex: string }[];
 };

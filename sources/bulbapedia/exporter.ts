@@ -1,8 +1,14 @@
-import { exportPath, matchFirstGroup, reportProgress } from "../../tools.ts";
+import {
+  exportCardsPath,
+  exportSetsPath,
+  matchFirstGroup,
+  reportProgress,
+} from "../../tools.ts";
 import {
   Ability,
   Attack,
   Card,
+  CardSet,
   Rarity,
   SetCardList,
   Subtype,
@@ -17,11 +23,34 @@ const rarityMap: Record<string, Rarity> = {
   "Super Rare": Rarity.RareSuper,
   "Special Illustration Rare": Rarity.RareSpecialIllustration,
   "Ultra Rare": Rarity.RareUltra,
+  "Shiny Rare": Rarity.ShinyRareDouble,
+  "Shiny Super Rare": Rarity.ShinyRareSuper,
 };
 const rarityMarkMap: Record<string, Rarity> = {
   "Diamond": Rarity.Common,
   "Star": Rarity.RareIllustration,
 };
+const updatedAtFormat = new Intl.DateTimeFormat([], {
+  year: "numeric",
+  month: "2-digit",
+  day: "2-digit",
+  hour: "2-digit",
+  minute: "2-digit",
+  second: "2-digit",
+  hour12: false,
+  timeZone: "UTC",
+});
+function formatDate(
+  date: Parameters<Intl.DateTimeFormat["formatToParts"]>[0],
+  format: Intl.DateTimeFormat,
+): string {
+  const map = new Map(
+    format.formatToParts(date).map(({ type, value }) => [type, value]),
+  );
+  return `${map.get("year")}/${map.get("month")}/${map.get("day")} ${
+    map.get("hour")
+  }:${map.get("minute")}:${map.get("second")}`;
+}
 
 function getEvolutions(setId: string, cards: SetCardList["cards"]) {
   const evolutions: Record<string, { from?: string; to?: Set<string> }> = {};
@@ -43,13 +72,32 @@ function getEvolutions(setId: string, cards: SetCardList["cards"]) {
 }
 
 export function format() {
-  Deno.mkdirSync(exportPath, { recursive: true });
+  Deno.mkdirSync(exportCardsPath, { recursive: true });
+  Deno.mkdirSync(exportSetsPath, { recursive: true });
+  const sets: CardSet[] = [];
   for (
     const { name: setFileName } of Deno.readDirSync(setsPath)
   ) {
-    const { setId, cards } = JSON.parse(
-      Deno.readTextFileSync(`${setsPath}/${setFileName}`),
-    ) as SetCardList;
+    const { setId, cards, set: setName, printedTotal, releaseDate } = JSON
+      .parse(
+        Deno.readTextFileSync(`${setsPath}/${setFileName}`),
+      ) as SetCardList;
+    const id = `tcgp` + setId.replace("PROMO", "P").toLowerCase();
+    const set: CardSet = {
+      id,
+      name: setName,
+      series: "TCG Pocket",
+      printedTotal: printedTotal || cards.length,
+      total: cards.length,
+      legalities: {},
+      ptcgoCode: setId,
+      releaseDate,
+      updatedAt: formatDate(new Date(), updatedAtFormat),
+      images: {
+        symbol: `https://images.pokemontcg.io/${id}/symbol.png`,
+        logo: `https://images.pokemontcg.io/${id}/logo.png`,
+      },
+    };
     const evolutions = getEvolutions(setId, cards);
     const importCards: Card[] = [];
     let i = 0;
@@ -60,7 +108,7 @@ export function format() {
       );
       const card: Partial<Card> = {};
       // id
-      card.id = `${setId}-${number}`;
+      card.id = `${id}-${number}`;
       // name
       card.name = name;
       // supertype
@@ -183,7 +231,7 @@ export function format() {
       } else {
         const cardVersions = [
           ...wikitext.matchAll(
-            /\{\{TCG Card Infobox\/Tabbed Image\/Pocket\|image=.+?(?<number>\d+).png\|illustrator=(?<illus>.*?)\|caption=(?<rarity>.*?)(?: \(|\}\})/g,
+            /\{\{TCG Card Infobox\/Tabbed Image\/Pocket\|image=.+?(?<number>\d+).png\|illustrator=(?<illus>.*?)\|tab caption=(?<rarity>.*?)(?: \(|\}\})/g,
           ),
         ];
         const version = cardVersions.find((match) =>
@@ -196,11 +244,17 @@ export function format() {
           else {
             const mappedRarity = rarityMap[rarity];
             if (mappedRarity) card.rarity = mappedRarity;
-            else console.warn(card.number, "Unknown rarity:", rarity);
+            else {
+              console.warn(
+                `%Rarity "${rarity}" for card ${setName} ${card.number} ${card.name} not found!`,
+                "color: yellow",
+              );
+            }
           }
         } else {
           console.warn(
-            `Version for card ${card.number} "${card.name}" not found!`,
+            `%cVersion for card ${setName} ${card.number} ${card.name} not found!`,
+            "color: yellow",
           );
         }
       }
@@ -212,15 +266,20 @@ export function format() {
       if (ndex) card.nationalPokedexNumbers = [parseInt(ndex)];
       // images
       card.images = {
-        small: `https://images.pokemontcg.io/${setId}/${number}.png`,
-        large: `https://images.pokemontcg.io/${setId}/${number}_hires.png`,
+        small: `https://images.pokemontcg.io/${id}/${number}.png`,
+        large: `https://images.pokemontcg.io/${id}/${number}_hires.png`,
       };
       importCards.push(card as Card);
     }
     Deno.writeTextFileSync(
-      `${exportPath}/${setId}.json`,
+      `${exportCardsPath}/${id}.json`,
       JSON.stringify(importCards, null, 2),
     );
+    sets.push(set);
   }
-  console.log("done");
+  Deno.writeTextFileSync(
+    exportSetsPath + "/en.json",
+    JSON.stringify(sets.sort((a, b) => a.id > b.id ? 1 : -1), null, 2),
+  );
+  console.log("\ndone");
 }
