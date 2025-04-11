@@ -1,3 +1,6 @@
 {
+  "tasks": {
+    "bulbapedia": "deno run --allow-read=./import.config.json --allow-net=bulbapedia.bulbagarden.net:443 --allow-write=./.cache --allow-read=./.cache --allow-write=./out main.ts bulbapedia"
+  },
   "version": "1.0.0"
 }

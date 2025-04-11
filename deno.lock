@@ -2,7 +2,6 @@
   "version": "4",
   "specifiers": {
     "jsr:@std/async@*": "1.0.12",
-    "jsr:@std/cli@*": "1.0.16",
     "jsr:@std/fs@*": "1.0.16",
     "jsr:@std/path@^1.0.8": "1.0.8",
     "npm:pokemon-tcg-sdk-typescript@*": "1.3.4"
@@ -10,9 +9,6 @@
   "jsr": {
     "@std/async@1.0.12": {
       "integrity": "d1bfcec459e8012846fe4e38dfc4241ab23240ecda3d8d6dfcf6d81a632e803d"
-    },
-    "@std/cli@1.0.16": {
-      "integrity": "02df293099c35b9e97d8ca05f57f54bd1ee08134f25d19a4756b3924695f4b00"
     },
     "@std/fs@1.0.16": {
       "integrity": "81878f62b6eeda0bf546197fc3daa5327c132fee1273f6113f940784a468b036",

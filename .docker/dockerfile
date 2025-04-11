@@ -1,0 +1,17 @@
+FROM denoland/deno:alpine-2.2.8
+
+USER deno
+
+WORKDIR /app
+
+COPY . .
+
+CMD [ \
+  "deno", \
+  "run", \
+  "--allow-read", \
+  "--allow-write", \
+  "--allow-net=bulbapedia.bulbagarden.net:443", \
+  "src/main.ts", \
+  "bulbapedia" \
+]
