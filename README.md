@@ -14,33 +14,13 @@ Tested with Bulbapedia for "Genetic Apex" until "Shining Revelry"
 ### prerequisites
 
 `Deno` from https://deno.com/
-OR
+<br/>OR<br/>
 Docker
 
-### 1. configure sets
-
-import.config.json:
-
-```json
-{
-  "sets": [
-    {
-      "id": "A1",
-      "name": "Genetic Apex",
-      "printedTotal": 226,
-      "releaseDate": "2024/10/30"
-    },
-    ...
-  ]
-}
-```
-
-First value is the set name, second is its abbreviation
-
-### 2. download cards
+### download cards
 
 `deno task bulbapedia`
-OR
+<br/>OR<br/>
 `.docker/build.sh && .docker/run.sh`
 
 ### output
@@ -50,5 +30,5 @@ OR
   - these files are ready to be copied to `PokemonTCG/pokemon-tcg-data` directly
 - `out/sets/en.json`
   - an array containing set metadata
-  - the entries can be copied into the equally named file in `PokemonTCG/pokemon-tcg-data`
-
+  - the file is ready to be copied into the equally named file in
+    `PokemonTCG/pokemon-tcg-data`

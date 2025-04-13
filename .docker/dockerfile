@@ -11,7 +11,7 @@ CMD [ \
   "run", \
   "--allow-read", \
   "--allow-write", \
-  "--allow-net=bulbapedia.bulbagarden.net:443", \
+  "--allow-net=bulbapedia.bulbagarden.net:443,raw.githubusercontent.com:443", \
   "src/main.ts", \
   "bulbapedia" \
 ]

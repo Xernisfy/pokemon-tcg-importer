@@ -1,285 +1,202 @@
 import {
-  exportCardsPath,
-  exportSetsPath,
-  matchFirstGroup,
-  reportProgress,
-} from "../../tools.ts";
+  cardImages,
+  cardsExportPath,
+  formatReleaseDate,
+  formatUpdatedAtDate,
+  RULE_EX,
+  RULE_ITEM,
+  RULE_SUPPORTER,
+  setImages,
+  setsExportPath,
+  WEAKNESS,
+} from "../../lib.ts";
 import {
-  Ability,
-  Attack,
   Card,
   CardSet,
   Rarity,
-  SetCardList,
   Subtype,
   Supertype,
   Type,
 } from "../../types.ts";
-import { setsPath, wikiPath } from "./lib.ts";
+import { getCardMetadata, getSetMetadata } from "./lib.ts";
 
+/** used to store the possible evolution for all Pokémon
+ * every new Pokémon creates an entry for itself
+ * every Pokémon that has a previous evolution registers it and also registers itself as the next evolution for its previous evolutions
+ * this is of course redundant, but makes the bi-directional relationship easier to track
+ * Example:
+ * - Pikachu card => creates new entry for "pikachu"
+ * - Raichu card => creates new entry for "raichu" + "raichu" evolvesFrom "pikachu" + "pikachu" evolvesTo "raichu"
+ */
+const evolutions: Record<string, {
+  evolvesFrom?: string;
+  evolvesTo?: string[];
+}> = {};
+
+/** map Bulbapedia rarities to PokémonTCG rarities */
 const rarityMap: Record<string, Rarity> = {
   "Double Rare": Rarity.RareDouble,
   "Illustration Rare": Rarity.RareIllustration,
   "Super Rare": Rarity.RareSuper,
   "Special Illustration Rare": Rarity.RareSpecialIllustration,
   "Ultra Rare": Rarity.RareUltra,
-  "Shiny Rare": Rarity.ShinyRareDouble,
-  "Shiny Super Rare": Rarity.ShinyRareSuper,
+  "Shiny Rare": Rarity.RareShiny,
+  "Shiny Super Rare": Rarity.RareSuperShiny,
 };
+
+/** map Pokémon TCG Pocket rarities to PokémonTCG rarities */
 const rarityMarkMap: Record<string, Rarity> = {
-  "Diamond": Rarity.Common,
-  "Star": Rarity.RareIllustration,
+  Diamond1: Rarity.Common,
+  Diamond2: Rarity.Uncommon,
+  Diamond3: Rarity.Rare,
 };
-const updatedAtFormat = new Intl.DateTimeFormat([], {
-  year: "numeric",
-  month: "2-digit",
-  day: "2-digit",
-  hour: "2-digit",
-  minute: "2-digit",
-  second: "2-digit",
-  hour12: false,
-  timeZone: "UTC",
-});
-function formatDate(
-  date: Parameters<Intl.DateTimeFormat["formatToParts"]>[0],
-  format: Intl.DateTimeFormat,
-): string {
-  const map = new Map(
-    format.formatToParts(date).map(({ type, value }) => [type, value]),
-  );
-  return `${map.get("year")}/${map.get("month")}/${map.get("day")} ${
-    map.get("hour")
-  }:${map.get("minute")}:${map.get("second")}`;
-}
 
-function getEvolutions(setId: string, cards: SetCardList["cards"]) {
-  const evolutions: Record<string, { from?: string; to?: Set<string> }> = {};
-  for (const { number } of cards) {
-    const wikitext = Deno.readTextFileSync(
-      `${wikiPath}/${setId}/${number}.txt`,
-    );
-    const species = matchFirstGroup(wikitext, /\|species=(.*)/);
-    const prevoName = matchFirstGroup(wikitext, /\|prevo name=(.*)/);
-    if (species && !evolutions[species]) evolutions[species] = {};
-    if (prevoName && !evolutions[prevoName]) evolutions[prevoName] = {};
-    if (species && prevoName) {
-      evolutions[species].from = prevoName;
-      if (!evolutions[prevoName].to) evolutions[prevoName].to = new Set();
-      evolutions[prevoName].to.add(species);
+/** map Bulbapedia wikitext to PokémonTCG format */
+export function formatCard(
+  set: ReturnType<typeof getSetMetadata>,
+  cardName: string,
+  cardNumber: string,
+  card: ReturnType<typeof getCardMetadata>,
+): Card {
+  const subtypes: Subtype[] = [];
+  const rules: string[] = [];
+  if (card.supertype === Supertype.Pokemon) {
+    subtypes.push(card.evoStage as Subtype || Subtype.Basic);
+    if (card.ex) {
+      subtypes.push(Subtype.EX);
+      rules.push(RULE_EX);
     }
-  }
-  return evolutions;
-}
-
-export function format() {
-  Deno.mkdirSync(exportCardsPath, { recursive: true });
-  Deno.mkdirSync(exportSetsPath, { recursive: true });
-  const sets: CardSet[] = [];
-  for (
-    const { name: setFileName } of Deno.readDirSync(setsPath)
-  ) {
-    const { setId, cards, set: setName, printedTotal, releaseDate } = JSON
-      .parse(
-        Deno.readTextFileSync(`${setsPath}/${setFileName}`),
-      ) as SetCardList;
-    const id = `tcgp` + setId.replace("PROMO", "P").toLowerCase();
-    const set: CardSet = {
-      id,
-      name: setName,
-      series: "TCG Pocket",
-      printedTotal: printedTotal || cards.length,
-      total: cards.length,
-      legalities: {},
-      ptcgoCode: setId,
-      releaseDate,
-      updatedAt: formatDate(new Date(), updatedAtFormat),
-      images: {
-        symbol: `https://images.pokemontcg.io/${id}/symbol.png`,
-        logo: `https://images.pokemontcg.io/${id}/logo.png`,
-      },
-    };
-    const evolutions = getEvolutions(setId, cards);
-    const importCards: Card[] = [];
-    let i = 0;
-    for (const { name, number } of cards) {
-      reportProgress("exporting card", ++i, cards.length);
-      const wikitext = Deno.readTextFileSync(
-        `${wikiPath}/${setId}/${number}.txt`,
+    if (!evolutions[card.species]) evolutions[card.species] = {};
+    if (card.prevoName) {
+      if (!evolutions[card.prevoName]) evolutions[card.prevoName] = {};
+      evolutions[card.species].evolvesFrom = card.prevoName;
+      if (!evolutions[card.prevoName].evolvesTo) {
+        evolutions[card.prevoName].evolvesTo = [];
+      }
+      if (!evolutions[card.prevoName].evolvesTo!.includes(card.species)) {
+        evolutions[card.prevoName].evolvesTo!.push(card.species);
+      }
+    }
+  } else {
+    if (card.subtype) subtypes.push(card.subtype);
+    if (card.effect) {
+      rules.push(
+        card.effect
+          .replace(/\{\{.+?\|(.+?)\}\}/g, "$1")
+          .replaceAll("<br>", " "),
       );
-      const card: Partial<Card> = {};
-      // id
-      card.id = `${id}-${number}`;
-      // name
-      card.name = name;
-      // supertype
-      card.supertype = matchFirstGroup(
-        wikitext,
-        /\{\{TCG Card Infobox\/(.*?)\/Pocket/,
-      ) as Supertype;
-      // subtypes
-      if (card.supertype === "Trainer") {
-        card.subtypes = [
-          matchFirstGroup(wikitext, /\|subtype=(.*)/) as Subtype,
-        ];
-      } else {
-        card.subtypes = [
-          matchFirstGroup(wikitext, /\|evo stage=(.*)/) as Subtype,
-        ];
-        if (wikitext.match(/Cardtext\/Pocket ex/)) {
-          card.subtypes.push(Subtype.EX);
-        }
-      }
-      // hp
-      const hp = matchFirstGroup(wikitext, /\|hp=(.*)/);
-      if (hp) card.hp = hp;
-      // types
-      const type = matchFirstGroup(wikitext, /\|type=(.*)/);
-      if (type) card.types = [type as Type];
-      // evolvesFrom + evolvesTo
-      const species = matchFirstGroup(wikitext, /\|species=(.*)/);
-      if (species) {
-        const { from, to } = evolutions[species];
-        if (from) card.evolvesFrom = from;
-        if (to) card.evolvesTo = [...to.values()];
-      }
-      // rules
-      const rules = [];
-      if (card.supertype === Supertype.Trainer) {
-        const effect = matchFirstGroup(wikitext, /\|effect=(.*)/);
-        if (effect) {
-          rules.push(
-            effect.replaceAll(
-              /\{\{.*?\|(.*?)}\}/g,
-              (_substring, value) => value,
-            ).replaceAll("<br>", " "),
-          );
-        }
-      }
-      if (card.subtypes.includes(Subtype.EX)) {
-        rules.push(
-          "ex rule: When your Pokémon ex is Knocked Out, your opponent gets 2 points.",
-        );
-      }
-      if (card.subtypes.includes(Subtype.Item)) {
-        rules.push(
-          "You may play any number of Item cards during your turn.",
-        );
-      }
-      if (card.subtypes.includes(Subtype.Supporter)) {
-        rules.push(
-          "You may play only 1 Supporter card during your turn.",
-        );
-      }
-      if (rules.length) card.rules = rules;
-      // abilities
-      const abilities: Ability[] = [
-        ...wikitext.matchAll(
-          /\{\{Cardtext\/Ability\/Pocket(?<ability>[\s\S]*?)^\}\}/mg,
-        ),
-      ].map<Ability>((match) => {
-        const abilityWikitext = match.groups?.ability!;
-        const name = matchFirstGroup(abilityWikitext, /\|name=(.*)/)!;
-        const type = matchFirstGroup(abilityWikitext, /\|type=(.*)/)!;
-        const text =
-          matchFirstGroup(abilityWikitext, /\|effect=(.*)/)?.replaceAll(
-            /\{\{.*?\|(.*?)}\}/g,
-            (_substring, value) => value,
-          ) || "";
-        return { name, text, type };
-      });
-      if (abilities.length) card.abilities = abilities;
-      // attacks
-      const attacks: Attack[] = [
-        ...wikitext.matchAll(
-          /\{\{Cardtext\/Attack\/Pocket(?<attack>[\s\S]*?)^\}\}/mg,
-        ),
-      ].map<Attack>((match) => {
-        const attackWikitext = match.groups?.attack!;
-        const name = matchFirstGroup(attackWikitext, /\|name=(.*)/)!;
-        const costString = matchFirstGroup(attackWikitext, /\|cost=(.*)/)!;
-        const cost = [...costString.matchAll(/\{\{.*?\|(?<type>.*?)}\}/g)]
-          .map((m) => m.groups?.type!);
-        const damage = matchFirstGroup(attackWikitext, /\|damage=(.*)/) || "";
-        const text =
-          matchFirstGroup(attackWikitext, /\|effect=(.*)/)?.replaceAll(
-            /\{\{.*?\|(.*?)}\}/g,
-            (_substring, value) => value,
-          ) || "";
-        return { name, cost, convertedEnergyCost: cost.length, damage, text };
-      });
-      if (attacks.length) card.attacks = attacks;
-      // weaknesses
-      const weakness = matchFirstGroup(wikitext, /\|weakness=(.*)/);
-      if (weakness) card.weaknesses = [{ type: weakness, value: "+20" }];
-      // retreatCost + convertedRetreatCost
-      const retreatCost = matchFirstGroup(wikitext, /\|retreat cost=(.*)/);
-      if (retreatCost) {
-        card.convertedRetreatCost = parseInt(retreatCost);
-        card.retreatCost = new Array(card.convertedRetreatCost).fill(
-          Type.Colorless,
-        );
-      }
-      // number
-      card.number = number;
-      // artist + rarity
-      if (wikitext.match(/\|illustrator=/g)?.length === 1) {
-        const illus = matchFirstGroup(wikitext, /\|illustrator=(.*)/);
-        if (illus) card.artist = illus;
-        // assume rarity based on rarity mark because it is not explicitly stated
-        const rarity = matchFirstGroup(wikitext, /\|rarity=(.*?)\|/);
-        if (rarity) card.rarity = rarityMarkMap[rarity];
-      } else {
-        const cardVersions = [
-          ...wikitext.matchAll(
-            /\{\{TCG Card Infobox\/Tabbed Image\/Pocket\|image=.+?(?<number>\d+).png\|illustrator=(?<illus>.*?)\|tab caption=(?<rarity>.*?)(?: \(|\}\})/g,
-          ),
-        ];
-        const version = cardVersions.find((match) =>
-          match.groups?.number === card.number
-        );
-        if (version) {
-          const { illus, rarity } = version.groups!;
-          card.artist = illus;
-          if (rarity in Rarity) card.rarity = rarity as Rarity;
-          else {
-            const mappedRarity = rarityMap[rarity];
-            if (mappedRarity) card.rarity = mappedRarity;
-            else {
-              console.warn(
-                `%Rarity "${rarity}" for card ${setName} ${card.number} ${card.name} not found!`,
-                "color: yellow",
-              );
-            }
-          }
-        } else {
-          console.warn(
-            `%cVersion for card ${setName} ${card.number} ${card.name} not found!`,
-            "color: yellow",
-          );
-        }
-      }
-      // flavorText
-      const dex = matchFirstGroup(wikitext, /\|dex=(.*)/);
-      if (dex) card.flavorText = dex;
-      // nationalPokedexNumbers
-      const ndex = matchFirstGroup(wikitext, /|ndex=(.*)/);
-      if (ndex) card.nationalPokedexNumbers = [parseInt(ndex)];
-      // images
-      card.images = {
-        small: `https://images.pokemontcg.io/${id}/${number}.png`,
-        large: `https://images.pokemontcg.io/${id}/${number}_hires.png`,
-      };
-      importCards.push(card as Card);
     }
-    Deno.writeTextFileSync(
-      `${exportCardsPath}/${id}.json`,
-      JSON.stringify(importCards, null, 2),
-    );
-    sets.push(set);
+    if (card.subtype === Subtype.Item) rules.push(RULE_ITEM);
+    if (card.subtype === Subtype.Supporter) rules.push(RULE_SUPPORTER);
   }
-  Deno.writeTextFileSync(
-    exportSetsPath + "/en.json",
-    JSON.stringify(sets.sort((a, b) => a.id > b.id ? 1 : -1), null, 2),
+  return {
+    id: set.idLong + "-" + cardNumber,
+    name: cardName,
+    supertype: card.supertype,
+    subtypes,
+    hp: card.hp,
+    types: card.supertype === Supertype.Pokemon
+      ? [card.type as Type]
+      : undefined,
+    get evolvesFrom() {
+      if (card.supertype !== Supertype.Pokemon) return;
+      return evolutions[card.species].evolvesFrom;
+    },
+    get evolvesTo() {
+      if (card.supertype !== Supertype.Pokemon || card.ex) return;
+      return evolutions[card.species].evolvesTo;
+    },
+    rules: rules.length ? rules : undefined,
+    ...(card.supertype === "Pokémon"
+      ? {
+        abilities: card.abilities.length
+          ? card.abilities.map((ability) => ({
+            name: ability.name,
+            text: ability.effect.replace(/\{\{.+?\|(.+?)\}\}/g, "$1"),
+            type: ability.type,
+          }))
+          : undefined,
+        attacks: card.attacks.length
+          ? card.attacks.map((attack) => ({
+            name: attack.name,
+            ...(((cost) =>
+              cost
+                ? { cost, convertedEnergyCost: cost?.length }
+                : { cost: [], convertedEnergyCost: 0 })(
+                attack.cost && attack.cost?.match(/[A-Z]\w+/g),
+              )),
+            damage: attack.damage ?? "",
+            text: attack.effect?.replace(/\{\{.+?\|(.+?)\}\}/g, "$1") ?? "",
+          }))
+          : undefined,
+        weaknesses: card.weakness
+          ? [{ type: card.weakness, value: WEAKNESS }]
+          : undefined,
+        ...(card.retreatCost
+          ? ((r) => ({
+            convertedRetreatCost: r,
+            retreatCost: new Array(r).fill(Type.Colorless),
+          }))(parseInt(card.retreatCost))
+          : {}),
+      }
+      : {}),
+    number: cardNumber,
+    ...(((v) =>
+      v
+        ? {
+          artist: v.illustrator,
+          rarity: rarityMap[v.tabCaption] || v.tabCaption,
+        }
+        : {
+          artist: card.illustrator,
+          rarity: (card.rarity)
+            ? (rarityMarkMap[card.rarity + card.rarityCount] ||
+              card.rarity + card.rarityCount)
+            : Rarity.Promo,
+        })(card.versions.find((v) => v.cardNumber === cardNumber))),
+    flavorText: card.supertype === Supertype.Pokemon ? card.dex : undefined,
+    regulationMark: set.regulationMark,
+    images: cardImages(set.idLong, cardNumber),
+  };
+}
+
+/** map Bulbapedia wikitext to PokémonTCG format */
+export function formatSet(
+  set: ReturnType<typeof getSetMetadata>,
+  total: number,
+): CardSet {
+  return {
+    id: set.idLong,
+    name: set.name,
+    series: "TCG Pocket",
+    printedTotal: set.printedTotal ? parseInt(set.printedTotal) : total,
+    total,
+    legalities: {},
+    ptcgoCode: set.ptcgoCode,
+    releaseDate: formatReleaseDate(new Date(set.releaseDate + " UTC")),
+    updatedAt: formatUpdatedAtDate(new Date()),
+    images: setImages(set.idLong),
+  };
+}
+
+/** generate output files */
+export async function exportSets(sets: [CardSet, Card[]][]) {
+  const setFile: CardSet[] = await (await fetch(
+    "https://raw.githubusercontent.com/PokemonTCG/pokemon-tcg-data/refs/heads/master/sets/en.json",
+  )).json();
+  setFile.forEach((set, i) =>
+    set.series === "TCG Pocket" && setFile.splice(i, 1)
   );
-  console.log("\ndone");
+  for (const [set, cards] of sets) {
+    setFile.push(set);
+    Deno.writeTextFileSync(
+      cardsExportPath + "/" + set.id + ".json",
+      JSON.stringify(cards, null, 2),
+    );
+  }
+  setFile.sort((a, b) => a.releaseDate < b.releaseDate ? -1 : 1);
+  Deno.writeTextFileSync(
+    setsExportPath + "/en.json",
+    JSON.stringify(setFile, null, 2),
+  );
 }
