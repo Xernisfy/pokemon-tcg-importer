@@ -187,14 +187,16 @@ export async function exportSets(sets: [CardSet, Card[]][]) {
   setFile.forEach((set, i) =>
     set.series === "TCG Pocket" && setFile.splice(i, 1)
   );
+  sets.sort((a, b) => a[0].releaseDate < b[0].releaseDate ? -1 : 1);
   for (const [set, cards] of sets) {
-    setFile.push(set);
+    const olderSet = setFile.findIndex((v) => v.releaseDate > set.releaseDate);
+    if (olderSet > -1) setFile.splice(olderSet, 0, set);
+    else setFile.push(set);
     Deno.writeTextFileSync(
       cardsExportPath + "/" + set.id + ".json",
       JSON.stringify(cards, null, 2),
     );
   }
-  setFile.sort((a, b) => a.releaseDate < b.releaseDate ? -1 : 1);
   Deno.writeTextFileSync(
     setsExportPath + "/en.json",
     JSON.stringify(setFile, null, 2),
