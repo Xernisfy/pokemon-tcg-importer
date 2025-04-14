@@ -1,4 +1,4 @@
 docker build \
-  -t pokemon-tcg-importer \
+  -t ghcr.io/xernisfy/pokemon-tcg-importer:latest \
   -f .docker/dockerfile \
   .

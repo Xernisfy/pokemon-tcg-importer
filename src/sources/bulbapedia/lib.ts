@@ -19,7 +19,7 @@ export function getSetMetadata(wikitext: string) {
   }
   const metadata = match.groups;
   metadata.idLong = "tcgp" + metadata.id.toLowerCase();
-  metadata.regulationMark = metadata.id.replace(/^P/, "PROMO-");
+  metadata.regulationMark = metadata.id.match(/([A-Z])[\da-z]*$/)?.[1]!;
   metadata.ptcgoCode = metadata.id.replace(/^P/, "PR-");
   return metadata as {
     name: string;
