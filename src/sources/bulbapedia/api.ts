@@ -2,6 +2,12 @@ import { retry } from "jsr:@std/async";
 import { existsSync } from "jsr:@std/fs";
 import { cardsCachePath, setsCachePath } from "../../lib.ts";
 
+class ApiError extends Error {
+  constructor(public url: URL, public response: string) {
+    super();
+  }
+}
+
 const bulbapediaApiUrl = "https://bulbapedia.bulbagarden.net/w/api.php";
 
 /** get wikitext for a page from MediaWiki API */
@@ -14,9 +20,14 @@ async function fetchWikitext(page: string) {
   url.searchParams.append("redirects", "1");
   url.searchParams.append("formatversion", "2");
   const response = await retry(async () => await (await fetch(url)).json()) as {
-    parse: { wikitext: string };
+    parse?: { wikitext: string };
+    error?: { code: string; info: string };
   };
-  return response.parse.wikitext;
+  if (response && response.parse && response.parse.wikitext) {
+    return response.parse.wikitext;
+  } else {
+    return new ApiError(url, JSON.stringify(response));
+  }
 }
 
 /** get all pages in the category "Pokémon_Trading_Card_Game_Pocket_expansions" */
@@ -45,6 +56,7 @@ export async function* loadSets(): AsyncGenerator<string> {
     } else {
       console.log(log, "color: green");
       const wikitext = await fetchWikitext(page);
+      if (wikitext instanceof Error) continue;
       Deno.writeTextFileSync(path, wikitext);
       yield wikitext;
     }
@@ -94,6 +106,15 @@ export async function* loadCards(
     } else {
       console.log(log, "color: green");
       const wikitext = await fetchWikitext(page);
+      if (wikitext instanceof ApiError) {
+        console.error(
+          `| %cERROR on page "${page}"
+  URL: ${wikitext.url}
+  Response: ${wikitext.response}`,
+          "color: red",
+        );
+        continue;
+      }
       Deno.writeTextFileSync(path, wikitext);
       yield [cardName, cardNumber, wikitext];
     }
