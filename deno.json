@@ -1,4 +1,10 @@
 {
+  "imports": {
+    "@std/async": "jsr:@std/async",
+    "@std/cli": "jsr:@std/cli",
+    "@std/fs": "jsr:@std/fs",
+    "tcg-sdk": "npm:pokemon-tcg-sdk-typescript"
+  },
   "tasks": {
     "bulbapedia": "deno run --allow-net=bulbapedia.bulbagarden.net:443,raw.githubusercontent.com:443 --allow-write=.cache,out --allow-read=.cache,out src/main.ts bulbapedia"
   },

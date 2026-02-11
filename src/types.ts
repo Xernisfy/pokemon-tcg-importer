@@ -1,4 +1,4 @@
-import type { PokemonTCG } from "npm:pokemon-tcg-sdk-typescript";
+import type { PokemonTCG } from "tcg-sdk";
 
 // re-export
 export type CardSet = PokemonTCG.Set;

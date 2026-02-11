@@ -61,7 +61,7 @@ const cardMetadataRegex = new RegExp(
 
 /** regex for cards with multiple versions/rarities */
 const cardVersionRegex =
-  /\{\{TCG Card Infobox\/Tabbed Image\/Pocket\|image=.+?(?<cardNumber>\d+)\.png\|illustrator=(?<illustrator>.+)\|tab caption=(?<tabCaption>[\s\w]+\w).*?\}\}/g;
+  /\{\{TCG Card Infobox\/Tabbed Image\/Pocket\|+image=.+?(?<cardNumber>\d+)\.png\|illustrator=(?<illustrator>.+)\|tab caption=(?<tabCaption>[\s\w]+\w).*?\}\}/g;
 
 /** regex for abilities */
 const cardAbilityRegex = new RegExp(
@@ -90,6 +90,7 @@ const cardAttackRegex = new RegExp(
 
 /** get metadata from card wikitext */
 export function getCardMetadata(wikitext: string) {
+  wikitext = wikitext.replaceAll("| ", "|").replaceAll(" = ", "=");
   const match = wikitext.match(cardMetadataRegex);
   if (!match || !match.groups) {
     throw new Error("error while parsing card metadata");

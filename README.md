@@ -7,21 +7,19 @@ For use with
 
 # Notes
 
-Tested with Bulbapedia for "Genetic Apex" until "Shining Revelry"
+Tested with Bulbapedia for "Genetic Apex" until "Fantastical Parade"
 
 # Usage
 
 ### prerequisites
 
-`Deno` from https://deno.com/
-<br/>OR<br/>
-Docker
+Deno (from https://deno.com/)
+<br/>OR<br/> Docker
 
 ### download cards
 
 `deno task bulbapedia`
-<br/>OR<br/>
-`.docker/build.sh && .docker/run.sh`
+<br/>OR<br/> `.docker/build.sh && .docker/run.sh`
 
 ### output
 

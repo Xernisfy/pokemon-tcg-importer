@@ -1,6 +1,7 @@
-import { retry } from "jsr:@std/async";
-import { existsSync } from "jsr:@std/fs";
+import { retry } from "@std/async";
+import { existsSync } from "@std/fs";
 import { cardsCachePath, setsCachePath } from "../../lib.ts";
+import { useCache } from "../../main.ts";
 
 class ApiError extends Error {
   constructor(public url: URL, public response: string) {
@@ -36,28 +37,38 @@ export async function* loadSets(): AsyncGenerator<string> {
   url.searchParams.append("action", "query");
   url.searchParams.append("format", "json");
   url.searchParams.append("generator", "categorymembers");
-  url.searchParams.append(
-    "gcmtitle",
-    "Category:Pokémon_Trading_Card_Game_Pocket_expansions",
-  );
+  url.searchParams.append("gcmtitle", "Category:Pokémon_TCG_Pocket_expansions");
   url.searchParams.append("gcmprop", "title");
   url.searchParams.append("gcmnamespace", "0");
   url.searchParams.append("formatversion", "2");
-  const response = await retry(async () => await (await fetch(url)).json()) as {
-    query: { pages: { title: string }[] };
-  };
-  for (const { title: page } of response.query.pages) {
+  const pages: { title: string }[] = [];
+  while (true) {
+    const response = await retry(async () =>
+      await (await fetch(url)).json()
+    ) as {
+      continue?: {
+        gcmcontinue: string;
+        continue: string;
+      };
+      query?: { pages: { title: string }[] };
+    };
+    if (response.query) pages.push(...response.query.pages);
+    if (!response.continue) break;
+    url.searchParams.set("gcmcontinue", response.continue.gcmcontinue);
+    url.searchParams.set("continue", response.continue.continue);
+  }
+  for (const { title: page } of pages) {
     if (!page.endsWith(" (TCG Pocket)")) continue;
     const path = `${setsCachePath}/${page}.wikitext`;
-    const log = `%cSet "${page}":`;
-    if (existsSync(path)) {
+    const log = `%cSet ${page}:`;
+    if (useCache && existsSync(path)) {
       console.log(log, "color: yellow");
       yield Deno.readTextFileSync(path);
     } else {
       console.log(log, "color: green");
       const wikitext = await fetchWikitext(page);
       if (wikitext instanceof Error) continue;
-      Deno.writeTextFileSync(path, wikitext);
+      if (useCache) Deno.writeTextFileSync(path, wikitext);
       yield wikitext;
     }
   }
@@ -81,11 +92,12 @@ export async function* loadSetsOffline(): AsyncGenerator<string> {
   } as const;
   for (const { title: page } of response.query.pages) {
     const path = `${setsCachePath}/${page}.wikitext`;
-    const log = `%cSet "${page}":`;
+    const log = `%cSet ${page}:`;
     console.log(log, "color: red");
     yield Deno.readTextFileSync(path);
   }
 }
+
 /** regex to find all cards in a set */
 const setCardsRegex =
   /\|\| {{TCG ID\|(?:.*?)\|(?<cardName>.*?)\|(?<cardNumber>.*?)(?:\|.*?)?}}/gi;
@@ -99,8 +111,8 @@ export async function* loadCards(
     const { cardName, cardNumber } = match.groups!;
     const page = `${cardName} (${setName} ${cardNumber})`;
     const path = `${cardsCachePath}/${page}.wikitext`;
-    const log = `| %cCard "${page}"`;
-    if (existsSync(path)) {
+    const log = `| %cCard ${cardNumber}: ${cardName}`;
+    if (useCache && existsSync(path)) {
       console.log(log, "color: yellow");
       yield [cardName, cardNumber, Deno.readTextFileSync(path)];
     } else {
@@ -115,7 +127,7 @@ export async function* loadCards(
         );
         continue;
       }
-      Deno.writeTextFileSync(path, wikitext);
+      if (useCache) Deno.writeTextFileSync(path, wikitext);
       yield [cardName, cardNumber, wikitext];
     }
   }

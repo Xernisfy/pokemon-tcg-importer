@@ -6,4 +6,5 @@ docker run -it --rm \
   -v ./out/:/app/out/ \
   ghcr.io/xernisfy/pokemon-tcg-importer:latest
 
+sudo chown -R $(id -u):$(id -g) ./.cache
 sudo chown -R $(id -u):$(id -g) ./out

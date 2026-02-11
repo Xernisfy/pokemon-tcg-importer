@@ -51,6 +51,12 @@ const rarityMarkMap: Record<string, Rarity> = {
   Diamond3: Rarity.Rare,
 };
 
+const evoForms = [
+  "Alolan",
+  "Galarian",
+  "Paldean",
+] as const;
+
 /** map Bulbapedia wikitext to PokémonTCG format */
 export function formatCard(
   set: ReturnType<typeof getSetMetadata>,
@@ -60,21 +66,29 @@ export function formatCard(
 ): Card {
   const subtypes: Subtype[] = [];
   const rules: string[] = [];
+  let species: string | undefined;
   if (card.supertype === Supertype.Pokemon) {
     subtypes.push(card.evoStage as Subtype || Subtype.Basic);
     if (card.ex) {
       subtypes.push(Subtype.EX);
       rules.push(RULE_EX);
     }
-    if (!evolutions[card.species]) evolutions[card.species] = {};
+    for (const evoForm of evoForms) {
+      if (cardName.includes(evoForm)) {
+        species = evoForm + " " + card.species;
+        break;
+      }
+    }
+    if (species === undefined) species = card.species;
+    if (!evolutions[species]) evolutions[species] = {};
     if (card.prevoName) {
       if (!evolutions[card.prevoName]) evolutions[card.prevoName] = {};
-      evolutions[card.species].evolvesFrom = card.prevoName;
+      evolutions[species].evolvesFrom = card.prevoName;
       if (!evolutions[card.prevoName].evolvesTo) {
         evolutions[card.prevoName].evolvesTo = [];
       }
-      if (!evolutions[card.prevoName].evolvesTo!.includes(card.species)) {
-        evolutions[card.prevoName].evolvesTo!.push(card.species);
+      if (!evolutions[card.prevoName].evolvesTo!.includes(species)) {
+        evolutions[card.prevoName].evolvesTo!.push(species);
       }
     }
   } else {
@@ -99,12 +113,10 @@ export function formatCard(
       ? [card.type as Type]
       : undefined,
     get evolvesFrom() {
-      if (card.supertype !== Supertype.Pokemon) return;
-      return evolutions[card.species].evolvesFrom;
+      if (species) return evolutions[species].evolvesFrom;
     },
     get evolvesTo() {
-      if (card.supertype !== Supertype.Pokemon || card.ex) return;
-      return evolutions[card.species].evolvesTo;
+      if (species) return evolutions[species].evolvesTo;
     },
     rules: rules.length ? rules : undefined,
     ...(card.supertype === "Pokémon"
@@ -145,7 +157,12 @@ export function formatCard(
       v
         ? {
           artist: v.illustrator,
-          rarity: rarityMap[v.tabCaption] || v.tabCaption,
+          rarity: v.tabCaption === "Standard"
+            ? ((card.rarity)
+              ? (rarityMarkMap[card.rarity + card.rarityCount] ||
+                card.rarity + card.rarityCount)
+              : Rarity.Promo)
+            : (rarityMap[v.tabCaption] || v.tabCaption),
         }
         : {
           artist: card.illustrator,
