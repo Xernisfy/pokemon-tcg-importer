@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tatsugiri
+|ja name=シャリタツ
+|trans name=Syaritatsu
+|species=Tatsugiri
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TatsugiriShiningRevelry21.png|illustrator=Tomowaka|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TatsugiriShiningRevelry75.png|illustrator=cochi8i|tab caption=Illustration Rare}}
+|hp=70
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=021/072}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Star|rarity count=1|number=075/072}}
+}}
+
+'''Tatsugiri''' (Japanese: '''シャリタツ''' ''Syaritatsu'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Retreat Directive
+|jname=てったいしじ
+|jtrans=Retreat Instruction
+|effect=Your Active {{TCGP|Dondozo}} has no {{TCG|Retreat Cost}}.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Rain Splash
+|jname=みずかけ
+|jtrans=Water Splash
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Tatsugiri
+|category=Mimicry
+|ndex=0978
+|height=1'
+|jheight=0.3
+|weight=17.6
+|jweight=8.0
+|dex=This is a small dragon Pokémon. It lives inside the mouth of Dondozo to protect itself from enemies on the outside.
+|jdex=小型の ドラゴンポケモン。 ヘイラッシャの 口の中に 棲み 外敵から 身を 守っている。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=TatsugiriShiningRevelry21.png
+|caption1=Uncommon card<br>Illus. [[Tomowaka]]
+|image2=TatsugiriShiningRevelry75.png
+|caption2=Illustration rare card<br>Illus. [[cochi8i]]
+}}
+
+==Trivia==
+[[File:DondozoShiningRevelry20 combined artwork.png|thumb|300px|Combined illustration]]
+This card's standard illustration forms a {{TCG|combined illustration}} with {{TCG ID|Shining Revelry|Dondozo|20}} from the same expansion.
+
+===Origin===
+*This card's standard illustration features {{p|Tatsugiri}} in its {{form|Tatsugiri|Curly Form}}. The illustration rare print also features its Droopy and Stretchy Forms, along with several {{p|Dondozo}}.
+*'''Rain Splash''' is an attack that first appeared on {{TCG ID|EX Deoxys|Lotad|63}} from the {{TCG|EX Deoxys}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Nigiragi (Glänzendes Festival 021)]]
+[[es:Tatsugiri (Festival Brillante TCG Pocket)]]
+[[fr:Nigirigon (Réjouissances Rayonnantes 021)]]
+[[it:Tatsugiri (Tripudio Splendente 21)]]
+[[ja:シャリタツ (ポケポケ A2b)]]
+[[zh:米立龍（A2b）]]

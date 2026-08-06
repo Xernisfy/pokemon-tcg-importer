@@ -1,0 +1,87 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Shaymin
+|ja name=シェイミ
+|trans name=Shaymin
+|species=Shaymin
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ShayminTriumphantLight69.png|illustrator=Mizue|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ShayminDeluxePackex298.png|illustrator=Mizue|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ShayminTriumphantLight81.png|illustrator=MINAMINAMI Take|tab caption=Illustration Rare}}
+|hp=70
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=069/075|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=081/075|pack=Any|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=297/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=298/353|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Shaymin''' (Japanese: '''シェイミ''' ''Shaymin'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Sky Support
+|jname=スカイサポート
+|jtrans=Sky Support
+|effect=As long as this Pokémon is on your Bench, your Active Basic Pokémon's {{TCG|Retreat Cost}} is 1 less.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Flap
+|jname=はばたく
+|jtrans=Flap
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Shaymin
+|species=Gratitude
+|ndex=0492
+|height=1'4"
+|jheight=0.4
+|weight=11.5
+|jweight=5.2
+|dex=It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.
+|jdex=大気の 毒素を 分解して 荒れた 大地を 一瞬のうちに 花畑にする 力を 持つ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=ShayminTriumphantLight69.png
+|caption1=Standard card<br>Illus. [[Mizue]]
+|image2=ShayminTriumphantLight81.png
+|caption2=Illustration rare card<br>Illus. [[MINAMINAMI Take]]
+|image3=ShayminDeluxePackex298.png
+|caption3=Parallel foil card<br>Illus. [[Mizue]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Shaymin}} in its {{form|Shaymin|Sky Forme}}.
+*This card's standard illustration was first featured on {{TCG ID|Shining Legends|Shaymin|7}} from the {{TCG|Shining Legends}} expansion.
+*{{DL|Skill (Shuffle)|Flap}} is a {{OBP|skill|Shuffle}} in [[Pokémon Shuffle]], though {{p|Shaymin}} cannot have it.
+**As an attack in the TCG, it first appeared on {{TCG ID|Majestic Dawn|Starly|75}} from {{TCG|Majestic Dawn}}.
+*This card's [[Pokédex]] entry comes from {{g|Shining Pearl}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Shaymin (Licht des Triumphs 069)]]
+[[es:Shaymin (Luz Triunfal TCG Pocket)]]
+[[fr:Shaymin (Lumière Triomphale 069)]]
+[[it:Shaymin (Luce Trionfale 69)]]
+[[ja:シェイミ (ポケポケ A2a)]]
+[[zh:謝米（A2a）]]

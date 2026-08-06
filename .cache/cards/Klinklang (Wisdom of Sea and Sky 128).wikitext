@@ -1,0 +1,63 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Klinklang
+|ja name=ギギギアル
+|trans name=Gigigiaru
+|species=Klinklang
+|type=Metal
+|image=KlinklangWisdomofSeaandSky128.png
+|illustrator=Akira Komayama
+|hp=150
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Klang
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=128/161|pack=Ho-Oh|rarity=Diamond|rarity count=3}}
+}}
+
+'''Klinklang''' (Japanese: '''ギギギアル''' ''Gigigiaru'') is a {{ct|Metal}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Colorless}}
+|name=Gear Spinner
+|jname=ギアスピナー
+|jtrans=Gear Spinner
+|damage=70
+|effect=During your next turn, this Pokémon's Gear Spinner attack does +70 damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Klinklang
+|category=Gear 
+|ndex=0601
+|height=2'
+|jheight=0.6
+|weight=178.6
+|jweight=81.0
+|dex=From its spikes, it launches powerful blasts of electricity. Its red core contains an enormous amount of energy.
+|jdex=棘の 先から 強い 電撃を 発射。 赤いコアに たくさんの エネルギーを 蓄えている。
+}}
+
+==Trivia==
+[[Akira Komayama]] illustrated {{TCG ID|Plasma Storm|Klink|88}}, {{TCG ID|Plasma Storm|Klang|89}}, and {{TCG ID|Emerging Powers|Klinklang|76}} cards for the [[Pokémon Trading Card Game]]; though the cards did not release together in the TCG, their illustrations were later included alongside each other in Pokémon Trading Card Game Pocket's {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Emerging Powers|Klinklang|76}} from the {{TCG|Emerging Powers}} expansion.
+*'''Gear Spinner''' is an attack that first appeared on {{TCG ID|Steam Siege|Klinklang|73}} from the {{TCG|Steam Siege}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Klikdiklak (Weisheit von Meer und Himmel 128)]]
+[[es:Klinklang (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Cliticlic (Sagesse entre Ciel et Mer 128)]]
+[[it:Klinklang (La Via del Cielo e del Mare 128)]]
+[[ja:ギギギアル (ポケポケ A4)]]
+[[zh:齿轮怪（A4）]]

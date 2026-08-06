@@ -1,0 +1,83 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Blastoise
+|ja name=カメックス
+|trans name=Kamex
+|species=Blastoise
+|type=Water
+|image=BlastoiseGeneticApex55.png
+|illustrator=Nurikabe
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BlastoiseGeneticApex55.png|illustrator=Nurikabe|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BlastoisePromo-A29.png|illustrator=danciao|tab caption=Promo}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BlastoiseCelestialGuardians217.png|illustrator=Nisota Niso|tab caption=Shiny Rare}}
+|hp=150
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Wartortle
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=055/226|pack=Pikachu|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=029/P-A|pack=Vol. 3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=217/155|pack=Lunala|rarity=Shiny|rarity count=1}}
+}}
+
+'''Blastoise''' (Japanese: '''カメックス''' ''Kamex'') is a {{ct|Water}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Hydro Pump
+|jname=ハイドロポンプ
+|jtrans=Hydro Pump
+|damage=80+
+|effect=If this Pokémon has at least 2 extra {{e|Water}} Energy attached, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Blastoise
+|species=Shellfish
+|ndex=0009
+|height=5'3"
+|jheight=1.6
+|weight=188.5
+|jweight=85.5
+|dex=It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.
+|jdex=体が　重たく　のしかかって 相手を　気絶させる｡ ピンチの　ときは　殻に　隠れる｡
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of five cards that could be pulled from Promo-A Vol. 3 packs; these were made available as part of the [[Blastoise Drop Event]], which ran from January 1 to 15, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=BlastoiseGeneticApex55.png
+|caption1=Rare card<br>Illus. [[Nurikabe]]
+|image2=BlastoisePromo-A29.png
+|caption2=Promo card<br>Illus. [[danciao]]
+|image3=BlastoiseCelestialGuardians217.png
+|caption3=Shiny rare card<br>Illus. [[Nisota Niso]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare print features a {{Shiny}} {{p|Blastoise}}.
+*{{m|Hydro Pump}} is a [[move]] in the [[Pokémon games]] that {{p|Blastoise}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Turtok (Unschlagbare Gene 055)]]
+[[es:Blastoise (Genes Formidables TCG Pocket)]]
+[[fr:Tortank (Puissance Génétique 055)]]
+[[it:Blastoise (Geni Supremi 55)]]
+[[ja:カメックス (ポケポケ A1)]]
+[[zh:水箭龟（A1）]]

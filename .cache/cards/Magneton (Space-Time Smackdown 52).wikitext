@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Magneton
+|ja name=レアコイル
+|trans name=Rarecoil
+|species=Magneton
+|type=Lightning
+|image=MagnetonSpace-TimeSmackdown52.png
+|illustrator=Yumi
+|hp=80
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Magnemite
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=052/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Magneton''' (Japanese: '''レアコイル''' ''Rarecoil'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Lightning Ball
+|jname=ピッカリだま
+|jtrans=Shining Ball
+|damage=50
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Magneton
+|species=Magnet
+|ndex=0082
+|height=3'3"
+|jheight=1
+|weight=132.3
+|jweight=60.0
+|dex=Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.
+|jdex=３つのコイルは　強い　磁力で 結びついている｡　そばに寄ると 強い　耳鳴りに　襲われる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Magneton|59}} from the {{TCG|Unified Minds}} expansion.
+**Both cards have the '''Lightning Ball''' attack, which first appeared on {{TCG ID|Aquapolis|Lanturn|20}} from the {{TCG|Aquapolis}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Magneton (Kollision von Raum und Zeit 052)]]
+[[es:Magneton (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Magnéton (Choc Spatio-Temporel 052)]]
+[[it:Magneton (Scontro Spaziotemporale 52)]]
+[[ja:レアコイル (ポケポケ A2)]]
+[[zh:三合一磁怪（A2）]]

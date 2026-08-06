@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Golem
+|ja name=ゴローニャ
+|trans name=Golonya
+|species=Golem
+|type=Fighting
+|image=GolemGeneticApex149.png
+|illustrator=Sumiyoshi Kizuki
+|hp=160
+|weakness=Grass
+|retreat cost=4
+|evo stage=Stage 2
+|prevo name=Graveler
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=149/226|pack=Pikachu|rarity=Diamond|rarity count=3}}
+}}
+
+'''Golem''' (Japanese: '''ゴローニャ''' ''Golonya'') is a {{ct|Fighting}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Double-Edge
+|jname=すてみタックル
+|jtrans=Life-Risking Tackle
+|damage=150
+|effect=This Pokémon also does 50 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Golem
+|species=Megaton
+|ndex=0076
+|height=4'7"
+|jheight=1.4
+|weight=661.4
+|jweight=300.0
+|dex=When Golem grow old, they stop shedding their shells. Those that have lived a long, long time have shells green with moss.
+|jdex=年老いると　脱皮　しなくなる｡ 長く長く　生きた　ゴローニャの カラは　苔むしていて　緑だ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Flashfire|Golem|47}} from the {{TCG|Flashfire}} expansion.
+*{{m|Double-Edge}} is a [[move]] in the [[Pokémon games]] that {{p|Golem}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Geowaz (Unschlagbare Gene 149)]]
+[[es:Golem (Genes Formidables TCG Pocket)]]
+[[fr:Grolem (Puissance Génétique 149)]]
+[[it:Golem (Geni Supremi 149)]]
+[[ja:ゴローニャ (ポケポケ A1)]]
+[[zh:隆隆岩（A1）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Looker
+|ja name=ハンサム
+|trans name=Handsome
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LookerExtradimensionalCrisis68.png|illustrator=Hideki Ishikawa|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LookerExtradimensionalCrisis82.png|illustrator=Hideki Ishikawa|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=068/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=082/069|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Looker''' (Japanese: '''ハンサム''' ''Handsome'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Your opponent reveals all of the {{TCGP|Supporter card}}s in their deck.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=LookerExtradimensionalCrisis68.png
+|caption1=Uncommon card<br>Illus. [[Hideki Ishikawa]]
+|image2=LookerExtradimensionalCrisis82.png
+|caption2=Super rare card<br>Illus. [[Hideki Ishikawa]]
+}}
+
+==Trivia==
+* {{TCG|Looker}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Looker]] is the codename of an [[International Police]] officer.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=ハンサム ''Handsome''
+|zh_yue=帥哥 ''Seuigō''
+|zh_cmn=帥哥<!-- / 帅哥--> ''Shuàigē''
+|fr=Beladonis
+|de=LeBelle
+|it=Bellocchio
+|ko=핸섬 ''Handsome''
+|pt_br=Looker
+|es=Handsome
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:LeBelle (TCG Pocket)]]
+[[es:Handsome (TCG Pocket)]]
+[[fr:Beladonis (Crise Interdimensionnelle 068)]]
+[[it:Bellocchio (Crisi Ultradimensionale 68)]]
+[[ja:ハンサム (ポケポケ)]]
+[[zh:帅哥（TCGP）]]

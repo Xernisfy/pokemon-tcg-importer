@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Steelix {{TCGP Icon|Mega ex}}
+|ja name=メガハガネール{{TCGP Icon|Mega ex}}
+|trans name=Mega Haganeil {{TCGP Icon|Mega ex}}
+|species=Steelix
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaSteelixexCrimsonBlaze52.png|illustrator=PLANETA Yamashita|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaSteelixexCrimsonBlaze80.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaSteelixexCrimsonBlaze86.png|illustrator=matazo|tab caption=Special Illustration Rare}}
+|hp=220
+|weakness=Fire
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Onix
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=052/069|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=080/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=086/069|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Mega Steelix ex''' (Japanese: '''メガハガネールex''' ''Mega Haganeil ex'') is a {{ct|Metal}} Stage 1 {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Mega Species/Pocket|Steelix}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Colorless}}{{e|Colorless}}
+|name=Adamantine Rolling
+|jname=アダマントローリング
+|jtrans=Adamant Rolling
+|damage=120
+|effect=During your opponent's next turn, this Pokémon takes –20 damage from attacks and has no Weakness.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Metal
+|ndex=0208
+|name=Steelix
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Steelix
+|category=Iron Snake
+|ndex=0208
+|height=34'5"
+|jheight=10.5
+|weight=1631.4
+|jweight=740
+|dex=To protect itself from opponents' attacks, it uses magnetism to control pieces of its hard outer shell that have flaked off.
+|jdex=はがれおちた 硬い 身体の 表面を 磁力で 操り 相手からの 攻撃を 防ぐ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=MegaSteelixexCrimsonBlaze52.png
+|caption1=Double rare card<br>Illus. [[PLANETA Yamashita]]
+|image2=MegaSteelixexCrimsonBlaze80.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=MegaSteelixexCrimsonBlaze86.png
+|caption3=Special illustration rare card<br>Illus. [[matazo]]
+}}
+
+==Trivia==
+===Origin===
+*This card features [[Mega]] {{p|Steelix}}.
+*This card's [[Pokédex]] entry comes from {{g|Legends: Z-A}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Stahlos-ex (Feuerrote Flammen 052)]]
+[[es:Mega-Steelix ex (Fuego Carmesí TCG Pocket)]]
+[[fr:Méga-Steelix-ex (Embrasement Écarlate 052)]]
+[[it:Mega Steelix-ex (Fiamme Cremisi 52)]]
+[[ja:メガハガネールex (ポケポケ B1a)]]
+[[zh:超级大钢蛇ex（B1a）]]

@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sprigatito
+|ja name=ニャオハ
+|trans name=Nyahoja
+|species=Sprigatito
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SprigatitoPaldeanWonders1.png|illustrator=Saya Tsuruta|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SprigatitoPaldeanWonders116.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=001/093|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=116/093|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Sprigatito''' (Japanese: '''ニャオハ''' ''Nyahoja'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Leafage
+|jname=このは
+|jtrans=Foliage
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Sprigatito
+|category=Grass Cat 
+|ndex=0906
+|height=1'4"
+|jheight=0.4
+|weight=9
+|jweight=4.1
+|dex=The sweet scent its body gives off mesmerizes those around it. The scent grows stronger when this Pokémon is in the sun.
+|jdex=体から 発する 甘い香りで まわりを 魅了する。 日光に 当たると 香りは さらに強まる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=SprigatitoPaldeanWonders1.png
+|caption1=Common card<br>Illus. [[Saya Tsuruta]]
+|image2=SprigatitoPaldeanWonders116.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Scarlet & Violet|Sprigatito|13}} from the {{TCG|Scarlet & Violet}} expansion.
+**Both cards have the {{m|Leafage}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Sprigatito}} can learn.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Sprigatito}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Felori (Wundervolles Paldea 001)]]
+[[es:Sprigatito (Encantos de Paldea TCG Pocket)]]
+[[fr:Poussacha (Merveilles de Paldea 001)]]
+[[it:Sprigatito (Meraviglie di Paldea 1)]]
+[[ja:ニャオハ (ポケポケ B2a)]]
+[[zh:新叶喵（B2a）]]

@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Zoroark
+|ja name=ゾロアーク
+|trans name=Zoroark
+|species=Zoroark
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ZoroarkMegaShine44.png|illustrator=Misa Tsutsui|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ZoroarkMegaShine103.png|illustrator=Krgc|tab caption=Shiny Rare}}
+|hp=100
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Zorua
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=044/069|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=103/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Zoroark''' (Japanese: '''ゾロアーク''' ''Zoroark'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Energy Crush
+|jname=エナジークラッシュ
+|jtrans=Energy Crush
+|damage=20×
+|effect=This attack does 20 damage for each Energy attached to all of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Zoroark
+|category=Illusion Fox
+|ndex=0571
+|height=5'3"
+|jheight=1.6
+|weight=178.8
+|jweight=81.1
+|dex=Each has the ability to fool a large group of people simultaneously. They protect their lair with illusory scenery.
+|jdex=いっぺんに 大勢の 人を 化かす 力を 持つ。 幻の 景色を 見せて 棲み処を 守る。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=ZoroarkMegaShine44.png
+|caption1=Rare card<br>Illus. [[Misa Tsutsui]]
+|image2=ZoroarkMegaShine103.png
+|caption2=Shiny rare card<br>Illus. [[Krgc]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|SM Promo|Zoroark|89}}, one of the {{TCG|SM Black Star Promos}}.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Zoroark}}.
+*'''Energy Crush''' is an attack that first appeared on {{TCG ID|EX Sandstorm|Espeon|16}} from the {{TCG|EX Sandstorm}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zoroark (Mega-Schillern 044)]]
+[[fr:Zoroark (Méga-Rayonnement 044)]]
+[[it:Zoroark (Mega Splendore 44)]]
+[[ja:ゾロアーク (ポケポケ B2b)]]
+[[zh:索罗亚克（B2b）]]

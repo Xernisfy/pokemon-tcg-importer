@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Snubbull
+|ja name=ブルー
+|trans name=Bulu
+|species=Snubbull
+|type=Psychic
+|image=SnubbullWisdomofSeaandSky88.png
+|illustrator=Akira Komayama
+|hp=60
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=088/161|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Snubbull''' (Japanese: '''ブルー''' ''Bulu'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Snubbull
+|category=Fairy 
+|ndex=0209
+|height=2'
+|jheight=0.6
+|weight=17.2
+|jweight=7.8
+|dex=It grows close to others easily and is also easily spoiled. The disparity between its face and its actions makes many young people wild about it.
+|jdex=よく 懐いて よく 甘える。 その 仕草と 顔の ギャップで 若い 女性は メロメロらしい。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Snubbull|137}} from the {{TCG|Lost Thunder}} expansion.
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Snubbull (Weisheit von Meer und Himmel 088)]]
+[[es:Snubbull (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Snubbull (Sagesse entre Ciel et Mer 088)]]
+[[it:Snubbull (La Via del Cielo e del Mare 88)]]
+[[ja:ブルー (ポケポケ A4)]]
+[[zh:布鲁（A4）]]

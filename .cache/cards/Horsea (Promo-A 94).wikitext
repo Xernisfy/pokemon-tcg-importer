@@ -1,0 +1,63 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Horsea
+|ja name=タッツー
+|trans name=Tattu
+|species=Horsea
+|type=Water
+|image=HorseaPromo-A94.png
+|illustrator=Taira Akitsu
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=094/P-A|pack=Vol. 11}}
+}}
+
+'''Horsea''' (Japanese: '''タッツー''' ''Tattu'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Water Arrow
+|jname=ウォーターアロー
+|jtrans=Water Arrow
+|damage=
+|effect=This attack does 10 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Horsea
+|species=Dragon
+|ndex=0116
+|height=1'4"
+|jheight=0.4
+|weight=17.6
+|jweight=8.0
+|dex=Horsea makes its home in oceans with gentle currents. If this Pokémon is under attack, it spits out pitch-black ink and escapes.
+|jdex=潮の　流れが　穏やかな　海に　棲む｡ 襲われると　真っ黒な　墨を吐いて その隙に　逃げだす｡
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 11 packs; these were made available as part of the [[Blissey ex Drop Event]], which ran from August 6 to 16, 2025.
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Shining Fates|Horsea|20}} from the {{TCG|Shining Fates}} expansion.
+*'''Water Arrow''' is an attack that first appeared on {{TCG ID|EX Ruby & Sapphire|Seaking|21}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Seeper (PROMO-A 094)]]
+[[es:Horsea (Promo-A 94 TCG Pocket)]]
+[[fr:Hypotrempe (Promo-A 094)]]
+[[it:Horsea (Promo-A 94)]]
+[[ja:タッツー (ポケポケ P-A)]]
+[[zh:墨海馬（P-A）]]

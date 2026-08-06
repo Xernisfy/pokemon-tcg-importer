@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Vulpix
+|ja name=ロコン
+|trans name=Rokon
+|species=Vulpix
+|type=Fire
+|image=VulpixGeneticApex37.png
+|illustrator=Toshinao Aoki
+|hp=50
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Charizard|rarity=Diamond|rarity count=1|number=037/226}}
+}}
+
+'''Vulpix''' (Japanese: '''ロコン''' ''Rokon'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Colorless}}
+|name=Tail Whip
+|jname=しっぽをふる
+|jtrans=Tail Wag
+|damage=
+|effect=Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Vulpix
+|species=Fox
+|ndex=0037
+|height=2'
+|jheight=0.6
+|weight=21.8
+|jweight=9.9
+|dex=While young, it has six gorgeous tails. When it grows, several new tails are sprouted.
+|jdex=子どもだが　６本の　しっぽが 美しい｡　成長すると　さらに しっぽが　増える｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Hidden Legends|Vulpix|81}} from the {{TCG|EX Hidden Legends}} expansion.
+*{{m|Tail Whip}} is a [[move]] in the [[Pokémon games]] that {{p|Vulpix}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Vulpix (Unschlagbare Gene 037)]]
+[[es:Vulpix (Genes Formidables TCG Pocket)]]
+[[fr:Goupix (Puissance Génétique 037)]]
+[[it:Vulpix (Geni Supremi 37)]]
+[[ja:ロコン (ポケポケ A1)]]
+[[zh:六尾（A1）]]

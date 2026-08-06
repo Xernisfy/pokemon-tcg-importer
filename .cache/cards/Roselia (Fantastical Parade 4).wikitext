@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Roselia
+|ja name=ロゼリア
+|trans name=Roselia
+|species=Roselia
+|type=Grass
+|image=RoseliaFantasticalParade4.png
+|illustrator=Hajime Kusajima
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=004/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Roselia''' (Japanese: '''ロゼリア''' ''Roselia'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Trip Over
+|jname=ころばす
+|jtrans=Fall Over
+|damage=10+
+|effect=Flip a coin. If heads, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Roselia
+|species=Thorn
+|ndex=0315
+|height=1'
+|jheight=0.3
+|weight=4.4
+|jweight=2.0
+|dex=It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.
+|jdex=右手と 左手で 2種類の 毒を 使いわけて 攻撃する。香りが 強いほど 元気だ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Supreme Victors|Roselia|123}} from the {{TCG|Supreme Victors}} expansion.
+*'''Trip Over''' is an attack that first appeared on {{TCG ID|Asobikata|Diglett|promo}}, one of the {{TCG|Unnumbered Promotional cards}}.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Roselia (Traumhafte Parade 004)]]
+[[fr:Rosélia (Parade Onirique 004)]]
+[[it:Roselia (Parata Fantasmagorica 4)]]
+[[ja:ロゼリア (ポケポケ B2)]]
+[[zh:毒蔷薇（B2）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Buneary
+|ja name=ミミロル
+|trans name=Mimirol
+|species=Buneary
+|type=Colorless
+|image=BunearyShiningRevelry66.png
+|illustrator=Kagemaru Himeno
+|hp=50
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=066/072|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Buneary''' (Japanese: '''ミミロル''' ''Mimirol'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Pound
+|jname=はたく
+|jtrans=Pound
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Buneary
+|category=Rabbit 
+|ndex=0427
+|height=1'4"
+|jheight=0.4
+|weight=12.1
+|jweight=5.5
+|dex=If both of Buneary's ears are rolled up, something is wrong with its body or mind. It's a sure sign the Pokémon is in need of care.
+|jdex=左右の 耳を 丸めているときは 体や 心の 不調が 原因なので ケアが 必要。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|POP Series 6|Buneary|12}} from the {{TCG|POP Series 6}} collection of cards.
+*{{m|Pound}} is a [[move]] in the [[Pokémon games]] that {{p|Buneary}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Haspiror (Glänzendes Festival 066)]]
+[[es:Buneary (Festival Brillante TCG Pocket)]]
+[[fr:Laporeille (Réjouissances Rayonnantes 066)]]
+[[it:Buneary (Tripudio Splendente 66)]]
+[[ja:ミミロル (ポケポケ A2b)]]
+[[zh:捲捲耳（A2b）]]

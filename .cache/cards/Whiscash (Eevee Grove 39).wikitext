@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Whiscash
+|ja name=ナマズン
+|trans name=Namazun
+|species=Whiscash
+|type=Fighting
+|image=WhiscashEeveeGrove39.png
+|illustrator=Shinji Kanda
+|hp=130
+|weakness=Grass
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Barboach
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=039/069}}
+}}
+
+'''Whiscash''' (Japanese: '''ナマズン''' ''Namazun'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Earthquake
+|jname=じしん
+|jtrans=Earthquake
+|damage=130
+|effect=This attack also does 10 damage to each of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Whiscash
+|species=Whiskers
+|ndex=0340
+|height=2'11"
+|jheight=0.9
+|weight=39
+|jweight=23.6
+|dex=It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.
+|jdex=縄張り意識が とても 強く 外敵が 近づくと 激しく 地面を 揺らして 襲いかかる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Astral Radiance|Whiscash|36}} from the {{TCG|Astral Radiance}} expansion.
+*{{m|Earthquake}} is a [[move]] in the [[Pokémon games]] that {{p|Whiscash}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Welsar (Evoli-Hain 039)]]
+[[es:Whiscash (Arboleda de Eevee TCG Pocket)]]
+[[fr:Barbicha (La Clairière d'Évoli 039)]]
+[[it:Whiscash (Il Bosco di Eevee 39)]]
+[[ja:ナマズン (ポケポケ A3b)]]
+[[zh:鲶鱼王（A3b）]]

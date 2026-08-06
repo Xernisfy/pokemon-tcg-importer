@@ -1,0 +1,90 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lunala {{TCGP Icon|ex}}
+|ja name=ルナアーラ {{TCGP Icon|ex}}
+|trans name=Lunala {{TCGP Icon|ex}}
+|species=Lunala
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LunalaexCelestialGuardians87.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LunalaexCelestialGuardians186.png|illustrator=PLANETA CG Works|tab caption=Super Rare (A3)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LunalaexDeluxePackex367.png|illustrator=5ban Graphics|tab caption=Super Rare (A4b)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LunalaexCelestialGuardians204.png|illustrator=AKIRA EGAWA|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LunalaexCrimsonBlaze99.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LunalaexCelestialGuardians238.png|illustrator=PLANETA CG Works|tab caption=Ultra Rare}}
+|hp=180
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Cosmoem
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=087/155|pack=Lunala|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=186/155|pack=Lunala|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=204/155|pack=Lunala|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=238/155|pack=Any|rarity=Crown}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=184/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=367/353|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=099/069|pack=Any|rarity=Shiny|rarity count=2}}
+}}
+
+'''Lunala ex''' (Japanese: '''ルナアーラex''' ''Lunala ex'') is a {{ct|Psychic}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Psychic Connect
+|jname=サイココネクト
+|jtrans=Psychic Connect
+|effect=Once during your turn, you may move all {{e|Psychic}} Energy from 1 of your Benched {{e|Psychic}} Pokémon to your Active Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}{{e|Colorless}}
+|name=Lunar Blast
+|jname=ルナブラスト
+|jtrans=Luna Blast
+|damage=100
+|effect=
+}}
+{{Cardtext/Pocket ex
+|type=Psychic
+|ndex=0792
+|name=Lunala
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=LunalaexCelestialGuardians87.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=LunalaexCelestialGuardians186.png
+|caption2=Super rare card<br>({{TCGP|Celestial Guardians}})<br>Illus. [[PLANETA CG Works]]
+|image3=LunalaexCelestialGuardians204.png
+|caption3=Special illustration rare card<br>Illus. [[AKIRA EGAWA]]
+|image4=LunalaexCelestialGuardians238.png
+|caption4=Ultra rare card<br>Illus. [[PLANETA CG Works]]
+|image5=LunalaexDeluxePackex367.png
+|caption5=Super rare card<br>({{TCGP|Deluxe Pack: ex}})<br>Illus. [[5ban Graphics]]
+|image6=LunalaexCrimsonBlaze99.png
+|caption6=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Lunala}}.
+*'''Psychic Connect''' is an {{TCG|Ability}} that first appeared as a {{TCG|Poké-Power}} on {{TCG ID|Platinum|Gardevoir|8}} from the {{TCG|Platinum}} expansion.
+*'''Lunar Blast''' is an attack that first appeared on {{TCG ID|EX Sandstorm|Lunatone|8}} from the {{TCG|EX Sandstorm}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lunala-ex (Hüter des Firmaments 087)]]
+[[es:Lunala ex (Guardianes Celestiales TCG Pocket)]]
+[[fr:Lunala-ex (Gardiens Astraux 087)]]
+[[it:Lunala-ex (Guardiani Astrali 87)]]
+[[ja:ルナアーラex (ポケポケ A3)]]
+[[zh:露奈雅拉ex（A3）]]

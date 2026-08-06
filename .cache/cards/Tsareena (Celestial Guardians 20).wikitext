@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tsareena
+|ja name=アマージョ
+|trans name=Amajo
+|species=Tsareena
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TsareenaCelestialGuardians20.png|illustrator=Hasuno|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TsareenaCelestialGuardians158.png|illustrator=Ligton|tab caption=Illustration Rare}}
+|hp=130
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Steenee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Solgaleo|rarity=Diamond|rarity count=3|number=020/155}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Solgaleo|rarity=Star|rarity count=1|number=158/155}}
+}}
+
+'''Tsareena''' (Japanese: '''アマージョ''' ''Amajo'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Three Kick Combo
+|jname=さんれんきゃく
+|jtrans=Three Kick Combo
+|damage=50×
+|effect=Flip 3 coins. This attack does 50 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Tsareena
+|species=Fruit
+|ndex=0763
+|height=3'11"
+|jheight=1.2
+|weight=47.2
+|jweight=21.4
+|dex=This Pokémon is proud and aggressive. However, it is said that a Tsareena will instantly become calm if someone touches the crown on its calyx.
+|jdex=気位が 高く 攻撃的だが ヘタの 冠に 触られると たちまち 大人しくなるという。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=TsareenaCelestialGuardians20.png
+|caption1=Rare card<br>Illus. [[Hasuno]]
+|image2=TsareenaCelestialGuardians158.png
+|caption2=Illustration rare card<br>Illus. [[Ligton]]
+}}
+
+==Trivia==
+===Origin===
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Fruyal (Hüter des Firmaments 020)]]
+[[es:Tsareena (Guardianes Celestiales TCG Pocket)]]
+[[fr:Sucreine (Gardiens Astraux 020)]]
+[[it:Tsareena (Guardiani Astrali 20)]]
+[[ja:アマージョ (ポケポケ A3)]]
+[[zh:甜冷美后（A3）]]

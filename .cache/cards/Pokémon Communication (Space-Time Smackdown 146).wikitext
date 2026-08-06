@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Pokémon Communication
+|ja name=ポケモン通信
+|trans name=Pokémon Communication
+|subtype=Item
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PokémonCommunicationSpace-TimeSmackdown146.png|illustrator=Ayaka Yoshida|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PokémonCommunicationDeluxePackex317.png|illustrator=Ayaka Yoshida|tab caption=Parallel}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=146/155|pack=Dialga|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=316/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=317/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+'''Pokémon Communication''' (Japanese: '''ポケモン通信''' ''Pokémon Communication'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Choose a Pokémon in your hand and switch it with a random Pokémon in your deck.
+}}
+
+==Release Information==
+===Gallery===
+{{TCGGallery
+|type=Item
+|image1=PokémonCommunicationSpace-TimeSmackdown146.png
+|caption1=Standard card<br>Illus. [[Ayaka Yoshida]]
+|image2=PokémonCommunicationDeluxePackex317.png
+|caption2=Parallel foil card<br>Illus. [[Ayaka Yoshida]]
+}}
+
+==Trivia==
+* This card's effect is similar to that of the {{TCG|Pokémon Communication}} card in the [[Pokémon Trading Card Game]], but the card added from the deck with this card's effect is random.
+
+===Origin===
+*This card's illustration was first featured on the regular print of {{TCG ID|Team Up|Pokémon Communication|152}} from the {{TCG|Team Up}} expansion.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=ポケモン通信 ''Pokémon Tsūshin''
+|zh_yue=寶可夢通信 ''Pokémon Tūngseun''
+|zh_cmn=寶可夢通信<!-- / 宝可梦通信--> ''Pokémon Tōngxìn''
+|fr=Communication Pokémon
+|de=Pokémon-Kommunikation
+|it=Comunicazione Pokémon
+|ko=포켓몬통신 ''Pokémon Tongsin''
+|pt_br=Comunicação Pokémon
+|es=Comunicación Pokémon
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pokémon-Kommunikation (TCG Pocket)]]
+[[es:Comunicación Pokémon (TCG Pocket)]]
+[[fr:Communication Pokémon (Choc Spatio-Temporel 146)]]
+[[it:Comunicazione Pokémon (Scontro Spaziotemporale 146)]]
+[[ja:ポケモン通信 (ポケポケ)]]
+[[zh:宝可梦通信（TCGP）]]

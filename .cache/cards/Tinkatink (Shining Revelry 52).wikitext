@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tinkatink
+|ja name=カヌチャン
+|trans name=Kanuchan
+|species=Tinkatink
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TinkatinkShiningRevelry52.png|illustrator=miki kudo|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TinkatinkDeluxePackex263.png|illustrator=miki kudo|tab caption=Parallel}}
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=052/072|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=262/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=263/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Tinkatink''' (Japanese: '''カヌチャン''' ''Kanuchan'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}
+|name=Corkscrew Punch
+|jname=どつく
+|jtrans=Raging Strike
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Tinkatink
+|category=Metalsmith 
+|ndex=0957
+|height=1'4"
+|jheight=0.4
+|weight=19.6
+|jweight=8.9
+|dex=It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokémon that eat metal. 
+|jdex=手作りの ハンマーを 振りまわして 身を 守るが 金属を 食べる ポケモンには よく 奪われる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=TinkatinkShiningRevelry52.png
+|caption1=Standard card<br>Illus. [[miki kudo]]
+|image2=TinkatinkDeluxePackex263.png
+|caption2=Parallel foil card<br>Illus. [[miki kudo]]
+}}
+
+==Trivia==
+===Origin===
+*'''Corkscrew Punch''' is an attack that first appeared on {{TCG ID|Vending|Machop|S2}} from {{TCG|Expansion Sheet 2}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Forgita (Glänzendes Festival 052)]]
+[[es:Tinkatink (Festival Brillante TCG Pocket)]]
+[[fr:Forgerette (Réjouissances Rayonnantes 052)]]
+[[it:Tinkatink (Tripudio Splendente 52)]]
+[[ja:カヌチャン (ポケポケ A2b)]]
+[[zh:小鍛匠（A2b）]]

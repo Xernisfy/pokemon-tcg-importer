@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Clemont
+|ja name=シトロン
+|trans name=Citron
+|subtype=Supporter
+|image=ClemontCrimsonBlaze68.png
+|illustrator=Teeziro
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ClemontCrimsonBlaze68.png|illustrator=Teeziro|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ClemontCrimsonBlaze81.png|illustrator=Teeziro|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=068/069}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Star|rarity count=2|number=081/069}}
+}}
+
+'''Clemont''' (Japanese: '''シトロン''' ''Citron'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Put 2 random cards from among {{TCGP|Magneton}}, {{TCGP|Heliolisk}}, and {{TCGP|Clemont's Backpack}} from your deck into your hand.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=ClemontCrimsonBlaze68.png
+|caption1=Uncommon card<br>Illus. [[Teeziro]]
+|image2=ClemontCrimsonBlaze81.png
+|caption2=Super rare card<br>Illus. [[Teeziro]]
+}}
+
+==Trivia==
+* {{TCG|Clemont}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Clemont]] is the [[Gym Leader]] of the [[Lumiose Gym]].
+*{{p|Magneton}} and {{p|Heliolisk}} are Pokémon that Clemont uses in {{g|X and Y}}.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=シトロン ''Citron''
+|zh_yue=希特隆 ''Hēidahklùhn''
+|zh_cmn=希特隆 ''Xītèlóng''
+|fr=Lem
+|de=Citro
+|it=Lem
+|ko=시트론 ''Citron''
+|pt_br=Clemont
+|es=Lem
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Citro (TCG Pocket)]]
+[[fr:Lem (Embrasement Écarlate 068)]]
+[[it:Lem (Fiamme Cremisi 68)]]
+[[ja:シトロン (ポケポケ)]]
+[[zh:希特隆（TCGP）]]

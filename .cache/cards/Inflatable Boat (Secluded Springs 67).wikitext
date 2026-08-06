@@ -1,0 +1,47 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Inflatable Boat
+|ja name=ウォーターボート
+|trans name=Water Boat
+|subtype=Pokémon Tool
+|image=InflatableBoatSecludedSprings67.png
+|illustrator=Toyste Beach
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=067/071|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Inflatable Boat''' (Japanese: '''ウォーターボート''' ''Water Boat'') is a {{TCGP|Pokémon Tool}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Tool
+|rule=Pocket Tool
+|effect=The Retreat Cost of the {{e|Water}} Pokémon this card is attached to is 1 less.
+}}
+
+==Trivia==
+* This card's effect is similar to {{TCG|Air Balloon}} in the [[Pokémon Trading Card Game]], but this card decreases the {{TCG|Retreat Cost}} by 1 instead of 2 and only works for {{e|Water}} Pokémon.
+
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Pokémon Tool color}}|bordercolor={{TCG Pokémon Tool color dark}}|textcolor=FFF
+|ja=ウォーターボート ''Water Boat''
+|zh_yue=水上小艇 ''Séuiseuhng Síu Téhng''
+|zh_cmn=水上小艇 ''Shuǐshàng Xiǎo Tǐng''
+|fr=Canot Gonflable
+|de=Gummiboot
+|it=Canotto Gonfiabile
+|ko=워터 보트 ''Water Boat''
+|pt_br=Bote Inflável
+|es=Balsa Hinchable
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gummiboot (TCG Pocket)]]
+[[es:Balsa Hinchable (TCG Pocket)]]
+[[fr:Canot Gonflable (Source Secrète 067)]]
+[[it:Canotto Gonfiabile (Sorgenti Recondite 67)]]
+[[ja:ウォーターボート]]
+[[zh:水上小艇（TCGP）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Crabrawler
+|ja name=マケンカニ
+|trans name=Makenkani
+|species=Crabrawler
+|type=Fighting
+|image=CrabrawlerMegaRising139.png
+|illustrator=Akira Komayama
+|hp=80
+|weakness=Psychic
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=139/226|pack=Mega Blaziken|rarity=Diamond|rarity count=1}}
+}}
+
+'''Crabrawler''' (Japanese: '''マケンカニ''' ''Makenkani'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Knuckle Punch
+|jname=げんこつ
+|jtrans=Fist
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Crabrawler
+|species=Boxing
+|ndex=0739
+|height=2'
+|jheight=0.6
+|weight=15.4
+|jweight=7.0
+|dex=If it loses its pincers, they'll quickly regrow. The pincers are popular ingredients in paella since their shells produce a tasty soup stock.
+|jdex=ハサミは もげても すぐに 生える。 カラから 良い 出汁が でるので パエリアの 具材として 人気。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unbroken Bonds|Crabrawler|104}} from the {{TCG|Unbroken Bonds}} expansion.
+*'''Knuckle Punch''' is an attack that first appeared on {{TCG ID|Neo Revelation|Geodude|44}} from the {{TCG|Neo Revelation}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Krabbox (Mega-Aufstieg 139)]]
+[[es:Crabrawler (Megaascenso TCG Pocket)]]
+[[fr:Crabagarre (Méga-Ascension 139)]]
+[[it:Crabrawler (Mega Ascesa 139)]]
+[[ja:マケンカニ (ポケポケ B1)]]
+[[zh:好胜蟹（B1）]]

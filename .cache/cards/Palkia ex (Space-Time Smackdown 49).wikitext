@@ -1,0 +1,90 @@
+{{TCG Card Infobox/Pokémon/Pocket
+| en name = Palkia {{TCGP Icon|ex}}
+| ja name = パルキア{{TCGP Icon|ex}}
+| trans name = Palkia {{TCGP Icon|ex}}
+| species = Palkia
+| type = Water
+| image = PalkiaexSpace-TimeSmackdown.png
+| illustrator = 
+| image set = {{TCG Card Infobox/Tabbed Image/Pocket|image=PalkiaexSpace-TimeSmackdown49.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PalkiaexSpace-TimeSmackdown182.png|illustrator=PLANETA CG Works|tab caption=Super Rare (A2)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PalkiaexDeluxePackex363.png|illustrator=5ban Graphics|tab caption=Super Rare (A4b)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PalkiaexSpace-TimeSmackdown204.png|illustrator=N-DESIGN Inc.|tab caption=Immersive}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PalkiaexSpace-TimeSmackdown206.png|illustrator=PLANETA CG Works|tab caption=Ultra Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PalkiaexMegaRising319.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+| hp = 150
+| weakness = Lightning
+| retreat cost = 2
+| evo stage = Basic
+| expansions = {{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=049/155|pack=Palkia|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=182/155|pack=Palkia|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=204/155|pack=Palkia|rarity=Star|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=206/155|pack=Any|rarity=Crown}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=107/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=363/353|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=319/226|pack=Mega Blaziken|rarity=Shiny|rarity count=2}}
+}}
+
+'''Palkia ex''' (Japanese: '''パルキアex''' ''Palkia ex'') is a {{ct|Water}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Slash
+|jname=きりさく
+|jtrans=Slash
+|damage=30
+|effect=
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Dimensional Storm
+|jname=ディメンションストーム
+|jtrans=Dimension Storm
+|damage=150
+|effect=Discard 3 {{e|Water}} Energy from this Pokémon. This attack also does 20 damage to each of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Water
+|ndex=0484
+|name=Palkia
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=PalkiaexSpace-TimeSmackdown49.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=PalkiaexSpace-TimeSmackdown182.png
+|caption2=Super rare card<br>({{TCGP|Space-Time Smackdown}})<br>Illus. [[PLANETA CG Works]]
+|image3=PalkiaexSpace-TimeSmackdown204.png
+|caption3={{TCGP|Immersive card}}<br>Illus. [[N-DESIGN Inc.]]
+|image4=PalkiaexSpace-TimeSmackdown206.png
+|caption4=Ultra rare card<br>Illus. [[PLANETA CG Works]]
+|image5=PalkiaexDeluxePackex363.png
+|caption5=Super rare card<br>({{TCGP|Deluxe Pack: ex}})<br>Illus. [[5ban Graphics]]
+|image6=PalkiaexMegaRising319.png
+|caption6=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Palkia}}.
+*{{m|Slash}} is a [[move]] in the [[Pokémon games]] that {{p|Palkia}} can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Palkia-ex (Kollision von Raum und Zeit 049)]]
+[[es:Palkia ex (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Palkia-ex (Choc Spatio-Temporel 049)]]
+[[it:Palkia-ex (Scontro Spaziotemporale 49)]]
+[[ja:パルキアex (ポケポケ A2)]]
+[[zh:帕路奇亚ex（A2）]]

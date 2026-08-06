@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Lillie
+|ja name=リーリエ
+|trans name=Lilie
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LillieCelestialGuardians155.png|illustrator=hechima|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LillieDeluxePackex349.png|illustrator=hechima|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LillieCelestialGuardians197.png|illustrator=hechima|tab caption=Super Rare (A3)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LillieDeluxePackex374.png|illustrator=yuu|tab caption=Super Rare (A4b)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LillieCelestialGuardians209.png|illustrator=Atsushi Furusawa|tab caption=Immersive}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=155/155|pack=Solgaleo|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=197/155|pack=Solgaleo|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=209/155|pack=Solgaleo|rarity=Star|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=348/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=349/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=374/353|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Lillie''' (Japanese: '''リーリエ''' ''Lilie'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Heal 60 damage from 1 of your Stage 2 Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=LillieCelestialGuardians155.png
+|caption1=Standard card<br>Illus. [[hechima]]
+|image2=LillieCelestialGuardians197.png
+|caption2=Super rare card<br>({{TCGP|Celestial Guardians}})<br>Illus. [[hechima]]
+|image3=LillieCelestialGuardians209.png
+|caption3={{TCGP|Immersive card}}<br>Illus. [[Atsushi Furusawa]]
+|image4=LillieDeluxePackex349.png
+|caption4=Parallel foil card<br>Illus. [[hechima]]
+|image5=LillieDeluxePackex374.png
+|caption5=Super rare card<br>({{TCGP|Deluxe Pack: ex}})<br>Illus. [[yuu]]
+}}
+
+==Trivia==
+*This card's immersive illustration includes [[Nebby]], {{p|Rowlet}}, {{p|Litten}}, {{p|Popplio}}, [[Hau]], [[Mallow]], {{p|Steenee}}, [[Lana]], {{p|Araquanid}}, [[Kiawe]], {{rf|Alolan}} {{p|Marowak}}, [[Sophocles]], {{p|Togedemaru}}, [[Ilima]], {{p|Yungoos}}, [[Acerola]], {{p|Mimikyu}}, [[Professor Kukui]], {{p|Silvally}}, and [[Gladion]].
+*The {{rar/TCGP|Star|3}} prints of this card and {{TCG ID|Celestial Guardians|Guzma|208}} are the first {{TCGP|immersive card|immersive}} {{TCGP|Supporter card}}s in the game; all immersive cards released prior had been {{TCG|Pokémon}} cards. Only Lillie was revealed in pre-release announcements and trailers.
+* {{TCG|Lillie}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Lillie]] is an [[friend|ally]] character in {{game4|SMUSUM}}. Lillie's "Z-powered form" is featured in the {{TCGP|Deluxe Pack: ex}} Super rare print's illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=リーリエ ''Lilie''
+|zh_yue=莉莉艾 ''Leihleihngaaih''
+|zh_cmn=莉莉艾 ''Lìlì'ài''
+|fr=Lilie
+|de=Lilly
+|it=Lylia
+|ko=릴리에 ''Lillie''
+|pt_br=Lílian
+|es=Lylia
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lilly (TCG Pocket)]]
+[[es:Lylia (TCG Pocket)]]
+[[fr:Lilie (Gardiens Astraux 155)]]
+[[it:Lylia (Guardiani Astrali 155)]]
+[[ja:リーリエ (ポケポケ)]]
+[[zh:莉莉艾（TCGP）]]

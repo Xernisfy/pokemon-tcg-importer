@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sneasel
+|ja name=ニューラ
+|trans name=Nyula
+|species=Sneasel
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SneaselWisdomofSeaandSky115.png|illustrator=yuu|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SneaselWisdomofSeaandSky229.png|illustrator=MAHOU|tab caption=Shiny Rare}}
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=115/161|pack=Lugia|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=229/161|pack=Lugia|rarity=Shiny|rarity count=1}}
+}}
+
+'''Sneasel''' (Japanese: '''ニューラ''' ''Nyula'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Scratch
+|jname=ひっかく
+|jtrans=Scratch
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Sneasel
+|species=Sharp Claw
+|ndex=0215
+|height=2'11"
+|jheight=0.9
+|weight=61.7
+|jweight=28.0
+|dex=This cunning Pokémon hides under the cover of darkness, waiting to attack its prey.
+|jdex=自分が 目立たないよう 暗闇に まぎれて 獲物に 襲いかかる とても ずる賢い ポケモン。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=SneaselWisdomofSeaandSky115.png
+|caption1=Common card<br>Illus. [[yuu]]
+|image2=SneaselWisdomofSeaandSky229.png
+|caption2=Shiny rare card<br>Illus. [[MAHOU]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare illustration features a {{Shiny}} {{p|Sneasel}}.
+*This card's standard illustration was first featured on {{TCG ID|Brilliant Stars|Sneasel|86}} from the {{TCG|Brilliant Stars}} expansion; both cards have the {{m|Scratch}} attack.
+*{{m|Scratch}} is a [[move]] in the [[Pokémon games]] that {{p|Sneasel}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sniebel (Weisheit von Meer und Himmel 115)]]
+[[es:Sneasel (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Farfuret (Sagesse entre Ciel et Mer 115)]]
+[[it:Sneasel (La Via del Cielo e del Mare 115)]]
+[[ja:ニューラ (ポケポケ A4)]]
+[[zh:狃拉（A4）]]

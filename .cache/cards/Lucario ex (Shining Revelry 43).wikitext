@@ -1,0 +1,69 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lucario {{TCGP Icon|ex}}
+|ja name=ルカリオ{{TCGP Icon|ex}}
+|trans name=Lucario {{TCGP Icon|ex}}
+|species=Lucario
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LucarioexShiningRevelry43.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LucarioexShiningRevelry84.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LucarioexShiningRevelry110.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=150
+|weakness=Psychic
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Riolu
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=043/072|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=084/072|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=110/072|pack=Any|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=214/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Lucario ex''' (Japanese: '''ルカリオex''' ''Lucario ex'') is a {{ct|Fighting}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}
+|name=Aura Sphere
+|jname=はどうだん
+|jtrans=Pulse Bomb
+|damage=100
+|effect=This attack also does 30 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Fighting
+|ndex=0448
+|name=Lucario
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=LucarioexShiningRevelry43.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=LucarioexShiningRevelry84.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=LucarioexShiningRevelry110.png
+|caption3=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Lucario}}.
+*{{m|Aura Sphere}} is a [[move]] in the [[Pokémon games]] that {{p|Lucario}} can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lucario-ex (Glänzendes Festival 043)]]
+[[es:Lucario ex (Festival Brillante TCG Pocket)]]
+[[fr:Lucario-ex (Réjouissances Rayonnantes 043)]]
+[[it:Lucario-ex (Tripudio Splendente 43)]]
+[[ja:ルカリオex (ポケポケ A2b)]]
+[[zh:路卡利歐ex（A2b）]]

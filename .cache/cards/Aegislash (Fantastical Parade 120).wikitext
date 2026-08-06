@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Aegislash
+|ja name=ギルガルド
+|trans name=Gillgard
+|species=Aegislash
+|type=Metal
+|image=AegislashFantasticalParade120.png
+|illustrator=Ryuta Fuse
+|hp=140
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Doublade
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=120/155|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Aegislash''' (Japanese: '''ギルガルド''' ''Gillgard'') is a {{ct|Metal}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Metal}}
+|name=Superb Shield
+|jname=グレートシールド
+|jtrans=Great Shield
+|damage=80
+|effect=During your opponent's next turn, this Pokémon takes −80 damage from attacks from your opponent's {{TCGP|Pokémon ex}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Aegislash
+|category=Royal Sword
+|ndex=0681
+|height=5'7"
+|jheight=1.7
+|weight=116.8
+|jweight=53.0
+|dex=Its potent spectral powers allow it to manipulate others. It once used its powers to force people and Pokémon to build a kingdom to its liking.
+|jdex=強力な 霊力で 人や ポケモンを 操り ギルガルドに 都合の 良い 国を つくらせた。
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Aegislash}} in its {{form|Aegislash|Shield Forme}}.
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Aegislash|135}} from the {{TCG|Rebel Clash}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Durengard (Traumhafte Parade 120)]]
+[[fr:Exagide (Parade Onirique 120)]]
+[[it:Aegislash (Parata Fantasmagorica 120)]]
+[[ja:ギルガルド (ポケポケ B2)]]
+[[zh:坚盾剑怪（B2）]]

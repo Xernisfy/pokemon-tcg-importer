@@ -1,0 +1,474 @@
+{{TCGPocketExpansionPrevNext | prev = Fantastical Parade | next = Mega Shine }}
+{{TCGPocketExpansionInfobox
+|setname=Paldean Wonders
+|jasetname=パルデアワンダー
+|jasettrans=Paldea Wonder
+|setlogo=B2a Set Logo EN.png
+|release=February 26, 2026
+|cards=131 (93 + 38 secret) 
+|collections=16 (12 + 4 secret)
+|dex missions=10 (9 + 1 secret)
+|deck missions=10
+|decks=5
+|battles=
+}}
+'''Paldean Wonders''' (Japanese: '''パルデアワンダー''' ''Paldea Wonder'') is the fourth {{TCGP|B Series}} expansion in [[Pokémon Trading Card Game Pocket]].
+
+== Information ==
+'''Paldean Wonders''' is the second themed booster pack of the {{TCGP|B Series}} released through [[Pokémon Trading Card Game Pocket]]. It focuses on Pokémon and characters from the [[Paldea]] region, including the [[Paldea first partner Pokémon]], {{p|Gholdengo}}, and more.
+
+For the first time in Pokémon TCG Pocket, cards in this expansion reuse a wider range of artwork from the [[Pokémon Trading Card Game]]; namely, from {{TCG|Pokémon ex}}, {{TCG|illustration rare card}}s, {{TCG|Supporter card}}s, and {{TCG|Stadium card}}s. All reused artwork in this set originates from cards with regulation mark {{reg|G}}, which had just {{TCG|rotation|rotated}} out of the {{TCG|Standard format}} in Japan a month prior to the release of Paldean Wonders.
+
+== Card list ==
+{{TCG Set List/header|tablecol=3CE7C5|bordercol=18C3A1|cellcol=FFFBD9}}
+|-
+| 001/093 || {{TCG ID|Paldean Wonders|Sprigatito|1}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 002/093 || {{TCG ID|Paldean Wonders|Floragato|2}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 003/093 || {{TCG ID|Paldean Wonders|Meowscarada ex|3|Meowscarada}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 004/093 || {{TCG ID|Paldean Wonders|Tarountula|4}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 005/093 || {{TCG ID|Paldean Wonders|Spidops|5}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 006/093 || {{TCG ID|Paldean Wonders|Nymble|6}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 007/093 || {{TCG ID|Paldean Wonders|Smoliv|7}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 008/093 || {{TCG ID|Paldean Wonders|Dolliv|8}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 009/093 || {{TCG ID|Paldean Wonders|Arboliva|9}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 010/093 || {{TCG ID|Paldean Wonders|Bramblin|10}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 011/093 || {{TCG ID|Paldean Wonders|Brambleghast|11}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 012/093 || {{TCG ID|Paldean Wonders|Capsakid|12}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 013/093 || {{TCG ID|Paldean Wonders|Scovillain|13}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 014/093 || {{TCG ID|Paldean Wonders|Rellor|14}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 015/093 || {{TCG ID|Paldean Wonders|Wo-Chien|15}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 016/093 || {{TCG ID|Paldean Wonders|Fuecoco|16}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 017/093 || {{TCG ID|Paldean Wonders|Crocalor|17}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 018/093 || {{TCG ID|Paldean Wonders|Skeledirge|18}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 019/093 || {{TCG ID|Paldean Wonders|Charcadet|19}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 020/093 || {{TCG ID|Paldean Wonders|Armarouge ex|20|Armarouge}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 021/093 || {{TCG ID|Paldean Wonders|Chi-Yu|21}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 022/093 || {{TCG ID|Paldean Wonders|Quaxly|22}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 023/093 || {{TCG ID|Paldean Wonders|Quaxwell|23}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 024/093 || {{TCG ID|Paldean Wonders|Quaquaval|24}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 025/093 || {{TCG ID|Paldean Wonders|Wiglett|25}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 026/093 || {{TCG ID|Paldean Wonders|Wugtrio|26}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 027/093 || {{TCG ID|Paldean Wonders|Finizen|27}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 028/093 || {{TCG ID|Paldean Wonders|Palafin|28}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 029/093 || {{TCG ID|Paldean Wonders|Cetoddle|29}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 030/093 || {{TCG ID|Paldean Wonders|Cetitan|30}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 031/093 || {{TCG ID|Paldean Wonders|Veluza|31}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 032/093 || {{TCG ID|Paldean Wonders|Dondozo|32}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 033/093 || {{TCG ID|Paldean Wonders|Tatsugiri|33}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 034/093 || {{TCG ID|Paldean Wonders|Frigibax|34}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 035/093 || {{TCG ID|Paldean Wonders|Arctibax|35}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 036/093 || {{TCG ID|Paldean Wonders|Baxcalibur|36}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 037/093 || {{TCG ID|Paldean Wonders|Chien-Pao ex|37|Chien-Pao}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 038/093 || {{TCG ID|Paldean Wonders|Pawmi|38}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 039/093 || {{TCG ID|Paldean Wonders|Pawmo|39}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 040/093 || {{TCG ID|Paldean Wonders|Pawmot|40}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 041/093 || {{TCG ID|Paldean Wonders|Tadbulb|41}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 042/093 || {{TCG ID|Paldean Wonders|Bellibolt ex|42|Bellibolt}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 043/093 || {{TCG ID|Paldean Wonders|Wattrel|43}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 044/093 || {{TCG ID|Paldean Wonders|Kilowattrel|44}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 045/093 || {{TCG ID|Paldean Wonders|Miraidon|45}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 046/093 || {{TCG ID|Paldean Wonders|Fidough|46}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 047/093 || {{TCG ID|Paldean Wonders|Dachsbun|47}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 048/093 || {{TCG ID|Paldean Wonders|Ceruledge|48}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 049/093 || {{TCG ID|Paldean Wonders|Rabsca|49}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 050/093 || {{TCG ID|Paldean Wonders|Flittle|50}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 051/093 || {{TCG ID|Paldean Wonders|Espathra|51}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 052/093 || {{TCG ID|Paldean Wonders|Greavard|52}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 053/093 || {{TCG ID|Paldean Wonders|Houndstone|53}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 054/093 || {{TCG ID|Paldean Wonders|Gimmighoul|54}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 055/093 || {{TCG ID|Paldean Wonders|Mankey|55}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 056/093 || {{TCG ID|Paldean Wonders|Primeape|56}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 057/093 || {{TCG ID|Paldean Wonders|Annihilape|57}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 058/093 || {{TCG ID|Paldean Wonders|Paldean Tauros|58}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 059/093 || {{TCG ID|Paldean Wonders|Toedscool|59}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 060/093 || {{TCG ID|Paldean Wonders|Toedscruel|60}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 061/093 || {{TCG ID|Paldean Wonders|Klawf|61}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 062/093 || {{TCG ID|Paldean Wonders|Ting-Lu|62}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 063/093 || {{TCG ID|Paldean Wonders|Koraidon|63}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 064/093 || {{TCG ID|Paldean Wonders|Paldean Wooper|64}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 065/093 || {{TCG ID|Paldean Wonders|Paldean Clodsire|65}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 066/093 || {{TCG ID|Paldean Wonders|Lokix|66}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 067/093 || {{TCG ID|Paldean Wonders|Maschiff|67}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 068/093 || {{TCG ID|Paldean Wonders|Mabosstiff|68}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 069/093 || {{TCG ID|Paldean Wonders|Shroodle|69}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 070/093 || {{TCG ID|Paldean Wonders|Grafaiai|70}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 071/093 || {{TCG ID|Paldean Wonders|Bombirdier|71}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 072/093 || {{TCG ID|Paldean Wonders|Tinkatink|72}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 073/093 || {{TCG ID|Paldean Wonders|Tinkatuff|73}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 074/093 || {{TCG ID|Paldean Wonders|Tinkaton|74}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 075/093 || {{TCG ID|Paldean Wonders|Varoom|75}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 076/093 || {{TCG ID|Paldean Wonders|Revavroom|76}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 077/093 || {{TCG ID|Paldean Wonders|Orthworm|77}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 078/093 || {{TCG ID|Paldean Wonders|Gholdengo ex|78|Gholdengo}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 079/093 || {{TCG ID|Paldean Wonders|Lechonk|79}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 080/093 || {{TCG ID|Paldean Wonders|Oinkologne|80}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 081/093 || {{TCG ID|Paldean Wonders|Tandemaus|81}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 082/093 || {{TCG ID|Paldean Wonders|Maushold|82}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 083/093 || {{TCG ID|Paldean Wonders|Squawkabilly|83}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 084/093 || {{TCG ID|Paldean Wonders|Cyclizar|84}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 085/093 || {{TCG ID|Paldean Wonders|Flamigo|85}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 086/093 || {{TCG ID|Paldean Wonders|Electric Generator|86}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 087/093 || {{TCG ID|Paldean Wonders|Big Air Balloon|87}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 088/093 || {{TCG ID|Paldean Wonders|Team Star Grunt|88}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 089/093 || {{TCG ID|Paldean Wonders|Iono|89}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 090/093 || {{TCG ID|Paldean Wonders|Nemona|90}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 091/093 || {{TCG ID|Paldean Wonders|Arven|91}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 092/093 || {{TCG ID|Paldean Wonders|Penny|92}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 093/093 || {{TCG ID|Paldean Wonders|Mesagoza|93}} || {{TCG Icon|Stadium}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 094/093 || {{TCG ID|Paldean Wonders|Fuecoco|94}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|1}}
+|-
+| 095/093 || {{TCG ID|Paldean Wonders|Greavard|95}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}}
+|-
+| 096/093 || {{TCG ID|Paldean Wonders|Gimmighoul|96}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}}
+|-
+| 097/093 || {{TCG ID|Paldean Wonders|Paldean Wooper|97}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|1}}
+|-
+| 098/093 || {{TCG ID|Paldean Wonders|Orthworm|98}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|1}}
+|-
+| 099/093 || {{TCG ID|Paldean Wonders|Maushold|99}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}}
+|-
+| 100/093 || {{TCG ID|Paldean Wonders|Meowscarada ex|100|Meowscarada}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}}
+|-
+| 101/093 || {{TCG ID|Paldean Wonders|Armarouge ex|101|Armarouge}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|2}}
+|-
+| 102/093 || {{TCG ID|Paldean Wonders|Chien-Pao ex|102|Chien-Pao}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}}
+|-
+| 103/093 || {{TCG ID|Paldean Wonders|Bellibolt ex|103|Bellibolt}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}}
+|-
+| 104/093 || {{TCG ID|Paldean Wonders|Gholdengo ex|104|Gholdengo}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}}
+|-
+| 105/093 || {{TCG ID|Paldean Wonders|Team Star Grunt|105}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 106/093 || {{TCG ID|Paldean Wonders|Iono|106}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 107/093 || {{TCG ID|Paldean Wonders|Nemona|107}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 108/093 || {{TCG ID|Paldean Wonders|Arven|108}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 109/093 || {{TCG ID|Paldean Wonders|Penny|109}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 110/093 || {{TCG ID|Paldean Wonders|Meowscarada ex|110|Meowscarada}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}}
+|-
+| 111/093 || {{TCG ID|Paldean Wonders|Armarouge ex|111|Armarouge}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|2}}
+|-
+| 112/093 || {{TCG ID|Paldean Wonders|Chien-Pao ex|112|Chien-Pao}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}}
+|-
+| 113/093 || {{TCG ID|Paldean Wonders|Bellibolt ex|113|Bellibolt}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}}
+|-
+| 114/093 || {{TCG ID|Paldean Wonders|Gholdengo ex|114|Gholdengo}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}}
+|-
+| 115/093 || {{TCG ID|Paldean Wonders|Arven|115}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|3}}
+|-
+| 116/093 || {{TCG ID|Paldean Wonders|Sprigatito|116}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 117/093 || {{TCG ID|Paldean Wonders|Floragato|117}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 118/093 || {{TCG ID|Paldean Wonders|Meowscarada|118}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 119/093 || {{TCG ID|Paldean Wonders|Pawmi|119}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 120/093 || {{TCG ID|Paldean Wonders|Pawmo|120}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 121/093 || {{TCG ID|Paldean Wonders|Pawmot|121}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 122/093 || {{TCG ID|Paldean Wonders|Gimmighoul|122}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 123/093 || {{TCG ID|Paldean Wonders|Tinkatink|123}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 124/093 || {{TCG ID|Paldean Wonders|Tinkatuff|124}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 125/093 || {{TCG ID|Paldean Wonders|Gholdengo|125}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 126/093 || {{TCG ID|Paldean Wonders|Entei ex|126|Entei}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 127/093 || {{TCG ID|Paldean Wonders|Suicune ex|127|Suicune}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 128/093 || {{TCG ID|Paldean Wonders|Raikou ex|128|Raikou}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 129/093 || {{TCG ID|Paldean Wonders|Tinkaton ex|129|Tinkaton}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 130/093 || {{TCG ID|Paldean Wonders|Baxcalibur|130}} || {{TCG Icon|Water}} || {{Rar/TCGP|Crown|1}}
+|-
+| 131/093 || {{TCG ID|Paldean Wonders|Electric Generator|131}} || {{TCG Icon|Item}} || {{Rar/TCGP|Crown|1}}
+|}
+
+==Missions==
+
+=== Dex Missions ===
+Paldean Wonders has 9 regular {{DL|Mission (TCG Pocket)|Dex Missions}} and one hidden Dex Mission:
+{{TCGPocketMission/Header|reward=yes|tablecol=3CE7C5|bordercol=18C3A1|cellcol=FFFBD9}}
+{{TCGPocketMission/Entry|mission=Register 10 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 20 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 30 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 40 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 50 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 60 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 70 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 80 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 90 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders)|num=10}}}}
+|-
+! colspan="2" style="color:#FFF" | Secret Mission
+{{TCGPocketMission/Entry|mission=Register all {{Rar/TCGP|Diamond|1}} – {{Rar/TCGP|Diamond|4}} cards in the card dex|reward={{TCGPocketItem|Paldean Wonders Fuecoco|Paldean Wonders: Fuecoco (profile icon)|type=Profile Icon}}|lastitem=yes}}
+|}
+
+=== Deck Missions ===
+Paldean Wonders has 5 [[deck]]s and 10 {{DL|Mission (TCG Pocket)|Deck Missions}}. Each deck has two missions:
+
+{{TCGPocketMission/Header|reward=yes|tablecol=3CE7C5|bordercol=18C3A1|cellcol=FFFBD9}}
+{{TCGPocketMission/Entry|mission=Collect the highlight card(s) for [deck name]|reward={{TCGPocketItem|Rental Deck|[deck name] rental deck}}}}
+{{TCGPocketMission/Entry|mission=Collect cards for [deck name]|reward={{TCGPocketItem|Theme Deck List|[deck name] theme deck list}}|lastitem=yes}}
+|}
+
+The 5 available decks related to Paldean Wonders are: 
+{{TCGPocketExpansionDeck/Header|tablecol=3CE7C5|bordercol=18C3A1|cellcol=FFFBD9}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Meowscarada ex Deck|Paldean Wonders}}|{{e|Grass}}|{{TCG ID|Paldean Wonders|Meowscarada ex|3}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Armarouge ex Deck|Paldean Wonders}}|{{e|Fire}}|{{TCG ID|Paldean Wonders|Armarouge ex|20}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Chien-Pao ex Deck|Paldean Wonders}}|{{e|Water}}|{{TCG ID|Paldean Wonders|Chien-Pao ex|37}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Bellibolt ex Deck|Paldean Wonders}}|{{e|Lightning}}|{{TCG ID|Paldean Wonders|Bellibolt ex|42}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Gholdengo ex Deck|Paldean Wonders}}|{{e|Metal}}|{{TCG ID|Paldean Wonders|Gholdengo ex|78}}|lastitem=yes}}
+|}
+
+=== Themed Collections ===
+Paldean Wonders has 12 regular {{DL|Mission (TCG Pocket)|Themed Collections}} and 4 hidden Themed Collections.
+
+{{TCGPocketCollection/Header|tablecol=3CE7C5|bordercol=18C3A1|cellcol=FFFBD9}}
+{{TCGPocketCollection/Entry|collection=First Partners 1
+|cards={{TCG ID|Paldean Wonders|Sprigatito|1}} (#001 or #116)<br>{{TCG ID|Paldean Wonders|Floragato|2}} (#002 or #117)<br>{{TCG ID|Paldean Wonders|Meowscarada ex|3}} (#003 or #100 or #110) or {{TCG ID|Paldean Wonders|Meowscarada|118}} (#118) 
+|reward={{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders) ×10}}
+}}
+{{TCGPocketCollection/Entry|collection=First Partners 2
+|cards={{TCG ID|Paldean Wonders|Fuecoco|16}} (#016 or #094)<br>{{TCG ID|Paldean Wonders|Crocalor|17}} (#017)<br>{{TCG ID|Paldean Wonders|Skeledirge|18}} (#018)
+|reward={{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders) ×4}}
+}}
+{{TCGPocketCollection/Entry|collection=First Partners 3
+|cards={{TCG ID|Paldean Wonders|Quaxly|22}} (#022)<br>{{TCG ID|Paldean Wonders|Quaxwell|23}} (#023)<br>{{TCG ID|Paldean Wonders|Quaquaval|24}} (#024)
+|reward={{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders) ×4}}
+}}
+{{TCGPocketCollection/Entry|collection=Legends of the Paldea Region
+|cards={{TCG ID|Paldean Wonders|Miraidon|45}} (#045)<br>{{TCG ID|Paldean Wonders|Koraidon|63}} (#063)
+|reward={{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders) ×6}}
+}}
+{{TCGPocketCollection/Entry|collection=Category: Ruinous Pokémon
+|cards={{TCG ID|Paldean Wonders|Wo-Chien|15}} (#015)<br>{{TCG ID|Paldean Wonders|Chi-Yu|21}} (#021)<br>{{TCG ID|Paldean Wonders|Chien-Pao ex|37}} (#037 or #102 or #112)<br>{{TCG ID|Paldean Wonders|Ting-Lu|62}} (#062)
+|reward={{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders) ×19}}
+}}
+{{TCGPocketCollection/Entry|collection=Nemona and Pawmot
+|cards={{TCG ID|Paldean Wonders|Pawmot|40}} (#040)<br>{{TCG ID|Paldean Wonders|Nemona|90}} (#090 or #107)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Arven and Mabosstiff
+|cards={{TCG ID|Paldean Wonders|Mabosstiff|68}} (#068)<br>{{TCG ID|Paldean Wonders|Arven|91}} (#091 or #108)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Wafting Fragrances
+|cards={{TCG ID|Paldean Wonders|Sprigatito|1}} (#001 or #116)<br>{{TCG ID|Paldean Wonders|Dachsbun|47}} (#047)<br>{{TCG ID|Paldean Wonders|Oinkologne|80}} (#080)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Hidden Delicacies
+|cards={{TCG ID|Paldean Wonders|Dolliv|8}} (#008)<br>{{TCG ID|Paldean Wonders|Capsakid|12}} (#012)<br>{{TCG ID|Paldean Wonders|Wattrel|43}} (#043)<br>{{TCG ID|Paldean Wonders|Toedscool|59}} (#059)<br>{{TCG ID|Paldean Wonders|Toedscruel|60}} (#060)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders) ×2}}
+}}
+{{TCGPocketCollection/Entry|collection=A Great Team
+|cards={{TCG ID|Paldean Wonders|Dondozo|32}} (#032)<br>{{TCG ID|Paldean Wonders|Tatsugiri|33}} (#033)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=A Flock of Flamigo
+|cards={{TCG ID|Paldean Wonders|Flamigo|85}} (#085) ×5
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2a|Emblem Ticket (Paldean Wonders) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 5 Iono cards
+|cards={{TCG ID|Paldean Wonders|Iono|89}} (#089) ×5
+|reward={{TCGPocketItem|Iono|Iono (profile icon)|type=Profile Icon}}
+}}
+|-
+! colspan="3" style="color:#FFF" | Secret Missions
+{{TCGPocketCollection/Entry|collection=Paldean Wonders Museum 1
+|cards={{TCG ID|Paldean Wonders|Fuecoco|94}} (#094)<br>{{TCG ID|Paldean Wonders|Greavard|95}} (#095)<br>{{TCG ID|Paldean Wonders|Gimmighoul|96}} (#096)<br>{{TCG ID|Paldean Wonders|Paldean Wooper|97}} (#097)<br>{{TCG ID|Paldean Wonders|Orthworm|98}} (#098)<br>{{TCG ID|Paldean Wonders|Maushold|99}} (#099)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Paldean Wonders Museum 2
+|cards={{TCG ID|Paldean Wonders|Meowscarada ex|110}} (#110)<br>{{TCG ID|Paldean Wonders|Armarouge ex|111}} (#111)<br>{{TCG ID|Paldean Wonders|Chien-Pao ex|112}} (#112)<br>{{TCG ID|Paldean Wonders|Bellibolt ex|113}} (#113)<br>{{TCG ID|Paldean Wonders|Gholdengo ex|114}} (#114)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Coin Collecting
+|cards={{TCG ID|Paldean Wonders|Gimmighoul|96}} (#096)<br>{{TCG ID|Paldean Wonders|Gholdengo ex|114}} (#114)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Trainers of Paldea
+|cards={{TCG ID|Paldean Wonders|Team Star Grunt|88}} (#088)<br>{{TCG ID|Paldean Wonders|Iono|89}} (#089)<br>{{TCG ID|Paldean Wonders|Nemona|90}} (#090)<br>{{TCG ID|Paldean Wonders|Arven|91}} (#091)<br>{{TCG ID|Paldean Wonders|Penny|92}} (#092)<br>{{TCG ID|Paldean Wonders|Team Star Grunt|105}} (#105)<br>{{TCG ID|Paldean Wonders|Iono|106}} (#106)<br>{{TCG ID|Paldean Wonders|Nemona|107}} (#107)<br>{{TCG ID|Paldean Wonders|Arven|108}} (#108)<br>{{TCG ID|Paldean Wonders|Penny|109}} (#109)<br>{{TCG ID|Paldean Wonders|Arven|115}} (#115)
+|reward={{TCGPocketItem|Mabosstiff|Mabosstiff (emblem)|type=Emblem}}|lastitem=yes}}
+|}
+
+== Offering rates ==
+The following table outlines the offering rates for each individual card in the Paldean Wonders booster pack.
+
+The probability of each type of pack appearing is as follows:
+* Regular pack - 94.711%
+* Regular pack + 1 card - 5.238%
+* Rare pack - 0.050%
+
+In regular packs with a bonus card, the card inclusion rates for the first five cards are the same as those for regular packs without a bonus card.
+
+{{Rar/TCGP|Shiny|1}} and {{Rar/TCGP|Shiny|2}} rarity cards are only available as bonus cards.
+
+{{TCGPocketRates/Header|tablecol=3CE7C5|bordercol=18C3A1|cellcol=FFFBD9|bonuscard=yes}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 2.325% || — || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 2.727% || 1.818% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.416% || 1.666% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.333% || 1.333% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.428% || 1.714% || — || 4.166%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.033% || 0.133% || — || 4.166%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.889% || — || 4.166%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|1}} || — || — || — || 6.818% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|2}} || — || — || — || 7.955% || —
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.020% || 0.080% || — || style="border-bottom-right-radius:5px" | 4.166%
+|}
+
+== Solo battles ==
+{{main|List of Paldean Wonders solo battles in Pokémon TCG Pocket}}
+
+== Gallery ==
+=== Key artwork ===
+{{TCGMerchGallery
+|background=FFFBD9
+|border=18C3A1
+|image1=B2a Key Art.png
+|size1=400px
+|caption1=Key artwork
+}}
+
+=== Pack artwork ===
+{{TCGMerchGallery
+|background=FFFBD9
+|border=18C3A1
+|image1=B2a Booster EN.png
+|caption1=Booster pack
+}}
+
+== In other languages ==
+{{Langtable|color=3CE7C5|bordercolor=18C3A1
+|ja=パルデアワンダー ''Paldea Wonder''
+|zh_yue=帕底亞驚奇 ''Paakdáia Gīngkèih''
+|zh_cmn=帕底亞驚奇 ''Pàdǐyǎ Jīngqí''
+|fr=Merveilles de Paldea
+|de=Wundervolles Paldea
+|it=Meraviglie di Paldea
+|ko=팔데아 원더 ''Paldea Wonder''
+|pt_br=Maravilhas de Paldea
+|es=Encantos de Paldea
+}}
+
+== Related articles ==
+{{TCGPocketNavigation}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wundervolles Paldea (TCG Pocket)]]
+[[es:Encantos de Paldea (TCG Pocket)]]
+[[fr:Merveilles de Paldea]]
+[[it:Meraviglie di Paldea (GCC Pocket)]]
+[[ja:パルデアワンダー]]
+[[zh:帕底亚惊奇（TCGP）]]

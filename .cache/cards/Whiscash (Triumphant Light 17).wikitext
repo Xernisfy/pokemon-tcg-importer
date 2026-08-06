@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Whiscash
+|ja name=ナマズン
+|trans name=Namazun
+|species=Whiscash
+|type=Water
+|image=WhiscashTriumphantLight17.png
+|illustrator=Shinya Komatsu
+|hp=120
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Barboach
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=017/075}}
+}}
+
+'''Whiscash''' (Japanese: '''ナマズン''' ''Namazun'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}{{e|Colorless}}
+|name=Thrash
+|jname=あばれる
+|jtrans=Violent Struggle
+|damage=80+
+|effect=Flip a coin. If heads, this attack does 60 more damage. If tails, this Pokémon also does 20 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Whiscash
+|species=Whiskers
+|ndex=0340
+|height=2'11"
+|jheight=0.9
+|weight=52
+|jweight=23.6
+|dex=It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.
+|jdex=縄張り意識が とても 強く 外敵が 近づくと 激しく 地面を 揺らして 襲いかかる。
+}}
+
+==Trivia==
+Whiscash is one of four Pokémon in the {{TCGP|Triumphant Light}} expansion featured in the "Carnivine of the Pastoria Great Marsh" [[Triumphant Light (TCG Pocket)#Themed Collections|Themed Collection]] as {{p|Whiscash}} can be found in the [[Great Marsh]] in {{game|Diamond and Pearl|s|Pokémon Diamond, Pearl}}, {{game|Platinum||Platinum}}, {{game|Brilliant Diamond and Shining Pearl|s|Brilliant Diamond, and Shining Pearl}}; this may also be the setting for this card's illustration.
+
+===Origin===
+*{{m|Thrash}} is a [[move]] in the [[Pokémon games]] that {{p|Whiscash}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Welsar (Licht des Triumphs 017)]]
+[[es:Whiscash (Luz Triunfal TCG Pocket)]]
+[[fr:Barbicha (Lumière Triomphale 017)]]
+[[it:Whiscash (Luce Trionfale 17)]]
+[[ja:ナマズン (ポケポケ A2a)]]
+[[zh:鯰魚王（A2a）]]

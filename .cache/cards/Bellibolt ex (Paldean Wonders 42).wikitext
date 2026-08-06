@@ -1,0 +1,65 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bellibolt {{TCGP Icon|ex}}
+|ja name=ハラバリー{{TCGP Icon|ex}}
+|trans name=Harabarie {{TCGP Icon|ex}}
+|species=Bellibolt
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BelliboltexPaldeanWonders42.png|illustrator=PLANETA Yamashita|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BelliboltexPaldeanWonders103.png|illustrator=PLANETA Yamashita|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BelliboltexPaldeanWonders113.png|illustrator=REND|tab caption=Special Illustration Rare}}
+|hp=160
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Tadbulb
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=042/093|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=103/093|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=113/093|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Bellibolt ex''' (Japanese: '''ハラバリーex''' ''Harabarie ex'') is a {{ct|Lightning}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=High-Voltage Cannon
+|jname=こうでんあつほう
+|jtrans=High Voltage Cannon
+|damage=70+
+|effect=If you have 4 or more {{e|Lightning}} Energy in play, this attack does 70 more damage.
+}}
+{{Cardtext/Pocket ex
+|type=Lightning
+|ndex=0939
+|name=Bellibolt
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=BelliboltexPaldeanWonders42.png
+|caption1=Double rare card<br>Illus. [[PLANETA Yamashita]]
+|image2=BelliboltexPaldeanWonders103.png
+|caption2=Super rare card<br>Illus. [[PLANETA Yamashita]]
+|image3=BelliboltexPaldeanWonders113.png
+|caption3=Special illustration rare card<br>Illus. [[REND]]
+}}
+
+==Trivia==
+===Origin===
+This card's double rare and super rare illustrations were first featured on {{TCG ID|Paldea Evolved|Bellibolt ex|79}} from the {{TCG|Paldea Evolved}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wampitz-ex (Wundervolles Paldea 042)]]
+[[fr:Ampibidou-ex (Merveilles de Paldea 042)]]
+[[it:Bellibolt-ex (Meraviglie di Paldea 42)]]
+[[ja:ハラバリーex (ポケポケ B2a)]]
+[[zh:电肚蛙ex（B2a）]]

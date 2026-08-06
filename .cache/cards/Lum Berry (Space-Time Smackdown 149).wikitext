@@ -1,0 +1,49 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Lum Berry
+|ja name=ラムのみ
+|trans name=Lum Fruit
+|subtype=Pokémon Tool
+|image=LumBerrySpace-TimeSmackdown149.png
+|illustrator=Yoshinobu Saito
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=149/155|pack=Palkia|rarity=Diamond|rarity count=2}}
+}}
+
+'''Lum Berry''' (Japanese: '''ラムのみ''' ''Lum Fruit'') is a {{TCGP|Pokémon Tool}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Tool
+|rule=Pocket Tool
+|effect=At the end of each turn, if the Pokémon this card is attached to is affected by any {{TCG|Special Condition}}s, it recovers from all of them, and discard this card.
+}}
+
+==Trivia==
+This card's effect is identical to that of the {{TCG|Lum Berry}} card in the [[Pokémon Trading Card Game]].
+
+===Origin===
+*[[Lum Berry]] is a type of [[Berry]] in the [[Pokémon games]] that can be consumed by a Pokémon to cure it from {{DL|Status condition|Non-volatile status|non-volatile}} [[status condition]]s and {{status|confusion}}.
+* This card's illustration was first featured on {{TCG ID|Sword & Shield|Lum Berry|168}} from the {{TCG|Sword & Shield}} expansion.
+
+==In other languages==
+{{langtable|color={{TCG Pokémon Tool color}}|bordercolor={{TCG Pokémon Tool color dark}}|textcolor=FFF
+|ja=ラムのみ ''Lum no Mi''
+|zh_yue=木子果 ''Muhkjí Gwó''
+|zh_cmn=木子果 ''Mùzi Guǒ''
+|fr=Baie Prine
+|de=Prunusbeere
+|it=Baccaprugna
+|ko=리샘열매 ''Risaem Yeolmae''
+|pt_br=Fruta Lum
+|es=Baya Ziuela
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Prunusbeere (TCG Pocket)]]
+[[es:Baya Ziuela (TCG Pocket)]]
+[[fr:Baie Prine (Choc Spatio-Temporel 149)]]
+[[it:Baccaprugna (Scontro Spaziotemporale 149)]]
+[[ja:ラムのみ (ポケポケ)]]
+[[zh:木子果（TCGP）]]

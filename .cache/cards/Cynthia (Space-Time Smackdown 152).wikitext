@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Cynthia
+|ja name=シロナ
+|trans name=Shirona
+|subtype=Supporter
+|image=CynthiaSpace-TimeSmackdown.png
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CynthiaSpace-TimeSmackdown152.png|illustrator=Ryuta Fuse|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CynthiaSpace-TimeSmackdown192.png|illustrator=Ryuta Fuse|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=152/155|pack=Palkia|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=192/155|pack=Palkia|rarity=Star|rarity count=2}}
+}}
+
+'''Cynthia''' (Japanese: '''シロナ''' ''Shirona'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=During this turn, attacks used by your {{TCGP|Garchomp}} or {{TCGP|Togekiss}} do +50 damage to your opponent's Active Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=CynthiaSpace-TimeSmackdown152.png
+|caption1=Uncommon card<br>Illus. [[Ryuta Fuse]]
+|image2=CynthiaSpace-TimeSmackdown192.png
+|caption2=Super rare card<br>Illus. [[Ryuta Fuse]]
+}}
+
+==Trivia==
+* {{TCG|Cynthia}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Cynthia]] is the {{pkmn|Champion}} of the [[Pokémon League (Sinnoh)|Sinnoh Pokémon League]].
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=シロナ ''Shirona''
+|zh_yue=竹蘭 ''Jūklàahn''
+|zh_cmn=竹蘭<!-- / 竹兰--> ''Zhúlán''
+|fr=Cynthia
+|de=Cynthia
+|it=Camilla
+|ko=난천 ''Nancheon''
+|pt_br=Cíntia
+|es=Cintia
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Cynthia (TCG Pocket)]]
+[[es:Cintia (TCG Pocket)]]
+[[fr:Cynthia (Choc Spatio-Temporel 152)]]
+[[it:Camilla (Scontro Spaziotemporale 152)]]
+[[ja:シロナ (ポケポケ)]]
+[[zh:竹兰（TCGP）]]

@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Swampert {{TCGP Icon|Mega ex}}
+|ja name=メガラグラージ{{TCGP Icon|Mega ex}}
+|trans name=Mega Laglarge {{TCGP Icon|Mega ex}}
+|species=Swampert
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaSwampertexFantasticalParade36.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaSwampertexFantasticalParade183.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaSwampertexFantasticalParade197.png|illustrator=nagimiso|tab caption=Special Illustration Rare}}
+|hp=230
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Marshtomp
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=036/155|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=183/155|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=197/155|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Mega Swampert ex''' (Japanese: '''メガラグラージex''' ''Mega Laglarge ex'') is a {{ct|Water}} Stage 2 {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Mega Species/Pocket|Swampert}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}
+|name=Strong-Armed Destroyer
+|jname=ゴウワンバスター
+|jtrans=Strong-Arm Buster
+|damage=150
+|effect=Discard 2 random Energy from among the Energy attached to all Pokémon ''(both yours and your opponent's)''.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Water
+|ndex=0260
+|name=Swampert
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Swampert
+|category=Mud Fish
+|ndex=0260
+|height=6'3"
+|jheight=1.9
+|weight=224.9
+|jweight=102.0
+|dex=Its arms are hard as rock. With one swing, it can break an enormous boulder into pieces. 
+|jdex=岩の ように 硬い 腕を 一振り するだけで 巨大な 岩を コナゴナに 砕くぞ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=MegaSwampertexFantasticalParade36.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=MegaSwampertexFantasticalParade183.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=MegaSwampertexFantasticalParade197.png
+|caption3=Special illustration rare card<br>Illus. [[nagimiso]]
+}}
+
+==Trivia==
+===Origin===
+*This card features [[Mega]] {{p|Swampert}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}. It refers to Swampert and has not been previously used for Mega Swampert.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Sumpex-ex (Traumhafte Parade 036)]]
+[[es:Mega-Swampert ex (Desfile de Ensueño TCG Pocket)]]
+[[fr:Méga-Laggron-ex (Parade Onirique 036)]]
+[[it:Mega Swampert-ex (Parata Fantasmagorica 36)]]
+[[ja:メガラグラージex (ポケポケ B2)]]
+[[zh:超级巨沼怪ex（B2）]]

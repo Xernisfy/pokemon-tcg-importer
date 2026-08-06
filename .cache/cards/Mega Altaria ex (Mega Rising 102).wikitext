@@ -1,0 +1,83 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Altaria {{TCGP Icon|Mega ex}}
+|ja name=メガチルタリス{{TCGP Icon|Mega ex}}
+|trans name=Mega Tyltalis {{TCGP Icon|Mega ex}}
+|species=Altaria
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaAltariaexMegaRising102.png|illustrator=PLANETA Igarashi|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaAltariaexMegaRising259.png|illustrator=PLANETA Igarashi|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaAltariaexMegaRising286.png|illustrator=Susumu Maeya|tab caption=Immersive}}
+|hp=190
+|weakness=Metal
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Swablu
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=102/226|pack=Mega Altaria|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=259/226|pack=Mega Altaria|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=286/226|pack=Mega Altaria|rarity=Star|rarity count=3}}
+}}
+
+'''Mega Altaria ex''' (Japanese: '''メガチルタリスex''' ''Mega Tyltalis ex'') is a {{ct|Psychic}} Stage 1 {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Mega Species/Pocket|Altaria}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Mega Harmony
+|jname=メガハーモニー
+|jtrans=Mega Harmony
+|damage=40+
+|effect=This attack does 30 more damage for each of your Benched Pokémon.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Psychic
+|ndex=0334
+|name=Altaria
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Altaria
+|category=Humming
+|ndex=0334
+|height=4'11"
+|jheight=1.5
+|weight=45.4
+|jweight=20.6
+|dex=Its down is so soft, it seems as if a touch could melt it. But it's strong enough that just a few strands could be used to hoist a dump truck.
+|jdex=とろけるような 肌ざわりの 羽毛は 数本で ダンプカーを 吊り上げられるほど 強靭。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=MegaAltariaexMegaRising102.png
+|caption1=Double rare card<br>Illus. [[PLANETA Igarashi]]
+|image2=MegaAltariaexMegaRising259.png
+|caption2=Super rare card<br>Illus. [[PLANETA Igarashi]]
+|image3=MegaAltariaexMegaRising286.png
+|caption3={{TCGP|Immersive card}}<br>Illus. [[Susumu Maeya]]
+}}
+
+==Trivia==
+*The Immersive card features {{p|Swablu}}, {{p|Altaria}} and Mega Altaria.
+===Origin===
+*This card features [[Mega]] {{p|Altaria}}.
+*This card's [[Pokédex]] entry comes from {{g|Legends: Z-A}}. This made it the first card based on Legends: Z-A; although the game was released only two weeks prior, it was the only one with a Pokédex entry for Mega Altaria, as similarly to [[Mega Blaziken ex (Mega Rising 36)|Mega Blaziken]], it did not receive one in [[Generation VII]].
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Altaria-ex (Mega-Aufstieg 102)]]
+[[es:Mega-Altaria ex (Megaascenso TCG Pocket)]]
+[[fr:Méga-Altaria-ex (Méga-Ascension 102)]]
+[[it:Mega Altaria-ex (Mega Ascesa 102)]]
+[[ja:メガチルタリスex (ポケポケ B1)]]
+[[zh:超级七夕青鸟ex（B1）]]

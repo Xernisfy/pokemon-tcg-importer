@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tauros
+|ja name=ケンタロス
+|trans name=Kentauros
+|species=Tauros
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TaurosMythicalIsland60.png|illustrator=KEIICHIRO ITO|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TaurosFantasticalParade224.png|illustrator=Nisota Niso|tab caption=Shiny Rare}}
+|hp=100
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=3|number=060/068}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Shiny|rarity count=1|number=224/155}}
+}}
+
+'''Tauros''' (Japanese: '''ケンタロス''' ''Kentauros'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Fighting Tackle
+|jname=とうしのタックル
+|jtrans=Fighter Tackle
+|damage=40+
+|effect=If your opponent's Active Pokémon is a {{TCGP|Pokémon ex}}, this attack does 80 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Tauros
+|species=Wild Bull
+|ndex=0128
+|height=4'7"
+|jheight=1.4
+|weight=194.9
+|jweight=88.4
+|dex=When Tauros begins whipping itself with its tails, it's a warning that the Pokémon is about to charge with astounding speed.
+|jdex=しっぽで　自分の　体を 叩きだしたら　危険だぞ｡ 猛スピードで　突っ込んでくる｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=TaurosMythicalIsland60.png
+|caption1=Rare card<br>Illus. [[KEIICHIRO ITO]]
+|image3=TaurosFantasticalParade224.png
+|caption3=Shiny rare card<br>Illus. [[Nisota Niso]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Tauros|164}} from the {{TCG|Unified Minds}} expansion.
+*'''Fighting Tackle''' is an attack that first appeared on {{TCG ID|Evolving Skies|Flapple|120}} and {{TCG ID|Evolving Skies|Appletun|121}}, both from the {{TCG|Evolving Skies}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+*This card's {{TCGP|Fantastical Parade}} print features a {{Shiny}} {{p|Tauros}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tauros (Mysteriöse Insel 060)]]
+[[es:Tauros (La Isla Singular TCG Pocket)]]
+[[fr:Tauros (L'Île Fabuleuse 060)]]
+[[it:Tauros (L'Isola Misteriosa 60)]]
+[[ja:ケンタロス (ポケポケ A1a)]]
+[[zh:肯泰罗（A1a）]]

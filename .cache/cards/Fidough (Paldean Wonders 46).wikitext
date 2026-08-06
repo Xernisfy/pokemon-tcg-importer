@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Fidough
+|ja name=パピモッチ
+|trans name=Pupimocchi
+|species=Fidough
+|type=Psychic
+|image=FidoughPaldeanWonders46.png
+|illustrator=Mizue
+|hp=60
+|weakness=Metal
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=046/093}}
+}}
+
+'''Fidough''' (Japanese: '''パピモッチ''' ''Pupimocchi'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Rear Kick
+|jname=うしろげり
+|jtrans=Rear Kick
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Fidough
+|category=Puppy 
+|ndex=0926
+|height=1'
+|jheight=0.3
+|weight=24
+|jweight=10.9
+|dex=The yeast in Fidough's breath is useful for cooking, so this Pokémon has been protected by people since long ago.
+|jdex=吐息に 含まれている 酵母が 料理を 作るのに 役立つため 古くから 人に 保護されてきた。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Fidough|97}} from the {{TCG|Scarlet & Violet}} expansion.
+**Both cards have the '''Rear Kick''' attack, which first appeared on {{TCG ID|Team Rocket|Dark Rapidash|44}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hefel (Wundervolles Paldea 046)]]
+[[fr:Pâtachiot (Merveilles de Paldea 046)]]
+[[it:Fidough (Meraviglie di Paldea 46)]]
+[[ja:パピモッチ (ポケポケ B2a)]]
+[[zh:狗仔包（B2a）]]

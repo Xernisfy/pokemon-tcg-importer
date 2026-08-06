@@ -1,0 +1,63 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Klang
+|ja name=ギギアル
+|trans name=Gigiaru
+|species=Klang
+|type=Metal
+|image=KlangWisdomofSeaandSky127.png
+|illustrator=Akira Komayama
+|hp=80
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Klink
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=127/161|pack=Ho-Oh|rarity=Diamond|rarity count=2}}
+}}
+
+'''Klang''' (Japanese: '''ギギアル''' ''Gigiaru'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Colorless}}
+|name=Gear Cutter
+|jname=ギアカッター
+|jtrans=Gear Cutter
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Klang
+|category=Gear 
+|ndex=0600
+|height=2'
+|jheight=0.6
+|weight=112.4
+|jweight=51.0
+|dex=When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokémon's rotation speed increases sharply.
+|jdex=本気の ときは でかギアの 外の 歯車と ちびギアが 合致。 回転速度が 飛躍 するのだ。
+}}
+
+==Trivia==
+[[Akira Komayama]] illustrated {{TCG ID|Plasma Storm|Klink|88}}, {{TCG ID|Plasma Storm|Klang|89}}, and {{TCG ID|Emerging Powers|Klinklang|76}} cards for the [[Pokémon Trading Card Game]]; though the cards did not release together in the TCG, their illustrations were later included alongside each other in Pokémon Trading Card Game Pocket's {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Plasma Storm|Klang|89}} from the {{TCG|Plasma Storm}} expansion.
+*'''Gear Cutter''' is an attack that first appeared on {{TCG ID|Lost Origin|Magearna|128}} from the {{TCG|Lost Origin}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kliklak (Weisheit von Meer und Himmel 127)]]
+[[es:Klang (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Clic (Sagesse entre Ciel et Mer 127)]]
+[[it:Klang (La Via del Cielo e del Mare 127)]]
+[[ja:ギギアル (ポケポケ A4)]]
+[[zh:齿轮组（A4）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Phantump
+|ja name=ボクレー
+|trans name=Bokurei
+|species=Phantump
+|type=Psychic
+|image=PhantumpExtradimensionalCrisis24.png
+|illustrator=sui
+|hp=70
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=024/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Phantump''' (Japanese: '''ボクレー''' ''Bokurei'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Spooky Shot
+|jname=ホロウショット
+|jtrans=Hollow Shot
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Phantump
+|species=Stump
+|ndex=0708
+|height=1'4"
+|jheight=0.4
+|weight=15.4
+|jweight=0.7
+|dex=With a voice like a human child's, it cries out to lure adults deep into the forest, getting them lost among the trees.
+|jdex=人間の 子どもに 似た 声で 鳴いて 大人を 森の 奥へ 誘い込み 迷わせて しまうのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Phantump|14}} from the {{TCG|Rebel Clash}} expansion.
+*'''Spooky Shot''' is an attack that first appeared on {{TCG ID|Legendary Treasures|Misdreavus|57}} and {{TCG ID|Legendary Treasures|Mismagius|58}} from the {{TCG|Legendary Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Paragoni (Dimensionale Krise 024)]]
+[[es:Phantump (Crisis Dimensional TCG Pocket)]]
+[[fr:Brocélôme (Crise Interdimensionnelle 024)]]
+[[it:Phantump (Crisi Ultradimensionale 24)]]
+[[ja:ボクレー (ポケポケ A3a)]]
+[[zh:小木灵（A3a）]]

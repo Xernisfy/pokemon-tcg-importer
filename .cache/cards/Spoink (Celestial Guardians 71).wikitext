@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Spoink
+|ja name=バネブー
+|trans name=Baneboo
+|species=Spoink
+|type=Psychic
+|image=SpoinkCelestialGuardians71.png
+|illustrator=Sekio
+|hp=70
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=071/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Spoink''' (Japanese: '''バネブー''' ''Baneboo'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Psycharge
+|jname=サイコチャージ
+|jtrans=Psycho Charge
+|damage=
+|effect=Take a {{e|Psychic}} Energy from your Energy Zone and attach it to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Spoink
+|species=Bounce
+|ndex=0325
+|height=2'4"
+|jheight=0.7
+|weight=67.5
+|jweight=30.6
+|dex=Spoink will die if it stops bouncing. The pearl on its head amplifies its psychic powers.
+|jdex=飛び跳ねていないと 死んでしまう。 頭に 乗せている 真珠が サイコパワーを 増幅させるのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Crimson Invasion|Spoink|41}} from the {{TCG|Crimson Invasion}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Spoink (Hüter des Firmaments 071)]]
+[[es:Spoink (Guardianes Celestiales TCG Pocket)]]
+[[fr:Spoink (Gardiens Astraux 071)]]
+[[it:Spoink (Guardiani Astrali 71)]]
+[[ja:バネブー (ポケポケ A3)]]
+[[zh:跳跳猪（A3）]]

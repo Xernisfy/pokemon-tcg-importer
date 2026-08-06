@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Magnemite
+|ja name=コイル
+|trans name=Coil
+|species=Magnemite
+|type=Lightning
+|image=MagnemiteSpace-TimeSmackdown51.png
+|illustrator=MAHOU
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=051/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Magnemite''' (Japanese: '''コイル''' ''Coil'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Colorless}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Magnemite
+|species=Magnet
+|ndex=0081
+|height=1'
+|jheight=0.3
+|weight=13.2
+|jweight=6.0
+|dex=The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.
+|jdex=左右にある　ユニットから　だす 電磁波で　重力を さえぎって　空に　浮かぶのだ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ultra Prism|Magnemite|80}} from the {{TCG|Ultra Prism}} expansion.
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Magnetilo (Kollision von Raum und Zeit 051)]]
+[[es:Magnemite (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Magnéti (Choc Spatio-Temporel 051)]]
+[[it:Magnemite (Scontro Spaziotemporale 51)]]
+[[ja:コイル (ポケポケ A2)]]
+[[zh:小磁怪（A2）]]

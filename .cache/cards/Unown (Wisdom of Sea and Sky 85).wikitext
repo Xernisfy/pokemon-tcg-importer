@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Unown
+|ja name=アンノーン
+|trans name=Unknown
+|species=Unown
+|type=Psychic
+|image=UnownWisdomofSeaandSky85.png
+|illustrator=Anesaki Dynamic
+|hp=60
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lugia|rarity=Diamond|rarity count=3|number=085/161}}
+}}
+
+'''Unown''' (Japanese: '''アンノーン''' ''Unknown'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=POWER
+|jname=［パワー］
+|jtrans=Power
+|effect=This Ability works if you have any {{TCGP|Unown}} in play with an Ability other than POWER. Attacks used by your Pokémon do +10 damage to your opponent's Active Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}
+|name=Hidden Power
+|jname=めざめるパワー
+|jtrans=Awakening Power
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Unown
+|category=Symbol 
+|ndex=0201
+|height=1'8"
+|jheight=0.5
+|weight=11
+|jweight=5.0
+|dex=Its flat, thin body is always stuck on walls. Its shape appears to have some meaning.
+|jdex=体自体は 薄っぺらく いつも 壁に 張りついている。 形に なにか 意味があるらしい。
+}}
+
+==Trivia==
+The {{p|Unown}} featured this card's illustration spell out "POWER", the name of the card's {{TCG|Ability}}.
+
+===Origin===
+*{{m|Hidden Power}} is a [[move]] in the [[Pokémon games]] that {{p|Unown}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Icognito (Weisheit von Meer und Himmel 085)]]
+[[es:Unown (Saber Marino y Celeste 85 TCG Pocket)]]
+[[fr:Zarbi (Sagesse entre Ciel et Mer 085)]]
+[[it:Unown (La Via del Cielo e del Mare 85)]]
+[[ja:アンノーン (ポケポケ A4 085)]]
+[[zh:未知图腾（A4 085）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dustox
+|ja name=ドクケイル
+|trans name=Dokucale
+|species=Dustox
+|type=Grass
+|image=DustoxMegaRising7.png
+|illustrator=Midori Harada
+|hp=130
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Cascoon
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=007/226|pack=Mega Blaziken|rarity=Diamond|rarity count=3}}
+}}
+
+'''Dustox''' (Japanese: '''ドクケイル''' ''Dokucale'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Select Powder
+|jname=セレクトパウダー
+|jtrans=Select Powder
+|damage=60
+|effect=Choose either {{TCG|Poisoned}} or {{TCG|Confused}}. Your opponent's Active Pokémon is now affected by that {{TCG|Special Condition}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Dustox
+|category=Poison Moth
+|ndex=0269
+|height=3'11"
+|jheight=1.2
+|weight=69.7
+|jweight=31.6
+|dex=It violently flutters its wings to scatter toxic dust when attacked. It becomes active after sunset.
+|jdex=襲われると 激しく 羽ばたいて 猛毒の 粉を まき散らす。 日が暮れると 行動を はじめる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Ruby & Sapphire|Dustox|6}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*'''Select Powder''' is an attack that first appeared on {{TCG ID|Supreme Victors|Butterfree FB|17}} from the {{TCG|Supreme Victors}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pudox (Mega-Aufstieg 007)]]
+[[es:Dustox (Megaascenso TCG Pocket)]]
+[[fr:Papinox (Méga-Ascension 007)]]
+[[it:Dustox (Mega Ascesa 7)]]
+[[ja:ドクケイル (ポケポケ B1)]]
+[[zh:毒粉蛾（B1）]]

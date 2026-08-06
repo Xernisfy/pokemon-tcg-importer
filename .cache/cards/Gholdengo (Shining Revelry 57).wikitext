@@ -1,0 +1,78 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gholdengo
+|ja name=サーフゴー
+|trans name=Surfugo
+|species=Gholdengo
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GholdengoShiningRevelry57.png|illustrator=HYOGONOSUKE|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GholdengoShiningRevelry77.png|illustrator=Jerky|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GholdengoPaldeanWonders125.png|illustrator=Tomowaka|tab caption=Shiny Rare}}
+|hp=120
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Gimmighoul
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=057/072|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=077/072|pack=Any|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=125/093|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Gholdengo''' (Japanese: '''サーフゴー''' ''Surfugo'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Colorless}}{{e|Colorless}}
+|name=Scintillating Surfing
+|jname=ゴージャスサーフ
+|jtrans=Gorgeous Surf
+|damage=50×
+|effect=Flip a coin for each {{e|Metal}} Energy attached to this Pokémon. This attack does 50 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Gholdengo
+|category=Coin Entity 
+|ndex=1000
+|height=3'11"
+|jheight=1.2
+|weight=66.1
+|jweight=30.0
+|dex=Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.
+|jdex=1000枚の コインで 体が できているらしい。 人懐こく だれとでも すぐに 仲良くなれる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=GholdengoShiningRevelry57.png
+|caption1=Rare card<br>Illus. [[HYOGONOSUKE]]
+|image2=GholdengoShiningRevelry77.png
+|caption2=Illustration rare card<br>Illus. [[Jerky]]
+|image3=GholdengoPaldeanWonders125.png
+|caption3=Shiny rare card<br>Illus. [[Tomowaka]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare illustration features a {{Shiny}} {{p|Gholdengo}}.
+*'''Scintillating Surfing''' is an attack that first appeared on {{TCG ID|Paldean Fates|Gholdengo|67}} from the {{TCG|Paldean Fates}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Monetigo (Glänzendes Festival 057)]]
+[[es:Gholdengo (Festival Brillante TCG Pocket)]]
+[[fr:Gromago (Réjouissances Rayonnantes 057)]]
+[[it:Gholdengo (Tripudio Splendente 57)]]
+[[ja:サーフゴー (ポケポケ A2b)]]
+[[zh:賽富豪（A2b）]]

@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cyclizar
+|ja name=モトトカゲ
+|trans name=Mototokage
+|species=Cyclizar
+|type=Colorless
+|image=CyclizarPaldeanWonders84.png
+|illustrator=AKIRA EGAWA
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=084/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Cyclizar''' (Japanese: '''モトトカゲ''' ''Mototokage'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Driving Buddy
+|jname=バディドライブ
+|jtrans=Buddy Drive
+|damage=40+
+|effect=If you played a {{TCGP|Supporter card}} from your hand during this turn, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Cyclizar
+|category=Mount
+|ndex=0967
+|height=5'3"
+|jheight=1.6
+|weight=138.9
+|jweight=63.0
+|dex=It can sprint at over 70 mph while carrying a human. The rider's body heat warms Cyclizar's back and lifts the Pokémon's spirit.
+|jdex=人を 乗せて 時速120キロで 疾走する。 人の 体温で 背中が 温まり 元気になる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Cyclizar|163}} from the {{TCG|Scarlet & Violet}} expansion.
+*'''Driving Buddy''' is an attack that first appeared on {{TCG ID|Paradox Rift|Cyclizar|157}} from the {{TCG|Paradox Rift}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mopex (Wundervolles Paldea 084)]]
+[[fr:Motorizard (Merveilles de Paldea 084)]]
+[[it:Cyclizar (Meraviglie di Paldea 84)]]
+[[ja:モトトカゲ (ポケポケ B2a)]]
+[[zh:摩托蜥（B2a）]]

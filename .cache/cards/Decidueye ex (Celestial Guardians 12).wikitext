@@ -1,0 +1,83 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Decidueye {{TCGP Icon|ex}}
+|ja name=ジュナイパー{{TCGP Icon|ex}}
+|trans name=Junaiper {{TCGP Icon|ex}}
+|species=Decidueye
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DecidueyeexCelestialGuardians12.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DecidueyeexCelestialGuardians180.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DecidueyeexCelestialGuardians198.png|illustrator=Takumi Wada|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DecidueyeexMegaRising317.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=170
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Dartrix
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=012/155|pack=Lunala|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=180/155|pack=Lunala|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=198/155|pack=Lunala|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=042/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=317/226|pack=Mega Blaziken|rarity=Shiny|rarity count=2}}
+}}
+
+'''Decidueye ex''' (Japanese: '''ジュナイパーex''' ''Junaiper ex'') is a {{ct|Grass}} Stage 2 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Pierce the Pain
+|jname=きずをうちぬく
+|jtrans=Pierce the Wound
+|damage=
+|effect=This attack does 100 damage to 1 of your opponent's Pokémon that has damage on it.
+}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Razor Leaf
+|jname=はっぱカッター
+|jtrans=Leaf Cutter
+|damage=80
+|effect=
+}}
+{{Cardtext/Pocket ex
+|type=Grass
+|ndex=0724
+|name=Decidueye
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=DecidueyeexCelestialGuardians12.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=DecidueyeexCelestialGuardians180.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image4=DecidueyeexCelestialGuardians198.png
+|caption4=Special illustration rare card<br>Illus. [[Takumi Wada]]
+|image5=DecidueyeexMegaRising317.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Decidueye}}.
+*{{m|Razor Leaf}} is a [[move]] in the [[Pokémon games]] that Decidueye can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Silvarro-ex (Hüter des Firmaments 012)]]
+[[es:Decidueye ex (Guardianes Celestiales TCG Pocket)]]
+[[fr:Archéduc-ex (Gardiens Astraux 012)]]
+[[it:Decidueye-ex (Guardiani Astrali 12)]]
+[[ja:ジュナイパーex (ポケポケ A3)]]
+[[zh:狙射树枭ex（A3）]]

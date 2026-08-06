@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lunatone
+|ja name=ルナトーン
+|trans name=Lunatone
+|species=Lunatone
+|type=Psychic
+|image=LunatoneCelestialGuardians73.png
+|illustrator=Hisao Nakamura
+|hp=80
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=073/155|pack=Lunala|rarity=Diamond|rarity count=1}}
+}}
+
+'''Lunatone''' (Japanese: '''ルナトーン''' ''Lunatone'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Moon Press
+|jname=ムーンプレス
+|jtrans=Moon Press
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Lunatone
+|species=Meteorite
+|ndex=0337
+|height=3'3"
+|jheight=1.0
+|weight=370.4
+|jweight=168.0
+|dex=The phase of the moon apparently has some effect on its power. It's active on the night of a full moon.
+|jdex=月の 満ち欠けと パワーの 増減が 関係 しているらしく 満月の 夜 活発になる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Legend Maker|Lunatone|20}} from the {{TCG|EX Legend Maker}} expansion.
+*'''Moon Press''' is an attack that first appeared on {{TCG ID|SM Promo|Celesteela-GX|67}}, one of the {{TCG|SM Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lunastein (Hüter des Firmaments 073)]]
+[[es:Lunatone (Guardianes Celestiales TCG Pocket)]]
+[[fr:Séléroc (Gardiens Astraux 073)]]
+[[it:Lunatone (Guardiani Astrali 73)]]
+[[ja:ルナトーン (ポケポケ A3)]]
+[[zh:月石（A3）]]

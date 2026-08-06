@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Drifblim
+|ja name=フワライド
+|trans name=Fuwaride
+|species=Drifblim
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DrifblimMegaRising108.png|illustrator=Yumi|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DrifblimPromo-B10.png|illustrator=Kyoko Umemoto|tab caption=Promo}}
+|hp=100
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Drifloon
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=108/226|pack=Mega Altaria|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=010/P-B}}
+}}
+
+'''Drifblim''' (Japanese: '''フワライド''' ''Fuwaride'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Balloon Barrage
+|jname=バルーンボンバー
+|jtrans=Balloon Bomber
+|damage=20+
+|effect=This attack does 20 more damage for each Energy attached to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Drifblim
+|category=Blimp
+|ndex=0426
+|height=3'11"
+|jheight=1.2
+|weight=33.1
+|jweight=15.0
+|dex=They carry people and Pokémon, but the wind can catch them, so there can't be a fixed destination.
+|jdex=人や ポケモンを 運ぶ。ただし 風に 流されてしまうので 行き先を 決められない。
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} print of this card was available via special wonder picks during the Mega Gyarados [[Wonder Pick Event (Mega Gyarados)|Wonder Pick Event]], which ran from December 7 to 17, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=DrifblimMegaRising108.png
+|caption1=Uncommon card<br>Illus. [[Yumi]]
+|image2=DrifblimPromo-B10.png
+|caption2=Promo card<br>Illus. [[Kyoko Umemoto]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Ultra Prism|Drifblim|52}} from the {{TCG|Ultra Prism}} expansion.
+*This card's {{TCGP|Promo-B}} illustration was first featured on {{TCG ID|Astral Radiance|Drifblim|64}} from the {{TCG|Astral Radiance}} expansion.
+*'''Balloon Barrage''' is an attack that first appeared on {{TCG ID|XY|Wigglytuff|90}} from the {{TCG|XY}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Drifzepeli (Mega-Aufstieg 108)]]
+[[es:Drifblim (Megaascenso TCG Pocket)]]
+[[fr:Grodrive (Méga-Ascension 108)]]
+[[it:Drifblim (Mega Ascesa 108)]]
+[[ja:フワライド (ポケポケ B1)]]
+[[zh:随风球（B1）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Palpitoad
+|ja name=ガマガル
+|trans name=Gamagaru
+|species=Palpitoad
+|type=Water
+|image=PalpitoadMegaRising64.png
+|illustrator=Shimaris Yukichi
+|hp=90
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Tympole
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=064/226}}
+}}
+
+'''Palpitoad''' (Japanese: '''ガマガル''' ''Gamagaru'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Hyper Voice
+|jname=ハイパーボイス
+|jtrans=Hyper Voice
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Palpitoad
+|species=Vibration
+|ndex=0536
+|height=2'7"
+|jheight=0.8
+|weight=37.5
+|jweight=17.0
+|dex=On occasion, their cries are sublimely pleasing to the ear. Palpitoad with larger lumps on their bodies can sing with a wider range of sounds. 
+|jdex=きれいな 声で 鳴くこともある。 体の 突起が 大きいほど 広い 音域で 鳴けるのだ。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Hyper Voice}} is a [[move]] in the [[Pokémon games]] that {{p|Palpitoad}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mebrana (Mega-Aufstieg 064)]]
+[[es:Palpitoad (Megaascenso TCG Pocket)]]
+[[fr:Batracné (Méga-Ascension 064)]]
+[[it:Palpitoad (Mega Ascesa 64)]]
+[[ja:ガマガル (ポケポケ B1)]]
+[[zh:蓝蟾蜍（B1）]]

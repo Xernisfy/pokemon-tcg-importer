@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Staraptor
+|ja name=ムクホーク
+|trans name=Mukuhawk
+|species=Staraptor
+|type=Colorless
+|image=StaraptorCrimsonBlaze61.png
+|illustrator=AKIRA EGAWA
+|hp=140
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Staravia
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=061/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Staraptor''' (Japanese: '''ムクホーク''' ''Mukuhawk'') is a {{ct|Colorless}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Hurricane Wing
+|jname=ハリケーンウイング
+|jtrans=Hurricane Wing
+|damage=50×
+|effect=Flip 4 coins. This attack does 50 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Staraptor
+|species=Predator
+|ndex=0398
+|height=3'11"
+|jheight=1.2
+|weight=54.9
+|jweight=24.9
+|dex=It never stops attacking even if it is injured. It fusses over the shape of its comb.
+|jdex=じぶんの　からだが　きずつこうとも　こうげきを　やめなくなった。 とさかの　かたちを　きにしている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Staraptor|147}} from the {{TCG|Darkness Ablaze}} expansion.
+*'''Hurricane Wing''' is an attack that first appeared on {{TCG ID|Unleashed|Crobat|14}} from {{TCG|Unleashed}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Staraptor (Feuerrote Flammen 061)]]
+[[fr:Étouraptor (Embrasement Écarlate 061)]]
+[[it:Staraptor (Fiamme Cremisi 61)]]
+[[ja:ムクホーク (ポケポケ B1a)]]
+[[zh:姆克鹰（B1a）]]

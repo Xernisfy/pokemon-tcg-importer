@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rabsca
+|ja name=ベラカス
+|trans name=Beracas
+|species=Rabsca
+|type=Psychic
+|image=RabscaPaldeanWonders49.png
+|illustrator=Oswaldo KATO
+|hp=70
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Rellor
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=049/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Rabsca''' (Japanese: '''ベラカス''' ''Beracas'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Psybeam
+|jname=サイケこうせん
+|jtrans=Psyche Beam
+|damage=80
+|effect=Your opponent's Active Pokémon is now {{TCG|Confused}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Rabsca
+|category=Rolling
+|ndex=0954
+|height=1'
+|jheight=0.3
+|weight=7.7
+|jweight=3.5
+|dex=An infant sleeps inside the ball. Rabsca rolls the ball soothingly with its legs to ensure the infant sleeps comfortably.
+|jdex=玉の中に 赤ん坊が 眠る。 心地よく 眠れるように 脚で 玉を まわして あやしているのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Paldea Evolved|Rabsca|99}} from the {{TCG|Paldea Evolved}} expansion.
+**Both cards have the {{m|Psybeam}} attack; this is a move in the [[Pokémon games]] that {{p|Rabsca}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Skarabaks (Wundervolles Paldea 049)]]
+[[fr:Bérasca (Merveilles de Paldea 049)]]
+[[it:Rabsca (Meraviglie di Paldea 49)]]
+[[ja:ベラカス (ポケポケ B2a)]]
+[[zh:虫甲圣（B2a）]]

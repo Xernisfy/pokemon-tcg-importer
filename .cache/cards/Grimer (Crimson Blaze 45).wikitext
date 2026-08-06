@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Grimer
+|ja name=ベトベター
+|trans name=Betbeter
+|species=Grimer
+|type=Darkness
+|image=GrimerCrimsonBlaze45.png
+|illustrator=Kagemaru Himeno
+|hp=80
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=045/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Grimer''' (Japanese: '''ベトベター''' ''Betbeter'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=Sludge Bomb
+|jname=ヘドロばくだん
+|jtrans=Sludge Bomb
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Grimer
+|species=Sludge
+|ndex=0088
+|height=2'11"
+|jheight=0.9
+|weight=66.1
+|jweight=30.0
+|dex=Appears in filthy areas. It thrives by sucking up polluted sludge that is pumped out of factories.
+|jdex=汚い 場所に 現れる。 工場が 流す ヘドロ廃液を 飲んで 生きている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Next Destinies|Grimer|52}} from the {{TCG|Next Destinies}} expansion.
+*{{m|Sludge Bomb}} is a [[move]] in the [[Pokémon games]] that {{p|Grimer}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sleima (Feuerrote Flammen 045)]]
+[[fr:Tadmorv (Embrasement Écarlate 045)]]
+[[it:Grimer (Fiamme Cremisi 45)]]
+[[ja:ベトベター (ポケポケ B1a)]]
+[[zh:臭泥（B1a）]]

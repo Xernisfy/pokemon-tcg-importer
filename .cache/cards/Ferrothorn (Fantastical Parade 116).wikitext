@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ferrothorn
+|ja name=ナットレイ
+|trans name=Nutrey
+|species=Ferrothorn
+|type=Metal
+|image=FerrothornFantasticalParade116.png
+|illustrator=Midori Harada
+|hp=120
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Ferroseed
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=116/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Ferrothorn''' (Japanese: '''ナットレイ''' ''Nutrey'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Colorless}}
+|name=Pummel
+|jname=ぶんなぐる
+|jtrans=Wallop
+|damage=40+
+|effect=Flip a coin. If heads, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Ferrothorn
+|category=Thorn Pod
+|ndex=0598
+|height=3'3"
+|jheight=1.0
+|weight=242.5
+|jweight=110.0
+|dex=Its spikes are harder than steel. This Pokémon crawls across rock walls by stabbing the spikes on its feelers into the stone.
+|jdex=鋼より 硬い 棘を もつ。 触手の 棘を 突き刺し 岩壁を 這って 移動する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sword & Shield|Ferrothorn|131}} from the {{TCG|Sword & Shield}} expansion.
+*'''Pummel''' is an attack that first appeared on {{TCG ID|Noble Victories|Timburr|62}} and {{TCG ID|Noble Victories|Gurdurr|63}}, both from the {{TCG|Noble Victories}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tentantel (Traumhafte Parade 116)]]
+[[fr:Noacier (Parade Onirique 116)]]
+[[it:Ferrothorn (Parata Fantasmagorica 116)]]
+[[ja:ナットレイ (ポケポケ B2)]]
+[[zh:坚果哑铃（B2）]]

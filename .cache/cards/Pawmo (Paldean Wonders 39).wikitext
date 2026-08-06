@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pawmo
+|ja name=パモット
+|trans name=Pamot
+|species=Pawmo
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PawmoPaldeanWonders39.png|illustrator=Kanami Ogata|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PawmoPaldeanWonders120.png|illustrator=whomor Inc.|tab caption=Shiny Rare}}
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Pawmi
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=039/093|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=120/093|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Pawmo''' (Japanese: '''パモット''' ''Pamot'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Head Bolt
+|jname=ヘッドボルト
+|jtrans=Head Volt
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Pawmo
+|category=Mouse
+|ndex=0922
+|height=1'4"
+|jheight=0.4
+|weight=14.3
+|jweight=6.5
+|dex=Pawmo uses a unique fighting technique in which it uses its forepaws to strike foes and zap them with electricity from its paw pads simultaneously.
+|jdex=手のひらで 打撃を 加えつつ 肉球で 電撃を 浴びせる 独特の 格闘技を 使う。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=PawmoPaldeanWonders39.png
+|caption1=Common card<br>Illus. [[Kanami Ogata]]
+|image2=PawmoPaldeanWonders120.png
+|caption2=Shiny rare card<br>Illus. [[whomor Inc.]]
+}}
+
+==Trivia==
+This is the only diamond-rarity card in the {{TCGP|Paldean Wonders}} expansion to feature original artwork not previously used in the [[Pokémon Trading Card Game]].
+
+===Origin===
+*This card's standard illustration features {{p|Pawmo}} and {{p|Pikachu}}.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Pawmo}}.
+*'''Head Bolt''' is an attack that first appeared on {{TCG ID|Arceus|Manectric|44}} from the {{TCG|Platinum: Arceus|Arceus}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pamamo (Wundervolles Paldea 039)]]
+[[es:Pawmo (Encantos de Paldea TCG Pocket)]]
+[[fr:Pohmotte (Merveilles de Paldea 039)]]
+[[it:Pawmo (Meraviglie di Paldea 39)]]
+[[ja:パモット (ポケポケ B2a)]]
+[[zh:布土拨（B2a）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Morelull
+|ja name=ネマシュ
+|trans name=Nemasyu
+|species=Morelull
+|type=Psychic
+|image=MorelullExtradimensionalCrisis26.png
+|illustrator=Midori Harada
+|hp=50
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=026/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Morelull''' (Japanese: '''ネマシュ''' ''Nemasyu'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Hook
+|jname=ひっかける
+|jtrans=Hook
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Morelull
+|species=Illuminating
+|ndex=0755
+|height=8"
+|jheight=0.2
+|weight=3.3
+|jweight=1.5
+|dex=It scatters spores that flicker and glow. Anyone seeing these lights falls into a deep slumber.
+|jdex=点滅しながら 発光する 胞子を あたりに ばら撒く。 その光を 見た者は 深い眠りに おちる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ultra Prism|Morelull|92}} from the {{TCG|Ultra Prism}} expansion.
+*'''Hook''' is an attack that first appeared on {{TCG ID|EX Dragon|Magnemite|61}} from the {{TCG|EX Dragon}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bubungus (Dimensionale Krise 026)]]
+[[es:Morelull (Crisis Dimensional TCG Pocket)]]
+[[fr:Spododo (Crise Interdimensionnelle 026)]]
+[[it:Morelull (Crisi Ultradimensionale 26)]]
+[[ja:ネマシュ (ポケポケ A3a)]]
+[[zh:睡睡菇（A3a）]]

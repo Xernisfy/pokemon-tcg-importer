@@ -1,0 +1,56 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Protective Poncho
+|ja name=まもりのポンチョ
+|trans name=Protective Poncho
+|subtype=Pokémon Tool
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ProtectivePonchoFantasticalParade147.png|illustrator=Toyste Beach|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ProtectivePonchoFantasticalParade234.png|illustrator=Toyste Beach|tab caption=Ultra Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=147/155}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Crown|rarity count=1|number=234/155}}
+}}
+
+'''Protective Poncho''' (Japanese: '''まもりのポンチョ''' ''Protective Poncho'') is an {{TCGP|Pokémon Tool}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Pokémon Tool
+|rule=Pocket Tool
+|effect=As long as the Pokémon this card is attached to is on your Bench, prevent all damage done to that Pokémon by your opponent's attacks and {{TCG|Ability|Abilities}}.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Pokémon Tool
+|image1=ProtectivePonchoFantasticalParade147.png
+|caption1=Uncommon card<br>Illus. [[Toyste Beach]]
+|image2=ProtectivePonchoFantasticalParade234.png
+|caption2=Ultra rare card<br>Illus. [[Toyste Beach]]
+}}
+
+==Trivia==
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Pokémon Tool color}}|bordercolor={{TCG Pokémon Tool color dark}}|textcolor=FFF
+|ja=まもりのポンチョ ''Mamori no Poncho''
+|zh_yue=守護披風 ''Sáuwuh Pēifūng''
+|zh_cmn=守護披風 ''Shǒuhù Pīfēng''
+|fr=Poncho Protecteur
+|de=Schützender Poncho
+|it=Poncho Protettivo
+|ko=수호의 판초 ''Suho-ui Pancho''
+|pt_br=Poncho Protetor
+|es=Poncho Protector
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schützender Poncho (TCG Pocket)]]
+[[fr:Poncho Protecteur (Parade Onirique 147)]]
+[[it:Poncho Protettivo (Parata Fantasmagorica 147)]]
+[[ja:まもりのポンチョ]]
+[[zh:守护披风（TCGP）]]

@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Golduck
+|ja name=ゴルダック
+|trans name=Golduck
+|species=Golduck
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GolduckGeneticApex58.png|illustrator=Naoki Saito|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GolduckSecludedSprings94.png|illustrator=Scav|tab caption=Shiny Rare}}
+|hp=90
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Psyduck
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=058/226|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=094/071|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Golduck''' (Japanese: '''ゴルダック''' ''Golduck'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Aqua Edge
+|jname=アクアエッジ
+|jtrans=Aqua Edge
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Golduck
+|species=Duck
+|ndex=0055
+|height=5'7"
+|jheight=1.7
+|weight=168.9
+|jweight=76.6
+|dex=When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.
+|jdex=水かきのついた　長い　手足を 使い　全力で　泳ぎだすと なぜか　額が　光り輝く｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=GolduckGeneticApex58.png
+|caption1=Common card<br>Illus. [[Naoki Saito]]
+|image2=GolduckSecludedSprings94.png
+|caption2=Shiny rare card<br>Illus. [[Scav]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare print features a {{Shiny}} {{p|Golduck}}.
+*This card's illustration was first featured on {{TCG ID|Triumphant|Golduck|22}} from the {{TCG|Triumphant}} expansion.
+*'''Aqua Edge''' is an attack that first appeared on {{TCG ID|Kalos Starter Set|Greninja|14}} from the {{TCG|Kalos Starter Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Entoron (Unschlagbare Gene 058)]]
+[[es:Golduck (Genes Formidables TCG Pocket)]]
+[[fr:Akwakwak (Puissance Génétique 058)]]
+[[it:Golduck (Geni Supremi 58)]]
+[[ja:ゴルダック (ポケポケ A1)]]
+[[zh:哥达鸭（A1）]]

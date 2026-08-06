@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Metal Core Barrier
+|ja name=メタルコアバリア
+|trans name=Metal Core Barrier
+|subtype=Pokémon Tool
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MetalCoreBarrierFantasticalParade148.png|illustrator=Studio Bora Inc.|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MetalCoreBarrierMegaShine117.png|illustrator=Studio Bora Inc.|tab caption=Ultra Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=148/155|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=117/069|pack=Any|rarity=Crown|rarity count=1}}
+}}
+
+'''Metal Core Barrier''' (Japanese: '''メタルコアバリア''' ''Metal Core Barrier'') is a {{TCGP|Pokémon Tool}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Tool
+|rule=Pocket Tool
+|effect=If this card is attached to 1 of your Pokémon, discard it at the end of your opponent's turn.
+The {{e|Metal}} Pokémon this card is attached to takes −50 damage from attacks from your opponent's Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Pokémon Tool
+|image1=MetalCoreBarrierFantasticalParade148.png
+|caption1=Uncommon card<br>Illus. [[Studio Bora Inc.]]
+|image2=MetalCoreBarrierMegaShine117.png
+|caption2=Ultra rare card<br>Illus. [[Studio Bora Inc.]]
+}}
+
+==Trivia==
+This card's effect is similar to that of the {{TCG|Metal Core Barrier}} card in the [[Pokémon Trading Card Game]], but reduces damage by 50 instead of 70. 
+===Origin===
+*This card's uncommon illustration was first featured on {{TCG ID|Unbroken Bonds|Metal Core Barrier|180}} from the {{TCG|Unbroken Bonds}} expansion.
+
+==In other languages==
+{{langtable|color={{TCG Pokémon Tool color}}|bordercolor={{TCG Pokémon Tool color dark}}|textcolor=FFF
+|ja=メタルコアバリア ''Metal Core Barrier''
+|zh_yue=金屬核心屏障 ''Gāmsuhk Hahtsām Pìhngjeung''
+|zh_cmn=金屬核心屏障 ''Jīnshǔ Héxīn Píngzhàng''
+|fr=Barrière de Métal Renforcé
+|de=Metallkernbarriere
+|it=Barriera Metallica
+|ko=메탈코어 배리어 ''Metal Core Barrier''
+|pt_br=Barreira de Núcleo Metálico
+|es=Barrera Núcleo Metálico
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Metallkernbarriere (TCG Pocket)]]
+[[fr:Barrière de Métal Renforcé (Parade Onirique 148)]]
+[[it:Barriera Metallica (Parata Fantasmagorica 148)]]
+[[ja:メタルコアバリア (ポケポケ)]]
+[[zh:金属核心屏障（TCGP）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Meowth
+|ja name=アローラニャース
+|trans name=Alolan Nyarth
+|species=Meowth
+|type=Darkness
+|image=AlolanMeowthCelestialGuardians108.png
+|illustrator=sui
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=108/155|pack=Solgaleo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Alolan Meowth''' (Japanese: '''アローラニャース''' ''Alolan Nyarth'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Scratch
+|jname=ひっかく
+|jtrans=Scratch
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Meowth
+|category=Scratch Cat 
+|ndex=0052
+|height=1'4"
+|jheight=0.4
+|weight=9.3
+|jweight=4.2
+|dex=It's accustomed to luxury because it used to live with Alolan royalty. As a result, it's very picky about food.
+|jdex=むかし アローラ地方の 王族と 贅沢な 暮らしを していたため エサの 選り好みが 激しい。
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Meowth}}.
+*This card's illustration was first featured on {{TCG ID|SM Promo|Alolan Meowth|51}}, one of the {{TCG|SM Black Star Promos|Sun & Moon Black Star Promos}}; both cards have the Scratch attack.
+*{{m|Scratch}} is a [[move]] in the [[Pokémon games]] that Alolan Meowth can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Mauzi (Hüter des Firmaments 108)]]
+[[es:Meowth de Alola (Guardianes Celestiales TCG Pocket)]]
+[[fr:Miaouss d'Alola (Gardiens Astraux 108)]]
+[[it:Meowth di Alola (Guardiani Astrali 108)]]
+[[ja:アローラニャース (ポケポケ A3)]]
+[[zh:阿罗拉 喵喵（A3）]]

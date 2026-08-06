@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Poliwhirl
+|ja name=ニョロゾ
+|trans name=Nyorozo
+|species=Poliwhirl
+|type=Water
+|image=PoliwhirlWisdomofSeaandSky39.png
+|illustrator=Scav
+|hp=90
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Poliwag
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=039/161|pack=Lugia|rarity=Diamond|rarity count=2}}
+}}
+
+'''Poliwhirl''' (Japanese: '''ニョロゾ''' ''Nyorozo'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Wave Splash
+|jname=スプラッシュ
+|jtrans=Splash
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Poliwhirl
+|species=Tadpole
+|ndex=0061
+|height=3'3"
+|jheight=1
+|weight=44.1
+|jweight=20.0
+|dex=Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl's has been used in place of lullabies to get children to go to sleep.
+|jdex=お腹の　渦は　ずっと　見ていると 眠くなる｡　子守唄がわりに 子どもを　寝つかせるのにも　使う｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Origin|Poliwhirl|31}} from the {{TCG|Lost Origin}} expansion.
+*'''Wave Splash''' is an attack that first appeared on {{TCG ID|Vending|Golduck|S3}} from {{TCG|Expansion Sheet 3}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Quaputzi (Weisheit von Meer und Himmel 039)]]
+[[es:Poliwhirl (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Têtarte (Sagesse entre Ciel et Mer 039)]]
+[[it:Poliwhirl (La Via del Cielo e del Mare 39)]]
+[[ja:ニョロゾ (ポケポケ A4)]]
+[[zh:蚊香君（A4）]]

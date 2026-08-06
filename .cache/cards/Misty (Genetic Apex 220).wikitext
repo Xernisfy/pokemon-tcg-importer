@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Misty
+|ja name=カスミ
+|trans name=Kasumi
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MistyGeneticApex220.png|illustrator=Sanosuke Sakuma|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MistyGeneticApex267.png|illustrator=Sanosuke Sakuma|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=220/226|pack=Pikachu|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=267/226|pack=Pikachu|rarity=Star|rarity count=2}}
+}}
+
+'''Misty''' (Japanese: '''カスミ''' ''Kasumi'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Choose 1 of your {{e|Water}} Pokémon, and flip a coin until you get tails. For each heads, take a {{e|Water}} Energy from your Energy Zone and attach it to that Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=MistyGeneticApex220.png
+|caption1=Uncommon card<br>Illus. [[Sanosuke Sakuma]]
+|image2=MistyGeneticApex267.png
+|caption2=Super rare card<br>Illus. [[Sanosuke Sakuma]]
+}}
+
+==Trivia==	
+* {{TCG|Misty}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Misty]] is a [[Gym Leader]] in [[Kanto]]. The interior of the [[Cerulean Gym]], as depicted in {{game|FireRed and LeafGreen|s}}, is featured in the regular print's illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=カスミ ''Kasumi''
+|zh_yue=小霞 ''Síu Hàh''
+|zh_cmn=小霞 ''Xiǎo Xiá''
+|fr=Ondine
+|de=Misty
+|it=Misty
+|ko=이슬 ''Iseul''
+|pt_br=Misty
+|es=Misty
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Misty (TCG Pocket)]]
+[[es:Misty (TCG Pocket)]]
+[[fr:Ondine (Puissance Génétique 220)]]
+[[it:Misty (Geni Supremi 220)]]
+[[ja:カスミ (ポケポケ)]]
+[[zh:小霞（TCGP）]]

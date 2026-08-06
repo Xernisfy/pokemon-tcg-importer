@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Petilil
+|ja name=チュリネ
+|trans name=Churine
+|species=Petilil
+|type=Grass
+|image=PetililGeneticApex29.png
+|illustrator=Naoyo Kimura
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=029/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Petilil''' (Japanese: '''チュリネ''' ''Churine'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Blot
+|jname=ちょっとすいとる
+|jtrans=Slight Absorb
+|damage=10
+|effect=Heal 10 damage from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Petilil
+|species=Bulb
+|ndex=0548
+|height=1'8"
+|jheight=0.5
+|weight=14.6
+|jweight=6.6
+|dex=The leaves on its head grow right back even if they fall out. These bitter leaves refresh those who eat them.
+|jdex=抜け落ちても　すぐに　生えてくる 頭の　葉っぱは　とても　苦いが かじれば　すぐ　元気に　なれる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BREAKpoint|Petilil|7}} from the {{TCG|BREAKpoint}} expansion.
+*'''Blot''' is an attack that first appeared on {{TCG ID|Gym Heroes|Erika's Oddish|78}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lilminip (Unschlagbare Gene 029)]]
+[[es:Petilil (Genes Formidables TCG Pocket)]]
+[[fr:Chlorobule (Puissance Génétique 029)]]
+[[it:Petilil (Geni Supremi 29)]]
+[[ja:チュリネ (ポケポケ A1)]]
+[[zh:百合根娃娃（A1）]]

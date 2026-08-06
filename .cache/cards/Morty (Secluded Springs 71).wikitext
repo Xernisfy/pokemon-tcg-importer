@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Morty
+|ja name=マツバ
+|trans name=Matsuba
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MortySecludedSprings71.png|illustrator=Teeziro|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MortySecludedSprings85.png|illustrator=Teeziro|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=071/071|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=085/071|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Morty''' (Japanese: '''マツバ''' ''Matsuba'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=For each of your {{e|Psychic}} Pokémon in play, look at that many cards from the top of your opponent's deck and put them back in any order.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=MortySecludedSprings71.png
+|caption1=Uncommon card<br>Illus. [[Teeziro]]
+|image2=MortySecludedSprings85.png
+|caption2=Super rare card<br>Illus. [[Teeziro]]
+}}
+
+==Trivia==
+* {{TCG|Morty}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Morty]] is a [[Gym Leader]] in {{game5|Gold|Silver|Crystal|HeartGold|SoulSilver}}, with his design based on his appearance in the latter two games.
+*The uncommon illustration depicts the [[Ecruteak Gym]], which Morty leads.
+*This card's effect may be a reference to the fact that Morty is known as "The Mystic Seer of the Future".
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=マツバ ''Matsuba''
+|zh_yue=松葉 ''Chùhngyihp''
+|zh_cmn=松葉 ''Sōngyè''
+|fr=Mortimer
+|de=Jens
+|it=Angelo
+|ko=유빈 ''Yubin''
+|pt_br=Morty
+|es=Morti
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Jens (TCG Pocket)]]
+[[es:Morti (TCG Pocket)]]
+[[fr:Mortimer (Source Secrète 071)]]
+[[it:Angelo (Sorgenti Recondite 71)]]
+[[ja:マツバ (ポケポケ)]]
+[[zh:松葉（TCGP）]]

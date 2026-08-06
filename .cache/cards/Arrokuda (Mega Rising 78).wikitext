@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Arrokuda
+|ja name=サシカマス
+|trans name=Sasikamasu
+|species=Arrokuda
+|type=Water
+|image=ArrokudaMegaRising78.png
+|illustrator=Mina Nakai
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=078/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+}}
+
+'''Arrokuda''' (Japanese: '''サシカマス''' ''Sasikamasu'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Peck
+|jname=つつく 
+|jtrans=Peck
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Arrokuda
+|species=Rush
+|ndex=0846
+|height=1'8"
+|jheight=0.5
+|weight=2.2
+|jweight=1.0
+|dex=It takes down prey by charging into them with its hard, pointed jaw. But Arrokuda's eyesight is poor, so this tactic has a low success rate.
+|jdex=硬く 尖った あごで 突撃し 獲物を 仕留める。 視力が 悪いので 成功率は 低い。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Arrokuda|52}} from the {{TCG|Rebel Clash}} expansion.
+*{{m|Peck}} is a [[move]] in the [[Pokémon games]] that {{p|Arrokuda}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pikuda (Mega-Aufstieg 078)]]
+[[es:Arrokuda (Megaascenso TCG Pocket)]]
+[[fr:Embrochet (Méga-Ascension 078)]]
+[[it:Arrokuda (Mega Ascesa 78)]]
+[[ja:サシカマス (ポケポケ B1)]]
+[[zh:刺梭鱼（B1）]]

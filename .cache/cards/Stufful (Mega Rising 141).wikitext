@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Stufful
+|ja name=ヌイコグマ
+|trans name=Nuikoguma
+|species=Stufful
+|type=Fighting
+|image=StuffulMegaRising141.png
+|illustrator=Kouki Saitou
+|hp=70
+|weakness=Psychic
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=141/226|pack=Mega Blaziken|rarity=Diamond|rarity count=1}}
+}}
+
+'''Stufful''' (Japanese: '''ヌイコグマ''' ''Nuikoguma'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Magnum Punch
+|jname=マグナムパンチ
+|jtrans=Magnum Punch
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Stufful
+|species=Flailing
+|ndex=0759
+|height=1'8"
+|jheight=0.5
+|weight=15.0
+|jweight=6.8
+|dex=The way it protects itself by flailing its arms may be an adorable sight, but stay well away. This is flailing that can snap thick tree trunks.
+|jdex=前脚を じたばた 振って 身を 守る 様子が 愛らしいが 大木を へし折る 威力だ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Guardians Rising|Stufful|112}} from the {{TCG|Guardians Rising}} expansion.
+*'''Magnum Punch''' is an attack that first appeared on {{TCG ID|Gym Heroes|Rocket's Hitmonchan|11}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Velursi (Mega-Aufstieg 141)]]
+[[es:Stufful (Megaascenso TCG Pocket)]]
+[[fr:Nounourson (Méga-Ascension 141)]]
+[[it:Stufful (Mega Ascesa 141)]]
+[[ja:ヌイコグマ (ポケポケ B1)]]
+[[zh:童偶熊（B1）]]

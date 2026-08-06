@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Golem
+|ja name=アローラゴローニャ
+|trans name=Alolan Golonya
+|species=Golem
+|type=Lightning
+|image=AlolanGolemCelestialGuardians61.png
+|illustrator=kawayoo
+|hp=160
+|weakness=Fighting
+|retreat cost=4
+|evo stage=Stage 2
+|prevo name=Alolan Graveler
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=061/155|pack=Solgaleo|rarity=Diamond|rarity count=3}}
+}}
+
+'''Alolan Golem''' (Japanese: '''アローラゴローニャ''' ''Alolan Golonya'') is a {{ct|Lightning}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}{{e|Colorless}}{{e|Colorless}}
+|name=Super Zap Cannon
+|jname=ちょうでんじほう
+|jtrans=Ultra Zap Cannon
+|damage=150
+|effect=Discard 2 {{e|Lightning}} Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Golem
+|species=Megaton
+|ndex=0076
+|height=5'7"
+|jheight=1.7
+|weight=696.7
+|jweight=316.0
+|dex=It's grumpy and stubborn. If you upset it, it discharges electricity from the surface of its body and growls with a voice like thunder.
+|jdex=気難しくて 頑固。 機嫌を 損ねると 全身から 放電し 雷鳴の ような 声で ほえる。
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Golem}}.
+*This card's illustration was first featured on {{TCG ID|Team Up|Alolan Golem|37}} from the {{TCG|Team Up}} expansion.
+**Both cards have the '''Super Zap Cannon''' attack, which first appeared on {{TCG ID|Guardians Rising|Vikavolt-GX|45}} from the {{TCG|Guardians Rising}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Geowaz (Hüter des Firmaments 061)]]
+[[es:Golem de Alola (Guardianes Celestiales TCG Pocket)]]
+[[fr:Grolem d'Alola (Gardiens Astraux 061)]]
+[[it:Golem di Alola (Guardiani Astrali 61)]]
+[[ja:アローラゴローニャ (ポケポケ A3)]]
+[[zh:阿罗拉 隆隆岩（A3）]]

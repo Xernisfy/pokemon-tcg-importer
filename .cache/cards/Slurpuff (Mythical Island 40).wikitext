@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Slurpuff
+|ja name=ペロリーム
+|trans name=Peroream
+|species=Slurpuff
+|type=Psychic
+|image=SlurpuffMythicalIsland40.png
+|illustrator=Kagemaru Himeno
+|hp=100
+|weakness=Metal
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Swirlix
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=040/068|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Slurpuff''' (Japanese: '''ペロリーム''' ''Peroream'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Magical Shot
+|jname=マジカルショット
+|jtrans=Magical Shot
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Slurpuff
+|species=Meringue
+|ndex=0685
+|height=2'7"
+|jheight=0.8
+|weight=11
+|jweight=5.0
+|dex=By taking in a person's scent, it can sniff out their mental and physical condition. It's hoped that this skill will have many medical applications.
+|jdex=体臭から 心と 体の 調子を 嗅ぎとる。 医療への 応用が 期待されている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|XY Promo|Slurpuff|15}}, one of the {{TCG|XY Black Star Promos}}.
+*'''Magical Shot''' is an attack that first appeared on {{TCG ID|Ancient Origins|Ralts|52}} and {{TCG ID|Ancient Origins|Kirlia|53}} from the {{TCG|Ancient Origins}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sabbaione (Mysteriöse Insel 040)]]
+[[es:Slurpuff (La Isla Singular TCG Pocket)]]
+[[fr:Cupcanaille (L'Île Fabuleuse 040)]]
+[[it:Slurpuff (L'Isola Misteriosa 40)]]
+[[ja:ペロリーム (ポケポケ A1a)]]
+[[zh:胖甜妮（A1a）]]

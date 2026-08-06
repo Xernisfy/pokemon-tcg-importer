@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Zubat
+|ja name=ズバット
+|trans name=Zubat
+|species=Zubat
+|type=Darkness
+|image=ZubatGeneticApex172.png
+|illustrator=match
+|hp=50
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mewtwo|rarity=Diamond|rarity count=1|number=172/226}}
+}}
+
+'''Zubat''' (Japanese: '''ズバット''' ''Zubat'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Colorless}}
+|name=Glide
+|jname=かっくう
+|jtrans=Gliding
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Zubat
+|species=Bat
+|ndex=0041
+|height=2'7"
+|jheight=0.8
+|weight=16.5
+|jweight=7.5
+|dex=It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill.
+|jdex=口から　出す　超音波で まわりの　様子を　探る｡ 狭い　洞窟も　器用に　飛びまわる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Phantom Forces|Zubat|31}} from the {{TCG|Phantom Forces}} expansion.
+*'''Glide''' is an attack that first appeared on {{TCG ID|EX Delta Species|Swellow|32}} from the {{TCG|EX Delta Species}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zubat (Unschlagbare Gene 172)]]
+[[es:Zubat (Genes Formidables TCG Pocket)]]
+[[fr:Nosferapti (Puissance Génétique 172)]]
+[[it:Zubat (Geni Supremi 172)]]
+[[ja:ズバット (ポケポケ A1)]]
+[[zh:超音蝠（A1）]]

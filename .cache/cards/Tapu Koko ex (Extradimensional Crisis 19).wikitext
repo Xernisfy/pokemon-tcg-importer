@@ -1,0 +1,89 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tapu Koko {{TCGP Icon|ex}}
+|ja name=カプ・コケコ{{TCGP Icon|ex}}
+|trans name=Kapu-Kokeko {{TCGP Icon|ex}}
+|species=Tapu Koko
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TapuKokoexExtradimensionalCrisis19.png|illustrator=PLANETA Igarashi|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TapuKokoexExtradimensionalCrisis77.png|illustrator=PLANETA Igarashi|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TapuKokoexExtradimensionalCrisis84.png|illustrator=Dsuke|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TapuKokoexPromo-A84.png|illustrator=PLANETA Tsuji|tab caption=Promo}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TapuKokoexMegaRising322.png|illustrator=PLANETA Igarashi|tab caption=Shiny Super Rare}}
+|hp=130
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=4|number=019/069}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Star|rarity count=2|number=077/069}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Star|rarity count=2|number=084/069}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=084/P-A}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=148/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=322/226|pack=Mega Blaziken|rarity=Shiny|rarity count=2}}
+}}
+
+'''Tapu Koko ex''' (Japanese: '''カプ・コケコex''' ''Kapu-Kokeko ex'') is a {{ct|Lightning}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Plasma Hurricane
+|jname=プラズマハリケーン
+|jtrans=Plasma Hurricane
+|damage=20
+|effect=Take a {{e|Lightning}} Energy from your Energy Zone and attach it to this Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}{{e|Colorless}}
+|name=Mach Bolt
+|jname=マッハボルト
+|jtrans=Mach Bolt
+|damage=90
+|effect=
+}}
+{{Cardtext/Pocket ex
+|type=Lightning
+|ndex=0785
+|name=Tapu Koko
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+The {{TCGP|Promo-A}} card was available from July 1 to 31, 2025 as a login reward from the monthly {{DL|Mission (TCG Pocket)|Premium Missions}}.
+
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=TapuKokoexExtradimensionalCrisis19.png
+|caption1=Double rare card<br>Illus. [[PLANETA Igarashi]]
+|image2=TapuKokoexExtradimensionalCrisis77.png
+|caption2=Super rare card<br>Illus. [[PLANETA Igarashi]]
+|image3=TapuKokoexExtradimensionalCrisis84.png
+|caption3=Special illustration rare card<br>Illus. [[Dsuke]]
+|image4=TapuKokoexPromo-A84.png
+|caption4=Promo card<br>Illus. [[PLANETA Tsuji]]
+|image5=TapuKokoexMegaRising322.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA Igarashi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Tapu Koko}}.
+*'''Mach Bolt''' is an attack that first appeared on {{TCG ID|Undaunted|Jolteon|28}} from the {{TCG|Undaunted}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kapu-Riki-ex (Dimensionale Krise 019)]]
+[[es:Tapu Koko ex (Crisis Dimensional TCG Pocket)]]
+[[fr:Tokorico-ex (Crise Interdimensionnelle 019)]]
+[[it:Tapu Koko-ex (Crisi Ultradimensionale 19)]]
+[[ja:カプ・コケコex (ポケポケ A3a)]]
+[[zh:卡璞・鸣鸣ex（A3a）]]

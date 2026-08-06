@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Necrozma
+|ja name=ネクロズマ
+|trans name=Necrozma
+|species=Necrozma
+|type=Psychic
+|image=NecrozmaCelestialGuardians88.png
+|illustrator=Masakazu Fukuda
+|hp=120
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=088/155|pack=Lunala|rarity=Diamond|rarity count=3}}
+}}
+
+'''Necrozma''' (Japanese: '''ネクロズマ''' ''Necrozma'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}{{e|Colorless}}{{e|Colorless}}
+|name=Prismatic Laser
+|jname=プリズムレーザー
+|jtrans=Prism Laser
+|damage=120
+|effect=During your next turn, this Pokémon can't attack.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Necrozma
+|species=Prism
+|ndex=0800
+|height=7'10"
+|jheight=2.4
+|weight=507.1
+|jweight=230.0
+|dex=It looks somehow pained as it rages around in search of light, which serves as its energy. It's apparently from another world.
+|jdex=エネルギーとなる 光を 求めて 暴れる 姿は どこか 苦しげ。 別の 世界の 存在 らしい。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Necrozma|101}} from the {{TCG|Unified Minds}} expansion.
+*{{m|Prismatic Laser}} is a [[move]] in the [[Pokémon games]] that {{p|Necrozma}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Necrozma (Hüter des Firmaments 088)]]
+[[es:Necrozma (Guardianes Celestiales TCG Pocket)]]
+[[fr:Necrozma (Gardiens Astraux 088)]]
+[[it:Necrozma (Guardiani Astrali 88)]]
+[[ja:ネクロズマ (ポケポケ A3)]]
+[[zh:奈克洛兹玛（A3）]]

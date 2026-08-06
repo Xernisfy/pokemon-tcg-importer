@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Stunky
+|ja name=スカンプー
+|trans name=Skunpuu
+|species=Stunky
+|type=Darkness
+|image=StunkyFantasticalParade101.png
+|illustrator=Naoyo Kimura
+|hp=70
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=101/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Stunky''' (Japanese: '''スカンプー''' ''Skunpuu'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}
+|name=Spray Fluid
+|jname=しるをとばす
+|jtrans=Spray Fluid
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Stunky
+|species=Skunk
+|ndex=0434
+|height=1'4"
+|jheight=0.4
+|weight=42.3
+|jweight=19.2
+|dex=The foul fluid from its rear is so revolting that it can make people feel queasy up to a mile and a quarter away.
+|jdex=お尻から 飛ばす 液体の 臭いは 2キロも 離れた 人が 具合を 悪くするほど くさい。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ultra Prism|Stunky|75}} from the {{TCG|Ultra Prism}} expansion.
+*'''Spray Fluid''' is an attack that first appeared on {{TCG ID|Flashfire|Stunky|54}} from the {{TCG|Flashfire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Skunkapuh (Traumhafte Parade 101)]]
+[[fr:Moufouette (Parade Onirique 101)]]
+[[it:Stunky (Parata Fantasmagorica 101)]]
+[[ja:スカンプー (ポケポケ B2)]]
+[[zh:臭鼬噗（B2）]]

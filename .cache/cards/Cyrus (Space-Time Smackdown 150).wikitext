@@ -1,0 +1,69 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Cyrus
+|ja name=アカギ
+|trans name=Akagi
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CyrusSpace-TimeSmackdown150.png|illustrator=akagi|illustrator link=akagi (illustrator)|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CyrusDeluxePackex327.png|illustrator=akagi|illustrator link=akagi (illustrator)|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CyrusSpace-TimeSmackdown190.png|illustrator=akagi|illustrator link=akagi (illustrator)|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=150/155|pack=Palkia|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=190/155|pack=Palkia|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=326/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=327/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Cyrus''' (Japanese: '''アカギ''' ''Akagi'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Switch in 1 of your opponent's Benched Pokémon that has damage on it to the Active Spot.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=CyrusSpace-TimeSmackdown150.png
+|caption1=Standard card<br>Illus. [[akagi (illustrator)|akagi]]
+|image2=CyrusSpace-TimeSmackdown190.png
+|caption2=Super rare card<br>Illus. [[akagi (illustrator)|akagi]]
+|image3=CyrusDeluxePackex327.png
+|caption3=Parallel foil card<br>Illus. [[akagi (illustrator)|akagi]]
+}}
+
+==Trivia==
+* This card's effect is similar to {{TCG|Boss's Orders}} and {{TCG|Lysandre}} in the [[Pokémon Trading Card Game]], but this card can only switch in a Pokémon with damage on it.
+** Cyrus is one of the characters who has been featured on {{TCG ID|Brilliant Stars|Boss's Orders|132}} in the Pokémon Trading Card Game.
+** This card's effect is also somewhat similar to the Item card {{TCG|Toy Catcher}} in the Pokémon Trading Card Game, which can switch in any Pokémon with 50 remaining HP or less.
+* Cyrus's Japanese name, Akagi, is also the name of [[akagi (illustrator)|this card's illustrator]].
+===Origin===
+*[[Cyrus]] is the boss of [[Team Galactic]] and the main antagonist of {{game2|Diamond|Pearl|Platinum}}.
+*The uncommon print of this card shows Cyrus in front of [[Team Galactic HQ]] in [[Veilstone City]].
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=アカギ ''Akagi''
+|zh_yue=赤日 ''Chikyaht''
+|zh_cmn=赤日 ''Chìrì''
+|fr=Hélio
+|de=Zyrus
+|it=Cyrus
+|ko=태홍 ''Taehong''
+|pt_br=Cyrus
+|es=Helio
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zyrus (TCG Pocket)]]
+[[es:Helio (TCG Pocket)]]
+[[fr:Hélio (Choc Spatio-Temporel 150)]]
+[[it:Cyrus (Scontro Spaziotemporale 150)]]
+[[ja:アカギ (ポケポケ)]]
+[[zh:赤日（TCGP）]]

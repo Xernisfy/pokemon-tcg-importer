@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Porygon2
+|ja name=ポリゴン2
+|trans name=Porygon2
+|species=Porygon2
+|type=Colorless
+|image=Porygon2Space-TimeSmackdown128.png
+|illustrator=sowsow
+|hp=80
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Porygon
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=128/155|pack=Palkia|rarity=Diamond|rarity count=2}}
+}}
+
+'''Porygon2''' (Japanese: '''ポリゴン2''' ''Porygon2'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Sharpen
+|jname=かくばる
+|jtrans=Improve Angles
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Porygon2
+|species=Virtual
+|ndex=0233
+|height=2'
+|jheight=0.6
+|weight=71.6
+|jweight=32.5
+|dex=This is a Porygon that was updated with special data. Porygon2 develops itself by learning about many different subjects all on its own.
+|jdex=ポリゴンを 特別な データで アップデート。 さまざまな ことを 自分で 学び 成長する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unbroken Bonds|Porygon2|156}} from the {{TCG|Unbroken Bonds}} expansion.
+*'''{{m|Sharpen}}''' is a [[move]] that [[Porygon2]] can learn on the [[main series]] Pokémon games as a [[Porygon]].
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Porygon2 (Kollision von Raum und Zeit 128)]]
+[[es:Porygon2 (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Porygon2 (Choc Spatio-Temporel 128)]]
+[[it:Porygon2 (Scontro Spaziotemporale 128)]]
+[[ja:ポリゴン2 (ポケポケ A2)]]
+[[zh:多邊獸Ⅱ（A2）]]

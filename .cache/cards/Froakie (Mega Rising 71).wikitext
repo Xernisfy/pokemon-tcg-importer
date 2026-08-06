@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Froakie
+|ja name=ケロマツ
+|trans name=Keromatsu
+|species=Froakie
+|type=Water
+|image=FroakieMegaRising71.png
+|illustrator=Sanosuke Sakuma
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=071/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+}}
+
+'''Froakie''' (Japanese: '''ケロマツ''' ''Keromatsu'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Water Drip
+|jname=みずきり
+|jtrans=Water Cut
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Froakie
+|species=Bubble Frog
+|ndex=0656
+|height=1'
+|jheight=0.3
+|weight=15.4
+|jweight=7.0
+|dex=It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings.
+|jdex=繊細な 泡で 体を 包み 肌を 守る。のんきに 見せかけて 抜け目なく 周囲を うかがう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|XY Promo|Froakie|138}}, one of the {{TCG|XY Black Star Promos}}.
+*'''Water Drip''' is an attack that first appeared on {{TCG ID|Great Encounters|Wingull|95}} from the {{TCG|Great Encounters}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Froxy (Mega-Aufstieg 071)]]
+[[es:Froakie (Megaascenso TCG Pocket)]]
+[[fr:Grenousse (Méga-Ascension 071)]]
+[[it:Froakie (Mega Ascesa 71)]]
+[[ja:ケロマツ (ポケポケ B1)]]
+[[zh:呱呱泡蛙（B1）]]

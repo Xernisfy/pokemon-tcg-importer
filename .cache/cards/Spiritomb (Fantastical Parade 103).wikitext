@@ -1,0 +1,66 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Spiritomb
+|ja name=ミカルゲ
+|trans name=Mikaruge
+|species=Spiritomb
+|type=Darkness
+|image=SpiritombFantasticalParade103.png
+|illustrator=Kouki Saitou
+|hp=70
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=103/155|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Spiritomb''' (Japanese: '''ミカルゲ''' ''Mikaruge'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Ability/Pocket
+|type=Darkness
+|name=Final Scream
+|jname=さいごのさけび
+|jtrans=Final Scream
+|effect=If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 10 damage to each of your opponent's Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Spooky Shot
+|jname=ホロウショット
+|jtrans=Hollow Shot
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Spiritomb
+|species=Forbidden
+|ndex=0442
+|height=3'3"
+|jheight=1.0
+|weight=238.1
+|jweight=108.0
+|dex=It was formed by uniting 108 spirits. It has been bound to the Odd Keystone to keep it from doing any mischief.
+|jdex=１０８個の 魂で できている。 二度と 悪さを しないように 要石に 縛りつけられている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Shining Legends|Spiritomb|47}} from the {{TCG|Shining Legends}} expansion.
+*'''Spooky Shot''' is an attack that first appeared on {{TCG ID|Legendary Treasures|Misdreavus|57}} and {{TCG ID|Legendary Treasures|Mismagius|58}}, both from the {{TCG|Legendary Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kryppuk (Traumhafte Parade 103)]]
+[[fr:Spiritomb (Parade Onirique 103)]]
+[[it:Spiritomb (Parata Fantasmagorica 103)]]
+[[ja:ミカルゲ (ポケポケ B2)]]
+[[zh:花岩怪（B2）]]

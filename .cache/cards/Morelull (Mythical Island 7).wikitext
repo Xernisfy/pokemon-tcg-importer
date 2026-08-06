@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Morelull
+|ja name=ネマシュ
+|trans name=Nemasyu
+|species=Morelull
+|type=Grass
+|image=MorelullMythicalIsland7.png
+|illustrator=Saya Tsuruta
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=007/068|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Morelull''' (Japanese: '''ネマシュ''' ''Nemasyu'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Morelull
+|species=Illuminating
+|ndex=0755
+|height=8"
+|jheight=0.2
+|weight=3.3
+|jweight=1.5
+|dex=Pokémon living in the forest eat the delicious caps on Morelull's head. The caps regrow overnight.
+|jdex=頭の 傘は とても 美味しい。 森の ポケモンたちに 食べられるが 一晩で 再生する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Morelull|16}} from the {{TCG|Sun & Moon}} expansion.
+**Both cards have the '''Ram''' attack, which first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bubungus (Mysteriöse Insel 007)]]
+[[es:Morelull (La Isla Singular TCG Pocket)]]
+[[fr:Spododo (L'Île Fabuleuse 007)]]
+[[it:Morelull (L'Isola Misteriosa 7)]]
+[[ja:ネマシュ (ポケポケ A1a)]]
+[[zh:睡睡菇（A1a）]]

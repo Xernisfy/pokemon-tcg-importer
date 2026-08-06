@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Koffing
+|ja name=ドガース
+|trans name=Dogars
+|species=Koffing
+|type=Darkness
+|image=KoffingGeneticApex176.png
+|illustrator=Saya Tsuruta
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=176/226|pack=Mewtwo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Koffing''' (Japanese: '''ドガース''' ''Dogars'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Suffocating Gas
+|jname=ガスでつつむ
+|jtrans=Enveloping Gas
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Koffing
+|species=Poison Gas
+|ndex=0109
+|height=2'
+|jheight=0.6
+|weight=2.2
+|jweight=1.0
+|dex=Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash.
+|jdex=毒ガスで　パンパンの　体｡ 生ゴミの　腐った　においを 求め　ゴミ捨て場に　やってくる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Hidden Fates|Koffing|28}} from the {{TCG|Hidden Fates}} expansion.
+*'''Suffocating Gas''' is an attack that first appeared on {{TCG ID|Gym Challenge|Sabrina's Gastly|97}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Smogon (Unschlagbare Gene 176)]]
+[[es:Koffing (Genes Formidables TCG Pocket)]]
+[[fr:Smogo (Puissance Génétique 176)]]
+[[it:Koffing (Geni Supremi 176)]]
+[[ja:ドガース (ポケポケ A1)]]
+[[zh:瓦斯弹（A1）]]

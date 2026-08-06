@@ -1,0 +1,79 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Baxcalibur
+|ja name=セグレイブ
+|trans name=Seglaive
+|species=Baxcalibur
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BaxcaliburPaldeanWonders36.png|illustrator=Oswaldo KATO|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BaxcaliburPaldeanWonders130.png|illustrator=PLANETA Igarashi|tab caption=Ultra Rare}}
+|hp=140
+|weakness=Metal
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Arctibax
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=036/093|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=130/093|pack=Any|rarity=Crown}}
+}}
+
+'''Baxcalibur''' (Japanese: '''セグレイブ''' ''Seglaive'') is a {{ct|Water}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Ice Maker
+|jname=アイスメーカー
+|jtrans=Ice Maker
+|effect=Once during your turn, you may take a {{e|Water}} Energy from your Energy Zone and attach it to the {{e|Water}} Pokémon in the Active Spot.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}
+|name=Buster Tail
+|jname=バスターテール
+|jtrans=Buster Tail
+|damage=90
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Baxcalibur
+|category=Ice Dragon
+|ndex=0998
+|height=6'11"
+|jheight=2.1
+|weight=463
+|jweight=210.0
+|dex=It launches itself into battle by flipping upside down and spewing frigid air from its mouth. It finishes opponents off with its dorsal blade.
+|jdex=逆さまになり　口から　冷気を 吹きだす　力で　突進｡ 背びれの剣で　敵を　仕留める｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=BaxcaliburPaldeanWonders36.png
+|caption1=Rare card<br>Illus. [[Oswaldo KATO]]
+|image2=BaxcaliburPaldeanWonders130.png
+|caption2=Ultra rare card<br>Illus. [[PLANETA Igarashi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|SVP Promo|Baxcalibur|19}}, one of the {{TCG|SVP Black Star Promos}}.
+**Both cards have the '''Buster Tail''' attack, which first appeared on {{TCG ID|Fusion Strike|Goodra|197}} from the {{TCG|Fusion Strike}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Espinodon (Wundervolles Paldea 036)]]
+[[fr:Glaivodo (Merveilles de Paldea 036)]]
+[[it:Baxcalibur (Meraviglie di Paldea 36)]]
+[[ja:セグレイブ (ポケポケ B2a)]]
+[[zh:戟脊龙（B2a）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dusclops
+|ja name=サマヨール
+|trans name=Samayouru
+|species=Dusclops
+|type=Psychic
+|image=DusclopsMegaRising104.png
+|illustrator=Kazuma Koda
+|hp=90
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Duskull
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=104/226|pack=Mega Blaziken|rarity=Diamond|rarity count=2}}
+}}
+
+'''Dusclops''' (Japanese: '''サマヨール''' ''Samayouru'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Will-O-Wisp
+|jname=おにび
+|jtrans=Will-o'-the-Wisp
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Dusclops
+|category=Beckon
+|ndex=0356
+|height=5'3"
+|jheight=1.6
+|weight=67.5
+|jweight=30.6
+|dex=It seeks drifting will-o'-the-wisps and sucks them into its empty body. What happens inside is a mystery.
+|jdex=さまよっている　ひとだまを　みつけ　からっぽの　たいないに　すいこむ。すいこまれて　どうなるかは　なぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Vivid Voltage|Dusclops|70}} from the {{TCG|Vivid Voltage}} expansion.
+*{{m|Will-O-Wisp}} is a [[move]] in the [[Pokémon games]] that {{p|Dusclops}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zwirrklop (Mega-Aufstieg 104)]]
+[[es:Dusclops (Megaascenso TCG Pocket)]]
+[[fr:Téraclope (Méga-Ascension 104)]]
+[[it:Dusclops (Mega Ascesa 104)]]
+[[ja:サマヨール (ポケポケ B1)]]
+[[zh:彷徨夜灵（B1）]]

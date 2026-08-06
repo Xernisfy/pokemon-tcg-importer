@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tapu Koko
+|ja name=カプ・コケコ
+|trans name=Kapu-Kokeko
+|species=Tapu Koko
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TapuKokoCelestialGuardians68.png|illustrator=kirisAki|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TapuKokoCelestialGuardians166.png|illustrator=OKACHEKE|tab caption=Illustration Rare}}
+|hp=100
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Solgaleo|rarity=Diamond|rarity count=3|number=068/155}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Solgaleo|rarity=Star|rarity count=1|number=166/155}}
+}}
+
+'''Tapu Koko''' (Japanese: '''カプ・コケコ''' ''Kapu-Kokeko'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}{{e|Lightning}}
+|name=Volt Switch
+|jname=ボルトチェンジ
+|jtrans=Volt Change
+|damage=70
+|effect=Switch this Pokémon with 1 of your Benched {{e|Lightning}} Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Tapu Koko
+|species=Land Spirit
+|ndex=0785
+|height=5'11"
+|jheight=1.8
+|weight=45.2
+|jweight=20.5
+|dex=Although it's called a guardian deity, if a person or Pokémon puts it in a bad mood, it will become a malevolent deity and attack.
+|jdex=守り神と 呼ばれるが 気分を 害する 人間や ポケモンには 襲い掛かる 荒ぶる神 でもある。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=TapuKokoCelestialGuardians68.png
+|caption1=Rare card<br>Illus. [[kirisAki]]
+|image2=TapuKokoCelestialGuardians166.png
+|caption2=Illustration rare card<br>Illus. [[OKACHEKE]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|SM Promo|Tapu Koko|30}} from the {{TCGMerch|Sun & Moon|Series|Tapu Koko Figure Collection}}.
+*{{m|Volt Switch}} is a [[move]] in the [[Pokémon games]] that {{p|Tapu Koko}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kapu-Riki (Hüter des Firmaments 068)]]
+[[es:Tapu Koko (Guardianes Celestiales TCG Pocket)]]
+[[fr:Tokorico (Gardiens Astraux 068)]]
+[[it:Tapu Koko (Guardiani Astrali 68)]]
+[[ja:カプ・コケコ (ポケポケ A3)]]
+[[zh:卡璞・鸣鸣（A3）]]

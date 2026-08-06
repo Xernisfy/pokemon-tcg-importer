@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Whirlipede
+|ja name=ホイーガ
+|trans name=Wheega
+|species=Whirlipede
+|type=Darkness
+|image=WhirlipedeMythicalIsland54.png
+|illustrator=Shin Nagasawa
+|hp=90
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Venipede
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=054/068}}
+}}
+
+'''Whirlipede''' (Japanese: '''ホイーガ''' ''Wheega'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Poison Sting
+|jname=どくばり
+|jtrans=Poison Needle
+|damage=20
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Whirlipede
+|species=Curlipede
+|ndex=0544
+|height=3'11"
+|jheight=1.2
+|weight=129
+|jweight=58.5
+|dex=This Pokémon spins itself rapidly and charges into its opponents. Its top speed is just over 60 mph.
+|jdex=高速で 回転し 相手に 突撃。 最高時速は およそ 100キロに 達する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Emerging Powers|Whirlipede|39}} from the {{TCG|Emerging Powers}} expansion.
+*{{m|Poison Sting}} is a [[move]] in the [[Pokémon games]] that {{p|Whirlipede}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rollum (Mysteriöse Insel 054)]]
+[[es:Whirlipede (La Isla Singular TCG Pocket)]]
+[[fr:Scobolide (L'Île Fabuleuse 054)]]
+[[it:Whirlipede (L'Isola Misteriosa 54)]]
+[[ja:ホイーガ (ポケポケ A1a)]]
+[[zh:车轮球（A1a）]]

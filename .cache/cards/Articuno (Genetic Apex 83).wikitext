@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Articuno
+|ja name=フリーザー
+|trans name=Freezer
+|species=Articuno
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArticunoGeneticApex83.png|illustrator=Hitoshi Ariga|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArticunoMegaRising298.png|illustrator=Taiga Kasai|tab caption=Shiny Rare}}
+|hp=100
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=083/226|pack=Mewtwo|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=298/226|pack=Mega Altaria|rarity=Shiny|rarity count=1}}
+}}
+
+'''Articuno''' (Japanese: '''フリーザー''' ''Freezer'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Ice Beam
+|jname=れいとうビーム
+|jtrans=Freezing Beam
+|damage=60
+|effect=Flip a coin. If heads, your opponent's Active Pokémon is now {{TCG|Paralyzed}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Articuno
+|species=Freeze
+|ndex=0144
+|height=5'7"
+|jheight=1.7
+|weight=122.1
+|jweight=55.4
+|dex=It's said that this Pokémon's beautiful blue wings are made of ice. Articuno flies over snowy mountains, its long tail fluttering along behind it.
+|jdex=青く　美しい　羽根は　氷で できていると　言われている｡　長い 尾を　たなびかせ　雪山を　飛ぶ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=ArticunoGeneticApex83.png
+|caption1=Standard card<br>Illus. [[Hitoshi Ariga]]
+|image2=ArticunoMegaRising298.png
+|caption2=Shiny rare card<br>Illus. [[Taiga Kasai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Genetic Apex}} illustration was first featured on {{TCG ID|SM Promo|Articuno|144}}, one of the {{TCG|SM Black Star Promos}}.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Articuno}}.
+*{{m|Ice Beam}} is a [[move]] in the [[Pokémon games]] that {{p|Articuno}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Arktos (Unschlagbare Gene 083)]]
+[[es:Articuno (Genes Formidables TCG Pocket)]]
+[[fr:Artikodin (Puissance Génétique 083)]]
+[[it:Articuno (Geni Supremi 83)]]
+[[ja:フリーザー (ポケポケ A1)]]
+[[zh:急冻鸟（A1）]]

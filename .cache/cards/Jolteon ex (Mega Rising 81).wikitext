@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Jolteon {{TCGP Icon|ex}}
+|ja name=サンダース{{TCGP Icon|ex}}
+|trans name=Thunders {{TCGP Icon|ex}}
+|species=Jolteon
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JolteonexMegaRising81.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JolteonexMegaRising257.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JolteonexMegaRising276.png|illustrator=kodama|tab caption=Special Illustration Rare}}
+|hp=140
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Eevee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=081/226|pack=Mega Gyarados|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=257/226|pack=Mega Gyarados|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=276/226|pack=Mega Gyarados|rarity=Star|rarity count=2}}
+}}
+
+'''Jolteon ex''' (Japanese: '''サンダースex''' ''Thunders ex'') is a {{ct|Lightning}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Ability/Pocket
+|type=Lightning
+|name=Electromagnetic Wall
+|jname=でんじウォール
+|jtrans=Electromagnetic Wall
+|effect=As long as this Pokémon is in the Active Spot, whenever your opponent attaches an Energy from their Energy Zone to 1 of their Pokémon, do 20 damage to that Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Mach Bolt
+|jname=マッハボルト
+|jtrans=Mach Bolt
+|damage=80
+|effect=
+}}
+{{Cardtext/Pocket ex
+|type=Lightning
+|ndex=0135
+|name=Jolteon
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=JolteonexMegaRising81.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=JolteonexMegaRising257.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=JolteonexMegaRising276.png
+|caption3=Special illustration rare card<br>Illus. [[kodama]]
+}}
+
+==Trivia==
+*'''Electromagnetic Wall''' does not damage a {{TCG ID|Wisdom of Sea and Sky|Porygon2|136}} which evolves from placing the Energy. 
+
+===Origin===
+*'''Electromagnetic Wall''' is an {{TCG|Ability}} that first appeared on {{TCG ID|Dragons Exalted|Ampharos|40}} from the {{TCG|Dragons Exalted}} expansion.
+*'''Mach Bolt''' is an attack that first appeared on {{TCG ID|Undaunted|Jolteon|28}} from the {{TCG|Undaunted}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Blitza-ex (Mega-Aufstieg 081)]]
+[[es:Jolteon ex (Megaascenso TCG Pocket)]]
+[[fr:Voltali-ex (Méga-Ascension 081)]]
+[[it:Jolteon-ex (Mega Ascesa 81)]]
+[[ja:サンダースex (ポケポケ B1)]]
+[[zh:雷伊布ex（B1）]]

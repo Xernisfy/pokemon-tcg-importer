@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Chewtle
+|ja name=カムカメ
+|trans name=Kamukame
+|species=Chewtle
+|type=Water
+|image=ChewtleMythicalIsland22.png
+|illustrator=Taiga Kayama
+|hp=80
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=022/068|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Chewtle''' (Japanese: '''カムカメ''' ''Kamukame'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Bite
+|jname=かみつく
+|jtrans=Bite
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Chewtle
+|species=Snapping
+|ndex=0833
+|height=1'
+|jheight=0.3
+|weight=18.7
+|jweight=8.5
+|dex=Its large front tooth is still growing in. When the tooth itches, this Pokémon will bite another Chewtle’s horn, and the two Pokémon will tussle.
+|jdex=大きな 前歯は まだ 生えかけ。 歯が かゆいときは 仲間の ツノに パクリと 噛みつき じゃれあう。
+}}
+
+==Trivia==
+[[File:TCGP Cover Tree of Repose.png|thumb|left|"Tree of Repose" binder cover]]
+This card's illustration is part of a {{TCG|combined illustration}} along with {{TCG ID|Mythical Island|Dedenne|30}}, {{TCG ID|Mythical Island|Primeape|42}}, and {{TCG ID|Mythical Island|Pidgeotto|58}} from the same expansion. Together, these cards form the {{TCGP|Mythical Island}} expansion's "Tree of Repose" [[Mythical Island (TCG Pocket)#Themed Collections|Themed Collection]], the completion reward for which is the "Tree of Repose" binder cover, showcasing the full illustration.
+
+===Origin===
+*{{m|Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Chewtle}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kamehaps (Mysteriöse Insel 022)]]
+[[es:Chewtle (La Isla Singular TCG Pocket)]]
+[[fr:Khélocrok (L'Île Fabuleuse 022)]]
+[[it:Chewtle (L'Isola Misteriosa 22)]]
+[[ja:カムカメ (ポケポケ A1a)]]
+[[zh:咬咬龟（A1a）]]

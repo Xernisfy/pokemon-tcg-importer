@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Floatzel
+|ja name=フローゼル
+|trans name=Floazel
+|species=Floatzel
+|type=Water
+|image=FloatzelShiningRevelry17.png
+|illustrator=Kouki Saitou
+|hp=90
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Buizel
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=017/072|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Floatzel''' (Japanese: '''フローゼル''' ''Floazel'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Water Arrow
+|jname=ウォーターアロー
+|jtrans=Water Arrow
+|damage=
+|effect=This attack does 30 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Floatzel
+|category=Sea Weasel 
+|ndex=0419
+|height=3'7"
+|jheight=1.1
+|weight=73.9
+|jweight=33.5
+|dex=With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives.
+|jdex=浮き袋を ふくらませると 人を 背中に 乗せることが できる。 浮き袋を しぼませて 潜る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Great Encounters|Floatzel|37}} from the {{TCG|Great Encounters}} expansion.
+*'''Water Arrow''' is an attack that first appeared on {{TCG ID|EX Ruby & Sapphire|Seaking|21}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bojelin (Glänzendes Festival 017)]]
+[[es:Floatzel (Festival Brillante TCG Pocket)]]
+[[fr:Mustéflott (Réjouissances Rayonnantes 017)]]
+[[it:Floatzel (Tripudio Splendente 17)]]
+[[ja:フローゼル (ポケポケ A2b)]]
+[[zh:浮潛鼬（A2b）]]

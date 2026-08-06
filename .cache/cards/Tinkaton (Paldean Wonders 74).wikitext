@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+| en name = Tinkaton
+| ja name = デカヌチャン
+| trans name = Dekanuchan
+| species = Tinkaton
+| type = Metal
+| image set = {{TCG Card Infobox/Tabbed Image/Pocket|image=TinkatonPaldeanWonders74.png|illustrator=KEIICHIRO ITO|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TinkatonPromo-B38.png|illustrator=DOM|tab caption=Promo}}
+| hp = 150
+| weakness = Fire
+| retreat cost = 2
+| illustrator = 
+| evo stage = Stage 2
+| prevo name = Tinkatuff
+| expansions = {{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=074/093|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=038/P-B|pack=Vol. 5}}
+}}
+
+'''Tinkaton''' (Japanese: '''デカヌチャン''' ''Dekanuchan'') is a {{ct|Metal}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Colorless}}
+|name=Gigaton Hammer
+|jname=デカハンマー
+|jtrans=Huge Hammer
+|damage=140
+|effect=During your next turn, this Pokémon can't use Gigaton Hammer.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Tinkaton
+|category=Hammer
+|ndex=0959
+|height=2'4"
+|jheight=0.7
+|weight=248.7
+|jweight=112.8
+|dex=The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home.
+|jdex=100キロを 超える ハンマーを 軽々 振りまわして 欲しいものを 奪い取り 棲み処へと 持ち帰る。
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} print of this card was one of five cards that could be pulled from Promo-B Vol. 5 packs; these were made available as part of the [[Charcadet Drop Event]], which ran from March 11 to 21, 2026.
+
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=TinkatonPaldeanWonders74.png
+|caption1=Rare card<br>Illus. [[KEIICHIRO ITO]]
+|image2=TinkatonPromo-B38.png
+|caption2=Promo card<br>Illus. [[DOM]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Paldean Wonders}} illustration was first featured on {{TCG ID|Paradox Rift|Tinkaton|85}} from the {{TCG|Paradox Rift}} expansion.
+*This card's {{TCGP|Promo-B}} illustration was first featured on {{TCG ID|SVP Promo|Tinkaton|140}}, one of the {{TCG|SVP Black Star Promos}}.
+*{{m|Gigaton Hammer}} is {{p|Tinkaton}}'s [[signature move]] in the [[Pokémon games]].
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Granforgita (Wundervolles Paldea 074)]]
+[[fr:Forgelina (Merveilles de Paldea 074)]]
+[[it:Tinkaton (Meraviglie di Paldea 74)]]
+[[ja:デカヌチャン (ポケポケ B2a)]]
+[[zh:巨锻匠（B2a）]]

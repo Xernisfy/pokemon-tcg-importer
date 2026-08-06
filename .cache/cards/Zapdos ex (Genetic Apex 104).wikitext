@@ -1,0 +1,86 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Zapdos {{TCGP Icon|ex}}
+|ja name=サンダー{{TCGP Icon|ex}}
+|trans name=Thunder {{TCGP Icon|ex}}
+|species=Zapdos
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ZapdosexGeneticApex104.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ZapdosexGeneticApex260.png|illustrator=PLANETA Saito|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ZapdosexGeneticApex276.png|illustrator=GOSSAN|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ZapdosexEeveeGrove105.png|illustrator=PLANETA Saito|tab caption=Shiny Super Rare}}
+|hp=130
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Pikachu|rarity=Diamond|rarity count=4|number=104/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Pikachu|rarity=Star|rarity count=2|number=260/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Pikachu|rarity=Star|rarity count=2|number=276/226}}
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Shiny|rarity count=2|number=105/069}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=139/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Zapdos ex''' (Japanese: '''サンダーex''' ''Thunder ex'') is a {{ct|Lightning}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Peck
+|jname=つつく
+|jtrans=Peck
+|damage=20
+|effect=
+}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}{{e|Lightning}}
+|name=Thundering Hurricane
+|jname=ハリケーンサンダー
+|jtrans=Hurricane Thunder
+|damage=50×
+|effect=Flip 4 coins. This attack does 50 damage for each heads.
+}}
+{{Cardtext/Pocket ex
+|type=Lightning
+|ndex=0145
+|name=Zapdos
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=ZapdosexGeneticApex104.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=ZapdosexGeneticApex260.png
+|caption2=Super rare card<br>Illus. [[PLANETA Saito]]
+|image4=ZapdosexGeneticApex276.png
+|caption4=Special illustration rare card<br>Illus. [[GOSSAN]]
+|image5=ZapdosexEeveeGrove105.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA Saito]]
+}}
+
+==Trivia==
+[[File:ZapdosexGeneticApex276 artwork.png|thumb|Standalone illustration]]
+The special illustration rare card features {{p|Zapdos}} flying above [[Kanto]]'s [[Kanto Power Plant|Power Plant]], where it can be found in {{game|Red and Blue|s|Pokémon Red, Blue}}, {{v2|Yellow}}, {{game|FireRed and LeafGreen|s|FireRed, LeafGreen}}, {{LGPE|Let's Go, Pikachu!, and Let's Go, Eevee!}}; in {{game|HeartGold and SoulSilver|s}}, it is found on {{rt|10|Kanto}}, immediately outside the plant. {{p|Ekans}} and {{p|Spearow}}—both of which can be found on Route 10 in several of the games—also appear in the illustration.
+
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Zapdos}}.
+*{{m|Peck}} is a [[move]] in the [[Pokémon games]] that {{p|Zapdos}} can learn.
+*'''Thundering Hurricane''' is an attack that first appeared on {{TCG ID|Next Destinies|Zapdos|41}} from the {{TCG|Next Destinies}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zapdos-ex (Unschlagbare Gene 104)]]
+[[es:Zapdos ex (Genes Formidables TCG Pocket)]]
+[[fr:Électhor-ex (Puissance Génétique 104)]]
+[[it:Zapdos-ex (Geni Supremi 104)]]
+[[ja:サンダーex (ポケポケ A1)]]
+[[zh:闪电鸟ex（A1）]]

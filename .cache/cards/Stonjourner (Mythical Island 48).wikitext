@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Stonjourner
+|ja name=イシヘンジン
+|trans name=Ishihengin
+|species=Stonjourner
+|type=Fighting
+|image=StonjournerMythicalIsland48.png
+|illustrator=Teeziro
+|hp=120
+|weakness=Grass
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=048/068|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Stonjourner''' (Japanese: '''イシヘンジン''' ''Ishihengin'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}
+|name=Mega Kick
+|jname=メガトンキック
+|jtrans=Megaton Kick
+|damage=90
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Stonjourner
+|species=Big Rock
+|ndex=0874
+|height=8'2"
+|jheight=2.5
+|weight=1146.4
+|jweight=520.0
+|dex=The elemental composition of the rocks that form its body were found to match the bedrock of a land far away from this Pokémon's habitat.
+|jdex=体の 岩石の 成分は 生息地から 遠く 離れた 土地の 岩盤と 一致した。
+}}
+
+==Trivia==
+This card is one of several in the {{TCGP|Mythical Island}} expansion to feature a cameo from {{p|Mew}} in its illustration.
+
+===Origin===
+*{{m|Mega Kick}} is a [[move]] in the [[Pokémon games]] that {{p|Stonjourner}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Humanolith (Mysteriöse Insel 048)]]
+[[es:Stonjourner (La Isla Singular TCG Pocket)]]
+[[fr:Dolman (L'Île Fabuleuse 048)]]
+[[it:Stonjourner (L'Isola Misteriosa 48)]]
+[[ja:イシヘンジン (ポケポケ A1a)]]
+[[zh:巨石丁（A1a）]]

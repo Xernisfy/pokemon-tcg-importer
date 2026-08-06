@@ -1,0 +1,79 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Reuniclus
+|ja name=ランクルス
+|trans name=Lanculus
+|species=Reuniclus
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ReuniclusCrimsonBlaze34.png|illustrator=Kagemaru Himeno|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ReuniclusCrimsonBlaze72.png|illustrator=chibi|tab caption=Illustration Rare}}
+|hp=90
+|weakness=Darkness
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Duosion
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=034/069|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=072/069|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Reuniclus''' (Japanese: '''ランクルス''' ''Lanculus'') is a {{ct|Psychic}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Infinite Increase
+|jname=むげんぞうふく
+|jtrans=Infinite Amplifier
+|effect=This Pokémon gets +30 HP for each {{e|Psychic}} Energy attached to it.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Psypunch
+|jname=サイコパンチ
+|jtrans=Psycho Punch
+|damage=90
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Reuniclus
+|species=Multiplying
+|ndex=0579
+|height=3'3"
+|jheight=1.0
+|weight=44.3
+|jweight=20.1
+|dex=It's said that drinking the liquid surrounding Reuniclus grants wisdom. Problem is, the liquid is highly toxic to anything besides Reuniclus itself.
+|jdex=特殊な 液体を 飲むと 知恵を 授かると いわれるが ランクルス以外には 猛毒。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=ReuniclusCrimsonBlaze34.png
+|caption1=Uncommon card<br>Illus. [[Kagemaru Himeno]]
+|image2=ReuniclusCrimsonBlaze72.png
+|caption2=Illustration rare card<br>Illus. [[chibi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Noble Victories|Reuniclus|52}} from the {{TCG|Noble Victories}} expansion.
+*'''Psypunch''' is an attack that first appeared on {{TCG ID|Team Rocket|Dark Hypno|9}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zytomega (Feuerrote Flammen 034)]]
+[[fr:Symbios (Embrasement Écarlate 034)]]
+[[it:Reuniclus (Fiamme Cremisi 34)]]
+[[ja:ランクルス (ポケポケ B1a)]]
+[[zh:人造细胞卵（B1a）]]

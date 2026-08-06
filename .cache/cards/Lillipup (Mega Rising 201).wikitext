@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lillipup
+|ja name=ヨーテリー
+|trans name=Yorterrie
+|species=Lillipup
+|type=Colorless
+|image=LillipupMegaRising201.png
+|illustrator=Sekio
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=201/226|pack=Mega Altaria|rarity=Diamond|rarity count=1}}
+}}
+
+'''Lillipup''' (Japanese: '''ヨーテリー''' ''Yorterrie'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Collect
+|jname=もってくる
+|jtrans=Fetch
+|damage=
+|effect=Draw a card.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Lillipup
+|category=Puppy
+|ndex=0506
+|height=1'4"
+|jheight=0.4
+|weight=9
+|jweight=4.1
+|dex=This Pokémon is far brighter than the average child, and Lillipup won't forget the love it receives or any abuse it suffers.
+|jdex=並みの 子ども よりも ずっと 利口。 受けた 愛情も された 仕打ちも 忘れないのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Lillipup|174}} from the {{TCG|Cosmic Eclipse}} expansion.
+*'''Collect''' is an attack that first appeared on {{TCG ID|Movie VS Pack|Forina's Linoone|5}} from the {{TCG|Movie Commemoration VS Pack}}.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Yorkleff (Mega-Aufstieg 201)]]
+[[es:Lillipup (Megaascenso TCG Pocket)]]
+[[fr:Ponchiot (Méga-Ascension 201)]]
+[[it:Lillipup (Mega Ascesa 201)]]
+[[ja:ヨーテリー (ポケポケ B1)]]
+[[zh:小约克（B1）]]

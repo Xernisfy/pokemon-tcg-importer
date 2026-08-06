@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alomomola
+|ja name=ママンボウ
+|trans name=Mamanbou
+|species=Alomomola
+|type=Water
+|image=AlomomolaEeveeGrove21.png
+|illustrator=Miki Tanaka
+|hp=110
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=021/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Alomomola''' (Japanese: '''ママンボウ''' ''Mamanbou'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}{{e|Colorless}}
+|name=Water Pulse
+|jname=みずのはどう
+|jtrans=Water Pulse
+|damage=50
+|effect=Your opponent's Active Pokémon is now {{TCG|Asleep}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Alomomola
+|species=Caring
+|ndex=0594
+|height=3'11"
+|jheight=1.2
+|weight=69.7
+|jweight=31.6
+|dex=It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.
+|jdex=傷ついたり 弱った ポケモンを ヒレで 優しく 抱えながら 特殊な 粘膜で 治すのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Dragons Exalted|Alomomola|37}} from the {{TCG|Dragons Exalted}} expansion.
+*{{m|Water Pulse}} is a [[move]] in the [[Pokémon games]] that {{p|Alomomola}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mamolida (Evoli-Hain 021)]]
+[[es:Alomomola (Arboleda de Eevee TCG Pocket)]]
+[[fr:Mamanbo (La Clairière d'Évoli 021)]]
+[[it:Alomomola (Il Bosco di Eevee 21)]]
+[[ja:ママンボウ (ポケポケ A3b)]]
+[[zh:保母曼波（A3b）]]

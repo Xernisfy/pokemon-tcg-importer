@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cinccino
+|ja name=チラチーノ
+|trans name=Chillaccino
+|species=Cinccino
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CinccinoGeneticApex213.png|illustrator=0313|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CinccinoPromo-A31.png|illustrator=MAHOU|tab caption=Promo}}
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Minccino
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=213/226|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=031/P-A|pack=Vol. 3}}
+}}
+
+'''Cinccino''' (Japanese: '''チラチーノ''' ''Chillaccino'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Do the Wave
+|jname=ともだちのわ
+|jtrans=Sum of Friends
+|damage=30×
+|effect=This attack does 30 damage for each of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Cinccino
+|species=Scarf
+|ndex=0573
+|height=1'8"
+|jheight=0.5
+|weight=16.5
+|jweight=7.5
+|dex=Its body secretes oil that this Pokémon spreads over its nest as a coating to protect it from dust. Cinccino won't tolerate even a speck of the stuff.
+|jdex=塵ひとつ　許せない　潔癖｡ 体から　染み出る　油を 巣に　塗りつけ　コーティングする｡
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of five cards that could be pulled from Promo-A Vol. 3 packs; these were made available as part of the [[Blastoise Drop Event]], which ran from January 1 to 15, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=CinccinoGeneticApex213.png
+|caption1=Uncommon card<br>Illus. [[0313]]
+|image2=CinccinoPromo-A31.png
+|caption2=Promo card<br>Illus. [[MAHOU]]
+}}
+
+==Trivia==
+===Origin===
+* This card's {{TCGP|Genetic Apex}} illustration was first featured on {{TCG ID|Crimson Invasion|Cinccino|86}} from the {{TCG|Crimson Invasion}} expansion.
+* This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Fates Collide|Cinccino|88}} from the {{TCG|Fates Collide}} expansion.
+* '''Do the Wave''' is an attack that first appeared on {{TCG ID|Jungle|Wigglytuff|16}} from the {{TCG|Jungle}} expansion.
+* This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Chillabell (Unschlagbare Gene 213)]]
+[[es:Cinccino (Genes Formidables TCG Pocket)]]
+[[fr:Pashmilla (Puissance Génétique 213)]]
+[[it:Cinccino (Geni Supremi 213)]]
+[[ja:チラチーノ (ポケポケ A1)]]
+[[zh:奇诺栗鼠（A1）]]

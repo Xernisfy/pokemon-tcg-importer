@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Feebas
+|ja name=ヒンバス
+|trans name=Hinbass
+|species=Feebas
+|type=Water
+|image=FeebasSecludedSprings21.png
+|illustrator=Suwama Chiaki
+|hp=30
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=021/071|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Feebas''' (Japanese: '''ヒンバス''' ''Hinbass'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Leap Out
+|jname=はねにげ
+|jtrans=Hop Escape
+|damage=
+|effect=Switch this Pokémon with 1 of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Feebas
+|species=Fish
+|ndex=0349
+|height=2'
+|jheight=0.6
+|weight=16.3
+|jweight=7.4
+|dex=Although unattractive and unpopular, this Pokémon's marvelous vitality has made it a subject of research.
+|jdex=見た目が 悪いので 人気はないが 脅威の 生命力が あり 研究対象には なっている。
+}}
+
+==Trivia==
+This card is almost identical to {{TCG ID|Surging Sparks|Feebas|41}} from the [[Pokémon Trading Card Game]]'s {{TCG|Surging Sparks}} expansion, except for the {{TCG|Weakness}} modifier and {{TCG|Energy}} cost of the Leap Out attack.
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Primal Clash|Feebas|43}} from the {{TCG|Primal Clash}} expansion.
+*'''Leap Out''' is an attack that first appeared on {{TCG ID|EX Deoxys|Magikarp|64}} from the {{TCG|EX Deoxys}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Barschwa (Verborgene Quelle 021)]]
+[[es:Feebas (Manantial Oculto TCG Pocket)]]
+[[fr:Barpau (Source Secrète 021)]]
+[[it:Feebas (Sorgenti Recondite 21)]]
+[[ja:ヒンバス (ポケポケ A4a)]]
+[[zh:丑丑鱼（A4a）]]

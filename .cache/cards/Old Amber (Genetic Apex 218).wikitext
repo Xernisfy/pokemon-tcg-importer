@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Old Amber
+|ja name=ひみつのコハク
+|trans name=Secret Amber
+|subtype=Item
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OldAmberGeneticApex218.png|illustrator=Toyste Beach|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OldAmberDeluxePackex313.png|illustrator=Toyste Beach|tab caption=Parallel}}
+|hp=40
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=218/226|pack=Mewtwo|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=063/068|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=312/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=313/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+'''Old Amber''' (Japanese: '''ひみつのコハク''' ''Secret Amber'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Play this card as if it were a 40-HP Basic {{e|Colorless}} Pokémon.<br>At any time during your turn, you may discard this card from play.<br>This card can't retreat.
+}}
+
+==Release information==
+This card was first included in the {{TCGP|Genetic Apex}} expansion and was later reprinted with the same artwork in the {{TCGP|Mythical Island}} and {{TCGP|Deluxe Pack: ex}} expansions.
+
+===Gallery===
+{{TCGGallery
+|type=Item
+|image1=OldAmberGeneticApex218.png
+|caption1=Standard card<br>Illus. [[Toyste Beach]]
+|image2=OldAmberDeluxePackex313.png
+|caption2=Parallel foil card<br>Illus. [[Toyste Beach]]
+}}
+
+==Trivia==
+* This card's effect is similar to that of the {{TCG|Unidentified Fossil}} card in the [[Pokémon Trading Card Game]], but has 40 HP instead of 60 HP and only {{TCGP|Aerodactyl}} can evolve from.
+** {{TCG|Old Amber}} also exists in the Pokémon Trading Card Game, but has 50 HP and also has a {{TCG|Poké-Body}}.
+{{outdated|section|needs=Info of what happens after Deluxe Pack: ex}}
+*The {{TCGP|Mythical Island}} print of this card is exactly the same as the {{TCGP|Genetic Apex}} print, and thus, unlike other cards, an Old Amber card from any booster packs would be considered for both, including for {{TCGP|Mission}}s. This was identified as a bug in an in-game notice published on December 17, 2024.<ref name="MythicalIslandNotices" />
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fates Collide|Old Amber Aerodactyl|106}} from the {{TCG|Fates Collide}} expansion.
+*An [[Old Amber]] is a [[fossil]] in the [[Pokémon games]] which can be revived into {{p|Aerodactyl}}.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=ひみつのコハク ''Himitsu no Kohaku''
+|zh_yue=秘密琥珀 ''Beimaht Fúpaak''
+|zh_cmn=秘密琥珀 ''Mìmì Hǔpò''
+|fr=Vieil Ambre
+|de=Altbernstein
+|it=Ambra Antica
+|ko=비밀의호박 ''Bimil-ui Hobak''
+|pt_br=Âmbar Velho
+|es=Ámbar Viejo
+}}
+
+==References==
+<references>
+<ref name="MythicalIslandNotices">The following issues occur with the Old Amber Trainer card:
+*When obtaining the Old Amber Trainer card from either the Genetic Apex booster packs only or Mythical Island booster packs only, the correct behavior is for the card's quantity to be registered into the booster packs' respective card dex, but there is currently an issue where it is also registered into the other booster packs' card dex.
+*When the Old Amber Trainer card is already obtained for either the Genetic Apex booster packs only or Mythical Island booster packs only, the correct behavior is for an animation sequence to trigger if the card is registered for the first time into the other booster packs' card dex, but there is currently an issue where the animation sequence does not trigger under this condition.
+*When obtaining the Old Amber Trainer card from either the Genetic Apex booster packs only or Mythical Island booster packs only, progress should be made only toward the booster packs' respective dex mission, but there is currently an issue where both booster packs' dex missions progress.
+<p>The issues above are planned to be fixed soon.<br>
+Once fixed, quantities registered in the card dex will be updated to their correct values.<br>
+The fix will also affect dex missions that are applicable to the above even if they are in-progress. However, if those missions are already completed at the time of the fix, they will not be reverted to incomplete status.</p>
+<p>We apologize for any inconvenience.</p></ref>
+</references>
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Altbernstein (TCG Pocket)]]
+[[es:Ámbar Viejo (TCG Pocket)]]
+[[fr:Vieil Ambre (Puissance Génétique 218)]]
+[[it:Ambra Antica (Geni Supremi 218)]]
+[[ja:ひみつのコハク (ポケポケ)]]
+[[zh:秘密琥珀（TCGP）]]

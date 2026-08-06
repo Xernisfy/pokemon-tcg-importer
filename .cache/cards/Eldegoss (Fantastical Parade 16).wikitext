@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Eldegoss
+|ja name=ワタシラガ
+|trans name=Watashiraga
+|species=Eldegoss
+|type=Grass
+|image=EldegossFantasticalParade16.png
+|illustrator=kodama
+|hp=90
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Gossifleur
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=016/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Eldegoss''' (Japanese: '''ワタシラガ''' ''Watashiraga'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Float Up
+|jname=まいあがる
+|jtrans=Float Up
+|damage=40
+|effect=You may shuffle this Pokémon and all attached cards into your deck.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Eldegoss
+|species=Cotton Bloom
+|ndex=0830
+|height=1'8"
+|jheight=0.5
+|weight=5.5
+|jweight=2.5
+|dex=The cotton on the head of this Pokémon can be spun into a glossy, gorgeous yarn—a Galar regional specialty.
+|jdex=頭の 綿毛で つくった 糸は 光沢があり とても 美しい。 ガラル地方の 名産品。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Shining Fates|Eldegoss|15}} from the {{TCG|Shining Fates}} expansion.
+*'''Float Up''' is an attack that first appeared on {{TCG ID|Rebel Clash|Eldegoss V|19}} from the {{TCG|Rebel Clash}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Cottomi (Traumhafte Parade 016)]]
+[[fr:Blancoton (Parade Onirique 016)]]
+[[it:Eldegoss (Parata Fantasmagorica 16)]]
+[[ja:ワタシラガ (ポケポケ B2)]]
+[[zh:白蓬蓬（B2）]]

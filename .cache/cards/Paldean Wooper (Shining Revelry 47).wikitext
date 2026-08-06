@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Paldean Wooper
+|ja name=パルデアウパー
+|trans name=Paldean Upah
+|species=Wooper
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PaldeanWooperShiningRevelry47.png|illustrator=Mori Yuu|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PaldeanWooperDeluxePackex237.png|illustrator=Mori Yuu|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PaldeanWooperSecludedSprings100.png|illustrator=MAHOU|tab caption=Shiny Rare}}
+|hp=50
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=047/072|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=100/071|pack=Any|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=236/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=237/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Paldean Wooper''' (Japanese: '''パルデアウパー''' ''Paldean Upah'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Poison Jab
+|jname=どくづき
+|jtrans=Poison Stab
+|damage=10
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Wooper
+|category=Poison Fish 
+|ndex=0194
+|height=1'4"
+|jheight=0.4
+|weight=24.3
+|jweight=11.0
+|dex=After losing a territorial struggle, Wooper began living on land. The Pokémon changed over time, developing a poisonous film to protect its body.
+|jdex=縄張り争いに 敗れて 陸で 暮らすうちに 毒の 粘膜で 体を 保護するように 変わった。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=PaldeanWooperShiningRevelry47.png
+|caption1=Standard card<br>Illus. [[Mori Yuu]]
+|image2=PaldeanWooperSecludedSprings100.png
+|caption2=Shiny rare card<br>Illus. [[MAHOU]]
+|image3=PaldeanWooperDeluxePackex237.png
+|caption3=Parallel foil card<br>Illus. [[Mori Yuu]]
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Paldean form]] of {{p|Wooper}}.
+*This card's shiny rare print features a {{Shiny}} Paldean Wooper.
+*{{m|Poison Jab}} is a [[move]] in the [[Pokémon games]] that Paldean {{p|Wooper}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Paldea-Felino (Glänzendes Festival 047)]]
+[[es:Wooper de Paldea (Festival Brillante TCG Pocket)]]
+[[fr:Axoloto de Paldea (Réjouissances Rayonnantes 047)]]
+[[it:Wooper di Paldea (Tripudio Splendente 47)]]
+[[ja:パルデアウパー (ポケポケ A2b)]]
+[[zh:帕底亞 烏波（A2b）]]

@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Togekiss
+|ja name=トゲキッス
+|trans name=Togekiss
+|species=Togekiss
+|type=Psychic
+|image=TogekissWisdomofSeaandSky80.png
+|illustrator=sui
+|hp=140
+|weakness=Metal
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Togetic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Ho-Oh|rarity=Diamond|rarity count=3|number=080/161}}
+}}
+
+'''Togekiss''' (Japanese: '''トゲキッス''' ''Togekiss'') is a {{ct|Psychic}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Celestial Blessing
+|jname=てんのしゅくふく
+|jtrans=Sky's Blessing
+|effect=If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}{{e|Colorless}}
+|name=Magical Shot
+|jname=マジカルショット
+|jtrans=Magical Shot
+|damage=70
+|effect= 
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Togekiss
+|category=Jubilee 
+|ndex=0468
+|height=4'11"
+|jheight=1.5
+|weight=83.8
+|jweight=38.0
+|dex=These Pokémon are never seen anywhere near conflict or turmoil. In recent times, they've hardly been seen at all.
+|jdex=争い事や もめ事が 起こる 場所には 姿を 見せない。 近ごろは ほとんど 見かけない。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Astral Radiance|Togekiss|57}} from the {{TCG|Astral Radiance}} expansion.
+**Both cards have the '''Magical Shot''' attack, which first appeared on {{TCG ID|Ancient Origins|Ralts|52}} and {{TCG ID|Ancient Origins|Kirlia|53}}, both from the {{TCG|Ancient Origins}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Togekiss (Weisheit von Meer und Himmel 080)]]
+[[es:Togekiss (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Togekiss (Sagesse entre Ciel et Mer 080)]]
+[[it:Togekiss (La Via del Cielo e del Mare 80)]]
+[[ja:トゲキッス (ポケポケ A4)]]
+[[zh:波克基斯（A4）]]

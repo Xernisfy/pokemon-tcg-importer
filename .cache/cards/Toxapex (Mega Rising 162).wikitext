@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Toxapex
+|ja name=ドヒドイデ
+|trans name=Dohidoide
+|species=Toxapex
+|type=Darkness
+|image=ToxapexMegaRising162.png
+|illustrator=Ligton
+|hp=100
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Mareanie
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=162/226|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Toxapex''' (Japanese: '''ドヒドイデ''' ''Dohidoide'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=Venoshock
+|jname=ベノムショック
+|jtrans=Venom Shock
+|damage=50+
+|effect=If your opponent's Active Pokémon is {{TCG|Poisoned}}, this attack does 70 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Toxapex
+|category=Brutal Star
+|ndex=0748
+|height=2'4"
+|jheight=0.7
+|weight=32
+|jweight=14.5
+|dex=Toxapex gets into fierce battles with Bruxish over areas where warm ocean currents flow, but the odds are always against it.
+|jdex=温かな 海流が 流れ込む 場所を 巡って ハギギシリと 激しく 争うが 分が悪い。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Silver Tempest|Toxapex|115}} from the {{TCG|Silver Tempest}} expansion; both cards have the Venoshock attack.
+*{{m|Venoshock}} is a [[move]] in the [[Pokémon games]] that {{p|Toxapex}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Aggrostella (Mega-Aufstieg 162)]]
+[[es:Toxapex (Megaascenso TCG Pocket)]]
+[[fr:Prédastérie (Méga-Ascension 162)]]
+[[it:Toxapex (Mega Ascesa 162)]]
+[[ja:ドヒドイデ (ポケポケ B1)]]
+[[zh:超坏星（B1）]]

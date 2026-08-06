@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pachirisu
+|ja name=パチリス
+|trans name=Pachirisu
+|species=Pachirisu
+|type=Lightning
+|image=PachirisuMegaRising89.png
+|illustrator=Naoyo Kimura
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=089/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Pachirisu''' (Japanese: '''パチリス''' ''Pachirisu'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}
+|name=Attack the Wound
+|jname=きずにうちこむ
+|jtrans=Wound Strike
+|damage=30+
+|effect=If your opponent's Active Pokémon has damage on it, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Pachirisu
+|category=EleSquirrel
+|ndex=0417
+|height=1'4"
+|jheight=0.4
+|weight=8.6
+|jweight=3.9
+|dex=A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.
+|jdex=溜まった 電気を 分け与えようと 頬袋を こすり合わせる パチリスを 見かけることも ある。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Battle Styles|Pachirisu|49}} from the {{TCG|Battle Styles}} expansion.
+*'''Attack the Wound''' is an attack that first appeared on {{TCG ID|Sword & Shield|Morpeko|78}} from the {{TCG|Sword & Shield}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pachirisu (Mega-Aufstieg 089)]]
+[[es:Pachirisu (Megaascenso TCG Pocket)]]
+[[fr:Pachirisu (Méga-Ascension 089)]]
+[[it:Pachirisu (Mega Ascesa 89)]]
+[[ja:パチリス (ポケポケ B1)]]
+[[zh:帕奇利兹（B1）]]

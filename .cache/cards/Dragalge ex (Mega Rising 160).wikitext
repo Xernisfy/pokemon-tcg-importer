@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dragalge {{TCGP Icon|ex}}
+|ja name=ドラミドロ{{TCGP Icon|ex}}
+|trans name=Dramidoro {{TCGP Icon|ex}}
+|species=Dragalge
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DragalgeexMegaRising160.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DragalgeexMegaRising263.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DragalgeexMegaRising281.png|illustrator=Shinji Kanda|tab caption=Special Illustration Rare}}
+|hp=150
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Skrelp
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=160/226|pack=Mega Blaziken|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=263/226|pack=Mega Blaziken|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=281/226|pack=Mega Blaziken|rarity=Star|rarity count=2}}
+}}
+
+'''Dragalge ex''' (Japanese: '''ドラミドロex''' ''Dramidoro ex'') is a {{ct|Darkness}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Ability/Pocket
+|type=Darkness
+|name=Poison Point
+|jname=どくのトゲ
+|jtrans=Poison Spine
+|effect=If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, the Attacking Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}
+|name=Draconic Whip
+|jname=ドラゴンウィップ
+|jtrans=Dragon Whip
+|damage=80
+|effect=
+}}
+{{Cardtext/Pocket ex
+|type=Darkness
+|ndex=0691
+|name=Dragalge
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=DragalgeexMegaRising160.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=DragalgeexMegaRising263.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=DragalgeexMegaRising281.png
+|caption3=Special illustration rare card<br>Illus. [[Shinji Kanda]]
+}}
+
+==Trivia==
+===Origin===
+*{{a|Poison Point}} is an [[Ability]] in the [[Pokémon games]] that {{p|Dragalge}} can have.
+*'''Draconic Whip''' is an attack that first appeared on {{TCG ID|151|Dratini|147}} from the {{TCG|151}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tandrak-ex (Mega-Aufstieg 160)]]
+[[es:Dragalge ex (Megaascenso TCG Pocket)]]
+[[fr:Kravarech-ex (Méga-Ascension 160)]]
+[[it:Dragalge-ex (Mega Ascesa 160)]]
+[[ja:ドラミドロex (ポケポケ B1)]]
+[[zh:毒藻龙ex（B1）]]

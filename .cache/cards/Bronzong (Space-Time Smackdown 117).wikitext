@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bronzong
+|ja name=ドータクン
+|trans name=Dohtakun
+|species=Bronzong
+|type=Metal
+|image=BronzongSpace-TimeSmackdown117.png
+|illustrator=Yuka Morii
+|hp=120
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Bronzor
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=117/155|pack=Dialga|rarity=Diamond|rarity count=2}}
+}}
+
+'''Bronzong''' (Japanese: '''ドータクン''' ''Dohtakun'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Colorless}}
+|name=Guard Press
+|jname=ガードプレス
+|jtrans=Guard Press
+|damage=60
+|effect=During your opponent's next turn, this Pokémon takes −20 damage from attacks.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Bronzong
+|species=Bronze Bell
+|ndex=0437
+|height=4'3"
+|jheight=1.3
+|weight=412.3
+|jweight=187.0
+|dex=In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.
+|jdex=雨雲を 呼べる ポケモンとして 大昔から 祀られていた。 ときどき 地面に 埋められている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Triumphant|Bronzong|15}} from the {{TCG|Triumphant}} expansion.
+*'''Guard Press''' is an attack that first appeared on {{TCG ID|Unleashed|Steelix|24}} from the {{TCG|Unleashed}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bronzong (Kollision von Raum und Zeit 117)]]
+[[es:Bronzong (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Archéodong (Choc Spatio-Temporel 117)]]
+[[it:Bronzong (Scontro Spaziotemporale 117)]]
+[[ja:ドータクン (ポケポケ A2)]]
+[[zh:青铜钟（A2）]]

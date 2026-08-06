@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Ninetales
+|ja name=アローラキュウコン
+|trans name=Alolan Kyukon
+|species=Ninetales
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanNinetalesCelestialGuardians41.png|illustrator=Eri Yamaki|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanNinetalesPromo-A70.png|illustrator=tono|tab caption=Promo}} 
+|hp=110
+|weakness=Metal
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Alolan Vulpix
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=041/155|pack=Lunala|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=070/P-A|pack=Vol. 8}}
+}}
+
+'''Alolan Ninetales''' (Japanese: '''アローラキュウコン''' ''Alolan Kyukon'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}
+|name=Blizzard
+|jname=ふぶき
+|jtrans=Blizzard
+|damage=60
+|effect=This attack also does 20 damage to each of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Ninetales
+|species=Fox
+|ndex=0038
+|height=3'7"
+|jheight=1.1
+|weight=43.9
+|jweight=19.9
+|dex=A deity resides in the snowy mountains where this Pokémon lives. In ancient times, it was worshiped as that deity's incarnation.
+|jdex=雪に 閉ざされた 神様の いる 山で 暮らしていたため 昔は 神の化身と 敬われていた。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of five cards that could be pulled from Promo-A Vol. 8 packs; these were made available as part of the [[Alolan Ninetales Drop Event]], which ran from May 16 to 26, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=AlolanNinetalesCelestialGuardians41.png
+|caption1=Rare card<br>Illus. [[Eri Yamaki]]
+|image2=AlolanNinetalesPromo-A70.png
+|caption2=Promo card<br>Illus. [[tono]]
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Ninetales}}.
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Alolan Ninetales|145}} from the {{TCG|Cosmic Eclipse}} expansion.
+*{{m|Blizzard}} is a [[move]] in the [[Pokémon games]] that Alolan Ninetales can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Vulnona (Hüter des Firmaments 041)]]
+[[es:Ninetales de Alola (Guardianes Celestiales TCG Pocket)]]
+[[fr:Feunard d'Alola (Gardiens Astraux 041)]]
+[[it:Ninetales di Alola (Guardiani Astrali 41)]]
+[[ja:アローラキュウコン (ポケポケ A3)]]
+[[zh:阿罗拉 九尾（A3）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ferroseed
+|ja name=テッシード
+|trans name=Tesseed
+|species=Ferroseed
+|type=Metal
+|image=FerroseedMegaRising166.png
+|illustrator=ryoma uratsuka
+|hp=60
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=166/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Ferroseed''' (Japanese: '''テッシード''' ''Tesseed'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}
+|name=Rolling Tackle
+|jname=ころがりタックル
+|jtrans=Rolling Tackle
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Ferroseed
+|category=Thorn Seed
+|ndex=0597
+|height=2'
+|jheight=0.6
+|weight=41.4
+|jweight=18.8
+|dex=Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed's spikes grow big and strong.
+|jdex=苔むした 洞窟を 好む。 苔が 含む 酵素が 棘を 大きく 丈夫に 育むのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Silver Tempest|Ferroseed|121}} from the {{TCG|Silver Tempest}} expansion; both cards have the Rolling Tackle attack.
+*'''Rolling Tackle''' is an attack that first appeared on {{TCG ID|Team Rocket|Dark Electrode|34}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kastadur (Mega-Aufstieg 166)]]
+[[es:Ferroseed (Megaascenso TCG Pocket)]]
+[[fr:Grindur (Méga-Ascension 166)]]
+[[it:Ferroseed (Mega Ascesa 166)]]
+[[ja:テッシード (ポケポケ B1)]]
+[[zh:种子铁球（B1）]]

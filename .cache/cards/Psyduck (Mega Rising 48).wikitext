@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Psyduck
+|ja name=コダック
+|trans name=Koduck
+|species=Psyduck
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PsyduckMegaRising48.png|illustrator=nagimiso|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PsyduckPromo-B8.png|illustrator=OKACHEKE|tab caption=Promo}}
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=048/226|pack=Mega Blaziken|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=008/P-B}}
+}}
+
+'''Psyduck''' (Japanese: '''コダック''' ''Koduck'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Rain Splash
+|jname=みずかけ
+|jtrans=Water Splash
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Psyduck
+|species=Duck
+|ndex=0054
+|height=2'7"
+|jheight=0.8
+|weight=43.2
+|jweight=19.6
+|dex=If its chronic headache peaks, it may exhibit odd powers. It seems unable to recall such an episode. 
+|jdex=いつもの 頭痛が 激しくなると 不思議な 力を 発揮するが そのときの 記憶は ないらしい。
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} print of this card was available via special wonder picks during the Psyduck [[Wonder Pick Event (Psyduck)|Wonder Pick Event]], which ran from November 27 to December 7, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=PsyduckMegaRising48.png
+|caption1=Common card<br>Illus. [[nagimiso]]
+|image2=PsyduckPromo-B8.png
+|caption2=Promo card<br>Illus. [[OKACHEKE]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Hidden Fates|Psyduck|11}} from the {{TCG|Hidden Fates}} expansion.
+*This card's {{TCGP|Promo-B}} illustration was first featured on {{TCG ID|Evolving Skies|Psyduck|24}} from the {{TCG|Evolving Skies}} expansion; both cards have the Rain Splash attack.
+*'''Rain Splash''' is an attack that first appeared on {{TCG ID|EX Deoxys|Lotad|63}} from the {{TCG|EX Deoxys}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Enton (Mega-Aufstieg 048)]]
+[[es:Psyduck (Megaascenso  TCG Pocket)]]
+[[fr:Psykokwak (Méga-Ascension 048)]]
+[[it:Psyduck (Mega Ascesa 48)]]
+[[ja:コダック (ポケポケ B1)]]
+[[zh:可达鸭（B1）]]

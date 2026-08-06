@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mamoswine
+|ja name=マンムー
+|trans name=Mammoo
+|species=Mamoswine
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MamoswineSpace-TimeSmackdown33.png|illustrator=match|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MamoswineSpace-TimeSmackdown160.png|illustrator=OKACHEKE|tab caption=Illustration Rare}}
+|hp=160
+|weakness=Metal
+|retreat cost=4
+|evo stage=Stage 2
+|prevo name=Piloswine
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=033/155|pack=Dialga|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=160/155|pack=Dialga|rarity=Star|rarity count=1}}
+}}
+
+'''Mamoswine''' (Japanese: '''マンムー''' ''Mammoo'') is a {{ct|Water}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Thick Fat
+|jname=あついしぼう
+|jtrans=Thick Fat
+|effect=This Pokémon takes −30 damage from attacks from {{e|Fire}} or {{e|Water}} Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}{{e|Colorless}}
+|name=Frosty Flattening
+|jname=フロストダンプ
+|jtrans=Frost Dump
+|damage=120
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Mamoswine
+|species=Twin Tusk
+|ndex=0473
+|height=8'2"
+|jheight=2.5
+|weight=641.5
+|jweight=291.0
+|dex=This Pokémon can be spotted in wall paintings from as far back as 10,000 years ago. For a while, it was thought to have gone extinct.
+|jdex=１万年前の 壁画にも 描かれている。 絶滅したと 考えられていた 時期もある。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=MamoswineSpace-TimeSmackdown33.png
+|caption1=Rare card<br>Illus. [[match]]
+|image2=MamoswineSpace-TimeSmackdown160.png
+|caption2=Illustration rare card<br>Illus. [[OKACHEKE]]
+}}
+
+==Trivia==
+This card's illustration rare print features {{p|Swinub}}, {{p|Piloswine}}, and {{p|Mamoswine}}.
+
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Plasma Storm|Mamoswine|28}} from the {{TCG|Plasma Storm}} expansion.
+*{{a|Thick Fat}} is an [[Ability]] in the [[Pokémon games]] that {{p|Mamoswine}} can have.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mamutel (Kollision von Raum und Zeit 033)]]
+[[es:Mamoswine (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Mammochon (Choc Spatio-Temporel 033)]]
+[[it:Mamoswine (Scontro Spaziotemporale 33)]]
+[[ja:マンムー (ポケポケ A2)]]
+[[zh:象牙猪（A2）]]

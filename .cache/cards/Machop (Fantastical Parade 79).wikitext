@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Machop
+|ja name=ワンリキー
+|trans name=Wanriky
+|species=Machop
+|type=Fighting
+|image=MachopFantasticalParade79.png
+|illustrator=Atsuko Nishida
+|hp=70
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=079/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Machop''' (Japanese: '''ワンリキー''' ''Wanriky'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}
+|name=Shatter
+|jname=たたきこわす
+|jtrans=Shatter
+|damage=10
+|effect=Discard a {{TCGP|Stadium card|Stadium}} in play.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Machop
+|species=Superpower
+|ndex=0066
+|height=2'7"
+|jheight=0.8
+|weight=43.0
+|jweight=19.5
+|dex=Always brimming with power, it passes time by lifting boulders. Doing so makes it even stronger.
+|jdex=いつも パワフル。 体力が 有り余っているので 暇つぶしに 岩を持ち上げ さらに 強くなる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Diamond & Pearl|Machop|86}} from the {{TCG|Diamond & Pearl}} expansion.
+*'''Shatter''' is an attack that first appeared on {{TCG ID|EX Unseen Forces|Tyranitar ex|111}} from the {{TCG|EX Unseen Forces}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Machollo (Traumhafte Parade 079)]]
+[[fr:Machoc (Parade Onirique 079)]]
+[[it:Machop (Parata Fantasmagorica 79)]]
+[[ja:ワンリキー (ポケポケ B2)]]
+[[zh:腕力（B2）]]

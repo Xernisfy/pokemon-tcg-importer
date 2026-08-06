@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wailmer
+|ja name=ホエルコ
+|trans name=Hoeruko
+|species=Wailmer
+|type=Water
+|image=WailmerMegaRising56.png
+|illustrator=Mékayu
+|hp=100
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=056/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+}}
+
+'''Wailmer''' (Japanese: '''ホエルコ''' ''Hoeruko'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Surf
+|jname=なみのり
+|jtrans=Surfing
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Wailmer
+|species=Ball Whale
+|ndex=0320
+|height=6'7"
+|jheight=2.0
+|weight=286.6
+|jweight=130.0
+|dex=When it sucks in a large volume of seawater, it becomes like a big, bouncy ball. It eats a ton of food daily.
+|jdex=海水を たくさん 飲みこむと 体が ボールの ように 弾む。 毎日 1トンの エサを 食べる。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Surf}} is a [[move]] in the [[Pokémon games]] that {{p|Wailmer}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wailmer (Mega-Aufstieg 056)]]
+[[es:Wailmer (Megaascenso TCG Pocket)]]
+[[fr:Wailmer (Méga-Ascension 056)]]
+[[it:Wailmer (Mega Ascesa 56)]]
+[[ja:ホエルコ (ポケポケ B1)]]
+[[zh:吼吼鲸（B1）]]

@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Drilbur
+|ja name=モグリュー
+|trans name=Mogurew
+|species=Drilbur
+|type=Fighting
+|image=DrilburFantasticalParade88.png
+|illustrator=Midori Harada
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=088/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Drilbur''' (Japanese: '''モグリュー''' ''Mogurew'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Headbutt Bounce
+|jname=とびだしヘッド
+|jtrans=Head Thrust
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Drilbur
+|species=Mole
+|ndex=0529
+|height=1'
+|jheight=0.3
+|weight=18.7
+|jweight=8.5
+|dex=It makes its way swiftly through the soil by putting both claws together and rotating at high speed.
+|jdex=両手の ツメを 重ね合わせて 体を 高速 回転させると 猛スピードで 地中を 進む。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Emerging Powers|Drilbur|55}} from the {{TCG|Emerging Powers}} expansion.
+*'''Headbutt Bounce''' is an attack that first appeared on {{TCG ID|Boundaries Crossed|Wobbuffet|58}} from the {{TCG|Boundaries Crossed}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rotomurf (Traumhafte Parade 088)]]
+[[fr:Rototaupe (Parade Onirique 088)]]
+[[it:Drilbur (Parata Fantasmagorica 88)]]
+[[ja:モグリュー (ポケポケ B2)]]
+[[zh:螺钉地鼠（B2）]]

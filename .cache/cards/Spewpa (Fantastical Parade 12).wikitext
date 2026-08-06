@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Spewpa
+|ja name=コフーライ
+|trans name=Kofuurai
+|species=Spewpa
+|type=Grass
+|image=SpewpaFantasticalParade12.png
+|illustrator=Sumiyoshi Kizuki
+|hp=80
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Scatterbug
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=012/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Spewpa''' (Japanese: '''コフーライ''' ''Kofuurai'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Signs of Evolution
+|jname=しんかのきざし
+|jtrans=Signs of Evolution
+|damage=
+|effect=Put a random card that evolves from {{TCGP|Spewpa}} from your deck into your hand.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Spewpa
+|species=Scatterdust
+|ndex=0665
+|height=1'
+|jheight=0.3
+|weight=18.5
+|jweight=8.4
+|dex=Spewpa doesn't live in a fixed location. It roams where it pleases across the fields and mountains, building up the energy it needs to evolve. 
+|jdex=決まった 棲み処を 持たない。 気の向くまま 野山を 歩きまわり 進化の エネルギーを 蓄える。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Battle Styles|Spewpa|12}} from the {{TCG|Battle Styles}} expansion.
+*'''Signs of Evolution''' is an attack that first appeared on {{TCG ID|Skyridge|Magikarp|75}} from the {{TCG|Skyridge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Puponcho (Traumhafte Parade 012)]]
+[[fr:Pérégrain (Parade Onirique 012)]]
+[[it:Spewpa (Parata Fantasmagorica 12)]]
+[[ja:コフーライ (ポケポケ B2)]]
+[[zh:粉蝶蛹（B2）]]

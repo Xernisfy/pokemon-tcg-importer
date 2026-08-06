@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lopunny
+|ja name=ミミロップ
+|trans name=Mimilop
+|species=Lopunny
+|type=Colorless
+|image=LopunnySpace-TimeSmackdown138.png
+|illustrator=Sanosuke Sakuma
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Buneary
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=138/155|pack=Dialga|rarity=Diamond|rarity count=1}}
+}}
+
+'''Lopunny''' (Japanese: '''ミミロップ''' ''Mimilop'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Jump Kick
+|jname=とびげり
+|jtrans=Dropkick
+|damage=20
+|effect=This attack also 20 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Lopunny
+|species=Rabbit
+|ndex=0428
+|height=3'11"
+|jheight=1.2
+|weight=73.4
+|jweight=33.3
+|dex=Lopunny is constantly monitoring its surroundings. If danger approaches, this Pokémon responds with superdestructive kicks.
+|jdex=まわりの 様子を つねに 気にして 危険が およぶと 破壊力 抜群の キックを おみまいする。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Flashfire|Lopunny|85}} from the {{TCG|Flashfire}} expansion.
+*{{m|Jump Kick}} is a [[move]] in the [[Pokémon games]] that {{p|Lopunny}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schlapor (Kollision von Raum und Zeit 138)]]
+[[es:Lopunny (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Lockpin (Choc Spatio-Temporel 138)]]
+[[it:Lopunny (Scontro Spaziotemporale 138)]]
+[[ja:ミミロップ (ポケポケ A2)]]
+[[zh:长耳兔（A2）]]

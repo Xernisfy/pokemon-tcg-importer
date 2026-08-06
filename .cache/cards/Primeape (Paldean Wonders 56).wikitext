@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Primeape
+|ja name=オコリザル
+|trans name=Okorizaru
+|species=Primeape
+|type=Fighting
+|image=PrimeapePaldeanWonders56.png
+|illustrator=Shin Nagasawa
+|hp=80
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Mankey
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=056/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Primeape''' (Japanese: '''オコリザル''' ''Okorizaru'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Rage
+|jname=いかり
+|jtrans=Rage
+|damage=30+
+|effect=This attack does more damage equal to the damage this Pokémon has on it.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Primeape
+|category=Pig Monkey
+|ndex=0057
+|height=3'3"
+|jheight=1
+|weight=70.5
+|jweight=32.0
+|dex=Some researchers theorize that Primeape remains angry even when inside a Poké Ball. 
+|jdex=ある研究者の 学説では モンスターボールの 中でも オコリザルは 怒っているらしい。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Paldea Evolved|Primeape|107}} from the {{TCG|Paldea Evolved}} expansion. The [[Icerend Shrine]] is featured in the illustration.
+*{{m|Rage}} is a [[move]] in the [[Pokémon games]] that {{p|Primeape}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rasaff (Wundervolles Paldea 056)]]
+[[fr:Colossinge (Merveilles de Paldea 056)]]
+[[it:Primeape (Meraviglie di Paldea 56)]]
+[[ja:オコリザル (ポケポケ B2a)]]
+[[zh:火暴猴（B2a）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Heliolisk
+|ja name=エレザード
+|trans name=Elezard
+|species=Heliolisk
+|type=Lightning
+|image=HelioliskCelestialGuardians63.png
+|illustrator=Kagemaru Himeno
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Helioptile
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=063/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Heliolisk''' (Japanese: '''エレザード''' ''Elezard'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Colorless}}
+|name=Rear Kick
+|jname=うしろげり
+|jtrans=Rear Kick
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Heliolisk
+|species=Generator
+|ndex=0695
+|height=3'3"
+|jheight=1.0
+|weight=46.3
+|jweight=21.0
+|dex=One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.
+|jdex=襟巻を 広げて 太陽光を 浴びると 大都会で 使われる 電気を １匹で 発電する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fusion Strike|Heliolisk|99}} from the {{TCG|Fusion Strike}} expansion.
+*'''Rear Kick''' is an attack that first appeared on {{TCG ID|Team Rocket|Dark Rapidash|44}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Elezard (Hüter des Firmaments 063)]]
+[[es:Heliolisk (Guardianes Celestiales TCG Pocket)]]
+[[fr:Iguolta (Gardiens Astraux 063)]]
+[[it:Heliolisk (Guardiani Astrali 63)]]
+[[ja:エレザード (ポケポケ A3)]]
+[[zh:光电伞蜥（A3）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bruxish
+|ja name=ハギギシリ
+|trans name=Hagigishiri
+|species=Bruxish
+|type=Water
+|image=BruxishGeneticApex91.png
+|illustrator=Mizue
+|hp=90
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=091/226|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Bruxish''' (Japanese: '''ハギギシリ''' ''Hagigishiri'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Second Strike
+|jname=きずをえぐる
+|jtrans=Gouge at Wounds
+|damage=10+
+|effect=If your opponent's Active Pokémon has damage on it, this attack does 60 more damage.
+|}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Bruxish
+|species=Gnash Teeth
+|ndex=0779
+|height=2'11"
+|jheight=0.9
+|weight=41.9
+|jweight=19.0
+|dex=It grinds its teeth with great force to stimulate its brain. It fires the psychic energy created by this process from the protuberance on its head.
+|jdex=強く　歯ぎしり　することで　脳を 刺激｡　生みだした　サイコパワーを 頭の　突起から　撃ち出す｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|SM Promo|Bruxish|11}}, one of the {{TCG|SM Black Star Promos}}.
+*'''Second Strike''' is an attack that first appeared on {{TCG ID|EX Team Magma vs Team Aqua|Team Magma's Rhyhorn|67}} and {{TCG ID|EX Team Magma vs Team Aqua|Team Magma's Rhydon|22}}, both from the {{TCG|EX Team Magma vs Team Aqua}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knirfish (Unschlagbare Gene 091)]]
+[[es:Bruxish (Genes Formidables TCG Pocket)]]
+[[fr:Denticrisse (Puissance Génétique 091)]]
+[[it:Bruxish (Geni Supremi 91)]]
+[[ja:ハギギシリ (ポケポケ A1)]]
+[[zh:磨牙彩皮鱼（A1）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Piloswine
+|ja name=イノムー
+|trans name=Inomoo
+|species=Piloswine
+|type=Fighting
+|image=PiloswineWisdomofSeaandSky97.png
+|illustrator=Midori Harada
+|hp=100
+|weakness=Grass
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Swinub
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=097/161|pack=Ho-Oh|rarity=Diamond|rarity count=2}}
+}}
+
+'''Piloswine''' (Japanese: '''イノムー''' ''Inomoo'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Headbutt Bounce
+|jname=とびだしヘッド
+|jtrans=Head Thrust
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Piloswine
+|category=Swine 
+|ndex=0221
+|height=3'7"
+|jheight=1.1
+|weight=123.0
+|jweight=55.8
+|dex=If it charges at an enemy, the hairs on its back stand up straight. It is very sensitive to sound.
+|jdex=相手 めがけて 突進するとき 背中の 体毛が 逆立つ。 音に ものすごく 敏感。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Legends Awakened|Piloswine|69}} from the {{TCG|Legends Awakened}} expansion.
+*'''Headbutt Bounce''' is an attack that first appeared on {{TCG ID|Boundaries Crossed|Wobbuffet|58}} from the {{TCG|Boundaries Crossed}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Keifel (Weisheit von Meer und Himmel 097)]]
+[[es:Piloswine (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Cochignon (Sagesse entre Ciel et Mer 097)]]
+[[it:Piloswine (La Via del Cielo e del Mare 97)]]
+[[ja:イノムー (ポケポケ A4)]]
+[[zh:长毛猪（A4）]]

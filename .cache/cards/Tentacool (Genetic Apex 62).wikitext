@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tentacool
+|ja name=メノクラゲ
+|trans name=Menokurage
+|species=Tentacool
+|type=Water
+|image=TentacoolGeneticApex62.png
+|illustrator=Shinya Komatsu
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mewtwo|rarity=Diamond|rarity count=1|number=062/226}}
+}}
+
+'''Tentacool''' (Japanese: '''メノクラゲ''' ''Menokurage'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Gentle Slap
+|jname=ひっぱたく
+|jtrans=Slap
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Tentacool
+|species=Jellyfish
+|ndex=0072
+|height=2'11"
+|jheight=0.9
+|weight=100.3
+|jweight=45.5
+|dex=Tentacool is not a particularly strong swimmer. It drifts across the surface of shallow seas as it searches for prey.
+|jdex=泳ぐ　力は　強くは　ない｡ 浅い　海の　水面を 漂いながら　獲物を　探す｡
+}}
+
+==Trivia==
+Tentacool is one of seven Pokémon in the {{TCGP|Genetic Apex}} expansion featured in the "Touring the Kanto Region" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]], in which all of the cards show various elements of the [[Kanto]] region. This card's illustration features [[Vermilion Port]], as depicted in {{game|FireRed and LeafGreen|s|Pokémon FireRed, LeafGreen}}, {{LGPE|Let's Go, Pikachu!, and Let's Go, Eevee!}}.
+
+===Origin===
+*'''Gentle Slap''' is an attack that first appeared on {{TCG ID|EX Team Rocket Returns|Psyduck|70}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tentacha (Unschlagbare Gene 062)]]
+[[es:Tentacool (Genes Formidables TCG Pocket)]]
+[[fr:Tentacool (Puissance Génétique 062)]]
+[[it:Tentacool (Geni Supremi 62)]]
+[[ja:メノクラゲ (ポケポケ A1)]]
+[[zh:玛瑙水母（A1）]]

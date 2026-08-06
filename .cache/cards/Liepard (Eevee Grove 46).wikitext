@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Liepard
+|ja name=レパルダス
+|trans name=Lepardas
+|species=Liepard
+|type=Darkness
+|image=LiepardEeveeGrove46.png
+|illustrator=kawayoo
+|hp=90
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Purrloin
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=046/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Liepard''' (Japanese: '''レパルダス''' ''Lepardas'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=Slashing Claw
+|jname=スラッシュクロー
+|jtrans=Slash Claw
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Liepard
+|category=Cruel 
+|ndex=0510
+|height=3'7"
+|jheight=1.1
+|weight=82.7
+|jweight=37.5
+|dex=Don't be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.
+|jdex=美しい 毛並みと スタイルに 惑わされがちだが 気まぐれで 狂暴な ポケモンなのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Shining Legends|Liepard|49}} from the {{TCG|Shining Legends}} expansion.
+*'''Slashing Claw''' is an attack that first appeared on {{TCG ID|Unified Minds|Salazzle|99}} and {{TCG ID|Unified Minds|Noctowl|166}}, both from the {{TCG|Unified Minds}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kleoparda (Evoli-Hain 046)]]
+[[es:Liepard (Arboleda de Eevee TCG Pocket)]]
+[[fr:Léopardus (La Clairière d'Évoli 046)]]
+[[it:Liepard (Il Bosco di Eevee 46)]]
+[[ja:レパルダス (ポケポケ A3b)]]
+[[zh:酷豹（A3b）]]

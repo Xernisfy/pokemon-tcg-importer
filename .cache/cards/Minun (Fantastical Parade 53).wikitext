@@ -1,0 +1,69 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Minun
+|ja name=マイナン
+|trans name=Minun
+|species=Minun
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MinunFantasticalParade53.png|illustrator=HYOGONOSUKE|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MinunFantasticalParade165.png|illustrator=Kariya|tab caption=Illustration Rare}}
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=053/155|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=165/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Minun''' (Japanese: '''マイナン''' ''Minun'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Buddy Spark
+|jname=バディスパーク
+|jtrans=Buddy Spark
+|damage=30
+|effect=If {{TCGP|Plusle}} is on your Bench, this attack also does 10 damage to each of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Minun
+|species=Cheering
+|ndex=0312
+|height=1'4"
+|jheight=0.4
+|weight=9.3
+|jweight=4.2
+|dex=Its dislike of water makes it take shelter under the eaves of houses in rain. It uses pom-poms made of sparks for cheering.
+|jdex=水が 苦手。 雨が 降りだすと 軒下で 雨宿り。 火花の ボンボンで 仲間を 励ます。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=MinunFantasticalParade53.png
+|caption1=Common card<br>Illus. [[HYOGONOSUKE]]
+|image2=MinunFantasticalParade165.png
+|caption2=Illustration rare card<br>Illus. [[Kariya]]
+}}
+
+==Trivia==
+===Origin===
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Minun (Traumhafte Parade 053)]]
+[[fr:Négapi (Parade Onirique 053)]]
+[[it:Minun (Parata Fantasmagorica 53)]]
+[[ja:マイナン (ポケポケ B2)]]
+[[zh:负电拍拍（B2）]]

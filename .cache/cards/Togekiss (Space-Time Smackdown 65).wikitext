@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Togekiss
+|ja name=トゲキッス
+|trans name=Togekiss
+|species=Togekiss
+|type=Psychic
+|image=TogekissSpace-TimeSmackdown65.png
+|illustrator=kawayoo
+|hp=140
+|weakness=Metal
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Togetic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=3|number=065/155}}
+}}
+
+'''Togekiss''' (Japanese: '''トゲキッス''' ''Togekiss'') is a {{ct|Psychic}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Overdrive Smash
+|jname=オーバースマッシュ
+|jtrans=Over Smash
+|damage=60
+|effect=During your next turn, this Pokémon's Overdrive Smash attack does +60 damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Togekiss
+|species=Jubilee
+|ndex=0468
+|height=4'11"
+|jheight=1.5
+|weight=83.8
+|jweight=38.0
+|dex=These Pokémon are never seen anywhere near conflict or turmoil. In recent times, they've hardly been seen at all.
+|jdex=争い事や もめ事が 起こる 場所には 姿を 見せない。 近ごろは ほとんど 見かけない。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Supreme Victors|Togekiss C|86}} from the {{TCG|Supreme Victors}} expansion.
+*'''Overdrive Smash''' is an attack that first appeared on {{TCG ID|BW Promo|Genesect|86}}, one of the {{TCG|BW Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Togekiss (Kollision von Raum und Zeit 065)]]
+[[es:Togekiss (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Togekiss (Choc Spatio-Temporel 065)]]
+[[it:Togekiss (Scontro Spaziotemporale 65)]]
+[[ja:トゲキッス (ポケポケ A2)]]
+[[zh:波克基斯（A2）]]

@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dondozo
+|ja name=ヘイラッシャ
+|trans name=Heyrusher
+|species=Dondozo
+|type=Water
+|image=DondozoPaldeanWonders32.png
+|illustrator=Souichirou Gunjima
+|hp=130
+|weakness=Lightning
+|retreat cost=4
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=032/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Dondozo''' (Japanese: '''ヘイラッシャ''' ''Heyrusher'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Giga Impact
+|jname=ギガインパクト
+|jtrans=Giga Impact
+|damage=120
+|effect=During your next turn, this Pokémon can't attack.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Dondozo
+|category=Big Catfish
+|ndex=0977
+|height=39'4"
+|jheight=12
+|weight=485
+|jweight=220.0
+|dex=It treats Tatsugiri like its boss and follows it loyally. Though powerful, Dondozo is apparently not very smart.
+|jdex=シャリタツを　親分のように 慕っている｡　力持ちだが 頭は　あまり　良くないらしい｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Dondozo|61}} from the {{TCG|Scarlet & Violet}} expansion. It features a {{form|Tatsugiri|Drooopy Form}} {{p|Tatsugiri}}.
+*{{m|Giga Impact}} is a [[move]] in the [[Pokémon games]] that {{p|Dondozo}} can learn via [[TM]].
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Heerashai (Wundervolles Paldea 032)]]
+[[fr:Oyacata (Merveilles de Paldea 032)]]
+[[it:Dondozo (Meraviglie di Paldea 32)]]
+[[ja:ヘイラッシャ (ポケポケ B2a)]]
+[[zh:吃吼霸（B2a）]]

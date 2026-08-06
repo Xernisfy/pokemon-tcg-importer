@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Darumaka
+|ja name=ダルマッカ
+|trans name=Darumakka
+|species=Darumaka
+|type=Fire
+|image=DarumakaMegaRising39.png
+|illustrator=Atsuko Nishida
+|hp=70
+|weakness=Water
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=039/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+}}
+
+'''Darumaka''' (Japanese: '''ダルマッカ''' ''Darumakka'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Reckless Charge
+|jname=とつげき
+|jtrans=Assault
+|damage=50
+|effect=This Pokémon also does 10 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Darumaka
+|category=Zen Charm
+|ndex=0554
+|height=2'
+|jheight=0.6
+|weight=82.7
+|jweight=37.5
+|dex=This popular symbol of good fortune will never fall over in its sleep, no matter how it's pushed or pulled.
+|jdex=寝ているときは 押しても 引いても けっして 倒れない。 縁起ものの モチーフとして 人気が 高い。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Next Destinies|Darumaka|17}} from the {{TCG|Next Destinies}} expansion.
+*'''Reckless Charge''' is an attack that first appeared on {{TCG ID|Movie VS Pack|Ash's Phanpy|4}} from the {{TCG|Movie Commemoration VS Pack: Aura's Lucario}}.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flampion (Mega-Aufstieg 039)]]
+[[es:Darumaka (Megaascenso TCG Pocket)]]
+[[fr:Darumarond (Méga-Ascension 039)]]
+[[it:Darumaka (Mega Ascesa 39)]]
+[[ja:ダルマッカ (ポケポケ B1)]]
+[[zh:火红不倒翁（B1）]]

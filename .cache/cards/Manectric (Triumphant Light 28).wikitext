@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Manectric
+|ja name=ライボルト
+|trans name=Livolt
+|species=Manectric
+|type=Lightning
+|image=ManectricTriumphantLight28.png
+|illustrator=match
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Electrike
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=028/075|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Manectric''' (Japanese: '''ライボルト''' ''Livolt'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Flash
+|jname=フラッシュ
+|jtrans=Flash
+|damage=40
+|effect=During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Manectric
+|species=Discharge
+|ndex=0310
+|height=4'11"
+|jheight=1.5
+|weight=88.6
+|jweight=40.2
+|dex=It stimulates its own muscles with electricity, so it can move quickly. It eases its soreness with electricity, too, so it can recover quickly as well.
+|jdex=電気で 筋肉を 刺激するので 素早く 動ける。 筋肉痛も 電気で ほぐすので すぐ 治る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Roaring Skies|Manectric|25}} from the {{TCG|Roaring Skies}} expansion.
+*{{m|Flash}} is a [[move]] in the [[Pokémon games]] that {{p|Manectric}} can learn via [[TM]].
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Voltenso (Licht des Triumphs 028)]]
+[[es:Manectric (Luz Triunfal TCG Pocket)]]
+[[fr:Élecsprint (Lumière Triomphale 028)]]
+[[it:Manectric (Luce Trionfale 28)]]
+[[ja:ライボルト (ポケポケ A2a)]]
+[[zh:雷電獸（A2a）]]

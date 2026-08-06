@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Politoed
+|ja name=ニョロトノ
+|trans name=Nyorotono
+|species=Politoed
+|type=Water
+|image=PolitoedWisdomofSeaandSky40.png
+|illustrator=Masakazu Fukuda
+|hp=140
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Poliwhirl
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=040/161|pack=Lugia|rarity=Diamond|rarity count=3}}
+}}
+
+'''Politoed''' (Japanese: '''ニョロトノ''' ''Nyorotono'') is a {{ct|Water}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Lordly Cheering
+|jname=とのさまエール
+|jtrans=Lordly Yell
+|effect=As long as this Pokémon is on your Bench, attacks used by your Pokémon that evolve from {{TCGP|Poliwhirl}} do +40 damage to your opponent's Active Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Hyper Voice
+|jname=ハイパーボイス
+|jtrans=Hyper Voice
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Politoed
+|species=Frog
+|ndex=0186
+|height=3'7"
+|jheight=1.1
+|weight=74.7
+|jweight=33.9
+|dex=At nightfall, these Pokémon appear on the shores of lakes. They announce their territorial claims by letting out cries that sound like shouting.
+|jdex=夜になると 池の 畔に 現れる。 怒鳴るような 声で 鳴いて 縄張りを アピールするぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Legends Awakened|Politoed|12}} from the {{TCG|Legends Awakened}} expansion.
+*{{m|Hyper Voice}} is a [[move]] in the [[Pokémon games]] that {{p|Politoed}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Quaxo (Weisheit von Meer und Himmel 040)]]
+[[es:Politoed (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Tarpaud (Sagesse entre Ciel et Mer 040)]]
+[[it:Politoed (La Via del Cielo e del Mare 40)]]
+[[ja:ニョロトノ (ポケポケ A4)]]
+[[zh:蚊香蛙皇（A4）]]

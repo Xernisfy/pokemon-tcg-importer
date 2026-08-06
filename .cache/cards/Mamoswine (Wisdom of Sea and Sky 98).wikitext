@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mamoswine
+|ja name=マンムー
+|trans name=Mammoo
+|species=Mamoswine
+|type=Fighting
+|image=MamoswineWisdomofSeaandSky98.png
+|illustrator=Uta
+|hp=160
+|weakness=Grass
+|retreat cost=4
+|evo stage=Stage 2
+|prevo name=Piloswine
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=098/161|pack=Ho-Oh|rarity=Diamond|rarity count=3}}
+}}
+
+'''Mamoswine''' (Japanese: '''マンムー''' ''Mammoo'') is a {{ct|Fighting}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Earthquake
+|jname=じしん
+|jtrans=Earthquake
+|damage=160
+|effect=This attack also does 20 damage to each of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Mamoswine
+|category=Twin Tusk 
+|ndex=0473
+|height=8'2"
+|jheight=2.5
+|weight=641.5
+|jweight=291.0
+|dex=This Pokémon can be spotted in wall paintings from as far back as 10,000 years ago. For a while, it was thought to have gone extinct.
+|jdex=１万年前の 壁画にも 描かれている。 絶滅したと 考えられていた 時期もある。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Astral Radiance|Mamoswine|33}} from the {{TCG|Astral Radiance}} expansion.
+*{{m|Earthquake}} is a [[move]] in the [[Pokémon games]] that {{p|Mamoswine}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mamutel (Weisheit von Meer und Himmel 098)]]
+[[es:Mamoswine (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Mammochon (Sagesse entre Ciel et Mer 098)]]
+[[it:Mamoswine (La Via del Cielo e del Mare 98)]]
+[[ja:マンムー (ポケポケ A4)]]
+[[zh:象牙猪（A4）]]

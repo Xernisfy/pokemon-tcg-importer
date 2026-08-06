@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pawmot
+|ja name=パーモット
+|trans name=Parmot
+|species=Pawmot
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PawmotShiningRevelry28.png|illustrator=Saboteri|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PawmotPromo-A54.png|illustrator=REND|tab caption=Promo}} 
+|hp=140
+|weakness=Fighting
+|retreat cost=0
+|evo stage=Stage 2
+|prevo name=Pawmo
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=028/072|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=054/P-A|pack=Vol. 6}}
+}}
+'''Pawmot''' (Japanese: '''パーモット''' ''Parmot'') is a {{ct|Lightning}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Ability/Pocket
+|type=Lightning
+|name=Counterattack
+|jname=はんげき
+|jtrans=Counterattack
+|effect=If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Electric Punch
+|jname=ビリリパンチ
+|jtrans=Shock Punch
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Pawmot
+|category=Hands-On 
+|ndex=0923
+|height=2'11"
+|jheight=0.9
+|weight=90.4
+|jweight=41.0
+|dex=This Pokémon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.
+|jdex=普段は おっとりしているが いざ 戦いになると 電光石火の 身のこなしで 敵を 叩きのめす。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of five cards that could be pulled from Promo-A Vol. 6 packs; these were made available as part of the [[Pawmot Drop Event]], which ran from April 7 to 17, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=PawmotShiningRevelry28.png
+|caption1=Rare card<br>Illus. [[Saboteri]]
+|image2=PawmotPromo-A54.png
+|caption2=Promo card<br>Illus. [[REND]]
+}}
+
+==Trivia==
+===Origin===
+*{{DL|Skill (Shuffle)|Counterattack}} is a {{OBP|skill|Shuffle}} in [[Pokémon Shuffle]]. As an {{TCG|Ability}} in the TCG, it first appeared as a {{TCG|Pokémon Power}} named '''Strikes Back''' on {{TCG ID|Base Set|Machamp|8}} from the {{TCG|Base Set}}.
+*'''Electric Punch''' is an attack that first appeared on {{TCG ID|Neo Revelation|Flaaffy|28}} from the {{TCG|Neo Revelation}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pamomamo (Glänzendes Festival 028)]]
+[[es:Pawmot (Festival Brillante TCG Pocket)]]
+[[fr:Pohmarmotte (Réjouissances Rayonnantes 028)]]
+[[it:Pawmot (Tripudio Splendente 28)]]
+[[ja:パーモット (ポケポケ A2b)]]
+[[zh:巴布土撥（A2b）]]

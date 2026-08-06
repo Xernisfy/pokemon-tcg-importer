@@ -1,0 +1,921 @@
+{{TCGPocketExpansionPrevNext | next = Mythical Island}}
+{{TCGPocketExpansionInfobox
+|setname=Genetic Apex
+|jasetname=最強の遺伝子
+|jasettrans=Strongest Gene
+|setlogo=A1 Set Logo EN.png
+|release=September 26, 2024 <small>(New Zealand)</small><br>October 30, 2024 <small>(worldwide)</small>
+|cards=286 (226 + 60 secret cards)
+|collections=26 (19 + 7 secret)
+|dex missions=14 (13 + 1 secret)
+|deck missions=24
+|decks=13
+|battles=27
+}}
+'''Genetic Apex''' (Japanese: '''最強の遺伝子''' ''Strongest Gene'') is the first main expansion of cards in [[Pokémon Trading Card Game Pocket]].
+
+==Information==
+:''See also: [[Pokémon Trading Card Game Pocket#Gameplay|Pokémon Trading Card Game Pocket → Gameplay]]''
+'''Genetic Apex''' is the first main expansion released through [[Pokémon Trading Card Game Pocket]]. It focuses heavily on [[Generation I]], featuring all 151 Pokémon introduced in {{game|Red and Blue|s}} as well as the eight [[Gym Leader]]s of the [[Kanto]] region. Many of the expansions's new illustrations feature locations or characters from Kanto, and the majority of them appear as depicted in {{game|FireRed and LeafGreen|s}} specifically, including the designs of the Gym Leaders.
+
+The expansion's three booster packs focus on three of the most popular Generation I Pokémon: {{p|Pikachu}}, the mascot of the Pokémon series and [[game mascot]] of {{game|Yellow}} and [[Pokémon: Let's Go, Pikachu!]]; {{p|Charizard}}, the final form of {{p|Charmander}} and game mascot of {{game|Red}} and {{game|FireRed}}; and {{p|Mewtwo}}, a [[Legendary Pokémon]] found in [[Cerulean Cave]] after becoming the [[Champion]] in Pokémon Red and Blue.
+
+Several of the [[#Themed Collections|Themed Collections]] made available alongside Genetic Apex have a connection to Generation I and the Kanto region:
+* '''First Choice''' features the [[first partner Pokémon]] of Kanto;
+* '''Viridian Forest''' features Pokémon found in [[Viridian Forest]];
+* '''Different Journeys, Different Growth''' features the first partner Pokémon and their [[Evolution]]s;
+* '''Pokémon of Ancient Times''' features Generation I Pokémon that can be revived from [[fossil]]s;
+* '''The Legendary Flight''' features the three [[legendary birds]] found in Kanto;
+* '''Safari Zone''' features Pokémon that can be found in Kanto's [[Kanto Safari Zone|Safari Zone]];
+* '''Touring the Kanto Region''' features Pokémon with unique artwork depicting them in various locations across Kanto;
+* '''A Big Snorlax Nuisance''' depicts the sleeping Snorlax blocking {{rt|12|Kanto}} in Generations {{gen|I}} and {{gen|III}};
+* '''The Gym Leaders of the Kanto Region''' depicts the eight Gym Leaders featured in the Generation I games and their remakes.
+
+Additionally, the secret mission '''Complete the Kanto Pokédex!''' tasks players with collecting the first 150 Pokémon in card form, rewarding those who do with the {{TCGP|immersive card|immersive}} {{TCG ID|Genetic Apex|Mew|283}} card.
+
+Genetic Apex was released as part of the app's open beta in New Zealand on September 26, 2024, and became available worldwide with its global release on October 30, 2024.
+
+==Card list==
+{{TCG Set List/header|tablecol=428|bordercol=D6B|cellcol=EDF}}
+{{TCG Set List/header/packs|Charizard|Mewtwo|Pikachu|cellcol=EDF}}
+|-
+| 001/226 || {{TCG ID|Genetic Apex|Bulbasaur|1}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 002/226 || {{TCG ID|Genetic Apex|Ivysaur|2}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|2}} ||  || {{yes}} || 
+|-
+| 003/226 || {{TCG ID|Genetic Apex|Venusaur|3}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|3}} ||  || {{yes}} || 
+|-
+| 004/226 || {{TCG ID|Genetic Apex|Venusaur ex|4|Venusaur}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|4}} ||  || {{yes}} || 
+|-
+| 005/226 || {{TCG ID|Genetic Apex|Caterpie|5}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 006/226 || {{TCG ID|Genetic Apex|Metapod|6}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 007/226 || {{TCG ID|Genetic Apex|Butterfree|7}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|3}} ||  ||  || {{yes}}
+|-
+| 008/226 || {{TCG ID|Genetic Apex|Weedle|8}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 009/226 || {{TCG ID|Genetic Apex|Kakuna|9}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 010/226 || {{TCG ID|Genetic Apex|Beedrill|10}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|3}} ||  || {{yes}} || 
+|-
+| 011/226 || {{TCG ID|Genetic Apex|Oddish|11}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 012/226 || {{TCG ID|Genetic Apex|Gloom|12}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|2}} || {{yes}} ||  || 
+|-
+| 013/226 || {{TCG ID|Genetic Apex|Vileplume|13}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|3}} || {{yes}} ||  || 
+|-
+| 014/226 || {{TCG ID|Genetic Apex|Paras|14}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 015/226 || {{TCG ID|Genetic Apex|Parasect|15}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|2}} ||  ||  || {{yes}}
+|-
+| 016/226 || {{TCG ID|Genetic Apex|Venonat|16}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 017/226 || {{TCG ID|Genetic Apex|Venomoth|17}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|2}} ||  || {{yes}} || 
+|-
+| 018/226 || {{TCG ID|Genetic Apex|Bellsprout|18}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 019/226 || {{TCG ID|Genetic Apex|Weepinbell|19}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|2}} || {{yes}} ||  || 
+|-
+| 020/226 || {{TCG ID|Genetic Apex|Victreebel|20}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|3}} || {{yes}} ||  || 
+|-
+| 021/226 || {{TCG ID|Genetic Apex|Exeggcute|21}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 022/226 || {{TCG ID|Genetic Apex|Exeggutor|22}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|3}} || {{yes}} ||  || 
+|-
+| 023/226 || {{TCG ID|Genetic Apex|Exeggutor ex|23|Exeggutor}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|4}} || {{yes}} ||  || 
+|-
+| 024/226 || {{TCG ID|Genetic Apex|Tangela|24}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 025/226 || {{TCG ID|Genetic Apex|Scyther|25}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 026/226 || {{TCG ID|Genetic Apex|Pinsir|26}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|2}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 027/226 || {{TCG ID|Genetic Apex|Cottonee|27}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 028/226 || {{TCG ID|Genetic Apex|Whimsicott|28}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|2}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 029/226 || {{TCG ID|Genetic Apex|Petilil|29}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 030/226 || {{TCG ID|Genetic Apex|Lilligant|30}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|2}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 031/226 || {{TCG ID|Genetic Apex|Skiddo|31}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 032/226 || {{TCG ID|Genetic Apex|Gogoat|32}} || {{TCG Icon|Grass}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 033/226 || {{TCG ID|Genetic Apex|Charmander|33}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 034/226 || {{TCG ID|Genetic Apex|Charmeleon|34}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|2}} || {{yes}} ||  || 
+|-
+| 035/226 || {{TCG ID|Genetic Apex|Charizard|35}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|3}} || {{yes}} ||  || 
+|-
+| 036/226 || {{TCG ID|Genetic Apex|Charizard ex|36|Charizard}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|4}} || {{yes}} ||  || 
+|-
+| 037/226 || {{TCG ID|Genetic Apex|Vulpix|37}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 038/226 || {{TCG ID|Genetic Apex|Ninetales|38}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|2}} || {{yes}} ||  || 
+|-
+| 039/226 || {{TCG ID|Genetic Apex|Growlithe|39}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 040/226 || {{TCG ID|Genetic Apex|Arcanine|40}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|3}} ||  ||  || {{yes}}
+|-
+| 041/226 || {{TCG ID|Genetic Apex|Arcanine ex|41|Arcanine}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|4}} ||  ||  || {{yes}}
+|-
+| 042/226 || {{TCG ID|Genetic Apex|Ponyta|42}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 043/226 || {{TCG ID|Genetic Apex|Rapidash|43}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|2}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 044/226 || {{TCG ID|Genetic Apex|Magmar|44}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 045/226 || {{TCG ID|Genetic Apex|Flareon|45}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|3}} || {{yes}} ||  || 
+|-
+| 046/226 || {{TCG ID|Genetic Apex|Moltres|46}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|3}} || {{yes}} ||  || 
+|-
+| 047/226 || {{TCG ID|Genetic Apex|Moltres ex|47|Moltres}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|4}} || {{yes}} ||  || 
+|-
+| 048/226 || {{TCG ID|Genetic Apex|Heatmor|48}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 049/226 || {{TCG ID|Genetic Apex|Salandit|49}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 050/226 || {{TCG ID|Genetic Apex|Salazzle|50}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 051/226 || {{TCG ID|Genetic Apex|Sizzlipede|51}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 052/226 || {{TCG ID|Genetic Apex|Centiskorch|52}} || {{TCG Icon|Fire}} || {{rar/TCGP|Diamond|2}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 053/226 || {{TCG ID|Genetic Apex|Squirtle|53}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 054/226 || {{TCG ID|Genetic Apex|Wartortle|54}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|2}} ||  ||  || {{yes}}
+|-
+| 055/226 || {{TCG ID|Genetic Apex|Blastoise|55}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|3}} ||  ||  || {{yes}}
+|-
+| 056/226 || {{TCG ID|Genetic Apex|Blastoise ex|56|Blastoise}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|4}} ||  ||  || {{yes}}
+|-
+| 057/226 || {{TCG ID|Genetic Apex|Psyduck|57}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 058/226 || {{TCG ID|Genetic Apex|Golduck|58}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|2}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 059/226 || {{TCG ID|Genetic Apex|Poliwag|59}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 060/226 || {{TCG ID|Genetic Apex|Poliwhirl|60}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|2}} || {{yes}} ||  || 
+|-
+| 061/226 || {{TCG ID|Genetic Apex|Poliwrath|61}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|3}} || {{yes}} ||  || 
+|-
+| 062/226 || {{TCG ID|Genetic Apex|Tentacool|62}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 063/226 || {{TCG ID|Genetic Apex|Tentacruel|63}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|2}} ||  || {{yes}} || 
+|-
+| 064/226 || {{TCG ID|Genetic Apex|Seel|64}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 065/226 || {{TCG ID|Genetic Apex|Dewgong|65}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|2}} ||  ||  || {{yes}}
+|-
+| 066/226 || {{TCG ID|Genetic Apex|Shellder|66}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 067/226 || {{TCG ID|Genetic Apex|Cloyster|67}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|2}} ||  || {{yes}} || 
+|-
+| 068/226 || {{TCG ID|Genetic Apex|Krabby|68}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 069/226 || {{TCG ID|Genetic Apex|Kingler|69}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|2}} ||  || {{yes}} || 
+|-
+| 070/226 || {{TCG ID|Genetic Apex|Horsea|70}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 071/226 || {{TCG ID|Genetic Apex|Seadra|71}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|2}} ||  ||  || {{yes}}
+|-
+| 072/226 || {{TCG ID|Genetic Apex|Goldeen|72}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 073/226 || {{TCG ID|Genetic Apex|Seaking|73}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 074/226 || {{TCG ID|Genetic Apex|Staryu|74}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 075/226 || {{TCG ID|Genetic Apex|Starmie|75}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|2}} || {{yes}} ||  || 
+|-
+| 076/226 || {{TCG ID|Genetic Apex|Starmie ex|76|Starmie}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|4}} || {{yes}} ||  || 
+|-
+| 077/226 || {{TCG ID|Genetic Apex|Magikarp|77}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 078/226 || {{TCG ID|Genetic Apex|Gyarados|78}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|3}} ||  ||  || {{yes}}
+|-
+| 079/226 || {{TCG ID|Genetic Apex|Lapras|79}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|3}} || {{yes}} ||  || 
+|-
+| 080/226 || {{TCG ID|Genetic Apex|Vaporeon|80}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|3}} ||  || {{yes}} || 
+|-
+| 081/226 || {{TCG ID|Genetic Apex|Omanyte|81}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|2}} ||  ||  || {{yes}}
+|-
+| 082/226 || {{TCG ID|Genetic Apex|Omastar|82}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|3}} ||  ||  || {{yes}}
+|-
+| 083/226 || {{TCG ID|Genetic Apex|Articuno|83}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|3}} ||  || {{yes}} || 
+|-
+| 084/226 || {{TCG ID|Genetic Apex|Articuno ex|84|Articuno}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|4}} ||  || {{yes}} || 
+|-
+| 085/226 || {{TCG ID|Genetic Apex|Ducklett|85}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 086/226 || {{TCG ID|Genetic Apex|Swanna|86}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|2}} || {{yes}} ||  || 
+|-
+| 087/226 || {{TCG ID|Genetic Apex|Froakie|87}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 088/226 || {{TCG ID|Genetic Apex|Frogadier|88}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|2}} || {{yes}} ||  || 
+|-
+| 089/226 || {{TCG ID|Genetic Apex|Greninja|89}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|3}} || {{yes}} ||  || 
+|-
+| 090/226 || {{TCG ID|Genetic Apex|Pyukumuku|90}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 091/226 || {{TCG ID|Genetic Apex|Bruxish|91}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|2}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 092/226 || {{TCG ID|Genetic Apex|Snom|92}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 093/226 || {{TCG ID|Genetic Apex|Frosmoth|93}} || {{TCG Icon|Water}} || {{rar/TCGP|Diamond|2}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 094/226 || {{TCG ID|Genetic Apex|Pikachu|94}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 095/226 || {{TCG ID|Genetic Apex|Raichu|95}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Diamond|3}} ||  ||  || {{yes}}
+|-
+| 096/226 || {{TCG ID|Genetic Apex|Pikachu ex|96|Pikachu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Diamond|4}} ||  ||  || {{yes}}
+|-
+| 097/226 || {{TCG ID|Genetic Apex|Magnemite|97}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 098/226 || {{TCG ID|Genetic Apex|Magneton|98}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Diamond|3}} ||  ||  || {{yes}}
+|-
+| 099/226 || {{TCG ID|Genetic Apex|Voltorb|99}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 100/226 || {{TCG ID|Genetic Apex|Electrode|100}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Diamond|2}} ||  ||  || {{yes}}
+|-
+| 101/226 || {{TCG ID|Genetic Apex|Electabuzz|101}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 102/226 || {{TCG ID|Genetic Apex|Jolteon|102}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Diamond|3}} ||  ||  || {{yes}}
+|-
+| 103/226 || {{TCG ID|Genetic Apex|Zapdos|103}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Diamond|3}} ||  ||  || {{yes}}
+|-
+| 104/226 || {{TCG ID|Genetic Apex|Zapdos ex|104|Zapdos}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Diamond|4}} ||  ||  || {{yes}}
+|-
+| 105/226 || {{TCG ID|Genetic Apex|Blitzle|105}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 106/226 || {{TCG ID|Genetic Apex|Zebstrika|106}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Diamond|2}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 107/226 || {{TCG ID|Genetic Apex|Tynamo|107}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 108/226 || {{TCG ID|Genetic Apex|Eelektrik|108}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Diamond|2}} ||  || {{yes}} || 
+|-
+| 109/226 || {{TCG ID|Genetic Apex|Eelektross|109}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Diamond|3}} ||  || {{yes}} || 
+|-
+| 110/226 || {{TCG ID|Genetic Apex|Helioptile|110}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 111/226 || {{TCG ID|Genetic Apex|Heliolisk|111}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 112/226 || {{TCG ID|Genetic Apex|Pincurchin|112}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Diamond|2}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 113/226 || {{TCG ID|Genetic Apex|Clefairy|113}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 114/226 || {{TCG ID|Genetic Apex|Clefable|114}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|2}} ||  ||  || {{yes}}
+|-
+| 115/226 || {{TCG ID|Genetic Apex|Abra|115}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 116/226 || {{TCG ID|Genetic Apex|Kadabra|116}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|2}} || {{yes}} ||  || 
+|-
+| 117/226 || {{TCG ID|Genetic Apex|Alakazam|117}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|3}} || {{yes}} ||  || 
+|-
+| 118/226 || {{TCG ID|Genetic Apex|Slowpoke|118}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 119/226 || {{TCG ID|Genetic Apex|Slowbro|119}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|2}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 120/226 || {{TCG ID|Genetic Apex|Gastly|120}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 121/226 || {{TCG ID|Genetic Apex|Haunter|121}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|2}} ||  || {{yes}} || 
+|-
+| 122/226 || {{TCG ID|Genetic Apex|Gengar|122}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|3}} ||  || {{yes}} || 
+|-
+| 123/226 || {{TCG ID|Genetic Apex|Gengar ex|123|Gengar}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|4}} ||  || {{yes}} || 
+|-
+| 124/226 || {{TCG ID|Genetic Apex|Drowzee|124}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 125/226 || {{TCG ID|Genetic Apex|Hypno|125}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|3}} ||  ||  || {{yes}}
+|-
+| 126/226 || {{TCG ID|Genetic Apex|Mr. Mime|126}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|2}} ||  || {{yes}} || 
+|-
+| 127/226 || {{TCG ID|Genetic Apex|Jynx|127}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 128/226 || {{TCG ID|Genetic Apex|Mewtwo|128}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|3}} ||  || {{yes}} || 
+|-
+| 129/226 || {{TCG ID|Genetic Apex|Mewtwo ex|129|Mewtwo}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|4}} ||  || {{yes}} || 
+|-
+| 130/226 || {{TCG ID|Genetic Apex|Ralts|130}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 131/226 || {{TCG ID|Genetic Apex|Kirlia|131}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|2}} ||  || {{yes}} || 
+|-
+| 132/226 || {{TCG ID|Genetic Apex|Gardevoir|132}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|3}} ||  || {{yes}} || 
+|-
+| 133/226 || {{TCG ID|Genetic Apex|Woobat|133}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 134/226 || {{TCG ID|Genetic Apex|Swoobat|134}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 135/226 || {{TCG ID|Genetic Apex|Golett|135}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 136/226 || {{TCG ID|Genetic Apex|Golurk|136}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Diamond|2}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 137/226 || {{TCG ID|Genetic Apex|Sandshrew|137}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 138/226 || {{TCG ID|Genetic Apex|Sandslash|138}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|2}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 139/226 || {{TCG ID|Genetic Apex|Diglett|139}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 140/226 || {{TCG ID|Genetic Apex|Dugtrio|140}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|2}} ||  ||  || {{yes}}
+|-
+| 141/226 || {{TCG ID|Genetic Apex|Mankey|141}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 142/226 || {{TCG ID|Genetic Apex|Primeape|142}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|2}} || {{yes}} ||  || 
+|-
+| 143/226 || {{TCG ID|Genetic Apex|Machop|143}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 144/226 || {{TCG ID|Genetic Apex|Machoke|144}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|2}} || {{yes}} ||  || 
+|-
+| 145/226 || {{TCG ID|Genetic Apex|Machamp|145}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|3}} || {{yes}} ||  || 
+|-
+| 146/226 || {{TCG ID|Genetic Apex|Machamp ex|146|Machamp}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|4}} || {{yes}} ||  || 
+|-
+| 147/226 || {{TCG ID|Genetic Apex|Geodude|147}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 148/226 || {{TCG ID|Genetic Apex|Graveler|148}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|2}} ||  ||  || {{yes}}
+|-
+| 149/226 || {{TCG ID|Genetic Apex|Golem|149}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|3}} ||  ||  || {{yes}}
+|-
+| 150/226 || {{TCG ID|Genetic Apex|Onix|150}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|2}} ||  ||  || {{yes}}
+|-
+| 151/226 || {{TCG ID|Genetic Apex|Cubone|151}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 152/226 || {{TCG ID|Genetic Apex|Marowak|152}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|2}} ||  || {{yes}} || 
+|-
+| 153/226 || {{TCG ID|Genetic Apex|Marowak ex|153|Marowak}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|4}} ||  || {{yes}} || 
+|-
+| 154/226 || {{TCG ID|Genetic Apex|Hitmonlee|154}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 155/226 || {{TCG ID|Genetic Apex|Hitmonchan|155}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 156/226 || {{TCG ID|Genetic Apex|Rhyhorn|156}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 157/226 || {{TCG ID|Genetic Apex|Rhydon|157}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|2}} ||  || {{yes}} || 
+|-
+| 158/226 || {{TCG ID|Genetic Apex|Kabuto|158}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|2}} || {{yes}} ||  || 
+|-
+| 159/226 || {{TCG ID|Genetic Apex|Kabutops|159}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|3}} || {{yes}} ||  || 
+|-
+| 160/226 || {{TCG ID|Genetic Apex|Mienfoo|160}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 161/226 || {{TCG ID|Genetic Apex|Mienshao|161}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|2}} ||  ||  || {{yes}}
+|-
+| 162/226 || {{TCG ID|Genetic Apex|Clobbopus|162}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 163/226 || {{TCG ID|Genetic Apex|Grapploct|163}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Diamond|2}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 164/226 || {{TCG ID|Genetic Apex|Ekans|164}} || {{TCG Icon|Darkness}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 165/226 || {{TCG ID|Genetic Apex|Arbok|165}} || {{TCG Icon|Darkness}} || {{rar/TCGP|Diamond|2}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 166/226 || {{TCG ID|Genetic Apex|Nidoran♀|166}} || {{TCG Icon|Darkness}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 167/226 || {{TCG ID|Genetic Apex|Nidorina|167}} || {{TCG Icon|Darkness}} || {{rar/TCGP|Diamond|2}} ||  ||  || {{yes}}
+|-
+| 168/226 || {{TCG ID|Genetic Apex|Nidoqueen|168}} || {{TCG Icon|Darkness}} || {{rar/TCGP|Diamond|3}} ||  ||  || {{yes}}
+|-
+| 169/226 || {{TCG ID|Genetic Apex|Nidoran♂|169}} || {{TCG Icon|Darkness}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 170/226 || {{TCG ID|Genetic Apex|Nidorino|170}} || {{TCG Icon|Darkness}} || {{rar/TCGP|Diamond|2}} ||  ||  || {{yes}}
+|-
+| 171/226 || {{TCG ID|Genetic Apex|Nidoking|171}} || {{TCG Icon|Darkness}} || {{rar/TCGP|Diamond|3}} ||  ||  || {{yes}}
+|-
+| 172/226 || {{TCG ID|Genetic Apex|Zubat|172}} || {{TCG Icon|Darkness}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 173/226 || {{TCG ID|Genetic Apex|Golbat|173}} || {{TCG Icon|Darkness}} || {{rar/TCGP|Diamond|2}} ||  || {{yes}} || 
+|-
+| 174/226 || {{TCG ID|Genetic Apex|Grimer|174}} || {{TCG Icon|Darkness}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 175/226 || {{TCG ID|Genetic Apex|Muk|175}} || {{TCG Icon|Darkness}} || {{rar/TCGP|Diamond|3}} ||  || {{yes}} || 
+|-
+| 176/226 || {{TCG ID|Genetic Apex|Koffing|176}} || {{TCG Icon|Darkness}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 177/226 || {{TCG ID|Genetic Apex|Weezing|177}} || {{TCG Icon|Darkness}} || {{rar/TCGP|Diamond|3}} ||  || {{yes}} || 
+|-
+| 178/226 || {{TCG ID|Genetic Apex|Mawile|178}} || {{TCG Icon|Metal}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 179/226 || {{TCG ID|Genetic Apex|Pawniard|179}} || {{TCG Icon|Metal}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 180/226 || {{TCG ID|Genetic Apex|Bisharp|180}} || {{TCG Icon|Metal}} || {{rar/TCGP|Diamond|2}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 181/226 || {{TCG ID|Genetic Apex|Meltan|181}} || {{TCG Icon|Metal}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 182/226 || {{TCG ID|Genetic Apex|Melmetal|182}} || {{TCG Icon|Metal}} || {{rar/TCGP|Diamond|3}} || {{yes}} ||  || 
+|-
+| 183/226 || {{TCG ID|Genetic Apex|Dratini|183}} || {{TCG Icon|Dragon}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 184/226 || {{TCG ID|Genetic Apex|Dragonair|184}} || {{TCG Icon|Dragon}} || {{rar/TCGP|Diamond|2}} ||  || {{yes}} || 
+|-
+| 185/226 || {{TCG ID|Genetic Apex|Dragonite|185}} || {{TCG Icon|Dragon}} || {{rar/TCGP|Diamond|3}} ||  || {{yes}} || 
+|-
+| 186/226 || {{TCG ID|Genetic Apex|Pidgey|186}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 187/226 || {{TCG ID|Genetic Apex|Pidgeotto|187}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 188/226 || {{TCG ID|Genetic Apex|Pidgeot|188}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|3}} ||  || {{yes}} || 
+|-
+| 189/226 || {{TCG ID|Genetic Apex|Rattata|189}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 190/226 || {{TCG ID|Genetic Apex|Raticate|190}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 191/226 || {{TCG ID|Genetic Apex|Spearow|191}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 192/226 || {{TCG ID|Genetic Apex|Fearow|192}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 193/226 || {{TCG ID|Genetic Apex|Jigglypuff|193}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 194/226 || {{TCG ID|Genetic Apex|Wigglytuff|194}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 195/226 || {{TCG ID|Genetic Apex|Wigglytuff ex|195|Wigglytuff}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|4}} ||  ||  || {{yes}}
+|-
+| 196/226 || {{TCG ID|Genetic Apex|Meowth|196}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 197/226 || {{TCG ID|Genetic Apex|Persian|197}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|2}} || {{yes}} ||  || 
+|-
+| 198/226 || {{TCG ID|Genetic Apex|Farfetch'd|198}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 199/226 || {{TCG ID|Genetic Apex|Doduo|199}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 200/226 || {{TCG ID|Genetic Apex|Dodrio|200}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|2}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 201/226 || {{TCG ID|Genetic Apex|Lickitung|201}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|2}} ||  || {{yes}} || 
+|-
+| 202/226 || {{TCG ID|Genetic Apex|Chansey|202}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|2}} ||  ||  || {{yes}}
+|-
+| 203/226 || {{TCG ID|Genetic Apex|Kangaskhan|203}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|3}} || {{yes}} ||  || 
+|-
+| 204/226 || {{TCG ID|Genetic Apex|Tauros|204}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|2}} || {{yes}} ||  || 
+|-
+| 205/226 || {{TCG ID|Genetic Apex|Ditto|205}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|3}} ||  || {{yes}} || 
+|-
+| 206/226 || {{TCG ID|Genetic Apex|Eevee|206}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 207/226 || {{TCG ID|Genetic Apex|Eevee|207}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 208/226 || {{TCG ID|Genetic Apex|Eevee|208}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 209/226 || {{TCG ID|Genetic Apex|Porygon|209}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|2}} ||  || {{yes}} || 
+|-
+| 210/226 || {{TCG ID|Genetic Apex|Aerodactyl|210}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|3}} ||  || {{yes}} || 
+|-
+| 211/226 || {{TCG ID|Genetic Apex|Snorlax|211}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|3}} ||  ||  || {{yes}}
+|-
+| 212/226 || {{TCG ID|Genetic Apex|Minccino|212}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 213/226 || {{TCG ID|Genetic Apex|Cinccino|213}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|2}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 214/226 || {{TCG ID|Genetic Apex|Wooloo|214}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 215/226 || {{TCG ID|Genetic Apex|Dubwool|215}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Diamond|1}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 216/226 || {{TCG ID|Genetic Apex|Helix Fossil|216}} || {{TCG Icon|Item}} || {{rar/TCGP|Diamond|1}} ||  ||  || {{yes}}
+|-
+| 217/226 || {{TCG ID|Genetic Apex|Dome Fossil|217}} || {{TCG Icon|Item}} || {{rar/TCGP|Diamond|1}} || {{yes}} ||  || 
+|-
+| 218/226 || {{TCG ID|Genetic Apex|Old Amber|218}} || {{TCG Icon|Item}} || {{rar/TCGP|Diamond|1}} ||  || {{yes}} || 
+|-
+| 219/226 || {{TCG ID|Genetic Apex|Erika|219}} || {{TCG Icon|Supporter}} || {{rar/TCGP|Diamond|2}} || {{yes}} ||  || 
+|-
+| 220/226 || {{TCG ID|Genetic Apex|Misty|220}} || {{TCG Icon|Supporter}} || {{rar/TCGP|Diamond|2}} ||  ||  || {{yes}}
+|-
+| 221/226 || {{TCG ID|Genetic Apex|Blaine|221}} || {{TCG Icon|Supporter}} || {{rar/TCGP|Diamond|2}} || {{yes}} ||  || 
+|-
+| 222/226 || {{TCG ID|Genetic Apex|Koga|222}} || {{TCG Icon|Supporter}} || {{rar/TCGP|Diamond|2}} ||  || {{yes}} || 
+|-
+| 223/226 || {{TCG ID|Genetic Apex|Giovanni|223}} || {{TCG Icon|Supporter}} || {{rar/TCGP|Diamond|2}} ||  || {{yes}} || 
+|-
+| 224/226 || {{TCG ID|Genetic Apex|Brock|224}} || {{TCG Icon|Supporter}} || {{rar/TCGP|Diamond|2}} ||  ||  || {{yes}}
+|-
+| 225/226 || {{TCG ID|Genetic Apex|Sabrina|225}} || {{TCG Icon|Supporter}} || {{rar/TCGP|Diamond|2}} || {{yes}} ||  || 
+|-
+| 226/226 || {{TCG ID|Genetic Apex|Lt. Surge|226}} || {{TCG Icon|Supporter}} || {{rar/TCGP|Diamond|2}} ||  ||  || {{yes}}
+|-
+| 227/226 || {{TCG ID|Genetic Apex|Bulbasaur|227}} || {{TCG Icon|Grass}} || {{rar/TCGP|Star|1}} ||  || {{yes}} || 
+|-
+| 228/226 || {{TCG ID|Genetic Apex|Gloom|228}} || {{TCG Icon|Grass}} || {{rar/TCGP|Star|1}} || {{yes}} ||  || 
+|-
+| 229/226 || {{TCG ID|Genetic Apex|Pinsir|229}} || {{TCG Icon|Grass}} || {{rar/TCGP|Star|1}} || {{yes}} ||  || 
+|-
+| 230/226 || {{TCG ID|Genetic Apex|Charmander|230}} || {{TCG Icon|Fire}} || {{rar/TCGP|Star|1}} || {{yes}} ||  || 
+|-
+| 231/226 || {{TCG ID|Genetic Apex|Rapidash|231}} || {{TCG Icon|Fire}} || {{rar/TCGP|Star|1}} || {{yes}} ||  || 
+|-
+| 232/226 || {{TCG ID|Genetic Apex|Squirtle|232}} || {{TCG Icon|Water}} || {{rar/TCGP|Star|1}} ||  ||  || {{yes}}
+|-
+| 233/226 || {{TCG ID|Genetic Apex|Gyarados|233}} || {{TCG Icon|Water}} || {{rar/TCGP|Star|1}} ||  ||  || {{yes}}
+|-
+| 234/226 || {{TCG ID|Genetic Apex|Lapras|234}} || {{TCG Icon|Water}} || {{rar/TCGP|Star|1}} || {{yes}} ||  || 
+|-
+| 235/226 || {{TCG ID|Genetic Apex|Electrode|235}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Star|1}} ||  ||  || {{yes}}
+|-
+| 236/226 || {{TCG ID|Genetic Apex|Alakazam|236}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Star|1}} || {{yes}} ||  || 
+|-
+| 237/226 || {{TCG ID|Genetic Apex|Slowpoke|237}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Star|1}} || {{yes}} ||  || 
+|-
+| 238/226 || {{TCG ID|Genetic Apex|Diglett|238}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Star|1}} ||  ||  || {{yes}}
+|-
+| 239/226 || {{TCG ID|Genetic Apex|Cubone|239}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Star|1}} ||  || {{yes}} || 
+|-
+| 240/226 || {{TCG ID|Genetic Apex|Nidoqueen|240}} || {{TCG Icon|Darkness}} || {{rar/TCGP|Star|1}} ||  ||  || {{yes}}
+|-
+| 241/226 || {{TCG ID|Genetic Apex|Nidoking|241}} || {{TCG Icon|Darkness}} || {{rar/TCGP|Star|1}} ||  ||  || {{yes}}
+|-
+| 242/226 || {{TCG ID|Genetic Apex|Golbat|242}} || {{TCG Icon|Darkness}} || {{rar/TCGP|Star|1}} ||  || {{yes}} || 
+|-
+| 243/226 || {{TCG ID|Genetic Apex|Weezing|243}} || {{TCG Icon|Darkness}} || {{rar/TCGP|Star|1}} ||  || {{yes}} || 
+|-
+| 244/226 || {{TCG ID|Genetic Apex|Dragonite|244}} || {{TCG Icon|Dragon}} || {{rar/TCGP|Star|1}} ||  || {{yes}} || 
+|-
+| 245/226 || {{TCG ID|Genetic Apex|Pidgeot|245}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Star|1}} ||  || {{yes}} || 
+|-
+| 246/226 || {{TCG ID|Genetic Apex|Meowth|246}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Star|1}} || {{yes}} ||  || 
+|-
+| 247/226 || {{TCG ID|Genetic Apex|Ditto|247}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Star|1}} ||  || {{yes}} || 
+|-
+| 248/226 || {{TCG ID|Genetic Apex|Eevee|248}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Star|1}} ||  ||  || {{yes}}
+|-
+| 249/226 || {{TCG ID|Genetic Apex|Porygon|249}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Star|1}} ||  || {{yes}} || 
+|-
+| 250/226 || {{TCG ID|Genetic Apex|Snorlax|250}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Star|1}} ||  ||  || {{yes}}
+|-
+| 251/226 || {{TCG ID|Genetic Apex|Venusaur ex|251|Venusaur}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{rar/TCGP|Star|2}} ||  || {{yes}} || 
+|-
+| 252/226 || {{TCG ID|Genetic Apex|Exeggutor ex|252|Exeggutor}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{rar/TCGP|Star|2}} || {{yes}} ||  || 
+|-
+| 253/226 || {{TCG ID|Genetic Apex|Charizard ex|253|Charizard}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{rar/TCGP|Star|2}} || {{yes}} ||  || 
+|-
+| 254/226 || {{TCG ID|Genetic Apex|Arcanine ex|254|Arcanine}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{rar/TCGP|Star|2}} ||  ||  || {{yes}}
+|-
+| 255/226 || {{TCG ID|Genetic Apex|Moltres ex|255|Moltres}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{rar/TCGP|Star|2}} || {{yes}} ||  || 
+|-
+| 256/226 || {{TCG ID|Genetic Apex|Blastoise ex|256|Blastoise}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{rar/TCGP|Star|2}} ||  ||  || {{yes}}
+|-
+| 257/226 || {{TCG ID|Genetic Apex|Starmie ex|257|Starmie}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{rar/TCGP|Star|2}} || {{yes}} ||  || 
+|-
+| 258/226 || {{TCG ID|Genetic Apex|Articuno ex|258|Articuno}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{rar/TCGP|Star|2}} ||  || {{yes}} || 
+|-
+| 259/226 || {{TCG ID|Genetic Apex|Pikachu ex|259|Pikachu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Star|2}} ||  ||  || {{yes}}
+|-
+| 260/226 || {{TCG ID|Genetic Apex|Zapdos ex|260|Zapdos}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Star|2}} ||  ||  || {{yes}}
+|-
+| 261/226 || {{TCG ID|Genetic Apex|Gengar ex|261|Gengar}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Star|2}} ||  || {{yes}} || 
+|-
+| 262/226 || {{TCG ID|Genetic Apex|Mewtwo ex|262|Mewtwo}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Star|2}} ||  || {{yes}} || 
+|-
+| 263/226 || {{TCG ID|Genetic Apex|Machamp ex|263|Machamp}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Star|2}} || {{yes}} ||  || 
+|-
+| 264/226 || {{TCG ID|Genetic Apex|Marowak ex|264|Marowak}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Star|2}} ||  || {{yes}} || 
+|-
+| 265/226 || {{TCG ID|Genetic Apex|Wigglytuff ex|265|Wigglytuff}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Star|2}} ||  ||  || {{yes}}
+|-
+| 266/226 || {{TCG ID|Genetic Apex|Erika|266}} || {{TCG Icon|Supporter}} || {{rar/TCGP|Star|2}} || {{yes}} ||  || 
+|-
+| 267/226 || {{TCG ID|Genetic Apex|Misty|267}} || {{TCG Icon|Supporter}} || {{rar/TCGP|Star|2}} ||  ||  || {{yes}}
+|-
+| 268/226 || {{TCG ID|Genetic Apex|Blaine|268}} || {{TCG Icon|Supporter}} || {{rar/TCGP|Star|2}} || {{yes}} ||  || 
+|-
+| 269/226 || {{TCG ID|Genetic Apex|Koga|269}} || {{TCG Icon|Supporter}} || {{rar/TCGP|Star|2}} ||  || {{yes}} || 
+|-
+| 270/226 || {{TCG ID|Genetic Apex|Giovanni|270}} || {{TCG Icon|Supporter}} || {{rar/TCGP|Star|2}} ||  || {{yes}} || 
+|-
+| 271/226 || {{TCG ID|Genetic Apex|Brock|271}} || {{TCG Icon|Supporter}} || {{rar/TCGP|Star|2}} ||  ||  || {{yes}}
+|-
+| 272/226 || {{TCG ID|Genetic Apex|Sabrina|272}} || {{TCG Icon|Supporter}} || {{rar/TCGP|Star|2}} || {{yes}} ||  || 
+|-
+| 273/226 || {{TCG ID|Genetic Apex|Lt. Surge|273}} || {{TCG Icon|Supporter}} || {{rar/TCGP|Star|2}} ||  ||  || {{yes}}
+|-
+| 274/226 || {{TCG ID|Genetic Apex|Moltres ex|274|Moltres}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{rar/TCGP|Star|2}} || {{yes}} ||  || 
+|-
+| 275/226 || {{TCG ID|Genetic Apex|Articuno ex|275|Articuno}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{rar/TCGP|Star|2}} ||  || {{yes}} || 
+|-
+| 276/226 || {{TCG ID|Genetic Apex|Zapdos ex|276|Zapdos}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Star|2}} ||  ||  || {{yes}}
+|-
+| 277/226 || {{TCG ID|Genetic Apex|Gengar ex|277|Gengar}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Star|2}} ||  || {{yes}} || 
+|-
+| 278/226 || {{TCG ID|Genetic Apex|Machamp ex|278|Machamp}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{rar/TCGP|Star|2}} || {{yes}} ||  || 
+|-
+| 279/226 || {{TCG ID|Genetic Apex|Wigglytuff ex|279|Wigglytuff}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{rar/TCGP|Star|2}} ||  ||  || {{yes}}
+|-
+| 280/226 || {{TCG ID|Genetic Apex|Charizard ex|280|Charizard}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{rar/TCGP|Star|3}} || {{yes}} ||  || 
+|-
+| 281/226 || {{TCG ID|Genetic Apex|Pikachu ex|281|Pikachu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Star|3}} ||  ||  || {{yes}}
+|-
+| 282/226 || {{TCG ID|Genetic Apex|Mewtwo ex|282|Mewtwo}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Star|3}} ||  || {{yes}} || 
+|-
+| 283/226 || {{TCG ID|Genetic Apex|Mew|283}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Star|3}} ||  ||  || 
+|-
+| 284/226 || {{TCG ID|Genetic Apex|Charizard ex|284|Charizard}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{rar/TCGP|Crown}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 285/226 || {{TCG ID|Genetic Apex|Pikachu ex|285|Pikachu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{rar/TCGP|Crown}} || {{yes}} || {{yes}} || {{yes}}
+|-
+| 286/226 || {{TCG ID|Genetic Apex|Mewtwo ex|286|Mewtwo}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{rar/TCGP|Crown}} || {{yes}} || {{yes}} || {{yes}}
+|}
+
+==Missions==
+=== Dex Missions ===
+Genetic Apex has 13 regular {{DL|Mission (TCG Pocket)|Dex Missions}} and one hidden Dex Mission:
+
+{{TCGPocketMission/Header|reward=yes|bordercol=D6B|tablecol=428|textcol=FFF}}
+{{TCGPocketMission/Entry|mission=Register 5 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex)|num=2}}}}
+{{TCGPocketMission/Entry|mission=Register 50 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex)|num=3}}}}
+{{TCGPocketMission/Entry|mission=Register 60 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex)|num=6}}}}
+{{TCGPocketMission/Entry|mission=Register 70 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex)|num=7}}}}
+{{TCGPocketMission/Entry|mission=Register 80 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex)|num=8}}}}
+{{TCGPocketMission/Entry|mission=Register 90 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex)|num=9}}}}
+{{TCGPocketMission/Entry|mission=Register 100 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 120 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex)|num=12}}}}
+{{TCGPocketMission/Entry|mission=Register 140 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex)|num=14}}}}
+{{TCGPocketMission/Entry|mission=Register 160 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex)|num=16}}}}
+{{TCGPocketMission/Entry|mission=Register 180 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex)|num=18}}}}
+{{TCGPocketMission/Entry|mission=Register 200 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex)|num=20}}}}
+{{TCGPocketMission/Entry|mission=Register 220 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex)|num=25}}}}
+|-
+! colspan="2" style="color: #FFF" | Secret Mission
+{{TCGPocketMission/Entry|mission=Register 226 cards in the card dex|reward={{TCGPocketItem|Genetic Apex Mewtwo|Genetic Apex: Mewtwo (profile icon)|type=Profile Icon}}<br>{{TCGPocketItem|Genetic Apex Charizard|Genetic Apex: Charizard (profile icon)|type=Profile Icon}}<br>{{TCGPocketItem|Genetic Apex Pikachu|Genetic Apex: Pikachu (profile icon)|type=Profile Icon}}|lastitem=yes}}
+|}
+Completing the secret mission requires players to collect all of the cards within the main set; namely, those with any Diamond rarity ({{rar/TCGP|Diamond|1}} to {{rar/TCGP|Diamond|4}}).
+
+=== Deck Missions ===
+Genetic Apex has 13 [[deck]]s and 24 {{DL|Mission (TCG Pocket)|Deck Missions}}. Excluding the {{OBP|Wigglytuff ex Deck|Genetic Apex}}, which is obtained through the {{DL|Mission (TCG Pocket)|Battle Guide}}, each deck has two missions:
+
+{{TCGPocketMission/Header|reward=yes|bordercol=D6B|tablecol=428|textcol=FFF}}
+{{TCGPocketMission/Entry|mission=Collect the highlight card(s) for [deck name]|reward={{TCGPocketItem|Rental Deck|[deck name] rental deck}}}}
+{{TCGPocketMission/Entry|mission=Collect cards for [deck name]|reward={{TCGPocketItem|Theme Deck List|[deck name] theme deck list}}|lastitem=yes}}
+|}
+
+The 13 available decks related to Genetic Apex are: 
+{{TCGPocketExpansionDeck/Header|bordercol=D6B|tablecol=428|textcol=FFF}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Venusaur ex Deck|Genetic Apex}}|{{e|Grass}}|{{TCG ID|Genetic Apex|Venusaur ex|4}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Charizard ex Deck|Genetic Apex}}|{{e|Fire}}|{{TCG ID|Genetic Apex|Charizard ex|36}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Blastoise ex Deck|Genetic Apex}}|{{e|Water}}|{{TCG ID|Genetic Apex|Blastoise ex|56}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Pikachu ex Deck|Genetic Apex}}|{{e|Lightning}}|{{TCG ID|Genetic Apex|Pikachu ex|96}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mewtwo ex Deck|Genetic Apex}}|{{e|Psychic}}|{{TCG ID|Genetic Apex|Mewtwo ex|129}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Machamp ex Deck|Genetic Apex}}|{{e|Fighting}}|{{TCG ID|Genetic Apex|Machamp ex|146}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Nidoqueen & Nidoking Deck|Genetic Apex}}|{{e|Darkness}}|{{TCG ID|Genetic Apex|Nidoqueen|168}}, {{TCG ID|Genetic Apex|Nidoking|171}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Kanto Fossils Deck|Genetic Apex}}|{{e|Water}}{{e|Fighting}}{{e|Colorless}}|{{TCG ID|Genetic Apex|Omastar|82}}, {{TCG ID|Genetic Apex|Kabutops|159}}, {{TCG ID|Genetic Apex|Omastar|82}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Blaine Deck|Genetic Apex}}|{{e|Fire}}|{{TCG ID|Genetic Apex|Blaine|221}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Lt. Surge Deck|Genetic Apex}}|{{e|Lightning}}|{{TCG ID|Genetic Apex|Lt. Surge|226}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Brock Deck|Genetic Apex}}|{{e|Fighting}}|{{TCG ID|Genetic Apex|Brock|224}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Koga Deck|Genetic Apex}}|{{e|Darkness}}|{{TCG ID|Genetic Apex|Koga|222}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Wigglytuff ex Deck|Genetic Apex}}|{{e|Colorless}}{{e|Lightning}}|—|lastitem=yes}}
+|}
+
+=== Themed Collections ===
+Genetic Apex has 19 regular {{DL|Mission (TCG Pocket)|Themed Collections}} and 7 hidden Themed Collections:
+
+{{TCGPocketCollection/Header|bordercol=D6B|tablecol=428|textcol=FFF}}
+{{TCGPocketCollection/Entry|collection=First Choice
+|cards={{TCG ID|Genetic Apex|Bulbasaur|1}} (#001 or #227)<br>{{TCG ID|Genetic Apex|Charmander|33}} (#033 or #230)<br>{{TCG ID|Genetic Apex|Squirtle|53}} (#053 or #232)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Electabuzz and Magmar
+|cards={{TCG ID|Genetic Apex|Magmar|44}} (#044)<br>{{TCG ID|Genetic Apex|Electabuzz|101}} (#101)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Viridian Forest
+|cards={{TCG ID|Genetic Apex|Caterpie|5}} (#005)<br>{{TCG ID|Genetic Apex|Metapod|6}} (#006)<br>{{TCG ID|Genetic Apex|Weedle|8}} (#008)<br>{{TCG ID|Genetic Apex|Kakuna|9}} (#009)<br>{{TCG ID|Genetic Apex|Pikachu|94}} (#094) or {{TCG ID|Genetic Apex|Pikachu ex|96}} (#096, #259, #281, #285)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex) ×2}}
+}}
+{{TCGPocketCollection/Entry|collection=Pidgey Squad
+|cards={{TCG ID|Genetic Apex|Pidgey|186}} (#186)<br>{{TCG ID|Genetic Apex|Pidgeotto|187}} (#187)<br>{{TCG ID|Genetic Apex|Pidgeot|188}} (#188 or #245)
+|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex) ×7}}
+}}
+{{TCGPocketCollection/Entry|collection=A Day with Family
+|cards={{TCG ID|Genetic Apex|Nidoran♀|166}} (#166)<br>{{TCG ID|Genetic Apex|Nidorina|167}} (#167)<br>{{TCG ID|Genetic Apex|Nidoqueen|168}} (#168 or #240)<br>{{TCG ID|Genetic Apex|Nidoran♂|169}} (#169)<br>{{TCG ID|Genetic Apex|Nidorino|170}} (#170)<br>{{TCG ID|Genetic Apex|Nidoking|171}} (#171 or #241)
+|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex) ×14}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon of Ancient Times
+|cards={{TCG ID|Genetic Apex|Omanyte|81}} (#081)<br>{{TCG ID|Genetic Apex|Omastar|82}} (#082)<br>{{TCG ID|Genetic Apex|Kabuto|158}} (#158)<br>{{TCG ID|Genetic Apex|Kabutops|159}} (#159)<br>{{TCG ID|Genetic Apex|Aerodactyl|210}} (#210)
+|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex) ×20}}
+}}
+{{TCGPocketCollection/Entry|collection=The Legendary Flight
+|cards={{TCG ID|Genetic Apex|Moltres|46}} (#046) or {{TCG ID|Genetic Apex|Moltres ex|47}} (#047, #255, #274)<br>{{TCG ID|Genetic Apex|Articuno|83}} (#083) or {{TCG ID|Genetic Apex|Articuno ex|84}} (#084, #258, #275)<br>{{TCG ID|Genetic Apex|Zapdos|103}} (#103) or {{TCG ID|Genetic Apex|Zapdos ex|104}} (#104, #260, #276)
+|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex) ×17}}
+}}
+{{TCGPocketCollection/Entry|collection=Triple Power
+|cards={{TCG ID|Genetic Apex|Exeggutor|22}} (#022) or {{TCG ID|Genetic Apex|Exeggutor ex|23}} (#023 or #252)<br>{{TCG ID|Genetic Apex|Magneton|98}} (#098)<br>{{TCG ID|Genetic Apex|Dugtrio|140}} (#140)<br>{{TCG ID|Genetic Apex|Dodrio|200}} (#200)
+|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex) ×12}}
+}}
+{{TCGPocketCollection/Entry|collection=A Big Snorlax Nuisance
+|cards={{TCG ID|Genetic Apex|Oddish|11}} (#011)<br>{{TCG ID|Genetic Apex|Venonat|16}} (#016)<br>{{TCG ID|Genetic Apex|Bellsprout|18}} (#018)<br>{{TCG ID|Genetic Apex|Snorlax|250}} (#250)
+|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex) ×14}}
+}}
+{{TCGPocketCollection/Entry|collection=Touring the Kanto Region
+|cards={{TCG ID|Genetic Apex|Tentacool|62}} (#062)<br>{{TCG ID|Genetic Apex|Haunter|121}} (#121)<br>{{TCG ID|Genetic Apex|Jynx|127}} (#127)<br>{{TCG ID|Genetic Apex|Grimer|174}} (#174)<br>{{TCG ID|Genetic Apex|Rattata|189}} (#189)<br>{{TCG ID|Genetic Apex|Spearow|191}} (#191)<br>{{TCG ID|Genetic Apex|Doduo|199}} (#199)
+|reward={{TCGPocketItem|Wonder Hourglass|num=24}}<br>{{TCGPocketItem|Shop Ticket|num=5}}<br>{{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex) ×4}}
+}}
+{{TCGPocketCollection/Entry|collection=The Gym Leaders of the Kanto Region
+|cards={{TCG ID|Genetic Apex|Erika|219}} (#219 or #266)<br>{{TCG ID|Genetic Apex|Misty|220}} (#220 or #267)<br>{{TCG ID|Genetic Apex|Blaine|221}} (#221 or #268)<br>{{TCG ID|Genetic Apex|Koga|222}} (#222 or #269)<br>{{TCG ID|Genetic Apex|Giovanni|223}} (#223 or #270)<br>{{TCG ID|Genetic Apex|Brock|224}} (#224 or #271)<br>{{TCG ID|Genetic Apex|Sabrina|225}} (#225 or #272)<br>{{TCG ID|Genetic Apex|Lt. Surge|226}} (#226 or #273)
+|reward={{TCGPocketItem|Wonder Hourglass|num=24}}<br>{{TCGPocketItem|Shop Ticket|num=5}}<br>{{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex) ×8}}
+}}
+{{TCGPocketCollection/Entry|collection=Different Journeys, Different Growth
+|cards={{TCG ID|Genetic Apex|Bulbasaur|1}} (#001 or #227)<br>{{TCG ID|Genetic Apex|Ivysaur|2}} (#002)<br>{{TCG ID|Genetic Apex|Venusaur|3}} (#003) or {{TCG ID|Genetic Apex|Venusaur ex|4}} (#004 or #251)<br>{{TCG ID|Genetic Apex|Charmander|33}} (#033 or #230)<br>{{TCG ID|Genetic Apex|Charmeleon|34}} (#034)<br>{{TCG ID|Genetic Apex|Charizard|35}} (#035) or {{TCG ID|Genetic Apex|Charizard ex|36}} (#036, #253, #280, #284)<br>{{TCG ID|Genetic Apex|Squirtle|53}} (#053 or #232)<br>{{TCG ID|Genetic Apex|Wartortle|54}} (#054)<br>{{TCG ID|Genetic Apex|Blastoise|55}} (#055) or {{TCG ID|Genetic Apex|Blastoise ex|56}} (#056 or #256)
+|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex) ×22}}
+}}
+{{TCGPocketCollection/Entry|collection=Safari Zone
+|cards={{TCG ID|Genetic Apex|Exeggcute|21}} (#021)<br>{{TCG ID|Genetic Apex|Scyther|25}} (#025)<br>{{TCG ID|Genetic Apex|Pinsir|26}} (#026 or #229)<br>{{TCG ID|Genetic Apex|Slowpoke|118}} (#118 or #237)<br>{{TCG ID|Genetic Apex|Rhyhorn|156}} (#156)<br>{{TCG ID|Genetic Apex|Dratini|183}} (#183)<br>{{TCG ID|Genetic Apex|Dragonair|184}} (#184)<br>{{TCG ID|Genetic Apex|Doduo|199}} (#199)<br>{{TCG ID|Genetic Apex|Chansey|202}} (#202)<br>{{TCG ID|Genetic Apex|Kangaskhan|203}} (#203)<br>{{TCG ID|Genetic Apex|Tauros|204}} (#204)
+|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex) ×12}}
+}}
+{{TCGPocketCollection/Entry|collection=Category: Mouse Pokémon
+|cards={{TCG ID|Genetic Apex|Pikachu|94}} (#094) or {{TCG ID|Genetic Apex|Pikachu ex|96}} (#096, #259, #281, #285)<br>{{TCG ID|Genetic Apex|Raichu|95}} (#095)<br>{{TCG ID|Genetic Apex|Sandshrew|137}} (#137)<br>{{TCG ID|Genetic Apex|Sandslash|138}} (#138)<br>{{TCG ID|Genetic Apex|Rattata|189}} (#189)<br>{{TCG ID|Genetic Apex|Raticate|190}} (#190)
+|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex) ×3}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon Super Express
+|cards={{TCG ID|Genetic Apex|Arcanine|40}} (#040) or {{TCG ID|Genetic Apex|Arcanine ex|41}} (#041 or #254)<br>{{TCG ID|Genetic Apex|Rapidash|43}} (#043 or #231)<br>{{TCG ID|Genetic Apex|Zebstrika|106}} (#106)<br>{{TCG ID|Genetic Apex|Dragonite|185}} (#185 or #244)
+|reward={{TCGPocketItem|Emblem Ticket A1|Emblem Ticket (Genetic Apex) ×13}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Electrode cards
+|cards={{TCG ID|Genetic Apex|Electrode|100}} (#100 or #235) ×3
+|reward={{TCGPocketItem|Electrode|Electrode (profile icon)|type=Profile Icon}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 5 Gardevoir cards
+|cards={{TCG ID|Genetic Apex|Gardevoir|132}} (#132) ×5
+|reward={{TCGPocketItem|Gardevoir|Gardevoir (profile icon)|type=Profile Icon}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 5 Charizard cards
+|cards={{TCG ID|Genetic Apex|Charizard|35}} (#035) ×5
+|reward={{TCGPocketItem|Charizard|Charizard (profile icon)|type=Profile Icon}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 5 Mewtwo cards
+|cards={{TCG ID|Genetic Apex|Mewtwo|128}} (#128) ×5
+|reward={{TCGPocketItem|Mewtwo|Mewtwo (profile icon)|type=Profile Icon}}
+}}
+|-
+! colspan="3" style="color: #FFF;" | Secret Missions
+{{TCGPocketCollection/Entry|collection=Complete the Kanto Pokédex!
+|cards=Collect 1 card of every [[Generation I]] Pokémon from Bulbasaur to Mewtwo<br>(only cards from Genetic Apex count towards this goal)
+|reward={{TCG ID|Genetic Apex|Mew|283}} (#283) ×1<br>
+}}
+{{TCGPocketCollection/Entry|collection=Genetic Apex Museum 1 (Mewtwo)
+|cards={{TCG ID|Genetic Apex|Bulbasaur|227}} (#227)<br>{{TCG ID|Genetic Apex|Cubone|239}} (#239)<br>{{TCG ID|Genetic Apex|Golbat|242}} (#242)<br>{{TCG ID|Genetic Apex|Weezing|243}} (#243)<br>{{TCG ID|Genetic Apex|Dragonite|244}} (#244)<br>{{TCG ID|Genetic Apex|Pidgeot|245}} (#245)<br>{{TCG ID|Genetic Apex|Ditto|247}} (#247)<br>{{TCG ID|Genetic Apex|Porygon|249}} (#249)
+|reward={{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Shop Ticket|num=20}}
+}}
+{{TCGPocketCollection/Entry|collection=Genetic Apex Museum 2 (Charizard)
+|cards={{TCG ID|Genetic Apex|Gloom|228}} (#228)<br>{{TCG ID|Genetic Apex|Pinsir|229}} (#229)<br>{{TCG ID|Genetic Apex|Charmander|230}} (#230)<br>{{TCG ID|Genetic Apex|Rapidash|231}} (#231)<br>{{TCG ID|Genetic Apex|Lapras|234}} (#234)<br>{{TCG ID|Genetic Apex|Alakazam|236}} (#236)<br>{{TCG ID|Genetic Apex|Slowpoke|237}} (#237)<br>{{TCG ID|Genetic Apex|Meowth|246}} (#246)
+|reward={{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Shop Ticket|num=20}}
+}}
+{{TCGPocketCollection/Entry|collection=Genetic Apex Museum 3 (Pikachu)
+|cards={{TCG ID|Genetic Apex|Squirtle|232}} (#232)<br>{{TCG ID|Genetic Apex|Gyarados|233}} (#233)<br>{{TCG ID|Genetic Apex|Electrode|235}} (#235)<br>{{TCG ID|Genetic Apex|Diglett|238}} (#238)<br>{{TCG ID|Genetic Apex|Nidoqueen|240}} (#240)<br>{{TCG ID|Genetic Apex|Nidoking|241}} (#241)<br>{{TCG ID|Genetic Apex|Eevee|248}} (#248)<br>{{TCG ID|Genetic Apex|Snorlax|250}} (#250)
+|reward={{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Shop Ticket|num=20}}
+}}
+{{TCGPocketCollection/Entry|collection=The Gym Leaders of the Kanto Region 2
+|cards={{TCG ID|Genetic Apex|Erika|266}} (#266)<br>{{TCG ID|Genetic Apex|Misty|267}} (#267)<br>{{TCG ID|Genetic Apex|Blaine|268}} (#268)<br>{{TCG ID|Genetic Apex|Koga|269}} (#269)<br>{{TCG ID|Genetic Apex|Giovanni|270}} (#270)<br>{{TCG ID|Genetic Apex|Brock|271}} (#271)<br>{{TCG ID|Genetic Apex|Sabrina|272}} (#272)<br>{{TCG ID|Genetic Apex|Lt. Surge|273}} (#273)
+|reward={{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Wonder Hourglass|num=48}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=The Legendary Flight Continues
+|cards={{TCG ID|Genetic Apex|Moltres ex|274}} (#274)<br>{{TCG ID|Genetic Apex|Articuno ex|275}} (#275)<br>{{TCG ID|Genetic Apex|Zapdos ex|276}} (#276)
+|reward={{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Moltres Zapdos Articuno|Moltres, Zapdos, and Articuno (emblem)|type=Emblem}}
+}}
+{{TCGPocketCollection/Entry|collection=The Immersive 4
+|cards={{TCG ID|Genetic Apex|Charizard ex|280}} (#280)<br>{{TCG ID|Genetic Apex|Pikachu ex|281}} (#281)<br>{{TCG ID|Genetic Apex|Mewtwo ex|282}} (#282)<br>{{TCG ID|Genetic Apex|Mew|283}} (#283)
+|reward={{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Wonder Hourglass|num=48}}<br>{{TCGPocketItem|Shop Ticket|num=20}}
+|lastitem=yes
+}}
+|}
+
+== Offering rates ==
+The following tables outline the offering rates for each Genetic Apex booster pack.
+
+Regular packs have a 99.95% chance of appearing. Rare packs have a 0.05% chance of appearing.
+
+=== Genetic Apex: Mewtwo ===
+While all {{rar/TCGP|Crown}} cards can be found in regular packs, the only one that can be pulled from a rare pack is {{TCG ID|Genetic Apex|Mewtwo ex|286}}.
+{{TCGPocketRates/Header|tablecol=428|bordercol=D6B|cellcol=D6B}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 2.000% || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 2.571% || 1.714% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.357% || 1.428% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.333% || 1.332% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.321% || 1.286% || 5.263%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.055% || 0.222% || 5.263%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.888% || 5.263%
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.013% || 0.053% || style="border-bottom-right-radius:5px" | 5.263%
+|}
+
+=== Genetic Apex: Charizard ===
+While all {{rar/TCGP|Crown}} cards can be found in regular packs, the only one that can be pulled from a rare pack is {{TCG ID|Genetic Apex|Charizard ex|284}}.
+
+{{TCGPocketRates/Header|tablecol=428|bordercol=D6B|cellcol=D6B}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 2.000% || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 2.571% || 1.714% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.357% || 1.428% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.333% || 1.332% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.321% || 1.286% || 5.000%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.050% || 0.200% || 5.000%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.888% || 5.000%
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.013% || 0.053% || style="border-bottom-right-radius:5px" | 5.000%
+|}
+
+=== Genetic Apex: Pikachu ===
+While all {{rar/TCGP|Crown}} cards can be found in regular packs, the only one that can be pulled from a rare pack is {{TCG ID|Genetic Apex|Pikachu ex|285}}.
+
+{{TCGPocketRates/Header|tablecol=428|bordercol=D6B|cellcol=D6B}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 2.000% || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 2.571% || 1.714% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.357% || 1.428% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.333% || 1.332% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.321% || 1.286% || 5.000%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.050% || 0.200% || 5.000%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.888% || 5.000%
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.013% || 0.053% || style="border-bottom-right-radius:5px" | 5.000%
+|}
+
+== Solo battles ==
+{{main|List of Genetic Apex solo battles in Pokémon TCG Pocket}}
+
+== Gallery ==
+The pack artworks for the Genetic Apex expansion were illustrated by [[PLANETA]].<ref>[https://pla-neta.co.jp/works/illust/3007/ Pokémon Trading Card Game Pocket拡張パック「最強の遺伝子」 - PLANETA｜プラネッタ]</ref><ref>[https://x.com/PLANETACoLtd/status/1864500542577496316 X post on @PLANETACoLtd], December 4, 2024</ref>
+
+=== Pack artwork ===
+{{TCGMerchGallery
+|background=428
+|border=D6B
+|image1=A1 Booster Mewtwo EN.png
+|caption1=English Mewtwo pack
+|image2=A1 Booster Charizard EN.png
+|caption2=English Charizard pack
+|image3=A1 Booster Pikachu EN.png
+|caption3=English Pikachu pack
+}}
+
+=== Pack logos ===
+{{TCGMerchGallery
+|background=428
+|border=D6B
+|image1=A1 Logo Mewtwo EN.png
+|caption1=English Mewtwo logo
+|image2=A1 Logo Charizard EN.png
+|caption2=English Charizard logo
+|image3=A1 Logo Pikachu EN.png
+|caption3=English Pikachu logo
+|caption5=Japanese Mewtwo logo|caption6=Japanese Charizard logo|image5=A1 Logo Mewtwo JA.png|image6=A1 Logo Charizard JA.png|image7=A1 Logo Pikachu JA.png|caption7=Japanese Pikachu logo}}
+
+=== Accessories ===
+{{TCGMerchGallery
+|background=428
+|border=D6B
+|image1=TCGP Cover Genetic Apex Mewtwo.png
+|caption1=Mewtwo binder cover
+|image2=TCGP Cover Genetic Apex Charizard.png
+|caption2=Charizard binder cover
+|image3=TCGP Cover Genetic Apex Pikachu.png
+|caption3=Pikachu binder cover
+|image5=TCGP Profile Icon Genetic Apex Mewtwo.png
+|caption5=Mewtwo profile icon
+|image6=TCGP Profile Icon Genetic Apex Charizard.png
+|caption6=Charizard profile icon
+|image7=TCGP Profile Icon Genetic Apex Pikachu.png
+|caption7=Pikachu profile icon
+}}
+
+== In other languages ==
+{{Langtable|color=428|bordercolor=D6B|textcolor=FFF
+|ja=最強の遺伝子 ''Saikyō no Idenshi''
+|zh_yue=最強的基因 ''Jeuikèuhng dīk Gēiyān''
+|zh_cmn=最強的基因 ''Zuìqiáng de Jīyīn''
+|fr=Puissance Génétique
+|de=Unschlagbare Gene
+|it=Geni Supremi
+|ko=최강의 유전자 ''Choegang-ui Yujeonja''
+|pt_br=Dominação Genética
+|es=Genes Formidables
+}}
+
+== References ==
+{{reflist}}
+
+== Related articles ==
+{{TCGPocketNavigation}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Unschlagbare Gene (TCG Pocket)]]
+[[es:Genes Formidables (TCG Pocket)]]
+[[fr:Puissance Génétique]]
+[[it:Geni Supremi (GCC Pocket)]]
+[[ja:最強の遺伝子]]
+[[zh:最強的基因（TCGP）]]

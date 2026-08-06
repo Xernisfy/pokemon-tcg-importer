@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Galvantula
+|ja name=デンチュラ
+|trans name=Dentula
+|species=Galvantula
+|type=Lightning
+|image=GalvantulaMythicalIsland29.png
+|illustrator=Mitsuhiro Arita
+|hp=80
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Joltik
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=029/068|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Galvantula''' (Japanese: '''デンチュラ''' ''Dentula'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Electroweb
+|jname=エレキネット
+|jtrans=Elecnet
+|damage=70
+|effect=During your opponent's next turn, the Defending Pokémon can't retreat.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Galvantula
+|species=EleSpider
+|ndex=0596
+|height=2'7"
+|jheight=0.8
+|weight=31.5
+|jweight=14.3
+|dex=It launches electrified fur from its abdomen as its means of attack. Opponents hit by the fur could be in for three full days and nights of paralysis.
+|jdex=電気を 帯びた お腹の 毛を 飛ばして 攻撃。 毛が 刺さると 三日三晩 全身が 痺れる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Black & White|Galvantula|46}} from the {{TCG|Black & White}} expansion.
+**Both cards have the {{m|Electroweb}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Galvantula}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Voltula (Mysteriöse Insel 029)]]
+[[es:Galvantula (La Isla Singular TCG Pocket)]]
+[[fr:Mygavolt (L'Île Fabuleuse 029)]]
+[[it:Galvantula (L'Isola Misteriosa 29)]]
+[[ja:デンチュラ (ポケポケ A1a)]]
+[[zh:电蜘蛛（A1a）]]

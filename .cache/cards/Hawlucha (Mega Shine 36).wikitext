@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hawlucha
+|ja name=ルチャブル
+|trans name=Luchabull
+|species=Hawlucha
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HawluchaMegaShine36.png|illustrator=GOSSAN|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HawluchaMegaShine99.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=036/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=099/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Hawlucha''' (Japanese: '''ルチャブル''' ''Luchabull'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Take Down
+|jname=とっしん
+|jtrans=Charge
+|damage=50
+|effect=This Pokémon also does 10 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Hawlucha
+|category=Wrestling
+|ndex=0701
+|height=2'7"
+|jheight=0.8
+|weight=47.4
+|jweight=21.5
+|dex=Hawlucha live quietly without flocking together. They fight constantly with their natural enemies: noisy groups of Primeape.
+|jdex=群れを　作らず　静かに　暮らす｡ 集団で　騒ぐ　オコリザルは 天敵で　いつも　争いになる｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=HawluchaMegaShine36.png
+|caption1=Common card<br>Illus. [[GOSSAN]]
+|image2=HawluchaMegaShine99.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Hawlucha|118}} from the {{TCG|Scarlet & Violet}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Hawlucha}}.
+*{{m|Take Down}} is a [[move]] in the [[Pokémon games]] that {{p|Hawlucha}} can learn via [[TM]].
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Resladero (Mega-Schillern 036)]]
+[[fr:Brutalibré (Méga-Rayonnement 036)]]
+[[it:Hawlucha (Mega Splendore 36)]]
+[[ja:ルチャブル (ポケポケ B2b)]]
+[[zh:摔角鹰人（B2b）]]

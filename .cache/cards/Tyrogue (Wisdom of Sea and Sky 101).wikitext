@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tyrogue
+|ja name=バルキー
+|trans name=Balkie
+|species=Tyrogue
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TyrogueWisdomofSeaandSky101.png|illustrator=Mina Nakai |tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TyrogueFantasticalParade223.png|illustrator=Nisota Niso|tab caption=Shiny Rare}}
+|hp=30
+|weakness=
+|retreat cost=0
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=101/161|pack=Ho-Oh (Bonus)|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=223/155|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Tyrogue''' (Japanese: '''バルキー''' ''Balkie'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|None}}
+|name=Slappy Knuckle
+|jname=ばしばしナックル
+|jtrans=Violent Knuckle
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Tyrogue
+|category=Scuffle 
+|ndex=0236
+|height=2'4"
+|jheight=0.7
+|weight=46.3
+|jweight=21.0
+|dex=It is always bursting with energy. To make itself stronger, it keeps on fighting even if it loses.
+|jdex=いつでも 元気いっぱい。 強くなるため 負けても 負けても 相手に 立ち向かっていく。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=TyrogueWisdomofSeaandSky101.png
+|caption1=Rare card<br>Illus. [[Mina Nakai]]
+|image3=TyrogueFantasticalParade223.png
+|caption3=Shiny rare card<br>Illus. [[Nisota Niso]]
+}}
+
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unbroken Bonds|Tyrogue|100}} from the {{TCG|Unbroken Bonds}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+*This card's {{TCGP|Fantastical Parade}} print features a {{Shiny}} {{p|Tyrogue}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rabauz (Weisheit von Meer und Himmel 101)]]
+[[es:Tyrogue (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Debugant (Sagesse entre Ciel et Mer 101)]]
+[[it:Tyrogue (La Via del Cielo e del Mare 101)]]
+[[ja:バルキー (ポケポケ A4)]]
+[[zh:无畏小子（A4）]]

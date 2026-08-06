@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Axew
+|ja name=キバゴ
+|trans name=Kibago
+|species=Axew
+|type=Dragon
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AxewMegaShine54.png|illustrator=Yukiko Baba|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AxewMegaShine108.png|illustrator=Nisota Niso|tab caption=Shiny Rare}}
+|hp=70
+|weakness=
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=054/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=108/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Axew''' (Japanese: '''キバゴ''' ''Kibago'') is a {{ct|Dragon}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Fighting}}{{e|Metal}}
+|name=Sharp Fang
+|jname=するどいキバ
+|jtrans=Razor Fang
+|damage=40
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Axew
+|category=Tusk
+|ndex=0610
+|height=2'
+|jheight=0.6
+|weight=39.7
+|jweight=18.0
+|dex=If you see peculiar teeth marks on boulders or trees, it means an Axew is likely living nearby.
+|jdex=岩や　樹木に　独特の 歯形を　見かけたら　近くに キバゴが　棲んでいるはずだ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Dragon
+|image1=AxewMegaShine54.png
+|caption1=Common card<br>Illus. [[Yukiko Baba]]
+|image2=AxewMegaShine108.png
+|caption2=Shiny rare card<br>Illus. [[Nisota Niso]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Axew|154}} from the {{TCG|Unified Minds}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Axew}}.
+*'''Sharp Fang'''{{'}}s Japanese name is that of the [[Razor Fang]], a [[held item]] in the [[Pokémon games]]. As an attack in the TCG, it first appeared on {{TCG ID|EX Hidden Legends|Golbat|36}} from the {{TCG|EX Hidden Legends}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Milza (Mega-Schillern 054)]]
+[[fr:Coupenotte (Méga-Rayonnement 054)]]
+[[it:Axew (Mega Splendore 54)]]
+[[ja:キバゴ (ポケポケ B2b)]]
+[[zh:牙牙（B2b）]]

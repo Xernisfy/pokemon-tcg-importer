@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Crabominable
+|ja name=ケケンカニ
+|trans name=Kekenkani
+|species=Crabominable
+|type=Fighting
+|image=CrabominableMegaRising140.png
+|illustrator=tetsuya koizumi
+|hp=120
+|weakness=Psychic
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Crabrawler
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=140/226|pack=Mega Blaziken|rarity=Diamond|rarity count=2}}
+}}
+
+'''Crabominable''' (Japanese: '''ケケンカニ''' ''Kekenkani'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Last-Chance Punch
+|jname=ギリギリパンチ
+|jtrans=
+|damage=30+
+|effect=If this Pokémon's remaining HP is 30 or less, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Crabominable
+|category=Woolly Crab
+|ndex=0740
+|height=5'7"
+|jheight=1.7
+|weight=396.8
+|jweight=180.0
+|dex=Though its punches are powerful, this Pokémon's movements are sluggish. It blows icy bubbles from its mouth to immobilize its opponents.
+|jdex=パンチは 強力だが 動きが 遅い。 口から 氷の 泡を 吹いて 相手の 動きを 止める。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Crabominable|122}} from the {{TCG|Cosmic Eclipse}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Krawell (Mega-Aufstieg 140)]]
+[[es:Crabominable (Megaascenso TCG Pocket)]]
+[[fr:Crabominable (Méga-Ascension 140)]]
+[[it:Crabominable (Mega Ascesa 140)]]
+[[ja:ケケンカニ (ポケポケ B1)]]
+[[zh:好胜毛蟹（B1）]]

@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lilligant
+|ja name=ドレディア
+|trans name=Dredear
+|species=Lilligant
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LilligantMegaRising18.png|illustrator=Kanako Eo|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LilligantMegaRising329.png|illustrator=PLANETA CG Works|tab caption=Ultra Rare}}
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Petilil
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=018/226|pack=Mega Altaria|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=329/226|pack=Any|rarity=Crown|rarity count=1}}
+}}
+
+'''Lilligant''' (Japanese: '''ドレディア''' ''Dredear'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Ability/Pocket
+|type=Grass
+|name=Toughness Aroma
+|jname=タフネスアロマ
+|jtrans=Toughness Aroma
+|effect=Each of your {{e|Grass}} Pokémon gets +20 HP.
+}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Smack
+|jname=ひらてうち
+|jtrans=Smack
+|damage=50
+|effect=
+}} 
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Lilligant
+|category=Flowering
+|ndex=0549
+|height=3'7"
+|jheight=1.1
+|weight=35.9
+|jweight=16.3
+|dex=No matter how much time and money is spent raising it, its flowers are the most beautiful when they bloom in the wild.
+|jdex=どんなに 手間と お金を かけても 人の 手で 咲かせるよりも 野生で 咲く 花の ほうが 美しい。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=LilligantMegaRising18.png
+|caption1=Rare card<br>Illus. [[Kanako Eo]]
+|image2=LilligantMegaRising329.png
+|caption2=Ultra rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Boundaries Crossed|Lilligant|17}} from the {{TCG|Boundaries Crossed}} expansion.
+*'''Smack''' is an attack that first appeared on {{TCG ID|EX Dragon Frontiers|Kirlia δ|33|Kirlia}} from the {{TCG|EX Dragon Frontiers}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dressella (Mega-Aufstieg 018)]]
+[[es:Lilligant (Megaascenso TCG Pocket)]]
+[[fr:Fragilady (Méga-Ascension 018)]]
+[[it:Lilligant (Mega Ascesa 18)]]
+[[ja:ドレディア (ポケポケ B1)]]
+[[zh:裙儿小姐（B1）]]

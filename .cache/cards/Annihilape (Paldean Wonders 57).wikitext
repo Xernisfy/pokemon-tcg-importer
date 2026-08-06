@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Annihilape
+|ja name=コノヨザル
+|trans name=Konoyozaru
+|species=Annihilape
+|type=Fighting
+|image=AnnihilapePaldeanWonders57.png
+|illustrator=Anesaki Dynamic
+|hp=140
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Primeape
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=057/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Annihilape''' (Japanese: '''コノヨザル''' ''Konoyozaru'') is a {{ct|Fighting}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Dynamite Punch
+|jname=ダイナマイトパンチ
+|jtrans=Dynamite Punch
+|damage=90
+|effect=This Pokémon also does 30 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Annihilape
+|category=Rage Monkey
+|ndex=0979
+|height=3'11"
+|jheight=1.2
+|weight=123.5
+|jweight=56.0
+|dex=It imbues its fists with the power of the rage that it kept hidden in its heart. Opponents struck by these imbued fists will be shattered to their core.
+|jdex=心に 秘めた 怒りのパワーを こぶしに 込めて 叩きつけると 相手を 骨の髄から 砕く。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Annihilape|109}} from the {{TCG|Scarlet & Violet}} expansion.
+*'''Dynamite Punch''' is an attack that first appeared on {{TCG ID|Primal Clash|Nidoqueen|69}} from the {{TCG|Primal Clash}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Epitaff (Wundervolles Paldea 057)]]
+[[fr:Courrousinge (Merveilles de Paldea 057)]]
+[[it:Annihilape (Meraviglie di Paldea 57)]]
+[[ja:コノヨザル (ポケポケ B2a)]]
+[[zh:弃世猴（B2a）]]

@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Vileplume
+|ja name=ラフレシア
+|trans name=Ruffresia
+|species=Vileplume
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VileplumeGeneticApex13.png|illustrator=Kyoko Umemoto|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VileplumeCrimsonBlaze90.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=140
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Gloom
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Charizard|rarity=Diamond|rarity count=3|number=013/226}}
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=090/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Vileplume''' (Japanese: '''ラフレシア''' ''Ruffresia'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=Soothing Scent
+|jname=アロマスリープ
+|jtrans=Aroma Sleep
+|damage=80
+|effect=Your opponent's Active Pokémon is now {{TCG|Asleep}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Vileplume
+|species=Flower
+|ndex=0045
+|height=3'11"
+|jheight=1.2
+|weight=41
+|jweight=18.6
+|dex=It has the world's largest petals. With every step, the petals shake out heavy clouds of toxic pollen.
+|jdex=世界一　大きな　花びらは 歩くたびに　揺れて　大量の 毒花粉を　ばらまいてしまう｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=VileplumeGeneticApex13.png
+|caption1=Rare card<br>Illus. [[Kyoko Umemoto]]
+|image2=VileplumeCrimsonBlaze90.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Aquapolis|Vileplume|43}} from the {{TCG|Aquapolis}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Vileplume}}.
+*'''Soothing Scent''' is an attack that first appeared on {{TCG ID|Neo Genesis|Meganium|11}} from the {{TCG|Neo Genesis}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Giflor (Unschlagbare Gene 013)]]
+[[es:Vileplume (Genes Formidables TCG Pocket)]]
+[[fr:Rafflesia (Puissance Génétique 013)]]
+[[it:Vileplume (Geni Supremi 13)]]
+[[ja:ラフレシア (ポケポケ A1)]]
+[[zh:霸王花（A1）]]

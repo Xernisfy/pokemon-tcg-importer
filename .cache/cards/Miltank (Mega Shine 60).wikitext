@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Miltank
+|ja name=ミルタンク
+|trans name=Miltank
+|species=Miltank
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MiltankMegaShine60.png|illustrator=Miki Tanaka|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MiltankMegaShine75.png|illustrator=Yuu Nishida|tab caption=Illustration Rare}}
+|hp=110
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=060/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=075/069|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Miltank''' (Japanese: '''ミルタンク''' ''Miltank'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Rout
+|jname=けちらす
+|jtrans=Rout
+|damage=10+
+|effect=This attack does 20 more damage for each of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Miltank
+|category=Milk Cow
+|ndex=0241
+|height=3'11"
+|jheight=1.2
+|weight=166.4
+|jweight=75.5
+|dex=This Pokémon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons.
+|jdex=毎日　ミルクを　搾らないと 具合が　悪くなる｡　ミルクの　味は 季節によって　変わるぞ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=MiltankMegaShine60.png
+|caption1=Uncommon card<br>Illus. [[Miki Tanaka]]
+|image2=MiltankMegaShine75.png
+|caption2=Illustration rare card<br>Illus. [[Yuu Nishida]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|HeartGold & SoulSilver|Miltank|47}} from the {{TCG|HeartGold & SoulSilver}} expansion.
+*This card's illustration rare artwork was first featured on {{TCG ID|Crown Zenith|Miltank|GG24}} from the {{TCG|Crown Zenith}} expansion.
+**Both cards have the '''Rout''' attack, which first appeared on {{TCG ID|Evolving Skies|Slaking|131}} from the {{TCG|Evolving Skies}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Miltank (Mega-Schillern 060)]]
+[[fr:Écrémeuh (Méga-Rayonnement 060)]]
+[[it:Miltank (Mega Splendore 60)]]
+[[ja:ミルタンク (ポケポケ B2b)]]
+[[zh:大奶罐（B2b）]]

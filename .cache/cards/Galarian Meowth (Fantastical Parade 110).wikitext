@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Galarian Meowth
+|ja name=ガラルジグザグマ
+|trans name=Galarian Nyarth
+|species=Meowth
+|type=Metal
+|image=GalarianMeowthFantasticalParade110.png
+|illustrator=0313
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=110/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Galarian Meowth''' (Japanese: '''ガラルジグザグマ''' ''Galarian Nyarth'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}
+|name=Slash
+|jname=きりさく
+|jtrans=Slash
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Meowth
+|category=Scratch Cat
+|ndex=0052
+|height=1'4"
+|jheight=0.4
+|weight=16.5
+|jweight=7.5
+|dex=These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.
+|jdex=額の 小判は より 黒いほど 硬く 仲間から 尊敬される。 勇猛で 恐れを 知らない。
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Galarian form]] of {{p|Meowth}}.
+*This card's illustration was first featured on {{TCG ID|Fusion Strike|Galarian Meowth|180}} from the {{TCG|Fusion Strike}} expansion.
+*{{m|Slash}} is a [[move]] in the [[Pokémon games]] that Galarian Meowth can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Galar-Mauzi (Traumhafte Parade 110)]]
+[[fr:Miaouss de Galar (Parade Onirique 110)]]
+[[it:Meowth di Galar (Parata Fantasmagorica 110)]]
+[[ja:ガラルニャース (ポケポケ B2)]]
+[[zh:伽勒尔 喵喵（B2）]]

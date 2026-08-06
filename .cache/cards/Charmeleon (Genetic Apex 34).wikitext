@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Charmeleon
+|ja name=リザード
+|trans name=Lizardo
+|species=Charmeleon
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharmeleonGeneticApex34.png|illustrator=kantaro|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharmeleonDeluxePackex58.png|illustrator=kantaro|tab caption=Parallel}}
+|hp=90
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Charmander
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=034/226|pack=Charizard|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=057/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=058/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Charmeleon''' (Japanese: '''リザード''' ''Lizardo'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}{{e|Colorless}}
+|name=Fire Claws
+|jname=ほのおのツメ
+|jtrans=Flame Claws
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Charmeleon
+|species=Flame
+|ndex=0005
+|height=3'7"
+|jheight=1.1
+|weight=41.9
+|jweight=19.0
+|dex=It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.
+|jdex=燃える　しっぽを　振りまわし するどい　ツメで　相手を 切り裂く　荒々しい　性格｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=CharmeleonGeneticApex34.png
+|caption1=Standard card<br>Illus. [[kantaro]]
+|image2=CharmeleonDeluxePackex58.png
+|caption2=Parallel foil card<br>Illus. [[kantaro]]
+}}
+
+==Trivia==
+===Origin===
+*'''Fire Claws''' is an attack that first appeared on {{TCG ID|Gym Challenge|Blaine's Charmeleon|31}} from the {{TCG|Gym Challenge}} expansion.<ref group="nb">Blaine's Charmeleon uses hiragana (ほのおのつめ) for the Japanese attack name, while all subsequent instances use katakana (ほのおのツメ) instead.</ref>
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+==Notes==
+{{reflist|group=nb}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Glutexo (Unschlagbare Gene 034)]]
+[[es:Charmeleon (Genes Formidables TCG Pocket)]]
+[[fr:Reptincel (Puissance Génétique 034)]]
+[[it:Charmeleon (Geni Supremi 34)]]
+[[ja:リザード (ポケポケ A1)]]
+[[zh:火恐龙（A1）]]

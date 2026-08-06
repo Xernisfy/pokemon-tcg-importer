@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Herdier
+|ja name=ハーデリア
+|trans name=Herderrie
+|species=Herdier
+|type=Colorless
+|image=HerdierMegaRising202.png
+|illustrator=sui
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Lillipup
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=202/226|pack=Mega Altaria|rarity=Diamond|rarity count=2}}
+}}
+
+'''Herdier''' (Japanese: '''ハーデリア''' ''Herderrie'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Headbutt Bounce
+|jname=とびだしヘッド
+|jtrans=Head Thrust
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Herdier
+|category=Loyal Dog
+|ndex=0507
+|height=2'11"
+|jheight=0.9
+|weight=32.4
+|jweight=14.7
+|dex=The black fur that covers this Pokémon's body is dense and springy. Even sharp fangs bounce right off.
+|jdex=体を 覆う 黒い 毛は ぶ厚く 弾力が ある。 するどい キバも 弾き返すぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Herdier|104}} from the {{TCG|Sun & Moon}} expansion.
+*'''Headbutt Bounce''' is an attack that first appeared on {{TCG ID|Boundaries Crossed|Wobbuffet|58}} from the {{TCG|Boundaries Crossed}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Terribark (Mega-Aufstieg 202)]]
+[[es:Herdier (Megaascenso TCG Pocket)]]
+[[fr:Ponchien (Méga-Ascension 202)]]
+[[it:Herdier (Mega Ascesa 202)]]
+[[ja:ハーデリア (ポケポケ B1)]]
+[[zh:哈约克（B1）]]

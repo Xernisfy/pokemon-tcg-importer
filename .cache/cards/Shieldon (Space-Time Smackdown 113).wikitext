@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Shieldon
+|ja name=タテトプス
+|trans name=Tatetops
+|species=Shieldon
+|type=Metal
+|image=ShieldonSpace-TimeSmackdown113.png
+|illustrator=Kouki Saitou
+|hp=100
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Armor Fossil
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=113/155|pack=Palkia|rarity=Diamond|rarity count=2}}
+}}
+
+'''Shieldon''' (Japanese: '''タテトプス''' ''Tatetops'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Colorless}}
+|name=Headbutt
+|jname=ずつき
+|jtrans=Headbutt
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Shieldon
+|species=Shield
+|ndex=0410
+|height=1'8"
+|jheight=0.5
+|weight=125.7
+|jweight=57.0
+|dex=A mild-mannered, herbivorous Pokémon, it used its face to dig up tree roots to eat. The skin on its face was plenty tough.
+|jdex=草食の おとなしい ポケモン。 丈夫な 顔の 皮膚で 地面を 掘り 木の根っこなども 食っていた。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Mysterious Treasures|Shieldon|63}} from the {{TCG|Mysterious Treasures}} expansion.
+*{{m|Headbutt}} is a [[move]] in the [[Pokémon games]] that {{p|Shieldon}} can learn as an [[Egg Move]], or via [[Move Tutor]] in [[Generation IV]].
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schilterus (Kollision von Raum und Zeit 113)]]
+[[es:Shieldon (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Dinoclier (Choc Spatio-Temporel 113)]]
+[[it:Shieldon (Scontro Spaziotemporale 113)]]
+[[ja:タテトプス (ポケポケ A2)]]
+[[zh:盾甲龙（A2）]]

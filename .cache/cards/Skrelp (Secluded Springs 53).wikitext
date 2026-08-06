@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Skrelp
+|ja name=クズモー
+|trans name=Kuzumo
+|species=Skrelp
+|type=Darkness
+|image=SkrelpSecludedSprings53.png
+|illustrator=Yukiko Baba
+|hp=50
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=053/071|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Skrelp''' (Japanese: '''クズモー''' ''Kuzumo'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Melt
+|jname=とかす
+|jtrans=Dissolve
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Skrelp
+|category=Mock Kelp
+|ndex=0690
+|height=1'8"
+|jheight=0.5
+|weight=16.1
+|jweight=7.3
+|dex=Skrelp evades its enemies by hiding amid drifting seaweed. It eats rotten seaweed to create its poison.
+|jdex=海に 漂う 藻屑に 紛れて 敵の 目を ごまかす。 腐った 海藻を 食べて 毒を 作る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BREAKpoint|Skrelp|63}} from the {{TCG|BREAKpoint}} expansion.
+*'''Melt''' is an attack that first appeared on {{TCG ID|Ancient Origins|Sliggoo|59}} from the {{TCG|Ancient Origins}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Algitt (Verborgene Quelle 053)]]
+[[es:Skrelp (Manantial Oculto TCG Pocket)]]
+[[fr:Venalgue (Source Secrète 053)]]
+[[it:Skrelp (Sorgenti Recondite 53)]]
+[[ja:クズモー (ポケポケ A4a)]]
+[[zh:垃垃藻（A4a）]]

@@ -1,0 +1,56 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Memory Light
+|ja name=メモリーライト
+|trans name=Memory Light
+|subtype=Pokémon Tool
+|image=MemoryLightSecludedSprings68.png
+|illustrator=Studio Bora Inc.
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=068/071|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Memory Light''' (Japanese: '''メモリーライト''' ''Memory Light'') is a {{TCGP|Pokémon Tool}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Tool
+|rule=Pocket Tool
+|effect=The Pokémon this card is attached to can use any attack from its previous Evolutions. ''(You still need the necessary Energy to use each attack.)''
+}}
+
+==Trivia==
+* Upon release, while Memory Light would allow {{TCG ID|Space-Time Smackdown|Starly|132}}'s Evolutions to use its Pluck attack, the attack would fail to remove the opponent's attached {{TCGP|Pokémon Tool}}. This was identified as a bug in an in-game notice published on September 10, 2025.<ref name="MemoryLightNotices" />
+* This card's effect is identical to that of the {{TCG|Memory Capsule}} card in the [[Pokémon Trading Card Game]].
+
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Pokémon Tool color}}|bordercolor={{TCG Pokémon Tool color dark}}|textcolor=FFF
+|ja=メモリーライト ''Memory Light''
+|zh_yue=記憶燈泡 ''Geiyīk Dāngpāau''
+|zh_cmn=記憶燈泡 ''Jìyì Dēngpào''
+|fr=Lumière Mémoire
+|de=Gedächtnislicht
+|it=Luce della Memoria
+|ko=메모리 라이트 ''Memory Light''
+|pt_br=Lâmpada da Memória
+|es=Luz Evocadora
+}}
+
+==References==
+<references>
+<ref name="MemoryLightNotices">We are aware of the following issue.
+*When you attach the Memory Light Pokémon Tool to Staravia or Staraptor and use the Pluck attack from their previous Evolution, Starly, the effect of that attack does not trigger.
+<p>We plan to fix this issue in a future update.<br>
+We apologize for any inconvenience.</p></ref>
+</references>
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gedächtnislicht (TCG Pocket)]]
+[[es:Luz Evocadora (TCG Pocket)]]
+[[fr:Lumière Mémoire (Source Secrète 068)]]
+[[it:Luce della Memoria (Sorgenti Recondite 68)]]
+[[ja:メモリーライト]]
+[[zh:記憶燈泡（TCGP）]]

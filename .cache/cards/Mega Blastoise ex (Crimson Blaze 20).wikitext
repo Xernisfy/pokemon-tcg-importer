@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Blastoise {{TCGP Icon|Mega ex}}
+|ja name=メガカメックス{{TCGP Icon|Mega ex}}
+|trans name=Mega Kamex {{TCGP Icon|Mega ex}}
+|species=Blastoise
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaBlastoiseexCrimsonBlaze20.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaBlastoiseexCrimsonBlaze78.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaBlastoiseexCrimsonBlaze84.png|illustrator=Kazumasa Yasukuni|tab caption=Special Illustration Rare}}
+|hp=230
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Wartortle
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=020/069|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=078/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=084/069|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Mega Blastoise ex''' (Japanese: '''メガカメックスex''' ''Mega Kamex ex'') is a {{ct|Water}} Stage 2 {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Mega Species/Pocket|Blastoise}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Triple Bombardment
+|jname=トリプルボンバード
+|jtrans=Triple Bombard
+|damage=130
+|effect=If this Pokémon has at least 3 extra {{e|Water}} Energy attached, this attack also does 50 damage to 2 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Water
+|ndex=0009
+|name=Blastoise
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Blastoise
+|category=Shellfish
+|ndex=0009
+|height=5'3"
+|jheight=1.6
+|weight=222.9
+|jweight=101.1
+|dex=The cannon on its back is as powerful as a tank gun. Its tough legs and back enable it to withstand the recoil from firing the cannon.
+|jdex=甲羅の 大砲は 戦車並みの 威力。 発射の 衝撃を 強靭な 足腰で 踏ん張る。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=MegaBlastoiseexCrimsonBlaze20.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=MegaBlastoiseexCrimsonBlaze78.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=MegaBlastoiseexCrimsonBlaze84.png
+|caption3=Special illustration rare card<br>Illus. [[Kazumasa Yasukuni]]
+}}
+
+==Trivia==
+===Origin===
+*This card features [[Mega]] {{p|Blastoise}}.
+*This card's [[Pokédex]] entry comes from {{LGPE}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Turtok-ex (Feuerrote Flammen 020)]]
+[[es:Mega-Blastoise ex (Fuego Carmesí TCG Pocket)]]
+[[fr:Méga-Tortank-ex (Embrasement Écarlate 020)]]
+[[it:Mega Blastoise-ex (Fiamme Cremisi 20)]]
+[[ja:メガカメックスex (ポケポケ B1a)]]
+[[zh:超级水箭龟ex（B1a）]]

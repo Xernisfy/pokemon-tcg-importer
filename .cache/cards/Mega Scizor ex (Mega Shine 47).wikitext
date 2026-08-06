@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Scizor {{TCGP Icon|Mega ex}}
+|ja name=メガハッサム{{TCGP Icon|Mega ex}}
+|trans name=Mega Hassam {{TCGP Icon|Mega ex}}
+|species=Scizor
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaScizorexMegaShine47.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaScizorexMegaShine80.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaScizorexMegaShine115.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=200
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Scyther
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=047/069|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=080/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=115/069|pack=Any|rarity=Shiny|rarity count=2}}
+}}
+
+'''Mega Scizor ex''' (Japanese: '''メガハッサムex''' ''Mega Hassam ex'') is a {{ct|Metal}} Stage 1 {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Colorless}}
+|name=Bullet Slugger
+|jname=バレットスラッガー
+|jtrans=Bullet Slugger
+|damage=100+
+|effect=If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Metal
+|ndex=0212
+|name=Scizor
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Scizor
+|category=Pincer
+|ndex=0212
+|height=6'7"
+|jheight=2.0
+|weight=275.6
+|jweight=125.0
+|dex=Due to the effects of Mega Evolution, its pincers have taken on a more diabolical form, ripping anything they pinch to shreds.
+|jdex=メガシンカの 影響で ハサミは 挟んだ ものを ズタズタに 裂く 凶悪な 形に 変化した。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=MegaScizorexMegaShine47.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=MegaScizorexMegaShine80.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=MegaScizorexMegaShine115.png
+|caption3=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{me|Scizor}}.
+*This card's shiny super rare illustration features a {{Shiny}} Mega Scizor.
+*This card's [[Pokédex]] entry comes from {{g|Legends Z-A}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Scherox-ex (Mega-Schillern 047)]]
+[[fr:Méga-Cizayox-ex (Méga-Rayonnement 047)]]
+[[it:Mega Scizor-ex (Mega Splendore 47)]]
+[[ja:メガハッサムex (ポケポケ B2b)]]
+[[zh:超级巨钳螳螂ex（B2b）]]

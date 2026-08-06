@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Jirachi
+|ja name=ジラーチ
+|trans name=Jirachi
+|species=Jirachi
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JirachiMegaRising106.png|illustrator=Sanosuke Sakuma|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JirachiPromo-B25.png|illustrator=Rond|tab caption=Promo}}
+|hp=50
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=106/226|pack=Mega Altaria|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=025/P-B}}
+}}
+
+'''Jirachi''' (Japanese: '''ジラーチ''' ''Jirachi'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Star Drop
+|jname=ほしおとし
+|jtrans=Star Fall
+|damage=
+|effect=This attack does 30 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Jirachi
+|category=Wish
+|ndex=0385
+|height=1'
+|jheight=0.3
+|weight=2.4
+|jweight=1.1
+|dex=It is said to have the ability to grant any wish for just one week every thousand years.
+|jdex=1000年間で 7日だけ 目を 覚まし どんな 願い事でも かなえる 力を 使うという。
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} print of this card was available from February 1 to 28, 2026 as a login reward from the monthly {{DL|Mission (TCG Pocket)|Premium Missions}}.
+
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=JirachiMegaRising106.png
+|caption1=Rare card<br>Illus. [[Sanosuke Sakuma]]
+|image2=JirachiPromo-B25.png
+|caption2={{TCGP|Promo-B}} card<br>Illus. [[Rond]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Roaring Skies|Jirachi|42}} from the {{TCG|Roaring Skies}} expansion.
+*'''Star Drop''' is an attack that first appeared on {{TCG ID|Celestial Guardians|Minior|105}} from the {{TCGP|Celestial Guardians}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Jirachi (Mega-Aufstieg 106)]]
+[[es:Jirachi (Megaascenso TCG Pocket)]]
+[[fr:Jirachi (Méga-Ascension 106)]]
+[[it:Jirachi (Mega Ascesa 106)]]
+[[ja:ジラーチ (ポケポケ B1)]]
+[[zh:基拉祈（B1）]]

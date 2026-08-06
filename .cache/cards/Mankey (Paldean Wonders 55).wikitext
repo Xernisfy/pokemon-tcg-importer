@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mankey
+|ja name=マンキー
+|trans name=Mankey
+|species=Mankey
+|type=Fighting
+|image=MankeyPaldeanWonders55.png
+|illustrator=nagimiso
+|hp=60
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=055/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Mankey''' (Japanese: '''マンキー''' ''Mankey'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Fury Swipes
+|jname=みだれひっかき
+|jtrans=Fury Swipes
+|damage=10×
+|effect=Flip 3 coins. This attack does 10 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Mankey
+|category=Pig Monkey
+|ndex=0056
+|height=1'8"
+|jheight=0.5
+|weight=61.7
+|jweight=28.0
+|dex=It is extremely quick to anger. It could be docile one moment, then thrashing away the next instant.
+|jdex=普段は 機嫌が 良くても ちょっとしたことで いきなり 暴れだすから 怖いのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Mankey|107}} from the {{TCG|Scarlet & Violet}} expansion.
+*{{m|Fury Swipes}} is a [[move]] in the [[Pokémon games]] that {{p|Mankey}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Menki (Wundervolles Paldea 055)]]
+[[fr:Férosinge (Merveilles de Paldea 055)]]
+[[it:Mankey (Meraviglie di Paldea 55)]]
+[[ja:マンキー (ポケポケ B2a)]]
+[[zh:猴怪（B2a）]]

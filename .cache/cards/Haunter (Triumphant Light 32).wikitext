@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Haunter
+|ja name=ゴースト
+|trans name=Ghost
+|species=Haunter
+|type=Psychic
+|image=HaunterTriumphantLight32.png
+|illustrator=Eri Yamaki
+|hp=80
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Gastly
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=032/075|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Haunter''' (Japanese: '''ゴースト''' ''Ghost'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Mumble
+|jname=つぶやく
+|jtrans=Murmur
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Haunter
+|species=Gas
+|ndex=0093
+|height=5'3"
+|jheight=1.6
+|weight=0.2
+|jweight=0.1
+|dex=It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.
+|jdex=暗闇にまぎれ　ガスの手を　伸ばし 人の肩を　叩くのが　好き｡ 触られると　震えが　止まらない｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Crimson Invasion|Haunter|37}} from the {{TCG|Crimson Invasion}} expansion.
+*'''Mumble''' is an attack that first appeared on {{TCG ID|Great Encounters|Whismur|94}} from the {{TCG|Great Encounters}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alpollo (Licht des Triumphs 032)]]
+[[es:Haunter (Luz Triunfal TCG Pocket)]]
+[[fr:Spectrum (Lumière Triomphale 032)]]
+[[it:Haunter (Luce Trionfale 32)]]
+[[ja:ゴースト (ポケポケ A2a)]]
+[[zh:鬼斯通（A2a）]]

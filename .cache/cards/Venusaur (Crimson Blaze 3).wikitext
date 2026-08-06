@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Venusaur
+|ja name=フシギバナ
+|trans name=Fushigibana
+|species=Venusaur
+|type=Grass
+|image=VenusaurCrimsonBlaze3.png
+|illustrator=Eske Yoshinob
+|hp=160
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Ivysaur
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=003/069|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Venusaur''' (Japanese: '''フシギバナ''' ''Fushigibana'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}{{e|Colorless}}
+|name=Poisonous Whip
+|jname=どくのムチ
+|jtrans=Poison Whip
+|damage=90
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Venusaur
+|species=Seed
+|ndex=0002
+|height=3'3"
+|jheight=1.0
+|weight=28.7
+|jweight=13.0
+|dex=A bewitching aroma wafts from its flower. The fragrance becalms those engaged in a battle. 
+|jdex=花から うっとりする 香りが ただよい 戦うものの 気持ちを なだめてしまう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Shining Legends|Venusaur|3}} from the {{TCG|Shining Legends}} expansion.
+*'''Poisonous Whip''' is an attack that first appeared as '''Poison Whip''' on the initially exclusive {{TCG ID|Pokémon Web|Tangela|5}} from {{vg|Pokémon Trading Card Game}} for the [[Game Boy Color]].
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bisaflor (Feuerrote Flammen 003)]]
+[[es:Venusaur (Fuego Carmesí TCG Pocket)]]
+[[fr:Florizarre (Embrasement Écarlate 003)]]
+[[it:Venusaur (Fiamme Cremisi 3)]]
+[[ja:フシギバナ (ポケポケ B1a)]]
+[[zh:妙蛙花（B1a）]]

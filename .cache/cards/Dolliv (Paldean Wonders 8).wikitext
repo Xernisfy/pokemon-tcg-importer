@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dolliv
+|ja name=オリーニョ
+|trans name=Olinyo
+|species=Dolliv
+|type=Grass
+|image=DollivPaldeanWonders8.png
+|illustrator=Mizue
+|hp=90
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Smoliv
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=008/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Dolliv''' (Japanese: '''オリーニョ''' ''Olinyo'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Seed Bomb
+|jname=タネばくだん
+|jtrans=Seed Bomb
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Dolliv
+|category=Olive
+|ndex=0929
+|height=2'
+|jheight=0.6
+|weight=26.2
+|jweight=11.9
+|dex=Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.
+|jdex=フレッシュな 香りの 美味しい オイルを 分けてくれる。 古くから 人間と 共存してきた。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Obsidian Flames|Dolliv|20}} from the {{TCG|Obsidian Flames}} expansion.
+*{{m|Seed Bomb}} is a [[move]] in the [[Pokémon games]] that {{p|Dolliv}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Olivinio (Wundervolles Paldea 008)]]
+[[fr:Olivado (Merveilles de Paldea 008)]]
+[[it:Dolliv (Meraviglie di Paldea 8)]]
+[[ja:オリーニョ (ポケポケ B2a)]]
+[[zh:奥利纽（B2a）]]

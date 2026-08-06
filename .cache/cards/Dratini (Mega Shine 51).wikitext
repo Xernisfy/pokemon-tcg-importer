@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dratini
+|ja name=ミニリュウ
+|trans name=Miniryu
+|species=Dratini
+|type=Dragon
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DratiniMegaShine51.png|illustrator=Kouki Saitou|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DratiniMegaShine105.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=60
+|weakness=
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=051/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=105/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Dratini''' (Japanese: '''ミニリュウ''' ''Miniryu'') is a {{ct|Dragon}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Colorless}}
+|name=Tail Strike
+|jname=しっぽでつく
+|jtrans=Tail Strike
+|damage=10+
+|effect=Flip a coin. If heads, this attack does 20 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Dratini
+|category=Dragon
+|ndex=0147
+|height=5'11"
+|jheight=1.8
+|weight=7.3
+|jweight=3.3
+|dex=It is born large to start with. It repeatedly sheds its skin as it steadily grows longer.
+|jdex=生まれたときから　すでに　大きい｡ 脱皮を　繰り返しては どんどん　育って　長くなる｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Dragon
+|image1=DratiniMegaShine51.png
+|caption1=Common card<br>Illus. [[Kouki Saitou]]
+|image2=DratiniMegaShine105.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|T Promo|Dratini|16}}, a {{TCG|T Promotional cards|T Promotional card}} only released in Japan.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Dratini}}.
+*'''Tail Strike''' is an attack that first appeared on {{TCG ID|Team Rocket|Dark Dragonair|33}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dratini (Mega-Schillern 051)]]
+[[fr:Minidraco (Méga-Rayonnement 051)]]
+[[it:Dratini (Mega Splendore 51)]]
+[[ja:ミニリュウ (ポケポケ B2b)]]
+[[zh:迷你龙（B2b）]]

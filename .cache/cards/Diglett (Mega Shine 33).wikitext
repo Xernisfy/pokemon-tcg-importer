@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Diglett
+|ja name=ディグダ
+|trans name=Digda
+|species=Diglett
+|type=Fighting
+|image=DiglettMegaShine33.png
+|illustrator=Kyoko Umemoto
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=033/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Diglett''' (Japanese: '''ディグダ''' ''Digda'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Slight Intrusion
+|jname=ちょっとつっこむ
+|jtrans=Little Thrust
+|damage=30
+|effect=This Pokémon also does 10 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Diglett
+|category=Mole
+|ndex=0050
+|height=8"
+|jheight=0.2
+|weight=1.8
+|jweight=0.8
+|dex=Its skin is very thin. If it is exposed to light, its blood heats up, causing it to grow weak.
+|jdex=皮膚が　とても　薄いので 光に　照らされると　血液が 温められて　弱ってしまう｡
+}}
+
+==Trivia==
+[[Kyoko Umemoto]] illustrated both a {{TCG ID|EX Crystal Guardians|Diglett|50}} card and a {{TCG ID|Sword & Shield|Dugtrio|93}} card for the [[Pokémon Trading Card Game]]; though the cards did not originally release together in the TCG—being released in 2006 and 2020 respectively—their illustrations were later included alongside each other in Pokémon Trading Card Game Pocket's {{TCGP|Mega Shine}} expansion. {{TCG ID|Mega Shine|Dugtrio|34}}'s illustration references the Diglett from this card's illustration in its background.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Crystal Guardians|Diglett|50}} from the {{TCG|EX Crystal Guardians}} expansion.
+*'''Slight Intrusion''' is an attack that first appeared on {{TCG ID|Roaring Skies|Nincada|9}} from the {{TCG|Roaring Skies}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Digda (Mega-Schillern 033)]]
+[[fr:Taupiqueur (Méga-Rayonnement 033)]]
+[[it:Diglett (Mega Splendore 33)]]
+[[ja:ディグダ (ポケポケ B2b)]]
+[[zh:地鼠（B2b）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Combusken
+|ja name=ワカシャモ
+|trans name=Wakasyamo
+|species=Combusken
+|type=Fire
+|image=CombuskenMegaRising34.png
+|illustrator=GOSSAN
+|hp=80
+|weakness=Water
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Torchic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=034/226|pack=Mega Blaziken|rarity=Diamond|rarity count=2}}
+}}
+
+'''Combusken''' (Japanese: '''ワカシャモ''' ''Wakasyamo'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=High Jump Kick
+|jname=とびひざげり
+|jtrans=Jumping Knee Kick
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Combusken
+|category=Young Fowl
+|ndex=0256
+|height=2'11"
+|jheight=0.9
+|weight=43
+|jweight=19.5
+|dex=During a battle, the hot flame in its body increases. Its kicks have outstanding destructive power.
+|jdex=戦いに なると 体内の 炎が 激しく 燃え上がる。 キックは 破壊力 抜群だ。
+}}
+
+==Trivia==
+===Origin===
+*{{m|High Jump Kick}} is a [[move]] in the [[Pokémon games]] that {{p|Combusken}} cannot learn.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Jungglut (Mega-Aufstieg 034)]]
+[[es:Combusken (Megaascenso TCG Pocket)]]
+[[fr:Galifeu (Méga-Ascension 034)]]
+[[it:Combusken (Mega Ascesa 34)]]
+[[ja:ワカシャモ (ポケポケ B1)]]
+[[zh:力壮鸡（B1）]]

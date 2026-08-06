@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Blitzle
+|ja name=シママ
+|trans name=Shimama
+|species=Blitzle
+|type=Lightning
+|image=BlitzleExtradimensionalCrisis16.png
+|illustrator=Miki Tanaka
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=016/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Blitzle''' (Japanese: '''シママ''' ''Shimama'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Rear Kick
+|jname=うしろげり
+|jtrans=Rear Kick
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Blitzle
+|species=Electrified
+|ndex=0522
+|height=2'7"
+|jheight=0.8
+|weight=65.7
+|jweight=29.8
+|dex=When thunderclouds cover the sky, it will appear. It can catch lightning with its mane and store the electricity.
+|jdex=雷雲で　空が　覆われると 現れる｡　たてがみで　雷を キャッチして　電気を　ためる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Blitzle|81}} from the {{TCG|Lost Thunder}} expansion.
+*'''Rear Kick''' is an attack that first appeared on {{TCG ID|Team Rocket|Dark Rapidash|44}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Omega Ruby}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Elezeba (Dimensionale Krise 016)]]
+[[es:Blitzle (Crisis Dimensional TCG Pocket)]]
+[[fr:Zébibron (Crise Interdimensionnelle 016)]]
+[[it:Blitzle (Crisi Ultradimensionale 16)]]
+[[ja:シママ (ポケポケ A3a)]]
+[[zh:斑斑马（A3a）]]

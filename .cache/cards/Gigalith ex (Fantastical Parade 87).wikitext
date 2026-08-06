@@ -1,0 +1,64 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gigalith {{TCGP Icon|ex}}
+|ja name=ギガイアス{{TCGP Icon|ex}}
+|trans name=Gigaiath {{TCGP Icon|ex}}
+|species=Gigalith
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GigalithexFantasticalParade87.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GigalithexFantasticalParade187.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GigalithexFantasticalParade200.png|illustrator=Takumi Wada|tab caption=Special Illustration Rare}}
+|hp=190
+|weakness=Grass
+|retreat cost=4
+|evo stage=Stage 2
+|prevo name=Boldore
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=087/155|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=187/155|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=200/155|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Gigalith ex''' (Japanese: '''ギガイアスex''' ''Gigaiath ex'') is a {{ct|Fighting}} Stage 2 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}{{e|Fighting}}
+|name=Megaton Cannon
+|jname=メガトンキャノン
+|jtrans=Megaton Cannon
+|damage=
+|effect=This attack does 140 damage to 1 of your opponent's Pokémon. During your next turn, this Pokémon can't attack.
+}}
+{{Cardtext/Pocket ex
+|type=Fighting
+|ndex=0526
+|name=Gigalith
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=GigalithexFantasticalParade87.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=GigalithexFantasticalParade187.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=GigalithexFantasticalParade200.png
+|caption3=Special illustration rare card<br>Illus. [[Takumi Wada]]
+}}
+
+==Trivia==
+===Origin===
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Brockoloss-ex (Traumhafte Parade 087)]]
+[[fr:Gigalithe-ex (Parade Onirique 087)]]
+[[it:Gigalith-ex (Parata Fantasmagorica 87)]]
+[[ja:ギガイアスex (ポケポケ B2)]]
+[[zh:庞岩怪ex（B2）]]

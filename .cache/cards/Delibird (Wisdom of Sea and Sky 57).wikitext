@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Delibird
+|ja name=デリバード
+|trans name=Delibird
+|species=Delibird
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DelibirdWisdomofSeaandSky57.png|illustrator=Narumi Sato|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DelibirdWisdomofSeaandSky170.png|illustrator=Mékayu|tab caption=Illustration Rare}}
+|hp=70
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=057/161|pack=Ho-Oh|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=170/161|pack=Ho-Oh|rarity=Star|rarity count=1}}
+}}
+
+'''Delibird''' (Japanese: '''デリバード''' ''Delibird'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Stumbling Draw
+|jname=ずっこけドロー
+|jtrans=Stumbling Draw
+|damage=10
+|effect=Draw a card.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Delibird
+|species=Delivery
+|ndex=0225
+|height=2'11"
+|jheight=0.9
+|weight=35.3
+|jweight=16.0
+|dex=It carries food all day long. There are tales about lost people who were saved by the food it had.
+|jdex=1日 ずっと エサを運んでる。 遭難した 人が デリバードの エサで 助かった 話もある。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=DelibirdWisdomofSeaandSky57.png
+|caption1=Uncommon card<br>Illus. [[Narumi Sato]]
+|image2=DelibirdWisdomofSeaandSky170.png
+|caption2=Illustration rare card<br>Illus. [[Mékayu]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Chilling Reign|Delibird|32}} from the {{TCG|Chilling Reign}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Botogel (Weisheit von Meer und Himmel 057)]]
+[[es:Delibird (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Cadoizo (Sagesse entre Ciel et Mer 057)]]
+[[it:Delibird (La Via del Cielo e del Mare 57)]]
+[[ja:デリバード (ポケポケ A4)]]
+[[zh:信使鸟（A4）]]

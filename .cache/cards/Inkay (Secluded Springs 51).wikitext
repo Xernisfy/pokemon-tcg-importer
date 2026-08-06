@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Inkay
+|ja name=マーイーカ
+|trans name=Maaiika
+|species=Inkay
+|type=Darkness
+|image=InkaySecludedSprings51.png
+|illustrator=miki kudo
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=051/071|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Inkay''' (Japanese: '''マーイーカ''' ''Maaiika'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Inkay
+|category=Revolving
+|ndex=0686
+|height=1'4"
+|jheight=0.4
+|weight=7.7
+|jweight=3.5
+|dex=It spins while making its luminescent spots flash. These spots allow it to communicate with others by using different patterns of light.
+|jdex=回転しながら 発光体を 点滅。 光の パターンで 仲間と コミュニケーションする。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Origin|Inkay|77}} from the {{TCG|Lost Origin}} expansion.
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Inkay}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Iscalar (Verborgene Quelle 051)]]
+[[es:Inkay (Manantial Oculto TCG Pocket)]]
+[[fr:Sepiatop (Source Secrète 051)]]
+[[it:Inkay (Sorgenti Recondite 51)]]
+[[ja:マーイーカ (ポケポケ A4a)]]
+[[zh:好啦鱿（A4a）]]

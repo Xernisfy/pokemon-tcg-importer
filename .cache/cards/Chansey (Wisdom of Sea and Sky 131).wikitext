@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Chansey
+|ja name=ラッキー
+|trans name=Lucky
+|species=Chansey
+|type=Colorless
+|image=ChanseyWisdomofSeaandSky131.png
+|illustrator=miki kudo
+|hp=100
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=131/161|pack=Ho-Oh|rarity=Diamond|rarity count=1}}
+}}
+
+'''Chansey''' (Japanese: '''ラッキー''' ''Lucky'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Scrunch
+|jname=まるまる
+|jtrans=Roll Into a Ball
+|damage=
+|effect=Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Chansey
+|category=Egg 
+|ndex=0113
+|height=3'7"
+|jheight=1.1
+|weight=76.3
+|jweight=34.6
+|dex=This kindly Pokémon lays highly nutritious eggs and shares them with injured Pokémon or people.
+|jdex=傷ついた ポケモンや 人がいると 栄養満点の タマゴを産み 分け与える 優しい ポケモン。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fusion Strike|Chansey|202}} from the {{TCG|Fusion Strike}} expansion.
+*'''Scrunch''' is an attack that first appeared on {{TCG ID|Base Set|Chansey|3}} from the {{TCG|Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Chaneira (Weisheit von Meer und Himmel 131)]]
+[[es:Chansey (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Leveinard (Sagesse entre Ciel et Mer 131)]]
+[[it:Chansey (La Via del Cielo e del Mare 131)]]
+[[ja:ラッキー (ポケポケ A4)]]
+[[zh:吉利蛋（A4）]]

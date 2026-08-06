@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wo-Chien
+|ja name=チオンジェン
+|trans name=Chionjen
+|species=Wo-Chien
+|type=Grass
+|image=Wo-ChienPaldeanWonders15.png
+|illustrator=Kouki Saitou
+|hp=120
+|weakness=Fire
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=015/093|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Wo-Chien''' (Japanese: '''チオンジェン''' ''Chionjen'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=Binding Greed
+|jname=どんよくバインド
+|jtrans=Avaricious Bind
+|damage=90
+|effect=During your opponent's next turn, attacks used by the Defending Pokémon cost 2 {{e|Colorless}} more.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Wo-Chien
+|category=Ruinous
+|ndex=1001
+|height=4'11"
+|jheight=1.5
+|weight=163.6
+|jweight=74.2
+|dex=It drains the life-force from vegetation, causing nearby forests to instantly wither and fields to turn barren.
+|jdex=草木の エネルギーを 吸い上げる。 周囲の 森は たちどころに 枯れ果て 田畑は 不作となる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Paradox Rift|Wo-Chien|18}} from the {{TCG|Paradox Rift}} expansion, as was its '''Binding Greed''' attack.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Chongjian (Wundervolles Paldea 015)]]
+[[fr:Chongjian (Merveilles de Paldea 015)]]
+[[it:Wo-Chien (Meraviglie di Paldea 15)]]
+[[ja:チオンジェン (ポケポケ B2a)]]
+[[zh:古简蜗（B2a）]]

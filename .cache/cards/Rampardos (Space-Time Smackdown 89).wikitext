@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rampardos
+|ja name=ラムパルド
+|trans name=Rampald
+|species=Rampardos
+|type=Fighting
+|image=RampardosSpace-TimeSmackdown89.png
+|illustrator=Yoshinobu Saito
+|hp=150
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Cranidos
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=089/155|pack=Dialga|rarity=Diamond|rarity count=3}}
+}}
+
+'''Rampardos''' (Japanese: '''ラムパルド''' ''Rampald'') is a {{ct|Fighting}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Head Smash
+|jname=もろはのずつき
+|jtrans=Double-Edged Headbutt
+|damage=130
+|effect=If your opponent's Pokémon is Knocked Out by damage from this attack, this Pokémon also does 50 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Rampardos
+|species=Head Butt
+|ndex=0409
+|height=5'3"
+|jheight=1.6
+|weight=226
+|jweight=102.5
+|dex=In ancient times, people would dig up fossils of this Pokémon and use its skull, which is harder than steel, to make helmets.
+|jdex=大昔の 人は 化石を 掘り出し 鋼鉄 よりも 硬い 頭蓋骨で 兜を 作っていた。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ultra Prism|Rampardos|65}} from the {{TCG|Ultra Prism}} expansion.
+*{{m|Head Smash}} is a [[move]] in the [[Pokémon games]] that {{p|Rampardos}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rameidon (Kollision von Raum und Zeit 089)]]
+[[es:Rampardos (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Charkos (Choc Spatio-Temporel 089)]]
+[[it:Rampardos (Scontro Spaziotemporale 89)]]
+[[ja:ラムパルド (ポケポケ A2)]]
+[[zh:战槌龙（A2）]]

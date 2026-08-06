@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Azumarill
+|ja name=マリルリ
+|trans name=Marilli
+|species=Azumarill
+|type=Water
+|image=AzumarillTriumphantLight15.png
+|illustrator=miki kudo
+|hp=100
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Marill
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=015/075|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Azumarill''' (Japanese: '''マリルリ''' ''Marilli'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Waterfall
+|jname=たきのぼり
+|jtrans=Waterfall Climb
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Azumarill
+|species=Aqua Rabbit
+|ndex=0184
+|height=2'7"
+|jheight=0.8
+|weight=62.8
+|jweight=28.5
+|dex=Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.
+|jdex=長い 耳は 優れた センサー。 水の中の 音を 聞き分けて なにが 動いているのか わかる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Burning Shadows|Azumarill|35}} from the {{TCG|Burning Shadows}} expansion; both cards have the Waterfall attack.
+*{{m|Waterfall}} is a [[move]] in the [[Pokémon games]] that {{p|Azumarill}} can learn via [[TM]].
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Azumarill (Licht des Triumphs 015)]]
+[[es:Azumarill (Luz Triunfal TCG Pocket)]]
+[[fr:Azumarill (Lumière Triomphale 015)]]
+[[it:Azumarill (Luce Trionfale 15)]]
+[[ja:マリルリ (ポケポケ A2a)]]
+[[zh:瑪力露麗（A2a）]]

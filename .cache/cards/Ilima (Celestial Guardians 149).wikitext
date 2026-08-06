@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Ilima
+|ja name=イリマ
+|trans name=Ilima
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=IlimaCelestialGuardians149.png|illustrator=Teeziro|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=IlimaCelestialGuardians191.png|illustrator=Teeziro|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=149/155|pack=Lunala|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=191/155|pack=Lunala|rarity=Star|rarity count=2}}
+}}
+
+'''Ilima''' (Japanese: '''イリマ''' ''Ilima'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Put 1 of your {{e|Colorless}} Pokémon that has damage on it into your hand.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=IlimaCelestialGuardians149.png
+|caption1=Uncommon card<br>Illus. [[Teeziro]]
+|image2=IlimaCelestialGuardians191.png
+|caption2=Super rare card<br>Illus. [[Teeziro]]
+}}
+
+==Trivia==
+* This card's effect is identical to that of {{TCG|Cheren's Care}} in the [[Pokémon Trading Card Game]].
+** {{TCG|Ilima}} also exists in the Pokémon Trading Card Game, but with a different effect.
+
+===Origin===
+*[[Ilima]] is a [[Trial Captain|captain]] in the [[Generation VII]] [[Pokémon games]]. The [[Verdant Cavern]] is featured in the uncommon illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=イリマ ''Ilima''
+|zh_yue=伊利馬 ''Yīleihmáh''
+|zh_cmn=伊利馬<!-- / 伊利马--> ''Yīlìmǎ''
+|fr=Althéo
+|de=Elima
+|it=Liam
+|ko=일리마 ''Illima''
+|pt_br=Luan
+|es=Liam
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Elima (TCG Pocket)]]
+[[es:Liam (TCG Pocket)]]
+[[fr:Althéo (Gardiens Astraux 149)]]
+[[it:Liam (Guardiani Astrali 149)]]
+[[ja:イリマ (ポケポケ)]]
+[[zh:伊利马（TCGP）]]

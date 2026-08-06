@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Medicham
+|ja name=チャーレム
+|trans name=Charem
+|species=Medicham
+|type=Fighting
+|image=MedichamFantasticalParade84.png
+|illustrator=Shigenori Negishi
+|hp=100
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Meditite
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=084/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Medicham''' (Japanese: '''チャーレム''' ''Charem'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}
+|name=Psykick
+|jname=サイコキック
+|jtrans=Psychokick
+|damage=50+
+|effect=If this Pokémon has any {{e|Psychic}} Energy attached, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Medicham
+|species=Meditate
+|ndex=0308
+|height=4'3"
+|jheight=1.3
+|weight=69.4
+|jweight=31.5
+|dex=It elegantly avoids attacks with dance-like steps, then launches a devastating blow in the same motion.
+|jdex=ダンスのような 優雅な 動きで 攻撃を かわして 強烈な 一撃を 相手に お見舞いする。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Medicham|110}} from the {{TCG|Unified Minds}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Meditalis (Traumhafte Parade 084)]]
+[[fr:Charmina (Parade Onirique 084)]]
+[[it:Medicham (Parata Fantasmagorica 84)]]
+[[ja:チャーレム (ポケポケ B2)]]
+[[zh:恰雷姆（B2）]]

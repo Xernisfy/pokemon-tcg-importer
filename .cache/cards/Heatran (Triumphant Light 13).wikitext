@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Heatran
+|ja name=ヒードラン
+|trans name=Heatran
+|species=Heatran
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HeatranTriumphantLight13.png|illustrator=Kazumasa Yasukuni|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HeatranDeluxePackex77.png|illustrator=Kazumasa Yasukuni|tab caption=Parallel}}
+|hp=110
+|weakness=Water
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=013/075|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=076/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=077/353|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Heatran''' (Japanese: '''ヒードラン''' ''Heatran'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Ability/Pocket
+|type=Fire
+|name=Speed Link
+|jname=スピードリンク
+|jtrans=Speed Link
+|effect=If you have {{TCGP|Arceus}} or {{DL|Arceus (TCG Pocket)|Arceus ex}} in play, this Pokémon has no {{TCG|Retreat Cost}}.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Ragin' Mad Strike
+|jname=ぶちぎれボンバー
+|jtrans=Raging Bomber
+|damage=40+
+|effect=If this Pokémon has damage on it, this attack does 40 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Heatran
+|species=Lava Dome
+|ndex=0485
+|height=5'7"
+|jheight=1.7
+|weight=948
+|jweight=430.0
+|dex=It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.
+|jdex=火山の 洞穴に 生息。十字の ツメを 食いこませて 壁や 天井を はい回る。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=HeatranTriumphantLight13.png
+|caption1=Standard card<br>Illus. [[Kazumasa Yasukuni]]
+|image2=HeatranDeluxePackex77.png
+|caption2=Parallel foil card<br>Illus. [[Kazumasa Yasukuni]]
+}}
+
+==Trivia==
+Heatran is one of eight Pokémon in the {{TCGP|Triumphant Light}} expansion to feature a {{TCGP|Link Ability}} that is active or usable while {{TCGP|Arceus|Arceus or Arceus ex}} is in play. All of these cards, along with {{TCG ID|Triumphant Light|Arceus|70}} and {{TCG ID|Triumphant Light|Arceus ex|71}} from the same expansion, have a special pattern behind the card text to symbolise their connection to Arceus and are part of the [[Triumphant Light (TCG Pocket)#Themed Collections|Themed Collection]] "Pokémon with Abilities that "Link" with Arceus".
+
+===Origin===
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Heatran (Licht des Triumphs 013)]]
+[[es:Heatran (Luz Triunfal TCG Pocket)]]
+[[fr:Heatran (Lumière Triomphale 013)]]
+[[it:Heatran (Luce Trionfale 13)]]
+[[ja:ヒードラン (ポケポケ A2a)]]
+[[zh:席多藍恩（A2a）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Jigglypuff
+|ja name=プリン
+|trans name=Purin
+|species=Jigglypuff
+|type=Colorless
+|image=JigglypuffPromo-A22.png
+|illustrator=Kurata So
+|hp=50
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=022/P-A|pack=Vol. 2}}
+}}
+
+'''Jigglypuff''' (Japanese: '''プリン''' ''Purin'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Sing
+|jname=うたう
+|jtrans=Sing
+|damage=
+|effect=Your opponent's Active Pokémon is now {{TCG|Asleep}}.
+}}
+{{Cardtext/Footer}}
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Jigglypuff
+|species=Balloon
+|ndex=0039
+|height=1'8"
+|jheight=0.5
+|weight=12.1
+|jweight=5.5
+|dex=When its huge eyes waver, it sings a mysteriously soothing melody that lulls its enemies to sleep.
+|jdex=つぶらな　瞳が　揺れるとき 眠たくなるような　不思議で 気持ちのいい　歌を　歌う｡
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 2 packs; these were made available as part of the [[Venusaur Drop Event]], which ran from November 29 to December 13, 2024.
+
+==Trivia==
+===Origin===
+*{{m|Sing}} is a [[move]] in the [[Pokémon games]] that {{p|Jigglypuff}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pummeluff (PROMO-A 022)]]
+[[es:Jigglypuff (Promo-A 22 TCG Pocket)]]
+[[fr:Rondoudou (Promo-A 022)]]
+[[it:Jigglypuff (Promo-A 22)]]
+[[ja:プリン (ポケポケ P-A)]]
+[[zh:胖丁（P-A）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Slowpoke
+|ja name=ヤドン
+|trans name=Yadon
+|species=Slowpoke
+|type=Psychic
+|image=SlowpokeWisdomofSeaandSky73.png
+|illustrator=Aya Kusube
+|hp=70
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=073/161|pack=Lugia|rarity=Diamond|rarity count=1}}
+
+}}
+
+'''Slowpoke''' (Japanese: '''ヤドン''' ''Yadon'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}
+|name=Rest
+|jname=ねむる
+|jtrans=Sleep
+|damage=
+|effect=This Pokémon is now {{TCG|Asleep}}. Heal 30 damage from it.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Slowpoke
+|category=Dopey 
+|ndex=0079
+|height=3'11"
+|jheight=1.2
+|weight=79.4
+|jweight=36.0
+|dex=It is incredibly slow and dopey. It takes five seconds for it to feel pain when under attack.
+|jdex=動きが のろく 間抜け。 叩かれても 5秒 たってから 痛さを 感じるほどだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Aquapolis|Slowpoke|108}} from the {{TCG|Aquapolis}} expansion.
+*{{m|Rest}} is a [[move]] in the [[Pokémon games]] that {{p|Slowpoke}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flegmon (Weisheit von Meer und Himmel 073)]]
+[[es:Slowpoke (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Ramoloss (Sagesse entre Ciel et Mer 073)]]
+[[it:Slowpoke (La Via del Cielo e del Mare 73)]]
+[[ja:ヤドン (ポケポケ A4)]]
+[[zh:呆呆兽（A4）]]

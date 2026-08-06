@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Stantler
+|ja name=オドシシ
+|trans name=Odoshishi
+|species=Stantler
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=StantlerWisdomofSeaandSky147.png|illustrator=sui|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=StantlerWisdomofSeaandSky183.png|illustrator=Noriaki Tanimura|tab caption=Illustration Rare}}
+|hp=80
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=147/161|pack=Ho-Oh|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=183/161|pack=Ho-Oh|rarity=Star|rarity count=1}}
+}}
+
+'''Stantler''' (Japanese: '''オドシシ''' ''Odoshishi'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Enhanced Horns
+|jname=きょうかホーン
+|jtrans=Enhanced Horn
+|damage=20+
+|effect=If this Pokémon has a {{TCGP|Pokémon Tool}} attached, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Stantler
+|category=Big Horn 
+|ndex=0234
+|height=4'7"
+|jheight=1.4
+|weight=157
+|jweight=71.2
+|dex=This Pokémon apparently used to live in much harsher environments, and thus it once had stronger psychic powers than it does now.
+|jdex=昔は 過酷な 環境で 暮らしていたため 今よりも サイコパワーが 強かったらしい。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=StantlerWisdomofSeaandSky147.png
+|caption1=Uncommon card<br>Illus. [[sui]]
+|image2=StantlerWisdomofSeaandSky183.png
+|caption2=Illustration rare card<br>Illus. [[Noriaki Tanimura]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|BREAKpoint|Stantler|91}} from the {{TCG|BREAKpoint}} expansion.
+*'''Enhanced Horns''' is an attack that first appeared on {{TCG ID|Lost Thunder|Stantler|156}} from the {{TCG|Lost Thunder}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Damhirplex (Weisheit von Meer und Himmel 147)]]
+[[es:Stantler (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Cerfrousse (Sagesse entre Ciel et Mer 147)]]
+[[it:Stantler (La Via del Cielo e del Mare 147)]]
+[[ja:オドシシ (ポケポケ A4)]]
+[[zh:惊角鹿（A4）]]

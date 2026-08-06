@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dartrix
+|ja name=フクスロー
+|trans name=Fukuthrow
+|species=Dartrix
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DartrixExtradimensionalCrisis4.png|illustrator=AKIRA EGAWA|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DartrixMegaRising291.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Rowlet
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=004/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=291/226|pack=Mega Blaziken|rarity=Shiny|rarity count=1}}
+}}
+
+'''Dartrix''' (Japanese: '''フクスロー''' ''Fukuthrow'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Skill Dive
+|jname=ちょくげきひこう
+|jtrans=Direct Hit Flight
+|damage=
+|effect=This attack does 20 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Dartrix
+|category=Blade Quill 
+|ndex=0723
+|height=2'4"
+|jheight=0.7
+|weight=35.3
+|jweight=16.0
+|dex=This narcissistic Pokémon is a clean freak. If you don't groom it diligently, it will stop listening to you.
+|jdex=ナルシストで 綺麗好き。 マメに お手入れ してあげないと いうことを 聞かなく なることも。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=DartrixExtradimensionalCrisis4.png
+|caption1=Standard card<br>Illus. [[AKIRA EGAWA]]
+|image3=DartrixMegaRising291.png
+|caption3=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Extradimensional Crisis}} illustration was first featured on {{TCG ID|Shining Fates|Dartrix|7}} from the {{TCG|Shining Fates}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Dartrix}}.
+*'''Skill Dive''' is an attack that first appeared on {{TCG ID|EX Team Rocket Returns|Dark Crobat|3}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Arboretoss (Dimensionale Krise 004)]]
+[[es:Dartrix (Crisis Dimensional TCG Pocket)]]
+[[fr:Efflèche (Crise Interdimensionnelle 004)]]
+[[it:Dartrix (Crisi Ultradimensionale 4)]]
+[[ja:フクスロー (ポケポケ A3a)]]
+[[zh:投羽枭（A3a）]]

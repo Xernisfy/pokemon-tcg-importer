@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Giratina
+|ja name=ギラティナ
+|trans name=Giratina
+|species=Giratina
+|type=Dragon
+|image=GiratinaTriumphantLight61.png
+|illustrator=Shin Nagasawa
+|hp=120
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=061/075|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Giratina''' (Japanese: '''ギラティナ''' ''Giratina'') is a {{ct|Dragon}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Grass}}{{e|Psychic}}{{e|Colorless}}
+|name=Crisis Dive
+|jname=クライシスダイブ
+|jtrans=Crisis Dive
+|damage=120
+|effect=Discard 2 random Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Giratina
+|species=Renegade
+|ndex=0487
+|height=14'9"
+|jheight=4.5
+|weight=1653.5
+|jweight=750.0
+|dex=This Pokémon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.
+|jdex=常識の 通用しない この世の 裏側にあると 言われる 破れた世界に 生息する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|SM Promo|Giratina|151}}, one of the {{TCG|SM Black Star Promos|Sun & Moon Black Star Promos}}.
+*This card features {{p|Giratina}} in its {{form|Giratina|Altered Forme}}.
+*'''Crisis Dive''' is an attack that first appeared on {{TCG ID|Ultra Prism|Giratina ♢|58}} from the {{TCG|Ultra Prism}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Giratina (Licht des Triumphs 061)]]
+[[es:Giratina (Luz Triunfal TCG Pocket)]]
+[[fr:Giratina (Lumière Triomphale 061)]]
+[[it:Giratina (Luce Trionfale 61)]]
+[[ja:ギラティナ (ポケポケ A2a)]]
+[[zh:騎拉帝納（A2a）]]

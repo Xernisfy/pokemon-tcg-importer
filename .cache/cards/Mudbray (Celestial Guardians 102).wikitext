@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mudbray
+|ja name=ドロバンコ
+|trans name=Dorobanko
+|species=Mudbray
+|type=Fighting
+|image=MudbrayCelestialGuardians102.png
+|illustrator=Saya Tsuruta
+|hp=80
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=102/155|pack=Solgaleo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Mudbray''' (Japanese: '''ドロバンコ''' ''Dorobanko'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}
+|name=Rear Kick
+|jname=うしろげり
+|jtrans=Rear Kick
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Mudbray
+|species=Donkey
+|ndex=0749
+|height=3'3"
+|jheight=1.0
+|weight=242.5
+|jweight=110.0
+|dex=This Pokémon covers itself in mud that it has regurgitated. The mud won’t dry out even if it’s exposed to the sun for a long time.
+|jdex=まとっている 泥は 食べた 土を 反芻したもの。 長時間 日差しを 浴びても 乾かないのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Burning Shadows|Mudbray|77}} from the {{TCG|Burning Shadows}} expansion.
+*'''Rear Kick''' is an attack that first appeared on {{TCG ID|Team Rocket|Dark Rapidash|44}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pampuli (Hüter des Firmaments 102)]]
+[[es:Mudbray (Guardianes Celestiales TCG Pocket)]]
+[[fr:Tiboudet (Gardiens Astraux 102)]]
+[[it:Mudbray (Guardiani Astrali 102)]]
+[[ja:ドロバンコ (ポケポケ A3)]]
+[[zh:泥驴仔（A3）]]

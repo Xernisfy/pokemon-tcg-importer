@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Flareon
+|ja name=ブースター
+|trans name=Booster
+|species=Flareon
+|type=Fire
+|image=FlareonGeneticApex45.png
+|illustrator=sui
+|hp=120
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Eevee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=045/226|pack=Charizard|rarity=Diamond|rarity count=3}}
+}}
+
+'''Flareon''' (Japanese: '''ブースター''' ''Booster'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}{{e|Colorless}}
+|name=Flamethrower
+|jname=かえんほうしゃ
+|jtrans=Flamethrower
+|damage=110
+|effect=Discard a {{e|Fire}} Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Flareon
+|species=Flame
+|ndex=0136
+|height=2'11"
+|jheight=0.9
+|weight=55.1
+|jweight=25.0
+|dex=Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees Fahrenheit.
+|jdex=吸いこんだ　空気を　体内の 炎袋に　送りこみ １７００度の　炎にして　吹く｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ancient Origins|Flareon|13}} from the {{TCG|Ancient Origins}} expansion.
+*{{m|Flamethrower}} is a [[move]] in the [[Pokémon games]] that {{p|Flareon}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flamara (Unschlagbare Gene 045)]]
+[[es:Flareon (Genes Formidables TCG Pocket)]]
+[[fr:Pyroli (Puissance Génétique 045)]]
+[[it:Flareon (Geni Supremi 45)]]
+[[ja:ブースター (ポケポケ A1)]]
+[[zh:火伊布（A1）]]

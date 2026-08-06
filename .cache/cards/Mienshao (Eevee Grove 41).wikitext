@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mienshao
+|ja name=コジョンド
+|trans name=Kojondo
+|species=Mienshao
+|type=Fighting
+|image=MienshaoEeveeGrove41.png
+|illustrator=Shibuzoh.
+|hp=90
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Mienfoo
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=041/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Mienshao''' (Japanese: '''コジョンド''' ''Kojondo'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Low Kick
+|jname=けたぐり
+|jtrans=Kick Down
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Mienshao
+|species=Martial Arts
+|ndex=0620
+|height=4'7"
+|jheight=1.4
+|weight=78.3
+|jweight=35.5
+|dex=When Mienshao comes across a truly challenging opponent, it will lighten itself by biting off the fur on its arms.
+|jdex=真の 強敵と 会うと 身軽に なるため 両手の 毛を 噛み千切り 捨ててしまう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Origin|Mienshao|104}} from the {{TCG|Lost Origin}} expansion.
+*{{m|Low Kick}} is a [[move]] in the [[Pokémon games]] that {{p|Mienshao}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wie-Shu (Evoli-Hain 041)]]
+[[es:Mienshao (Arboleda de Eevee TCG Pocket)]]
+[[fr:Shaofouine (La Clairière d'Évoli 041)]]
+[[it:Mienshao (Il Bosco di Eevee 41)]]
+[[ja:コジョンド (ポケポケ A3b)]]
+[[zh:师父鼬（A3b）]]

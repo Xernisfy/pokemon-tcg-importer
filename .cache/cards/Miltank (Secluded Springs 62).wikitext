@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Miltank
+|ja name=ミルタンク
+|trans name=Miltank
+|species=Miltank
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MiltankSecludedSprings62.png|illustrator=Kouki Saitou|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MiltankPromo-A107.png|illustrator=Kanako Eo|tab caption=Promo}}
+|hp=110
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=062/071|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=107/P-A}}
+}}
+
+'''Miltank''' (Japanese: '''ミルタンク''' ''Miltank'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Rolling Frenzy
+|jname=ころがりフィーバー
+|jtrans=Rolling Fever
+|damage=10
+|effect=Until this Pokémon leaves the Active Spot, this Pokémon's Rolling Frenzy attack does +30 damage. This effect stacks.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Miltank
+|category=Milk Cow
+|ndex=0241
+|height=3'11"
+|jheight=1.2
+|weight=166.4
+|jweight=75.5
+|dex=Miltank produces highly nutritious milk, so it's been supporting the lives of people and other Pokémon since ancient times.
+|jdex=栄養満点の ミルクを 出すことから 古くから 人間と ポケモンの 暮らしを 支えてきた。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available via special wonder picks during the Quagsire [[Wonder Pick Event (Quagsire)|Wonder Pick Event]], which ran from September 14 to 24, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=MiltankSecludedSprings62.png
+|caption1=Uncommon card<br>Illus. [[Kouki Saitou]]
+|image2=MiltankPromo-A107.png
+|caption2=Promo card<br>Illus. [[Kanako Eo]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration from the {{TCGP|Secluded Springs}} expansion was first featured on {{TCG ID|Aquapolis|Miltank|94}} from the {{TCG|Aquapolis}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Flashfire|Miltank|83}} from the {{TCG|Flashfire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Miltank (Verborgene Quelle 062)]]
+[[es:Miltank (Manantial Oculto TCG Pocket)]]
+[[fr:Écrémeuh (Source Secrète 062)]]
+[[it:Miltank (Sorgenti Recondite 62)]]
+[[ja:ミルタンク (ポケポケ A4a)]]
+[[zh:大奶罐（A4a）]]

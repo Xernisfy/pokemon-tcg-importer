@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Kirlia
+|ja name=キルリア
+|trans name=Kirlia
+|species=Kirlia
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KirliaSpace-TimeSmackdown69.png|illustrator=Yukiko Baba|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KirliaDeluxePackex167.png|illustrator=Yukiko Baba|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KirliaEeveeGrove98.png|illustrator=Sanosuke Sakuma|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Ralts
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=069/155|pack=Dialga|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=098/069|pack=Any|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=166/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=167/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Kirlia''' (Japanese: '''キルリア''' ''Kirlia'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}
+|name=Slap
+|jname=ビンタ
+|jtrans=Face Slap
+|damage=20
+|effect=
+}} 
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Kirlia
+|species=Emotion
+|ndex=0281
+|height=2'7"
+|jheight=0.8
+|weight=44.5
+|jweight=20.2
+|dex=It has a psychic power that enables it to distort the space around it and see into the future.
+|jdex=サイコパワーを　操り まわりの　空間を　ねじ曲げることで 未来を　見通すことができる｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=KirliaSpace-TimeSmackdown69.png
+|caption1=Standard card<br>Illus. [[Yukiko Baba]]
+|image2=KirliaEeveeGrove98.png
+|caption2=Shiny rare card<br>Illus. [[Sanosuke Sakuma]]
+|image4=KirliaDeluxePackex167.png
+|caption4=Parallel foil card<br>Illus. [[Yukiko Baba]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare illustration features a {{Shiny}} {{p|Kirlia}}.
+*This card's standard illustration was first featured on {{TCG ID|Legendary Treasures|Kirlia|60}} from the {{TCG|Legendary Treasures}} expansion.
+*'''Slap''' is an attack that first appeared on {{TCG ID|Gym Heroes|Sabrina's Mr. Mime|94}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kirlia (Kollision von Raum und Zeit 069)]]
+[[es:Kirlia (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Kirlia (Choc Spatio-Temporel 069)]]
+[[it:Kirlia (Scontro Spaziotemporale 69)]]
+[[ja:キルリア (ポケポケ A2)]]
+[[zh:奇鲁莉安（A2）]]

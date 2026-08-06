@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ludicolo
+|ja name=ルンパッパ
+|trans name=Runpappa
+|species=Ludicolo
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LudicoloMegaRising55.png|illustrator=sowsow|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LudicoloMegaRising233.png|illustrator=Shimaris Yukichi|tab caption=Illustration Rare}}
+|hp=140
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Lombre
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=055/226|pack=Mega Altaria|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=233/226|pack=Mega Altaria|rarity=Star|rarity count=1}}
+}}
+
+'''Ludicolo''' (Japanese: '''ルンパッパ''' ''Runpappa'') is a {{ct|Water}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Rhythmic Steps
+|jname=リズミックステップ
+|jtrans=Rhythmic Step
+|damage=60+
+|effect=If you have exactly 1, 3, or 5 cards in your hand, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Ludicolo
+|category=Carefree
+|ndex=0272
+|height=4'11"
+|jheight=1.5
+|weight=121.3
+|jweight=55.0
+|dex=If it hears festive music, it begins moving in rhythm in order to amplify its power.
+|jdex=陽気な リズムに あわせて 体を 動かす ことで パワーを 増幅させて いるのだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=LudicoloMegaRising55.png
+|caption1=Rare card<br>Illus. [[sowsow]]
+|image2=LudicoloMegaRising233.png
+|caption2=Illustration rare card<br>Illus. [[Shimaris Yukichi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Evolving Skies|Ludicolo|34}} from the {{TCG|Evolving Skies}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kappalores (Mega-Aufstieg 055)]]
+[[es:Ludicolo (Megaascenso TCG Pocket)]]
+[[fr:Ludicolo (Méga-Ascension 055)]]
+[[it:Ludicolo (Mega Ascesa 55)]]
+[[ja:ルンパッパ (ポケポケ B1)]]
+[[zh:乐天河童（B1）]]

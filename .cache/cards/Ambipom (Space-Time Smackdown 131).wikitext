@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ambipom
+|ja name=エテボース
+|trans name=Eteboth
+|species=Ambipom
+|type=Colorless
+|image=AmbipomSpace-TimeSmackdown131.png
+|illustrator=Naoyo Kimura
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Aipom
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=131/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Ambipom''' (Japanese: '''エテボース''' ''Eteboth'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Double Hit
+|jname=ダブルアタック
+|jtrans=Double Attack
+|damage=40×
+|effect=Flip 2 coins. This attack does 40 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Ambipom
+|species=Long Tail
+|ndex=0424
+|height=3'11"
+|jheight=1.2
+|weight=44.8
+|jweight=20.3
+|dex=It uses its tails for everything. If it wraps both of its tails around you and gives you a squeeze, that's proof it really likes you.
+|jdex=なにを するにも シッポを 使う。 2本の シッポで 抱きしめられたら 本当に 懐かれた 証。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Triumphant|Ambipom|13}} from the {{TCG|Triumphant}} expansion.
+*{{m|Double Hit}} is a [[move]] in the [[Pokémon games]] that {{p|Ambipom}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ambidiffel (Kollision von Raum und Zeit 131)]]
+[[es:Ambipom (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Capidextre (Choc Spatio-Temporel 131)]]
+[[it:Ambipom (Scontro Spaziotemporale 131)]]
+[[ja:エテボース (ポケポケ A2)]]
+[[zh:双尾怪手（A2）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mismagius
+|ja name=ムウマージ
+|trans name=Mumargi
+|species=Mismagius
+|type=Psychic
+|image=MismagiusMegaRising100.png
+|illustrator=NC Empire
+|hp=90
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Misdreavus
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=100/226}}
+}}
+
+'''Mismagius''' (Japanese: '''ムウマージ''' ''Mumargi'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Spooky Shot
+|jname=ホロウショット
+|jtrans=Hollow Shot
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Mismagius
+|species=Magical
+|ndex=0429
+|height=2'11"
+|jheight=0.9
+|weight=9.7
+|jweight=4.4
+|dex=Its cries sound like incantations to torment the foe. It appears where you least expect it.
+|jdex=呪文のような 怪しい 鳴き声で 相手を 苦しめる。 神出鬼没の ポケモン。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|SM Promo|Mismagius|245}}, one of the {{TCG|SM Black Star Promos}}.
+*'''Spooky Shot''' is an attack that first appeared on {{TCG ID|Legendary Treasures|Misdreavus|57}} and {{TCG ID|Legendary Treasures|Mismagius|58}}, both from the {{TCG|Legendary Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Traunmagil (Mega-Aufstieg 100)]]
+[[es:Mismagius (Megaascenso TCG Pocket)]]
+[[fr:Magirêve (Méga-Ascension 100)]]
+[[it:Mismagius (Mega Ascesa 100)]]
+[[ja:ムウマージ (ポケポケ B1)]]
+[[zh:梦妖魔（B1）]]

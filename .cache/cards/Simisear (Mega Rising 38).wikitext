@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Simisear
+|ja name=バオッキー
+|trans name=Baokkie
+|species=Simisear
+|type=Fire
+|image=SimisearMegaRising38.png
+|illustrator=kirisAki
+|hp=100
+|weakness=Water
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Pansear
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=038/226|pack=Mega Blaziken|rarity=Diamond|rarity count=1}}
+}}
+
+'''Simisear''' (Japanese: '''バオッキー''' ''Baokkie'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}
+|name=Fury Swipes
+|jname=みだれひっかき
+|jtrans=Fury Swipes
+|damage=40×
+|effect=Flip 3 coins. This attack does 40 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Simisear
+|category=Ember
+|ndex=0514
+|height=3'3"
+|jheight=1.0
+|weight=61.7
+|jweight=28.0
+|dex=When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.
+|jdex=興奮すると 頭や 尻尾から 火の粉が 舞いあがって 熱くなる。なぜか 甘いものが 大好物。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Burning Shadows|Simisear|23}} from the {{TCG|Burning Shadows}} expansion.
+*{{m|Fury Swipes}} is a [[move]] in the [[Pokémon games]] that {{p|Simisear}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Grillchita (Mega-Aufstieg 038)]]
+[[es:Simisear (Megaascenso TCG Pocket)]]
+[[fr:Flamoutan (Méga-Ascension 038)]]
+[[it:Simisear (Mega Ascesa 38)]]
+[[ja:バオッキー (ポケポケ B1)]]
+[[zh:爆香猿（B1）]]

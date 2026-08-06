@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Palossand
+|ja name=シロデスナ
+|trans name=Sirodethna
+|species=Palossand
+|type=Fighting
+|image=PalossandExtradimensionalCrisis36.png
+|illustrator=Hasuno
+|hp=130
+|weakness=Grass
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Sandygast
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=036/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Palossand''' (Japanese: '''シロデスナ''' ''Sirodethna'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Sand Tomb
+|jname=すなじごく
+|jtrans=Sand Hell
+|damage=90
+|effect=During your opponent's next turn, the Defending Pokémon can't retreat.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Palossand
+|category=Sand Castle 
+|ndex=0770
+|height=4'3"
+|jheight=1.3
+|weight=551.2
+|jweight=250.0
+|dex=The terrifying Palossand drags smaller Pokémon into its sandy body. Once its victims are trapped, it drains them of their vitality whenever it pleases.
+|jdex=小さな ポケモンを 砂の体に 引きずり込み 好きなときに 生気を 吸い取る 恐ろしい ポケモン。
+}}
+
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Palossand|82}} from the {{TCG|Rebel Clash}} expansion.
+*{{m|Sand Tomb}} is a [[move]] in the [[Pokémon games]] that {{p|Palossand}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Colossand (Dimensionale Krise 036)]]
+[[es:Palossand (Crisis Dimensional TCG Pocket)]]
+[[fr:Trépassable (Crise Interdimensionnelle 036)]]
+[[it:Palossand (Crisi Ultradimensionale 36)]]
+[[ja:シロデスナ (ポケポケ A3a)]]
+[[zh:噬沙堡爷（A3a）]]

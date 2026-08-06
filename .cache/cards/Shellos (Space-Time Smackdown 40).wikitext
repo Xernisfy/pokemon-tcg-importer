@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Shellos
+|ja name=カラナクシ
+|trans name=Karanakushi
+|species=Shellos
+|type=Water
+|image=ShellosSpace-TimeSmackdown40.png
+|illustrator=Teeziro
+|hp=70
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=040/155|pack=Palkia|rarity=Diamond|rarity count=1}}
+}}
+
+'''Shellos''' (Japanese: '''カラナクシ''' ''Karanakushi'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Mud-Slap
+|jname=どろかけ
+|jtrans=Mud Spray
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Shellos
+|species=Sea Slug
+|ndex=0422
+|height=1'
+|jheight=0.3
+|weight=13.9
+|jweight=6.3
+|dex=It used to have a shell on its back long ago. This species is closely related to Pokémon like Shellder.
+|jdex=昔は 背中に 貝がらを 背負っていた。 シェルダーなどに 近い 種類の ポケモン。
+}}
+
+==Trivia==
+This card is one of several featured in the {{TCGP|Space-Time Smackdown}} expansion's "Manaphy Travelogue" [[Space-Time Smackdown (TCG Pocket)#Themed Collections|Themed Collection]], all of which feature {{p|Manaphy}} in their standard prints' artwork. Two {{p|Shellos}} (one West Sea and one East Sea) are also featured in the illustration rare print of {{TCG ID|Space-Time Smackdown|Manaphy|162}} from the same expansion.
+
+===Origin===
+*This card features {{p|Shellos}} in both its {{form|Shellos|West Sea and East Sea}} forms.
+*{{m|Mud-Slap}} is a [[move]] in the [[Pokémon games]] that {{p|Shellos}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schalellos (Kollision von Raum und Zeit 040)]]
+[[es:Shellos (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Sancoki (Choc Spatio-Temporel 040)]]
+[[it:Shellos (Scontro Spaziotemporale 40)]]
+[[ja:カラナクシ (ポケポケ A2)]]
+[[zh:无壳海兔（A2）]]

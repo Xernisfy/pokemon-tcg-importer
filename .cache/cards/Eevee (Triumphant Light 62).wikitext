@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Eevee
+|ja name=イーブイ
+|trans name=Eievui
+|species=Eevee
+|type=Colorless
+|image=EeveeTriumphantLight62.png
+|illustrator=Naoyo Kimura
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=062/075|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Eevee''' (Japanese: '''イーブイ''' ''Eievui'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Tail Whap
+|jname=しっぽではたく
+|jtrans=Tail Strike
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Eevee
+|species=Evolution
+|ndex=0133
+|height=1'
+|jheight=0.3
+|weight=14.3
+|jweight=6.5
+|dex=Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.
+|jdex=環境の　変化に　すぐさま 合わせられるよう　いくつもの 進化の　可能性を　秘めている｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rising Rivals|Eevee|59}} from the {{TCG|Rising Rivals}} expansion.
+*'''Tail Whap''' is an attack that first appeared on {{TCG ID|Aquapolis|Wooper|66}} from the {{TCG|Aquapolis}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Evoli (Licht des Triumphs 062)]]
+[[es:Eevee (Luz Triunfal TCG Pocket)]]
+[[fr:Évoli (Lumière Triomphale 062)]]
+[[it:Eevee (Luce Trionfale 62)]]
+[[ja:イーブイ (ポケポケ A2a)]]
+[[zh:伊布（A2a）]]

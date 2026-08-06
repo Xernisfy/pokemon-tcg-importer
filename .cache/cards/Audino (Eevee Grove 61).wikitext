@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Audino
+|ja name=タブンネ
+|trans name=Tabunne
+|species=Audino
+|type=Colorless
+|image=AudinoEeveeGrove61.png
+|illustrator=sui
+|hp=90
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=061/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Audino''' (Japanese: '''タブンネ''' ''Tabunne'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Do the Wave
+|jname=ともだちのわ
+|jtrans=Sum of Friends
+|damage=20×
+|effect=This attack does 20 damage for each of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Audino
+|category=Hearing 
+|ndex=0531
+|height=3'7"
+|jheight=1.1
+|weight=68.3
+|jweight=31.0
+|dex=This Pokémon has a kind heart. By touching with its feelers, Audino can gauge other creatures' feelings and physical conditions.
+|jdex=心優しい ポケモン。 触角を 押し当て 相手の 気持ちや 体調を 理解する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Audino|177}} from the {{TCG|Unified Minds}} expansion.
+*'''Do the Wave''' is an attack that first appeared on {{TCG ID|Jungle|Wigglytuff|16}} from the {{TCG|Jungle}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ohrdoch (Evoli-Hain 061)]]
+[[es:Audino (Arboleda de Eevee TCG Pocket)]]
+[[fr:Nanméouïe (La Clairière d'Évoli 061)]]
+[[it:Audino (Il Bosco di Eevee 61)]]
+[[ja:タブンネ (ポケポケ A3b)]]
+[[zh:差不多娃娃（A3b）]]

@@ -1,0 +1,45 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Mythical Slab
+|ja name=幻の石板
+|trans name=Illusory Slabstone
+|subtype=Item
+|image=MythicalSlabMythicalIsland65.png
+|illustrator=AYUMI ODASHIMA
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=065/068|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Mythical Slab''' (Japanese: '''幻の石板''' ''Illusory Slabstone'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Look at the top card of your deck. If that card is a {{e|Psychic}} Pokémon, put it into your hand. If it is not a {{e|Psychic}} Pokémon, put it on the bottom of your deck.
+}}
+
+==Trivia==
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=幻の石板 ''Maboroshi no Sekiban''
+|zh_yue=幻之石板 ''Waahn jī Sehkbáan''
+|zh_cmn=幻之石板 ''Huàn zhī Shíbǎn''
+|fr=Dalle Fabuleuse
+|de=Mythische Tafel
+|it=Pietra Misteriosa
+|ko=환상의 석판 ''Hwansang-ui Seokpan''
+|pt_br=Placa Mística
+|es=Losa Singular
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mythische Tafel (TCG Pocket)]]
+[[es:Losa Singular (TCG Pocket)]]
+[[fr:Dalle Fabuleuse (L'Île Fabuleuse 065)]]
+[[it:Pietra Misteriosa (L'Isola Misteriosa 65)]]
+[[ja:幻の石板]]
+[[zh:幻之石板（TCGP）]]

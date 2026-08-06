@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Machamp
+|ja name=カイリキー
+|trans name=Kairiky
+|species=Machamp
+|type=Fighting
+|image=MachampGeneticApex145.png
+|illustrator=Hitoshi Ariga
+|hp=150
+|weakness=Psychic
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Machoke
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=145/226|pack=Charizard|rarity=Diamond|rarity count=3}}
+}}
+
+'''Machamp''' (Japanese: '''カイリキー''' ''Kairiky'') is a {{ct|Fighting}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}
+|name=Seismic Toss
+|jname=ちきゅうなげ
+|jtrans=Earth Throw
+|damage=100
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Machamp
+|species=Superpower
+|ndex=0068
+|height=5'3"
+|jheight=1.6
+|weight=286.6
+|jweight=130.0
+|dex=It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.
+|jdex=４本の腕を　すばやく　動かし あらゆる　角度から　休むことなく パンチや　チョップを　叩きこむ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Guardians Rising|Machamp|65}} from the {{TCG|Guardians Rising}} expansion.
+*{{m|Seismic Toss}} is a [[move]] in the [[Pokémon games]] that {{p|Machamp}} can learn; its first TCG appearance was on {{TCG ID|Base Set|Machamp|8}} from the {{TCG|Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Machomei (Unschlagbare Gene 145)]]
+[[es:Machamp (Genes Formidables TCG Pocket)]]
+[[fr:Mackogneur (Puissance Génétique 145)]]
+[[it:Machamp (Geni Supremi 145)]]
+[[ja:カイリキー (ポケポケ A1)]]
+[[zh:怪力（A1）]]

@@ -1,0 +1,63 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Nosepass
+|ja name=ノズパス
+|trans name=Nosepass
+|species=Nosepass
+|type=Fighting
+|image=NosepassPromo-A45.png
+|illustrator=Tomokazu Komiya
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=045/P-A|pack=Vol. 5}}
+}}
+
+'''Nosepass''' (Japanese: '''ノズパス''' ''Nosepass'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Iron Defense
+|jname=てっぺき
+|jtrans=Iron Wall
+|damage=
+|effect=Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Nosepass
+|species=Compass
+|ndex=0299
+|height=3'3"
+|jheight=1.0
+|weight=213.8
+|jweight=97.0
+|dex=It moves less than an inch a year, but when it's in a jam, it will spin and drill down into the ground in a split second.
+|jdex=１年に １センチしか 動かないが ピンチに 陥ると 回転し 一瞬で 地中に 潜る。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 5 packs; these were made available as part of the [[Gible Drop Event]], which ran from March 3 to 17, 2025.
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Guardians Rising|Nosepass|69}} from the {{TCG|Guardians Rising}} expansion.
+*{{m|Iron Defense}} is a [[move]] in the [[Pokémon games]] that {{p|Nosepass}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Nasgnet (PROMO-A 045)]]
+[[es:Nosepass (Promo-A 45 TCG Pocket)]]
+[[fr:Tarinor (Promo-A 045)]]
+[[it:Nosepass (Promo-A 45)]]
+[[ja:ノズパス (ポケポケ P-A)]]
+[[zh:朝北鼻（P-A）]]

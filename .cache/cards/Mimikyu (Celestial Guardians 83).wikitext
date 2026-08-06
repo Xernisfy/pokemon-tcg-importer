@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mimikyu
+|ja name=ミミッキュ
+|trans name=Mimikkyu
+|species=Mimikyu
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MimikyuCelestialGuardians83.png|illustrator=HYOGONOSUKE|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MimikyuPromo-A66.png|illustrator=Amelicart|tab caption=Promo}}
+|hp=70
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=083/155|pack=Lunala|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=066/P-A}}
+}}
+
+'''Mimikyu''' (Japanese: '''ミミッキュ''' ''Mimikkyu'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Shadow Hit
+|jname=シャドーヒット
+|jtrans=Shadow Hit
+|damage=60
+|effect=This attack also does 20 damage to 1 of your Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Mimikyu
+|category=Disguise
+|ndex=0778
+|height=8"
+|jheight=0.2
+|weight=1.5
+|jweight=0.7
+|dex=There was a scientist who peeked under Mimikyu's old rag in the name of research. The scientist died of a mysterious disease.
+|jdex=けんきゅうのため ボロぬのの なかを みてしまった がくしゃが なぞの びょうきで いのちを おとした。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available from May 1 to 31, 2025 as a login reward from the monthly {{DL|Mission (TCG Pocket)|Premium Missions}}.
+
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=MimikyuCelestialGuardians83.png
+|caption1=Common card<br>Illus. [[HYOGONOSUKE]]
+|image2=MimikyuPromo-A66.png
+|caption2=Promo card<br>Illus. [[Amelicart]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Cosmic Eclipse|Mimikyu|96}} from the {{TCG|Cosmic Eclipse}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mimigma (Hüter des Firmaments 083)]]
+[[es:Mimikyu (Guardianes Celestiales TCG Pocket)]]
+[[fr:Mimiqui (Gardiens Astraux 083)]]
+[[it:Mimikyu (Guardiani Astrali 83)]]
+[[ja:ミミッキュ (ポケポケ A3)]]
+[[zh:谜拟Ｑ（A3）]]

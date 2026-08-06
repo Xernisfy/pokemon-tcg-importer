@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ribombee
+|ja name=アブリボン
+|trans name=Aburibbon
+|species=Ribombee
+|type=Psychic
+|image=RibombeeCelestialGuardians79.png
+|illustrator=Megumi Mizutani
+|hp=80
+|weakness=Metal
+|retreat cost=0
+|evo stage=Stage 1
+|prevo name=Cutiefly
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=079/155|pack=Solgaleo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Ribombee''' (Japanese: '''アブリボン''' ''Aburibbon'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}
+|name=Fairy Wind
+|jname=ようせいのかぜ
+|jtrans=Fairy Wind
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Ribombee
+|species=Bee Fly
+|ndex=0743
+|height=8"
+|jheight=0.2
+|weight=1.1
+|jweight=0.5
+|dex=It makes pollen puffs from pollen and nectar. The puffs' effects depend on the type of ingredients and how much of each one is used.
+|jdex=花粉と 蜜を 混ぜて 団子を つくる。 調合する 種類や 量に よって 効果が 違う。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Burning Shadows|Ribombee|96}} from the {{TCG|Burning Shadows}} expansion.
+*{{m|Fairy Wind}} is a [[move]] in the [[Pokémon games]] that {{p|Ribombee}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bandelby (Hüter des Firmaments 079)]]
+[[es:Ribombee (Guardianes Celestiales TCG Pocket)]]
+[[fr:Rubombelle (Gardiens Astraux 079)]]
+[[it:Ribombee (Guardiani Astrali 79)]]
+[[ja:アブリボン (ポケポケ A3)]]
+[[zh:蝶结萌虻（A3）]]

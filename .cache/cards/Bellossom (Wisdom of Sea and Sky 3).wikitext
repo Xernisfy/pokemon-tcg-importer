@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bellossom
+|ja name=キレイハナ
+|trans name=Kireihana
+|species=Bellossom
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BellossomWisdomofSeaandSky3.png|illustrator=Nagomi Nijo|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BellossomWisdomofSeaandSky163.png|illustrator=Yuka Tanaka|tab caption=Illustration Rare}}
+|hp=130
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Gloom
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=003/161|pack=Lugia|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=163/161|pack=Lugia|rarity=Star|rarity count=1}}
+}}
+
+'''Bellossom''' (Japanese: '''キレイハナ''' ''Kireihana'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Petal Dance
+|jname=はなびらのまい
+|jtrans=Petal Dance
+|damage=60×
+|effect=Flip 3 coins. This attack does 60 damage for each heads. This Pokémon is now {{TCG|Confused}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Bellossom
+|species=Flower
+|ndex=0182
+|height=1'4"
+|jheight=0.4
+|weight=12.8
+|jweight=5.8
+|dex=Plentiful in the tropics. When it dances, its petals rub together and make a pleasant ringing sound.
+|jdex=南国に 多く 生息する。 踊るとき 花びらが 触れあい 心地よい 音が 鳴り響く。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=BellossomWisdomofSeaandSky3.png
+|caption1=Rare card<br>Illus. [[Nagomi Nijo]]
+|image2=BellossomWisdomofSeaandSky163.png
+|caption2=Illustration rare card<br>Illus. [[Yuka Tanaka]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Crown Zenith|Bellossom|3}} from the {{TCG|Crown Zenith}} expansion.
+*{{m|Petal Dance}} is a [[move]] in the [[Pokémon games]] that {{p|Bellossom}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Blubella (Weisheit von Meer und Himmel 003)]]
+[[es:Bellossom (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Joliflor (Sagesse entre Ciel et Mer 003)]]
+[[it:Bellossom (La Via del Cielo e del Mare 3)]]
+[[ja:キレイハナ (ポケポケ A4)]]
+[[zh:美丽花（A4）]]

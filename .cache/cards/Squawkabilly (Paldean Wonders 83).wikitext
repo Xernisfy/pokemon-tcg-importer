@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Squawkabilly
+|ja name=イキリンコ
+|trans name=Ikirinko
+|species=Squawkabilly
+|type=Colorless
+|image=SquawkabillyPaldeanWonders83.png
+|illustrator=Oswaldo KATO
+|hp=70
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=083/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Squawkabilly''' (Japanese: '''イキリンコ''' ''Ikirinko'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Quick Attack
+|jname=でんこうせっか
+|jtrans=Lightning Speed
+|damage=30+
+|effect=Flip a coin. If heads, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Squawkabilly
+|category=Parrot
+|ndex=0931
+|height=2'
+|jheight=0.6
+|weight=5.3
+|jweight=2.4
+|dex=Green-feathered flocks hold the most sway. When they're out searching for food in the mornings and evenings, it gets very noisy.
+|jdex=緑色の 羽の イキリンコが 最大勢力。 エサを 探す 朝と 晩は とても 騒がしい。
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Squawkabilly}} in its {{form|Squawkabilly|Green Plumage}} form.
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Squawkabilly|162}} from the {{TCG|Scarlet & Violet}} expansion.
+*{{m|Quick Attack}} is a [[move]] in the [[Pokémon games]] that {{p|Squawkabilly}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Krawalloro (Wundervolles Paldea 083)]]
+[[fr:Tapatoès (Merveilles de Paldea 083)]]
+[[it:Squawkabilly (Meraviglie di Paldea 83)]]
+[[ja:イキリンコ (ポケポケ B2a)]]
+[[zh:怒鹦哥（B2a）]]

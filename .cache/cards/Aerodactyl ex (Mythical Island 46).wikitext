@@ -1,0 +1,83 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Aerodactyl {{TCGP Icon|ex}}
+|ja name=プテラ {{TCGP Icon|ex}}
+|trans name=Ptera {{TCGP Icon|ex}}
+|species=Aerodactyl
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AerodactylexMythicalIsland46.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AerodactylexMythicalIsland78.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AerodactylexMythicalIsland84.png|illustrator=danciao|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AerodactylexExtradimensionalCrisis101.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=140
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Old Amber
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=046/068|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=078/068|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=084/068|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=101/069|pack=Any|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=197/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Aerodactyl ex''' (Japanese: '''プテラex''' ''Ptera ex'') is a {{ct|Fighting}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Ability/Pocket
+|type=Fighting
+|name=Primeval Law
+|jname=げんしのさだめ
+|jtrans=Primeval Law
+|effect=Your opponent can't play any Pokémon from their hand to evolve their Active Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}
+|name=Land Crush
+|jname=ランドクラッシュ
+|jtrans=Land Crush
+|damage=80
+|effect=
+}}
+{{Cardtext/Pocket ex
+|type=Fighting
+|ndex=0142
+|name=Aerodactyl
+}}
+{{Cardtext/Footer}}
+
+==Release information==	
+===Gallery===	
+{{TCGGallery	
+|type=Fighting
+|image1=AerodactylexMythicalIsland46.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]	
+|image2=AerodactylexMythicalIsland78.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image4=AerodactylexMythicalIsland84.png
+|caption4=Special illustration rare card<br>Illus. [[danciao]]
+|image5=AerodactylexExtradimensionalCrisis101.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Aerodactyl}}.
+*'''Land Crush''' is an attack that first appeared as '''Fissure''' on {{TCG ID|Gym Heroes|Brock's Golem|20}} from the {{TCG|Gym Heroes}} expansion.
+*'''Primeval Law''' is an {{TCG|Ability}} close in both name and effect to '''Primal Law''', an Ability which first appeared on {{TCG ID|Darkness Ablaze|Dracovish|53}} from the {{TCG|Darkness Ablaze}} expansion.
+**Its effect also resembles that of Prehistoric Power, the {{TCG|Pokémon Power}} of Aerodactyl's [[Aerodactyl (Fossil 1)|first TCG card]].
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Aerodactyl-ex (Mysteriöse Insel 046)]]
+[[es:Aerodactyl ex (La Isla Singular TCG Pocket)]]
+[[fr:Ptéra-ex (L'Île Fabuleuse 046)]]
+[[it:Aerodactyl-ex (L'Isola Misteriosa 46)]]
+[[ja:プテラex (ポケポケ A1a)]]
+[[zh:化石翼龙ex（A1a）]]

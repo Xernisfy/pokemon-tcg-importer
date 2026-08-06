@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Murkrow
+|ja name=ヤミカラス
+|trans name=Yamikarasu
+|species=Murkrow
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MurkrowWisdomofSeaandSky113.png|illustrator=Sekio|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MurkrowWisdomofSeaandSky178.png|illustrator=kamonabe|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=113/161|pack=Lugia|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=178/161|pack=Lugia|rarity=Star|rarity count=1}}
+}}
+
+'''Murkrow''' (Japanese: '''ヤミカラス''' ''Yamikarasu'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Astonish
+|jname=おどろかす
+|jtrans=Astonish
+|damage=
+|effect=Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Murkrow
+|species=Darkness
+|ndex=0198
+|height=1'8"
+|jheight=0.5
+|weight=4.6
+|jweight=2.1
+|dex=Feared and loathed by many, it is believed to bring misfortune to all those who see it at night.
+|jdex=夜 姿を 見かけると 不吉なことが 起きると 信じられ 忌み嫌われている ポケモン。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=MurkrowWisdomofSeaandSky113.png
+|caption1=Common card<br>Illus. [[Sekio]]
+|image2=MurkrowWisdomofSeaandSky178.png
+|caption2=Illustration rare card<br>Illus. [[kamonabe]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Guardians Rising|Murkrow|78}} from the {{TCG|Guardians Rising}} expansion.
+*{{m|Astonish}} is a [[move]] in the [[Pokémon games]] that {{p|Murkrow}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kramurx (Weisheit von Meer und Himmel 113)]]
+[[es:Murkrow (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Cornèbre (Sagesse entre Ciel et Mer 113)]]
+[[it:Murkrow (La Via del Cielo e del Mare 113)]]
+[[ja:ヤミカラス (ポケポケ A4)]]
+[[zh:黑暗鸦（A4）]]

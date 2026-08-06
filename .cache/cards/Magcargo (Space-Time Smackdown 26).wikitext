@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Magcargo
+|ja name=マグカルゴ
+|trans name=Magcargot
+|species=Magcargo
+|type=Fire
+|image=MagcargoSpace-TimeSmackdown26.png
+|illustrator=Oswaldo KATO
+|hp=120
+|weakness=Water
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Slugma
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=026/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Magcargo''' (Japanese: '''マグカルゴ''' ''Magcargot'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}
+|name=Searing Flame
+|jname=やきこがす
+|jtrans=Searing Heat
+|damage=30
+|effect=Your opponent's Active Pokémon is now {{TCG|Burned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Magcargo
+|species=Lava
+|ndex=0219
+|height=2'7"
+|jheight=0.8
+|weight=121.3
+|jweight=55.0
+|dex=Its brittle shell occasionally spouts intense flames that circulate throughout its body.
+|jdex=背中の 殻は 崩れやすいが ときどき 体内を 巡っている 高熱の 炎が 噴き出す。
+}}
+
+==Trivia==
+This card is one of several featured in the {{TCGP|Space-Time Smackdown}} expansion's "Ecosystem of Stark Mountain" [[Space-Time Smackdown (TCG Pocket)#Themed Collections|Themed Collection]]. All of the featured cards' standard prints are illustrated by [[Oswaldo KATO]] and feature {{p|Heatran}}'s [[footprint]]s in the background; all four Pokémon are also featured in {{TCG ID|Space-Time Smackdown|Heatran|174}}'s illustration rare print. It is implied that all of the illustrations are set in [[Stark Mountain]], where {{p|Heatran}} and {{p|Magcargo}} can be found in {{game|Diamond and Pearl|s|Pokémon Diamond, Pearl}}, {{game|Platinum||Platinum}}, {{game|Brilliant Diamond and Shining Pearl|s|Brilliant Diamond, and Shining Pearl}}.
+
+===Origin===
+*'''Searing Flame''' is an attack that first appeared on {{TCG ID|Expedition|Charmander|98}} from the {{TCG|Expedition Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Magcargo (Kollision von Raum und Zeit 026)]]
+[[es:Magcargo (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Volcaropod (Choc Spatio-Temporel 026)]]
+[[it:Magcargo (Scontro Spaziotemporale 26)]]
+[[ja:マグカルゴ (ポケポケ A2)]]
+[[zh:熔岩蜗牛（A2）]]

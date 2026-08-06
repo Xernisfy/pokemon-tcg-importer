@@ -1,6 +1,6 @@
 import { retry } from "@std/async";
-import { existsSync } from "@std/fs";
-import { cardsCachePath, setsCachePath } from "../../lib.ts";
+import { exists } from "@std/fs";
+import { cacheRedirectMap, cardsCachePath, setsCachePath } from "../../lib.ts";
 import { useCache } from "../../main.ts";
 
 class ApiError extends Error {
@@ -10,6 +10,14 @@ class ApiError extends Error {
 }
 
 const bulbapediaApiUrl = "https://bulbapedia.bulbagarden.net/w/api.php";
+
+async function getRedirectMap(): Promise<Record<string, string>> {
+  try {
+    return JSON.parse(await Deno.readTextFile(cacheRedirectMap));
+  } catch {
+    return {};
+  }
+}
 
 /** get wikitext for a page from MediaWiki API */
 async function fetchWikitext(page: string) {
@@ -24,11 +32,43 @@ async function fetchWikitext(page: string) {
     parse?: { wikitext: string };
     error?: { code: string; info: string };
   };
-  if (response && response.parse && response.parse.wikitext) {
-    return response.parse.wikitext;
-  } else {
+  if (!response || !response.parse || !response.parse.wikitext) {
     return new ApiError(url, JSON.stringify(response));
   }
+  return response.parse.wikitext;
+}
+
+async function cacheRedirects(page: string, wikitext: string) {
+  const url = new URL(bulbapediaApiUrl);
+  url.searchParams.append("action", "query");
+  url.searchParams.append("format", "json");
+  url.searchParams.append("prop", "redirects");
+  url.searchParams.append("titles", page);
+  url.searchParams.append("redirects", "1");
+  url.searchParams.append("formatversion", "2");
+  url.searchParams.append("rdprop", "title");
+  const response = await retry(async () => await (await fetch(url)).json()) as {
+    query: {
+      pages: {
+        title: string;
+        redirects: {
+          title: string;
+        }[];
+      }[];
+    };
+  };
+  if (!response || !response.query || !response.query.pages) {
+    return new ApiError(url, JSON.stringify(response));
+  }
+  const origin = response.query.pages[0];
+  Deno.writeTextFile(`${cardsCachePath}/${origin.title}.wikitext`, wikitext);
+  const redirects = await getRedirectMap();
+  if (origin.redirects) {
+    for (const { title } of origin.redirects) {
+      redirects[title] = origin.title;
+    }
+  }
+  Deno.writeTextFile(cacheRedirectMap, JSON.stringify(redirects));
 }
 
 /** get all pages in the category "Pokémon_Trading_Card_Game_Pocket_expansions" */
@@ -61,40 +101,16 @@ export async function* loadSets(): AsyncGenerator<string> {
     if (!page.endsWith(" (TCG Pocket)")) continue;
     const path = `${setsCachePath}/${page}.wikitext`;
     const log = `%cSet ${page}:`;
-    if (useCache && existsSync(path)) {
+    if (useCache && await exists(path)) {
       console.log(log, "color: yellow");
-      yield Deno.readTextFileSync(path);
+      yield await Deno.readTextFile(path);
     } else {
       console.log(log, "color: green");
       const wikitext = await fetchWikitext(page);
       if (wikitext instanceof Error) continue;
-      if (useCache) Deno.writeTextFileSync(path, wikitext);
+      if (useCache) await Deno.writeTextFile(path, wikitext);
       yield wikitext;
     }
-  }
-}
-
-/** !!! DEVELOPMENT ONLY !!!
- * @deprecated use {@link loadSets}
- */
-export async function* loadSetsOffline(): AsyncGenerator<string> {
-  const response = {
-    query: {
-      pages: [
-        { title: "Genetic Apex (TCG Pocket)" },
-        { title: "Promo-A (TCG Pocket)" },
-        { title: "Mythical Island (TCG Pocket)" },
-        { title: "Space-Time Smackdown (TCG Pocket)" },
-        { title: "Triumphant Light (TCG Pocket)" },
-        { title: "Shining Revelry (TCG Pocket)" },
-      ],
-    },
-  } as const;
-  for (const { title: page } of response.query.pages) {
-    const path = `${setsCachePath}/${page}.wikitext`;
-    const log = `%cSet ${page}:`;
-    console.log(log, "color: red");
-    yield Deno.readTextFileSync(path);
   }
 }
 
@@ -110,25 +126,34 @@ export async function* loadCards(
   for (const match of setWikitext.matchAll(setCardsRegex)) {
     const { cardName, cardNumber } = match.groups!;
     const page = `${cardName} (${setName} ${cardNumber})`;
-    const path = `${cardsCachePath}/${page}.wikitext`;
     const log = `| %cCard ${cardNumber}: ${cardName}`;
-    if (useCache && existsSync(path)) {
-      console.log(log, "color: yellow");
-      yield [cardName, cardNumber, Deno.readTextFileSync(path)];
-    } else {
-      console.log(log, "color: green");
-      const wikitext = await fetchWikitext(page);
-      if (wikitext instanceof ApiError) {
-        console.error(
-          `| %cERROR on page "${page}"
-  URL: ${wikitext.url}
-  Response: ${wikitext.response}`,
-          "color: red",
-        );
+    if (useCache) {
+      const path = `${cardsCachePath}/${page}.wikitext`;
+      if (await exists(path)) {
+        console.log(log, "color: yellow");
+        yield [cardName, cardNumber, await Deno.readTextFile(path)];
         continue;
       }
-      if (useCache) Deno.writeTextFileSync(path, wikitext);
-      yield [cardName, cardNumber, wikitext];
+      const redirects = await getRedirectMap();
+      if (redirects[page]) {
+        console.log(log, "color: blue");
+        const redirectPath = `${cardsCachePath}/${redirects[page]}.wikitext`;
+        yield [cardName, cardNumber, await Deno.readTextFile(redirectPath)];
+        continue;
+      }
     }
+    console.log(log, "color: green");
+    const wikitext = await fetchWikitext(page);
+    if (wikitext instanceof ApiError) {
+      console.error(
+        `| %cERROR on page "${page}"
+  URL: ${wikitext.url}
+  Response: ${wikitext.response}`,
+        "color: red",
+      );
+      continue;
+    }
+    if (useCache) await cacheRedirects(page, wikitext);
+    yield [cardName, cardNumber, wikitext];
   }
 }

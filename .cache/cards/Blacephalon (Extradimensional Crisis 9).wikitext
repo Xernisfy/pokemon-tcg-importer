@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Blacephalon
+|ja name=ズガドーン
+|trans name=Zugadoon
+|species=Blacephalon
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BlacephalonExtradimensionalCrisis9.png|illustrator=Anesaki Dynamic|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BlacephalonExtradimensionalCrisis72.png|illustrator=akagi|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BlacephalonPromo-A76.png|illustrator=Hasuno|tab caption=Promo}}
+|hp=100
+|weakness=Water
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=009/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=072/069|pack=Any|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=076/P-A|pack=Vol. 9}}
+}}
+
+'''Blacephalon''' (Japanese: '''ズガドーン''' ''Zugadoon'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/UltraBeast/Pocket}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Colorless}}
+|name=Beat Punk
+|jname=ビートパンク
+|jtrans=Beat Punk
+|damage=130
+|effect=This Pokémon also does 70 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Blacephalon
+|species=Fireworks
+|ndex=0806
+|height=5'11"
+|jheight=1.8
+|weight=28.7
+|jweight=13.0
+|dex=It slithers toward people. Then, without warning, it triggers the explosion of its own head. It's apparently one kind of Ultra Beast.
+|jdex=クネクネ動いて 人に 近付くと 突然 頭を 爆発させた。 ウルトラビーストの 一種らしい。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of seven cards that could be pulled from Promo-A Vol. 9 packs; these were made available as part of the [[Ultra Beast Drop Event]], which ran from June 4 to 14, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=BlacephalonExtradimensionalCrisis9.png
+|caption1=Uncommon card<br>Illus. [[Anesaki Dynamic]]
+|image2=BlacephalonExtradimensionalCrisis72.png
+|caption2=Illustration rare card<br>Illus. {{OBP|akagi|illustrator}}
+|image3=BlacephalonPromo-A76.png
+|caption3=Promo card<br>Illus. [[Hasuno]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Cosmic Eclipse|Blacephalon|104}} from the {{TCG|Cosmic Eclipse}} expansion.
+*The '''Beat Punk''' attack is named after {{wp|ja:ビートロック|beat punk}}, a genre of music. The name may have been chosen as beat punk is characterized by the usage of loud, hard-set snares, thematically fitting {{p|Blacephalon}}'s fireworks design.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kopplosio (Dimensionale Krise 009)]]
+[[es:Blacephalon (Crisis Dimensional TCG Pocket)]]
+[[fr:Pierroteknik (Crise Interdimensionnelle 009)]]
+[[it:Blacephalon (Crisi Ultradimensionale 9)]]
+[[ja:ズガドーン (ポケポケ A3a)]]
+[[zh:砰头小丑（A3a）]]

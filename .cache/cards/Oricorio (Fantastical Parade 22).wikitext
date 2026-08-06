@@ -1,0 +1,70 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Oricorio
+|ja name=オドリドリ
+|trans name=Odoridori
+|species=Oricorio
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OricorioFantasticalParade22.png|illustrator=GOTO minori|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OricorioFantasticalParade161.png|illustrator=0313|tab caption=Illustration Rare}}
+|hp=70
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=022/155|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=161/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Oricorio''' (Japanese: '''オドリドリ''' ''Odoridori'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Inspiring Dance
+|jname=ダンシングエール
+|jtrans=Dancing Yell
+|damage=10
+|effect=During your next turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Oricorio
+|species=Dancing
+|ndex=0741
+|height=2'
+|jheight=0.6
+|weight=7.5
+|jweight=3.4
+|dex=This form of Oricorio has sipped red nectar. It whips up blazing flames as it moves to the steps of its passionate dance.
+|jdex=くれないのミツを 吸った 姿。 情熱的な ステップを 踏み 激しい 炎を 巻き起こす。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=OricorioFantasticalParade22.png
+|caption1=Uncommon card<br>Illus. [[GOTO minori]]
+|image2=OricorioFantasticalParade161.png
+|caption2=Illustration rare card<br>Illus. [[0313]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Oricorio}} in its {{form|Oricorio|Baile Style}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Choreogel (Traumhafte Parade 022)]]
+[[fr:Plumeline (Parade Onirique 022)]]
+[[it:Oricorio (Parata Fantasmagorica 22)]]
+[[ja:オドリドリ (ポケポケ B2)]]
+[[zh:花舞鸟（B2）]]

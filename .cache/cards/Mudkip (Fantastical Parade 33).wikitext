@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mudkip
+|ja name=ミズゴロウ
+|trans name=Mizugorou
+|species=Mudkip
+|type=Water
+|image=MudkipFantasticalParade33.png
+|illustrator=Aya Kusube
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=033/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Mudkip''' (Japanese: '''ミズゴロウ''' ''Mizugorou'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Mudkip
+|category=Mud Fish
+|ndex=0258
+|height=1'4"
+|jheight=0.4
+|weight=16.8
+|jweight=7.6
+|dex=When it uses its large tail fin, it picks up speed rapidly in the water. It is strong in spite of its small size.
+|jdex=大きな 尾びれで 水を かけば ぐんぐん スピードが 上がる。 小さい 体でも 力持ち。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|XY Promo|Mudkip|38}}, one of the {{TCG|XY Black Star Promos}}; both cards have the Tackle attack.
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Mudkip}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hydropi (Traumhafte Parade 033)]]
+[[fr:Gobou (Parade Onirique 033)]]
+[[it:Mudkip (Parata Fantasmagorica 33)]]
+[[ja:ミズゴロウ (ポケポケ B2)]]
+[[zh:水跃鱼（B2）]]

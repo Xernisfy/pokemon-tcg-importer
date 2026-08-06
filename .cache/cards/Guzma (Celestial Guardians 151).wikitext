@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Guzma
+|ja name=グズマ
+|trans name=Guzma
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GuzmaCelestialGuardians151.png|illustrator=GOSSAN|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GuzmaCelestialGuardians193.png|illustrator=GOSSAN|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GuzmaCelestialGuardians208.png|illustrator=danciao|tab caption=Immersive}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=151/155|pack=Lunala|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=193/155|pack=Lunala|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=208/155|pack=Lunala|rarity=Star|rarity count=3}}
+}}
+
+'''Guzma''' (Japanese: '''グズマ''' ''Guzma'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Discard all Pokémon Tool cards attached to each of your opponent's Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=GuzmaCelestialGuardians151.png
+|caption1=Uncommon card<br>Illus. [[GOSSAN]]
+|image2=GuzmaCelestialGuardians193.png
+|caption2=Super rare card<br>Illus. [[GOSSAN]]
+|image3=GuzmaCelestialGuardians208.png
+|caption3={{TCGP|Immersive card}}<br>Illus. [[danciao]]
+}}
+
+==Trivia==
+* This card's immersive illustration includes {{p|Golisopod}}, {{p|Masquerain}}, {{p|Pinsir}}, [[Plumeria]], {{p|Salazzle}}, {{p|Fomantis}}, {{rf|Alolan}} {{p|Grimer}}, and two {{tc|Team Skull Grunt}}s.
+* This card's effect is identical to that of {{TCG ID|Flashfire|Startling Megaphone|97}} in the [[Pokémon Trading Card Game]], but this card is a {{TCGP|Supporter card}} instead of an {{TCGP|Item card}}.
+** {{TCG|Guzma}} also exists in the Pokémon Trading Card Game, but with a different effect.
+* The {{rar/TCGP|Star|3}} prints of this card and {{TCG ID|Celestial Guardians|Lillie|209}} are the first {{TCGP|immersive card|immersive}} {{TCGP|Supporter card}}s in the game; all immersive cards released prior had been {{TCG|Pokémon}} cards. Only Lillie was revealed in pre-release announcements and trailers.
+
+===Origin===
+* [[Guzma]] is the leader of [[Team Skull]], which appears as the [[villainous team]] in {{game4|7}}.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=グズマ ''Guzma''
+|zh_yue=古茲馬 ''Gújīmáh''
+|zh_cmn=古茲馬<!-- / 古兹马--> ''Gǔzīmǎ''
+|fr=Guzma
+|de=Bromley
+|it=Guzman
+|ko=구즈마 ''Guzma''
+|pt_br=Guzma
+|es=Guzmán
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bromley (TCG Pocket)]]
+[[es:Guzmán (TCG Pocket)]]
+[[fr:Guzma (Gardiens Astraux 151)]]
+[[it:Guzman (Guardiani Astrali 151)]]
+[[ja:グズマ (ポケポケ)]]
+[[zh:古兹马（TCGP）]]

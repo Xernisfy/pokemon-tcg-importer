@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bewear
+|ja name=キテルグマ
+|trans name=Kiteruguma
+|species=Bewear
+|type=Colorless
+|image=BewearExtradimensionalCrisis58.png
+|illustrator=Ryuta Fuse
+|hp=120
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Stufful
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=058/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Bewear''' (Japanese: '''キテルグマ''' ''Kiteruguma'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Superpowered Hug
+|jname=かいりきハッグ
+|jtrans=Superpowered Hug
+|damage=
+|effect=Flip 2 coins. If both of them are heads, your opponent's Active Pokémon is Knocked Out.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Bewear
+|category=Strong Arm 
+|ndex=0760
+|height=6'11"
+|jheight=2.1
+|weight=297.6
+|jweight=135.0
+|dex=Once it accepts you as a friend, it tries to show its affection with a hug. Letting it do that is dangerous—it could easily shatter your bones.
+|jdex=仲間と 認めると 愛情を 示すために 抱きしめようとするが 骨を 砕かれるので 危険。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Bewear|150}} from the {{TCG|Rebel Clash}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kosturso (Dimensionale Krise 058)]]
+[[es:Bewear (Crisis Dimensional TCG Pocket)]]
+[[fr:Chelours (Crise Interdimensionnelle 058)]]
+[[it:Bewear (Crisi Ultradimensionale 58)]]
+[[ja:キテルグマ (ポケポケ A3a)]]
+[[zh:穿着熊（A3a）]]

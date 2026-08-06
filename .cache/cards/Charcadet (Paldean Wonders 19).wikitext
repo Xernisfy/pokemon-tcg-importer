@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Charcadet
+|ja name=カルボウ
+|trans name=Carbou
+|species=Charcadet
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharcadetPaldeanWonders19.png|illustrator=Souichirou Gunjima|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharcadetPromo-B35.png|illustrator=Oswaldo KATO|tab caption=Promo}}
+|hp=60
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=019/093|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=035/P-B|pack=Vol. 5}}
+}}
+
+'''Charcadet''' (Japanese: '''カルボウ''' ''Carbou'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Colorless}}
+|name=Punch
+|jname=パンチ
+|jtrans=Punch
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Charcadet
+|category=Fire Child
+|ndex=0935
+|height=2'
+|jheight=0.6
+|weight=23.1
+|jweight=10.5
+|dex=Its firepower increases when it fights, reaching over 1,800 degrees Fahrenheit. It likes berries that are rich in fat.
+|jdex=戦いになると 火力が 上がり 摂氏1000度に 達する。 油分の多い 木の実を 好む。
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} print of this card was one of five cards that could be pulled from Promo-B Vol. 5 packs; these were made available as part of the [[Charcadet Drop Event]], which ran from March 11 to 21, 2026.
+
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=CharcadetPaldeanWonders19.png
+|caption1=Common card<br>Illus. [[Souichirou Gunjima]]
+|image2=CharcadetPromo-B35.png
+|caption2=Promo card<br>Illus. [[Oswaldo KATO]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Scarlet & Violet|Charcadet|39}} from the {{TCG|Scarlet & Violet}} expansion.
+*'''Punch''' is an attack that first appeared on {{TCG ID|Team Rocket|Machop|59}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knarbon (Wundervolles Paldea 019)]]
+[[es:Charcadet (Encantos de Paldea TCG Pocket)]]
+[[fr:Charbambin (Merveilles de Paldea 019)]]
+[[it:Charcadet (Meraviglie di Paldea 19)]]
+[[ja:カルボウ (ポケポケ B2a)]]
+[[zh:炭小侍（B2a）]]

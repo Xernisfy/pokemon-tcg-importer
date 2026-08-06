@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Finneon
+|ja name=ケイコウオ
+|trans name=Keikouo
+|species=Finneon
+|type=Water
+|image=FinneonSpace-TimeSmackdown42.png
+|illustrator=Shigenori Negishi
+|hp=50
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=042/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Finneon''' (Japanese: '''ケイコウオ''' ''Keikouo'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Elegant Swim
+|jname=ゆうがにおよぐ
+|jtrans=Swim Elegantly
+|damage=10
+|effect=Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Finneon
+|species=Wing Fish
+|ndex=0456
+|height=1'4"
+|jheight=0.4
+|weight=15.4
+|jweight=7.0
+|dex=The line running down its side can store sunlight. It shines vividly at night.
+|jdex=からだの　よこがわにある　ラインは　たいようのひかりを　ためておける。よるになると　あざやかに　かがやく。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Phantom Forces|Finneon|18}} from the {{TCG|Phantom Forces}} expansion.
+*'''Elegant Swim''' is an attack that first appeared on {{TCG ID|Mysterious Treasures|Finneon|83}} from the {{TCG|Mysterious Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Finneon (Kollision von Raum und Zeit 042)]]
+[[es:Finneon (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Écayon (Choc Spatio-Temporel 042)]]
+[[it:Finneon (Scontro Spaziotemporale 42)]]
+[[ja:ケイコウオ (ポケポケ A2)]]
+[[zh:荧光鱼（A2）]]

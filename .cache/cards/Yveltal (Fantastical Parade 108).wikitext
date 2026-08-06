@@ -1,0 +1,70 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Yveltal
+|ja name=イベルタル
+|trans name=Yveltal
+|species=Yveltal
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=YveltalFantasticalParade108.png|illustrator=Hajime Kusajima|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=YveltalFantasticalParade175.png|illustrator=Nurikabe|tab caption=Illustration Rare}}
+|hp=120
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=108/155|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=175/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Yveltal''' (Japanese: '''イベルタル''' ''Yveltal'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Darkness}}
+|name=Evil Crash
+|jname=イビルクラッシュ
+|jtrans=Evil Crash
+|damage=90
+|effect=Discard a random Energy from both Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Yveltal
+|species=Destruction
+|ndex=0717
+|height=19'
+|jheight=5.8
+|weight=447.5
+|jweight=203.0
+|dex=When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.
+|jdex=寿命が つきるとき あらゆる 生き物の 命を 吸いつくし 繭の 姿に 戻るという。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=YveltalFantasticalParade108.png
+|caption1=Rare card<br>Illus. [[Hajime Kusajima]]
+|image2=YveltalFantasticalParade175.png
+|caption2=Illustration rare card<br>Illus. [[Nurikabe]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Steam Siege|Yveltal|65}} from the {{TCG|Steam Siege}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Yveltal (Traumhafte Parade 108)]]
+[[fr:Yveltal (Parade Onirique 108)]]
+[[it:Yveltal (Parata Fantasmagorica 108)]]
+[[ja:イベルタル (ポケポケ B2)]]
+[[zh:伊裴尔塔尔（B2）]]

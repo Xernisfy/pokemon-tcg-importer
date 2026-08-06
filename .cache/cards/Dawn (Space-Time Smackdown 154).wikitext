@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Dawn
+|ja name=ヒカリ
+|trans name=Hikari
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DawnSpace-TimeSmackdown154.png|illustrator=saino misaki|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DawnDeluxePackex343.png|illustrator=saino misaki|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DawnSpace-TimeSmackdown194.png|illustrator=saino misaki|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=154/155|pack=Dialga|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=194/155|pack=Dialga|rarity=Star|rarity count=2}}	
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=342/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=343/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Dawn''' (Japanese: '''ヒカリ''' ''Hikari'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Move an Energy from 1 of your Benched Pokémon to your Active Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=DawnSpace-TimeSmackdown154.png
+|caption1=Standard card<br>Illus. [[saino misaki]]
+|image2=DawnSpace-TimeSmackdown194.png
+|caption2=Super rare card<br>Illus. [[saino misaki]]
+|image4=DawnDeluxePackex343.png
+|caption4=Parallel foil card<br>Illus. [[saino misaki]]
+}}
+
+==Trivia==
+* This card's effect is identical to the effect of [[Multi Switch (Guardians Rising 129)|Multi Switch]] in the [[Pokémon Trading Card Game]], but as a {{TCGP|Supporter card}} rather than an {{TCGP|Item card}}.
+* {{TCGP|Elemental Switch}} has a less potent version of this card's effect, but as an Item card instead of a Supporter card and can only move {{e|Fire}}, {{e|Water}}, or {{e|Lightning}} Energy.
+* {{TCG|Dawn}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+* {{ga|Dawn}} is the female player character of {{game2|Diamond|Pearl|Platinum}} and their [[Generation VIII]] remakes {{g|Brilliant Diamond and Shining Pearl}}. As an NPC, Dawn serves as the [[Professor's assistant|assistant]] to [[Professor Rowan]].
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=ヒカリ ''Hikari''
+|zh_yue=小光 ''Síu Gwōng''
+|zh_cmn=小光 ''Xiǎo Guāng''
+|fr=Aurore
+|de=Lucia
+|it=Lucinda
+|ko=빛나 ''Bitna''
+|pt_br=Dawn
+|es=Maya
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lucia (TCG Pocket)]]
+[[es:Maya (TCG Pocket)]]
+[[fr:Aurore (Choc Spatio-Temporel 154)]]
+[[it:Lucinda (Scontro Spaziotemporale 154)]]
+[[ja:ヒカリ (ポケポケ)]]
+[[zh:小光（TCGP）]]

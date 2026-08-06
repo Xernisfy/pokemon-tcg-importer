@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Chatot
+|ja name=ペラップ
+|trans name=Perap
+|species=Chatot
+|type=Colorless
+|image=ChatotMythicalIsland62.png
+|illustrator=Masako Tomii
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=062/068|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Chatot''' (Japanese: '''ペラップ''' ''Perap'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Mimic
+|jname=ものまね
+|jtrans=Mimic
+|effect=Shuffle your hand into your deck. Draw a card for each card in your opponent's hand.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Chatot
+|species=Music Note
+|ndex=0411
+|height=1'8"
+|jheight=0.5
+|weight=4.2
+|jweight=1.9
+|dex=It mimics the cries of other Pokémon to trick them into thinking it's one of them. This way they won't attack it.
+|jdex=相手と　同じ　鳴き声を　出す　ことで　仲間と　思いこませて　襲われないように　しているのだ｡
+}}
+
+==Trivia==
+This card is one of several in the {{TCGP|Mythical Island}} expansion to feature a cameo from {{p|Mew}} in its illustration.
+
+===Origin===
+*{{m|Mimic}} is a [[move]] in the [[Pokémon games]] that {{p|Chatot}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Omega Ruby}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Plaudagei (Mysteriöse Insel 062)]]
+[[es:Chatot (La Isla Singular TCG Pocket)]]
+[[fr:Pijako (L'Île Fabuleuse 062)]]
+[[it:Chatot (L'Isola Misteriosa 62)]]
+[[ja:ペラップ (ポケポケ A1a)]]
+[[zh:聒噪鸟（A1a）]]

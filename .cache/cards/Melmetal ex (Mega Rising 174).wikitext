@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Melmetal {{TCGP Icon|ex}}
+|ja name=メルメタル{{TCGP Icon|ex}}
+|trans name=Melmetal {{TCGP Icon|ex}}
+|species=Melmetal
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MelmetalexMegaRising174.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MelmetalexMegaRising264.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MelmetalexMegaRising282.png|illustrator=toriyufu|tab caption=Special Illustration Rare}}
+|hp=170
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Meltan
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=174/226|pack=Mega Gyarados|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=264/226|pack=Mega Gyarados|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=282/226|pack=Mega Gyarados|rarity=Star|rarity count=2}}
+}}
+
+'''Melmetal ex''' (Japanese: '''メルメタルex''' ''Melmetal ex'') is a {{ct|Metal}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Colorless}}
+|name=Headbutt
+|jname=ずつき
+|jtrans=Headbutt
+|damage=80
+|effect=
+}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Metal}}{{e|Colorless}}
+|name=Metal Arms
+|jname=メタルアームズ
+|jtrans=Metal Arms
+|damage=100+
+|effect=If this Pokémon has a [[Pokémon Tool card (TCG Pocket)|Pokémon Tool]] attached, this attack does 50 more damage.
+}}
+{{Cardtext/Pocket ex
+|type=Metal
+|ndex=0809
+|name=Melmetal
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=MelmetalexMegaRising174.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=MelmetalexMegaRising264.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=MelmetalexMegaRising282.png
+|caption3=Special illustration rare card<br>Illus. [[toriyufu]]
+}}
+
+==Trivia==
+===Origin===
+*{{m|Headbutt}} is a [[move]] in the [[Pokémon games]] that {{p|Melmetal}} can learn.
+*'''Metal Arms''' is an attack that first appeared on {{TCG ID|Lost Thunder|Cobalion|129}} from the {{TCG|Lost Thunder}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Melmetal-ex (Mega-Aufstieg 174)]]
+[[es:Melmetal ex (Megaascenso TCG Pocket)]]
+[[fr:Melmetal-ex (Méga-Ascension 174)]]
+[[it:Melmetal-ex (Mega Ascesa 174)]]
+[[ja:メルメタルex (ポケポケ B1)]]
+[[zh:美录梅塔ex（B1）]]

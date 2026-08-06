@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Paldean Tauros
+|ja name=パルデアケンタロス
+|trans name=Paldean Kentauros
+|species=Tauros
+|type=Fire
+|image=PaldeanTaurosMegaShine14.png
+|illustrator=AKIRA EGAWA
+|hp=100
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=014/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Paldean Tauros''' (Japanese: '''パルデアケンタロス''' ''Paldean Kentauros'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Take Down
+|jname=とっしん
+|jtrans=Charge
+|damage=60
+|effect=This Pokémon also does 20 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Tauros
+|category=Wild Bull
+|ndex=0128
+|height=4'7"
+|jheight=1.4
+|weight=187.4
+|jweight=85.0
+|dex=People call this kind of Tauros the Blaze Breed due to the hot air it snorts from its nostrils. Its three tails are intertwined.
+|jdex=高温の　鼻息を　吹きだすので ブレイズ種と　名づけられた｡ ３本の　尻尾を　束ねている｡
+}}
+
+==Trivia==
+===Origin===
+*This card features the Blaze Breed [[Paldean form]] of {{p|Tauros}}.
+*This card's illustration was first featured on {{TCG ID|Paldea Evolved|Paldean Tauros|28}} from the {{TCG|Paldea Evolved}} expansion.
+*{{m|Take Down}} is a [[move]] in the [[Pokémon games]] that Paldean Tauros can learn via [[TM]].
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Paldea-Tauros (Mega-Schillern 014)]]
+[[fr:Tauros de Paldea (Méga-Rayonnement 014)]]
+[[it:Tauros di Paldea (Mega Splendore 14)]]
+[[ja:パルデアケンタロス (ポケポケ B2b)]]
+[[zh:帕底亚 肯泰罗（B2b）]]

@@ -1,0 +1,90 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Phanpy
+|ja name=ゴマゾウ
+|trans name=Gomazou
+|species=Phanpy
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PhanpySecludedSprings43.png|illustrator=Naoyo Kimura|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PhanpySecludedSprings76.png|illustrator=OKACHEKE|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PhanpyPromo-A108.png|illustrator=Kagemaru Himeno|tab caption=Promo}}
+|hp=70
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=043/071|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=076/071|pack=Any|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=108/P-A}}
+}}
+
+'''Phanpy''' (Japanese: '''ゴマゾウ''' ''Gomazou'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Flail
+|jname=じたばた
+|jtrans=Flail
+|damage=
+|effect=This attack does damage to your opponent's Active Pokémon equal to the damage this Pokémon has on it.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Phanpy
+|category=Long Nose 
+|ndex=0231
+|height=1'8"
+|jheight=0.5
+|weight=73.9
+|jweight=33.5
+|dex=This Pokémon lives and nests on a riverbank. After playing in the mud, it won't be able to settle down unless it washes its body.
+|jdex=川辺に 巣穴を 作り 暮らす。 泥遊びをしたあとは 体を 洗わないと 落ち着かないのだ。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available via special wonder picks during the Quagsire [[Wonder Pick Event (Quagsire)|Wonder Pick Event]], which ran from September 14 to 24, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=PhanpySecludedSprings43.png
+|caption1=Common card<br>Illus. [[Naoyo Kimura]]
+|image2=PhanpySecludedSprings76.png
+|caption2=Illustration rare card<br>Illus. [[OKACHEKE]]
+|image3=PhanpyPromo-A108.png
+|caption3=Promo card<br>Illus. [[Kagemaru Himeno]]
+}}
+
+==Trivia==
+The {{TCGP|Promo-A}} print of this card was included in internal game files prior to the release of the card on August 28, 2025; with the same illustration as on the {{TCG ID|Triumphant Light|Phanpy|37}} card from the {{TCGP|Triumphant Light}} expansion, originally featured on {{TCG ID|Lost Thunder|Phanpy|111}} from the TCG's {{TCG|Lost Thunder}} expansion. When the card became available to players with the Quagsire [[Wonder Pick Event (Quagsire)|Wonder Pick Event]], it was updated with new artwork.
+
+{{TCGGallery
+|type=Fighting
+|image1=PhanpyPromo-A108 original.png
+|caption1=Original card image<br>Illus. [[Asako Ito]]
+|image2=PhanpyPromo-A108.png
+|caption2=Updated card image<br>Illus. [[Kagemaru Himeno]]
+}}
+
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Aquapolis|Phanpy|100}} from the {{TCG|Aquapolis}} expansion; both cards have the Flail attack.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|SWSH Promo|Phanpy|117}}, one of the {{TCG|SWSH Black Star Promos}}.
+*{{m|Flail}} is a [[move]] in the [[Pokémon games]] that {{p|Phanpy}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Phanpy (Verborgene Quelle 043)]]
+[[es:Phanpy (Manantial Oculto TCG Pocket)]]
+[[fr:Phanpy (Source Secrète 043)]]
+[[it:Phanpy (Sorgenti Recondite 43)]]
+[[ja:ゴマゾウ (ポケポケ A4a)]]
+[[zh:小小象（A4a）]]

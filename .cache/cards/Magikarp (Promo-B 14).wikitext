@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Magikarp
+|ja name=コイキング
+|trans name=Koiking
+|species=Magikarp
+|type=Water
+|image=MagikarpPromo-B14.png
+|illustrator=sui
+|hp=30
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=014/P-B|pack=Vol. 2}}
+}}
+
+'''Magikarp''' (Japanese: '''コイキング''' ''Koiking'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-B}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Expert Splasher
+|jname=はねじょうず
+|jtrans=Skilled Leap
+|damage=10+
+|effect=Flip 2 coins. If both are heads, this attack does 20 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Magikarp
+|category=Fish
+|ndex=0129
+|height=2'11"
+|jheight=0.9
+|weight=22.0
+|jweight=10.0
+|dex=In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.
+|jdex=大昔は まだ もう少し 強かったらしい。しかし 今は 悲しいくらいに 弱いのだ。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-B Vol. 2 packs; these were made available as part of the [[Mareep Drop Event]], which ran from January 1 to 18, 2026.
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Magikarp|29}} from the {{TCG|Team Up}} expansion.
+*'''Expert Splasher''' is an attack that first appeared on {{TCG ID|Paldea Evolved|Magikarp|42}} from the {{TCG|Paldea Evolved}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Karpador (PROMO-B 014)]]
+[[es:Magikarp (Promo-B 14 TCG Pocket)]]
+[[fr:Magicarpe (Promo-B 014)]]
+[[it:Magikarp (Promo-B 14)]]
+[[ja:コイキング (ポケポケ P-B)]]

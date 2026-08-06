@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Snorunt
+|ja name=ユキワラシ
+|trans name=Yukiwarashi
+|species=Snorunt
+|type=Water
+|image=SnoruntTriumphantLight18.png
+|illustrator=sowsow
+|hp=60
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=018/075|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Snorunt''' (Japanese: '''ユキワラシ''' ''Yukiwarashi'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Icicle
+|jname=つらら
+|jtrans=Icicle
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Snorunt
+|species=Snow Hat
+|ndex=0361
+|height=2'4"
+|jheight=0.7
+|weight=37
+|jweight=16.8
+|dex=It is said that several Snorunt gather under giant leaves and live together in harmony.
+|jdex=大きな 葉っぱの 下に 数匹の ユキワラシが 集まり 仲良く 暮らしているという。
+}}
+
+==Trivia==
+A small [[snow Pikachu]] is featured in this card's illustration.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Snorunt|47}} from the {{TCG|Cosmic Eclipse}} expansion.
+*'''Icicle''' is an attack that first appeared on {{TCG ID|Unified Minds|Snorunt|37}} from the {{TCG|Unified Minds}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schneppke (Licht des Triumphs 018)]]
+[[es:Snorunt (Luz Triunfal TCG Pocket)]]
+[[fr:Stalgamin (Lumière Triomphale 018)]]
+[[it:Snorunt (Luce Trionfale 18)]]
+[[ja:ユキワラシ (ポケポケ A2a)]]
+[[zh:雪童子（A2a）]]

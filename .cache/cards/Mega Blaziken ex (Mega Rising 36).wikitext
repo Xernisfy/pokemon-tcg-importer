@@ -1,0 +1,83 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Blaziken {{TCGP Icon|Mega ex}}
+|ja name=メガバシャーモ{{TCGP Icon|Mega ex}}
+|trans name=Mega Bursyamo {{TCGP Icon|Mega ex}}
+|species=Blaziken
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaBlazikenexMegaRising36.png|illustrator=PLANETA Yamashita|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaBlazikenexMegaRising254.png|illustrator=PLANETA Igarashi|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaBlazikenexMegaRising284.png|illustrator=AKIRA EGAWA|tab caption=Immersive}}
+|hp=210
+|weakness=Water
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Combusken
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=036/226|pack=Mega Blaziken|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=254/226|pack=Mega Blaziken|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=284/226|pack=Mega Blaziken|rarity=Star|rarity count=3}}
+}}
+
+'''Mega Blaziken ex''' (Japanese: '''メガバシャーモex''' ''Mega Bursyamo ex'') is a {{ct|Fire}} Stage 2 {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Mega Species/Pocket|Blaziken}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Mega Burning
+|jname=メガバーニング
+|jtrans=Mega Burning
+|damage=120
+|effect=Discard a {{e|Fire}} Energy from this Pokémon. Your opponent's Active Pokémon is now {{TCG|Burned}}.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Fire
+|ndex=0257
+|name=Blaziken
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Blaziken
+|category=Blaze
+|ndex=0257
+|height=6'3"
+|jheight=1.9
+|weight=114.6
+|jweight=52.0
+|dex=When facing a tough foe, it looses flames from its wrists. Its powerful legs let it jump clear over buildings.
+|jdex=強敵に 出会うと 手首から 炎を 噴き出す。 ジャンプで ビルを 跳び越す 脚力。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=MegaBlazikenexMegaRising36.png
+|caption1=Double rare card<br>Illus. [[PLANETA Yamashita]]
+|image2=MegaBlazikenexMegaRising254.png
+|caption2=Super rare card<br>Illus. [[PLANETA Igarashi]]
+|image3=MegaBlazikenexMegaRising284.png
+|caption3=Immersive card<br>Illus. [[AKIRA EGAWA]]
+}}
+
+==Trivia==
+*The Immersive card features {{p|Hitmonchan}}, {{p|Tauros}}, {{p|Jolteon}}, Mega {{p|Blaziken}}, {{p|Luxray}}, {{p|Archeops}}, {{p|Greninja}}, {{p|Aegislash}}, {{p|Melmetal}} and {{p|Corviknight}}.
+===Origin===
+*This card features [[Mega]] {{p|Blaziken}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}. It refers to Blaziken and has not been previously used for Mega Blaziken. This is because Mega Blaziken had no Pokédex entry from [[Generation VII]], and unlike [[Mega Altaria ex (Mega Rising 102)|Mega Altaria]], it did not receive one in the newly released base game of {{g|Legends: Z-A}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Lohgock-ex (Mega-Aufstieg 036)]]
+[[es:Mega-Blaziken ex (Megaascenso TCG Pocket)]]
+[[fr:Méga-Braségali-ex (Méga-Ascension 036)]]
+[[it:Mega Blaziken-ex (Mega Ascesa 36)]]
+[[ja:メガバシャーモex (ポケポケ B1)]]
+[[zh:超级火焰鸡ex（B1）]]

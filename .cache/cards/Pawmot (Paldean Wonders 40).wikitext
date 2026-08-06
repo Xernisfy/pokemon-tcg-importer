@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pawmot
+|ja name=パーモット
+|trans name=Parmot
+|species=Pawmot
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PawmotPaldeanWonders40.png|illustrator=Mizue|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PawmotPaldeanWonders121.png|illustrator=whomor Inc.|tab caption=Shiny Rare}}
+|hp=140
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Pawmo
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=040/093|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=121/093|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Pawmot''' (Japanese: '''パーモット''' ''Parmot'') is a {{ct|Lightning}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Thunder Blast
+|jname=サンダーブラスト
+|jtrans=Thunder Blast
+|damage=100
+|effect=Discard a {{e|Lightning}} Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Pawmot
+|category=Hands-On
+|ndex=0923
+|height=2'11"
+|jheight=0.9
+|weight=90.4
+|jweight=41.0
+|dex=Pawmot's fluffy fur acts as a battery. It can store the same amount of electricity as an electric car.
+|jdex=ふわふわの 体毛が バッテリー。 電気自動車と 同じ 量の 電気を 蓄えることができる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=PawmotPaldeanWonders40.png
+|caption1=Uncommon card<br>Illus. [[Mizue]]
+|image2=PawmotPaldeanWonders121.png
+|caption2=Shiny rare card<br>Illus. [[whomor Inc.]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Scarlet & Violet|Pawmot|76}} from the {{TCG|Scarlet & Violet}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Pawmot}}.
+*'''Thunder Blast''' is an attack that first appeared on {{TCG ID|EX Delta Species|Jolteon ex|109}} from the {{TCG|EX Delta Species}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pamomamo (Wundervolles Paldea 040)]]
+[[es:Pawmot (Encantos de Paldea TCG Pocket)]]
+[[fr:Pohmarmotte (Merveilles de Paldea 040)]]
+[[it:Pawmot (Meraviglie di Paldea 40)]]
+[[ja:パーモット (ポケポケ B2a)]]
+[[zh:巴布土拨（B2a）]]

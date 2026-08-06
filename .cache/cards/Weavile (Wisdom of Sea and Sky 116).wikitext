@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Weavile
+|ja name=マニューラ
+|trans name=Manyula
+|species=Weavile
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WeavileWisdomofSeaandSky116.png|illustrator=kawayoo|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WeavilePromo-A100.png|illustrator=Satoshi Shirai|tab caption=Promo}}
+|hp=80
+|weakness=Grass
+|retreat cost=0
+|evo stage=Stage 1
+|prevo name=Sneasel
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lugia|rarity=Diamond|rarity count=2|number=116/161}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=100/P-A}}
+}}
+
+'''Weavile''' (Japanese: '''マニューラ''' ''Manyula'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Slash
+|jname=きりさく
+|jtrans=Slash
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Weavile
+|species=Sharp Claw
+|ndex=0461
+|height=3'7"
+|jheight=1.1
+|weight=75
+|jweight=34.0
+|dex=Evolution made it even more devious. It communicates by clawing signs in boulders.
+|jdex=進化して さらに ずる賢くなり ツメで 石に サインをつけて コミュニケーションを はかっている。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available via special wonder picks during the Tyranitar [[Wonder Pick Event (Tyranitar)|Wonder Pick Event]], which ran from August 14 to 24, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=WeavileWisdomofSeaandSky116.png
+|caption1=Uncommon card<br>Illus. [[kawayoo]]
+|image2=WeavilePromo-A100.png
+|caption2=Promo card<br>Illus. [[Satoshi Shirai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Wisdom of Sea and Sky}} illustration was first featured on {{TCG ID|Steam Siege|Weavile|61}} from the {{TCG|Steam Siege}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Burning Shadows|Weavile|86}} from the {{TCG|Burning Shadows}} expansion.
+*{{m|Slash}} is a [[move]] in the [[Pokémon games]] that {{p|Weavile}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Snibunna (Weisheit von Meer und Himmel 116)]]
+[[es:Weavile (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Dimoret (Sagesse entre Ciel et Mer 116)]]
+[[it:Weavile (La Via del Cielo e del Mare 116)]]
+[[ja:マニューラ (ポケポケ A4)]]
+[[zh:玛狃拉（A4）]]

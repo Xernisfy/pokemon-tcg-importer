@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ninetales
+|ja name=キュウコン
+|trans name=Kyukon
+|species=Ninetales
+|type=Fire
+|image=NinetalesGeneticApex38.png
+|illustrator=You Iribi
+|hp=90
+|weakness=Water
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Vulpix
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=038/226|pack=Charizard|rarity=Diamond|rarity count=2}}
+}}
+
+'''Ninetales''' (Japanese: '''キュウコン''' ''Kyukon'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Flamethrower
+|jname=かえんほうしゃ
+|jtrans=Flamethrower
+|damage=90
+|effect=Discard a {{e|Fire}} Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Ninetales
+|species=Fox
+|ndex=0038
+|height=3'7"
+|jheight=1.1
+|weight=43.9
+|jweight=19.9
+|dex=It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.
+|jdex=しっぽの　１本　１本に 神通力が　込められている｡ １０００年　生きると　言われる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Ninetales|16}} from the {{TCG|Team Up}} expansion.
+*{{m|Flamethrower}} is a [[move]] in the [[Pokémon games]] that {{p|Ninetales}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Vulnona (Unschlagbare Gene 038)]]
+[[es:Ninetales (Genes Formidables TCG Pocket)]]
+[[fr:Feunard (Puissance Génétique 038)]]
+[[it:Ninetales (Geni Supremi 38)]]
+[[ja:キュウコン (ポケポケ A1)]]
+[[zh:九尾（A1）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Exeggutor
+|ja name=ナッシー
+|trans name=Nassy
+|species=Exeggutor
+|type=Grass
+|image=ExeggutorGeneticApex22.png
+|illustrator=Yukiko Baba
+|hp=130
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Exeggcute
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=022/226|pack=Charizard|rarity=Diamond|rarity count=3}}
+}}
+
+'''Exeggutor''' (Japanese: '''ナッシー''' ''Nassy'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Stomp
+|jname=ふみつけ
+|jtrans=Trample
+|damage=30+
+|effect=Flip a coin. If heads, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Exeggutor
+|species=Coconut
+|ndex=0103
+|height=6'7"
+|jheight=2
+|weight=264.6
+|jweight=120.0
+|dex=Each of Exeggutor's three heads is thinking different thoughts. The three don't seem to be very interested in one another.
+|jdex=３つの　頭は　べつのことを 考えている｡　自分以外は あまり　興味がない　ようだ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Aquapolis|Exeggutor|12}} from the {{TCG|Aquapolis}} expansion.
+*{{m|Stomp}} is a [[move]] in the [[Pokémon games]] that {{p|Exeggutor}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kokowei (Unschlagbare Gene 022)]]
+[[es:Exeggutor (Genes Formidables TCG Pocket)]]
+[[fr:Noadkoko (Puissance Génétique 022)]]
+[[it:Exeggutor (Geni Supremi 22)]]
+[[ja:ナッシー (ポケポケ A1)]]
+[[zh:椰蛋树（A1）]]

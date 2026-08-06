@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Morpeko
+|ja name=モルペコ
+|trans name=Morpeko
+|species=Morpeko
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MorpekoMegaShine45.png|illustrator=Cona Nitanda|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MorpekoMegaShine73.png|illustrator=Yuu Nishida|tab caption=Illustration Rare}}
+|hp=70
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=045/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=073/069|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Morpeko''' (Japanese: '''モルペコ''' ''Morpeko'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=Energizer Wheel
+|jname=エネしゃりん
+|jtrans=Ene Wheel
+|damage=50
+|effect=Move 2 {{e|Darkness}} Energy from this Pokémon to 1 of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Morpeko
+|category=Two-Sided
+|ndex=0877
+|height=1'
+|jheight=0.3
+|weight=6.6
+|jweight=3.0
+|dex=Hunger has disrupted this Pokémon’s hormonal balance. The Electric-type energy stored in its cheek sacs has turned into Dark-type energy.
+|jdex=空腹で　ホルモンバランスが 乱れて　頬袋の　エネルギーが 電気から　悪タイプに　変わった｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=MorpekoMegaShine45.png
+|caption1=Common card<br>Illus. [[Cona Nitanda]]
+|image2=MorpekoMegaShine73.png
+|caption2=Illustration rare card<br>Illus. [[Yuu Nishida]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Morpeko}} in its {{form|Morpeko|Hangry Mode}}.
+*Both of this card's illustrations were first featured on {{TCG ID|Paradox Rift|Morpeko|121}} from the {{TCG|Paradox Rift}} expansion, as did its '''Energizer Wheel''' attack.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Morpeko (Mega-Schillern 045)]]
+[[fr:Morpeko (Méga-Rayonnement 045)]]
+[[it:Morpeko (Mega Splendore 45)]]
+[[ja:モルペコ (ポケポケ B2b)]]
+[[zh:莫鲁贝可（B2b）]]

@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ralts
+|ja name=ラルトス
+|trans name=Ralts
+|species=Ralts
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RaltsSpace-TimeSmackdown68.png|illustrator=Miki Tanaka|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RaltsDeluxePackex165.png|illustrator=Miki Tanaka|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RaltsEeveeGrove97.png|illustrator=Sanosuke Sakuma|tab caption=Shiny Rare}}
+|hp=60
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=068/155|pack=Dialga|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=097/069|pack=Any|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=164/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=165/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Ralts''' (Japanese: '''ラルトス''' ''Ralts'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}
+|name=Teleport
+|jname=テレポート
+|jtrans=Teleport
+|damage=
+|effect=Switch this Pokémon with 1 of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Ralts
+|species=Feeling
+|ndex=0280
+|height=1'4"
+|jheight=0.4
+|weight=14.6
+|jweight=6.6
+|dex=The horns on its head provide a strong power that enables it to sense people's emotions.
+|jdex=人の　感情を　頭の 赤い　ツノで　敏感に キャッチする　力を　持つ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=RaltsSpace-TimeSmackdown68.png
+|caption1=Standard card<br>Illus. [[Satoshi Shirai]]
+|image2=RaltsEeveeGrove97.png
+|caption2=Shiny rare card<br>Illus. [[Sanosuke Sakuma]]
+|image4=RaltsDeluxePackex165.png
+|caption4=Parallel foil card<br>Illus. [[Satoshi Shirai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare illustration features a {{Shiny}} {{p|Ralts}}.
+*This card's standard illustration was first featured on {{TCG ID|Platinum|Ralts|89}} from the {{TCG|Platinum}} expansion.
+*{{m|Teleport}} is a [[move]] in the [[Pokémon games]] that {{p|Ralts}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Trasla (Kollision von Raum und Zeit 068)]]
+[[es:Ralts (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Tarsal (Choc Spatio-Temporel 068)]]
+[[it:Ralts (Scontro Spaziotemporale 68)]]
+[[ja:ラルトス (ポケポケ A2)]]
+[[zh:拉鲁拉丝（A2）]]

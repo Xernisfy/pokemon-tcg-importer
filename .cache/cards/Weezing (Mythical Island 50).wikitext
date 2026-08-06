@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Weezing
+|ja name=マタドガス
+|trans name=Matadogas
+|species=Weezing
+|type=Darkness
+|image=WeezingMythicalIsland50.png
+|illustrator=Mousho
+|hp=110
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Koffing
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=050/068}}
+}}
+
+'''Weezing''' (Japanese: '''マタドガス''' ''Matadogas'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=Smokescreen
+|jname=えんまく
+|jtrans=Smokescreen
+|damage=50
+|effect=During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Weezing
+|species=Poison Gas
+|ndex=0110
+|height=3'11"
+|jheight=1.2
+|weight=20.9
+|jweight=9.5
+|dex=If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.
+|jdex=どちらかが　ふくらむと　片方は しぼむ　双子の　ドガース｡　いつも 体内の　毒ガスを　混ぜている｡
+}}
+
+==Trivia==
+This card is one of several in the {{TCGP|Mythical Island}} expansion to feature a cameo from {{p|Mew}} in its illustration.
+
+===Origin===
+*{{m|Smokescreen}} is a [[move]] in the [[Pokémon games]] that {{p|Weezing}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Smogmog (Mysteriöse Insel 050)]]
+[[es:Weezing (La Isla Singular TCG Pocket)]]
+[[fr:Smogogo (L'Île Fabuleuse 050)]]
+[[it:Weezing (L'Isola Misteriosa 50)]]
+[[ja:マタドガス (ポケポケ A1a)]]
+[[zh:双弹瓦斯（A1a）]]

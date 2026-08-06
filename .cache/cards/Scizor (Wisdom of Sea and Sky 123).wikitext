@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Scizor
+|ja name=ハッサム
+|trans name=Hassam
+|species=Scizor
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ScizorWisdomofSeaandSky123.png|illustrator=Ryuta Fuse|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ScizorWisdomofSeaandSky180.png|illustrator=danciao|tab caption=Illustration Rare}}
+|hp=100
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Scyther
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=123/161|pack=Lugia|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=180/161|pack=Lugia|rarity=Star|rarity count=1}}
+}}
+
+'''Scizor''' (Japanese: '''ハッサム''' ''Hassam'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}
+|name=Gale Thrust
+|jname=しっぷうづき
+|jtrans=Gale Thrust
+|damage=50+
+|effect=If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Scizor
+|category=Pincer 
+|ndex=0212
+|height=5'11"
+|jheight=1.8
+|weight=260.1
+|jweight=118.0
+|dex=This Pokémon's pincers, which contain steel, can crush any hard object they get ahold of into bits.
+|jdex=鋼鉄を 含んでいる ハサミで 捕らえたものは どんなに 硬くても コナゴナに 砕く。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=ScizorWisdomofSeaandSky123.png
+|caption1=Rare card<br>Illus. [[Ryuta Fuse]]
+|image2=ScizorWisdomofSeaandSky180.png
+|caption2=Illustration rare card<br>Illus. [[danciao]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Rebel Clash|Scizor|128}} from the {{TCG|Rebel Clash}} expansion.
+*'''Gale Thrust''' is an attack that first appeared on {{TCG ID|BREAKpoint|Scizor-EX|76}} from the {{TCG|BREAKpoint}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Scherox (Weisheit von Meer und Himmel 123)]]
+[[es:Scizor (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Cizayox (Sagesse entre Ciel et Mer 123)]]
+[[it:Scizor (La Via del Cielo e del Mare 123)]]
+[[ja:ハッサム (ポケポケ A4)]]
+[[zh:巨钳螳螂（A4）]]

@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hoppip
+|ja name=ハネッコ
+|trans name=Hanecco
+|species=Hoppip
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HoppipWisdomofSeaandSky13.png|illustrator=Mékayu|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HoppipDeluxePackex15.png|illustrator=Mékayu|tab caption=Parallel}}
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=013/161|pack=Ho-Oh|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=014/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=015/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Hoppip''' (Japanese: '''ハネッコ''' ''Hanecco'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Hoppip
+|category=Cottonweed
+|ndex=0187
+|height=1'4"
+|jheight=0.4
+|weight=1.1
+|jweight=0.5
+|dex=Outside of cold regions, Hoppip can be found practically everywhere. This is because the wind carries this species all over the world.
+|jdex=寒い 地域を 除けば わりと どこにでも いるのは 風に 乗り 各地を 移動しているからだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=HoppipWisdomofSeaandSky13.png
+|caption1=Standard card<br>Illus. [[Mékayu]]
+|image2=HoppipDeluxePackex15.png
+|caption2=Parallel foil card<br>Illus. [[Mékayu]]
+}}
+
+==Trivia==
+===Origin===
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Hoppip}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hoppspross (Weisheit von Meer und Himmel 013)]]
+[[es:Hoppip (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Granivol (Sagesse entre Ciel et Mer 013)]]
+[[it:Hoppip (La Via del Cielo e del Mare 13)]]
+[[ja:ハネッコ (ポケポケ A4)]]
+[[zh:毽子草（A4）]]

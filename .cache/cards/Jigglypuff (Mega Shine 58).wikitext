@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Jigglypuff
+|ja name=プリン
+|trans name=Purin
+|species=Jigglypuff
+|type=Colorless
+|image=JigglypuffMegaShine58.png
+|illustrator=Kagemaru Himeno
+|hp=70
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=058/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Jigglypuff''' (Japanese: '''プリン''' ''Purin'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Stampede
+|jname=ふむ
+|jtrans=Step On
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Jigglypuff
+|category=Balloon
+|ndex=0039
+|height=1'8"
+|jheight=0.5
+|weight=12.1
+|jweight=5.5
+|dex=If it inflates to sing a lullaby, it can perform longer and cause sure drowsiness in its audience.
+|jdex=大きく　体を　ふくらませてから 歌う　子守歌は　いつもより　長くて ぜったいに　眠くなる｡
+}}
+
+==Trivia==
+This card forms part of a {{TCGP|narrative illustration|perspective illustration}} with {{TCG ID|Mega Shine|Chatot|61}} from the same set; both cards' illustrations originated from {{TCG|DPt-P Promotional cards}}.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|DPt-P Promo|Jigglypuff|47}}, a {{TCG|DPt-P Promotional cards|DPt-P Promotional card}} only released in Japan.
+*'''Stampede''' is an attack that first appeared on {{TCG ID|EX Ruby & Sapphire|Phanpy|62}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pummeluff (Mega-Schillern 058)]]
+[[fr:Rondoudou (Méga-Rayonnement 058)]]
+[[it:Jigglypuff (Mega Splendore 58)]]
+[[ja:プリン (ポケポケ B2b)]]
+[[zh:胖丁（B2b）]]

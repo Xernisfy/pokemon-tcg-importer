@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Elemental Switch
+|ja name=エレメンタルつけかえ
+|trans name=Elemental Replacement
+|subtype=Item
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket
+|image=ElementalSwitchWisdomofSeaandSky151.png
+|illustrator=Toyste Beach
+|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket
+|image=ElementalSwitchDeluxePackex311.png
+|illustrator=Toyste Beach
+|tab caption=Parallel}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=151/161|pack=Lugia|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=310/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=311/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Elemental Switch''' (Japanese: '''エレメンタルつけかえ''' ''Elemental Replacement'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Move a {{e|Fire}}, {{e|Water}}, or {{e|Lightning}} Energy from 1 of your Benched Pokémon to your Active Pokémon.
+}}
+
+==Release Information==
+===Gallery===
+{{TCGGallery
+|type=Item
+|image1=ElementalSwitchWisdomofSeaandSky151.png
+|caption1=Standard card<br>Illus. [[Toyste Beach]]
+|image2=ElementalSwitchDeluxePackex311.png
+|caption2=Parallel foil card<br>Illus. [[Toyste Beach]]
+}}
+
+==Trivia==
+* This card's effect is similar to the effect of {{TCG ID|Guardians Rising|Multi Switch|129}} in the [[Pokémon Trading Card Game]], but this card can only move {{e|Fire}}, {{e|Water}}, or {{e|Lightning}} Energy.
+** {{TCGP|Dawn}} can move any Energy (like Multi Switch) but is a Supporter card.
+
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=エレメンタルつけかえ ''Elemental Tsukekae''
+|zh_yue=元素置換 ''Yùhnsou Jiwuhn''
+|zh_cmn=元素置換 ''Yuánsù Zhìhuàn''
+|fr=Échange Élémentaire
+|de=Elementartausch
+|it=Scambio Elementale
+|ko=엘리멘탈 갈아 달기 ''Elemental Gal-a Dalgi''
+|pt_br=Substituição Elemental
+|es=Permuta Elemental
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Elementartausch (TCG Pocket)]]
+[[es:Permuta Elemental (TCG Pocket)]]
+[[fr:Échange Élémentaire (Sagesse entre Ciel et Mer 151)]]
+[[it:Scambio Elementale (La Via del Cielo e del Mare 151)]]
+[[ja:エレメンタルつけかえ]]
+[[zh:元素置换（TCGP）]]

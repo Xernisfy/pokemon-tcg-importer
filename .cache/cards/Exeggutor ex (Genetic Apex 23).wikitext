@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Exeggutor {{TCGP Icon|ex}}
+|ja name=ナッシー{{TCGP Icon|ex}}
+|trans name=Nassy {{TCGP Icon|ex}}
+|species=Exeggutor
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ExeggutorexGeneticApex23.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ExeggutorexGeneticApex252.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ExeggutorexCelestialGuardians231.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=160
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Exeggcute
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=023/226|pack=Charizard|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=252/226|pack=Charizard|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=231/155|pack=Lunala|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=013/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Exeggutor ex''' (Japanese: '''ナッシーex''' ''Nassy ex'') is a {{ct|Grass}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Tropical Swing
+|jname=トロピカルスイング
+|jtrans=Tropical Swing
+|damage=40+
+|effect=Flip a coin. If heads, this attack does 40 more damage.
+}}
+{{Cardtext/Pocket ex
+|type=Grass
+|ndex=0103
+|name=Exeggutor
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=ExeggutorexGeneticApex23.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=ExeggutorexGeneticApex252.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=ExeggutorexCelestialGuardians231.png
+|caption3=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+When starting the game, if a player chooses a {{TCGP|Genetic Apex}}: Charizard pack to open as their first pack, it will always contain the double rare version of this card.
+
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Exeggutor}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kokowei-ex (Unschlagbare Gene 023)]]
+[[es:Exeggutor ex (Genes Formidables TCG Pocket)]]
+[[fr:Noadkoko-ex (Puissance Génétique 023)]]
+[[it:Exeggutor-ex (Geni Supremi 23)]]
+[[ja:ナッシーex (ポケポケ A1)]]
+[[zh:椰蛋树ex（A1）]]

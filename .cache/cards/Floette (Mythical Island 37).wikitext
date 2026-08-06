@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Floette
+|ja name=フラエッテ
+|trans name=Floette
+|species=Floette
+|type=Psychic
+|image=FloetteMythicalIsland37.png
+|illustrator=Cona Nitanda
+|hp=70
+|weakness=Metal
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Flabébé
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=037/068|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Floette''' (Japanese: '''フラエッテ''' ''Floette'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Leaf Drain
+|jname=リーフドレイン
+|jtrans=Leaf Drain
+|damage=40
+|effect=Heal 10 damage from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Floette
+|species=Single Bloom
+|ndex=0670
+|height=8"
+|jheight=0.2
+|weight=2
+|jweight=0.9
+|dex=This Pokémon draws forth what power is left in withered flowers to make them healthy again. It holds a red flower.
+|jdex=枯れた　花に　残った　力を 引き出して　元気にしてあげる｡ 赤い花を　抱えた　フラエッテ｡
+}}
+
+==Trivia==
+===Origin===
+*'''Leaf Drain''' is an attack that first appeared on {{TCG ID|Boundaries Crossed|Shaymin|10}} from the {{TCG|Boundaries Crossed}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Floette (Mysteriöse Insel 037)]]
+[[es:Floette (La Isla Singular TCG Pocket)]]
+[[fr:Floette (L'Île Fabuleuse 037)]]
+[[it:Floette (L'Isola Misteriosa 37)]]
+[[ja:フラエッテ (ポケポケ A1a)]]
+[[zh:花叶蒂（A1a）]]

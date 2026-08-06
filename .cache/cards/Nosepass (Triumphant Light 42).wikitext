@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Nosepass
+|ja name=ノズパス
+|trans name=Nosepass
+|species=Nosepass
+|type=Fighting
+|image=NosepassTriumphantLight42.png
+|illustrator=Satoshi Shirai
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=NosepassTriumphantLight42.png|illustrator=Satoshi Shirai|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=NosepassDeluxePackex204.png|illustrator=Satoshi Shirai|tab caption=Parallel}}
+|hp=80
+|weakness=Grass
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=042/075|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=203/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=204/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Nosepass''' (Japanese: '''ノズパス''' ''Nosepass'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Nosepass
+|species=Compass
+|ndex=0299
+|height=3'3"
+|jheight=1.0
+|weight=213.8
+|jweight=97.0
+|dex=It moves less than an inch a year, but when it's in a jam, it will spin and drill down into the ground in a split second.
+|jdex=１年に １センチしか 動かないが ピンチに 陥ると 回転し 一瞬で 地中に 潜る。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=NosepassTriumphantLight42.png
+|caption1=Standard card<br>Illus. [[Satoshi Shirai]]
+|image2=NosepassDeluxePackex204.png
+|caption2=Parallel foil card<br>Illus. [[Satoshi Shirai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Primal Clash|Nosepass|78}} from the {{TCG|Primal Clash}} expansion.
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Nosepass}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Nasgnet (Licht des Triumphs 042)]]
+[[es:Nosepass (Luz Triunfal TCG Pocket)]]
+[[fr:Tarinor (Lumière Triomphale 042)]]
+[[it:Nosepass (Luce Trionfale 42)]]
+[[ja:ノズパス (ポケポケ A2a)]]
+[[zh:朝北鼻（A2a）]]

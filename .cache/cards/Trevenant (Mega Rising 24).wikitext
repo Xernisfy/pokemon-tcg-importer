@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Trevenant
+|ja name=オーロット
+|trans name=Ohrot
+|species=Trevenant
+|type=Grass
+|image=TrevenantMegaRising24.png
+|illustrator=Hiroyuki Yamamoto
+|hp=110
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Phantump
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=024/226|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Trevenant''' (Japanese: '''オーロット''' ''Ohrot'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Horn Leech
+|jname=ウッドホーン
+|jtrans=Wood Horn
+|damage=60
+|effect=Heal 20 damage from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Trevenant
+|category=Elder Tree
+|ndex=0709
+|height=4'11"
+|jheight=1.5
+|weight=156.5
+|jweight=71.0
+|dex=Small roots that extend from the tips of this Pokémon's feet can tie into the trees of the forest and give Trevenant control over them.
+|jdex=足の 先から 細い 根っこを 伸ばして 森の 木々と 結びつき 自在に 操る 力を もつ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Guardians Rising|Trevenant|7}} from the {{TCG|Guardians Rising}} expansion; both cards have the Horn Leech attack.
+*{{m|Horn Leech}} is a [[move]] in the [[Pokémon games]] that {{p|Trevenant}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Trombork (Mega-Aufstieg 024)]]
+[[es:Trevenant (Megaascenso TCG Pocket)]]
+[[fr:Desséliande (Méga-Ascension 024)]]
+[[it:Trevenant (Mega Ascesa 24)]]
+[[ja:オーロット (ポケポケ B1)]]
+[[zh:朽木妖（B1）]]

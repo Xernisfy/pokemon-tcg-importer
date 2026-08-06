@@ -1,0 +1,64 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Toucannon
+|ja name=ドデカバシ
+|trans name=Dodekabashi
+|species=Toucannon
+|type=Colorless
+|image=ToucannonPromo-A73.png
+|illustrator=Sekio
+|hp=140
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Trumbeak
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Vol. 8|number=073/P-A}}
+}}
+
+'''Toucannon''' (Japanese: '''ドデカバシ''' ''Dodekabashi'') is a {{ct|Colorless}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Beak Blast
+|jname=くちばしキャノン
+|jtrans=Beak Cannon
+|damage=80
+|effect=Flip a coin. If heads, your opponent's Active Pokémon is now Burned.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Toucannon
+|species=Cannon
+|ndex=0733
+|height=3'7"
+|jheight=1.1
+|weight=57.3
+|jweight=26.0
+|dex=They smack beaks with others of their kind to communicate. The strength and number of hits tell each other how they feel.
+|jdex=なかまと クチバシを たたきあわせて コミュニケーション。 たたく つよさや かいすうで きもちを つたえあう。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of five cards that could be pulled from Promo-A Vol. 8 packs; these were made available as part of the [[Alolan Ninetales Drop Event]], which ran from May 16 to 26, 2025.
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Vivid Voltage|Toucannon|145}} from the {{TCG|Vivid Voltage}} expansion.
+*{{m|Beak Blast}} is a [[move]] in the [[Pokémon games]] that {{p|Toucannon}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tukanon (PROMO-A 073)]]
+[[es:Toucannon (Promo-A 73 TCG Pocket)]]
+[[fr:Bazoucan (Promo-A 073)]]
+[[it:Toucannon (Promo-A 73)]]
+[[ja:ドデカバシ (ポケポケ P-A)]]
+[[zh:铳嘴大鸟（P-A）]]

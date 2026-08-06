@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Honchkrow
+|ja name=ドンカラス
+|trans name=Dongkarasu
+|species=Honchkrow
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HonchkrowMegaRising149.png|illustrator=Miki Tanaka|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HonchkrowMegaRising244.png|illustrator=IKEDA Saki|tab caption=Illustration Rare}}
+|hp=100
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Murkrow
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Diamond|rarity count=3|number=149/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Star|rarity count=1|number=244/226}}
+}}
+
+'''Honchkrow''' (Japanese: '''ドンカラス''' ''Dongkarasu'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Evil Admonition
+|jname=あくのいましめ
+|jtrans=Evil Bond
+|damage=40+
+|effect=This attack does 40 more damage for each of your opponent's Pokémon in play that has an {{TCG|Ability}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Honchkrow
+|species=Big Boss
+|ndex=0430
+|height=2'11"
+|jheight=0.9
+|weight=60.2
+|jweight=27.3
+|dex=A single cry from this nocturnal Pokémon, and more than 100 of its Murkrow cronies will assemble.
+|jdex=夜行性。 一声 鳴けば 100匹を 超える 子分の ヤミカラスが 集結する。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=HonchkrowMegaRising149.png
+|caption1=Rare card<br>Illus. [[Miki Tanaka]]
+|image2=HonchkrowMegaRising244.png
+|caption2=Illustration rare card<br>Illus. [[IKEDA Saki]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Battle Styles|Honchkrow|94}} from the {{TCG|Battle Styles}} expansion.
+*'''Evil Admonition''' is an attack that first appeared on {{TCG ID|Ultra Prism|Weavile|74}} from the {{TCG|Ultra Prism}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kramshef (Mega-Aufstieg 149)]]
+[[es:Honchkrow (Megaascenso TCG Pocket)]]
+[[fr:Corboss (Méga-Ascension 149)]]
+[[it:Honchkrow (Mega Ascesa 149)]]
+[[ja:ドンカラス (ポケポケ B1)]]
+[[zh:乌鸦头头（B1）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gumshoos
+|ja name=デカグース
+|trans name=Dekagoose
+|species=Gumshoos
+|type=Colorless
+|image=GumshoosCelestialGuardians137.png
+|illustrator=Shigenori Negishi
+|hp=100
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Yungoos
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=137/155|pack=Solgaleo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Gumshoos''' (Japanese: '''デカグース''' ''Dekagoose'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Headbang
+|jname=ヘッドバング
+|jtrans=Headbang
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Gumshoos
+|species=Stakeout
+|ndex=0735
+|height=2'4"
+|jheight=0.7
+|weight=31.3
+|jweight=14.2
+|dex=Once it finds signs of prey, it will patiently stake out the location, waiting until the sun goes down.
+|jdex=獲物の 痕跡を 見つけると 日が 落ちるまで その場に 留まり 忍耐強く 張り込み続ける。
+}}
+
+==Trivia==
+===Origin===
+*'''Headbang''' is an attack that first appeared on {{TCG ID|Ultra Prism|Type: Null|115}} from the {{TCG|Ultra Prism}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Manguspektor (Hüter des Firmaments 137)]]
+[[es:Gumshoos (Guardianes Celestiales TCG Pocket)]]
+[[fr:Argouste (Gardiens Astraux 137)]]
+[[it:Gumshoos (Guardiani Astrali 137)]]
+[[ja:デカグース (ポケポケ A3)]]
+[[zh:猫鼬探长（A3）]]

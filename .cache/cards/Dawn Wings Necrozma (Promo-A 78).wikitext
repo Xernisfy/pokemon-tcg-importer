@@ -1,0 +1,65 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dawn Wings Necrozma
+|ja name=ネクロズマあかつきのつばさ
+|trans name=Dawn Wings Necrozma
+|species=Necrozma
+|type=Psychic
+|image=DawnWingsNecrozmaPromo-A78.png
+|illustrator=nagimiso
+|hp=110
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=078/P-A|pack=Vol. 9}}
+}}
+
+'''Dawn Wings Necrozma''' (Japanese: '''ネクロズマあかつきのつばさ''' ''Dawn Wings Necrozma'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/UltraBeast/Pocket}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}{{e|Colorless}}
+|name=Psychobilly
+|jname=サイコビリー
+|jtrans=Psychobilly
+|damage=100
+|effect=This Pokémon also does 30 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Necrozma
+|category=Prism 
+|ndex=0800
+|height=13'9"
+|jheight=4.2
+|weight=771.6
+|jweight=350.0
+|dex=Lunala no longer has a will of its own. Now under the control of Necrozma, it continuously expels all of its energy.
+|jdex=ルナアーラに 最早 意思は ない。 ネクロズマに 支配され すべての エネルギーを 放出 し続ける。
+}}
+
+==Release information==
+This card was one of seven cards that could be pulled from Promo-A Vol. 9 packs; these were made available as part of the [[Ultra Beast Drop Event]], which ran from June 4 to 14, 2025.
+
+==Trivia==
+===Origin===
+*This card features {{form|Necrozma|Dawn Wings Necrozma}}, a form of {{p|Necrozma}} obtained by fusing it with {{p|Lunala}}.
+*This card's illustration was first featured on {{TCG ID|SM Promo|Dawn Wings Necrozma|106}}, one of the {{TCG|SM Black Star Promos|Sun & Moon Black Star Promos}}.
+*The '''Psychobilly''' attack is named after {{wp|psychobilly}}, a genre of music. The name may have been chosen in reference to the card's {{TCG|Psychic}} type.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Morgenschwingen-Necrozma (PROMO-A 078)]]
+[[es:Necrozma Alas del Alba (Promo-A 78 TCG Pocket)]]
+[[fr:Necrozma Ailes de l'Aurore (Promo-A 078)]]
+[[it:Necrozma Ali dell'Aurora (Promo-A 78)]]
+[[ja:ネクロズマ あかつきのつばさ (ポケポケ P-A)]]
+[[zh:奈克洛兹玛 拂晓之翼（P-A）]]

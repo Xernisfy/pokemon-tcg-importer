@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Donphan
+|ja name=ドンファン
+|trans name=Donfan
+|species=Donphan
+|type=Fighting
+|image=DonphanTriumphantLight38.png
+|illustrator=Shin Nagasawa
+|hp=120
+|weakness=Grass
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Phanpy
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=038/075|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Donphan''' (Japanese: '''ドンファン''' ''Donfan'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}
+|name=Rolling Spin
+|jname=ローリングスピン
+|jtrans=Rolling Spin
+|damage=60
+|effect=During your next turn, this Pokémon's Rolling Spin attack does +60 damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Donphan
+|species=Armor
+|ndex=0232
+|height=6'7"
+|jheight=2.0
+|weight=93.7
+|jweight=42.5
+|dex=Donphan is covered in tough hide, so even being hit by a car won't faze this Pokémon. However, it is extremely susceptible to rain.
+|jdex=硬い 皮膚に 覆われているので 車と ぶつかっても へっちゃら。 ただし 雨には めっぽう 弱い。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Plasma Storm|Donphan|72}} from the {{TCG|Plasma Storm}} expansion.
+*'''Rolling Spin''' is an attack that first appeared on {{TCG ID|Lost Thunder|Donphan|112}} from the {{TCG|Lost Thunder}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Donphan (Licht des Triumphs 038)]]
+[[es:Donphan (Luz Triunfal TCG Pocket)]]
+[[fr:Donphan (Lumière Triomphale 038)]]
+[[it:Donphan (Luce Trionfale 38)]]
+[[ja:ドンファン (ポケポケ A2a)]]
+[[zh:頓甲（A2a）]]

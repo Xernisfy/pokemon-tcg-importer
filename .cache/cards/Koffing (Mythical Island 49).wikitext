@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Koffing
+|ja name=ドガース
+|trans name=Dogars
+|species=Koffing
+|type=Darkness
+|image=KoffingMythicalIsland49.png
+|illustrator=Naoyo Kimura
+|hp=70
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=049/068|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Koffing''' (Japanese: '''ドガース''' ''Dogars'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Division
+|jname=ぶんれつ
+|jtrans=Division
+|damage=
+|effect=Put 1 random {{TCGP|Koffing}} from your deck onto your Bench.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Koffing
+|species=Poison Gas
+|ndex=0109
+|height=2'
+|jheight=0.6
+|weight=2.2
+|jweight=1.0
+|dex=Its body is full of poisonous gas. It floats into garbage dumps, seeking out the fumes of raw, rotting trash.
+|jdex=毒ガスで　パンパンの　体｡ 生ゴミの　腐った　においを 求め　ゴミ捨て場に　やってくる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Koffing|76}} from the {{TCG|Cosmic Eclipse}} expansion.
+*'''Division''' is an attack that first appeared on {{TCG ID|Platinum|Grimer|75}} from the {{TCG|Platinum}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Smogon (Mysteriöse Insel 049)]]
+[[es:Koffing (La Isla Singular TCG Pocket)]]
+[[fr:Smogo (L'Île Fabuleuse 049)]]
+[[it:Koffing (L'Isola Misteriosa 49)]]
+[[ja:ドガース (ポケポケ A1a)]]
+[[zh:瓦斯弹（A1a）]]

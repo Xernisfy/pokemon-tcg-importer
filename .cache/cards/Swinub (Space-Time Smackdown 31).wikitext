@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Swinub
+|ja name=ウリムー
+|trans name=Urimoo
+|species=Swinub
+|type=Water
+|image=SwinubSpace-TimeSmackdown31.png
+|illustrator=Eri Yamaki
+|hp=60
+|weakness=Metal
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=031/155|pack=Dialga|rarity=Diamond|rarity count=1}}
+}}
+
+'''Swinub''' (Japanese: '''ウリムー''' ''Urimoo'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Headbutt
+|jname=ずつき
+|jtrans=Headbutt
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Swinub
+|species=Pig
+|ndex=0220
+|height=1'4"
+|jheight=0.4
+|weight=14.3
+|jweight=6.5
+|dex=It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.
+|jdex=エサを 探すため 鼻を こすり合わせ 地面を 掘っている。 たまに 温泉を 掘り当てる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Crimson Invasion|Swinub|19}} from the {{TCG|Crimson Invasion}} expansion.
+*{{m|Headbutt}} is a [[move]] in the [[Pokémon games]] that {{p|Swinub}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Quiekel (Kollision von Raum und Zeit 031)]]
+[[es:Swinub (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Marcacrin (Choc Spatio-Temporel 031)]]
+[[it:Swinub (Scontro Spaziotemporale 31)]]
+[[ja:ウリムー (ポケポケ A2)]]
+[[zh:小山猪（A2）]]

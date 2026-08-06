@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Paldean Clodsire
+|ja name=パルデアドオー
+|trans name=Paldean Dooh
+|species=Clodsire
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PaldeanClodsirePaldeanWonders65.png|illustrator=Shin Nagasawa|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PaldeanClodsirePromo-B40.png|illustrator=Kouki Saitou|tab caption=Promo}}
+|hp=120
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Paldean Wooper
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=065/093|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=040/P-B}}
+}}
+
+'''Paldean Clodsire''' (Japanese: '''パルデアドオー''' ''Paldean Dooh'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Colorless}}
+|name=Muddy Hammer
+|jname=どろんこハンマー
+|jtrans=Mud Hammer
+|damage=70
+|effect=Discard the top card of your opponent's deck.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Clodsire
+|category=Spiny Fish
+|ndex=0980
+|height=5'11"
+|jheight=1.8
+|weight=491.6
+|jweight=223.0
+|dex=It lives at the bottom of ponds and swamps. It will carry Wooper on its back and ferry them across water from one shore to the other.
+|jdex=池や　沼の　水底で　暮らす｡ 背中に　ウパーを　乗せて　泳ぎ 対岸まで　運んであげる｡
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} print of this card was available via special wonder picks during the Arven [[Wonder Pick Event (Arven)|Wonder Pick Event]], which ran from March 15 to 25, 2026.
+
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=PaldeanClodsirePaldeanWonders65.png
+|caption1=Uncommon card<br>Illus. [[Shin Nagasawa]]
+|image2=PaldeanClodsirePromo-B40.png
+|caption2=Promo card<br>Illus. [[Kouki Saitou]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Paldean Wonders}} illustration was first featured on {{TCG ID|Obsidian Flames|Paldean Clodsire|129}} (129/197) from the {{TCG|Obsidian Flames}} expansion.
+*This card's {{TCGP|Promo-B}} illustration was first featured on {{TCG ID|Obsidian Flames|Paldean Clodsire|128}} (128/197) from the {{TCG|Obsidian Flames}} expansion, as was its '''Muddy Hammer''' attack.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Paldea-Suelord (Wundervolles Paldea 065)]]
+[[es:Clodsire de Paldea (Encantos de Paldea TCG Pocket)]]
+[[fr:Terraiste de Paldea (Merveilles de Paldea 065)]]
+[[it:Clodsire di Paldea (Meraviglie di Paldea 65)]]
+[[ja:パルデアドオー (ポケポケ B2a)]]
+[[zh:帕底亚 土王（B2a）]]

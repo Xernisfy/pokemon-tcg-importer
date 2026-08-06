@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Spinarak
+|ja name=イトマル
+|trans name=Itomaru
+|species=Spinarak
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SpinarakWisdomofSeaandSky110.png|illustrator=Sachiko Adachi|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SpinarakWisdomofSeaandSky177.png|illustrator=IKEDA Saki|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=110/161|pack=Ho-Oh|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=177/161|pack=Ho-Oh|rarity=Star|rarity count=1}}
+}}
+
+'''Spinarak''' (Japanese: '''イトマル''' ''Itomaru'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Pierce
+|jname=つきさす
+|jtrans=Pierce
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Spinarak
+|species=String Spit
+|ndex=0167
+|height=1'8"
+|jheight=0.5
+|weight=18.7
+|jweight=8.5
+|dex= 	It lies still in the same pose for days in its web, waiting for its unsuspecting prey to wander close.
+|jdex=獲物が 近くを 通りかかるまで 自分の 巣で 何日も 同じ 格好で じっと 待ち続ける。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=SpinarakWisdomofSeaandSky110.png
+|caption1=Common card<br>Illus. [[Sachiko Adachi]]
+|image2=SpinarakWisdomofSeaandSky177.png
+|caption2=Illustration rare card<br>Illus. [[IKEDA Saki]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|EX Unseen Forces|Spinarak|75}} from the {{TCG|EX Unseen Forces}} expansion; both cards have the '''Pierce''' attack.
+*'''Pierce''' is an attack that first appeared on {{TCG ID|EX Sandstorm|Kabuto|39}} and {{TCG ID|EX Sandstorm|Anorith|27}} from the {{TCG|EX Sandstorm}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Webarak (Weisheit von Meer und Himmel 110)]]
+[[es:Spinarak (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Mimigal (Sagesse entre Ciel et Mer 110)]]
+[[it:Spinarak (La Via del Cielo e del Mare 110)]]
+[[ja:イトマル (ポケポケ A4)]]
+[[zh:圆丝蛛（A4）]]

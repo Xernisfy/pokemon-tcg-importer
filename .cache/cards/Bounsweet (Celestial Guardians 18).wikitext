@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bounsweet
+|ja name=アマカジ
+|trans name=Amakaji
+|species=Bounsweet
+|type=Grass
+|image=BounsweetCelestialGuardians18.png
+|illustrator=Akira Komayama
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=018/155|pack=Solgaleo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Bounsweet''' (Japanese: '''アマカジ''' ''Amakaji'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Stampede
+|jname=ふむ
+|jtrans=Step On
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Bounsweet
+|species=Fruit
+|ndex=0761
+|height=1'
+|jheight=0.3
+|weight=7.1
+|jweight=3.2
+|dex=Its sweat is sweet, like syrup made from boiled-down fruit. Because of this, Bounsweet was highly valued in the past, when sweeteners were scarce.
+|jdex=果物を 煮詰めたような 甘い 汗を かくため 甘味の 少ない 昔は とても 重宝された。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Bounsweet|18}} from the {{TCG|Sun & Moon}} expansion.
+*'''Stampede''' is an attack that first appeared on {{TCG ID|EX Ruby & Sapphire|Phanpy|62}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Frubberl (Hüter des Firmaments 018)]]
+[[es:Bounsweet (Guardianes Celestiales TCG Pocket)]]
+[[fr:Croquine (Gardiens Astraux 018)]]
+[[it:Bounsweet (Guardiani Astrali 18)]]
+[[ja:アマカジ (ポケポケ A3)]]
+[[zh:甜竹竹（A3）]]

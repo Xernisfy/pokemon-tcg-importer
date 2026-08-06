@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cyndaquil
+|ja name=ヒノアラシ
+|trans name=Hinoarashi
+|species=Cyndaquil
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CyndaquilWisdomofSeaandSky27.png|illustrator=kirisAki|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CyndaquilWisdomofSeaandSky165.png|illustrator=buchi|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=027/161|pack=Lugia|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=165/161|pack=Lugia|rarity=Star|rarity count=1}}
+}}
+
+'''Cyndaquil''' (Japanese: '''ヒノアラシ''' ''Hinoarashi'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Flare
+|jname=ほのお
+|jtrans=Flame
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Cyndaquil
+|category=Fire Mouse 
+|ndex=0155
+|height=1'8"
+|jheight=0.5
+|weight=17.4
+|jweight=7.9
+|dex=It is timid and always curls itself up in a ball. If attacked, it flares up its back for protection.
+|jdex=臆病で いつも 体を まるめている。 襲われると 背中の 炎を 燃え上がらせて 身を守る。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=CyndaquilWisdomofSeaandSky27.png
+|caption1=Common card<br>Illus. [[kirisAki]]
+|image2=CyndaquilWisdomofSeaandSky165.png
+|caption2=Illustration rare card<br>Illus. [[buchi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Lost Thunder|Cyndaquil|40}} from the {{TCG|Lost Thunder}} expansion.
+*'''Flare''' is an attack that first appeared on {{TCG ID|Base Set|Growlithe|28}} from the {{TCG|Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Feurigel (Weisheit von Meer und Himmel 027)]]
+[[es:Cyndaquil (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Héricendre (Sagesse entre Ciel et Mer 027)]]
+[[it:Cyndaquil (La Via del Cielo e del Mare 27)]]
+[[ja:ヒノアラシ (ポケポケ A4)]]
+[[zh:火球鼠（A4）]]

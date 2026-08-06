@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Iono
+|ja name=ナンジャモ
+|trans name=Nanjyamo
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=IonoShiningRevelry69.png|illustrator=saino misaki|tab caption=Standard (A2b)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=IonoPaldeanWonders89.png|illustrator=Sanosuke Sakuma|tab caption=Standard (B2a)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=IonoDeluxePackex341.png|illustrator=saino misaki|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=IonoShiningRevelry88.png|illustrator=saino misaki|tab caption=Super Rare (A2b)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=IonoPaldeanWonders106.png|illustrator=Sanosuke Sakuma|tab caption=Super Rare (B2a)}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=069/072|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=088/072|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=340/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=341/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=089/093|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=106/093|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Iono''' (Japanese: '''ナンジャモ''' ''Nanjyamo'') is a {{TCGP|Supporter card}} in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Each player shuffles the cards in their hand into their deck, then draws that many cards.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=IonoShiningRevelry69.png
+|caption1=Standard card<br>({{TCGP|Shining Revelry}})<br>Illus. [[saino misaki]]
+|image2=IonoShiningRevelry88.png
+|caption2=Super rare card<br>({{TCGP|Shining Revelry}})<br>Illus. [[saino misaki]]
+|image3=IonoDeluxePackex341.png
+|caption3=Parallel foil card<br>({{TCGP|Deluxe Pack: ex}})<br>Illus. [[saino misaki]]
+|image4=IonoPaldeanWonders89.png
+|caption4=Standard card<br>({{TCGP|Paldean Wonders}})<br>Illus. [[Sanosuke Sakuma]]
+|image5=IonoPaldeanWonders106.png
+|caption5=Super rare card<br>({{TCGP|Paldean Wonders}})<br>Illus. [[Sanosuke Sakuma]]
+}}
+
+==Trivia==
+*This card's effect is identical to that of {{TCG ID|Burning Shadows|Wicke|127}} in the [[Pokémon Trading Card Game]].
+**{{TCG|Iono}} also exists in the Pokémon Trading Card Game, but with a different effect.
+
+===Origin===
+*[[Iono]] is the [[Gym Leader]] of the [[Levincia Gym]] in [[Paldea]]. The Levincia Gym's battle court is featured in both of the standard prints' illustrations.
+*Both of this card's {{TCGP|Paldean Wonders}} illustrations were first featured on {{TCG ID|Paldea Evolved|Iono|185}} from the {{TCG|Paldea Evolved}} expansion.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=ナンジャモ ''Nanjyamo''
+|zh_yue=奇樹 ''Kèihsyuh''
+|zh_cmn=奇樹<!-- / 奇树--> ''Qíshù''
+|fr=Mashynn
+|de=Enigmara
+|it=Kissara
+|ko=모야모 ''Moyamo''
+|pt_br=Kissera
+|es=e-Nigma
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Enigmara (TCG Pocket)]]
+[[es:e-Nigma (TCG Pocket)]]
+[[fr:Mashynn (Réjouissances Rayonnantes 069)]]
+[[it:Kissara (Tripudio Splendente 69)]]
+[[ja:ナンジャモ (ポケポケ)]]
+[[zh:奇樹（TCGP）]]

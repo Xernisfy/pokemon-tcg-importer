@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Marowak
+|ja name=ガラガラ
+|trans name=Garagara
+|species=Marowak
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MarowakGeneticApex152.png|illustrator=Shin Nagasawa|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MarowakCelestialGuardians227.png|illustrator=Sanosuke Sakuma|tab caption=Shiny Rare}}
+|hp=100
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Cubone
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=152/226|pack=Mewtwo|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=227/155|pack=Lunala|rarity=Shiny|rarity count=1}}
+}}
+
+'''Marowak''' (Japanese: '''ガラガラ''' ''Garagara'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Bone Beatdown
+|jname=ホネなぐり
+|jtrans=Bone Bash
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Marowak
+|species=Bone Keeper
+|ndex=0105
+|height=3'3"
+|jheight=1
+|weight=99.2
+|jweight=45.0
+|dex=This Pokémon overcame its sorrow to evolve a sturdy new body. Marowak faces its opponents bravely, using a bone as a weapon.
+|jdex=悲しみを　乗りこえて　たくましく 進化した｡　骨を　武器にして 勇敢に　敵と　渡り合う｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=MarowakGeneticApex152.png
+|caption1=Uncommon card<br>Illus. [[Shin Nagasawa]]
+|image2=MarowakCelestialGuardians227.png
+|caption2=Shiny rare card<br>Illus. [[Sanosuke Sakuma]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Fates Collide|Marowak|37}} from the {{TCG|Fates Collide}} expansion.
+*This card's shiny rare print features a {{Shiny}} {{p|Marowak}}.
+*'''Bone Beatdown''' is an attack that first appeared on {{TCG ID|Unified Minds|Alolan Marowak|75}} from the {{TCG|Unified Minds}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knogga (Unschlagbare Gene 152)]]
+[[es:Marowak (Genes Formidables TCG Pocket)]]
+[[fr:Ossatueur (Puissance Génétique 152)]]
+[[it:Marowak (Geni Supremi 152)]]
+[[ja:ガラガラ (ポケポケ A1)]]
+[[zh:嘎啦嘎啦（A1）]]

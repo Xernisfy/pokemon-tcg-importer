@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Buzzwole
+|ja name=マッシブーン
+|trans name=Massivoon
+|species=Buzzwole
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BuzzwoleFantasticalParade14.png|illustrator=Masakazu Fukuda|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BuzzwoleFantasticalParade159.png|illustrator=Dsuke|tab caption=Illustration Rare}}
+|hp=110
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=014/155|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=159/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Buzzwole''' (Japanese: '''マッシブーン''' ''Massivoon'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/UltraBeast/Pocket}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Ground Beat
+|jname=グラウンドビート
+|jtrans=Ground Beat
+|damage=40+
+|effect=If your opponent has gotten exactly 1 point, this attack does 40 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Buzzwole
+|species=Swollen
+|ndex=794
+|height=7'10"
+|jheight=2.4
+|weight=735.5
+|jweight=333.6
+|dex=Buzzwole goes around showing off its abnormally swollen muscles. It is one kind of Ultra Beast.
+|jdex=異常な までに 膨張する 筋肉を 見せつけてきた。 ウルトラビーストの 一種。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=BuzzwoleFantasticalParade14.png
+|caption1=Rare card<br>Illus. [[Masakazu Fukuda]]
+|image2=BuzzwoleFantasticalParade159.png
+|caption2=Illustration rare card<br>Illus. [[Dsuke]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Forbidden Light|Buzzwole|77}} from the {{TCG|Forbidden Light}} expansion.
+*The '''Ground Beat''' attack is named after a "ground beat," a term for the basic underlying beat of a song. The term is more commonly used in the context of {{wp|jazz}}.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Masskito (Traumhafte Parade 014)]]
+[[fr:Mouscoto (Parade Onirique 014)]]
+[[it:Buzzwole (Parata Fantasmagorica 14)]]
+[[ja:マッシブーン (ポケポケ B2)]]
+[[zh:爆肌蚊（B2）]]

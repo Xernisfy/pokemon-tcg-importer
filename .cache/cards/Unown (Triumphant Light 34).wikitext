@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Unown
+|ja name=アンノーン
+|trans name=Unknown
+|species=Unown
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=UnownTriumphantLight34.png|illustrator=Tetsu Kayama|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=UnownTriumphantLight78.png|illustrator=IKEDA Saki|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=034/075}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Star|rarity count=1|number=078/075}}
+}}
+
+'''Unown''' (Japanese: '''アンノーン''' ''Unknown'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=CHECK
+|jname=[チェック]
+|jtrans=Check
+|effect=Once during your turn, you may choose either player. Look at the top card of that player's deck.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}
+|name=Hidden Power
+|jname=めざめるパワー
+|jtrans=Awakening Power
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Unown
+|species=Symbol
+|ndex=0201
+|height=1'8"
+|jheight=0.5
+|weight=11
+|jweight=5.0
+|dex=Its flat, thin body is always stuck on walls. Its shape appears to have some meaning.
+|jdex=体自体は 薄っぺらく いつも 壁に 張りついている。 形に なにか 意味があるらしい。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=UnownTriumphantLight34.png
+|caption1=Uncommon card<br>Illus. [[Tetsu Kayama]]
+|image2=UnownTriumphantLight78.png
+|caption2=Illustration rare card<br>Illus. [[IKEDA Saki]]
+}}
+
+==Trivia==
+The {{p|Unown}} featured in both of this card's illustrations spell out "CHECK", the name of the card's {{TCG|Ability}}.
+
+===Origin===
+*{{m|Hidden Power}} is a [[move]] in the [[Pokémon games]] that {{p|Unown}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Icognito (Licht des Triumphs 034)]]
+[[es:Unown (Luz Triunfal TCG Pocket)]]
+[[fr:Zarbi (Lumière Triomphale 034)]]
+[[it:Unown (Luce Trionfale 34)]]
+[[ja:アンノーン (ポケポケ A2a)]]
+[[zh:未知圖騰（A2a）]]

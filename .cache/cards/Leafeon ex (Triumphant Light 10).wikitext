@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Leafeon {{TCGP Icon|ex}}
+|ja name=リーフィア{{TCGP Icon|ex}}
+|trans name=Leafia {{TCGP Icon|ex}}
+|species=Leafeon
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LeafeonexTriumphantLight10.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LeafeonexTriumphantLight82.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LeafeonexTriumphantLight91.png|illustrator=saino misaki|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LeafeonexWisdomofSeaandSky233.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=140
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Eevee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=010/075|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=082/075|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=091/075|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=233/161|pack=Ho-Oh|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=029/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Leafeon ex''' (Japanese: '''リーフィアex''' ''Leafia ex'') is a {{ct|Grass}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Ability/Pocket
+|type=Grass
+|name=Forest Breath
+|jname=もりのいぶき
+|jtrans=Forest Breath
+|effect=Once during your turn, if this Pokémon is in the Active Spot, you may take a {{e|Grass}} Energy from your Energy Zone and attach it to 1 of your {{e|Grass}} Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}{{e|Colorless}}
+|name=Solar Beam
+|jname=ソーラービーム
+|jtrans=Solar Beam
+|damage=70
+|effect=
+}}
+{{Cardtext/Pocket ex
+|type=Grass
+|ndex=0470
+|name=Leafeon
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=LeafeonexTriumphantLight10.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=LeafeonexTriumphantLight82.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image4=LeafeonexTriumphantLight91.png
+|caption4=Special illustration rare card<br>Illus. [[saino misaki]]
+|image5=LeafeonexWisdomofSeaandSky233.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Leafeon}}.
+*'''Forest Breath''' is an {{TCG|Ability}} that first appeared as a {{TCG|Poké-Power}} on {{TCG ID|Triumphant|Celebi|92}} from the {{TCG|Triumphant}} expansion.
+*{{m|Solar Beam}} is a [[move]] in the [[Pokémon games]] that {{p|Leafeon}} can learn via [[TM]].
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Folipurba-ex (Licht des Triumphs 010)]]
+[[es:Leafeon ex (Luz Triunfal TCG Pocket)]]
+[[fr:Phyllali-ex (Lumière Triomphale 010)]]
+[[it:Leafeon-ex (Luce Trionfale 10)]]
+[[ja:リーフィアex (ポケポケ A2a)]]
+[[zh:叶伊布ex（A2a）]]

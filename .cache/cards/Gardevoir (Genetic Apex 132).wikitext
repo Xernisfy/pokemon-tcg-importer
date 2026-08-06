@@ -1,0 +1,93 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gardevoir
+|ja name=サーナイト
+|trans name=Sirnight
+|species=Gardevoir
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GardevoirGeneticApex132.png|illustrator=Yuu Nishida|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GardevoirDeluxePackex169.png|illustrator=Yuu Nishida|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GardevoirDeluxePackex357.png|illustrator=Tomomi Ozaki|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GardevoirEeveeGrove99.png|illustrator=Sanosuke Sakuma|tab caption=Shiny Rare}}
+|hp=110
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Kirlia
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=132/226|pack=Mewtwo|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=099/069|pack=Any|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=168/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=169/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=357/353|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Gardevoir''' (Japanese: '''サーナイト''' ''Sirnight'') is a {{ct|Psychic}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Psy Shadow
+|jname=トランスシェイド
+|jtrans=Trans Shade
+|effect=Once during your turn, you may take a {{e|Psychic}} Energy from your Energy Zone and attach it to the {{e|Psychic}} Pokémon in the Active Spot.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}{{e|Colorless}}
+|name=Psyshot
+|jname=サイコショット
+|jtrans=Psychoshot
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Gardevoir
+|species=Embrace
+|ndex=0282
+|height=5'3"
+|jheight=1.6
+|weight=106.7
+|jweight=48.4
+|dex=To protect its Trainer, it will expend all its psychic power to create a small black hole.
+|jdex=トレーナーを　守るためなら サイコパワーを　使いきり 小さな　ブラックホールを　作り出す｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=GardevoirGeneticApex132.png
+|caption1=Standard card<br>Illus. [[Yuu Nishida]]
+|image2=GardevoirEeveeGrove99.png
+|caption2=Shiny rare card<br>Illus. [[Sanosuke Sakuma]]
+|image4=GardevoirDeluxePackex169.png
+|caption4=Parallel foil card<br>Illus. [[Yuu Nishida]]
+|image5=GardevoirDeluxePackex357.png
+|caption5=Illustration rare card<br>Illus. [[Tomomi Ozaki]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|SM-P Promo|Gardevoir|408}}, one of the {{TCG|SM-P Promotional cards}} released only in Japan.
+*This card's shiny rare print features a {{Shiny}} {{p|Gardevoir}}.
+*'''Psy Shadow''' is an {{TCG|Ability}} that first appeared as a {{TCG|Poké-Power}} on {{TCG ID|EX Ruby & Sapphire|Gardevoir|7}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*'''Psyshot''' is an attack that first appeared on {{TCG ID|Gym Challenge|Sabrina's Kadabra|58}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Guardevoir (Unschlagbare Gene 132)]]
+[[es:Gardevoir (Genes Formidables TCG Pocket)]]
+[[fr:Gardevoir (Puissance Génétique 132)]]
+[[it:Gardevoir (Geni Supremi 132)]]
+[[ja:サーナイト (ポケポケ A1)]]
+[[zh:沙奈朵（A1）]]

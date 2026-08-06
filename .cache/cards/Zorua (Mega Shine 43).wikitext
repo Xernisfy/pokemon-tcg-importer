@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Zorua
+|ja name=ゾロア
+|trans name=Zorua
+|species=Zorua
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ZoruaMegaShine43.png|illustrator=nagimiso|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ZoruaMegaShine102.png|illustrator=Krgc|tab caption=Shiny Rare}}
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=043/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=102/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Zorua''' (Japanese: '''ゾロア''' ''Zorua'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Surprise Attack
+|jname=ふいをつく
+|jtrans=Surprise Attack
+|damage=40
+|effect=Flip a coin. If tails, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Zorua
+|category=Tricky Fox
+|ndex=0570
+|height=2'4"
+|jheight=0.7
+|weight=27.6
+|jweight=12.5
+|dex=To protect themselves from danger, they hide their true identities by transforming into people and Pokémon.
+|jdex=人や　ほかの　ポケモンに　化ける｡ 自分の　正体を　隠すことで 危険から　身を　守っているのだ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=ZoruaMegaShine43.png
+|caption1=Common card<br>Illus. [[nagimiso]]
+|image2=ZoruaMegaShine102.png
+|caption2=Shiny rare card<br>Illus. [[Krgc]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Fusion Strike|Zorua|170}} from the {{TCG|Fusion Strike}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Zorua}}.
+*'''Surprise Attack''' is an attack that first appeared on {{TCG ID|Gym Challenge|Brock's Diglett|67}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zorua (Mega-Schillern 043)]]
+[[fr:Zorua (Méga-Rayonnement 043)]]
+[[it:Zorua (Mega Splendore 43)]]
+[[ja:ゾロア (ポケポケ B2b)]]
+[[zh:索罗亚（B2b）]]

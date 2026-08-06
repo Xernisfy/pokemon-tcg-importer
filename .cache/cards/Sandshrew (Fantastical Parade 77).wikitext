@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sandshrew
+|ja name=サンド
+|trans name=Sand
+|species=Sandshrew
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SandshrewFantasticalParade77.png|illustrator=Shigenori Negishi|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SandshrewFantasticalParade170.png|illustrator=Uninori|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=077/155|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=170/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Sandshrew''' (Japanese: '''サンド''' ''Sand'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Double Scratch
+|jname=ダブルひっかき
+|jtrans=Double Scratch
+|damage=20×
+|effect=Flip 2 coins. This attack does 20 for each number of heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Sandshrew
+|species=Mouse
+|ndex=0027
+|height=2'
+|jheight=0.6
+|weight=26.5
+|jweight=12.0
+|dex=No matter how high a place it falls from, this Pokémon can save itself by rolling in a ball and bouncing.
+|jdex=どんなに 高い ところから 落ちても 体を 丸めれば バウンドできて 助かるのだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=SandshrewFantasticalParade77.png
+|caption1=Common card<br>Illus. [[Shigenori Negishi]]
+|image2=SandshrewFantasticalParade170.png
+|caption2=Illustration rare card<br>Illus. [[Uninori]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|BREAKthrough|Sandshrew|75}} from the {{TCG|BREAKthrough}} expansion; both cards have the Double Scratch attack.
+*'''Double Scratch''' is an attack that first appeared on {{TCG ID|Gym Challenge|Giovanni's Meowth|43}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sandan (Traumhafte Parade 077)]]
+[[fr:Sabelette (Parade Onirique 077)]]
+[[it:Sandshrew (Parata Fantasmagorica 77)]]
+[[ja:サンド (ポケポケ B2)]]
+[[zh:穿山鼠（B2）]]

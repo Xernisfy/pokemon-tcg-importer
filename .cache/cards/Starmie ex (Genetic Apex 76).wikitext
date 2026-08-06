@@ -1,0 +1,70 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Starmie {{TCGP Icon|ex}}
+|ja name=スターミー{{TCGP Icon|ex}}
+|trans name=Starmie {{TCGP Icon|ex}}
+|species=Starmie
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=StarmieexGeneticApex76.png|illustrator=PLANETA Igarashi|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=StarmieexGeneticApex257.png|illustrator=PLANETA Igarashi|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=StarmieexCelestialGuardians233.png|illustrator=PLANETA Igarashi|tab caption=Shiny Super Rare}}
+|hp=130
+|weakness=Lightning
+|retreat cost=0
+|evo stage=Stage 1
+|prevo name=Staryu
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=076/226|pack=Charizard|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=257/226|pack=Charizard|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=233/155|pack=Solgaleo|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=095/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Starmie ex''' (Japanese: '''スターミーex''' ''Starmie ex'') is a {{ct|Water}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Hydro Splash
+|jname=ハイドロスプラッシュ
+|jtrans=Hydro Splash
+|damage=90
+|effect=
+}}
+{{Cardtext/Pocket ex
+|type=Water
+|ndex=0121
+|name=Starmie
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=StarmieexGeneticApex76.png
+|caption1=Double rare card<br>Illus. [[PLANETA Igarashi]]
+|image2=StarmieexGeneticApex257.png
+|caption2=Super rare card<br>Illus. [[PLANETA Igarashi]]
+|image3=StarmieexCelestialGuardians233.png
+|caption3=Shiny super rare card<br>Illus. [[PLANETA Igarashi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Starmie}}.
+*'''Hydro Splash''' is an attack that first appeared as '''Hydrosplash''' on {{TCG ID|EX Delta Species|Vaporeon ex|110}} from the {{TCG|EX Delta Species}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Starmie-ex (Unschlagbare Gene 076)]]
+[[es:Starmie ex (Genes Formidables TCG Pocket)]]
+[[fr:Staross-ex (Puissance Génétique 076)]]
+[[it:Starmie-ex (Geni Supremi 76)]]
+[[ja:スターミーex (ポケポケ A1)]]
+[[zh:宝石海星ex（A1）]]

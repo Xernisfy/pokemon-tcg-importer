@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cyclizar
+|ja name=モトトカゲ
+|trans name=Mototokage
+|species=Cyclizar
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CyclizarShiningRevelry68.png|illustrator=HAGIYA Kaoru|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CyclizarDeluxePackex307.png|illustrator=HAGIYA Kaoru|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CyclizarPromo-A51.png|illustrator=Shigenori Negishi|tab caption=Promo}}
+|hp=80
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=068/072|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=051/P-A}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=306/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=307/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Cyclizar''' (Japanese: '''モトトカゲ''' ''Mototokage'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Overacceleration
+|jname=オーバーアクセル
+|jtrans=Overaccel
+|damage=20
+|effect=During your next turn, this Pokémon's Overacceleration attack does +20 damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Cyclizar
+|category=Mount 
+|ndex=0967
+|height=5'3"
+|jheight=1.6
+|weight=138.9
+|jweight=63.0
+|dex=Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.
+|jdex=大昔から 人を 背中に 乗せていたらしい。 1万年前の 壁画に 様子が 描かれている。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} card was available as part of the [[Mission (TCG Pocket)#ex Starter Deck Missions|ex Starter Deck Missions]] missions, which ran from March 28 to April 27, 2025, and was awarded to players who collected 50 cards during the mission period.
+
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=CyclizarShiningRevelry68.png
+|caption1=Standard card<br>Illus. [[HAGIYA Kaoru]]
+|image2=CyclizarPromo-A51.png
+|caption2=Promo card<br>Illus. [[Shigenori Negishi]]
+|image3=CyclizarDeluxePackex307.png
+|caption3=Parallel foil card<br>Illus. [[HAGIYA Kaoru]]
+
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Promo-A}} illustration features a {{Shiny}} {{p|Cyclizar}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mopex (Glänzendes Festival 068)]]
+[[es:Cyclizar (Festival Brillante TCG Pocket)]]
+[[fr:Motorizard (Réjouissances Rayonnantes 068)]]
+[[it:Cyclizar (Tripudio Splendente 68)]]
+[[ja:モトトカゲ (ポケポケ A2b)]]
+[[zh:摩托蜥（A2b）]]

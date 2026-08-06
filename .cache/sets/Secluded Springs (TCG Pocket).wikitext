@@ -1,0 +1,443 @@
+{{TCGPocketExpansionPrevNext | prev = Wisdom of Sea and Sky | next = Deluxe Pack: ex }}
+{{TCGPocketExpansionInfobox
+|setname=Secluded Springs
+|jasetname=未知なる水域
+|jasettrans=Unknown Waters
+|setsymbol=yes
+|setlogo=A4a Set Logo EN.png
+|release=August 28, 2025
+|cards=105 (71 + 34 secret cards)
+|collections=17 (12 + 5 secret)
+|dex missions=11 (10 + 1 secret)
+|deck missions=12
+|decks=6
+|battles=21
+}}
+'''Secluded Springs''' (Japanese: '''{{j|未知なる水域}}''' ''Unknown Waters'') is the sixth themed booster pack, and the tenth expansion overall, in [[Pokémon Trading Card Game Pocket]].
+
+== Information ==
+'''Secluded Springs''' is the sixth themed booster pack released through [[Pokémon Trading Card Game Pocket]]. The expansion acts as a follow-up to the {{TCGP|Wisdom of Sea and Sky}} expansion, which focused on [[Generation II]], and focuses on {{p|Raikou}}, {{p|Entei}}, and {{p|Suicune}}—the [[legendary beasts]] of the [[Johto]] region—as {{TCGP|Pokémon ex}}. It also features {{p|Latias}} and {{p|Latios}}, the [[Eon duo|Eon Pokémon]].
+
+== Card list ==
+{{TCG Set List/header|tablecol=3BF|bordercol=76E|cellcol=9EF}}
+|-
+| 001/071 || {{TCG ID|Secluded Springs|Hoppip|1}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 002/071 || {{TCG ID|Secluded Springs|Skiploom|2}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 003/071 || {{TCG ID|Secluded Springs|Jumpluff ex|3|Jumpluff}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 004/071 || {{TCG ID|Secluded Springs|Sunkern|4}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 005/071 || {{TCG ID|Secluded Springs|Sunflora|5}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 006/071 || {{TCG ID|Secluded Springs|Celebi|6}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 007/071 || {{TCG ID|Secluded Springs|Durant|7}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 008/071 || {{TCG ID|Secluded Springs|Slugma|8}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 009/071 || {{TCG ID|Secluded Springs|Magcargo|9}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 010/071 || {{TCG ID|Secluded Springs|Entei ex|10|Entei}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 011/071 || {{TCG ID|Secluded Springs|Fletchinder|11}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 012/071 || {{TCG ID|Secluded Springs|Talonflame|12}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 013/071 || {{TCG ID|Secluded Springs|Poliwag|13}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 014/071 || {{TCG ID|Secluded Springs|Poliwhirl|14}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 015/071 || {{TCG ID|Secluded Springs|Tentacool|15}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 016/071 || {{TCG ID|Secluded Springs|Tentacruel|16}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 017/071 || {{TCG ID|Secluded Springs|Slowpoke|17}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 018/071 || {{TCG ID|Secluded Springs|Slowking|18}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 019/071 || {{TCG ID|Secluded Springs|Jynx|19}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 020/071 || {{TCG ID|Secluded Springs|Suicune ex|20|Suicune}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 021/071 || {{TCG ID|Secluded Springs|Feebas|21}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 022/071 || {{TCG ID|Secluded Springs|Milotic|22}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 023/071 || {{TCG ID|Secluded Springs|Mantyke|23}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 024/071 || {{TCG ID|Secluded Springs|Cryogonal|24}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 025/071 || {{TCG ID|Secluded Springs|Raikou ex|25|Raikou}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 026/071 || {{TCG ID|Secluded Springs|Tynamo|26}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 027/071 || {{TCG ID|Secluded Springs|Eelektrik|27}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 028/071 || {{TCG ID|Secluded Springs|Eelektross|28}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 029/071 || {{TCG ID|Secluded Springs|Stunfisk|29}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 030/071 || {{TCG ID|Secluded Springs|Yamper|30}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 031/071 || {{TCG ID|Secluded Springs|Boltund|31}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 032/071 || {{TCG ID|Secluded Springs|Misdreavus|32}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 033/071 || {{TCG ID|Secluded Springs|Mismagius|33}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 034/071 || {{TCG ID|Secluded Springs|Galarian Corsola|34}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 035/071 || {{TCG ID|Secluded Springs|Galarian Cursola|35}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 036/071 || {{TCG ID|Secluded Springs|Latias|36}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 037/071 || {{TCG ID|Secluded Springs|Latios|37}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 038/071 || {{TCG ID|Secluded Springs|Frillish|38}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 039/071 || {{TCG ID|Secluded Springs|Jellicent|39}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 040/071 || {{TCG ID|Secluded Springs|Diglett|40}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 041/071 || {{TCG ID|Secluded Springs|Dugtrio|41}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 042/071 || {{TCG ID|Secluded Springs|Poliwrath ex|42|Poliwrath}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 043/071 || {{TCG ID|Secluded Springs|Phanpy|43}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 044/071 || {{TCG ID|Secluded Springs|Donphan|44}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 045/071 || {{TCG ID|Secluded Springs|Relicanth|45}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 046/071 || {{TCG ID|Secluded Springs|Dwebble|46}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 047/071 || {{TCG ID|Secluded Springs|Crustle|47}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 048/071 || {{TCG ID|Secluded Springs|Seviper|48}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 049/071 || {{TCG ID|Secluded Springs|Zorua|49}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 050/071 || {{TCG ID|Secluded Springs|Zoroark|50}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 051/071 || {{TCG ID|Secluded Springs|Inkay|51}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 052/071 || {{TCG ID|Secluded Springs|Malamar|52}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 053/071 || {{TCG ID|Secluded Springs|Skrelp|53}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 054/071 || {{TCG ID|Secluded Springs|Dragalge|54}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 055/071 || {{TCG ID|Secluded Springs|Altaria|55}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 056/071 || {{TCG ID|Secluded Springs|Farfetch'd|56}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 057/071 || {{TCG ID|Secluded Springs|Lickitung|57}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 058/071 || {{TCG ID|Secluded Springs|Lickilicky|58}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 059/071 || {{TCG ID|Secluded Springs|Igglybuff|59}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 060/071 || {{TCG ID|Secluded Springs|Teddiursa|60}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 061/071 || {{TCG ID|Secluded Springs|Ursaring|61}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 062/071 || {{TCG ID|Secluded Springs|Miltank|62}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 063/071 || {{TCG ID|Secluded Springs|Azurill|63}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 064/071 || {{TCG ID|Secluded Springs|Swablu|64}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 065/071 || {{TCG ID|Secluded Springs|Zangoose|65}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 066/071 || {{TCG ID|Secluded Springs|Fletchling|66}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 067/071 || {{TCG ID|Secluded Springs|Inflatable Boat|67}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 068/071 || {{TCG ID|Secluded Springs|Memory Light|68}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 069/071 || {{TCG ID|Secluded Springs|Whitney|69}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 070/071 || {{TCG ID|Secluded Springs|Traveling Merchant|70}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 071/071 || {{TCG ID|Secluded Springs|Morty|71}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 072/071 || {{TCG ID|Secluded Springs|Milotic|72}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}}
+|-
+| 073/071 || {{TCG ID|Secluded Springs|Stunfisk|73}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|1}}
+|-
+| 074/071 || {{TCG ID|Secluded Springs|Yamper|74}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|1}}
+|-
+| 075/071 || {{TCG ID|Secluded Springs|Latios|75}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}}
+|-
+| 076/071 || {{TCG ID|Secluded Springs|Phanpy|76}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|1}}
+|-
+| 077/071 || {{TCG ID|Secluded Springs|Azurill|77}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}}
+|-
+| 078/071 || {{TCG ID|Secluded Springs|Jumpluff ex|78|Jumpluff}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}}
+|-
+| 079/071 || {{TCG ID|Secluded Springs|Entei ex|79|Entei}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|2}}
+|-
+| 080/071 || {{TCG ID|Secluded Springs|Suicune ex|80|Suicune}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}}
+|-
+| 081/071 || {{TCG ID|Secluded Springs|Raikou ex|81|Raikou}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}}
+|-
+| 082/071 || {{TCG ID|Secluded Springs|Poliwrath ex|82|Poliwrath}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}}
+|-
+| 083/071 || {{TCG ID|Secluded Springs|Whitney|83}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 084/071 || {{TCG ID|Secluded Springs|Traveling Merchant|84}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 085/071 || {{TCG ID|Secluded Springs|Morty|85}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 086/071 || {{TCG ID|Secluded Springs|Jumpluff ex|86|Jumpluff}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}}
+|-
+| 087/071 || {{TCG ID|Secluded Springs|Entei ex|87|Entei}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|2}}
+|-
+| 088/071 || {{TCG ID|Secluded Springs|Raikou ex|88|Raikou}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}}
+|-
+| 089/071 || {{TCG ID|Secluded Springs|Poliwrath ex|89|Poliwrath}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}}
+|-
+| 090/071 || {{TCG ID|Secluded Springs|Suicune ex|90|Suicune}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|3}}
+|-
+| 091/071 || {{TCG ID|Secluded Springs|Chimchar|91}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 092/071 || {{TCG ID|Secluded Springs|Monferno|92}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 093/071 || {{TCG ID|Secluded Springs|Psyduck|93}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 094/071 || {{TCG ID|Secluded Springs|Golduck|94}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 095/071 || {{TCG ID|Secluded Springs|Krabby|95}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 096/071 || {{TCG ID|Secluded Springs|Kingler|96}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 097/071 || {{TCG ID|Secluded Springs|Pyukumuku|97}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 098/071 || {{TCG ID|Secluded Springs|Gible|98}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 099/071 || {{TCG ID|Secluded Springs|Gabite|99}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 100/071 || {{TCG ID|Secluded Springs|Paldean Wooper|100}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 101/071 || {{TCG ID|Secluded Springs|Infernape ex|101|Infernape}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 102/071 || {{TCG ID|Secluded Springs|Mew ex|102|Mew}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 103/071 || {{TCG ID|Secluded Springs|Garchomp ex|103|Garchomp}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 104/071 || {{TCG ID|Secluded Springs|Paldean Clodsire ex|104|Paldean Clodsire}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 105/071 || {{TCG ID|Secluded Springs|Mantyke|105}} || {{TCG Icon|Water}} || {{Rar/TCGP|Crown|1}}
+|}
+
+==Missions==
+
+=== Dex Missions ===
+Secluded Springs has 10 regular {{DL|Mission (TCG Pocket)|Dex Missions}} and one hidden Dex Mission:
+
+{{TCGPocketMission/Header|reward=yes|bordercol=76E|tablecol=3BF}}
+{{TCGPocketMission/Entry|mission=Register 5 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 10 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 15 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 20 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 25 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 30 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 35 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 45 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 55 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 65 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=5}}}}
+|-
+! colspan="2" | Secret Mission
+{{TCGPocketMission/Entry|mission=Register all {{Rar/TCGP|Diamond|1}} – {{Rar/TCGP|Diamond|4}} cards in the card dex|reward={{TCGPocketItem|Secluded Springs Suicune|Secluded Springs: Suicune (profile icon)|type=Profile Icon}}|lastitem=yes}}
+|}
+
+=== Deck Missions ===
+Secluded Springs has six [[deck]]s and 12 {{DL|Mission (TCG Pocket)|Deck Missions}}. Each deck has two missions:
+
+{{TCGPocketMission/Header|reward=yes|bordercol=76E|tablecol=3BF}}
+{{TCGPocketMission/Entry|mission=Collect the highlight card(s) for [deck name]|reward={{TCGPocketItem|Rental Deck|[deck name] rental deck}}}}
+{{TCGPocketMission/Entry|mission=Collect cards for [deck name]|reward={{TCGPocketItem|Theme Deck List|[deck name] theme deck list}}|lastitem=yes}}
+|}
+
+The six available decks related to Secluded Springs are: 
+
+{{TCGPocketExpansionDeck/Header|bordercol=76E|tablecol=3BF}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Jumpluff ex Deck|Secluded Springs}}|{{e|Grass}}|{{TCG ID|Secluded Springs|Jumpluff ex|3}}, {{TCG ID|Secluded Springs|Sunflora|5}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Entei ex Deck|Secluded Springs}}|{{e|Fire}}|{{TCG ID|Secluded Springs|Entei ex|10}}, {{TCG ID|Secluded Springs|Talonflame|12}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Suicune ex Deck|Secluded Springs}}|{{e|Water}}|{{TCG ID|Secluded Springs|Suicune ex|20}}, {{TCG ID|Secluded Springs|Milotic|22}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Raikou ex Deck|Secluded Springs}}|{{e|Lightning}}|{{TCG ID|Secluded Springs|Raikou ex|25}}, {{TCG ID|Secluded Springs|Eelektross|28}}, {{TCG ID|Secluded Springs|Boltund|31}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Latios & Latias Deck|Secluded Springs}}|{{e|Psychic}}|{{TCG ID|Secluded Springs|Latios|37}}, {{TCG ID|Secluded Springs|Latias|36}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Poliwrath ex Deck|Secluded Springs}}|{{e|Water}}{{e|Fighting}}|{{TCG ID|Secluded Springs|Poliwrath ex|42}}, {{TCG ID|Secluded Springs|Donphan|44}}|lastitem=yes}}
+|}
+
+=== Themed Collections ===
+Secluded Springs has 12 regular {{DL|Mission (TCG Pocket)|Themed Collections}} and five hidden Themed Collections:
+
+{{TCGPocketCollection/Header|bordercol=76E|tablecol=3BF}}
+{{TCGPocketCollection/Entry|collection=Suicune and Pokémon of the Lakes
+|cards={{TCG ID|Secluded Springs|Celebi|6}} (#006)<br>{{TCG ID|Secluded Springs|Suicune ex|20}} (#020 or #080 or #090)<br>{{TCG ID|Secluded Springs|Milotic|22}} (#022 or #072)<br>{{TCG ID|Secluded Springs|Mismagius|33}} (#033)<br>{{TCG ID|Secluded Springs|Lickilicky|58}} (#058)
+|reward={{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Entei and Hot Spring Pokémon
+|cards={{TCG ID|Secluded Springs|Slugma|8}} (#008)<br>{{TCG ID|Secluded Springs|Entei ex|10}} (#010 or #079 or #087)<br>{{TCG ID|Secluded Springs|Altaria|55}} (#055)<br>{{TCG ID|Secluded Springs|Farfetch'd|56}} (#056)<br>{{TCG ID|Secluded Springs|Teddiursa|60}} (#060)
+|reward={{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Raikou and Waterside Lightning-type Pokémon
+|cards={{TCG ID|Secluded Springs|Raikou ex|25}} (#025 or #081 or #088)<br>{{TCG ID|Secluded Springs|Tynamo|26}} (#026), {{TCG ID|Secluded Springs|Eelektrik|27}} (#027), or {{TCG ID|Secluded Springs|Eelektross|28}} (#028)<br>{{TCG ID|Secluded Springs|Stunfisk|29}} (#029 or #073)<br>{{TCG ID|Secluded Springs|Boltund|31}} (#031)
+|reward={{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon and Waterfalls
+|cards={{TCG ID|Secluded Springs|Hoppip|1}} (#001)<br>{{TCG ID|Secluded Springs|Skiploom|2}} (#002)<br>{{TCG ID|Secluded Springs|Sunkern|4}} (#004)<br>{{TCG ID|Secluded Springs|Sunflora|5}} (#005)<br>{{TCG ID|Secluded Springs|Misdreavus|32}} (#032)<br>{{TCG ID|Secluded Springs|Zoroark|50}} (#050)
+|reward={{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=6}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon and Underwater Ruins
+|cards={{TCG ID|Secluded Springs|Tentacool|15}} (#015)<br>{{TCG ID|Secluded Springs|Tentacruel|16}} (#016)<br>{{TCG ID|Secluded Springs|Relicanth|45}} (#045)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=1}}
+}}
+{{TCGPocketCollection/Entry|collection=Archrivals
+|cards={{TCG ID|Secluded Springs|Seviper|48}} (#048)<br>{{TCG ID|Secluded Springs|Zangoose|65}} (#065)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=1}}
+}}
+{{TCGPocketCollection/Entry|collection=The Mystic Seer of the Future
+|cards={{TCG ID|Secluded Springs|Mismagius|33}} (#033)<br>{{TCG ID|Secluded Springs|Morty|71}} (#071 or #085)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=1}}
+}}
+{{TCGPocketCollection/Entry|collection=The Incredibly Pretty Girl
+|cards={{TCG ID|Secluded Springs|Miltank|62}} (#062)<br>{{TCG ID|Secluded Springs|Whitney|69}} (#069 or #083)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=1}}
+}}
+{{TCGPocketCollection/Entry|collection=Telepathically Connected Pokémon
+|cards={{TCG ID|Secluded Springs|Latias|36}} (#036)<br>{{TCG ID|Secluded Springs|Latios|37}} (#037 or #075)
+|reward={{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=4}}
+}}
+{{TCGPocketCollection/Entry|collection=Durant Working Together
+|cards={{TCG ID|Secluded Springs|Durant|7}} (#007) ×5
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=1}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon that can Use Attacks Immediately
+|cards={{TCG ID|Secluded Springs|Mantyke|23}} (#023 or #105)<br>{{TCG ID|Secluded Springs|Igglybuff|59}} (#059)<br>{{TCG ID|Secluded Springs|Azurill|63}} (#063 or #077)
+|reward={{TCGPocketItem|Emblem Ticket A4a|Emblem Ticket (Secluded Springs)|num=5}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Igglybuff cards
+|cards={{TCG ID|Secluded Springs|Igglybuff|59}} (#059) ×3
+|reward={{TCGPocketItem|Igglybuff|Igglybuff (profile icon)|type=Profile Icon}}
+}}
+|-
+! colspan="3" | Secret Missions
+{{TCGPocketCollection/Entry|collection=Soaring Jumpluff
+|cards={{TCG ID|Secluded Springs|Hoppip|1}} (#001)<br>{{TCG ID|Secluded Springs|Skiploom|2}} (#002)<br>{{TCG ID|Secluded Springs|Jumpluff ex|86}} (#086)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Legends Racing Across the Land
+|cards={{TCG ID|Secluded Springs|Entei ex|87}} (#087)<br>{{TCG ID|Secluded Springs|Raikou ex|88}} (#088)<br>{{TCG ID|Secluded Springs|Suicune ex|90}} (#090)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Secluded Springs Museum 1
+|cards={{TCG ID|Secluded Springs|Milotic|72}} (#072)<br>{{TCG ID|Secluded Springs|Stunfisk|73}} (#073)<br>{{TCG ID|Secluded Springs|Yamper|74}} (#074)<br>{{TCG ID|Secluded Springs|Latios|75}} (#075)<br>{{TCG ID|Secluded Springs|Phanpy|76}} (#076)<br>{{TCG ID|Secluded Springs|Azurill|77}} (#077)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Secluded Springs Museum 2
+|cards={{TCG ID|Secluded Springs|Jumpluff ex|86}} (#086)<br>{{TCG ID|Secluded Springs|Entei ex|87}} (#087)<br>{{TCG ID|Secluded Springs|Raikou ex|88}} (#088)<br>{{TCG ID|Secluded Springs|Poliwrath ex|89}} (#089)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon that can Use Attacks Immediately 2
+|cards={{TCG ID|Secluded Springs|Mantyke|23}} (#023)<br>{{TCG ID|Secluded Springs|Igglybuff|59}} (#059)<br>{{TCG ID|Secluded Springs|Azurill|63}} (#063)<br>{{TCG ID|Secluded Springs|Azurill|77}} (#077)<br>{{TCG ID|Secluded Springs|Mantyke|105}} (#105)
+|reward={{TCGPocketItem|Mantyke|Mantyke (emblem)|type=Emblem}}
+}}
+|}
+
+== Offering rates ==
+The following table outlines the offering rates for the Secluded Springs booster pack.
+
+The probability of each type of pack appearing is as it follows:
+* Regular pack - 91.620%
+* Regular pack + 1 card - 8.330%
+* Rare pack - 0.050%
+
+In regular packs with a bonus card, the card inclusion rates for the first five cards are the same as those for regular packs without a bonus card.
+
+{{TCG ID|Secluded Springs|Mantyke|23}} (#023), {{TCG ID|Secluded Springs|Igglybuff|59}} (#059), {{TCG ID|Secluded Springs|Azurill|63}} (#063) and {{TCG ID|Secluded Springs|Azurill|77}} (#077) are only available as bonus cards.
+
+{{TCGPocketRates/Header|tablecol=3BF|bordercol=76E|cellcol=9EF|bonuscard=yes}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 3.125% || — || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 3.869% || 2.434% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.619% || 2.476% || 29.033% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.333% || 1.332% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.514% || 2.057% || 12.900% || 3.030% 
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.041% || 0.166% || — || 3.030%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.888% || — || 3.030%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|1}} || — || 0.071% || 0.285% || — || 3.030%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|2}} || — || 0.083% || 0.333% || — || 3.030%
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.040% || 0.160% || — || style="border-bottom-right-radius:5px" | 3.030%
+|}
+
+== Solo battles ==
+{{main|List of Secluded Springs solo battles in Pokémon TCG Pocket}}
+
+== Gallery ==
+The pack artwork for the Secluded Springs expansion was illustrated by [[PLANETA]].<ref>[https://pla-neta.co.jp/works/illust/4073/ Pokémon Trading Card Game Pocket拡張パック「未知なる水域」 - PLANETA｜プラネッタ]</ref><ref>[https://x.com/PLANETACoLtd/status/1963436869468737678 X post on @PLANETACoLtd], September 3, 2025</ref>
+
+=== Key artwork ===
+{{TCGMerchGallery
+|background=9EF
+|border=76E
+|image1=A4a Key Art.png
+|size1=400px
+|caption1=Key artwork
+}}
+
+=== Pack artwork ===
+{{TCGMerchGallery
+|background=9EF
+|border=76E
+|image1=A4a Booster EN.png
+|caption1=Booster pack
+}}
+
+=== Pack logo ===
+{{TCGMerchGallery
+|background=9EF
+|border=76E
+|image1=A4a Pack Logo EN.png
+|caption1=English logo
+|image5=A4a Logo JA.png|caption5=Japanese logo}}
+
+== In other languages ==
+{{Langtable|color=9EF|bordercolor=76E
+|ja=未知なる水域 ''Michinaru Suiiki''
+|zh_yue=未知水域 ''Meihjī Séuiwihk''
+|zh_cmn=未知水域 ''Wèizhī Shuǐyù''
+|fr=Source Secrète
+|de=Verborgene Quelle
+|it=Sorgenti Recondite
+|ko=미지의 수역 ''Miji-ui Suyeok''
+|pt_br=Nascentes Reclusas
+|es=Manantial Oculto
+}}
+
+== References ==
+{{reflist}}
+
+== Related articles ==
+{{TCGPocketNavigation}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Verborgene Quelle (TCG Pocket)]]
+[[es:Manantial Oculto (TCG Pocket)]]
+[[fr:Source Secrète]]
+[[it:Sorgenti Recondite (GCC Pocket)]]
+[[ja:未知なる水域]]
+[[zh:未知水域（TCGP）]]

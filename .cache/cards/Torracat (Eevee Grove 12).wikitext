@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Torracat
+|ja name=ニャヒート
+|trans name=Nyaheat
+|species=Torracat
+|type=Fire
+|image=TorracatEeveeGrove12.png
+|illustrator=Shin Nagasawa
+|hp=80
+|weakness=Water
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Litten
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=012/069}}
+}}
+
+'''Torracat''' (Japanese: '''ニャヒート''' ''Nyaheat'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}
+|name=Claw Slash
+|jname=ツメできりさく
+|jtrans=Claw Slash
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Torracat
+|species=Fire Cat
+|ndex=0726
+|height=2'04"
+|jheight=0.7
+|weight=55.1
+|jweight=25.0
+|dex=Torracat will let its Trainer coddle it once they’ve grown close, but it’s a powerful, sharp-clawed Pokémon, so its Trainer gets covered in scratches. 
+|jdex=なつくと トレーナーにも 甘えるが 力は 強く ツメも 鋭い。 全身 傷だらけに されるぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Shining Legends|Torracat|16}} from the {{TCG|Shining Legends}} expansion.
+*'''Claw Slash''' is an attack that first appeared on {{TCG ID|XY Promo|Sableye|92}}, one of the {{TCG|XY Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Miezunder (Evoli-Hain 012)]]
+[[es:Torracat (Arboleda de Eevee TCG Pocket)]]
+[[fr:Matoufeu (La Clairière d'Évoli 012)]]
+[[it:Torracat (Il Bosco di Eevee 12)]]
+[[ja:ニャヒート (ポケポケ A3b)]]
+[[zh:炎热喵（A3b）]]

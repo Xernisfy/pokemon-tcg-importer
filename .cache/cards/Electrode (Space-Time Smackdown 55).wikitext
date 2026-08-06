@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Electrode
+|ja name=マルマイン
+|trans name=Marumine
+|species=Electrode
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ElectrodeSpace-TimeSmackdown55.png|illustrator=Anesaki Dynamic|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ElectrodeEeveeGrove96.png|illustrator=Scav|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Voltorb
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=055/155|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=096/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Electrode''' (Japanese: '''マルマイン''' ''Marumine'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Rolling Attack
+|jname=ボールアタック
+|jtrans=Ball Attack
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Electrode
+|species=Ball
+|ndex=0101
+|height=3'11"
+|jheight=1.2
+|weight=146.8
+|jweight=66.6
+|dex=The more energy it charges up, the faster it gets. But this also makes it more likely to explode.
+|jdex=電気エネルギーを　溜めこむほど 高速で　動けるようになるが そのぶん　爆発　しやすい｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=ElectrodeSpace-TimeSmackdown55.png
+|caption1=Common card<br>Illus. [[Anesaki Dynamic]]
+|image2=ElectrodeEeveeGrove96.png
+|caption2=Shiny rare card<br>Illus. [[Scav]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Hidden Fates|Electrode|22}} from the {{TCG|Hidden Fates}} expansion.
+*This card's shiny rare print features a {{Shiny}} {{p|Electrode}}.
+*'''Rolling Attack''' is an attack that first appeared on {{TCG ID|Gym Heroes|Brock's Sandshrew|71}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lektrobal (Kollision von Raum und Zeit 055)]]
+[[es:Electrode (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Électrode (Choc Spatio-Temporel 055)]]
+[[it:Electrode (Scontro Spaziotemporale 55)]]
+[[ja:マルマイン (ポケポケ A2)]]
+[[zh:顽皮雷弹（A2）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Shelgon
+|ja name=コモルー
+|trans name=Komoruu
+|species=Shelgon
+|type=Dragon
+|image=ShelgonFantasticalParade122.png
+|illustrator=tetsuya koizumi
+|hp=100
+|weakness=
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Bagon
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=122/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Shelgon''' (Japanese: '''コモルー''' ''Komoruu'') is a {{ct|Dragon}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Fire}}{{e|Water}}
+|name=Rolling Tackle
+|jname=ころがりタックル
+|jtrans=Rolling Tackle
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Shelgon
+|category=Endurance
+|ndex=0372
+|height=3'7"
+|jheight=1.1
+|weight=243.6
+|jweight=110.5
+|dex=Its armored body makes all attacks bounce off. The armor is too tough, however, making it heavy and somewhat sluggish.
+|jdex=あらゆる 攻撃を 跳ね返す。丈夫すぎて 体が 重いため 少し 動きが 鈍い。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Evolving Skies|Shelgon|108}} from the {{TCG|Evolving Skies}} expansion.
+*'''Rolling Tackle''' is an attack that first appeared on {{TCG ID|Team Rocket|Dark Electrode|34}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Draschel (Traumhafte Parade 122)]]
+[[fr:Drackhaus (Parade Onirique 122)]]
+[[it:Shelgon (Parata Fantasmagorica 122)]]
+[[ja:コモルー (ポケポケ B2)]]
+[[zh:甲壳龙（B2）]]

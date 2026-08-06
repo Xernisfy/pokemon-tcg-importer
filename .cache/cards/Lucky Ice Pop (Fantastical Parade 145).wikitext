@@ -1,0 +1,46 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Lucky Ice Pop
+|ja name=当たりつきアイス
+|trans name=Lucky Ice
+|subtype=Item
+|image=LuckyIcePopFantasticalParade145.png
+|illustrator=inose yukie
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=145/155}}
+}}
+
+'''Lucky Ice Pop''' (Japanese: '''当たりつきアイス''' ''Lucky Ice'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Heal 20 damage from your Active Pokémon. If you healed any damage in this way, flip a coin. If heads, put this Lucky Ice Pop into your hand instead of the discard pile.
+}}
+
+==Trivia==
+*This card's effect is identical to that of the {{TCG|Lucky Ice Pop}} card in the [[Pokémon Trading Card Game]].
+===Origin===
+* This card's illustration was first featured on {{TCG ID|Evolving Skies|Lucky Ice Pop|150}} from the {{TCG|Evolving Skies}} expansion.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=当たりつきアイス ''Ataritsuki Ice''
+|zh_yue=可抽獎的冰棒 ''Hó Chāujéung dīk Bīngpáahng''
+|zh_cmn=可抽獎的冰棒 ''Kě Chōujiǎng de Bīngbàng''
+|fr=Glace Chanceuse
+|de=Glücks-Eis
+|it=Ghiacciolo della Fortuna
+|ko=뽑기 아이스 ''Ppopgi Ice''
+|pt_br=Picolé da Sorte
+|es=Helado Suerte
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Glücks-Eis (TCG Pocket)]]
+[[fr:Glace Chanceuse (Parade Onirique 145)]]
+[[it:Ghiacciolo della Fortuna (Parata Fantasmagorica 145)]]
+[[ja:当たりつきアイス (ポケポケ)]]
+[[zh:可抽奖的冰棒（TCGP）]]

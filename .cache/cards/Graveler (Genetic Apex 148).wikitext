@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Graveler
+|ja name=ゴローン
+|trans name=Golone
+|species=Graveler
+|type=Fighting
+|image=GravelerGeneticApex148.png
+|illustrator=Naoyo Kimura
+|hp=100
+|weakness=Grass
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Geodude
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=148/226|pack=Pikachu|rarity=Diamond|rarity count=2}}
+}}
+
+'''Graveler''' (Japanese: '''ゴローン''' ''Golone'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}{{e|Colorless}}
+|name=Rollout
+|jname=ころがる
+|jtrans=Roll
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Graveler
+|species=Rock
+|ndex=0075
+|height=3'3"
+|jheight=1
+|weight=231.5
+|jweight=105.0
+|dex=It climbs up cliffs as it heads toward the peak of a mountain. As soon as it reaches the summit, it rolls back down the way it came.
+|jdex=崖を　登り　山頂を　目指す｡ てっぺんに　着くなり　すぐに　来た 山道を　転がり　落ちていく｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Flashfire|Graveler|46}} from the {{TCG|Flashfire}} expansion.
+**Both cards have the {{m|Rollout}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Graveler}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Georok (Unschlagbare Gene 148)]]
+[[es:Graveler (Genes Formidables TCG Pocket)]]
+[[fr:Gravalanch (Puissance Génétique 148)]]
+[[it:Graveler (Geni Supremi 148)]]
+[[ja:ゴローン (ポケポケ A1)]]
+[[zh:隆隆石（A1）]]

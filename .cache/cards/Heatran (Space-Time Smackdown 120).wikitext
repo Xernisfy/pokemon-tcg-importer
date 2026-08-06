@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Heatran
+|ja name=ヒードラン
+|trans name=Heatran
+|species=Heatran
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HeatranSpace-TimeSmackdown120.png|illustrator=Oswaldo KATO|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HeatranSpace-TimeSmackdown174.png|illustrator=OKUBO|tab caption=Illustration Rare}}
+|hp=120
+|weakness=Fire
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=120/155|pack=Dialga|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=174/155|pack=Dialga|rarity=Star|rarity count=1}}
+}}
+
+'''Heatran''' (Japanese: '''ヒードラン''' ''Heatran'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Metal}}
+|name=Steel Tackle
+|jname=こうてつタックル
+|jtrans=Steel Tackle
+|damage=110
+|effect=This Pokémon also does 20 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Heatran
+|species=Lava Dome
+|ndex=0485
+|height=5'7"
+|jheight=1.7
+|weight=948
+|jweight=430.0
+|dex=It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.
+|jdex=火山の 洞穴に 生息。十字の ツメを 食いこませて 壁や 天井を はい回る。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=HeatranSpace-TimeSmackdown120.png
+|caption1=Rare card<br>Illus. [[Oswaldo KATO]]
+|image2=HeatranSpace-TimeSmackdown174.png
+|caption2=Illustration rare card<br>Illus. [[OKUBO]]
+}}
+
+==Trivia==
+*This card is one of several featured in the {{TCGP|Space-Time Smackdown}} expansion's "Ecosystem of Stark Mountain" [[Space-Time Smackdown (TCG Pocket)#Themed Collections|Themed Collection]]. All of the featured standard cards are illustrated by [[Oswaldo KATO]] and feature {{p|Heatran}}'s [[footprint]]s in the background; all four Pokémon are also featured in this card's illustration rare print. The name of the collection implies that all of their illustrations are set in [[Stark Mountain]], where {{p|Heatran}} can be found in {{game|Diamond and Pearl|s|Pokémon Diamond, Pearl}}, {{game|Platinum||Platinum}}, {{game|Brilliant Diamond and Shining Pearl|s|Brilliant Diamond, and Shining Pearl}}.
+
+===Origin===
+*'''Steel Tackle''' is an attack that first appeared on {{TCG ID|Mysterious Treasures|Aron|71}} from the {{TCG|Mysterious Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Heatran (Kollision von Raum und Zeit 120)]]
+[[es:Heatran (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Heatran (Choc Spatio-Temporel 120)]]
+[[it:Heatran (Scontro Spaziotemporale 120)]]
+[[ja:ヒードラン (ポケポケ A2)]]
+[[zh:席多蓝恩（A2）]]

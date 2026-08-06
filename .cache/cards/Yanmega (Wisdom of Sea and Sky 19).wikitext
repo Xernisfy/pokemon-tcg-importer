@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Yanmega
+|ja name=メガヤンマ
+|trans name=Megayanma
+|species=Yanmega
+|type=Grass
+|image=YanmegaWisdomofSeaandSky19.png
+|illustrator=Uta
+|hp=90
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Yanma
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=019/161}}
+}}
+
+'''Yanmega''' (Japanese: '''メガヤンマ''' ''Megayanma'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Bug Buzz
+|jname=むしのさざめき
+|jtrans=Insect Noise
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Yanmega
+|species=Ogre Darner
+|ndex=0469
+|height=6'3"
+|jheight=1.9
+|weight=113.5
+|jweight=51.5
+|dex=It prefers to battle by biting apart foes' heads instantly while flying by at high speed.
+|jdex=こうそくで　とんで　すれちがった　あいての　くびを　いっしゅんで　かみちぎる　たたかいかたを　このむ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Vivid Voltage|Yanmega|7}} from the {{TCG|Vivid Voltage}} expansion.
+*{{m|Bug Buzz}} is a [[move]] in the [[Pokémon games]] that {{p|Yanmega}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Omega Ruby}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Yanmega (Weisheit von Meer und Himmel 019)]]
+[[es:Yanmega (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Yanmega (Sagesse entre Ciel et Mer 019)]]
+[[it:Yanmega (La Via del Cielo e del Mare 19)]]
+[[ja:メガヤンマ (ポケポケ A4)]]
+[[zh:远古巨蜓（A4）]]

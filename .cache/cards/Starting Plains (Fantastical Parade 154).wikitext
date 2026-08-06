@@ -1,0 +1,45 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Starting Plains
+|ja name=はじまりの平原
+|trans name=Starting Plains
+|subtype=Stadium
+|image=StartingPlainsFantasticalParade154.png
+|illustrator=AYUMI ODASHIMA
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=154/155}}
+}}
+
+'''Starting Plains''' (Japanese: '''はじまりの平原''' ''Starting Plains'') is a {{TCGP|Stadium card}} in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Stadium
+|rule=SV Stadium
+|effect=Each Basic Pokémon in play ''(both yours and your opponent's)'' gets +20 HP.
+}}
+
+==Trivia==
+*This card's effect is similar to that of the {{TCG|Lively Stadium}} card in the [[Pokémon Trading Card Game]], but increases HP by 20 instead of 30. 
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Stadium color}}|bordercolor={{TCG Stadium color dark}}|textcolor=FFF
+|ja=はじまりの平原 ''Hajimari no Heigen''
+|zh_yue=起始平原 ''Héichí Pìhngyùhn''
+|zh_cmn=起始平原 ''Qǐshǐ Píngyuán''
+|fr=Plaine du Départ
+|de=Feld des Anfangs
+|it=Pianura degli Esordi
+|ko=시작의 평원 ''Sijak-ui Pyeong'won''
+|pt_br=Planície Primordial
+|es=Planicie Inicial
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Feld des Anfangs (TCG Pocket)]]
+[[fr:Plaine du Départ (Parade Onirique 154)]]
+[[it:Pianura degli Esordi (Parata Fantasmagorica 154)]]
+[[ja:はじまりの平原]]
+[[zh:起始平原（TCGP）]]

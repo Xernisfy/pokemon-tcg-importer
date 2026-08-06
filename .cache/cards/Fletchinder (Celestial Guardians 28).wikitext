@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Fletchinder
+|ja name=ヒノヤコマ
+|trans name=Hinoyakoma
+|species=Fletchinder
+|type=Fire
+|image=FletchinderCelestialGuardians28.png
+|illustrator=Mina Nakai
+|hp=80
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Fletchling
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=028/155|pack=Solgaleo|rarity=Diamond|rarity count=2}}
+}}
+
+'''Fletchinder''' (Japanese: '''ヒノヤコマ''' ''Hinoyakoma'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Steady Firebreathing
+|jname=ひをはく
+|jtrans=Firebreathing
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Fletchinder
+|species=Ember
+|ndex=0662
+|height=2'4"
+|jheight=0.7
+|weight=35.3
+|jweight=16.0
+|dex=Fletchinder scatters embers in tall grass where bug Pokémon might be hiding and then catches them as they come leaping out. 
+|jdex=虫ポケモンが 潜んでいそうな 草むらに 火の粉を まき散らして 飛び出してきたところを 捕まえる。
+}}
+
+==Trivia==
+===Origin===
+*This card is almost identical to {{TCG ID|Silver Tempest|Fletchinder|28}} from the {{TCG|Silver Tempest}} expansion, except for the {{TCG|Weakness}}.
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Fletchinder|31}} from the {{TCG|Unified Minds}} expansion.
+*'''Steady Firebreathing''' is an attack that first appeared on {{TCG ID|EX Team Magma vs Team Aqua|Team Magma's Houndour|63}} from the {{TCG|EX Team Magma vs Team Aqua}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dartignis (Hüter des Firmaments 028)]]
+[[es:Fletchinder (Guardianes Celestiales TCG Pocket)]]
+[[fr:Braisillon (Gardiens Astraux 028)]]
+[[it:Fletchinder (Guardiani Astrali 28)]]
+[[ja:ヒノヤコマ (ポケポケ A3)]]
+[[zh:火箭雀（A3）]]

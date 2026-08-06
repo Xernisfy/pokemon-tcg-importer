@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Darkrai
+|ja name=ダークライ
+|trans name=Darkrai
+|species=Darkrai
+|type=Darkness
+|image=DarkraiMegaRising154.png
+|illustrator=Uta
+|hp=120
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=154/226|pack=Mega Altaria|rarity=Diamond|rarity count=3}}
+}}
+
+'''Darkrai''' (Japanese: '''ダークライ''' ''Darkrai'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Colorless}}
+|name=Shadow Cage
+|jname=シャドーコープ
+|jtrans=Shadow Coop
+|damage=70
+|effect=During your opponent's next turn, the Defending Pokémon can't retreat.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Darkrai
+|category=Pitch Black
+|ndex=0491
+|height=4'11"
+|jheight=1.5
+|weight=111.3
+|jweight=50.5
+|dex=It can lull people to sleep and make them dream. It is active during nights of the new moon.
+|jdex=人々を 深い 眠りに 誘い 夢を 見せる 能力を 持つ。 新月の 夜に 活動する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fusion Strike|Darkrai|167}} from the {{TCG|Fusion Strike}} expansion.
+*'''Shadow Cage''' is an attack that first appeared on {{TCG ID|Plasma Freeze|Sableye|49}} from the {{TCG|Plasma Freeze}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Darkrai (Mega-Aufstieg 154)]]
+[[es:Darkrai (Megaascenso TCG Pocket)]]
+[[fr:Darkrai (Méga-Ascension 154)]]
+[[it:Darkrai (Mega Ascesa 154)]]
+[[ja:ダークライ (ポケポケ B1)]]
+[[zh:达克莱伊（B1）]]

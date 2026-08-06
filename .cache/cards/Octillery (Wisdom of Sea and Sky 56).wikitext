@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Octillery
+|ja name=オクタン
+|trans name=Okutank
+|species=Octillery
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OctilleryWisdomofSeaandSky56.png|illustrator=Kagemaru Himeno|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OctilleryWisdomofSeaandSky169.png|illustrator=REND|tab caption=Illustration Rare}}
+|hp=100
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Remoraid
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=056/161|pack=Lugia|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=169/161|pack=Lugia|rarity=Star|rarity count=1}}
+}}
+
+'''Octillery''' (Japanese: '''オクタン''' ''Okutank'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Octazooka
+|jname=オクタンほう
+|jtrans=Octillery Cannon
+|damage=50
+|effect=If the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen. This effect lasts until the Defending Pokémon leaves the Active Spot, and it doesn't stack.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Octillery
+|species=Jet
+|ndex=0224
+|height=2'11"
+|jheight=0.9
+|weight=62.8
+|jweight=28.5
+|dex=Its instinct is to bury itself in holes. It often steals the nesting holes of others to sleep in them.
+|jdex=穴に 入りたがる 性質で ほかの ポケモンが 作った 巣穴を 横取りして 眠る。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=OctilleryWisdomofSeaandSky56.png
+|caption1=Rare card<br>Illus. [[Kagemaru Himeno]]
+|image2=OctilleryWisdomofSeaandSky169.png
+|caption2=Illustration rare card<br>Illus. [[REND]]
+}}
+
+==Trivia==
+*This card's illustration rare print features {{p|Octillery}}, {{p|Mantine}}, {{p|Remoraid}} and {{p|Horsea}}.
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Mysterious Treasures|Octillery|57}} from the {{TCG|Mysterious Treasures}} expansion.
+*{{m|Octazooka}} is a [[move]] in the [[Pokémon games]] that {{p|Octillery}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Crystal}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Octillery (Weisheit von Meer und Himmel 056)]]
+[[es:Octillery (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Octillery (Sagesse entre Ciel et Mer 056)]]
+[[it:Octillery (La Via del Cielo e del Mare 56)]]
+[[ja:オクタン (ポケポケ A4)]]
+[[zh:章鱼桶（A4）]]

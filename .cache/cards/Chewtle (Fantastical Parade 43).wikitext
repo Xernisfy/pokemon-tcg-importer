@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Chewtle
+|ja name=カムカメ
+|trans name=Kamukame
+|species=Chewtle
+|type=Water
+|image=ChewtleFantasticalParade43.png
+|illustrator=Mina Nakai
+|hp=80
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=043/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Chewtle''' (Japanese: '''カムカメ''' ''Kamukame'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Headbutt
+|jname=ずつき
+|jtrans=Headbutt
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Chewtle
+|category=Snapping
+|ndex=0833
+|height=1'
+|jheight=0.3
+|weight=18.7
+|jweight=8.5
+|dex=A popular game among children is to lift up sticks that Chewtle have bitten onto to see whose Chewtle can hang on the longest.
+|jdex=カムカメが 噛みついた 枝を 持ち上げ 食いついている 時間を 競う 遊びが 子どもに 人気。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sword & Shield|Chewtle|60}} from the {{TCG|Sword & Shield}} expansion.
+*{{m|Headbutt}} is a [[move]] in the [[Pokémon games]] that {{p|Chewtle}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kamehaps (Traumhafte Parade 043)]]
+[[fr:Khélocrok (Parade Onirique 043)]]
+[[it:Chewtle (Parata Fantasmagorica 43)]]
+[[ja:カムカメ (ポケポケ B2)]]
+[[zh:咬咬龟（B2）]]

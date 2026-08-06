@@ -1,0 +1,84 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Eevee
+|ja name=イーブイ
+|trans name=Eievui
+|species=Eevee
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EeveeMegaRising184.png|illustrator=MAHOU|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EeveePromo-B11.png|illustrator=Aya Kusube|tab caption=Promo}}
+|hp=50
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=184/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=011/P-B}}
+}}
+
+'''Eevee''' (Japanese: '''イーブイ''' ''Eievui'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Boosted Evolution
+|jname=ブーストしんか
+|jtrans=Boost Evolution
+|effect=As long as this Pokémon is in the Active Spot, it can evolve during your first turn or the turn you play it.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Stampede
+|jname=ふむ
+|jtrans=Step On
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Eevee
+|species=Evolution
+|ndex=0133
+|height=1'
+|jheight=0.3
+|weight=14.3
+|jweight=6.5
+|dex=Its genetic code is irregular. It may mutate if it is exposed to radiation from element stones.
+|jdex=不規則な 遺伝子を 持つ。 石から出る 放射線によって 体が 突然変異を 起こす。
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} print of this card was available via special wonder picks during the Mega Gyarados [[Wonder Pick Event (Mega Gyarados)|Wonder Pick Event]], which ran from December 7 to 17, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=EeveeMegaRising184.png
+|caption1=Common card<br>Illus. [[MAHOU]]
+|image2=EeveePromo-B11.png
+|caption2=Promo card<br>Illus. [[Aya Kusube]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Dark Explorers|Eevee|83}} from the {{TCG|Dark Explorers}} expansion.
+*This card's {{TCGP|Promo-B}} illustration was first featured on {{TCG ID|Forbidden Light|Eevee|70}} from the {{TCG|Forbidden Light}} expansion.
+*'''Stampede''' is an attack that first appeared on {{TCG ID|EX Ruby & Sapphire|Phanpy|62}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*'''Boosted Evolution''' is an {{TCG|Ability}} that first appeared on {{TCG ID|Surging Sparks|Eevee|143}} from the {{TCG|Surging Sparks}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Evoli (Mega-Aufstieg 184)]]
+[[es:Eevee (Megaascenso TCG Pocket)]]
+[[fr:Évoli (Méga-Ascension 184)]]
+[[it:Eevee (Mega Ascesa 184)]]
+[[ja:イーブイ (ポケポケ B1)]]
+[[zh:伊布（B1）]]

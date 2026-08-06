@@ -1,0 +1,92 @@
+{{TCGPocketExpansionPrevNext | prev = Mega Shine }}
+{{TCGPocketExpansionInfobox
+|setname=Pulsing Aura
+|jasetname=波動ビート
+|jasettrans=Aura Beat
+|setlogo=B3 Set Logo EN.png
+|release=April 28, 2026
+|cards=TBD
+|missions=no
+|collections=
+|dex missions=
+|deck missions=
+|decks=
+|battles=
+}}
+'''Pulsing Aura''' (Japanese: '''波動ビート''' ''Aura Beat'') is the sixth {{TCGP|B Series}} expansion, and the seventeenth expansion overall, in [[Pokémon Trading Card Game Pocket]].
+
+== Information ==
+'''Pulsing Aura''' is the seventh main expansion released through [[Pokémon Trading Card Game Pocket]]. It focuses on {{p|Lucario|Mega Lucario}}.
+
+== Card list ==
+{{TCG Set List/header|tablecol=032d83|bordercol=fb3326|cellcol=00e8f3}}
+|-
+|  || {{OBP|Treecko|Pulsing Aura}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+|  || {{OBP|Mega Sceptile ex|Pulsing Aura|Mega Sceptile}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}}
+|-
+|  || {{OBP|Budew|Pulsing Aura}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+|  || {{OBP|Emboar|Pulsing Aura}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}}
+|-
+|  || {{OBP|Vaporeon ex|Pulsing Aura|Vaporeon}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+|  || {{OBP|Wooper|Pulsing Aura}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+|  || {{OBP|Rapid Strike Urshifu|Pulsing Aura}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+|  || {{OBP|Hattrem|Pulsing Aura}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+|  || {{OBP|Riolu|Pulsing Aura}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+|  || {{OBP|Lucario|Pulsing Aura}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}}
+|-
+|  || {{OBP|Mega Lucario ex|Pulsing Aura|Mega Lucario}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}}
+|-
+|  || {{OBP|Croagunk|Pulsing Aura}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+|  || {{OBP|Bewear|Pulsing Aura}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+|  || {{OBP|Zorua|Pulsing Aura}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+|  || {{OBP|Single Strike Urshifu|Pulsing Aura}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}}
+|-
+|  || {{OBP|Field Blower|Pulsing Aura}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}}
+|-
+|  || {{OBP|Korrina|Pulsing Aura}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+|  || {{OBP|Arena of Antiquity|Pulsing Aura}} || {{TCG Icon|Stadium}} || {{Rar/TCGP|Diamond|2}}
+|-
+|  || {{OBP|Quagsire|Pulsing Aura}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}}
+|-
+|  || {{OBP|Kubfu|Pulsing Aura}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|1}}
+|-
+|  || {{OBP|Bisharp|Pulsing Aura}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|1}}
+|}
+
+== Gallery ==
+=== Pack artwork ===
+{{TCGMerchGallery
+|background=00e8f3
+|border=fb3326
+|image1=B3 Booster EN.png
+|caption1=Booster pack
+}}
+
+== In other languages ==
+{{Langtable|color=00e8f3|bordercolor=fb3326
+|ja=波動ビート ''Hadō Beat''
+|zh_yue=波導奏動 ''Bōdouh Jau Duhng''
+|zh_cmn=波導奏動 ''Bōdǎo Zòu Dòng''
+|fr=Aura Palpitante
+|de=Pulsierende Aura
+|it=Aura Pulsante
+|ko=파동 비트 ''Padong Beat''
+|pt_br=Aura Pulsante
+|es=Aura Pulsante
+}}
+
+== Related articles ==
+{{TCGPocketNavigation}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}

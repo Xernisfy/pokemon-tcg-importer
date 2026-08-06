@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Kangaskhan
+|ja name=ガルーラ
+|trans name=Garura
+|species=Kangaskhan
+|type=Colorless
+|image=KangaskhanFantasticalParade126.png
+|illustrator=kawayoo
+|hp=110
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=126/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Kangaskhan''' (Japanese: '''ガルーラ''' ''Garura'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Steady Punch
+|jname=ワンツーパンチ
+|jtrans=One-Two Punch
+|damage=60+
+|effect=Flip a coin. If heads, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Kangaskhan
+|species=Parent
+|ndex=0115
+|height=7'3"
+|jheight=2.2
+|weight=176.4
+|jweight=80.0
+|dex=There are records of a lost human child being raised by a childless Kangaskhan.
+|jdex=子どもの いない ガルーラが 遭難した 人間の 子を 育てていたという 記録がある。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Kangaskhan|133}} from the {{TCG|Darkness Ablaze}} expansion.
+*'''Steady Punch''' is an attack that first appeared on {{TCG ID|Vending|Machoke|S2}} from {{TCG|Expansion Sheet 2}}.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kangama (Traumhafte Parade 126)]]
+[[fr:Kangourex (Parade Onirique 126)]]
+[[it:Kangaskhan (Parata Fantasmagorica 126)]]
+[[ja:ガルーラ (ポケポケ B2)]]
+[[zh:袋兽（B2）]]

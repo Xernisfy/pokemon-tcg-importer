@@ -1,0 +1,69 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Abomasnow
+|ja name=ユキノオー
+|trans name=Yukinooh
+|species=Abomasnow
+|type=Water
+|image=AbomasnowTriumphantLight21.png
+|illustrator=nagimiso
+|hp=120
+|weakness=Metal
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Snover
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=021/075|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Abomasnow''' (Japanese: '''ユキノオー''' ''Yukinooh'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Vigor Link
+|jname=ハッスルリンク
+|jtrans=Hustle Link
+|effect=If you have {{TCGP|Arceus}} or {{DL|Arceus (TCG Pocket)|Arceus ex}} in play, attacks used by this Pokémon cost 1 less {{e|Colorless}} Energy.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Mega Punch
+|jname=メガトンパンチ
+|jtrans=Megaton Punch
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Abomasnow
+|species=Frost Tree
+|ndex=0460
+|height=7'3"
+|jheight=2.2
+|weight=298.7
+|jweight=135.5
+|dex=It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.
+|jdex=万年雪が 積もる 山脈で 静かに 暮らす。 ブリザードを 発生させて 姿を 隠す。
+}}
+
+==Trivia==
+Abomasnow is one of eight Pokémon in the {{TCGP|Triumphant Light}} expansion to feature a {{TCGP|Link Ability}} that is active or usable while {{TCGP|Arceus|Arceus or Arceus ex}} is in play. All of these cards, along with {{TCG ID|Triumphant Light|Arceus|70}} and {{TCG ID|Triumphant Light|Arceus ex|71}} from the same expansion, have a special pattern behind the card text to symbolise their connection to Arceus and are part of the [[Triumphant Light (TCG Pocket)#Themed Collections|Themed Collection]] "Pokémon with Abilities that "Link" with Arceus".
+
+===Origin===
+*{{m|Mega Punch}} is a [[move]] in the [[Pokémon games]] that {{p|Abomasnow}} can learn via [[TM]] in [[Generation VII]].
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rexblisar (Licht des Triumphs 021)]]
+[[es:Abomasnow (Luz Triunfal TCG Pocket)]]
+[[fr:Blizzaroi (Lumière Triomphale 021)]]
+[[it:Abomasnow (Luce Trionfale 21)]]
+[[ja:ユキノオー (ポケポケ A2a)]]
+[[zh:暴雪王（A2a）]]

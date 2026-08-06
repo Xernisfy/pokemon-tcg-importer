@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Jigglypuff
+|ja name=プリン
+|trans name=Purin
+|species=Jigglypuff
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JigglypuffShiningRevelry60.png|illustrator=Kanako Eo|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JigglypuffCelestialGuardians228.png|illustrator=Tomowaka|tab caption=Shiny Rare}}
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=060/072|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=228/155|pack=Solgaleo|rarity=Shiny|rarity count=1}}
+}}
+
+'''Jigglypuff''' (Japanese: '''プリン''' ''Purin'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Rollout
+|jname=ころがる
+|jtrans=Roll
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Jigglypuff
+|category=Balloon 
+|ndex=0039
+|height=1'8"
+|jheight=0.5
+|weight=12.1
+|jweight=5.5
+|dex=It hugely inflates its stomach and sings a mysterious melody. If you hear this melody, you'll become sleepy right away.
+|jdex=大きく お腹を 膨らませて 不思議な メロディーを 歌う。 聞くと すぐに 眠くなるぞ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=JigglypuffShiningRevelry60.png
+|caption1=Common card<br>Illus. [[Kanako Eo]]
+|image2=JigglypuffCelestialGuardians228.png
+|caption2=Shiny rare card<br>Illus. [[Tomowaka]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|XY|Jigglypuff|87}} from the {{TCG|XY}} expansion; both cards have the Rollout attack.
+*{{m|Rollout}} is a [[move]] in the [[Pokémon games]] that {{p|Jigglypuff}} can learn.
+*This card's shiny rare print features a {{Shiny}} {{p|Jigglypuff}}.
+*This card's [[Pokédex]] entry comes from {{g|Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pummeluff (Glänzendes Festival 060)]]
+[[es:Jigglypuff (Festival Brillante TCG Pocket)]]
+[[fr:Rondoudou (Réjouissances Rayonnantes 060)]]
+[[it:Jigglypuff (Tripudio Splendente 60)]]
+[[ja:プリン (ポケポケ A2b)]]
+[[zh:胖丁（A2b）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Skiddo
+|ja name=メェークル
+|trans name=Meecle
+|species=Skiddo
+|type=Grass
+|image=SkiddoGeneticApex31.png
+|illustrator=Naoki Saito
+|hp=70
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=031/226|pack=Charizard|rarity=Diamond|rarity count=1}}
+}}
+
+'''Skiddo''' (Japanese: '''メェークル''' ''Meecle'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Surprise Attack
+|jname=ふいをつく
+|jtrans=Surprise Attack
+|damage=40
+|effect=Flip a coin. If tails, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Skiddo
+|species=Mount
+|ndex=0672
+|height=2'11"
+|jheight=0.9
+|weight=68.3
+|jweight=31.0
+|dex=Until recently, people living in the mountains would ride on the backs of these Pokémon to traverse the mountain paths.
+|jdex=最近まで　山岳で　暮らす 人たちは　メェークルの　背中に 乗って　山道を　移動していた｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Crimson Invasion|Skiddo|10}} from the {{TCG|Crimson Invasion}} expansion.
+*'''Surprise Attack''' is an attack that first appeared on {{TCG ID|Gym Challenge|Brock's Diglett|67}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mähikel (Unschlagbare Gene 031)]]
+[[es:Skiddo (Genes Formidables TCG Pocket)]]
+[[fr:Cabriolaine (Puissance Génétique 031)]]
+[[it:Skiddo (Geni Supremi 31)]]
+[[ja:メェークル (ポケポケ A1)]]
+[[zh:坐骑小羊（A1）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Kommo-o
+|ja name=ジャラランガ
+|trans name=Jyararanga
+|species=Kommo-o
+|type=Dragon
+|image=Kommo-oCelestialGuardians127.png
+|illustrator=hatachu
+|hp=150
+|weakness=
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Hakamo-o
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=127/155|pack=Lunala|rarity=Diamond|rarity count=3}}
+}}
+
+'''Kommo-o''' (Japanese: '''ジャラランガ''' ''Jyararanga'') is a {{ct|Dragon}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Lightning}}{{e|Fighting}}
+|name=Clanging Scales
+|jname=スケイルノイズ
+|jtrans=Scale Noise
+|damage=130
+|effect=During your opponent's next turn, this Pokémon takes +30 damage from attacks.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Kommo-o
+|species=Scaly
+|ndex=0784
+|height=5'3"
+|jheight=1.6
+|weight=172.4
+|jweight=78.2
+|dex=It clatters its tail scales to unnerve opponents. This Pokémon will battle only those who stand steadfast in the face of this display.
+|jdex=敵に 出会うと しっぽの ウロコを 打ち鳴らし 威嚇。 怖気づかない 強者だけを 相手に 戦う。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Kommo-o|163}} from the {{TCG|Cosmic Eclipse}} expansion.
+*{{m|Clanging Scales}} is a [[move]] in the [[Pokémon games]] that {{p|Kommo-o}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Grandiras (Hüter des Firmaments 127)]]
+[[es:Kommo-o (Guardianes Celestiales TCG Pocket)]]
+[[fr:Ékaïser (Gardiens Astraux 127)]]
+[[it:Kommo-o (Guardiani Astrali 127)]]
+[[ja:ジャラランガ (ポケポケ A3)]]
+[[zh:杖尾鳞甲龙（A3）]]

@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Weezing
+|ja name=マタドガス
+|trans name=Matadogas
+|species=Weezing
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WeezingGeneticApex177.png|illustrator=OOYAMA|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WeezingGeneticApex243.png|illustrator=KEIICHIRO ITO|tab caption=Illustration Rare}}
+|hp=110
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Koffing
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mewtwo|rarity=Diamond|rarity count=3|number=177/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mewtwo|rarity=Star|rarity count=1|number=243/226}}
+}}
+
+'''Weezing''' (Japanese: '''マタドガス''' ''Matadogas'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Ability/Pocket
+|type=Darkness
+|name=Gas Leak
+|jname=もれだすガス
+|jtrans=Leaking Gas
+|effect=Once during your turn, if this Pokémon is in the Active Spot, you may make your opponent's Active Pokémon {{TCG|Poisoned}}.
+}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Weezing
+|species=Poison Gas
+|ndex=0110
+|height=3'11"
+|jheight=1.2
+|weight=20.9
+|jweight=9.5
+|dex=If one of the twin Koffing inflates, the other one deflates. It constantly mixes its poisonous gases.
+|jdex=どちらかが　ふくらむと　片方は しぼむ　双子の　ドガース｡　いつも 体内の　毒ガスを　混ぜている｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=WeezingGeneticApex177.png
+|caption1=Rare card<br>Illus. [[OOYAMA]]
+|image2=WeezingGeneticApex243.png
+|caption2=Illustration rare card<br>Illus. [[KEIICHIRO ITO]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Unbroken Bonds|Weezing|74}} from the {{TCG|Unbroken Bonds}} expansion.
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Weezing}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Smogmog (Unschlagbare Gene 177)]]
+[[es:Weezing (Genes Formidables TCG Pocket)]]
+[[fr:Smogogo (Puissance Génétique 177)]]
+[[it:Weezing (Geni Supremi 177)]]
+[[ja:マタドガス (ポケポケ A1)]]
+[[zh:双弹瓦斯（A1）]]

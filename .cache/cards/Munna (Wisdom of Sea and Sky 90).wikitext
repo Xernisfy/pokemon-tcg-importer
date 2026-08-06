@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Munna
+|ja name=ムンナ
+|trans name=Munna
+|species=Munna
+|type=Psychic
+|image=MunnaWisdomofSeaandSky90.png
+|illustrator=miki kudo
+|hp=70
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=090/161|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Munna''' (Japanese: '''ムンナ''' ''Munna'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Psyshot
+|jname=サイコショット
+|jtrans=Psychoshot
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Munna
+|category=Dream Eater 
+|ndex=0517
+|height=2'
+|jheight=0.6
+|weight=51.4
+|jweight=23.3
+|dex=Late at night, it appears beside people's pillows. As it feeds on dreams, the patterns on its body give off a faint glow.
+|jdex=深夜 枕元に 現れる。 夢を 食べているとき 体の 模様が ぼんやりと 光る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fusion Strike|Munna|121}} from the {{TCG|Fusion Strike}} expansion.
+*'''Psyshot''' is an attack that first appeared on {{TCG ID|Gym Challenge|Sabrina's Kadabra|58}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Somniam (Weisheit von Meer und Himmel 090)]]
+[[es:Munna (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Munna (Sagesse entre Ciel et Mer 090)]]
+[[it:Munna (La Via del Cielo e del Mare 90)]]
+[[ja:ムンナ (ポケポケ A4)]]
+[[zh:食梦梦（A4）]]

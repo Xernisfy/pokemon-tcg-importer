@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Seel
+|ja name=パウワウ
+|trans name=Pawou
+|species=Seel
+|type=Water
+|image=SeelGeneticApex64.png
+|illustrator=Masako Yamashita
+|hp=80
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=064/226|pack=Pikachu|rarity=Diamond|rarity count=1}}
+}}
+
+'''Seel''' (Japanese: '''パウワウ''' ''Pawou'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Headbutt
+|jname=ずつき
+|jtrans=Headbutt
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Seel
+|species=Sea Lion
+|ndex=0086
+|height=3'7"
+|jheight=1.1
+|weight=198.4
+|jweight=90.0
+|dex=Thanks to its thick fat, cold seas don't bother it at all, but it gets tired pretty easily in warm waters.
+|jdex=分厚い　脂肪の　おかげで　寒い 海も　へっちゃらだけど　暖かい 海では　ちょっと　バテやすいのだ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Neo Destiny|Seel|81}} from the {{TCG|Neo Destiny}} expansion.
+*{{m|Headbutt}} is a [[move]] in the [[Pokémon games]] that {{p|Seel}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Jurob (Unschlagbare Gene 064)]]
+[[es:Seel (Genes Formidables TCG Pocket)]]
+[[fr:Otaria (Puissance Génétique 064)]]
+[[it:Seel (Geni Supremi 64)]]
+[[ja:パウワウ (ポケポケ A1)]]
+[[zh:小海狮（A1）]]

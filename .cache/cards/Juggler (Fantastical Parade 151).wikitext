@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Juggler
+|ja name=ジャグラー
+|trans name=Juggler
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JugglerFantasticalParade151.png|illustrator=Teeziro|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JugglerFantasticalParade192.png|illustrator=Teeziro|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=151/155}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Star|rarity count=2|number=192/155}}
+}}
+
+'''Juggler''' (Japanese: '''ジャグラー''' ''Juggler'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=You can use this card only if your Pokémon in play have 3 or more different types of Energy attached.
+
+Move all Energy from each of your Benched Pokémon to your Active Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=JugglerFantasticalParade151.png
+|caption1=Uncommon card<br>Illus. [[Teeziro]]
+|image2=JugglerFantasticalParade192.png
+|caption2=Super rare card<br>Illus. [[Teeziro]]
+}}
+
+==Trivia==
+* {{TCG|Juggler}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+===Origin===
+*{{tc|Juggler}} is a Trainer class introduced to the [[core series]] games in [[Generation I]].
+*This card's artwork features the Juggler's appearance from {{game|HeartGold and SoulSilver|s}}.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=ジャグラー ''Juggler''
+|zh_yue=雜耍藝人 ''Jaahpsá Ngaihyàhn''
+|zh_cmn=雜耍藝人 ''Záshuǎ Yìrén''
+|fr=Jongleur
+|de=Jongleur
+|it=Giocoliere
+|ko=저글러 ''Juggler''
+|pt_br=Malabarista
+|es=Malabarista
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Jongleur (TCG Pocket)]]
+[[fr:Jongleur (Parade Onirique 151)]]
+[[it:Giocoliere (Parata Fantasmagorica 151)]]
+[[ja:ジャグラー (ポケポケ)]]
+[[zh:杂耍艺人（TCGP）]]

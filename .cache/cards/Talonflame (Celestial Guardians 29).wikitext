@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Talonflame
+|ja name=ファイアロー
+|trans name=Fiarrow
+|species=Talonflame
+|type=Fire
+|image=TalonflameCelestialGuardians29.png
+|illustrator=Masakazu Fukuda
+|hp=120
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Fletchinder
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Solgaleo|rarity=Diamond|rarity count=2|number=029/155}}
+}}
+
+'''Talonflame''' (Japanese: '''ファイアロー''' ''Fiarrow'') is a {{ct|Fire}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Fire Wing
+|jname=ほのおのつばさ
+|jtrans=Flame Wings
+|damage=90
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Talonflame
+|species=Scorching
+|ndex=0663
+|height=3'11"
+|jheight=1.2
+|weight=54
+|jweight=24.5
+|dex=It has top-notch flying capabilities. It flies around easily, even while carrying prey that weighs more than 220 lbs.
+|jdex=飛翔力は トップクラス。 100キロ以上の 獲物を 掴んだまま 楽々 飛びまわる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Roaring Skies|Talonflame|15}} from the {{TCG|Roaring Skies}} expansion.
+*'''Fire Wing''' is an attack that first appeared on {{TCG ID|Vending|Moltres|S2}} from {{TCG|Expansion Sheet 2}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Fiaro (Hüter des Firmaments 029)]]
+[[es:Talonflame (Guardianes Celestiales TCG Pocket)]]
+[[fr:Flambusard (Gardiens Astraux 029)]]
+[[it:Talonflame (Guardiani Astrali 29)]]
+[[ja:ファイアロー (ポケポケ A3)]]
+[[zh:烈箭鹰（A3）]]

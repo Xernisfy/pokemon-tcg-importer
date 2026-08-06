@@ -1,0 +1,423 @@
+{{TCGPocketExpansionPrevNext | prev = Space-Time Smackdown | next = Shining Revelry}}
+{{TCGPocketExpansionInfobox
+|setname=Triumphant Light
+|jasetname=超克の光
+|jasettrans=Transcendent Light
+|setlogo=A2a Set Logo EN.png
+|cards=96 (75 + 21 secret cards)
+|release=February 28, 2025
+|collections=17 (13 + 4 secret)
+|dex missions=11 (10 + 1 secret)
+|deck missions=18
+|decks=9
+|battles=18
+}}
+'''Triumphant Light''' (Japanese: '''超克の光''' ''Transcendent Light'') is the second themed booster pack, and fourth expansion overall, in [[Pokémon Trading Card Game Pocket]].
+
+== Information ==
+'''Triumphant Light''' is the second themed booster pack released through [[Pokémon Trading Card Game Pocket]]. The expansion focuses on {{p|Arceus}}, which appears as a {{TCGP|Pokémon ex}}. Some of the Pokémon in the expansion feature special {{TCG|Ability|Abilities}} called {{TCGP|Link Ability|Link Abilities}}, which are activated if the player has Arceus or Arceus ex in play.
+
+As an extension of {{TCGP|Space-Time Smackdown}}, which focused on [[Generation IV]] Pokémon and characters from the [[Sinnoh]] region, Triumphant Light features some characters from the historical [[Hisui]] region—the setting of [[Pokémon Legends: Arceus]]—such as [[Adaman]] and [[Irida]].
+
+== Card list ==
+{{TCG Set List/header|tablecol=FC2|bordercol=D13|cellcol=FE8}}
+|-
+| 001/075 || {{TCG ID|Triumphant Light|Heracross|1}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 002/075 || {{TCG ID|Triumphant Light|Burmy|2}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 003/075 || {{TCG ID|Triumphant Light|Mothim|3}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 004/075 || {{TCG ID|Triumphant Light|Combee|4}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 005/075 || {{TCG ID|Triumphant Light|Vespiquen|5}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 006/075 || {{TCG ID|Triumphant Light|Cherubi|6}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 007/075 || {{TCG ID|Triumphant Light|Cherrim|7}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 008/075 || {{TCG ID|Triumphant Light|Cherrim|8}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 009/075 || {{TCG ID|Triumphant Light|Carnivine|9}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 010/075 || {{TCG ID|Triumphant Light|Leafeon ex|10|Leafeon}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 011/075 || {{TCG ID|Triumphant Light|Houndour|11}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 012/075 || {{TCG ID|Triumphant Light|Houndoom|12}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 013/075 || {{TCG ID|Triumphant Light|Heatran|13}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 014/075 || {{TCG ID|Triumphant Light|Marill|14}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 015/075 || {{TCG ID|Triumphant Light|Azumarill|15}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 016/075 || {{TCG ID|Triumphant Light|Barboach|16}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 017/075 || {{TCG ID|Triumphant Light|Whiscash|17}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 018/075 || {{TCG ID|Triumphant Light|Snorunt|18}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 019/075 || {{TCG ID|Triumphant Light|Froslass|19}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 020/075 || {{TCG ID|Triumphant Light|Snover|20}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 021/075 || {{TCG ID|Triumphant Light|Abomasnow|21}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 022/075 || {{TCG ID|Triumphant Light|Glaceon ex|22|Glaceon}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 023/075 || {{TCG ID|Triumphant Light|Origin Forme Palkia|23}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 024/075 || {{TCG ID|Triumphant Light|Phione|24}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 025/075 || {{TCG ID|Triumphant Light|Pikachu|25}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 026/075 || {{TCG ID|Triumphant Light|Raichu|26}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 027/075 || {{TCG ID|Triumphant Light|Electrike|27}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 028/075 || {{TCG ID|Triumphant Light|Manectric|28}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 029/075 || {{TCG ID|Triumphant Light|Clefairy|29}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 030/075 || {{TCG ID|Triumphant Light|Clefable|30}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 031/075 || {{TCG ID|Triumphant Light|Gastly|31}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 032/075 || {{TCG ID|Triumphant Light|Haunter|32}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 033/075 || {{TCG ID|Triumphant Light|Gengar|33}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 034/075 || {{TCG ID|Triumphant Light|Unown|34}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 035/075 || {{TCG ID|Triumphant Light|Rotom|35}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 036/075 || {{TCG ID|Triumphant Light|Sudowoodo|36}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 037/075 || {{TCG ID|Triumphant Light|Phanpy|37}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 038/075 || {{TCG ID|Triumphant Light|Donphan|38}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 039/075 || {{TCG ID|Triumphant Light|Larvitar|39}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 040/075 || {{TCG ID|Triumphant Light|Pupitar|40}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 041/075 || {{TCG ID|Triumphant Light|Tyranitar|41}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 042/075 || {{TCG ID|Triumphant Light|Nosepass|42}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 043/075 || {{TCG ID|Triumphant Light|Meditite|43}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 044/075 || {{TCG ID|Triumphant Light|Medicham|44}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 045/075 || {{TCG ID|Triumphant Light|Gible|45}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 046/075 || {{TCG ID|Triumphant Light|Gabite|46}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 047/075 || {{TCG ID|Triumphant Light|Garchomp ex|47|Garchomp}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 048/075 || {{TCG ID|Triumphant Light|Zubat|48}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 049/075 || {{TCG ID|Triumphant Light|Golbat|49}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 050/075 || {{TCG ID|Triumphant Light|Crobat|50}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 051/075 || {{TCG ID|Triumphant Light|Croagunk|51}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 052/075 || {{TCG ID|Triumphant Light|Toxicroak|52}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 053/075 || {{TCG ID|Triumphant Light|Magnemite|53}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 054/075 || {{TCG ID|Triumphant Light|Magneton|54}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 055/075 || {{TCG ID|Triumphant Light|Magnezone|55}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 056/075 || {{TCG ID|Triumphant Light|Mawile|56}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 057/075 || {{TCG ID|Triumphant Light|Probopass ex|57|Probopass}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 058/075 || {{TCG ID|Triumphant Light|Bronzor|58}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 059/075 || {{TCG ID|Triumphant Light|Bronzong|59}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 060/075 || {{TCG ID|Triumphant Light|Origin Forme Dialga|60}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 061/075 || {{TCG ID|Triumphant Light|Giratina|61}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 062/075 || {{TCG ID|Triumphant Light|Eevee|62}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 063/075 || {{TCG ID|Triumphant Light|Snorlax|63}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 064/075 || {{TCG ID|Triumphant Light|Hoothoot|64}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 065/075 || {{TCG ID|Triumphant Light|Noctowl|65}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 066/075 || {{TCG ID|Triumphant Light|Starly|66}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 067/075 || {{TCG ID|Triumphant Light|Staravia|67}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 068/075 || {{TCG ID|Triumphant Light|Staraptor|68}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 069/075 || {{TCG ID|Triumphant Light|Shaymin|69}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 070/075 || {{TCG ID|Triumphant Light|Arceus|70}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 071/075 || {{TCG ID|Triumphant Light|Arceus ex|71|Arceus}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 072/075 || {{TCG ID|Triumphant Light|Irida|72}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 073/075 || {{TCG ID|Triumphant Light|Celestic Town Elder|73}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 074/075 || {{TCG ID|Triumphant Light|Barry|74}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 075/075 || {{TCG ID|Triumphant Light|Adaman|75}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 076/075 || {{TCG ID|Triumphant Light|Houndoom|76}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|1}}
+|-
+| 077/075 || {{TCG ID|Triumphant Light|Marill|77}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}}
+|-
+| 078/075 || {{TCG ID|Triumphant Light|Unown|78}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}}
+|-
+| 079/075 || {{TCG ID|Triumphant Light|Sudowoodo|79}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|1}}
+|-
+| 080/075 || {{TCG ID|Triumphant Light|Magnemite|80}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|1}}
+|-
+| 081/075 || {{TCG ID|Triumphant Light|Shaymin|81}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}}
+|-
+| 082/075 || {{TCG ID|Triumphant Light|Leafeon ex|82|Leafeon}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}}
+|-
+| 083/075 || {{TCG ID|Triumphant Light|Glaceon ex|83|Glaceon}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}}
+|-
+| 084/075 || {{TCG ID|Triumphant Light|Garchomp ex|84|Garchomp}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}}
+|-
+| 085/075 || {{TCG ID|Triumphant Light|Probopass ex|85|Probopass}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}}
+|-
+| 086/075 || {{TCG ID|Triumphant Light|Arceus ex|86|Arceus}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|2}}
+|-
+| 087/075 || {{TCG ID|Triumphant Light|Irida|87}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 088/075 || {{TCG ID|Triumphant Light|Celestic Town Elder|88}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 089/075 || {{TCG ID|Triumphant Light|Barry|89}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 090/075 || {{TCG ID|Triumphant Light|Adaman|90}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 091/075 || {{TCG ID|Triumphant Light|Leafeon ex|91|Leafeon}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}}
+|-
+| 092/075 || {{TCG ID|Triumphant Light|Glaceon ex|92|Glaceon}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}}
+|-
+| 093/075 || {{TCG ID|Triumphant Light|Garchomp ex|93|Garchomp}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}}
+|-
+| 094/075 || {{TCG ID|Triumphant Light|Probopass ex|94|Probopass}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}}
+|-
+| 095/075 || {{TCG ID|Triumphant Light|Arceus ex|95|Arceus}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|3}}
+|-
+| 096/075 || {{TCG ID|Triumphant Light|Arceus ex|96|Arceus}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Crown|1}}
+|}
+
+== Missions ==
+=== Dex Missions ===
+Triumphant Light has 10 regular {{DL|Mission (TCG Pocket)|Dex Missions}} and one hidden Dex Mission:
+
+{{TCGPocketMission/Header|reward=yes|bordercol=D13|tablecol=FC2}}
+{{TCGPocketMission/Entry|mission=Register 5 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 10 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 15 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 20 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 25 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 30 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 35 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 40 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 50 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 60 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light)|num=5}}}}
+|-
+! colspan="2" | Secret Mission
+{{TCGPocketMission/Entry|mission=Register 75 cards in the Card Dex<br>''(requires all 75 main set cards;<br>secret cards do not count)''|reward={{TCGPocketItem|Arceus|Triumphant Light: Arceus (profile icon)|type=Profile Icon}}|lastitem=yes}}
+|}
+
+=== Deck Missions ===
+Triumphant Light has nine [[deck]]s and 18 {{DL|Mission (TCG Pocket)|Deck Missions}}. Each deck has two missions:
+
+{{TCGPocketMission/Header|reward=yes|bordercol=D13|tablecol=FC2}}
+{{TCGPocketMission/Entry|mission=Collect the highlight card(s) for [deck name]|reward={{TCGPocketItem|Rental Deck|[deck name] rental deck}}}}
+{{TCGPocketMission/Entry|mission=Collect cards for [deck name]|reward={{TCGPocketItem|Theme Deck List|[deck name] theme deck list}}|lastitem=yes}}
+|}
+
+The nine available decks related to Triumphant Light are: 
+
+{{TCGPocketExpansionDeck/Header|bordercol=D13|tablecol=FC2}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Leafeon ex Deck|Triumphant Light}}|{{e|Grass}}|{{TCG ID|Triumphant Light|Leafeon ex|10}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Arceus ex & Heatran Deck|Triumphant Light}}|{{e|Colorless}}{{e|Fire}}|{{TCG ID|Triumphant Light|Arceus ex|71}}, {{TCG ID|Triumphant Light|Heatran|13}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Glaceon ex Deck|Triumphant Light}}|{{e|Water}}|{{TCG ID|Triumphant Light|Glaceon ex|22}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Arceus ex & Raichu Deck|Triumphant Light}}|{{e|Colorless}}{{e|Lightning}}|{{TCG ID|Triumphant Light|Arceus ex|71}}, {{TCG ID|Triumphant Light|Raichu|26}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Garchomp ex Deck|Triumphant Light}}|{{e|Fighting}}|{{TCG ID|Triumphant Light|Garchomp ex|47}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Arceus ex & Crobat Deck|Triumphant Light}}|{{e|Colorless}}{{e|Darkness}}|{{TCG ID|Triumphant Light|Arceus ex|71}}, {{TCG ID|Triumphant Light|Crobat|50}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Probopass ex Deck|Triumphant Light}}|{{e|Metal}}|{{TCG ID|Triumphant Light|Probopass ex|57}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Barry Deck|Triumphant Light}}|{{e|Grass}}{{e|Water}}{{e|Colorless}}|{{TCG ID|Triumphant Light|Barry|74}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Myths of Sinnoh Deck|Triumphant Light}}|{{e|Water}}{{e|Metal}}{{e|Colorless}}|{{TCG ID|Space-Time Smackdown|Palkia ex|49}}, {{TCG ID|Space-Time Smackdown|Dialga ex|119}}, {{TCG ID|Triumphant Light|Arceus ex|71}}|lastitem=yes}}
+|}
+
+=== Themed Collections ===
+Triumphant Light has 13 regular {{DL|Mission (TCG Pocket)|Themed Collections}} and 4 hidden Themed Collections:
+
+{{TCGPocketCollection/Header|bordercol=D13|tablecol=FC2}}
+{{TCGPocketCollection/Entry|collection=Use pack stamina to open 4 Triumphant Light booster packs
+|cards=—
+|reward={{TCG ID|Triumphant Light|Arceus|70}} (#070) ×1
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon with Abilities that "Link" with Arceus
+|cards={{TCG ID|Triumphant Light|Carnivine|9}} (#009)<br>{{TCG ID|Triumphant Light|Heatran|13}} (#013)<br>{{TCG ID|Triumphant Light|Abomasnow|21}} (#021)<br>{{TCG ID|Triumphant Light|Raichu|26}} (#026)<br>{{TCG ID|Triumphant Light|Rotom|35}} (#035)<br>{{TCG ID|Triumphant Light|Tyranitar|41}} (#041)<br>{{TCG ID|Triumphant Light|Crobat|50}} (#050)<br>{{TCG ID|Triumphant Light|Magnezone|55}} (#055)<br>{{TCG ID|Triumphant Light|Arceus|70}} (#070) or {{TCG ID|Triumphant Light|Arceus ex|71}} (#071, #086, #095, #096)
+|reward={{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light) ×25}}
+}}
+{{TCGPocketCollection/Entry|collection=Magnezone of Fuego Ironworks
+|cards={{TCG ID|Triumphant Light|Magnezone|55}} (#055)<br>and 4 in any combination of:<br>{{TCG ID|Triumphant Light|Magnemite|53}} (#053 or #080)<br>{{TCG ID|Triumphant Light|Magneton|54}} (#054)
+|reward={{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light) ×3}}
+}}
+{{TCGPocketCollection/Entry|collection=Rotom of the Old Chateau
+|cards={{TCG ID|Triumphant Light|Rotom|35}} (#035)<br>{{TCG ID|Triumphant Light|Gastly|31}} (#031) ×4
+|reward={{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light) ×3}}
+}}
+{{TCGPocketCollection/Entry|collection=Carnivine of the Pastoria Great Marsh
+|cards={{TCG ID|Triumphant Light|Carnivine|9}} (#009)<br>{{TCG ID|Triumphant Light|Marill|14}} (#014 or #077)<br>{{TCG ID|Triumphant Light|Whiscash|17}} (#017)<br>{{TCG ID|Triumphant Light|Toxicroak|52}} (#052)
+|reward={{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light) ×3}}
+}}
+{{TCGPocketCollection/Entry|collection=Abomasnow of Mt. Coronet
+|cards={{TCG ID|Triumphant Light|Abomasnow|21}} (#021)<br>{{TCG ID|Triumphant Light|Clefairy|29}} (#029)<br>{{TCG ID|Triumphant Light|Medicham|44}} (#044)<br>{{TCG ID|Triumphant Light|Noctowl|65}} (#065)
+|reward={{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light) ×3}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon Tempted by Sweet Honey
+|cards={{TCG ID|Triumphant Light|Heracross|1}} (#001)<br>{{TCG ID|Triumphant Light|Burmy|2}} (#002)<br>{{TCG ID|Triumphant Light|Cherubi|6}} (#006)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon with 60 HP
+|cards=4 in any combination of:<br>{{TCG ID|Triumphant Light|Houndour|11}} (#011)<br>{{TCG ID|Triumphant Light|Marill|14}} (#014 or #077)<br>{{TCG ID|Triumphant Light|Barboach|16}} (#016)<br>{{TCG ID|Triumphant Light|Snorunt|18}} (#018)<br>{{TCG ID|Triumphant Light|Phione|24}} (#024)<br>{{TCG ID|Triumphant Light|Pikachu|25}} (#025)<br>{{TCG ID|Triumphant Light|Electrike|27}} (#027)<br>{{TCG ID|Triumphant Light|Clefairy|29}} (#029)<br>{{TCG ID|Triumphant Light|Unown|34}} (#034 or #078)<br>{{TCG ID|Triumphant Light|Phanpy|37}} (#037)<br>{{TCG ID|Triumphant Light|Larvitar|39}} (#039)<br>{{TCG ID|Triumphant Light|Meditite|43}} (#043)<br>{{TCG ID|Triumphant Light|Gible|45}} (#045)<br>{{TCG ID|Triumphant Light|Croagunk|51}} (#051)<br>{{TCG ID|Triumphant Light|Magnemite|53}} (#053 or #080)<br>{{TCG ID|Triumphant Light|Bronzor|58}} (#058)<br>{{TCG ID|Triumphant Light|Eevee|62}} (#062)<br>{{TCG ID|Triumphant Light|Hoothoot|64}} (#064)<br>{{TCG ID|Triumphant Light|Starly|66}} (#066)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Barry, the Rival
+|cards={{TCG ID|Triumphant Light|Heracross|1}} (#001)<br>{{TCG ID|Triumphant Light|Snorlax|63}} (#063)<br>{{TCG ID|Triumphant Light|Staraptor|68}} (#068)<br>{{TCG ID|Triumphant Light|Barry|74}} (#074)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Water-type Pokémon
+|cards=5 in any combination of:<br>{{TCG ID|Triumphant Light|Marill|14}} (#014 or #077)<br>{{TCG ID|Triumphant Light|Azumarill|15}} (#015)<br>{{TCG ID|Triumphant Light|Barboach|16}} (#016)<br>{{TCG ID|Triumphant Light|Whiscash|17}} (#017)<br>{{TCG ID|Triumphant Light|Snorunt|18}} (#018)<br>{{TCG ID|Triumphant Light|Froslass|19}} (#019)<br>{{TCG ID|Triumphant Light|Snover|20}} (#020)<br>{{TCG ID|Triumphant Light|Glaceon ex|22}} (#022)<br>{{TCG ID|Triumphant Light|Origin Forme Palkia|23}} (#023)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=The Two Forms of Cherrim
+|cards={{TCG ID|Triumphant Light|Cherubi|6}} (#006)<br>{{TCG ID|Triumphant Light|Cherrim|7}} (#007)<br>{{TCG ID|Triumphant Light|Cherrim|8}} (#008)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Hard-Bodied Pokémon
+|cards=4 in any combination of:<br>{{TCG ID|Triumphant Light|Donphan|38}} (#038)<br>{{TCG ID|Triumphant Light|Nosepass|42}} (#042)<br>{{TCG ID|Triumphant Light|Magnemite|53}} (#065 or #080)<br>{{TCG ID|Triumphant Light|Magnezone|55}} (#055)<br>{{TCG ID|Triumphant Light|Probopass ex|57}} (#057, #085, #094)
+|reward={{TCGPocketItem|Emblem Ticket A2a|Emblem Ticket (Triumphant Light) ×8}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Marill cards
+|cards={{TCG ID|Triumphant Light|Marill|14}} (#014 or #077) ×3
+|reward={{TCGPocketItem|Marill|Marill (profile icon)|type=Profile Icon}}
+}}
+|-
+! colspan="3" | Secret Missions
+{{TCGPocketCollection/Entry|collection=Triumphant Light Museum 1
+|cards={{TCG ID|Triumphant Light|Houndoom|76}} (#076)<br>{{TCG ID|Triumphant Light|Marill|77}} (#077)<br>{{TCG ID|Triumphant Light|Unown|78}} (#078)<br>{{TCG ID|Triumphant Light|Sudowoodo|79}} (#079)<br>{{TCG ID|Triumphant Light|Magnemite|80}} (#080)<br>{{TCG ID|Triumphant Light|Shaymin|81}} (#081)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Triumphant Light Museum 2
+|cards={{TCG ID|Triumphant Light|Leafeon ex|91}} (#091)<br>{{TCG ID|Triumphant Light|Glaceon ex|92}} (#092)<br>{{TCG ID|Triumphant Light|Garchomp ex|93}} (#093)<br>{{TCG ID|Triumphant Light|Probopass ex|94}} (#094)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Triumphant Light Museum 3
+|cards={{TCG ID|Triumphant Light|Arceus|70}} (#070)<br>{{TCG ID|Triumphant Light|Arceus ex|71}} (#071)<br>{{TCG ID|Triumphant Light|Arceus ex|86}} (#086)<br>{{TCG ID|Triumphant Light|Arceus ex|95}} (#095)<br>{{TCG ID|Triumphant Light|Arceus ex|96}} (#096)<br>
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon from Ancient Records
+|cards={{TCG ID|Triumphant Light|Heatran|13}} (#013)<br>{{TCG ID|Triumphant Light|Origin Forme Palkia|23}} (#023)<br>{{TCG ID|Triumphant Light|Origin Forme Dialga|60}} (#060)<br>{{TCG ID|Triumphant Light|Giratina|61}} (#061)<br>{{TCG ID|Triumphant Light|Arceus ex|71}} (#071)<br>{{TCG ID|Triumphant Light|Shaymin|81}} (#081)<br>{{TCG ID|Triumphant Light|Celestic Town Elder|88}} (#088)
+|reward={{TCGPocketItem|Shaymin|Shaymin (emblem)|type=Emblem}}
+|lastitem=yes
+}}
+|}
+
+== Offering rates ==
+The following table outlines the offering rates for the Triumphant Light booster pack.
+
+Regular packs have a 99.95% chance of appearing. Rare packs have a 0.05% chance of appearing.
+
+{{TCGPocketRates/Header|tablecol=FC2|bordercol=D13|cellcol=FE8}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 3.225% || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 3.461% || 2.307% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.384% || 1.538% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.333% || 1.332% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.428% || 1.714% || 4.761%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.038% || 0.153% || 4.761%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.888% || 4.761%
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.040% || 0.160% || style="border-bottom-right-radius:5px" | 4.761%
+|}
+
+== Solo battles ==
+{{main|List of Triumphant Light solo battles in Pokémon TCG Pocket}}
+
+== Gallery ==
+The pack artwork for the Triumphant Light expansion was illustrated by [[PLANETA]].<ref>[https://pla-neta.co.jp/works/illust/3537/ Pokémon Trading Card Game Pocket拡張パック「超克の光」 - PLANETA｜プラネッタ]</ref><ref>[https://x.com/PLANETACoLtd/status/1902980883759632572 X post on @PLANETACoLtd], March 21, 2025</ref>
+
+=== Key artwork ===
+
+{{TCGMerchGallery
+|background=FC2
+|border=D13
+|image1=A2a Key Art.png
+|size1=400px
+|caption1=Key artwork
+}}
+
+=== Pack artwork ===
+{{TCGMerchGallery
+|background=FC2
+|border=D13
+|image1=A2a Booster EN.png
+|caption1=Booster pack (front)
+|image5=A2a Booster EN back.png
+|caption5=Booster pack (back)
+}}
+
+=== Pack logo ===
+{{TCGMerchGallery
+|background=FC2
+|border=D13
+|image1=A2a Pack Logo EN.png
+|caption1=English logo
+|image5=A2a Logo JA.png
+|caption5=Japanese logo
+}}
+
+== In other languages ==
+{{Langtable|color=FC2|bordercolor=D13
+|ja=超克の光 ''Chōkoku no Hikari''
+|zh_yue=超克之光 ''Chīuhāk jī Gwōng''
+|zh_cmn=超克之光 ''Chāokè zhī Guāng''
+|fr=Lumière Triomphale
+|de=Licht des Triumphs
+|it=Luce Trionfale
+|ko=초극의 빛 ''Chogeug-ui Bit''
+|pt_br=Luz Triunfante
+|es=Luz Triunfal
+}}
+
+==References==
+{{reflist}}
+
+== Related articles ==
+{{TCGPocketNavigation}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[es:Luz Triunfal (TCG Pocket)]]
+[[de:Licht des Triumphs (TCG Pocket)]]
+[[fr:Lumière Triomphale]]
+[[it:Luce Trionfale (GCC Pocket)]]
+[[ja:超克の光]]
+[[zh:超克之光（TCGP）]]

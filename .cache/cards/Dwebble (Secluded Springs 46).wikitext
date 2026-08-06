@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dwebble
+|ja name=イシズマイ
+|trans name=Ishizumai
+|species=Dwebble
+|type=Fighting
+|image=DwebbleSecludedSprings46.png
+|illustrator=Shigenori Negishi
+|hp=70
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=046/071|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Dwebble''' (Japanese: '''イシズマイ''' ''Ishizumai'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}
+|name=Sand Spray
+|jname=すなしぶき
+|jtrans=Sand Spray
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Dwebble
+|category=Rock Inn
+|ndex=0557
+|height=1'
+|jheight=0.3
+|weight=32
+|jweight=14.5
+|dex=It makes a hole in a suitable rock. If that rock breaks, the Pokémon remains agitated until it locates a replacement.
+|jdex=手ごろな 石に 穴を 開けて 住処にする。壊されると かわりの 石が 見つかるまで 落ち着かない。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Evolving Skies|Dwebble|11}} from the {{TCG|Evolving Skies}} expansion.
+*'''Sand Spray''' is an attack that first appeared on {{TCG ID|Fates Collide|Wormadam|44}} from the {{TCG|Fates Collide}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Omega Ruby}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lithomith (Verborgene Quelle 046)]]
+[[es:Dwebble (Manantial Oculto TCG Pocket)]]
+[[fr:Crabicoque (Source Secrète 046)]]
+[[it:Dwebble (Sorgenti Recondite 46)]]
+[[ja:イシズマイ (ポケポケ A4a)]]
+[[zh:石居蟹（A4a）]]

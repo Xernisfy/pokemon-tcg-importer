@@ -1,0 +1,70 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Penny
+|ja name=ボタン
+|trans name=Botan
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PennyEeveeGrove69.png|illustrator=Susumu Maeya|tab caption=Uncommon (A3b)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PennyPaldeanWonders92.png|illustrator=yuu|tab caption=Uncommon (B2a)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PennyEeveeGrove86.png|illustrator=Susumu Maeya|tab caption=Super Rare (A3b)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PennyPaldeanWonders109.png|illustrator=yuu|tab caption=Super Rare (B2a)}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=069/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=086/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=092/093|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=109/093|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Penny''' (Japanese: '''ボタン''' ''Botan'') is a {{TCGP|Supporter card}} in [[Pokémon Trading Card Game Pocket]]. It was first released part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Look at a random {{TCGP|Supporter card}} that's not Penny from your opponent's deck and shuffle it back into their deck. Use the effect of that card as the effect of this card.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=PennyEeveeGrove69.png
+|caption1=Uncommon card<br>({{TCGP|Eevee Grove}})<br>Illus. [[Susumu Maeya]]
+|image2=PennyEeveeGrove86.png
+|caption2=Super rare card<br>({{TCGP|Eevee Grove}})<br>Illus. [[Susumu Maeya]]
+|image4=PennyPaldeanWonders92.png
+|caption4=Uncommon card<br>({{TCGP|Paldean Wonders}})<br>Illus. [[yuu]]
+|image5=PennyPaldeanWonders109.png
+|caption5=Super rare card<br>({{TCGP|Paldean Wonders}})<br>Illus. [[yuu]]
+}}
+
+==Trivia==
+*{{TCG|Penny}} also exists in the [[Pokémon Trading Card Game]], but with a different effect.
+
+===Origin===
+*[[Penny]] is a student at [[Naranja Academy]]{{sup/9|S}}/[[Uva Academy]]{{sup/9|V}}.
+*Both of this card's {{TCGP|Paldean Wonders}} illustrations were first featured on {{TCG ID|Scarlet & Violet|Penny|183}} from the {{TCG|Scarlet & Violet}} expansion.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=ボタン ''Botan''
+|zh_yue=牡丹 ''Máauhdāan''
+|zh_cmn=牡丹 ''Mǔdān''
+|fr=Pania
+|de=Cosima
+|it=Penny
+|ko=모란 ''Moran''
+|pt_br=Penélope
+|es=Noa
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Cosima (TCG Pocket)]]
+[[es:Noa (TCG Pocket)]]
+[[fr:Pania (La Clairière d'Évoli 069)]]
+[[it:Penny (Il Bosco di Eevee 69)]]
+[[ja:ボタン (ポケポケ)]]
+[[zh:牡丹（TCGP）]]

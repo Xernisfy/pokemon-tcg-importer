@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Malamar
+|ja name=カラマネロ
+|trans name=Calamanero
+|species=Malamar
+|type=Darkness
+|image=MalamarSecludedSprings52.png
+|illustrator=Masakazu Fukuda
+|hp=90
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Inkay
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=052/071|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Malamar''' (Japanese: '''カラマネロ''' ''Calamanero'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Mental Surge
+|jname=ブレインサージ
+|jtrans=Brain Surge
+|damage=
+|effect=This attack does 20 damage to each of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Malamar
+|category=Overturning
+|ndex=0687
+|height=4'11"
+|jheight=1.5
+|weight=103.6
+|jweight=47.0
+|dex=Gazing at its luminescent spots will quickly induce a hypnotic state, putting the observer under Malamar's control.
+|jdex=発光体の 光を 見つめると たちまち 催眠状態になり カラマネロに 操られてしまう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ancient Origins|Malamar|46}} from the {{TCG|Ancient Origins}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Calamanero (Verborgene Quelle 052)]]
+[[es:Malamar (Manantial Oculto TCG Pocket)]]
+[[fr:Sepiatroce (Source Secrète 052)]]
+[[it:Malamar (Sorgenti Recondite 52)]]
+[[ja:カラマネロ (ポケポケ A4a)]]
+[[zh:乌贼王（A4a）]]

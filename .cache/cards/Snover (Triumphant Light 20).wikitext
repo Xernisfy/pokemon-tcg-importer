@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Snover
+|ja name=ユキカブリ
+|trans name=Yukikaburi
+|species=Snover
+|type=Water
+|image=SnoverTriumphantLight20.png
+|illustrator=otumami
+|hp=70
+|weakness=Metal
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=020/075|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Snover''' (Japanese: '''ユキカブリ''' ''Yukikaburi'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Corkscrew Punch
+|jname=どつく
+|jtrans=Raging Strike
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Snover
+|species=Frost Tree
+|ndex=0459
+|height=3'3"
+|jheight=1.0
+|weight=111.3
+|jweight=50.5
+|dex=During cold seasons, it migrates to the mountain's lower reaches. It returns to the snow-covered summit in the spring.
+|jdex=寒い 季節は 山の ふもとまで 降りてくるが 春に なると 雪が 残る 山頂に 戻っていく。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Snover|41}} from the {{TCG|Unified Minds}} expansion.
+*'''Corkscrew Punch''' is an attack that first appeared on {{TCG ID|Vending|Machop|S2}} from {{TCG|Expansion Sheet 2}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Shnebedeck (Licht des Triumphs 020)]]
+[[es:Snover (Luz Triunfal TCG Pocket)]]
+[[fr:Blizzi (Lumière Triomphale 020)]]
+[[it:Snover (Luce Trionfale 20)]]
+[[ja:ユキカブリ (ポケポケ A2a)]]
+[[zh:雪笠怪（A2a）]]

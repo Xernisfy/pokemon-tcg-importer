@@ -1,0 +1,79 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Giratina {{TCGP Icon|ex}}
+|ja name=ギラティナ{{TCGP Icon|ex}}
+|trans name=Giratina {{TCGP Icon|ex}}
+|species=Giratina
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GiratinaexShiningRevelry35.png|illustrator=PLANETA Yamashita|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GiratinaexShiningRevelry83.png|illustrator=PLANETA Yamashita|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GiratinaexShiningRevelry96.png|illustrator=Shinji Kanda|tab caption=Immersive}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GiratinaexDeluxePackex377.png|illustrator=PLANETA Yamashita|tab caption=Shiny Super Rare}}
+|hp=150
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=035/072|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=083/072|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=096/072|pack=Any|rarity=Star|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=172/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=377/353|pack=Any|rarity=Shiny|rarity count=2}}
+}}
+
+'''Giratina ex''' (Japanese: '''ギラティナex''' ''Giratina ex'') is a {{ct|Psychic}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Broken-Space Bellow
+|jname=はくうのさけび
+|jtrans=Destroyed Sky Shout
+|effect=Once during your turn, you may take a {{e|Psychic}} Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}{{e|Psychic}}{{e|Colorless}}
+|name=Chaotic Impact
+|jname=カオスインパクト
+|jtrans=Chaos Impact
+|damage=130
+|effect=This Pokémon also does 20 damage to itself.
+}}
+{{Cardtext/Pocket ex
+|type=Psychic
+|ndex=0487
+|name=Giratina
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=GiratinaexShiningRevelry35.png
+|caption1=Double rare card<br>Illus. [[PLANETA Yamashita]]
+|image2=GiratinaexShiningRevelry83.png
+|caption2=Super rare card<br>Illus. [[PLANETA Yamashita]]
+|image4=GiratinaexShiningRevelry96.png
+|caption4={{TCGP|Immersive card}}<br>Illus. [[Shinji Kanda]]
+|image5=GiratinaexDeluxePackex377.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA Yamashita]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Giratina}} in its {{form|Giratina|Altered Forme}}.
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Giratina}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Giratina-ex (Glänzendes Festival 035)]]
+[[es:Giratina ex (Festival Brillante TCG Pocket)]]
+[[fr:Giratina-ex (Réjouissances Rayonnantes 035)]]
+[[it:Giratina-ex (Tripudio Splendente 35)]]
+[[ja:ギラティナex (ポケポケ A2b)]]
+[[zh:騎拉帝納ex（A2b）]]

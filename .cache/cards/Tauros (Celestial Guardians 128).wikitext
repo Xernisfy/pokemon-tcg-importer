@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tauros
+|ja name=ケンタロス
+|trans name=Kentauros
+|species=Tauros
+|type=Colorless
+|image=TaurosCelestialGuardians128.png
+|illustrator=Kazumasa Yasukuni
+|hp=100
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=128/155}}
+}}
+
+'''Tauros''' (Japanese: '''ケンタロス''' ''Kentauros'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Rising Lunge
+|jname=つきあげる
+|jtrans=Toss
+|damage=50+
+|effect=Flip a coin. If heads, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Tauros
+|species=Wild Bull
+|ndex=0128
+|height=4'7"
+|jheight=1.4
+|weight=194.9
+|jweight=88.4
+|dex=When Tauros begins whipping itself with its tails, it's a warning that the Pokémon is about to charge with astounding speed.
+|jdex=しっぽで 自分の 体を 叩きだしたら 危険だぞ。 猛スピードで 突っ込んでくる。
+}}
+
+==Trivia==
+===Origin===
+*'''Rising Lunge''' is an attack that first appeared on {{TCG ID|Neo Revelation|Seaking|37}} from the {{TCG|Neo Revelation}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tauros (Hüter des Firmaments 128)]]
+[[es:Tauros (Guardianes Celestiales TCG Pocket)]]
+[[fr:Tauros (Gardiens Astraux 128)]]
+[[it:Tauros (Guardiani Astrali 128)]]
+[[ja:ケンタロス (ポケポケ A3)]]
+[[zh:肯泰罗（A3）]]

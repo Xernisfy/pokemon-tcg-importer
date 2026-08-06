@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Aromatisse
+|ja name=フレフワン
+|trans name=Frefuwan
+|species=Aromatisse
+|type=Psychic
+|image=AromatisseCrimsonBlaze36.png
+|illustrator=Mizue
+|hp=100
+|weakness=Metal
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Spritzee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=036/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Aromatisse''' (Japanese: '''フレフワン''' ''Frefuwan'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Perfume Blast
+|jname=パフュームボム
+|jtrans=Perfume Bomb
+|damage=60
+|effect=During your opponent's next turn, attacks used by the Defending Pokémon cost 1 {{e|Colorless}} more.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Aromatisse
+|species=Fragrance
+|ndex=0683
+|height=2'7"
+|jheight=0.8
+|weight=34.2
+|jweight=15.5
+|dex=The scents Aromatisse can produce range from sweet smells that bolster allies to foul smells that sap an opponent's will to fight.
+|jdex=敵の 戦う 気持ちを なくす 悪臭や 味方を 助ける 香しい 香りを つくりだす。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BREAKthrough|Aromatisse|106}} from the {{TCG|BREAKthrough}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Parfinesse (Feuerrote Flammen 036)]]
+[[fr:Cocotine (Embrasement Écarlate 036)]]
+[[it:Aromatisse (Fiamme Cremisi 36)]]
+[[ja:フレフワン (ポケポケ B1a)]]
+[[zh:芳香精（B1a）]]

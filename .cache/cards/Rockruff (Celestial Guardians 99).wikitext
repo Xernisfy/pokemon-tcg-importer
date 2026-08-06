@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rockruff
+|ja name=イワンコ
+|trans name=Iwanko
+|species=Rockruff
+|type=Fighting
+|image=RockruffCelestialGuardians99.png
+|illustrator=Oswaldo KATO
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=099/155|pack=Solgaleo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Rockruff''' (Japanese: '''イワンコ''' ''Iwanko'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=20
+|effect= 
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Rockruff
+|species=Puppy
+|ndex=0744
+|height=1'8"
+|jheight=0.5
+|weight=20.3
+|jweight=9.2
+|dex=This Pokémon is very friendly when it's young. Its disposition becomes vicious once it matures, but it never forgets the kindness of its master.
+|jdex=小さいころは よく 懐く。 育つと 気性が 荒くなるが 主への 恩は 忘れない。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Rockruff}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wuffels (Hüter des Firmaments 099)]]
+[[es:Rockruff (Guardianes Celestiales 99 TCG Pocket)]]
+[[fr:Rocabot (Gardiens Astraux 099)]]
+[[it:Rockruff (Guardiani Astrali 99)]]
+[[ja:イワンコ (ポケポケ A3 099)]]
+[[zh:岩狗狗（A3 099）]]

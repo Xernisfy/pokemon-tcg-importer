@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Klawf
+|ja name=ガケガニ
+|trans name=Gakegani
+|species=Klawf
+|type=Fighting
+|image=KlawfPaldeanWonders61.png
+|illustrator=nagimiso
+|hp=100
+|weakness=Grass
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=061/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Klawf''' (Japanese: '''ガケガニ''' ''Gakegani'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Adrenaline Hammer
+|jname=アドレナハンマー
+|jtrans=Adrena-Hammer
+|damage=70
+|effect=This Pokémon is now {{TCG|Confused}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Klawf
+|category=Ambush
+|ndex=0950
+|height=4'3"
+|jheight=1.3
+|weight=174.2
+|jweight=79.0
+|dex=This Pokémon lives on sheer cliffs. It sidesteps opponents’ attacks, then lunges for their weak spots with its claws.
+|jdex=切り立った　崖の上で　暮らす｡ サイドステップで　攻撃を　かわし ハサミで　急所を　狙う｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Klawf|122}} from the {{TCG|Scarlet & Violet}} expansion, as was its '''Adrenaline Hammer''' attack.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Klibbe (Wundervolles Paldea 061)]]
+[[fr:Craparoi (Merveilles de Paldea 061)]]
+[[it:Klawf (Meraviglie di Paldea 61)]]
+[[ja:ガケガニ (ポケポケ B2a)]]
+[[zh:毛崖蟹（B2a）]]

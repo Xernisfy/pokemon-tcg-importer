@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Corphish
+|ja name=ヘイガニ
+|trans name=Heigani
+|species=Corphish
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CorphishWisdomofSeaandSky60.png|illustrator=chibi|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CorphishDeluxePackex103.png|illustrator=chibi|tab caption=Parallel}}
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=060/161|pack=Lugia|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=102/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=103/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Corphish''' (Japanese: '''ヘイガニ''' ''Heigani'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Vise Grip
+|jname=はさむ
+|jtrans=Clamp
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Corphish
+|species=Ruffian
+|ndex=0341
+|height=2'
+|jheight=0.6
+|weight=25.4
+|jweight=11.5
+|dex=No matter how dirty the water in the river, it will adapt and thrive. It has a strong will to survive.
+|jdex=どんなに 水が 汚れた 川でも 適応して 増えていく タフな 生命力の 持ち主。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=CorphishWisdomofSeaandSky60.png
+|caption1=Standard card<br>Illus. [[chibi]]
+|image2=CorphishDeluxePackex103.png
+|caption2=Parallel foil card<br>Illus. [[chibi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Battle Styles|Corphish|38}} from the {{TCG|Battle Styles}} expansion.
+*{{m|Vise Grip}} is a [[move]] in the [[Pokémon games]] that {{p|Corphish}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Krebscorps (Weisheit von Meer und Himmel 060)]]
+[[es:Corphish (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Écrapince (Sagesse entre Ciel et Mer 060)]]
+[[it:Corphish (La Via del Cielo e del Mare 60)]]
+[[ja:ヘイガニ (ポケポケ A4)]]
+[[zh:龙虾小兵（A4）]]

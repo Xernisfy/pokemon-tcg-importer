@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Trumbeak
+|ja name=ケララッパ
+|trans name=Kerarappa
+|species=Trumbeak
+|type=Colorless
+|image=TrumbeakCelestialGuardians134.png
+|illustrator=Kouki Saitou
+|hp=80
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Pikipek
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=134/155}}
+}}
+
+'''Trumbeak''' (Japanese: '''ケララッパ''' ''Kerarappa'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Glide
+|jname=かっくう
+|jtrans=Glide
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Trumbeak
+|species=Bugle Beak
+|ndex=0732
+|height=2'
+|jheight=0.6
+|weight=32.6
+|jweight=14.8
+|dex=It can bend the tip of its beak to produce over a hundred different cries at will.
+|jdex=クチバシの せんたんを そりかえらせ 100 いじょうの なきごえを じゆうに なきわけることが できる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Trumbeak|107}} from the {{TCG|Sun & Moon}} expansion.
+*'''Glide''' is an attack that first appeared on {{TCG ID|EX Delta Species|Swellow|32}} from the {{TCG|EX Delta Species}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Trompeck (Hüter des Firmaments 134)]]
+[[es:Trumbeak (Guardianes Celestiales TCG Pocket)]]
+[[fr:Piclairon (Gardiens Astraux 134)]]
+[[it:Trumbeak (Guardiani Astrali 134)]]
+[[ja:ケララッパ (ポケポケ A3)]]
+[[zh:喇叭啄鸟（A3）]]

@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Gengar {{TCGP Icon|Mega ex}}
+|ja name=メガゲンガー{{TCGP Icon|Mega ex}}
+|trans name=Mega Gangar {{TCGP Icon|Mega ex}}
+|species=Gengar
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaGengarexMegaShine39.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaGengarexMegaShine79.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaGengarexMegaShine114.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=210
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Haunter
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=039/069|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=079/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=114/069|pack=Any|rarity=Shiny|rarity count=2}}
+}}
+
+'''Mega Gengar ex''' (Japanese: '''メガゲンガーex''' ''Mega Gangar ex'') is a {{ct|Darkness}} Stage 2 {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Mega Species/Pocket|Gengar}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Darkness}}{{e|Colorless}}
+|name=Labyrinth of Shadows
+|jname=シャドーラビリンス
+|jtrans=Shadow Labyrinth
+|damage=120
+|effect=During your opponent's next turn, they can't play any {{TCGP|Trainer card}}s from their hand.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Darkness
+|ndex=0094
+|name=Gengar
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Gengar
+|category=Shadow
+|ndex=0094
+|height=4'7"
+|jheight=1.4
+|weight=89.3
+|jweight=40.5
+|dex=It can pass through other dimensions and appear anywhere. It caused a stir one time when it stuck just one leg out of a wall.
+|jdex=異次元を 通って どこにでも 現れる。 壁から 足だけ 飛び出したときは 騒ぎになった。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=MegaGengarexMegaShine39.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=MegaGengarexMegaShine79.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=MegaGengarexMegaShine114.png
+|caption3=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{me|Gengar}}.
+*This card's shiny super rare illustration features a {{Shiny}} Mega Gengar.
+*This card's [[Pokédex]] entry comes from {{g|Legends Z-A}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Gengar-ex (Mega-Schillern 039)]]
+[[fr:Méga-Ectoplasma-ex (Méga-Rayonnement 039)]]
+[[it:Mega Gengar-ex (Mega Splendore 39)]]
+[[ja:メガゲンガーex (ポケポケ B2b)]]
+[[zh:超级耿鬼ex（B2b）]]

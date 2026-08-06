@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Electrike
+|ja name=ラクライ
+|trans name=Rakurai
+|species=Electrike
+|type=Lightning
+|image=ElectrikePromo-B43.png
+|illustrator=Miki Tanaka
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=043/P-B|pack=Vol. 6}}
+}}
+
+'''Electrike''' (Japanese: '''ラクライ''' ''Rakurai'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-B}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Reckless Charge
+|jname=とつげき
+|jtrans=Assault
+|damage=30
+|effect=This Pokémon also does 10 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Electrike
+|category=Lightning
+|ndex=0309
+|height=2'0"
+|jheight=0.6
+|weight=33.5
+|jweight=15.2
+|dex=It stores electricity in its fur. It gives off sparks from all over its body in seasons when the air is dry.
+|jdex=静電気を 体毛に 溜める。 空気の 乾燥した 季節には 全身から 火花を 散らす。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-B Vol. 6 packs; these were made available as part of the [[Slowpoke Drop Event]], which ran from April 9 to 19, 2026.
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Platinum|Electrike|74}} from the {{TCG|Platinum}} expansion.
+*'''Reckless Charge''' is an attack that first appeared on {{TCG ID|Movie VS Pack|Ash's Phanpy|4}} from the {{TCG|Movie Commemoration VS Pack: Aura's Lucario}}.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Frizelbliz (PROMO-B 043)]]
+[[fr:Dynavolt (Promo-B 043)]]
+[[it:Electrike (Promo-B 43)]]
+[[ja:ラクライ (ポケポケ P-B)]]

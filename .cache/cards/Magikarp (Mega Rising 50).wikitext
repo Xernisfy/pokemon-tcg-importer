@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Magikarp
+|ja name=コイキング
+|trans name=Koiking
+|species=Magikarp
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MagikarpMegaRising50.png|illustrator=Yukiko Baba|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MagikarpMegaRising232.png|illustrator=Tetsu Kayama|tab caption=Illustration Rare}}
+|hp=30
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=050/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=232/226|pack=Mega Gyarados|rarity=Star|rarity count=1}}
+}}
+
+'''Magikarp''' (Japanese: '''コイキング''' ''Koiking'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Waterfall Evolution
+|jname=たきのぼりしんか
+|jtrans=Waterfall Ascent Evolution
+|damage=
+|effect=Put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Magikarp
+|species=Fish
+|ndex=0129
+|height=2'11"
+|jheight=0.9
+|weight=22
+|jweight=10.0
+|dex=In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.
+|jdex=大昔は まだ もう少し 強かったらしい。しかし 今は 悲しいくらいに 弱いのだ。 
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=MagikarpMegaRising50.png
+|caption1=Common card<br>Illus. [[Yukiko Baba]]
+|image2=MagikarpMegaRising232.png
+|caption2=Illustration rare card<br>Illus. [[Tetsu Kayama]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Burning Shadows|Magikarp|32}} from the {{TCG|Burning Shadows}} expansion.
+*'''Waterfall Evolution''' is an attack that first appeared as '''Rapid Evolution''' on {{TCG ID|Team Rocket|Magikarp|47}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Karpador (Mega-Aufstieg 050)]]
+[[es:Magikarp (Megaascenso TCG Pocket)]]
+[[fr:Magicarpe (Méga-Ascension 050)]]
+[[it:Magikarp (Mega Ascesa 50)]]
+[[ja:コイキング (ポケポケ B1)]]
+[[zh:鲤鱼王（B1）]]

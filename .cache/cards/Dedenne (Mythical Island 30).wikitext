@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dedenne
+|ja name=デデンネ
+|trans name=Dedenne
+|species=Dedenne
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DedenneMythicalIsland30.png|illustrator=Taiga Kayama|tab caption=Common}}	
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DedenneMythicalIsland73.png|illustrator=Yuu Nishida|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=030/068|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=073/068|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Dedenne''' (Japanese: '''デデンネ''' ''Dedenne'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Thunder Shock
+|jname=でんきショック
+|jtrans=Electric Shock
+|damage=10
+|effect=Flip a coin. If heads, your opponent's Active Pokémon is now {{TCG|Paralyzed}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Dedenne
+|species=Antenna
+|ndex=0702
+|height=8"
+|jheight=0.2
+|weight=4.9
+|jweight=2.2
+|dex=It's small and its electricity-generating organ is not fully developed, so it uses its tail to absorb electricity from people's homes and charge itself.
+|jdex=体が 小さく 発電器官が 未熟なので 人家の 電気を 尻尾で 吸い取り 充電する。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=DedenneMythicalIsland30.png
+|caption1=Common card<br>Illus. [[Taiga Kayama]]
+|image2=DedenneMythicalIsland73.png
+|caption2=Illustration rare card<br>Illus. [[Yuu Nishida]]
+}}
+
+==Trivia==
+[[File:TCGP Cover Tree of Repose.png|thumb|"Tree of Repose" binder cover]]
+This card's standard illustration is part of a {{TCG|combined illustration}} along with {{TCG ID|Mythical Island|Chewtle|22}}, {{TCG ID|Mythical Island|Primeape|42}}, and {{TCG ID|Mythical Island|Pidgeotto|58}} from the same expansion. Together, these cards form the {{TCGP|Mythical Island}} expansion's "Tree of Repose" [[Mythical Island (TCG Pocket)#Themed Collections|Themed Collection]], the completion reward for which is the "Tree of Repose" binder cover, showcasing the full illustration.
+
+===Origin===
+*{{m|Thunder Shock}} is a [[move]] in the [[Pokémon games]] that {{p|Dedenne}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dedenne (Mysteriöse Insel 030)]]
+[[es:Dedenne (La Isla Singular TCG Pocket)]]
+[[fr:Dedenne (L'Île Fabuleuse 030)]]
+[[it:Dedenne (L'Isola Misteriosa 30)]]
+[[ja:デデンネ (ポケポケ A1a)]]
+[[zh:咚咚鼠（A1a）]]

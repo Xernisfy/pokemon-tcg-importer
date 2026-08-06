@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rellor
+|ja name=シガロコ
+|trans name=Shigaroko
+|species=Rellor
+|type=Grass
+|image=RellorPaldeanWonders14.png
+|illustrator=Anesaki Dynamic
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=014/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Rellor''' (Japanese: '''シガロコ''' ''Shigaroko'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Ball Roll
+|jname=たまころがり
+|jtrans=Ball Rolling
+|damage=20×
+|effect=Flip a coin until you get tails. This attack does 20 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Rellor
+|category=Rolling
+|ndex=0953
+|height=8"
+|jheight=0.2
+|weight=2.2
+|jweight=1.0
+|dex=It rolls its mud ball around while the energy it needs for evolution matures. Eventually the time comes for it to evolve.
+|jdex=泥玉を 転がしながら 進化の エネルギーを 熟成させる。 やがて 進化のときを 迎える。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Paldea Evolved|Rellor|26}} from the {{TCG|Paldea Evolved}} expansion.
+**Both cards have the '''Ball Roll''' attack, which first appeared on {{TCG ID|Primal Clash|Spheal|45}} from the {{TCG|Primal Clash}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Relluk (Wundervolles Paldea 014)]]
+[[fr:Léboulérou (Merveilles de Paldea 014)]]
+[[it:Rellor (Meraviglie di Paldea 14)]]
+[[ja:シガロコ (ポケポケ B2a)]]
+[[zh:虫滚泥（B2a）]]

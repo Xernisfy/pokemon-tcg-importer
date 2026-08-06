@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Fantina
+|ja name=メリッサ
+|trans name=Melissa
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FantinaMegaRising224.png|illustrator=hncl|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FantinaMegaRising269.png|illustrator=hncl|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Altaria|rarity=Diamond|rarity count=2|number=224/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Altaria|rarity=Star|rarity count=2|number=269/226}}
+}}
+
+'''Fantina''' (Japanese: '''メリッサ''' ''Melissa'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Take a {{e|Psychic}} Energy from your Energy Zone and attach it to each of your {{TCGP|Drifblim}} and {{TCGP|Mismagius}}.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=FantinaMegaRising224.png
+|caption1=Uncommon card<br>Illus. [[hncl]]
+|image2=FantinaMegaRising269.png
+|caption2=Super rare card<br>Illus. [[hncl]]
+}}
+
+==Trivia==
+* {{TCG|Fantina}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Fantina]] is the [[Gym Leader]] of the [[Hearthome Gym]].
+*{{p|Drifblim}} and {{p|Mismagius}} are Pokémon that Fantina uses in Pokémon {{3v2|Diamond|Pearl|Platinum}}, {{2v2|Black|White|2}} and {{pkmn|Brilliant Diamond and Shining Pearl}}.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=メリッサ ''Melissa''
+|zh_yue=梅麗莎 ''Mùihlàihsā''
+|zh_cmn=梅麗莎 ''Méilìshā''
+|fr=Kiméra
+|de=Lamina
+|it=Fannie
+|ko=멜리사 ''Mellisa''
+|pt_br=Fantina
+|es=Fantina
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lamina (TCG Pocket)]]
+[[es:Fantina (TCG Pocket)]]
+[[fr:Kiméra (Méga-Ascension 224)]]
+[[it:Fannie (Mega Ascesa 224)]]
+[[ja:メリッサ (ポケポケ)]]
+[[zh:梅丽莎（TCGP）]]

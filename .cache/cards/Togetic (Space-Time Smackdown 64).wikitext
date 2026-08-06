@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Togetic
+|ja name=トゲチック
+|trans name=Togechick
+|species=Togetic
+|type=Psychic
+|image=TogeticSpace-TimeSmackdown64.png
+|illustrator=Kanako Eo
+|hp=80
+|weakness=Metal
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Togepi
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=064/155}}
+}}
+
+'''Togetic''' (Japanese: '''トゲチック''' ''Togechick'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Fairy Wind
+|jname=ようせいのかぜ
+|jtrans=Fairy Wind
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Togetic
+|species=Happiness
+|ndex=0176
+|height=2'
+|jheight=0.6
+|weight=7.1
+|jweight=3.2
+|dex=They say that it will appear before kindhearted, caring people and shower them with happiness.
+|jdex=心優しい 人の 前に 幸せを もたらすため 姿を 現すと 言われている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Roaring Skies|Togetic|44}} from the {{TCG|Roaring Skies}} expansion.
+**Both cards have the {{m|Fairy Wind}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Togetic}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Togetic (Kollision von Raum und Zeit 064)]]
+[[es:Togetic (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Togetic (Choc Spatio-Temporel 064)]]
+[[it:Togetic (Scontro Spaziotemporale 64)]]
+[[ja:トゲチック (ポケポケ A2)]]
+[[zh:波克基古（A2）]]

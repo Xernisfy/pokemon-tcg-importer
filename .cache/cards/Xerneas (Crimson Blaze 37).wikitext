@@ -1,0 +1,70 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Xerneas
+|ja name=ゼルネアス
+|trans name=Xerneas
+|species=Xerneas
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=XerneasCrimsonBlaze37.png|illustrator=sui|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=XerneasCrimsonBlaze73.png|illustrator=mashu|tab caption=Illustration Rare}}
+|hp=120
+|weakness=Metal
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=037/069|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=073/069|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Xerneas''' (Japanese: '''ゼルネアス''' ''Xerneas'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}{{e|Colorless}}
+|name=Geoburst
+|jname=ジオバースト
+|jtrans=Geo Burst
+|damage=120−
+|effect=This attack's damage is reduced by the amount of damage this Pokémon has on it.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Xerneas
+|species=Life
+|ndex=0716
+|height=9'10"
+|jheight=3.0
+|weight=474
+|jweight=215.0
+|dex=When the horns on its head shine in seven colors, it is said to be sharing everlasting life.
+|jdex=頭の ツノが 七色に 輝くとき 永遠の 命を 分け与えると 言われている。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=XerneasCrimsonBlaze37.png
+|caption1=Rare card<br>Illus. [[sui]]
+|image2=XerneasCrimsonBlaze73.png
+|caption2=Illustration rare card<br>Illus. [[mashu]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Crimson Invasion|Xerneas|73}} from the {{TCG|Crimson Invasion}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Xerneas (Feuerrote Flammen 037)]]
+[[fr:Xerneas (Embrasement Écarlate 037)]]
+[[it:Xerneas (Fiamme Cremisi 37)]]
+[[ja:ゼルネアス (ポケポケ B1a)]]
+[[zh:哲尔尼亚斯（B1a）]]

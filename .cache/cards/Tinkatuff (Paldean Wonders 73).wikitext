@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tinkatuff
+|ja name=ナカヌチャン
+|trans name=Nakanuchan
+|species=Tinkatuff
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TinkatuffPaldeanWonders73.png|illustrator=Akira Komayama|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TinkatuffPaldeanWonders124.png|illustrator=kurumitsu|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Tinkatink
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=073/093|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=124/093|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Tinkatuff''' (Japanese: '''ナカヌチャン''' ''Nakanuchan'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Colorless}}
+|name=Light Punch
+|jname=なぐる
+|jtrans=Strike
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Tinkatuff
+|category=Hammer
+|ndex=0958
+|height=2'4"
+|jheight=0.7
+|weight=130.3
+|jweight=59.1
+|dex=These Pokémon make their homes in piles of scrap metal. They test the strength of each other's hammers by smashing them together.
+|jdex=金属の ガラクタ山が 棲み処。 ハンマーの 強度を 試すため 仲間同士で 激しく 打ち合う。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=TinkatuffPaldeanWonders73.png
+|caption1=Common card<br>Illus. [[Akira Komayama]]
+|image2=TinkatuffPaldeanWonders124.png
+|caption2=Shiny rare card<br>Illus. [[kurumitsu]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Paldea Evolved|Tinkatuff|103}} from the {{TCG|Paldea Evolved}} expansion.
+**Both cards have the '''Light Punch''' attack, which first appeared on {{TCG ID|VS|Bruno's Ursaring|85}} from the {{TCG|Pokémon VS}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Tinkatuff}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tafforgita (Wundervolles Paldea 073)]]
+[[fr:Forgella (Merveilles de Paldea 073)]]
+[[it:Tinkatuff (Meraviglie di Paldea 73)]]
+[[ja:ナカヌチャン (ポケポケ B2a)]]
+[[zh:巧锻匠（B2a）]]

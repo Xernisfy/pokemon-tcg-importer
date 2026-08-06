@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Corphish
+|ja name=ヘイガニ
+|trans name=Heigani
+|species=Corphish
+|type=Water
+|image=CorphishMegaRising58.png
+|illustrator=Sekio
+|hp=70
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=058/226}}
+}}
+
+'''Corphish''' (Japanese: '''ヘイガニ''' ''Heigani'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Water Gun
+|jname=みずでっぽう
+|jtrans=Water Gun
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Corphish
+|species=Ruffian
+|ndex=0341
+|height=2'
+|jheight=0.6
+|weight=25.4
+|jweight=11.5
+|dex=It was originally a Pokémon from afar that escaped to the wild. It can adapt to the dirtiest river.
+|jdex=外国から やってきた ポケモンが 野生化した。 どんなに 汚い 川でも 適応してしまう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Brilliant Stars|Corphish|32}} from the {{TCG|Brilliant Stars}} expansion; both cards have the Water Gun attack.
+*{{m|Water Gun}} is a [[move]] in the [[Pokémon games]] that {{p|Corphish}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Krebscorps (Mega-Aufstieg 058)]]
+[[es:Corphish (Megaascenso TCG Pocket)]]
+[[fr:Écrapince (Méga-Ascension 058)]]
+[[it:Corphish (Mega Ascesa 58)]]
+[[ja:ヘイガニ (ポケポケ B1)]]
+[[zh:龙虾小兵（B1）]]

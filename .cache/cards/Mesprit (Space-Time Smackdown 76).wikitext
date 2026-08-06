@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mesprit
+|ja name=エムリット
+|trans name=Emrit
+|species=Mesprit
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MespritSpace-TimeSmackdown76.png|illustrator=AKIRA EGAWA|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MespritSpace-TimeSmackdown166.png|illustrator=Orca|tab caption=Illustration Rare}}
+|hp=70
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=076/155|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=166/155|pack=Dialga|rarity=Star|rarity count=1}}
+}}
+
+'''Mesprit''' (Japanese: '''エムリット''' ''Emrit'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}{{e|Psychic}}
+|name=Supreme Blast
+|jname=ゴッドブラスト
+|jtrans=God Blast
+|damage=160
+|effect=You can use this attack only if you have {{TCGP|Uxie}} and {{TCGP|Azelf}} on your Bench. Discard all Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Mesprit
+|species=Emotion
+|ndex=0481
+|height=1'
+|jheight=0.3
+|weight=0.7
+|jweight=0.3
+|dex=Known as "The Being of Emotion." It taught humans the nobility of sorrow, pain, and joy.
+|jdex=悲しみの 苦しさと 喜びの 尊さを 人々に 教えた。 感情の神と 呼ばれている。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=MespritSpace-TimeSmackdown76.png
+|caption1=Rare card<br>Illus. [[AKIRA EGAWA]]
+|image2=MespritSpace-TimeSmackdown166.png
+|caption2=Illustration rare card<br>Illus. [[Orca]]
+}}
+
+==Trivia==
+*The illustration rare print of this card features {{p|Uxie}}, {{p|Mesprit}}, and {{p|Azelf}} at [[Lake Verity]]. Verity Cavern can be seen in the background; Mesprit can be found here in {{game|Diamond and Pearl|s|Pokémon Diamond, Pearl}}, {{game|Platinum||Platinum}}, {{pkmn|Brilliant Diamond and Shining Pearl|Brilliant Diamond, Shining Pearl}}, and {{pkmn|Legends: Arceus}}.
+
+===Origin===
+*'''Supreme Blast''' is an attack that first appeared on {{TCG ID|Legends Awakened|Mesprit LV.X|143}} from the {{TCG|Legends Awakened}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Vesprit (Kollision von Raum und Zeit 076)]]
+[[es:Mesprit (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Créfollet (Choc Spatio-Temporel 076)]]
+[[it:Mesprit (Scontro Spaziotemporale 76)]]
+[[ja:エムリット (ポケポケ A2)]]
+[[zh:艾姆利多（A2）]]

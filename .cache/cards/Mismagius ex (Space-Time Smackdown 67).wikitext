@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mismagius {{TCGP Icon|ex}}
+|ja name=ムウマージ{{TCGP Icon|ex}}
+|trans name=Mumargi {{TCGP Icon|ex}}
+|species=Mismagius
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MismagiusexSpace-TimeSmackdown67.png|illustrator=PLANETA Igarashi|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MismagiusexSpace-TimeSmackdown184.png|illustrator=PLANETA Tsuji|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MismagiusexSpace-TimeSmackdown199.png|illustrator=Kuroimori|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MismagiusexWisdomofSeaandSky237.png|illustrator=PLANETA Tsuji|tab caption=Shiny Super Rare}}
+|hp=140
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Misdreavus
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=067/155|pack=Palkia|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=184/155|pack=Palkia|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=199/155|pack=Palkia|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=237/161|pack=Ho-Oh|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=163/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Mismagius ex''' (Japanese: '''ムウマージex''' ''Mumargi ex'') is a {{ct|Psychic}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Magical Delusion
+|jname=マジカルトリップ
+|jtrans=Magical Trip
+|damage=70
+|effect=Your opponent's Active Pokémon is now {{TCG|Confused}}.
+}}
+{{Cardtext/Pocket ex
+|type=Psychic
+|ndex=0429
+|name=Mismagius
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=MismagiusexSpace-TimeSmackdown67.png
+|caption1=Double rare card<br>Illus. [[PLANETA Igarashi]]
+|image2=MismagiusexSpace-TimeSmackdown184.png
+|caption2=Super rare card<br>Illus. [[PLANETA Tsuji]]
+|image4=MismagiusexSpace-TimeSmackdown199.png
+|caption4=Special illustration rare card<br>Illus. [[Kuroimori]]
+|image5=MismagiusexWisdomofSeaandSky237.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA Tsuji]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare print features a {{Shiny}} {{p|Mismagius}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Traunmagil-ex (Kollision von Raum und Zeit 067)]]
+[[es:Mismagius ex (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Magirêve-ex (Choc Spatio-Temporel 067)]]
+[[it:Mismagius-ex (Scontro Spaziotemporale 67)]]
+[[ja:ムウマージex (ポケポケ A2)]]
+[[zh:梦妖魔ex（A2）]]

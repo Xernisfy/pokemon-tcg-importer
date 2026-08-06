@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hippowdon
+|ja name=カバルドン
+|trans name=Kabaldon
+|species=Hippowdon
+|type=Fighting
+|image=HippowdonSpace-TimeSmackdown94.png
+|illustrator=KEIICHIRO ITO
+|hp=140
+|weakness=Grass
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Hippopotas
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=094/155|pack=Palkia|rarity=Diamond|rarity count=2}}
+}}
+
+'''Hippowdon''' (Japanese: '''カバルドン''' ''Kabaldon'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Earthen Press
+|jname=グラウンドプレス
+|jtrans=Ground Press
+|damage=120
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Hippowdon
+|species=Heavyweight
+|ndex=0450
+|height=6'7"
+|jheight=2.0
+|weight=661.4
+|jweight=300.0
+|dex=It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.
+|jdex=意外と 怒りっぽい ポケモンで 口を 大きく 開けることで まわりに 強さを アピールする。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Hippowdon|94}} from the {{TCG|Darkness Ablaze}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hippoterus (Kollision von Raum und Zeit 094)]]
+[[es:Hippowdon (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Hippodocus (Choc Spatio-Temporel 094)]]
+[[it:Hippowdon (Scontro Spaziotemporale 94)]]
+[[ja:カバルドン (ポケポケ A2)]]
+[[zh:河马兽（A2）]]

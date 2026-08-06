@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Salamence
+|ja name=ボーマンダ
+|trans name=Bohmander
+|species=Salamence
+|type=Dragon
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SalamenceFantasticalParade123.png|illustrator=kodama|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SalamenceFantasticalParade178.png|illustrator=Shiburingaru|tab caption=Illustration Rare}}
+|hp=150
+|weakness=
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Shelgon
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=123/155|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=178/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Salamence''' (Japanese: '''ボーマンダ''' ''Bohmander'') is a {{ct|Dragon}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Fire}}{{e|Water}}{{e|Colorless}}
+|name=Dragon Dive
+|jname=ドラゴンフォール
+|jtrans=Dragon Fall
+|damage=150
+|effect=Flip a coin. If tails, this Pokémon also does 50 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Salamence
+|species=Dragon
+|ndex=0373
+|height=4'11"
+|jheight=1.5
+|weight=226.2
+|jweight=102.6
+|dex=It becomes uncontrollable if it is enraged. It destroys everything with shredding claws and fire.
+|jdex=怒らせると 手が つけられない。すべての ものを ツメで 切り裂き 炎で 燃やして 破壊する。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Dragon
+|image1=SalamenceFantasticalParade123.png
+|caption1=Rare card<br>Illus. [[kodama]]
+|image2=SalamenceFantasticalParade178.png
+|caption2=Illustration rare card<br>Illus. [[Shiburingaru]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Evolving Skies|Salamence|109}} from the {{TCG|Evolving Skies}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Brutalanda (Traumhafte Parade 123)]]
+[[fr:Drattak (Parade Onirique 123)]]
+[[it:Salamence (Parata Fantasmagorica 123)]]
+[[ja:ボーマンダ (ポケポケ B2)]]
+[[zh:暴飞龙（B2）]]

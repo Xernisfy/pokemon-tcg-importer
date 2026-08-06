@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lairon
+|ja name=コドラ
+|trans name=Kodora
+|species=Lairon
+|type=Metal
+|image=LaironExtradimensionalCrisis49.png
+|illustrator=Mizue
+|hp=100
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Aron
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=049/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Lairon''' (Japanese: '''コドラ''' ''Kodora'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Colorless}}
+|name=Lunge Out
+|jname=つきたおし
+|jtrans=Shove
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Lairon
+|category=Iron Armor 
+|ndex=0305
+|height=2'11"
+|jheight=0.9
+|weight=264.6
+|jweight=120.0
+|dex=It loves iron ore. Groups of them fight for territory by bashing one another with their steel bodies.
+|jdex=鉄鉱石が 大好物。 鋼の 体を ぶつけ合って 縄張り 争いを する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Lairon|122}} from the {{TCG|Darkness Ablaze}} expansion; both cards have the Lunge Out attack.
+*'''Lunge Out''' is an attack that first appeared on {{TCG ID|EX Ruby & Sapphire|Makuhita|56}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Stollrak (Dimensionale Krise 049)]]
+[[es:Lairon (Crisis Dimensional TCG Pocket)]]
+[[fr:Galegon (Crise Interdimensionnelle 049)]]
+[[it:Lairon (Crisi Ultradimensionale 49)]]
+[[ja:コドラ (ポケポケ A3a)]]
+[[zh:可多拉（A3a）]]

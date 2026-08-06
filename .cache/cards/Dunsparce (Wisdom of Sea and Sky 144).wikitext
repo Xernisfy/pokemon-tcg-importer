@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dunsparce
+|ja name=ノコッチ
+|trans name=Nokocchi
+|species=Dunsparce
+|type=Colorless
+|image=DunsparceWisdomofSeaandSky144.png
+|illustrator=Kazuma Koda
+|hp=50
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=144/161|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Dunsparce''' (Japanese: '''ノコッチ''' ''Nokocchi'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Sudden Flash
+|jname=スネークフラッシュ
+|jtrans=Snake Flash
+|damage=20
+|effect=Flip a coin. If heads, your opponent's Active Pokémon is now {{TCG|Paralyzed}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Dunsparce
+|category=Land Snake 
+|ndex=0206
+|height=4'11"
+|jheight=1.5
+|weight=30.9
+|jweight=14.0
+|dex=It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail.
+|jdex=暗い場所に 迷路を 作る。 だれかに みられると 尻尾で 地面を 掘って 逃げようとする。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Dunsparce|137}} from the {{TCG|Darkness Ablaze}} expansion.
+*'''Sudden Flash''' is an attack that first appeared on {{TCG ID|EX Sandstorm|Dunsparce|60}} from the {{TCG|EX Sandstorm}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dummisel (Weisheit von Meer und Himmel 144)]]
+[[es:Dunsparce (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Insolourdo (Sagesse entre Ciel et Mer 144)]]
+[[it:Dunsparce (La Via del Cielo e del Mare 144)]]
+[[ja:ノコッチ (ポケポケ A4)]]
+[[zh:土龙弟弟（A4）]]

@@ -1,0 +1,83 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Crobat
+|ja name=クロバット
+|trans name=Crobat
+|species=Crobat
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CrobatTriumphantLight50.png|illustrator=AKIRA EGAWA|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CrobatDeluxePackex231.png|illustrator=AKIRA EGAWA|tab caption=Parallel}}
+|hp=110
+|weakness=Fighting
+|retreat cost=0
+|evo stage=Stage 2
+|prevo name=Golbat
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=050/075|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=230/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=231/353|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Crobat''' (Japanese: '''クロバット''' ''Crobat'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Ability/Pocket
+|type=Darkness
+|name=Cunning Link
+|jname=トリックリンク
+|jtrans=Trick Link
+|effect=Once during your turn, if you have {{TCGP|Arceus}} or {{DL|Arceus (TCG Pocket)|Arceus ex}} in play, you may do 30 damage to your opponent's Active Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Darkness Fang
+|jname=やみのキバ
+|jtrans=Darkness Fang
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Crobat
+|species=Bat
+|ndex=0169
+|height=5'11"
+|jheight=1.8
+|weight=165.3
+|jweight=75.0
+|dex=Both of its legs have turned into wings. Without a sound, Crobat flies swiftly toward its prey and sinks its fangs into the nape of its target's neck.
+|jdex=両足が 羽に 変化。 音を たてずに 高速で 飛び 獲物の うなじに キバを たてる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=CrobatTriumphantLight50.png
+|caption1=Standard card<br>Illus. [[AKIRA EGAWA]]
+|image2=CrobatDeluxePackex231.png
+|caption2=Parallel foil card<br>Illus. [[AKIRA EGAWA]]
+}}
+
+==Trivia==
+Crobat is one of eight Pokémon in the {{TCGP|Triumphant Light}} expansion to feature a {{TCGP|Link Ability}} that is active or usable while {{TCGP|Arceus|Arceus or Arceus ex}} is in play. All of these cards, along with {{TCG ID|Triumphant Light|Arceus|70}} and {{TCG ID|Triumphant Light|Arceus ex|71}} from the same expansion, have a special pattern behind the card text to symbolise their connection to Arceus and are part of the [[Triumphant Light (TCG Pocket)#Themed Collections|Themed Collection]] "Pokémon with Abilities that "Link" with Arceus".
+
+===Origin===
+*'''Darkness Fang''' is an attack that first appeared on {{TCG ID|EX Unseen Forces|Umbreon ex|112}} from the {{TCG|EX Unseen Forces}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Iksbat (Licht des Triumphs 050)]]
+[[es:Crobat (Luz Triunfal TCG Pocket)]]
+[[fr:Nostenfer (Lumière Triomphale 050)]]
+[[it:Crobat (Luce Trionfale 50)]]
+[[ja:クロバット (ポケポケ A2a)]]
+[[zh:叉字蝠（A2a）]]

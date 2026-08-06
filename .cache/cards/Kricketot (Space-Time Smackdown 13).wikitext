@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Kricketot
+|ja name=コロボーシ
+|trans name=Korobohshi
+|species=Kricketot
+|type=Grass
+|image=KricketotSpace-TimeSmackdown13.png
+|illustrator=Shigenori Negishi
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=013/155|pack=Palkia|rarity=Diamond|rarity count=1}}
+}}
+
+'''Kricketot''' (Japanese: '''コロボーシ''' ''Korobohshi'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Bug Bite
+|jname=むしくい
+|jtrans=Bug Bite
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Kricketot
+|species=Cricket
+|ndex=0401
+|height=1'
+|jheight=0.3
+|weight=4.9
+|jweight=2.2
+|dex=Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.
+|jdex=足が 短く こけそうになるたび 硬い 触角が こすれあって 木琴のような 音が 響く。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Crown Zenith|Kricketot|10}} from the {{TCG|Crown Zenith}} expansion.
+*{{m|Bug Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Kricketot}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zirpurze (Kollision von Raum und Zeit 013)]]
+[[es:Kricketot (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Crikzik (Choc Spatio-Temporel 013)]]
+[[it:Kricketot (Scontro Spaziotemporale 13)]]
+[[ja:コロボーシ (ポケポケ A2)]]
+[[zh:圆法师（A2）]]

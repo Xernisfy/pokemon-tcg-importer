@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Galarian Obstagoon
+|ja name=ガラルタチフサグマ
+|trans name=Galarian Tachifusaguma
+|species=Obstagoon
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GalarianObstagoonFantasticalParade100.png|illustrator=kodama|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GalarianObstagoonFantasticalParade176.png|illustrator=Mousho|tab caption=Illustration Rare}}
+|hp=150
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Galarian Linoone
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=100/155|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=176/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Galarian Obstagoon''' (Japanese: '''ガラルタチフサグマ''' ''Galarian Tachifusaguma'') is a {{ct|Darkness}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=Merciless Strike
+|jname=むじひないちげき
+|jtrans=Ruthless Blow
+|damage=70+
+|effect=If your opponent's Active Pokémon has damage on it, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Obstagoon
+|species=Blocking
+|ndex=0862
+|height=5'3"
+|jheight=1.6
+|weight=101.4
+|jweight=46.0
+|dex=It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.
+|jdex=ケンカを 繰り返し 進化。 腕をクロスし 叫ぶ 雄叫びは どんな 相手も 怯ませるぞ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=GalarianObstagoonFantasticalParade100.png
+|caption1=Rare card<br>Illus. [[kodama]]
+|image2=GalarianObstagoonFantasticalParade176.png
+|caption2=Illustration rare card<br>Illus. [[Mousho]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Fusion Strike|Galarian Obstagoon|161}} from the {{TCG|Fusion Strike}} expansion; both cards have the Merciless Strike attack.
+*'''Merciless Strike''' is an attack that first appeared on {{TCG ID|Ultra Prism|Type: Null|115}} from the {{TCG|Ultra Prism}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Galar-Barrikadax (Traumhafte Parade 100)]]
+[[fr:Ixon de Galar (Parade Onirique 100)]]
+[[it:Obstagoon di Galar (Parata Fantasmagorica 100)]]
+[[ja:ガラルタチフサグマ (ポケポケ B2)]]
+[[zh:伽勒尔 堵拦熊（B2）]]

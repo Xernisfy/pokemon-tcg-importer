@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Medicham {{TCGP Icon|Mega ex}}
+|ja name=メガチャーレム {{TCGP Icon|Mega ex}}
+|trans name=Mega Charem {{TCGP Icon|Mega ex}}
+|species=Medicham
+|type=Fighting
+|image=MegaMedichamexPromo-B29.png
+|illustrator=PLANETA CG Works
+|hp=180
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Meditite
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=029/P-B|pack=Vol. 4}}
+}}
+'''Mega Medicham ex''' (Japanese: '''メガチャーレムex''' ''Mega Charem ex'') is a {{ct|Fighting}} Stage 1 {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-B}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Mega Species/Pocket|Medicham}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}{{e|Colorless}}
+|name=Chakra Fist
+|jname=チャクラフィスト
+|jtrans=Chakra Fist
+|damage=100+
+|effect=If this Pokémon has any {{e|Psychic}} Energy attached, this attack does 40 more damage. This attack's damage isn't affected by any effects on your opponent's Active Pokémon.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Fighting
+|ndex=0308
+|name=Medicham
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Medicham
+|species=Meditate
+|ndex=0308
+|height=4'3"
+|jheight=1.3
+|weight=69.4
+|jweight=31.5
+|dex=Thanks to Mega Evolution, its mental power is limitless. It conjures up arms imbued with malice to defeat its enemies.
+|jdex=メガシンカにより 精神力が 底なしになった。 殺気を 帯びた 想像の 腕で 敵を 倒す。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-B Vol. 4 packs; these were made available as part of the [[Mega Medicham ex Drop Event]], which ran from February 12 to 22, 2026.
+
+==Trivia==
+===Origin===
+*This card features [[Mega]] {{p|Medicham}}.
+*This card's [[Pokédex]] entry comes from {{g|Legends: Z-A}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Meditalis-ex (PROMO-B 029)]]
+[[es:Mega-Medicham ex (Promo-B 29 TCG Pocket)]]
+[[fr:Méga-Charmina-ex (Promo-B 029)]]
+[[it:Mega Medicham-ex (Promo-B 29)]]
+[[ja:メガチャーレムex (ポケポケ P-B)]]

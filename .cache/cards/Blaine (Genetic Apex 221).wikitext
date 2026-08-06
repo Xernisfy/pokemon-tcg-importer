@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Blaine
+|ja name=カツラ
+|trans name=Katsura
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BlaineGeneticApex221.png|illustrator=GOSSAN|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BlaineGeneticApex268.png|illustrator=GOSSAN|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=221/226|pack=Charizard|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=268/226|pack=Charizard|rarity=Star|rarity count=2}}
+}}
+
+'''Blaine''' (Japanese: '''カツラ''' ''Katsura'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=During this turn, attacks used by your {{TCGP|Ninetales}}, {{TCGP|Rapidash}}, or {{TCGP|Magmar}} do +30 damage to your opponent's Active Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=BlaineGeneticApex221.png
+|caption1=Uncommon card<br>Illus. [[GOSSAN]]
+|image2=BlaineGeneticApex268.png
+|caption2=Super rare card<br>Illus. [[GOSSAN]]
+}}
+
+==Trivia==
+* {{TCG|Blaine}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Blaine]] is a [[Gym Leader]] in [[Kanto]]. The interior of the [[Cinnabar Gym]], as depicted in {{game|FireRed and LeafGreen|s}}, is featured in the regular print's illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=カツラ ''Katsura''
+|zh_yue=夏伯 ''Hahbaak''
+|zh_cmn=夏伯 ''Xiàbó''
+|fr=Auguste
+|de=Pyro
+|it=Blaine
+|ko=강연 ''Gang-yeon''
+|pt_br=Blaine
+|es=Blaine
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pyro (TCG Pocket)]]
+[[es:Blaine (TCG Pocket)]]
+[[fr:Auguste (Puissance Génétique 221)]]
+[[it:Blaine (Geni Supremi 221)]]
+[[ja:カツラ (ポケポケ)]]
+[[zh:夏伯（TCGP）]]

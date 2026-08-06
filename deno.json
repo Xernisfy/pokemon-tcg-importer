@@ -1,12 +1,22 @@
 {
   "imports": {
-    "@std/async": "jsr:@std/async",
-    "@std/cli": "jsr:@std/cli",
-    "@std/fs": "jsr:@std/fs",
-    "tcg-sdk": "npm:pokemon-tcg-sdk-typescript"
+    "@std/async": "jsr:@std/async@^1.5.0",
+    "@std/cli": "jsr:@std/cli@^1.0.32",
+    "@std/fs": "jsr:@std/fs@^1.0.24",
+    "tcg-sdk": "https://esm.sh/pokemon-tcg-sdk-typescript@^1.0.0?types"
+  },
+  "permissions": {
+    "default": {
+      "net": [
+        "bulbapedia.bulbagarden.net:443",
+        "raw.githubusercontent.com:443"
+      ],
+      "read": ["./.cache", "./out"],
+      "write": ["./.cache", "./out"]
+    }
   },
   "tasks": {
-    "bulbapedia": "deno run --allow-net=bulbapedia.bulbagarden.net:443,raw.githubusercontent.com:443 --allow-write=.cache,out --allow-read=.cache,out src/main.ts bulbapedia"
+    "bulbapedia": "deno run -P src/main.ts bulbapedia"
   },
   "version": "1.0.0"
 }

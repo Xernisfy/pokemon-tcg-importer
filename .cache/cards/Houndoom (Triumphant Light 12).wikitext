@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Houndoom
+|ja name=ヘルガー
+|trans name=Hellgar
+|species=Houndoom
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HoundoomTriumphantLight12.png|illustrator=Hajime Kusajima|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HoundoomTriumphantLight76.png|illustrator=matazo|tab caption=Illustration Rare}}
+|hp=100
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Houndour
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=012/075|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=076/075|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Houndoom''' (Japanese: '''ヘルガー''' ''Hellgar'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}
+|name=Corner
+|jname=おいつめる
+|jtrans=Corner
+|damage=60
+|effect=During your opponent's next turn, the Defending Pokémon can't retreat.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Houndoom
+|species=Dark
+|ndex=0229
+|height=4'7"
+|jheight=1.4
+|weight=77.2
+|jweight=35.0
+|dex=If you are burned by the flames it shoots from its mouth, the pain will never go away.
+|jdex=口から 吹き出す 炎で 火傷すると いつまでたっても 傷口が うずいてしまう。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=HoundoomTriumphantLight12.png
+|caption1=Uncommon card<br>Illus. [[Hajime Kusajima]]
+|image2=HoundoomTriumphantLight76.png
+|caption2=Illustration rare card<br>Illus. [[matazo]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Aquapolis|Houndoom|H11}} from the {{TCG|Aquapolis}} expansion.
+*'''Corner''' is an attack that first appeared on {{TCG ID|Neo Destiny|Houndour|43}} from the {{TCG|Neo Destiny}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hundemon (Licht des Triumphs 012)]]
+[[es:Houndoom (Luz Triunfal TCG Pocket)]]
+[[fr:Démolosse (Lumière Triomphale 012)]]
+[[it:Houndoom (Luce Trionfale 12)]]
+[[ja:ヘルガー (ポケポケ A2a)]]
+[[zh:黑魯加（A2a）]]

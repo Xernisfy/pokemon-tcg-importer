@@ -1,0 +1,463 @@
+{{TCGPocketExpansionPrevNext | prev = Paldean Wonders | next = Pulsing Aura }}
+{{TCGPocketExpansionInfobox
+|setname=Mega Shine
+|jasetname=シャイニングメガ
+|jasettrans=Shining Mega
+|setlogo=B2b Set Logo EN.png
+|release=March 26, 2026
+|cards=117 (69 + 48 secret)
+|collections= 17 (12 + 5 secret)
+|dex missions= 11 (10 + 1 secret)
+|deck missions= 10
+|decks= 5
+|battles=
+}}
+'''Mega Shine''' (Japanese: '''シャイニングメガ''' ''Shining Mega'') is the fifth {{TCGP|B Series}} expansion in [[Pokémon Trading Card Game Pocket]].
+
+== Information ==
+'''Mega Shine''' is the third themed booster pack of the {{TCGP|B Series}} released through [[Pokémon Trading Card Game Pocket]]. It introduces {{Shiny}} {{TCGP|Mega Evolution Pokémon ex}} to the game.
+
+It is similar to {{TCGP|Shining Revelry}} in the {{TCGP|A Series}}, which came out in the previous March.
+
+== Card list ==
+{{TCG Set List/header|tablecol=28F|bordercol=FC0|cellcol=FFC}}
+|-
+| 001/069 || {{TCG ID|Mega Shine|Scyther|1}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 002/069 || {{TCG ID|Mega Shine|Pineco|2}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 003/069 || {{TCG ID|Mega Shine|Volbeat|3}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 004/069 || {{TCG ID|Mega Shine|Illumise|4}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 005/069 || {{TCG ID|Mega Shine|Phantump|5}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 006/069 || {{TCG ID|Mega Shine|Trevenant|6}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 007/069 || {{TCG ID|Mega Shine|Charmander|7}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 008/069 || {{TCG ID|Mega Shine|Charmeleon|8}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 009/069 || {{TCG ID|Mega Shine|Mega Charizard X ex|9|Mega Charizard X}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 010/069 || {{TCG ID|Mega Shine|Ponyta|10}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 011/069 || {{TCG ID|Mega Shine|Rapidash|11}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 012/069 || {{TCG ID|Mega Shine|Magmar|12}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 013/069 || {{TCG ID|Mega Shine|Magmortar|13}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 014/069 || {{TCG ID|Mega Shine|Paldean Tauros|14}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 015/069 || {{TCG ID|Mega Shine|Slowpoke|15}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 016/069 || {{TCG ID|Mega Shine|Mega Slowbro ex|16|Mega Slowbro}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 017/069 || {{TCG ID|Mega Shine|Lapras|17}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 018/069 || {{TCG ID|Mega Shine|Piplup|18}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 019/069 || {{TCG ID|Mega Shine|Prinplup|19}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 020/069 || {{TCG ID|Mega Shine|Empoleon|20}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 021/069 || {{TCG ID|Mega Shine|Phione|21}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 022/069 || {{TCG ID|Mega Shine|Pikachu|22}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 023/069 || {{TCG ID|Mega Shine|Raichu|23}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 024/069 || {{TCG ID|Mega Shine|Electabuzz|24}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 025/069 || {{TCG ID|Mega Shine|Electivire|25}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 026/069 || {{TCG ID|Mega Shine|Electrike|26}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 027/069 || {{TCG ID|Mega Shine|Mega Manectric ex|27|Mega Manectric}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 028/069 || {{TCG ID|Mega Shine|Drowzee|28}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 029/069 || {{TCG ID|Mega Shine|Hypno|29}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 030/069 || {{TCG ID|Mega Shine|Mew|30}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 031/069 || {{TCG ID|Mega Shine|Spoink|31}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 032/069 || {{TCG ID|Mega Shine|Grumpig|32}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 033/069 || {{TCG ID|Mega Shine|Diglett|33}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 034/069 || {{TCG ID|Mega Shine|Dugtrio|34}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 035/069 || {{TCG ID|Mega Shine|Groudon|35}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 036/069 || {{TCG ID|Mega Shine|Hawlucha|36}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 037/069 || {{TCG ID|Mega Shine|Gastly|37}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 038/069 || {{TCG ID|Mega Shine|Haunter|38}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 039/069 || {{TCG ID|Mega Shine|Mega Gengar ex|39|Mega Gengar}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 040/069 || {{TCG ID|Mega Shine|Darkrai|40}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 041/069 || {{TCG ID|Mega Shine|Trubbish|41}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 042/069 || {{TCG ID|Mega Shine|Garbodor|42}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 043/069 || {{TCG ID|Mega Shine|Zorua|43}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 044/069 || {{TCG ID|Mega Shine|Zoroark|44}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 045/069 || {{TCG ID|Mega Shine|Morpeko|45}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 046/069 || {{TCG ID|Mega Shine|Forretress|46}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 047/069 || {{TCG ID|Mega Shine|Mega Scizor ex|47|Mega Scizor}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 048/069 || {{TCG ID|Mega Shine|Kartana|48}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 049/069 || {{TCG ID|Mega Shine|Varoom|49}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 050/069 || {{TCG ID|Mega Shine|Revavroom|50}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 051/069 || {{TCG ID|Mega Shine|Dratini|51}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 052/069 || {{TCG ID|Mega Shine|Dragonair|52}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 053/069 || {{TCG ID|Mega Shine|Dragonite|53}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 054/069 || {{TCG ID|Mega Shine|Axew|54}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 055/069 || {{TCG ID|Mega Shine|Fraxure|55}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 056/069 || {{TCG ID|Mega Shine|Haxorus|56}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 057/069 || {{TCG ID|Mega Shine|Druddigon|57}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 058/069 || {{TCG ID|Mega Shine|Jigglypuff|58}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 059/069 || {{TCG ID|Mega Shine|Wigglytuff|59}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 060/069 || {{TCG ID|Mega Shine|Miltank|60}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 061/069 || {{TCG ID|Mega Shine|Chatot|61}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 062/069 || {{TCG ID|Mega Shine|Minccino|62}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 063/069 || {{TCG ID|Mega Shine|Cinccino|63}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 064/069 || {{TCG ID|Mega Shine|Furfrou|64}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 065/069 || {{TCG ID|Mega Shine|Nasty Notice|65}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 066/069 || {{TCG ID|Mega Shine|Maintenance|66}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 067/069 || {{TCG ID|Mega Shine|Iris|67}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 068/069 || {{TCG ID|Mega Shine|Calem|68}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 069/069 || {{TCG ID|Mega Shine|Hiking Trail|69}} || {{TCG Icon|Stadium}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 070/069 || {{TCG ID|Mega Shine|Lapras|70}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}}
+|-
+| 071/069 || {{TCG ID|Mega Shine|Empoleon|71}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}}
+|-
+| 072/069 || {{TCG ID|Mega Shine|Groudon|72}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|1}}
+|-
+| 073/069 || {{TCG ID|Mega Shine|Morpeko|73}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|1}}
+|-
+| 074/069 || {{TCG ID|Mega Shine|Revavroom|74}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|1}}
+|-
+| 075/069 || {{TCG ID|Mega Shine|Miltank|75}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}}
+|-
+| 076/069 || {{TCG ID|Mega Shine|Mega Charizard X ex|76|Mega Charizard X}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|2}}
+|-
+| 077/069 || {{TCG ID|Mega Shine|Mega Slowbro ex|77|Mega Slowbro}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}}
+|-
+| 078/069 || {{TCG ID|Mega Shine|Mega Manectric ex|78|Mega Manectric}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}}
+|-
+| 079/069 || {{TCG ID|Mega Shine|Mega Gengar ex|79|Mega Gengar}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|2}}
+|-
+| 080/069 || {{TCG ID|Mega Shine|Mega Scizor ex|80|Mega Scizor}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}}
+|-
+| 081/069 || {{TCG ID|Mega Shine|Iris|81}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 082/069 || {{TCG ID|Mega Shine|Calem|82}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 083/069 || {{TCG ID|Mega Shine|Mega Slowbro ex|83|Mega Slowbro}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}}
+|-
+| 084/069 || {{TCG ID|Mega Shine|Mega Manectric ex|84|Mega Manectric}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}}
+|-
+| 085/069 || {{TCG ID|Mega Shine|Mew|85}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|3}}
+|-
+| 086/069 || {{TCG ID|Mega Shine|Mew|86}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|3}}
+|-
+| 087/069 || {{TCG ID|Mega Shine|Scyther|87}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 088/069 || {{TCG ID|Mega Shine|Pineco|88}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 089/069 || {{TCG ID|Mega Shine|Phantump|89}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 090/069 || {{TCG ID|Mega Shine|Trevenant|90}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 091/069 || {{TCG ID|Mega Shine|Charmander|91}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 092/069 || {{TCG ID|Mega Shine|Charmeleon|92}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 093/069 || {{TCG ID|Mega Shine|Ponyta|93}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 094/069 || {{TCG ID|Mega Shine|Rapidash|94}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 095/069 || {{TCG ID|Mega Shine|Slowpoke|95}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 096/069 || {{TCG ID|Mega Shine|Pikachu|96}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 097/069 || {{TCG ID|Mega Shine|Raichu|97}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 098/069 || {{TCG ID|Mega Shine|Electrike|98}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 099/069 || {{TCG ID|Mega Shine|Hawlucha|99}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 100/069 || {{TCG ID|Mega Shine|Gastly|100}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 101/069 || {{TCG ID|Mega Shine|Haunter|101}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 102/069 || {{TCG ID|Mega Shine|Zorua|102}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 103/069 || {{TCG ID|Mega Shine|Zoroark|103}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 104/069 || {{TCG ID|Mega Shine|Forretress|104}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 105/069 || {{TCG ID|Mega Shine|Dratini|105}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 106/069 || {{TCG ID|Mega Shine|Dragonair|106}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 107/069 || {{TCG ID|Mega Shine|Dragonite|107}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 108/069 || {{TCG ID|Mega Shine|Axew|108}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 109/069 || {{TCG ID|Mega Shine|Fraxure|109}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 110/069 || {{TCG ID|Mega Shine|Haxorus|110}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 111/069 || {{TCG ID|Mega Shine|Mega Charizard X ex|111|Mega Charizard X}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 112/069 || {{TCG ID|Mega Shine|Mega Slowbro ex|112|Mega Slowbro}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 113/069 || {{TCG ID|Mega Shine|Mega Manectric ex|113|Mega Manectric}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 114/069 || {{TCG ID|Mega Shine|Mega Gengar ex|114|Mega Gengar}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 115/069 || {{TCG ID|Mega Shine|Mega Scizor ex|115|Mega Scizor}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 116/069 || {{TCG ID|Mega Shine|Arboliva|116}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Crown|1}}
+|-
+| 117/069 || {{TCG ID|Mega Shine|Metal Core Barrier|117}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Crown|1}}
+|}
+
+==Missions==
+
+=== Dex Missions ===
+Mega Shine has 10 regular {{DL|Mission (TCG Pocket)|Dex Missions}} and one hidden Dex Mission:
+{{TCGPocketMission/Header|reward=yes|tablecol=28F|bordercol=FC0|cellcol=FFC}}
+{{TCGPocketMission/Entry|mission=Register 5 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 10 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 15 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 20 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 25 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 30 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 35 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 40 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 50 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 60 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine)|num=5}}}}
+|-
+! colspan="2" style="color:#FFF" | Secret Mission
+{{TCGPocketMission/Entry|mission=Register all {{Rar/TCGP|Diamond|1}} – {{Rar/TCGP|Diamond|4}} cards in the card dex|reward={{TCGPocketItem|Mega Shine Shiny Mega Gengar|Mega Shine: Shiny Mega Gengar (profile icon)|type=Profile Icon}}|lastitem=yes}}
+|}
+
+=== Deck Missions ===
+Mega Shine has 5 [[deck]]s and 10 {{DL|Mission (TCG Pocket)|Deck Missions}}. Each deck has two missions:
+
+{{TCGPocketMission/Header|reward=yes|tablecol=28F|bordercol=FC0|cellcol=FFC}}
+{{TCGPocketMission/Entry|mission=Collect the highlight card(s) for [deck name]|reward={{TCGPocketItem|Rental Deck|[deck name] rental deck}}}}
+{{TCGPocketMission/Entry|mission=Collect cards for [deck name]|reward={{TCGPocketItem|Theme Deck List|[deck name] theme deck list}}|lastitem=yes}}
+|}
+
+The 5 available decks related to Mega Shine are: 
+{{TCGPocketExpansionDeck/Header|tablecol=28F|bordercol=FC0|cellcol=FFC}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Charizard X ex Deck|Mega Shine}}|{{e|Fire}}|{{TCG ID|Mega Shine|Mega Charizard X ex|9}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Slowbro ex Deck|Mega Shine}}|{{e|Water}}|{{TCG ID|Mega Shine|Mega Slowbro ex|16}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Manectric ex Deck|Mega Shine}}|{{e|Lightning}}|{{TCG ID|Mega Shine|Mega Manectric ex|27}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Gengar ex Deck|Mega Shine}}|{{e|Darkness}}|{{TCG ID|Mega Shine|Mega Gengar ex|39}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Scizor ex Deck|Mega Shine}}|{{e|Metal}}|{{TCG ID|Mega Shine|Mega Scizor ex|47}}|lastitem=yes}}
+|}
+
+=== Themed Collections ===
+Mega Shine has 12 regular {{DL|Mission (TCG Pocket)|Themed Collections}} and 5 hidden Themed Collections.
+
+{{TCGPocketCollection/Header|tablecol=28F|bordercol=FC0|cellcol=FFC}}
+{{TCGPocketCollection/Entry|collection=Signs Drawn in the Night Sky
+|cards={{TCG ID|Mega Shine|Volbeat|3}} (#003)<br>{{TCG ID|Mega Shine|Illumise|4}} (#004) 
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Diglett on the Cliff's Edge
+|cards={{TCG ID|Mega Shine|Diglett|33}} (#033)<br>{{TCG ID|Mega Shine|Dugtrio|34}} (#034)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Under the Moonlight
+|cards={{TCG ID|Mega Shine|Pineco|2}} (#002)<br>{{TCG ID|Mega Shine|Phantump|5}} (#005)<br>{{TCG ID|Mega Shine|Drowzee|28}} (#028)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Rivals Joining Forces
+|cards={{TCG ID|Mega Shine|Magmortar|13}} (#013)<br>{{TCG ID|Mega Shine|Electivire|25}} (#025)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Falling into a Deep Sleep
+|cards={{TCG ID|Mega Shine|Hypno|29}} (#029)<br>{{TCG ID|Mega Shine|Darkrai|40}} (#040)
+|reward={{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine) ×5}}
+}}
+{{TCGPocketCollection/Entry|collection=See You at the Beach!
+|cards={{TCG ID|Mega Shine|Jigglypuff|58}} (#058)<br>{{TCG ID|Mega Shine|Chatot|61}} (#061)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=A Herd of Ponyta
+|cards={{TCG ID|Mega Shine|Ponyta|10}} (#010 or #093) ×5
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine) ×2}}
+}}
+{{TCGPocketCollection/Entry|collection=Dratini's Evolution
+|cards={{TCG ID|Mega Shine|Dratini|51}} (#051)<br>{{TCG ID|Mega Shine|Dragonair|52}} (#052)<br>{{TCG ID|Mega Shine|Dragonite|53}} (#053)
+|reward={{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine) ×5}}
+}}
+{{TCGPocketCollection/Entry|collection=Toward a More Beautiful World
+|cards={{TCG ID|Mega Shine|Empoleon|20}} (#020)<br>{{TCG ID|Mega Shine|Phione|21}} (#021)<br>{{TCG ID|Mega Shine|Trubbish|41}} (#041)<br>{{TCG ID|Mega Shine|Empoleon|71}} (#071)
+|reward={{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine) ×13}}
+}}
+{{TCGPocketCollection/Entry|collection=Seeking Prey from the Shadows
+|cards={{TCG ID|Mega Shine|Mega Gengar ex|39}} (#039 or #079 or #114)<br>4 in any combination of:<br>{{TCG ID|Mega Shine|Gastly|37}} (#037 or #100)<br>{{TCG ID|Mega Shine|Haunter|38}} (#038 or #101)
+|reward={{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine) ×13}}
+}}
+{{TCGPocketCollection/Entry|collection=Shiny Radiance
+|cards=One of:<br>{{TCG ID|Mega Shine|Scyther|87}} (#087)<br>{{TCG ID|Mega Shine|Pineco|88}} (#088)<br>{{TCG ID|Mega Shine|Phantump|89}} (#089)<br>{{TCG ID|Mega Shine|Trevenant|90}} (#090)<br>{{TCG ID|Mega Shine|Charmander|91}} (#091)<br>{{TCG ID|Mega Shine|Charmeleon|92}} (#092)<br>{{TCG ID|Mega Shine|Ponyta|93}} (#093)<br>{{TCG ID|Mega Shine|Rapidash|94}} (#094)<br>{{TCG ID|Mega Shine|Slowpoke|95}} (#095)<br>{{TCG ID|Mega Shine|Pikachu|96}} (#096)<br>{{TCG ID|Mega Shine|Raichu|97}} (#097)<br>{{TCG ID|Mega Shine|Electrike|98}} (#098)<br>{{TCG ID|Mega Shine|Hawlucha|99}} (#099)<br>{{TCG ID|Mega Shine|Gastly|100}} (#100)<br>{{TCG ID|Mega Shine|Haunter|101}} (#101)<br>{{TCG ID|Mega Shine|Zorua|102}} (#102)<br>{{TCG ID|Mega Shine|Zoroark|103}} (#103)<br>{{TCG ID|Mega Shine|Forretress|104}} (#104)<br>{{TCG ID|Mega Shine|Dratini|105}} (#105)<br>{{TCG ID|Mega Shine|Dragonair|106}} (#106)<br>{{TCG ID|Mega Shine|Dragonite|107}} (#107)<br>{{TCG ID|Mega Shine|Axew|108}} (#108)<br>{{TCG ID|Mega Shine|Fraxure|109}} (#109)<br>{{TCG ID|Mega Shine|Haxorus|110}} (#110)<br>{{TCG ID|Mega Shine|Mega Charizard X ex|111}} (#111)<br>{{TCG ID|Mega Shine|Mega Slowbro ex|112}} (#112)<br>{{TCG ID|Mega Shine|Mega Manectric ex|113}} (#113)<br>{{TCG ID|Mega Shine|Mega Gengar ex|114}} (#114)<br>{{TCG ID|Mega Shine|Mega Scizor ex|115}} (#115)
+|reward={{TCGPocketItem|Emblem Ticket B2b|Emblem Ticket (Mega Shine) ×7}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Morpeko
+|cards={{TCG ID|Mega Shine|Morpeko|45}} (#045) ×3
+|reward={{TCGPocketItem|Morpeko|Morpeko (profile icon)|type=Profile Icon}}
+}}
+|-
+! colspan="3" style="color:#FFF" | Secret Missions
+{{TCGPocketCollection/Entry|collection=Shiny Museum 1
+|cards={{TCG ID|Mega Shine|Scyther|87}} (#087)<br>{{TCG ID|Mega Shine|Pineco|88}} (#088)<br>{{TCG ID|Mega Shine|Phantump|89}} (#089)<br>{{TCG ID|Mega Shine|Trevenant|90}} (#090)<br>{{TCG ID|Mega Shine|Charmander|91}} (#091)<br>{{TCG ID|Mega Shine|Charmeleon|92}} (#092)<br>{{TCG ID|Mega Shine|Ponyta|93}} (#093)<br>{{TCG ID|Mega Shine|Rapidash|94}} (#094)<br>{{TCG ID|Mega Shine|Slowpoke|95}} (#095)<br>{{TCG ID|Mega Shine|Pikachu|96}} (#096)<br>{{TCG ID|Mega Shine|Raichu|97}} (#097)<br>{{TCG ID|Mega Shine|Electrike|98}} (#098)<br>{{TCG ID|Mega Shine|Hawlucha|99}} (#099)<br>{{TCG ID|Mega Shine|Gastly|100}} (#100)<br>{{TCG ID|Mega Shine|Haunter|101}} (#101)<br>{{TCG ID|Mega Shine|Zorua|102}} (#102)<br>{{TCG ID|Mega Shine|Zoroark|103}} (#103)<br>{{TCG ID|Mega Shine|Forretress|104}} (#104)<br>{{TCG ID|Mega Shine|Dratini|105}} (#105)<br>{{TCG ID|Mega Shine|Dragonair|106}} (#106)<br>{{TCG ID|Mega Shine|Dragonite|107}} (#107)<br>{{TCG ID|Mega Shine|Axew|108}} (#108)<br>{{TCG ID|Mega Shine|Fraxure|109}} (#109)<br>{{TCG ID|Mega Shine|Haxorus|110}} (#110)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Shiny Museum 2
+|cards={{TCG ID|Mega Shine|Mega Charizard X ex|111}} (#111)<br>{{TCG ID|Mega Shine|Mega Slowbro ex|112}} (#112)<br>{{TCG ID|Mega Shine|Mega Manectric ex|113}} (#113)<br>{{TCG ID|Mega Shine|Mega Gengar ex|114}} (#114)<br>{{TCG ID|Mega Shine|Mega Scizor ex|115}} (#115)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Mega Shine Museum
+|cards={{TCG ID|Mega Shine|Lapras|70}} (#070)<br>{{TCG ID|Mega Shine|Empoleon|71}} (#071)<br>{{TCG ID|Mega Shine|Groudon|72}} (#072)<br>{{TCG ID|Mega Shine|Morpeko|73}} (#073)<br>{{TCG ID|Mega Shine|Revavroom|74}} (#074)<br>{{TCG ID|Mega Shine|Miltank|75}} (#075)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Mega Shine: Immersive Experience
+|cards={{TCG ID|Mega Shine|Mew|85}} (#085)<br>{{TCG ID|Mega Shine|Mew|86}} (#086)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Shiny Collection Complete!
+|cards={{TCG ID|Mega Shine|Mew|86}} (#086)<br>{{TCG ID|Mega Shine|Scyther|87}} (#087)<br>{{TCG ID|Mega Shine|Pineco|88}} (#088)<br>{{TCG ID|Mega Shine|Phantump|89}} (#089)<br>{{TCG ID|Mega Shine|Trevenant|90}} (#090)<br>{{TCG ID|Mega Shine|Charmander|91}} (#091)<br>{{TCG ID|Mega Shine|Charmeleon|92}} (#092)<br>{{TCG ID|Mega Shine|Ponyta|93}} (#093)<br>{{TCG ID|Mega Shine|Rapidash|94}} (#094)<br>{{TCG ID|Mega Shine|Slowpoke|95}} (#095)<br>{{TCG ID|Mega Shine|Pikachu|96}} (#096)<br>{{TCG ID|Mega Shine|Raichu|97}} (#097)<br>{{TCG ID|Mega Shine|Electrike|98}} (#098)<br>{{TCG ID|Mega Shine|Hawlucha|99}} (#099)<br>{{TCG ID|Mega Shine|Gastly|100}} (#100)<br>{{TCG ID|Mega Shine|Haunter|101}} (#101)<br>{{TCG ID|Mega Shine|Zorua|102}} (#102)<br>{{TCG ID|Mega Shine|Zoroark|103}} (#103)<br>{{TCG ID|Mega Shine|Forretress|104}} (#104)<br>{{TCG ID|Mega Shine|Dratini|105}} (#105)<br>{{TCG ID|Mega Shine|Dragonair|106}} (#106)<br>{{TCG ID|Mega Shine|Dragonite|107}} (#107)<br>{{TCG ID|Mega Shine|Axew|108}} (#108)<br>{{TCG ID|Mega Shine|Fraxure|109}} (#109)<br>{{TCG ID|Mega Shine|Haxorus|110}} (#110)<br>{{TCG ID|Mega Shine|Mega Charizard X ex|111}} (#111)<br>{{TCG ID|Mega Shine|Mega Slowbro ex|112}} (#112)<br>{{TCG ID|Mega Shine|Mega Manectric ex|113}} (#113)<br>{{TCG ID|Mega Shine|Mega Gengar ex|114}} (#114)<br>{{TCG ID|Mega Shine|Mega Scizor ex|115}} (#115)
+|reward={{TCGPocketItem|Shiny Mew|Shiny Mew (emblem)|type=Emblem}}|lastitem=yes}}
+|}
+
+== Offering rates ==
+The following table outlines the offering rates for each individual card in the Mega Shine booster pack.
+
+The probability of each type of pack appearing is as follows:
+* Regular pack - 94.706%
+* Regular pack + 1 card - 5.238%
+* Rare pack - 0.050%
+* Themed rare pack - 0.005%
+
+In regular packs with a bonus card, the card inclusion rates for the first five cards are the same as those for regular packs without a bonus card.
+
+{{TCG ID|Mega Shine|Mew|86}} (#086), {{Rar/TCGP|Shiny|1}} and {{Rar/TCGP|Shiny|2}} rarity cards are only available as bonus cards.
+
+The Themed rare pack will always contain the exact same cards: {{TCG ID|Mega Shine|Mega Slowbro ex|112}} (#112) as the first card, {{TCG ID|Mega Shine|Mega Manectric ex|113}} (#113) as the second card, {{TCG ID|Mega Shine|Mega Scizor ex|115}} (#115) as the third card, {{TCG ID|Mega Shine|Mega Charizard X ex|111}} (#111) as the fourth card, and {{TCG ID|Mega Shine|Mega Gengar ex|114}} (#114) as the fifth card.
+
+{{TCGPocketRates/Header|tablecol=28F|bordercol=FC0|cellcol=FFC|bonuscard=yes}}
+! Themed rare packs
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 3.030% || — || — || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 3.913% || 2.608% || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.625% || 2.500% || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.333% || 1.333% || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.428% || 1.714% || — || 5.555% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.055% || 0.222% || — || 5.555% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.889% || 6.400% || 5.555% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|1}} || — || — || — || 2.840% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|2}} || — || — || — || 5.084% || — || 100%
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.020% || 0.080% || — || 5.555% || style="border-bottom-right-radius:5px"| —
+|}
+
+== Solo battles ==
+{{main|List of Mega Shine solo battles in Pokémon TCG Pocket}}
+
+== Gallery ==
+
+=== Key artwork ===
+{{TCGMerchGallery
+|background=FFC
+|border=FC0
+|image1=B2b Key Art.png
+|size1=400px
+|caption1=Key artwork
+}}
+
+=== Pack artwork ===
+{{TCGMerchGallery
+|background=FFC
+|border=FC0
+|image1=B2b Booster EN.png
+|caption1=Booster pack
+}}
+
+=== Pack logo ===
+{{TCGMerchGallery
+|background=FFC
+|border=FC0
+|image1=B2b Pack Logo EN.png
+|caption1=English logo
+}}
+
+== In other languages ==
+{{Langtable|color=FFC|bordercolor=FC0
+|ja=シャイニングメガ ''Shining Mega''
+|zh_yue=超級異彩 ''Chīukāp Yihchói''
+|zh_cmn=超級異彩 ''Chāojí Yìcǎi''
+|fr=Méga-Rayonnement
+|de=Mega-Schillern
+|it=Mega Splendore
+|ko=샤이닝 메가 ''Shining Mega''
+|pt_br=Mega Brilho
+|es=Megavariocolor
+}}
+
+== Related articles ==
+{{TCGPocketNavigation}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Schillern (TCG Pocket)]]
+[[fr:Méga-Rayonnement]]
+[[it:Mega Splendore (GCC Pocket)]]
+[[ja:シャイニングメガ]]
+[[zh:超級異彩（TCGP）]]

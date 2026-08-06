@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Porygon-Z
+|ja name=ポリゴンZ
+|trans name=Porygon-Z
+|species=Porygon-Z
+|type=Colorless
+|image=Porygon-ZCrimsonBlaze58.png
+|illustrator=Shibuzoh.
+|hp=140
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Porygon2
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=058/069|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Porygon-Z''' (Japanese: '''ポリゴンZ''' ''Porygon-Z'') is a {{ct|Colorless}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Cyberjack
+|jname=サイバージャック
+|jtrans=Cyberjack
+|damage=20+
+|effect=This attack does 20 more damage for each Trainer card in your opponent’s deck.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Porygon-Z
+|species=Virtual
+|ndex=474
+|height=2'11"
+|jheight=0.9
+|weight=75
+|jweight=34.0
+|dex=Porygon-Z had a program installed to allow it to move between dimensions, but the program also caused instability in Porygon-Z's behavior.
+|jdex=異次元 空間に 出入りできる プログラムを 追加したところ 挙動が 不安定になった。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Origin|Porygon-Z|142}} from the {{TCG|Lost Origin}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Porygon-Z (Feuerrote Flammen 058)]]
+[[fr:Porygon-Z (Embrasement Écarlate 058)]]
+[[ja:ポリゴンZ (ポケポケ B1a)]]
+[[zh:多邊獸Ｚ（B1a）]]

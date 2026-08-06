@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Solrock
+|ja name=ソルロック
+|trans name=Solrock
+|species=Solrock
+|type=Fighting
+|image=SolrockCelestialGuardians92.png
+|illustrator=Kyoko Umemoto
+|hp=90
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=092/155|pack=Solgaleo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Solrock''' (Japanese: '''ソルロック''' ''Solrock'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Solar Beam
+|jname=ソーラービーム
+|jtrans=Solar Beam
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Solrock
+|species=Meteorite
+|ndex=0338
+|height=3'11"
+|jheight=1.2
+|weight=339.5
+|jweight=154.0
+|dex=When it rotates itself, it gives off light similar to the sun, thus blinding its foes.
+|jdex=体を 回転 させると 太陽の ような 光を 放ち 敵の 目を 眩ませる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Deoxys|Solrock|47}} from the {{TCG|EX Deoxys}} expansion.
+*{{m|Solar Beam}} is a [[move]] in the [[Pokémon games]] that {{p|Solrock}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sonnfel (Hüter des Firmaments 092)]]
+[[es:Solrock (Guardianes Celestiales TCG Pocket)]]
+[[fr:Solaroc (Gardiens Astraux 092)]]
+[[it:Solrock (Guardiani Astrali 92)]]
+[[ja:ソルロック (ポケポケ A3)]]
+[[zh:太阳岩（A3）]]

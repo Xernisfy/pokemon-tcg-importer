@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Marill
+|ja name=マリル
+|trans name=Maril
+|species=Marill
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MarillTriumphantLight14.png|illustrator=Tika Matsuno|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MarillTriumphantLight77.png|illustrator=Taiga Kayama|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=014/075|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=077/075|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Marill''' (Japanese: '''マリル''' ''Maril'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Water Gun
+|jname=みずでっぽう
+|jtrans=Water Gun
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Marill
+|species=Aqua Mouse
+|ndex=0183
+|height=1'4"
+|jheight=0.4
+|weight=18.7
+|jweight=8.5
+|dex=The fur on its body naturally repels water. It can stay dry even when it plays in the water.
+|jdex=全身の 体毛は 水を 弾く 性質を 持ち 水浴び しても 乾いている。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=MarillTriumphantLight14.png
+|caption1=Common card<br>Illus. [[Tika Matsuno]]
+|image2=MarillTriumphantLight77.png
+|caption2=Illustration rare card<br>Illus. [[Taiga Kayama]]
+}}
+
+==Trivia==
+Marill is one of four Pokémon in the {{TCGP|Triumphant Light}} expansion featured in the "Carnivine of the Pastoria Great Marsh" [[Triumphant Light (TCG Pocket)#Themed Collections|Themed Collection]] as {{p|Marill}} can be found in the [[Great Marsh]] in {{game|Diamond and Pearl|s|Pokémon Diamond, Pearl}}, {{game|Brilliant Diamond and Shining Pearl|s|Brilliant Diamond, and Shining Pearl}}; this is also the setting for this card's standard illustration, as the marsh's train can be seen in the background.
+
+===Origin===
+*{{m|Water Gun}} is a [[move]] in the [[Pokémon games]] that {{p|Marill}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Marill (Licht des Triumphs 014)]]
+[[es:Marill (Luz Triunfal TCG Pocket)]]
+[[fr:Marill (Lumière Triomphale 014)]]
+[[it:Marill (Luce Trionfale 14)]]
+[[ja:マリル (ポケポケ A2a)]]
+[[zh:瑪力露（A2a）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Shroodle
+|ja name=シルシュルー
+|trans name=Shirushrew
+|species=Shroodle
+|type=Darkness
+|image=ShroodleShiningRevelry50.png
+|illustrator=Krgc
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=050/072|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Shroodle''' (Japanese: '''シルシュルー''' ''Shirushrew'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Gnaw
+|jname=かじる
+|jtrans=Gnaw
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Shroodle
+|category=Toxic Mouse 
+|ndex=0944
+|height=8"
+|jheight=0.2
+|weight=1.5
+|jweight=0.7
+|dex=Though usually a mellow Pokémon, it will sink its sharp, poison-soaked front teeth into any that anger it, causing paralysis in the object of its ire.
+|jdex=温厚だが 怒らせると 毒が 染みこんだ 鋭い 前歯で 咬みつき 痺れさせてくるぞ。
+}}
+
+
+==Trivia==
+===Origin===
+*'''Gnaw''' is an attack that first appeared on {{TCG ID|Base Set|Pikachu|58}} from the {{TCG|Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sproxi (Glänzendes Festival 050)]]
+[[es:Shroodle (Festival Brillante TCG Pocket)]]
+[[fr:Gribouraigne (Réjouissances Rayonnantes 050)]]
+[[it:Shroodle (Tripudio Splendente 50)]]
+[[ja:シルシュルー (ポケポケ A2b)]]
+[[zh:滋汁鼴（A2b）]]

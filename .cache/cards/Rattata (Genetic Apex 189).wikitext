@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rattata
+|ja name=コラッタ
+|trans name=Koratta
+|species=Rattata
+|type=Colorless
+|image=RattataGeneticApex189.png
+|illustrator=Atsushi Furusawa
+|hp=40
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=189/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Rattata''' (Japanese: '''コラッタ''' ''Koratta'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Gnaw
+|jname=かじる
+|jtrans=Gnaw
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Rattata
+|species=Mouse
+|ndex=0019
+|height=1'
+|jheight=0.3
+|weight=7.7
+|jweight=3.5
+|dex=Its incisors grow continuously throughout its life. If its incisors get too long, this Pokémon becomes unable to eat, and it starves to death.
+|jdex=一生　前歯が　伸び続ける｡ あまりに　伸びすぎると　エサが 食べられなくなって　餓死　する｡
+}}
+
+==Trivia==
+*Rattata is one of seven Pokémon in the {{TCGP|Genetic Apex}} expansion featured in the "Touring the Kanto Region" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]], in which all of the cards show various elements of the [[Kanto]] region. This card's illustration features [[Pallet Town]], as depicted in {{game|FireRed and LeafGreen|s}}.
+*This card is almost identical to {{TCG ID|Undaunted|Rattata|64}} from the [[Pokémon Trading Card Game]]'s {{TCG|Undaunted}} expansion, except for the {{TCG|Weakness}} modifier.
+
+===Origin===
+*'''Gnaw''' is an attack that first appeared on {{TCG ID|Base Set|Pikachu|58}} from the {{TCG|Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rattfratz (Unschlagbare Gene 189)]]
+[[es:Rattata (Genes Formidables TCG Pocket)]]
+[[fr:Rattata (Puissance Génétique 189)]]
+[[it:Rattata (Geni Supremi 189)]]
+[[ja:コラッタ (ポケポケ A1)]]
+[[zh:小拉达（A1）]]

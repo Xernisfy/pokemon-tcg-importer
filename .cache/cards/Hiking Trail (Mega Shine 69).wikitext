@@ -1,0 +1,46 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Hiking Trail
+|ja name=ハイキングコース
+|trans name=Hiking Course
+|subtype=Stadium
+|image=HikingTrailMegaShine69.png
+|illustrator=AYUMI ODASHIMA
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=069/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Hiking Trail''' (Japanese: '''ハイキングコース''' ''Hiking Course'') is a {{TCGP|Stadium card}} in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Stadium
+|rule=SV Stadium
+|effect=At the end of each player's turn, that player draws cards until they have 3 cards in their hand.
+}}
+
+==Trivia==
+This card's effect is similar to the {{TCG|Rose Tower}} card in the [[Pokémon Trading Card Game]].
+
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Stadium color}}|bordercolor={{TCG Stadium color dark}}
+|ja=ハイキングコース ''Hiking Course''
+|zh_yue=健行步道 ''Gihnhàhng Bouhdouh''
+|zh_cmn=健行步道 ''Jiànxíng Bùdào''
+|fr=Chemin de Randonnée
+|de=Wanderweg
+|it=Percorso Escursionistico
+|ko=하이킹 코스 ''Hiking Course''
+|pt_br=Trilha de Caminhada
+|es=Ruta de Senderismo
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wanderweg (TCG Pocket)]]
+[[fr:Chemin de Randonnée (Méga-Rayonnement 069)]]
+[[it:Percorso Escursionistico (Mega Splendore 69)]]
+[[ja:ハイキングコース]]
+[[zh:健行步道（TCGP）]]

@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Taillow
+|ja name=スバメ
+|trans name=Subame
+|species=Taillow
+|type=Colorless
+|image=TaillowFantasticalParade132.png
+|illustrator=Ayaka Yoshida
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=132/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Taillow''' (Japanese: '''スバメ''' ''Subame'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Peck
+|jname=つつく
+|jtrans=Peck
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Taillow
+|species=Tiny Swallow
+|ndex=0276
+|height=1'
+|jheight=0.3
+|weight=5.1
+|jweight=2.3
+|dex=It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day.
+|jdex=寒い 季節は 苦手。暖かい 土地を 探し 1日 300キロの 距離を 飛んで 移動する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Guardians Rising|Taillow|103}} from the {{TCG|Guardians Rising}} expansion.
+*{{m|Peck}} is a [[move]] in the [[Pokémon games]] that {{p|Taillow}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schwalbini (Traumhafte Parade 132)]]
+[[fr:Nirondelle (Parade Onirique 132)]]
+[[it:Taillow (Parata Fantasmagorica 132)]]
+[[ja:スバメ (ポケポケ B2)]]
+[[zh:傲骨燕（B2）]]

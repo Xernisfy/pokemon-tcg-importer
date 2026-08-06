@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Porygon2
+|ja name=ポリゴン２
+|trans name=Porygon2
+|species=Porygon2
+|type=Colorless
+|image=Porygon2CrimsonBlaze57.png
+|illustrator=Kent Kanetsuna
+|hp=90
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Porygon
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=057/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Porygon2''' (Japanese: '''ポリゴン２''' ''Porygon2'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Speed Attack
+|jname=スピードアタック
+|jtrans=Speed Attack
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Porygon2
+|species=Virtual
+|ndex=233
+|height=2′00″
+|jheight=0.6
+|weight=71.6
+|jweight=32.5
+|dex=This is a Porygon that was updated with special data. Porygon2 develops itself by learning about many different subjects all on its own.
+|jdex=ポリゴンを 特別な データで アップデート。 さまざまな ことを 自分で 学び 成長する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Great Encounters|Porygon2|49}} from the {{TCG|Great Encounters}} expansion.
+*'''Speed Attack''' is an attack that first appeared on {{TCG ID|Great Encounters|Porygon2|49}} from {{TCG|Great Encounters}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Porygon2 (Feuerrote Flammen 057)]]
+[[fr:Porygon2 (Embrasement Écarlate 057)]]
+[[ja:ポリゴン2 (ポケポケ B1a)]]
+[[zh:多邊獸Ⅱ（B1a）]]

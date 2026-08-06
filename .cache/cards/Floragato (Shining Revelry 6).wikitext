@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Floragato
+|ja name=ニャローテ
+|trans name=Nyarote
+|species=Floragato
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FloragatoShiningRevelry6.png|illustrator=mashu|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FloragatoDeluxePackex52.png|illustrator=mashu|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FloragatoDeluxePackex354.png|illustrator=Kariya|tab caption=Illustration Rare}}
+|hp=90
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Sprigatito
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=006/072|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=051/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=052/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=354/353|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Floragato''' (Japanese: '''ニャローテ''' ''Nyarote'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Slash
+|jname=きりさく
+|jtrans=Slash
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Floragato
+|category=Grass Cat 
+|ndex=0907
+|height=2'11"
+|jheight=0.9
+|weight=26.9
+|jweight=12.2
+|dex=Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.
+|jdex=長い 体毛の下に 隠した ツタを 器用に 操り 硬い つぼみを 敵に 叩きつける。
+}}
+
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=FloragatoShiningRevelry6.png
+|caption1=Standard card<br>Illus. [[mashu]]
+|image2=FloragatoDeluxePackex52.png
+|caption2=Parallel foil card<br>Illus. [[mashu]]
+|image3=FloragatoDeluxePackex354.png
+|caption3=Illustration rare card print<br>Illus. [[Kariya]]
+}}
+
+==Trivia==
+===Origin===
+*{{m|Slash}} is a [[move]] in the [[Pokémon games]] that {{p|Floragato}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Feliospa (Glänzendes Festival 006)]]
+[[es:Floragato (Festival Brillante TCG Pocket)]]
+[[fr:Matourgeon (Réjouissances Rayonnantes 006)]]
+[[it:Floragato (Tripudio Splendente 6)]]
+[[ja:ニャローテ (ポケポケ A2b)]]
+[[zh:蒂蕾喵（A2b）]]

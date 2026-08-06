@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Quaxly
+|ja name=クワッス
+|trans name=Kuwassu
+|species=Quaxly
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=QuaxlyPaldeanWonders22.png|illustrator=Naoki Saito|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=QuaxlyPromo-B33.png|illustrator=buchi|tab caption=Promo}}
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=022/093|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=033/P-B}}
+}}
+
+'''Quaxly''' (Japanese: '''クワッス''' ''Kuwassu'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Splashing Dodge
+|jname=はねてかわす
+|jtrans=Hop Dodge
+|damage=10
+|effect=Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Quaxly
+|category=Duckling 
+|ndex=0912
+|height=1'8"
+|jheight=0.5
+|weight=13.4
+|jweight=6.1
+|dex=Its strong legs let it easily swim around in even fast-flowing rivers. It likes to keep things tidy and is prone to overthinking things.
+|jdex=流れが 急な 川も 自由に 泳ぎまわる 脚力を 持つ。 きれい好きで 思い込みが 強い。
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} print of this card was available from March 1 to 31, 2026 as a login reward from the monthly {{DL|Mission (TCG Pocket)|Premium Missions}}.
+
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=QuaxlyPaldeanWonders22.png
+|caption1=Common card<br>Illus. [[Naoki Saito]]
+|image2=QuaxlyPromo-B33.png
+|caption2=Promo card<br>Illus. [[buchi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Paldea Evolved|Quaxly|50}} from the {{TCG|Paldea Evolved}} expansion.
+*'''Splashing Dodge''' is an attack that first appeared on {{TCG ID|Burning Shadows|Magikarp|32}} from the {{TCG|Burning Shadows}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kwaks (Wundervolles Paldea 022)]]
+[[fr:Coiffeton (Merveilles de Paldea 022)]]
+[[it:Quaxly (Meraviglie di Paldea 22)]]
+[[ja:クワッス (ポケポケ B2a)]]
+[[zh:润水鸭（B2a）]]

@@ -1,0 +1,50 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Cover Fossil
+|ja name=ふたの化石
+|trans name=Cover Fossil
+|subtype=Item
+|image=CoverFossilMegaRising216.png
+|illustrator=Ryo Ueda
+|hp=40
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Diamond|rarity count=1|number=216/226}}
+}}
+
+'''Cover Fossil''' (Japanese: '''ふたの化石''' ''Cover Fossil'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Play this card as if it were a 40-HP Basic {{e|Colorless}} Pokémon.<br>At any time during your turn, you may discard this card from play.<br>This card can't retreat.
+}}
+
+==Trivia==
+* This card's effect is similar to that of the {{TCG|Unidentified Fossil}} card in the [[Pokémon Trading Card Game]], but has 40 HP instead of 60 HP and only {{TCG|Tirtouga}} can evolve from.
+** {{TCG|Cover Fossil}} also exists in the Pokémon Trading Card Game, but has a different effect.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Noble Victories|Cover Fossil|90}} from the {{TCG|Noble Victories}} expansion.
+*[[Cover Fossil]]s are [[fossil]]s in the [[Pokémon games]] which can be revived into {{p|Tirtouga}}.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=ふたの化石 ''Futa no Kaseki''
+|zh_yue=背蓋化石 ''Buigoi Fasehk''
+|zh_cmn=背蓋化石 ''Bèigài Huàshí''
+|fr=Fossile Plaque
+|de=Schildfossil
+|it=Fossiltappo
+|ko=덮개화석 ''Deopgae Hwaseok''
+|pt_br=Fóssil Casca
+|es=Fósil Tapa
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schildfossil (TCG Pocket)]]
+[[fr:Fossile Plaque (Méga-Ascension 216)]]
+[[it:Fossiltappo (Mega Ascesa 216)]]
+[[ja:ふたの化石 (ポケポケ)]]
+[[zh:背盖化石（TCGP）]]

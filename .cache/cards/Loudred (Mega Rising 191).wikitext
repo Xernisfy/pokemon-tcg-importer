@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Loudred
+|ja name=ドゴーム
+|trans name=Dogohmb
+|species=Loudred
+|type=Colorless
+|image=LoudredMegaRising191.png
+|illustrator=MAHOU
+|hp=90
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Whismur
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Diamond|rarity count=1|number=191/226}}
+}}
+
+'''Loudred''' (Japanese: '''ドゴーム''' ''Dogohmb'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Hyper Voice
+|jname=ハイパーボイス
+|jtrans=Hyper Voice
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Loudred
+|species=Big Voice
+|ndex=0294
+|height=3'3"
+|jheight=1.0
+|weight=89.3
+|jweight=40.5
+|dex=The force of this Pokémon's loud voice isn't just the sound—it's also the wave of air pressure that blows opponents away and damages them.
+|jdex=大声は 聴覚だけでなく 空気の 圧力となり 敵を 吹きとばし ダメージを 与える。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Phantom Forces|Loudred|84}} from the {{TCG|Phantom Forces}} expansion.
+*{{m|Hyper Voice}} is a [[move]] in the [[Pokémon games]] that {{p|Loudred}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Krakeelo (Mega-Aufstieg 191)]]
+[[es:Loudred (Megaascenso TCG Pocket)]]
+[[fr:Ramboum (Méga-Ascension 191)]]
+[[it:Loudred (Mega Ascesa 191)]]
+[[ja:ドゴーム (ポケポケ B1)]]
+[[zh:吼爆弹（B1）]]

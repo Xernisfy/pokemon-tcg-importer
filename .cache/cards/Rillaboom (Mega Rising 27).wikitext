@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rillaboom
+|ja name=ゴリランダー
+|trans name=Gorirander
+|species=Rillaboom
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RillaboomMegaRising27.png|illustrator=Shin Nagasawa|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RillaboomMegaRising229.png|illustrator=osare|tab caption=Illustration Rare}}
+|hp=150
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Thwackey
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=027/226|pack=Mega Altaria|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=229/226|pack=Mega Altaria|rarity=Star|rarity count=1}}
+}}
+
+'''Rillaboom''' (Japanese: '''ゴリランダー''' ''Gorirander'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Ability/Pocket
+|type=Grass
+|name=Captivating Rhythm
+|jname=みわくのリズム
+|jtrans=Captivating Rhythm
+|effect=Once during your turn, you may flip a coin. If heads, switch in 1 of your opponent's Benched Pokémon to the Active Spot.
+}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=Drum Rush
+|jname=ドラムラッシュ
+|jtrans=Drum Rush
+|damage=120
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Rillaboom
+|category=Drumming
+|ndex=0812
+|height=6'11"
+|jheight=2.1
+|weight=198.4
+|jweight=90.0
+|dex=The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group.
+|jdex=ドラムテクニックに 優れた ものが ボスになる。 穏やかな 気性で グループの 調和を 重んじる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=RillaboomMegaRising27.png
+|caption1=Rare card<br>Illus. [[Shin Nagasawa]]
+|image2=RillaboomMegaRising229.png
+|caption2=Illustration rare card<br>Illus. [[osare]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Sword & Shield|Rillaboom|15}} from the {{TCG|Sword & Shield}} expansion.
+*'''Captivating Rhythm''' is an {{TCG|Ability}} that first appeared on {{TCG ID|Primal Clash|Ludicolo|12}} from the {{TCG|Primal Clash}} expansion.
+*'''Drum Rush''' is an attack that first appeared on {{TCG ID|Fusion Strike|Rillaboom V|22}} from the {{TCG|Fusion Strike}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gortrom (Mega-Aufstieg 027)]]
+[[es:Rillaboom (Megaascenso TCG Pocket)]]
+[[fr:Gorythmic (Méga-Ascension 027)]]
+[[it:Rillaboom (Mega Ascesa 27)]]
+[[ja:ゴリランダー (ポケポケ B1)]]
+[[zh:轰擂金刚猩（B1）]]

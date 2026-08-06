@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Skarmory {{TCGP Icon|ex}}
+|ja name=エアームド{{TCGP Icon|ex}}
+|trans name=Airmd {{TCGP Icon|ex}}
+|species=Skarmory
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SkarmoryexWisdomofSeaandSky124.png|illustrator=PLANETA Yamashita|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SkarmoryexWisdomofSeaandSky194.png|illustrator=PLANETA Yamashita|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SkarmoryexWisdomofSeaandSky209.png|illustrator=toriyufu|tab caption=Special Illustration Rare}}
+|hp=140
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=124/161|pack=Ho-Oh|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=194/161|pack=Ho-Oh|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=209/161|pack=Ho-Oh|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=252/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Skarmory ex''' (Japanese: '''エアームドex''' ''Airmd ex'') is a {{ct|Metal}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}
+|name=Steel Wing
+|jname=はがねのつばさ
+|jtrans=Steel Wing
+|damage=70
+|effect=During your opponent's next turn, this Pokémon takes −20 damage from attacks.
+}}
+{{Cardtext/Pocket ex
+|type=Metal
+|ndex=0227
+|name=Skarmory
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=SkarmoryexWisdomofSeaandSky124.png
+|caption1=Double rare card<br>Illus. [[PLANETA Yamashita]]
+|image2=SkarmoryexWisdomofSeaandSky194.png
+|caption2=Super rare card<br>Illus. [[PLANETA Yamashita]]
+|image3=SkarmoryexWisdomofSeaandSky209.png
+|caption3=Special illustration rare card<br>Illus. [[toriyufu]]
+}}
+
+==Trivia==
+===Origin===
+*{{m|Steel Wing}} is a [[move]] in the [[Pokémon games]] that {{p|Skarmory}} can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Panzaeron-ex (Weisheit von Meer und Himmel 124)]]
+[[es:Skarmory ex (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Airmure-ex (Sagesse entre Ciel et Mer 124)]]
+[[it:Skarmory-ex (La Via del Cielo e del Mare 124)]]
+[[ja:エアームドex (ポケポケ A4)]]
+[[zh:盔甲鸟ex（A4）]]

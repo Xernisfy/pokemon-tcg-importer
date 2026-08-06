@@ -1,0 +1,69 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Shiinotic
+|ja name=マシェード
+|trans name=Mashade
+|species=Shiinotic
+|type=Psychic
+|image=ShiinoticExtradimensionalCrisis27.png
+|illustrator=kawayoo
+|hp=90
+|weakness=Metal
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Morelull
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=027/069|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Shiinotic''' (Japanese: '''マシェード''' ''Mashade'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Illuminate
+|jname=はっこう
+|jtrans=Luminescence
+|effect=Once during your turn, you may put a random Pokémon from your deck into your hand.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Gentle Slap
+|jname=ひっぱたく
+|jtrans=Slap
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Shiinotic
+|species=Illuminating
+|ndex=0756
+|height=3'3"
+|jheight=1.0
+|weight=25.4
+|jweight=11.5
+|dex=Its flickering spores lure in prey and put them to sleep. Once this Pokémon has its prey snoozing, it drains their vitality with its fingertips.
+|jdex=点滅する 胞子の 光りで 獲物を おびき寄せて 眠らせる。 指先から 生気を 吸い取る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ultra Prism|Shiinotic|93}} from the {{TCG|Ultra Prism}} expansion.
+*{{a|Illuminate}} is an [[Ability]] in the [[Pokémon games]] that {{p|Shiinotic}} can have.
+*'''Gentle Slap''' is an attack that first appeared on {{TCG ID|EX Team Rocket Returns|Psyduck|70}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lamellux (Dimensionale Krise 027)]]
+[[es:Shiinotic (Crisis Dimensional TCG Pocket)]]
+[[fr:Lampignon (Crise Interdimensionnelle 027)]]
+[[it:Shiinotic (Crisi Ultradimensionale 27)]]
+[[ja:マシェード (ポケポケ A3a)]]
+[[zh:灯罩夜菇（A3a）]]

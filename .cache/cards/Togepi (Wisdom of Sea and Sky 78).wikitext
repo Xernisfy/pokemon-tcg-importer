@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Togepi
+|ja name=トゲピー
+|trans name=Togepy
+|species=Togepi
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TogepiWisdomofSeaandSky78.png|illustrator=Sekio|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TogepiWisdomofSeaandSky173.png|illustrator=Terada Tera|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Ho-Oh|rarity=Diamond|rarity count=1|number=078/161}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Ho-Oh|rarity=Star|rarity count=1|number=173/161}}
+}}
+
+'''Togepi''' (Japanese: '''トゲピー''' ''Togepy'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}
+|name=Charm
+|jname=あまえる
+|jtrans=Spoiled Pout
+|damage=
+|effect=During your opponent's next turn, attacks used by the Defending Pokémon do −20 damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Togepi
+|category=Spike Ball 
+|ndex=0175
+|height=1'
+|jheight=0.3
+|weight=3.3
+|jweight=1.5
+|dex=The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.
+|jdex=殻の中に 幸せが たくさん つまっているらしく 優しくされると 幸運を 分け与える という。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=TogepiWisdomofSeaandSky78.png
+|caption1=Common card<br>Illus. [[Sekio]]
+|image2=TogepiWisdomofSeaandSky173.png
+|caption2=Illustration rare card<br>Illus. [[Terada Tera]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Unbroken Bonds|Togepi|136}} from the {{TCG|Unbroken Bonds}} expansion.
+*{{m|Charm}} is a [[move]] in the [[Pokémon games]] that {{p|Togepi}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Togepi (Weisheit von Meer und Himmel 078)]]
+[[es:Togepi (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Togepi (Sagesse entre Ciel et Mer 078)]]
+[[it:Togepi (La Via del Cielo e del Mare 78)]]
+[[ja:トゲピー (ポケポケ A4)]]
+[[zh:波克比（A4）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Muk
+|ja name=ベトベトン
+|trans name=Betbeton
+|species=Muk
+|type=Darkness
+|image=MukCrimsonBlaze46.png
+|illustrator=Scav
+|hp=130
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Grimer
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=046/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Muk''' (Japanese: '''ベトベトン''' ''Betbeton'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Darkness}}
+|name=Gunk Shot
+|jname=ダストシュート
+|jtrans=Dust Shot
+|damage=70
+|effect=Your opponent's Active Pokémon is now Poisoned.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Muk
+|species=Sludge
+|ndex=0089
+|height=3'11"
+|jheight=1.2
+|weight=66.1
+|jweight=30.0
+|dex=They love to gather in smelly areas where sludge accumulates, making the stench around them worse.
+|jdex= ヘドロが たまる くさい 場所を 好んで 集まってくるので あたりは いっそう くさくなる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Brilliant Stars|Muk|85}} from the {{TCG|Brilliant Stars}} expansion.
+*{{m|Gunk Shot}} is a [[move]] in the [[Pokémon games]] that {{p|Muk}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Gold}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sleimok (Feuerrote Flammen 046)]]
+[[fr:Grotadmorv (Embrasement Écarlate 046)]]
+[[it:Muk (Fiamme Cremisi 46)]]
+[[ja:ベトベトン (ポケポケ B1a)]]
+[[zh:臭臭泥（B1a）]]

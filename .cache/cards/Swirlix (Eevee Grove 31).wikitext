@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Swirlix
+|ja name=ペロッパフ
+|trans name=Peroppafu
+|species=Swirlix
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SwirlixEeveeGrove31.png|illustrator=MAHOU|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SwirlixDeluxePackex174.png|illustrator=MAHOU|tab caption=Parallel}}
+|hp=60
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=031/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=173/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=174/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Swirlix''' (Japanese: '''ペロッパフ''' ''Peroppafu'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}
+|name=Sweets Relay
+|jname=スイーツリレー
+|jtrans=Sweets Relay
+|damage=10+
+|effect=If 1 of your Pokémon used {{cat|TCG Pocket cards with Sweets Relay|Sweets Relay}} during your last turn, this attack does 20 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Swirlix
+|category=Cotton Candy 
+|ndex=0684
+|height=1'4"
+|jheight=0.4
+|weight=7.7
+|jweight=3.5
+|dex=It eats its own weight in sugar every day. If it doesn't get enough sugar, it becomes incredibly grumpy.
+|jdex=１日に 食べる 砂糖は 自分の 体重と 同じ。 糖分が 足りないと ひどく 不機嫌になる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=SwirlixEeveeGrove31.png
+|caption1=Standard card<br>Illus. [[MAHOU]]
+|image2=SwirlixDeluxePackex174.png
+|caption2=Parallel foil card<br>Illus. [[MAHOU]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Swirlix|153}} from the {{TCG|Cosmic Eclipse}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flauschling (Evoli-Hain 031)]]
+[[es:Swirlix (Arboleda de Eevee TCG Pocket)]]
+[[fr:Sucroquin (La Clairière d'Évoli 031)]]
+[[it:Swirlix (Il Bosco di Eevee 31)]]
+[[ja:ペロッパフ (ポケポケ A3b)]]
+[[zh:绵绵泡芙（A3b）]]

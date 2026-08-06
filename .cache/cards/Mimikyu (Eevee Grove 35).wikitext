@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mimikyu
+|ja name=ミミッキュ
+|trans name=Mimikkyu
+|species=Mimikyu
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MimikyuEeveeGrove35.png|illustrator=Eri Yamaki|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MimikyuPromo-A113.png|illustrator=Yuka Morii|tab caption=Promo}}
+|hp=70
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=035/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=113/P-A|pack=Vol. 13}}
+}}
+
+'''Mimikyu''' (Japanese: '''ミミッキュ''' ''Mimikkyu'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Try to Imitate
+|jname=まねてみる
+|jtrans=Try Mimicking
+|damage=
+|effect=Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Mimikyu
+|category=Disguise
+|ndex=0778
+|height=8"
+|jheight=0.2
+|weight=1.5
+|jweight=0.7
+|dex=This Pokémon lives in dark places untouched by sunlight. When it appears before humans, it hides itself under a cloth that resembles a Pikachu.
+|jdex=陽の 当たらない 暗がりに 棲む。 人前に 出るときは ピカチュウに 似せた 布で 全身を 隠す。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of five cards that could be pulled from Promo-A Vol. 13 packs; these were made available as part of the [[Raichu ex Drop Event]], which ran from October 6 to 16, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=MimikyuEeveeGrove35.png
+|caption1=Uncommon card<br>Illus. [[Eri Yamaki]]
+|image2=MimikyuPromo-A113.png
+|caption2=Promo card<br>Illus. [[Yuka Morii]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Eevee Grove}} illustration was first featured on {{TCG ID|Team Up|Mimikyu|112}} from the {{TCG|Team Up}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Cosmic Eclipse|Mimikyu|97}} from the {{TCG|Cosmic Eclipse}} expansion.
+*'''Try to Imitate''' is an attack that first appeared on {{TCG ID|Destined Rivals|Ethan's Sudowoodo|93}} from the {{TCG|Destined Rivals}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mimigma (Evoli-Hain 035)]]
+[[es:Mimikyu (Arboleda de Eevee TCG Pocket)]]
+[[fr:Mimiqui (La Clairière d'Évoli 035)]]
+[[it:Mimikyu (Il Bosco di Eevee 35)]]
+[[ja:ミミッキュ (ポケポケ A3b)]]
+[[zh:謎擬Ｑ（A3b）]]

@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Charmeleon
+|ja name=リザード
+|trans name=Lizardo
+|species=Charmeleon
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharmeleonCrimsonBlaze12.png|illustrator=DOM|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharmeleonPromo-B20.png|illustrator=Shiburingaru|tab caption=Promo}}
+|hp=80
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Charmander
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=012/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=020/P-B}}
+}}
+
+'''Charmeleon''' (Japanese: '''リザード''' ''Lizardo'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Ability/Pocket
+|type=Fire
+|name=Ignition
+|jname=イグニッション
+|jtrans=Ignition
+|effect=Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may take a {{e|Fire}} Energy from your Energy Zone and attach it to your Active {{e|Fire}} Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Colorless}}
+|name=Steady Firebreathing
+|jname=ひをはく
+|jtrans=Firebreathing
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Charmeleon
+|species=Flame
+|ndex=0005
+|height=3'7"
+|jheight=1.1
+|weight=41.9
+|jweight=19.0
+|dex=If it becomes agitated during battle, it spouts intense flames, incinerating its surroundings.
+|jdex=戦いで 気持ちが たかぶると 灼熱の 炎を 吹きながら あたりを 燃やしてまわる。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-B Vol. 3 packs; these were made available as part of the [[Mega Latios ex Drop Event]], which ran from January 17 to 27, 2026.
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=CharmeleonCrimsonBlaze12.png
+|caption1=Uncommon card<br>Illus. [[DOM]]
+|image2=CharmeleonPromo-B20.png
+|caption2=Promo card<br>Illus. [[Shiburingaru]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Promo-B}} illustration was first featured on {{TCG ID|Pokémon GO|Charmeleon|9}} from the {{TCG|Pokémon GO}} expansion.
+*'''Steady Firebreathing''' is an attack that first appeared on {{TCG ID|EX Team Magma vs Team Aqua|Team Magma's Houndour|63}} from the {{TCG|EX Team Magma vs Team Aqua}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Glutexo (Feuerrote Flammen 012)]]
+[[es:Charmeleon (Fuego Carmesí TCG Pocket)]]
+[[fr:Reptincel (Embrasement Écarlate 012)]]
+[[it:Charmeleon (Fiamme Cremisi 12)]]
+[[ja:リザード (ポケポケ B1a)]]
+[[zh:火恐龙（B1a）]]

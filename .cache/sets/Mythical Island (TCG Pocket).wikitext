@@ -1,0 +1,417 @@
+{{TCGPocketExpansionPrevNext | prev = Genetic Apex | next = Space-Time Smackdown}}
+{{TCGPocketExpansionInfobox
+|setname=Mythical Island
+|jasetname=幻のいる島
+|jasettrans=Illusory Island
+|setlogo=A1a Set Logo EN.png
+|cards=86 (68 + 18 secret cards)
+|release=December 17, 2024
+|collections=17 (13 + 4 secret)
+|dex missions=11 (10 + 1 secret)
+|deck missions=10
+|decks=5
+|battles=16
+}}
+'''Mythical Island''' (Japanese: '''幻のいる島''' ''Illusory Island'') is the second expansion of cards, and first themed booster pack, in [[Pokémon Trading Card Game Pocket]].
+
+== Information ==
+[[File:AerodactylexMythicalIsland84 artwork.png|thumb|right|200px|Mythical Island as seen on {{TCG ID|Mythical Island|Aerodactyl ex|84}}]]
+'''Mythical Island''' is the first themed booster pack released through [[Pokémon Trading Card Game Pocket]]. With a tropical island setting, this expansion focuses on [[Mythical Pokémon]] such as {{p|Mew}} and {{p|Celebi}}, which appear as {{TCGP|Pokémon ex}}. More characters from [[Generation I]] also make their card debuts in this expansion. In total, Mythical Island contains 86 cards, including five new Pokémon ex and five new Trainer cards; it also marks the first appearance of Pokémon from Generations {{gen|II}} and {{gen|IV}} in the game.
+
+Many of the expansion's [[#Themed Collections|Themed Collections]] allude to locations around the island, and several of the new illustrations featured within them—including {{TCG ID|Mythical Island|Joltik|28}}, {{TCG ID|Mythical Island|Stonjourner|48}}, {{TCG ID|Mythical Island|Weezing|50}}, and {{TCG ID|Mythical Island|Chatot|62}}—feature cameos from Mew, as does the immersive illustration for {{TCG ID|Mythical Island|Celebi ex|3}}.
+
+Mythical Island was released worldwide on December 17, 2024.
+
+=== Setting ===
+The island can be seen from above in {{TCG ID|Mythical Island|Aerodactyl ex|84|Aerodactyl ex}}'s special illustration rare. Areas called Untouched Forest, Tranquil Lake, Scorching Wilderness, Forgotten Ruins, and Tree of Repose are depicted in the cards that make up their respective Themed Collections as well as in the cover art unlocked as a reward for completing them. There may also be an unnamed settlement as depicted in the illustration rares of {{TCG ID|Mythical Island|Dedenne|73}} and {{TCG ID|Mythical Island|Marshadow|74}}.
+
+{{TCGMerchGallery
+|background=00d5cd
+|border=fa00c5
+|image1=TCGP Cover Forgotten Ruins.png
+|caption1=Forgotten Ruins
+|image2=TCGP Cover Scorching Wilderness.png
+|caption2=Scorching Wilderness
+|image3=TCGP Cover Tranquil Lake.png
+|caption3=Tranquil Lake
+|image5=TCGP Cover Untouched Forest.png
+|caption5=Untouched Forest
+|image6=TCGP Cover Tree of Repose.png
+|caption6=Tree of Repose
+|image7=TCGP Cover Mythical Island Mew.png
+|caption7=Mythical Island
+}}
+
+== Card list ==
+{{TCG Set List/header|tablecol=00d5cd|bordercol=fa00c5|cellcol=c5ecf4}}
+|-
+| 001/068 || {{TCG ID|Mythical Island|Exeggcute|1}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 002/068 || {{TCG ID|Mythical Island|Exeggutor|2}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 003/068 || {{TCG ID|Mythical Island|Celebi ex|3|Celebi}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 004/068 || {{TCG ID|Mythical Island|Snivy|4}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 005/068 || {{TCG ID|Mythical Island|Servine|5}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 006/068 || {{TCG ID|Mythical Island|Serperior|6}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 007/068 || {{TCG ID|Mythical Island|Morelull|7}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 008/068 || {{TCG ID|Mythical Island|Shiinotic|8}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 009/068 || {{TCG ID|Mythical Island|Dhelmise|9}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 010/068 || {{TCG ID|Mythical Island|Ponyta|10}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 011/068 || {{TCG ID|Mythical Island|Rapidash|11}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 012/068 || {{TCG ID|Mythical Island|Magmar|12}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 013/068 || {{TCG ID|Mythical Island|Larvesta|13}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 014/068 || {{TCG ID|Mythical Island|Volcarona|14}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 015/068 || {{TCG ID|Mythical Island|Salandit|15}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 016/068 || {{TCG ID|Mythical Island|Salazzle|16}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 017/068 || {{TCG ID|Mythical Island|Magikarp|17}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 018/068 || {{TCG ID|Mythical Island|Gyarados ex|18|Gyarados}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 019/068 || {{TCG ID|Mythical Island|Vaporeon|19}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 020/068 || {{TCG ID|Mythical Island|Finneon|20}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 021/068 || {{TCG ID|Mythical Island|Lumineon|21}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 022/068 || {{TCG ID|Mythical Island|Chewtle|22}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 023/068 || {{TCG ID|Mythical Island|Drednaw|23}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 024/068 || {{TCG ID|Mythical Island|Cramorant|24}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 025/068 || {{TCG ID|Mythical Island|Pikachu|25}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 026/068 || {{TCG ID|Mythical Island|Raichu|26}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 027/068 || {{TCG ID|Mythical Island|Electabuzz|27}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 028/068 || {{TCG ID|Mythical Island|Joltik|28}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 029/068 || {{TCG ID|Mythical Island|Galvantula|29}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 030/068 || {{TCG ID|Mythical Island|Dedenne|30}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 031/068 || {{TCG ID|Mythical Island|Mew|31}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 032/068 || {{TCG ID|Mythical Island|Mew ex|32|Mew}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 033/068 || {{TCG ID|Mythical Island|Sigilyph|33}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 034/068 || {{TCG ID|Mythical Island|Elgyem|34}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 035/068 || {{TCG ID|Mythical Island|Beheeyem|35}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 036/068 || {{TCG ID|Mythical Island|Flabébé|36}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 037/068 || {{TCG ID|Mythical Island|Floette|37}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 038/068 || {{TCG ID|Mythical Island|Florges|38}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 039/068 || {{TCG ID|Mythical Island|Swirlix|39}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 040/068 || {{TCG ID|Mythical Island|Slurpuff|40}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 041/068 || {{TCG ID|Mythical Island|Mankey|41}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 042/068 || {{TCG ID|Mythical Island|Primeape|42}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 043/068 || {{TCG ID|Mythical Island|Geodude|43}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 044/068 || {{TCG ID|Mythical Island|Graveler|44}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 045/068 || {{TCG ID|Mythical Island|Golem|45}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 046/068 || {{TCG ID|Mythical Island|Aerodactyl ex|46|Aerodactyl}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 047/068 || {{TCG ID|Mythical Island|Marshadow|47}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 048/068 || {{TCG ID|Mythical Island|Stonjourner|48}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 049/068 || {{TCG ID|Mythical Island|Koffing|49}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 050/068 || {{TCG ID|Mythical Island|Weezing|50}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 051/068 || {{TCG ID|Mythical Island|Purrloin|51}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 052/068 || {{TCG ID|Mythical Island|Liepard|52}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 053/068 || {{TCG ID|Mythical Island|Venipede|53}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 054/068 || {{TCG ID|Mythical Island|Whirlipede|54}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 055/068 || {{TCG ID|Mythical Island|Scolipede|55}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 056/068 || {{TCG ID|Mythical Island|Druddigon|56}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 057/068 || {{TCG ID|Mythical Island|Pidgey|57}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 058/068 || {{TCG ID|Mythical Island|Pidgeotto|58}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 059/068 || {{TCG ID|Mythical Island|Pidgeot ex|59|Pidgeot}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 060/068 || {{TCG ID|Mythical Island|Tauros|60}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 061/068 || {{TCG ID|Mythical Island|Eevee|61}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 062/068 || {{TCG ID|Mythical Island|Chatot|62}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 063/068 || {{TCG ID|Mythical Island|Old Amber|63}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 064/068 || {{TCG ID|Mythical Island|Pokémon Flute|64}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 065/068 || {{TCG ID|Mythical Island|Mythical Slab|65}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 066/068 || {{TCG ID|Mythical Island|Budding Expeditioner|66}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 067/068 || {{TCG ID|Mythical Island|Blue|67}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 068/068 || {{TCG ID|Mythical Island|Leaf|68}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 069/068 || {{TCG ID|Mythical Island|Exeggutor|69}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}}
+|-
+| 070/068 || {{TCG ID|Mythical Island|Serperior|70}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}}
+|-
+| 071/068 || {{TCG ID|Mythical Island|Salandit|71}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|1}}
+|-
+| 072/068 || {{TCG ID|Mythical Island|Vaporeon|72}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}}
+|-
+| 073/068 || {{TCG ID|Mythical Island|Dedenne|73}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|1}}
+|-
+| 074/068 || {{TCG ID|Mythical Island|Marshadow|74}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|1}}
+|-
+| 075/068 || {{TCG ID|Mythical Island|Celebi ex|75|Celebi}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}}
+|-
+| 076/068 || {{TCG ID|Mythical Island|Gyarados ex|76|Gyarados}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}}
+|-
+| 077/068 || {{TCG ID|Mythical Island|Mew ex|77|Mew}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|2}}
+|-
+| 078/068 || {{TCG ID|Mythical Island|Aerodactyl ex|78|Aerodactyl}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}}
+|-
+| 079/068 || {{TCG ID|Mythical Island|Pidgeot ex|79|Pidgeot}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|2}}
+|-
+| 080/068 || {{TCG ID|Mythical Island|Budding Expeditioner|80}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 081/068 || {{TCG ID|Mythical Island|Blue|81}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 082/068 || {{TCG ID|Mythical Island|Leaf|82}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 083/068 || {{TCG ID|Mythical Island|Mew ex|83|Mew}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|2}}
+|-
+| 084/068 || {{TCG ID|Mythical Island|Aerodactyl ex|84|Aerodactyl}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}}
+|-
+| 085/068 || {{TCG ID|Mythical Island|Celebi ex|85|Celebi}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|3}}
+|-
+| 086/068 || {{TCG ID|Mythical Island|Mew ex|86|Mew}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Crown|1}}
+|}
+
+== Missions ==
+=== Dex Missions ===
+Mythical Island has 10 regular {{DL|Mission (TCG Pocket)|Dex Missions}} and one hidden Dex Mission:
+
+{{TCGPocketMission/Header|reward=yes|bordercol=fa00c5|tablecol=00d5cd}}
+{{TCGPocketMission/Entry|mission=Register 5 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1a|Emblem Ticket (Mythical Island)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 10 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1a|Emblem Ticket (Mythical Island)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 15 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1a|Emblem Ticket (Mythical Island)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 20 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1a|Emblem Ticket (Mythical Island)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 25 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1a|Emblem Ticket (Mythical Island)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 30 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1a|Emblem Ticket (Mythical Island)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 35 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1a|Emblem Ticket (Mythical Island)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 40 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1a|Emblem Ticket (Mythical Island)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 50 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1a|Emblem Ticket (Mythical Island)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 60 cards in the card dex|reward={{TCGPocketItem|Emblem Ticket A1a|Emblem Ticket (Mythical Island)|num=5}}}}
+|-
+! colspan="2" | Secret Mission
+{{TCGPocketMission/Entry|mission=Register 68 cards in the card dex<br>''(requires all 68 main set cards;<br>secret cards do not count)''|reward={{TCGPocketItem|Mythical Island Mew|Mythical Island: Mew (profile icon)|type=Profile Icon}}|lastitem=yes}}
+|}
+
+=== Deck Missions ===
+Mythical Island has five [[deck]]s and 10 {{DL|Mission (TCG Pocket)|Deck Missions}}. Each deck has two missions:
+
+{{TCGPocketMission/Header|reward=yes|bordercol=fa00c5|tablecol=00d5cd}}
+{{TCGPocketMission/Entry|mission=Collect the highlight card(s) for [deck name]|reward={{TCGPocketItem|Rental Deck|[deck name] rental deck}}}}
+{{TCGPocketMission/Entry|mission=Collect cards for [deck name]|reward={{TCGPocketItem|Theme Deck List|[deck name] theme deck list}}|lastitem=yes}}
+|}
+
+The five available decks related to Mythical Island are:
+
+{{TCGPocketExpansionDeck/Header|bordercol=fa00c5|tablecol=00d5cd}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Celebi ex Deck|Mythical Island}}|{{e|Grass}}|{{TCG ID|Mythical Island|Celebi ex|3}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Gyarados ex Deck|Mythical Island}}|{{e|Water}}|{{TCG ID|Mythical Island|Gyarados ex|18}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mew ex Deck|Mythical Island}}|{{e|Psychic}}|{{TCG ID|Mythical Island|Mew ex|32}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Aerodactyl ex Deck|Mythical Island}}|{{e|Fighting}}|{{TCG ID|Mythical Island|Aerodactyl ex|46}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Blue & Pidgeot ex Deck|Mythical Island}}|{{e|Colorless}}{{e|Grass}}{{e|Fighting}}|{{TCG ID|Mythical Island|Blue|67}}, {{TCG ID|Mythical Island|Pidgeot ex|59}}|lastitem=yes}}
+|}
+
+=== Themed Collections ===
+Mythical Island has 13 regular {{DL|Mission (TCG Pocket)|Themed Collections}} and four hidden Themed Collections:
+
+{{TCGPocketCollection/Header|bordercol=fa00c5|tablecol=00d5cd}}
+{{TCGPocketCollection/Entry|collection=Untouched Forest
+|cards=5 in any combination of:<br>{{TCG ID|Mythical Island|Exeggutor|2}} (#002 or #069)<br>{{TCG ID|Mythical Island|Shiinotic|8}} (#008)<br>{{TCG ID|Mythical Island|Raichu|26}} (#026)<br>{{TCG ID|Mythical Island|Joltik|28}} (#028)<br>{{TCG ID|Mythical Island|Mankey|41}} (#041)<br>{{TCG ID|Mythical Island|Liepard|52}} (#052)<br>{{TCG ID|Mythical Island|Venipede|53}} (#053)<br>{{TCG ID|Mythical Island|Chatot|62}} (#062)
+|reward={{TCGPocketItem|Emblem Ticket A1a|Emblem Ticket (Mythical Island) ×5}}<br>{{TCGPocketItem|Cover Untouched Forest|Untouched Forest (cover)}}
+}}
+{{TCGPocketCollection/Entry|collection=Tranquil Lake
+|cards=7 in any combination of:<br>{{TCG ID|Mythical Island|Rapidash|11}} (#011)<br>{{TCG ID|Mythical Island|Magikarp|17}} (#017)<br>{{TCG ID|Mythical Island|Gyarados ex|18}} (#018 or #076)<br>{{TCG ID|Mythical Island|Drednaw|23}} (#023)<br>{{TCG ID|Mythical Island|Cramorant|24}} (#024)
+|reward={{TCGPocketItem|Emblem Ticket A1a|Emblem Ticket (Mythical Island) ×13}}<br>{{TCGPocketItem|Cover Tranquil Lake|Tranquil Lake (cover)}}
+}}
+{{TCGPocketCollection/Entry|collection=Scorching Wilderness
+|cards=10 in any combination of:<br>{{TCG ID|Mythical Island|Magmar|12}} (#012)<br>{{TCG ID|Mythical Island|Volcarona|14}} (#014)<br>{{TCG ID|Mythical Island|Salandit|15}} (#015 or #071)<br>{{TCG ID|Mythical Island|Geodude|43}} (#043)<br>{{TCG ID|Mythical Island|Weezing|50}} (#050)
+|reward={{TCGPocketItem|Emblem Ticket A1a|Emblem Ticket (Mythical Island) ×7}}<br>{{TCGPocketItem|Cover Scorching Wilderness|Scorching Wilderness (cover)}}
+}}
+{{TCGPocketCollection/Entry|collection=Forgotten Ruins
+|cards={{TCG ID|Mythical Island|Mythical Slab|65}} (#065)<br>and 9 in any combination of:<br>{{TCG ID|Mythical Island|Serperior|6}} (#006 or #070)<br>{{TCG ID|Mythical Island|Beheeyem|35}} (#035)<br>{{TCG ID|Mythical Island|Stonjourner|48}} (#048)
+|reward={{TCGPocketItem|Emblem Ticket A1a|Emblem Ticket (Mythical Island) ×15}}<br>{{TCGPocketItem|Cover Forgotten Ruins|Forgotten Ruins (cover)}}
+}}
+{{TCGPocketCollection/Entry|collection=Catching Bugs
+|cards={{TCG ID|Mythical Island|Larvesta|13}} (#013)<br>{{TCG ID|Mythical Island|Joltik|28}} (#028)<br>{{TCG ID|Mythical Island|Venipede|53}} (#53)<br>{{TCG ID|Mythical Island|Whirlipede|54}} (#54)<br>{{TCG ID|Mythical Island|Volcarona|14}} (#014), {{TCG ID|Mythical Island|Galvantula|29}} (#029), or {{TCG ID|Mythical Island|Scolipede|55}} (#055)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A1a|Emblem Ticket (Mythical Island) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon That Fly
+|cards={{TCG ID|Mythical Island|Volcarona|14}} (#014) or {{TCG ID|Mythical Island|Floette|37}} (#037)<br>{{TCG ID|Mythical Island|Gyarados ex|18}} (#018) or {{TCG ID|Mythical Island|Chatot|62}} (#062)<br>{{TCG ID|Mythical Island|Cramorant|24}} (#024) or {{TCG ID|Mythical Island|Aerodactyl ex|46}} (#046)<br>{{TCG ID|Mythical Island|Sigilyph|33}} (#033) or {{TCG ID|Mythical Island|Flabébé|36}} (#036)<br>{{TCG ID|Mythical Island|Pidgey|57}} (#057), {{TCG ID|Mythical Island|Pidgeotto|58}} (#058), or {{TCG ID|Mythical Island|Pidgeot ex|59}} (#059)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A1a|Emblem Ticket (Mythical Island) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Attacks with 20 Damage
+|cards={{TCG ID|Mythical Island|Morelull|7}} (#007) or {{TCG ID|Mythical Island|Finneon|20}} (#020)<br>{{TCG ID|Mythical Island|Mew|31}} (#031) or {{TCG ID|Mythical Island|Elgyem|34}} (#034)<br>{{TCG ID|Mythical Island|Mew ex|32}} (#032) or {{TCG ID|Mythical Island|Swirlix|39}} (#039)<br>{{TCG ID|Mythical Island|Purrloin|51}} (#051) or {{TCG ID|Mythical Island|Venipede|53}} (#053)<br>{{TCG ID|Mythical Island|Whirlipede|54}} (#054) or {{TCG ID|Mythical Island|Pidgey|57}} (#057)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A1a|Emblem Ticket (Mythical Island) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Small Pokémon
+|cards={{TCG ID|Mythical Island|Morelull|7}} (#007) or {{TCG ID|Mythical Island|Pidgey|57}} (#057)<br>{{TCG ID|Mythical Island|Chewtle|22}} (#022)<br>{{TCG ID|Mythical Island|Flabébé|36}} (#036) or {{TCG ID|Mythical Island|Floette|37}} (#037)<br>{{TCG ID|Mythical Island|Joltik|28}} (#028) or {{TCG ID|Mythical Island|Dedenne|30}} (#030)<br>{{TCG ID|Mythical Island|Eevee|61}} (#061) or {{TCG ID|Mythical Island|Chatot|62}} (#062)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A1a|Emblem Ticket (Mythical Island) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Tree of Repose
+|cards={{TCG ID|Mythical Island|Chewtle|22}} (#022)<br>{{TCG ID|Mythical Island|Dedenne|30}} (#030)<br>{{TCG ID|Mythical Island|Primeape|42}} (#042)<br>{{TCG ID|Mythical Island|Pidgeotto|58}} (#058)
+|reward={{TCGPocketItem|Cover Tree of Repose|Tree of Repose (cover)}}
+}}
+{{TCGPocketCollection/Entry|collection=Flower Travelers
+|cards={{TCG ID|Mythical Island|Flabébé|36}} (#036)<br>{{TCG ID|Mythical Island|Floette|37}} (#037)<br>{{TCG ID|Mythical Island|Florges|38}} (#038)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A1a|Emblem Ticket (Mythical Island) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Use pack stamina to open 60 Mythical Island booster packs
+|cards=—
+|reward={{TCGPocketItem|Playmat Mythical Island Mew|Mythical Island: Mew (playmat)}}<br>{{TCGPocketItem|Sleeve Mythical Island Mew|Mythical Island: Mew (card sleeve)}}<br>{{TCGPocketItem|Mew|Mew (Pokémon coin)|type=Coin}}<br>{{TCGPocketItem|Cover Mythical Island Mew|Mythical Island: Mew (cover)}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Mew cards
+|cards={{TCG ID|Mythical Island|Mew|31}} (#031) ×3
+|reward={{TCGPocketItem|Mew|Mew (profile icon)|type=Profile Icon}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Blue cards
+|cards={{TCG ID|Mythical Island|Blue|67}} (#067 or #081) ×3
+|reward={{TCGPocketItem|Blue|Blue (profile icon)|type=Profile Icon}}
+}}
+|-
+! colspan="3" | Secret Missions
+{{TCGPocketCollection/Entry|collection=Mythical Island Museum 1
+|cards={{TCG ID|Mythical Island|Exeggutor|69}} (#069)<br>{{TCG ID|Mythical Island|Serperior|70}} (#070)<br>{{TCG ID|Mythical Island|Salandit|71}} (#071)<br>{{TCG ID|Mythical Island|Vaporeon|72}} (#072)<br>{{TCG ID|Mythical Island|Dedenne|73}} (#073)<br>{{TCG ID|Mythical Island|Marshadow|74}} (#074)
+|reward={{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Mythical Island Museum 2
+|cards={{TCG ID|Mythical Island|Mew ex|83}} (#083)<br>{{TCG ID|Mythical Island|Aerodactyl ex|84}} (#084)
+|reward={{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Mew ex Museum
+|cards={{TCG ID|Mythical Island|Mew ex|32}} (#032)<br>{{TCG ID|Mythical Island|Mew ex|83}} (#083)<br>{{TCG ID|Mythical Island|Mew ex|77}} (#077)<br>{{TCG ID|Mythical Island|Mew ex|86}} (#086)<br>
+|reward={{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Mythical Island Tale of Adventure
+|cards={{TCG ID|Mythical Island|Budding Expeditioner|66}} (#066)<br>{{TCG ID|Mythical Island|Mythical Slab|65}} (#065)<br>{{TCG ID|Mythical Island|Mew ex|83}} (#083)<br>{{TCG ID|Mythical Island|Celebi ex|85}} (#085)<br>
+|reward={{TCGPocketItem|Celebi|Celebi (emblem)|type=Emblem}}
+|lastitem=yes
+}}
+|}
+
+== Offering rates ==
+The following table outlines the offering rates for the Mythical Island booster pack.
+
+Regular packs have a 99.95% chance of appearing. Rare packs have a 0.05% chance of appearing.
+
+{{TCGPocketRates/Header|tablecol=00d5cd|bordercol=fa00c5|cellcol=c5ecf4}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 3.125% || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 3.913% || 2.608% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.625% || 2.500% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.333% || 1.332% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.428% || 1.714% || 5.555%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.050% || 0.200% || 5.555%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.888% || 5.555%
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.040% || 0.160% || style="border-bottom-right-radius:5px" | 5.555%
+|}
+
+== Solo battles ==
+{{main|List of Mythical Island solo battles in Pokémon TCG Pocket}}
+
+== Gallery ==
+=== Key artwork ===
+{{TCGMerchGallery
+|background=00d5cd
+|border=fa00c5
+|image1=A1a Key Art.png
+|size1=400px
+|caption1=Key artwork
+}}
+
+=== Pack artwork ===
+{{TCGMerchGallery
+|background=00d5cd
+|border=fa00c5
+|image1=A1a Booster EN.png
+|caption1=English booster pack
+}}
+
+=== Pack logo ===
+{{TCGMerchGallery
+|background=00d5cd
+|border=fa00c5
+|image1=A1a Pack Logo EN.png
+|caption1=English logo
+|image5=A1a Logo JA.png
+|caption5=Japanese logo
+}}
+
+== In other languages ==
+{{Langtable|color=00d5cd|bordercolor=fa00c5
+|ja=幻のいる島 ''Maboroshi no Iru Shima''
+|zh_yue=幻遊島 ''Waahnyàuh Dóu''
+|zh_cmn=幻遊島 ''Huànyóu Dǎo''
+|fr=L’Île Fabuleuse
+|de=Mysteriöse Insel
+|it=L'Isola Misteriosa
+|ko=환상이 있는 섬 ''Hwansang-i Inneun Seom''
+|pt_br=Ilha Mítica
+|es=La Isla Singular
+}}
+
+== Related articles ==
+{{TCGPocketNavigation}}
+{{Regions|TCG Psychic}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[Category:TCG Regions]]
+
+[[de:Mysteriöse Insel (TCG Pocket)]]
+[[es:La Isla Singular (TCG Pocket)]]
+[[fr:L'Île Fabuleuse]]
+[[it:L'Isola Misteriosa (GCC Pocket)]]
+[[ja:幻のいる島]]
+[[zh:幻遊島（TCGP）]]

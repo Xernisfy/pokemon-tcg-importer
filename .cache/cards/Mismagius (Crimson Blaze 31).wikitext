@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mismagius
+|ja name=ムウマージ
+|trans name=Mumargi
+|species=Mismagius
+|type=Psychic
+|image=MismagiusCrimsonBlaze31.png
+|illustrator=Ligton
+|hp=90
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Misdreavus
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=031/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Mismagius''' (Japanese: '''ムウマージ''' ''Mumargi'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Stored Power
+|jname=アシストパワー
+|jtrans=Assist Power
+|damage=30
+|effect=Move all Energy attached to this Pokémon to 1 of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Mismagius
+|species=Magical
+|ndex=0429
+|height=2'11"
+|jheight=0.9
+|weight=9.7
+|jweight=4.4
+|dex=Its cries sound like incantations to torment the foe. It appears where you least expect it.
+|jdex=呪文のような 怪しい 鳴き声で 相手を 苦しめる。 神出鬼没の ポケモン。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Astral Radiance|Mismagius|59}} from the {{TCG|Astral Radiance}} expansion.
+*{{m|Stored Power}} is a [[move]] in the [[Pokémon games]] that {{p|Mismagius}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Traunmagil (Feuerrote Flammen 031)]]
+[[fr:Magirêve (Embrasement Écarlate 031)]]
+[[it:Mismagius (Fiamme Cremisi 31)]]
+[[ja:ムウマージ (ポケポケ B1a)]]
+[[zh:梦妖魔（B1a）]]

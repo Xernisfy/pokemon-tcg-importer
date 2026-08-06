@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Arbok
+|ja name=アーボック
+|trans name=Arbok
+|species=Arbok
+|type=Darkness
+|image=ArbokShiningRevelry46.png
+|illustrator=Midori Harada
+|hp=110
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Ekans
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=046/072|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Arbok''' (Japanese: '''アーボック''' ''Arbok'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Colorless}}
+|name=Venomous Fang
+|jname=どくのキバ
+|jtrans=Poison Fang
+|damage=70
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Arbok
+|category=Cobra 
+|ndex=0024
+|height=11'6"
+|jheight=3.5
+|weight=143.3
+|jweight=65.0
+|dex=After stunning its opponents with the pattern on its stomach, it quickly wraps them up in its body and waits for them to stop moving.
+|jdex=お腹の 模様で ひるませると 素早く 身体で 締め上げて 相手の 鼓動が 止まるのを 待つ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Sandstorm|Arbok|29}} from the {{TCG|EX Sandstorm}} expansion.
+*'''Venomous Fang''' is an attack that first appeared on {{TCG ID|Furious Fists|Drapion|65}} from the {{TCG|Furious Fists}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Arbok (Glänzendes Festival 046)]]
+[[es:Arbok (Festival Brillante TCG Pocket)]]
+[[fr:Arbok (Réjouissances Rayonnantes 046)]]
+[[it:Arbok (Tripudio Splendente 46)]]
+[[ja:アーボック (ポケポケ A2b)]]
+[[zh:阿柏怪（A2b）]]

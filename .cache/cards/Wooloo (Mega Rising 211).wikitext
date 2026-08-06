@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wooloo
+|ja name=ウールー
+|trans name=Wooluu
+|species=Wooloo
+|type=Colorless
+|image=WoolooMegaRising211.png
+|illustrator=Yoko Hishida
+|hp=70
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Altaria|rarity=Diamond|rarity count=1|number=211/226}}
+}}
+
+'''Wooloo''' (Japanese: '''ウールー''' ''Wooluu'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Continuous Tumble
+|jname=れんぞくころがり
+|jtrans=Consecutive Tumble
+|damage=40×
+|effect=Flip a coin until you get tails. This attack does 40 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Wooloo
+|species=Sheep
+|ndex=0831
+|height=2'
+|jheight=0.6
+|weight=13.2
+|jweight=6.0
+|dex=If its fleece grows too long, Wooloo won't be able to move. Cloth made with the wool of this Pokémon is surprisingly strong.
+|jdex=毛が 伸びすぎると 動けない。 ウールーの 体毛で 織られた 布は 驚くほど 丈夫。
+}}
+
+==Trivia==
+===Origin===
+*'''Continuous Tumble''' is an attack that first appeared on {{TCG ID|Aquapolis|Miltank|94}} from the {{TCG|Aquapolis}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wolly (Mega-Aufstieg 211)]]
+[[es:Wooloo (Megaascenso TCG Pocket)]]
+[[fr:Moumouton (Méga-Ascension 211)]]
+[[it:Wooloo (Mega Ascesa 211)]]
+[[ja:ウールー (ポケポケ B1)]]
+[[zh:毛辫羊（B1）]]

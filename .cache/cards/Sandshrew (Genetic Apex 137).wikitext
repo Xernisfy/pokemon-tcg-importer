@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sandshrew
+|ja name=サンド
+|trans name=Sand
+|species=Sandshrew
+|type=Fighting
+|image=SandshrewGeneticApex137.png
+|illustrator=Miki Tanaka
+|hp=70
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=137/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Sandshrew''' (Japanese: '''サンド''' ''Sand'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Scratch
+|jname=ひっかく
+|jtrans=Scratch
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Sandshrew
+|species=Mouse
+|ndex=0027
+|height=2'
+|jheight=0.6
+|weight=26.5
+|jweight=12.0
+|dex=It loves to bathe in the grit of dry, sandy areas. By sand bathing, the Pokémon rids itself of dirt and moisture clinging to its body.
+|jdex=乾燥した　砂地で　砂浴びを するのが　好き｡　体に　ついた 汚れと　水気を　落とすのだ｡
+}}
+
+==Trivia==
+[[Miki Tanaka]] illustrated both a {{TCG ID|Vending|Sandshrew|S2}} card and a {{TCG ID|Skyridge|Sandslash|93}} card for the [[Pokémon Trading Card Game]]; though the cards did not originally release together in the TCG, their illustrations were later included alongside each other in Pokémon Trading Card Game Pocket's {{TCGP|Genetic Apex}} expansion.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Vending|Sandshrew|S2}} from {{TCG|Expansion Sheet 2}}, which was only released in Japan.
+*{{m|Scratch}} is a [[move]] in the [[Pokémon games]] that {{p|Sandshrew}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sandan (Unschlagbare Gene 137)]]
+[[es:Sandshrew (Genes Formidables TCG Pocket)]]
+[[fr:Sabelette (Puissance Génétique 137)]]
+[[it:Sandshrew (Geni Supremi 137)]]
+[[ja:サンド (ポケポケ A1)]]
+[[zh:穿山鼠（A1）]]

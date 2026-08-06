@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Probopass {{TCGP Icon|ex}}
+|ja name=ダイノーズ{{TCGP Icon|ex}}
+|trans name=Dainose {{TCGP Icon|ex}}
+|species=Probopass
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ProbopassexTriumphantLight57.png|illustrator=PLANETA Tsuji|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ProbopassexTriumphantLight85.png|illustrator=PLANETA Tsuji|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ProbopassexTriumphantLight94.png|illustrator=Masa|illustrator link=Masa (illustrator)|tab caption=Special Illustration Rare}}
+|hp=160
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Nosepass
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=057/075|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=085/075|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=094/075|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=253/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Probopass ex''' (Japanese: '''ダイノーズex''' ''Dainose ex'') is a {{ct|Metal}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Colorless}}
+|name=Defensive Unit
+|jname=プロテクトユニット
+|jtrans=Protect Unit
+|damage=90
+|effect=During your opponent's next turn, this Pokémon takes −20 damage from attacks.
+}}
+{{Cardtext/Pocket ex
+|type=Metal
+|ndex=0476
+|name=Probopass
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=ProbopassexTriumphantLight57.png
+|caption1=Double rare card<br>Illus. [[PLANETA Tsuji]]
+|image2=ProbopassexTriumphantLight85.png
+|caption2=Super rare card<br>Illus. [[PLANETA Tsuji]]
+|image3=ProbopassexTriumphantLight94.png
+|caption3=Special illustration rare card<br>Illus. [[Masa (illustrator)|Masa]]
+}}
+
+==Trivia==
+===Origin===
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Voluminas-ex (Licht des Triumphs 057)]]
+[[es:Probopass ex (Luz Triunfal TCG Pocket)]]
+[[fr:Tarinorme-ex (Lumière Triomphale 057)]]
+[[it:Probopass-ex (Luce Trionfale 57)]]
+[[ja:ダイノーズex (ポケポケ A2a)]]
+[[zh:大朝北鼻ex（A2a）]]

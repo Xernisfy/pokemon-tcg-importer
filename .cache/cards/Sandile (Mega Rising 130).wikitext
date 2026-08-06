@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sandile
+|ja name=メグロコ
+|trans name=Meguroco
+|species=Sandile
+|type=Fighting
+|image=SandileMegaRising130.png
+|illustrator=Masakazu Fukuda
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=130/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+}}
+
+'''Sandile''' (Japanese: '''メグロコ''' ''Meguroco'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Gnaw
+|jname=かじる
+|jtrans=Gnaw
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Sandile
+|category=Desert Croc
+|ndex=0551
+|height=2'04"
+|jheight=0.7
+|weight=33.5
+|jweight=15.2
+|dex=They live hidden under hot desert sands in order to keep their body temperature from dropping.
+|jdex=たいおんを　さげないように　さばくの　あつい　すなに　もぐり　かくれながら　せいかつ　している。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Flashfire|Sandile|56}} from the {{TCG|Flashfire}} expansion.
+*'''Gnaw''' is an attack that first appeared on {{TCG ID|Base Set|Pikachu|58}} from the {{TCG|Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ganovil (Mega-Aufstieg 130)]]
+[[es:Sandile (Megaascenso TCG Pocket)]]
+[[fr:Mascaïman (Méga-Ascension 130)]]
+[[it:Sandile (Mega Ascesa 130)]]
+[[ja:メグロコ (ポケポケ B1)]]
+[[zh:黑眼鳄（B1）]]

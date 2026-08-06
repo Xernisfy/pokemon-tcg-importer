@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Combee
+|ja name=ミツハニー
+|trans name=Mitsuhoney
+|species=Combee
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CombeeSpace-TimeSmackdown17.png|illustrator=Yukiko Baba|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CombeeSpace-TimeSmackdown157.png|illustrator=Shibuzoh.|tab caption=Illustration Rare}}
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=017/155|pack=Dialga|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=157/155|pack=Dialga|rarity=Star|rarity count=1}}
+}}
+
+'''Combee''' (Japanese: '''ミツハニー''' ''Mitsuhoney'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Call for Family
+|jname=なかまをよぶ
+|jtrans=Call Partner
+|damage=
+|effect=Put 1 random Basic Pokémon from your deck onto your Bench.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Combee
+|species=Tiny Bee
+|ndex=0415
+|height=1'
+|jheight=0.3
+|weight=12.1
+|jweight=5.5
+|dex=At night, Combee sleep in a group of about a hundred, packed closely together in a lump.
+|jdex=夜に なると １００匹 ほどの ミツハニーが 寄り添い合って 大きな かたまりで 眠る。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=CombeeSpace-TimeSmackdown17.png
+|caption1=Common card<br>Illus. [[Yukiko Baba]]
+|image2=CombeeSpace-TimeSmackdown157.png
+|caption2=Illustration rare card<br>Illus. [[Shibuzoh.]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Plasma Storm|Combee|4}} from the {{TCG|Plasma Storm}} expansion.
+*'''Call for Family''' is an attack that first appeared on {{TCG ID|Jungle|Bellsprout|49}} and {{TCG ID|Jungle|Nidoran♀|57}}, both from the {{TCG|Jungle}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wadribie (Kollision von Raum und Zeit 017)]]
+[[es:Combee (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Apitrini (Choc Spatio-Temporel 017)]]
+[[it:Combee (Scontro Spaziotemporale 17)]]
+[[ja:ミツハニー (ポケポケ A2)]]
+[[zh:三蜜蜂（A2）]]

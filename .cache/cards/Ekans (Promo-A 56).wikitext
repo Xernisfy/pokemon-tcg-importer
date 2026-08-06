@@ -1,0 +1,63 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ekans
+|ja name=アーボ
+|trans name=Arbo
+|species=Ekans
+|type=Darkness
+|image=EkansPromo-A56.png
+|illustrator=Krgc
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=056/P-A|pack=Vol. 6}}
+}}
+
+'''Ekans''' (Japanese: '''アーボ''' ''Arbo'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Poison Sting
+|jname=どくばり
+|jtrans=Poison Needle
+|damage=
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Ekans
+|category=Snake 
+|ndex=0023
+|height=6'7"
+|jheight=2
+|weight=15.2
+|jweight=6.9
+|dex=By dislocating its jaw, it can swallow prey larger than itself. After a meal, it curls up and rests.
+|jdex=顎を　外すことで　自分より 大きな　獲物も　丸呑みに　する｡ 食後は　身体を　丸め　休む｡
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 6 packs; these were made available as part of the [[Pawmot Drop Event]], which ran from April 7 to 17, 2025.
+
+==Trivia==
+This is the only card in Pokémon TCG Pocket where the Drop Event promo icon appears on the left side of the art box, instead of the right side.
+===Origin===
+*{{m|Poison Sting}} is a [[move]] in the [[Pokémon games]] that {{p|Ekans}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rettan (PROMO-A 056)]]
+[[es:Ekans (Promo-A 56 TCG Pocket)]]
+[[fr:Abo (Promo-A 056)]]
+[[it:Ekans (Promo-A 56)]]
+[[ja:アーボ (ポケポケ P-A)]]
+[[zh:阿柏蛇（P-A）]]

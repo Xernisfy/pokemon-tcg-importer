@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Murkrow
+|ja name=ヤミカラス
+|trans name=Yamikarasu
+|species=Murkrow
+|type=Darkness
+|image=MurkrowMegaRising148.png
+|illustrator=KEIICHIRO ITO
+|hp=70
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=148/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+}}
+
+'''Murkrow''' (Japanese: '''ヤミカラス''' ''Yamikarasu'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Glide
+|jname=かっくう
+|jtrans=Gliding
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Murkrow
+|category=Darkness
+|ndex=0198
+|height=1'8"
+|jheight=0.5
+|weight=4.6
+|jweight=2.1
+|dex=If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.
+|jdex=ヤミカラスを 見かけて 不用意に 後を つけていくと 迷わされ 山道に 置いてけぼりに される。
+}}
+
+==Trivia==
+===Origin===
+*'''Glide''' is an attack that first appeared on {{TCG ID|EX Delta Species|Swellow|32}} from the {{TCG|EX Delta Species}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kramurx (Mega-Aufstieg 148)]]
+[[es:Murkrow (Megaascenso TCG Pocket)]]
+[[fr:Cornèbre (Méga-Ascension 148)]]
+[[it:Murkrow (Mega Ascesa 148)]]
+[[ja:ヤミカラス (ポケポケ B1)]]
+[[zh:黑暗鸦（B1）]]

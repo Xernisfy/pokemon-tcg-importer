@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mankey
+|ja name=マンキー
+|trans name=Mankey
+|species=Mankey
+|type=Fighting
+|image=MankeyGeneticApex141.png
+|illustrator=Kanako Eo
+|hp=60
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=141/226|pack=Charizard|rarity=Diamond|rarity count=1}}
+}}
+
+'''Mankey''' (Japanese: '''マンキー''' ''Mankey'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Low Kick
+|jname=けたぐり
+|jtrans=Kick Down
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Mankey
+|species=Pig Monkey
+|ndex=0056
+|height=1'8"
+|jheight=0.5
+|weight=61.7
+|jweight=28.0
+|dex=It lives in groups in the treetops. If it loses sight of its group, it becomes infuriated by its loneliness.
+|jdex=木の上で　群れをつくって　暮らす｡ 群れから　はぐれた　マンキーは 寂しくて　すぐに　怒りだす｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Supreme Victors|Mankey|112}} from the {{TCG|Supreme Victors}} expansion.
+*{{m|Low Kick}} is a [[move]] in the [[Pokémon games]] that {{p|Mankey}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Menki (Unschlagbare Gene 141)]]
+[[es:Mankey (Genes Formidables TCG Pocket)]]
+[[fr:Férosinge (Puissance Génétique 141)]]
+[[it:Mankey (Geni Supremi 141)]]
+[[ja:マンキー (ポケポケ A1)]]
+[[zh:猴怪（A1）]]

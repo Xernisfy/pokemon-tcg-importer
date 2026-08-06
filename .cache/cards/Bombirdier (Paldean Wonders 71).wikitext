@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bombirdier
+|ja name=オトシドリ
+|trans name=Otoshidori
+|species=Bombirdier
+|type=Darkness
+|image=BombirdierPaldeanWonders71.png
+|illustrator=nagimiso
+|hp=90
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=071/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Bombirdier''' (Japanese: '''オトシドリ''' ''Otoshidori'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Fly
+|jname=そらをとぶ
+|jtrans=Fly
+|damage=70
+|effect=Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Bombirdier
+|category=Item Drop
+|ndex=0962
+|height=4'11"
+|jheight=1.5
+|weight=94.6
+|jweight=42.9
+|dex=Bombirdier uses the apron on its chest to bundle up food, which it carries back to its nest. It enjoys dropping things that make loud noises.
+|jdex=胸元の 袋で エサを 包み 巣に 持ち帰る。 大きな 音の するものを 落として 喜ぶ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Bombirdier|138}} from the {{TCG|Scarlet & Violet}} expansion.
+*{{m|Fly}} is a [[move]] in the [[Pokémon games]] that {{p|Bombirdier}} can learn via [[TM]].
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Adebom (Wundervolles Paldea 071)]]
+[[fr:Lestombaile (Merveilles de Paldea 071)]]
+[[it:Bombirdier (Meraviglie di Paldea 71)]]
+[[ja:オトシドリ (ポケポケ B2a)]]
+[[zh:下石鸟（B2a）]]

@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Kingler
+|ja name=キングラー
+|trans name=Kingler
+|species=Kingler
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KinglerGeneticApex69.png|illustrator=Shigenori Negishi|tab caption=Unommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KinglerSecludedSprings96.png|illustrator=Shigenori Negishi|tab caption=Shiny Rare}}
+|hp=120
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Krabby
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=069/226|pack=Mewtwo|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=096/071|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Kingler''' (Japanese: '''キングラー''' ''Kingler'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=KO Crab
+|jname=ひっさつクラブ
+|jtrans=KO Crab
+|damage=80+
+|effect=Flip 2 coins. If both of them are heads, this attack does 80 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Kingler
+|species=Pincer
+|ndex=0099
+|height=4'3"
+|jheight=1.3
+|weight=132.3
+|jweight=60.0
+|dex=Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.
+|jdex=硬い　ハサミは　１万馬力の パワーを　もっているが　大きすぎて 動きが　鈍い｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=KinglerGeneticApex69.png
+|caption1=Common card<br>Illus. [[Shigenori Negishi]]
+|image2=KinglerSecludedSprings96.png
+|caption2=Shiny rare card<br>Illus. [[Shigenori Negishi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare print features a {{Shiny}} {{p|Kingler}}.
+*This card's illustration was first featured on {{TCG ID|Unbroken Bonds|Kingler|47}} from the {{TCG|Unbroken Bonds}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kingler (Unschlagbare Gene 069)]]
+[[es:Kingler (Genes Formidables TCG Pocket)]]
+[[fr:Krabboss (Puissance Génétique 069)]]
+[[it:Kingler (Geni Supremi 69)]]
+[[ja:キングラー (ポケポケ A1)]]
+[[zh:巨钳蟹（A1）]]

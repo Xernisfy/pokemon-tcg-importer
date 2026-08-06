@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Volcarona
+|ja name=ウルガモス
+|trans name=Ulgamoth
+|species=Volcarona
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VolcaronaMythicalIsland14.png|illustrator=DOM|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VolcaronaPromo-A28.png|illustrator=Shin Nagasawa|tab caption=Promo}}
+|hp=120
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Larvesta
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=3|number=014/068}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Vol. 3|number=028/P-A}}
+}}
+
+'''Volcarona''' (Japanese: '''ウルガモス''' ''Ulgamoth'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Colorless}}
+|name=Volcanic Ash
+|jname=かさいりゅう
+|jtrans=Pyroclastic Flow
+|damage=
+|effect=Discard 2 {{e|Fire}} Energy from this Pokémon. This attack does 80 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Volcarona
+|species=Sun
+|ndex=0637
+|height=5'3"
+|jheight=1.6
+|weight=101.4
+|jweight=46.0
+|dex=Its burning body causes it to be unpopular in hot parts of the world, but in cold ones, Volcarona is revered as an embodiment of the sun.
+|jdex=暑い 土地では 燃える 体は 嫌がられるが 寒い 土地では 太陽の化身 と 崇められる。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of five cards that could be pulled from Promo-A Vol. 3 packs; these were made available as part of the [[Blastoise Drop Event]], which ran from January 1 to 15, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=VolcaronaMythicalIsland14.png
+|caption1=Rare card<br>Illus. [[DOM]]
+|image2=VolcaronaPromo-A28.png
+|caption2=Promo card<br>Illus. [[Shin Nagasawa]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|BW Promo|Volcarona|40}}, one of the {{TCG|BW Black Star Promos}}.
+*'''Volcanic Ash''' is an attack that first appeared on {{TCG ID|EX Team Magma vs Team Aqua|Blaziken ex|89}} from the {{TCG|EX Team Magma vs Team Aqua}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ramoth (Mysteriöse Insel 014)]]
+[[es:Volcarona (La Isla Singular TCG Pocket)]]
+[[fr:Pyrax (L'Île Fabuleuse 014)]]
+[[it:Volcarona (L'Isola Misteriosa 14)]]
+[[ja:ウルガモス (ポケポケ A1a)]]
+[[zh:火神蛾（A1a）]]

@@ -1,0 +1,78 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cherrim
+|ja name=チェリム
+|trans name=Cherrim
+|species=Cherrim
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CherrimTriumphantLight8.png|illustrator=Kagemaru Himeno|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CherrimPromo-A43.png|illustrator=MAHOU|tab caption=Promo}}
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Cherubi
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=008/075|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=043/P-A|pack=Vol. 5}}
+}}
+
+'''Cherrim''' (Japanese: '''チェリム''' ''Cherrim'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Leech Seed
+|jname=やどりぎのタネ
+|jtrans=Mistletoe Seed
+|damage=60
+|effect=Heal 20 damage from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Cherrim
+|species=Blossom
+|ndex=0421
+|height=1'8"
+|jheight=0.5
+|weight=20.5
+|jweight=9.3
+|dex=After absorbing plenty of sunlight, Cherrim takes this form. It's full of energy while it's like this, and its liveliness will go on until sundown.
+|jdex=太陽の 光を 浴びて 元気いっぱいの 姿。 日暮れまでは 活発だ。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of five cards that could be pulled from Promo-A Vol. 5 packs; these were made available as part of the [[Gible Drop Event]], which ran from March 3 to 17, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=CherrimTriumphantLight8.png
+|caption1=Uncommon card<br>Illus. [[Kagemaru Himeno]]
+|image2=CherrimPromo-A43.png
+|caption2=Promo card<br>Illus. [[MAHOU]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Cherrim}} in its {{form|Cherrim|Sunshine Form}}.
+*This card's {{TCGP|Triumphant Light}} illustration was first featured on {{TCG ID|Plasma Storm|Cherrim|7}} from the {{TCG|Plasma Storm}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Ultra Prism|Cherrim|11}} from the {{TCG|Ultra Prism}} expansion.
+*{{m|Leech Seed}} is a [[move]] in the [[Pokémon games]] that {{p|Cherrim}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kinoso (Licht des Triumphs 008)]]
+[[es:Cherrim (Luz Triunfal 8 TCG Pocket)]]
+[[fr:Ceriflor (Lumière Triomphale 008)]]
+[[it:Cherrim (Luce Trionfale 8)]]
+[[ja:チェリム (ポケポケ A2a 008)]]
+[[zh:櫻花兒（A2a 008）]]

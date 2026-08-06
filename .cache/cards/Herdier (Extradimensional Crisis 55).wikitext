@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Herdier
+|ja name=ハーデリア
+|trans name=Herderrie
+|species=Herdier
+|type=Colorless
+|image=HerdierExtradimensionalCrisis55.png
+|illustrator=Midori Harada
+|hp=80
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Lillipup
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=055/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Herdier''' (Japanese: '''ハーデリア''' ''Herderrie'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Bite
+|jname=かみつく
+|jtrans=Bite
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Herdier
+|category=Loyal Dog 
+|ndex=0507
+|height=2'11"
+|jheight=0.9
+|weight=32.4
+|jweight=14.7
+|dex=Herdier is a very smart and friendly Pokémon. So much so that there's a theory that Herdier was the first Pokémon to partner with people.
+|jdex=とても 賢く よく 懐く。 はじめて 人のパートナーに なった ポケモンと いう 説も あるのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Black & White|Herdier|82}} from the {{TCG|Black & White}} expansion.
+*{{m|Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Herdier}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Terribark (Dimensionale Krise 055)]]
+[[es:Herdier (Crisis Dimensional TCG Pocket)]]
+[[fr:Ponchien (Crise Interdimensionnelle 055)]]
+[[it:Herdier (Crisi Ultradimensionale 55)]]
+[[ja:ハーデリア (ポケポケ A3a)]]
+[[zh:哈约克（A3a）]]

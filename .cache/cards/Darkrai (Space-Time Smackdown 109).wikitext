@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Darkrai
+|ja name=ダークライ
+|trans name=Darkrai
+|species=Darkrai
+|type=Darkness
+|image=DarkraiSpace-TimeSmackdown109.png
+|illustrator=Masako Tomii
+|hp=110
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=109/155|pack=Dialga|rarity=Diamond|rarity count=3}}
+}}
+
+'''Darkrai''' (Japanese: '''ダークライ''' ''Darkrai'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Colorless}}
+|name=Dark Void
+|jname=ダークホール
+|jtrans=Dark Hole
+|damage=60
+|effect=Your opponent's Active Pokémon is now {{TCG|Asleep}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Darkrai
+|species=Pitch-Black
+|ndex=0491
+|height=4'11"
+|jheight=1.5
+|weight=111.3
+|jweight=50.5
+|dex=It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers.
+|jdex=深い 眠りに 誘う 力で 人や ポケモンに 悪夢を 見せて 自分の 縄張りから 追い出す。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Dark Void}} is a [[move]] in the [[Pokémon games]] that {{p|Darkrai}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Darkrai (Kollision von Raum und Zeit 109)]]
+[[es:Darkrai (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Darkrai (Choc Spatio-Temporel 109)]]
+[[it:Darkrai (Scontro Spaziotemporale 109)]]
+[[ja:ダークライ (ポケポケ A2)]]
+[[zh:达克莱伊（A2）]]

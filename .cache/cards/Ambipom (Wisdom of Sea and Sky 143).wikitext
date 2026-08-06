@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ambipom
+|ja name=エテボース
+|trans name=Eteboth
+|species=Ambipom
+|type=Colorless
+|image=AmbipomWisdomofSeaandSky143.png
+|illustrator=Atsushi Furusawa
+|hp=100
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Aipom
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=143/161|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Ambipom''' (Japanese: '''エテボース''' ''Eteboth'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Tail Jab
+|jname=しっぽパンチ
+|jtrans=Tail Punch
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Ambipom
+|category=Long Tail 
+|ndex=0424
+|height=3'11"
+|jheight=1.2
+|weight=44.8
+|jweight=20.3
+|dex=It uses its tails for everything. If it wraps both of its tails around you and gives you a squeeze, that's proof it really likes you.
+|jdex=なにを するにも シッポを 使う。 2本の シッポで 抱きしめられたら 本当に 懐かれた 証。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Origin|Ambipom|145}} from the {{TCG|Lost Origin}} expansion.
+*'''Tail Jab''' is a move that first appeared in {{TCG ID|Steam Siege|Aipom|90}} from the {{TCG|Steam Siege}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ambidiffel (Weisheit von Meer und Himmel 143)]]
+[[es:Ambipom (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Capidextre (Sagesse entre Ciel et Mer 143)]]
+[[it:Ambipom (La Via del Cielo e del Mare 143)]]
+[[ja:エテボース (ポケポケ A4)]]
+[[zh:双尾怪手（A4）]]

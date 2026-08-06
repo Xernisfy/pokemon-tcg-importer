@@ -1,0 +1,51 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Dome Fossil
+|ja name=こうらの化石
+|trans name=Carapace Fossil
+|subtype=Item
+|image=DomeFossilGeneticApex217.png
+|illustrator=Toyste Beach
+|hp=40
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=217/226|pack=Charizard|rarity=Diamond|rarity count=1}}
+}}
+
+'''Dome Fossil''' (Japanese: '''こうらの化石''' ''Carapace Fossil'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Play this card as if it were a 40-HP Basic {{e|Colorless}} Pokémon.<br>At any time during your turn, you may discard this card from play.<br>This card can't retreat.
+}}
+
+==Trivia==
+* This card's effect is similar to that of the {{TCG|Unidentified Fossil}} card in the [[Pokémon Trading Card Game]], but has 40 HP instead of 60 HP and only {{TCG|Kabuto}} can evolve from.
+** {{TCG|Dome Fossil}} also exists in the Pokémon Trading Card Game, but has 50 HP and also has a {{TCG|Poké-Body}}.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fates Collide|Dome Fossil Kabuto|96}} from the {{TCG|Fates Collide}} expansion.
+*[[Dome Fossil]]s are [[fossil]]s in the [[Pokémon games]] which can be revived into {{p|Kabuto}}.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=こうらの化石 ''Kōra no Kaseki''
+|zh_yue=甲殼化石 ''Gaaphok Fasehk''
+|zh_cmn=甲殼化石<!-- / 甲壳化石--> ''Jiǎké Huàshí<!-- / Jiǎqiào Huàshí-->''
+|fr=Fossile Dôme
+|de=Domfossil
+|it=Domofossile
+|ko=껍질화석 ''Kkeopjil Hwaseok''
+|pt_br=Fóssil Cúpula
+|es=Fósil Domo
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Domfossil (TCG Pocket)]]
+[[es:Fósil Domo (TCG Pocket)]]
+[[fr:Fossile Dôme (Puissance Génétique 217)]]
+[[it:Domofossile (Geni Supremi 217)]]
+[[ja:こうらの化石 (ポケポケ)]]
+[[zh:甲壳化石（TCGP）]]

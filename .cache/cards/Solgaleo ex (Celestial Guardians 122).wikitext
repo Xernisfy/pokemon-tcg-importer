@@ -1,0 +1,87 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Solgaleo{{TCGP Icon|ex}}
+|ja name=ソルガレオ{{TCGP Icon|ex}}
+|trans name=Solgaleo{{TCGP Icon|ex}}
+|species=Solgaleo
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SolgaleoexCelestialGuardians122.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SolgaleoexCelestialGuardians189.png|illustrator=PLANETA CG Works|tab caption=Super Rare (A3)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SolgaleoexDeluxePackex369.png|illustrator=5ban Graphics|tab caption=Super Rare (A4b)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SolgaleoexCelestialGuardians207.png|illustrator=AKIRA EGAWA|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SolgaleoexCrimsonBlaze101.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SolgaleoexCelestialGuardians239.png|illustrator=PLANETA CG Works|tab caption=Ultra Rare}}
+|hp=180
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Cosmoem
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=122/155|pack=Solgaleo|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=189/155|pack=Solgaleo|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=207/155|pack=Solgaleo|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=239/155|pack=Any|rarity=Crown}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=259/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=369/353|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=101/069|pack=Any|rarity=Shiny|rarity count=2}}
+}}
+'''Solgaleo ex''' (Japanese: '''ソルガレオex''' ''Solgaleo ex'') is a {{ct|Metal}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Ability/Pocket
+|type=Metal
+|name=Rising Road
+|jname=ライジングロード
+|jtrans=Rising Road
+|effect=Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}
+|name=Sol Breaker
+|jname=ソルブレイク
+|jtrans=Sol Break
+|damage=120
+|effect=This Pokémon also does 10 damage to itself.
+}}
+{{Cardtext/Pocket ex
+|type=Metal
+|ndex=0791
+|name=Solgaleo
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=SolgaleoexCelestialGuardians122.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=SolgaleoexCelestialGuardians189.png
+|caption2=Super rare card<br>({{TCGP|Celestial Guardians}})<br>Illus. [[PLANETA CG Works]]
+|image3=SolgaleoexCelestialGuardians207.png
+|caption3=Special illustration rare card<br>Illus. [[AKIRA EGAWA]]
+|image4=SolgaleoexCelestialGuardians239.png
+|caption4=Ultra rare card<br>Illus. [[PLANETA CG Works]]
+|image5=SolgaleoexDeluxePackex369.png
+|caption5=Super rare card<br>({{TCGP|Deluxe Pack: ex}})<br>Illus. [[5ban Graphics]]
+|image6=SolgaleoexCrimsonBlaze101.png
+|caption6=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Solgaleo}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Solgaleo-ex (Hüter des Firmaments 122)]]
+[[es:Solgaleo ex (Guardianes Celestiales TCG Pocket)]]
+[[fr:Solgaleo-ex (Gardiens Astraux 122)]]
+[[it:Solgaleo-ex (Guardiani Astrali 122)]]
+[[ja:ソルガレオex (ポケポケ A3)]]
+[[zh:索尔迦雷欧ex（A3）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Poliwag
+|ja name=ニョロモ
+|trans name=Nyoromo
+|species=Poliwag
+|type=Water
+|image=PoliwagGeneticApex59.png
+|illustrator=Shibuzoh.
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=059/226|pack=Charizard|rarity=Diamond|rarity count=1}}
+}}
+
+'''Poliwag''' (Japanese: '''ニョロモ''' ''Nyoromo'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Colorless}}
+|name=Razor Fin
+|jname=ひれカッター
+|jtrans=Fin Cutter
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Poliwag
+|species=Tadpole
+|ndex=0060
+|height=2'
+|jheight=0.6
+|weight=27.3
+|jweight=12.4
+|dex=For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon's innards showing through the skin.
+|jdex=歩くよりも　泳ぐほうが　得意｡ お腹の　渦巻き模様は 透けて　見える　内臓の　一部だ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unbroken Bonds|Poliwag|37}} from the {{TCG|Unbroken Bonds}} expansion.
+*'''Razor Fin''' is an attack that first appeared on {{TCG ID|EX Team Magma vs Team Aqua|Team Aqua's Carvanha|48}} from the {{TCG|EX Team Magma vs Team Aqua}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Quapsel (Unschlagbare Gene 059)]]
+[[es:Poliwag (Genes Formidables TCG Pocket)]]
+[[fr:Ptitard (Puissance Génétique 059)]]
+[[it:Poliwag (Geni Supremi 59)]]
+[[ja:ニョロモ (ポケポケ A1)]]
+[[zh:蚊香蝌蚪（A1）]]

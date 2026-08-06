@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Araquanid
+|ja name=オニシズクモ
+|trans name=Onishizukumo
+|species=Araquanid
+|type=Water
+|image=AraquanidCelestialGuardians53.png
+|illustrator=kodama
+|hp=110
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Dewpider
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=053/155|pack=Solgaleo|rarity=Diamond|rarity count=2}}
+}}
+
+'''Araquanid''' (Japanese: '''オニシズクモ''' ''Onishizukumo'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Dangerous Claws
+|jname=デンジャラスクロー
+|jtrans=Dangerous Claw
+|damage=60+
+|effect=If your opponent's Active Pokémon is a Basic Pokémon, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Araquanid
+|species=Water Bubble
+|ndex=0752
+|height=5'11"
+|jheight=1.8
+|weight=180.8
+|jweight=82.0
+|dex=It launches water bubbles with its legs, drowning prey within the bubbles. This Pokémon can then take its time to savor its meal.
+|jdex=脚で 水泡を 飛ばして 獲物を 包みこみ 溺れさせる。 時間を かけて 味わうのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Forbidden Light|Araquanid|33}} from the {{TCG|Forbidden Light}} expansion.
+*'''Dangerous Claws''' is an attack that first appeared on {{TCG ID|Burning Shadows|Lycanroc|75}} from {{TCG|Burning Shadows}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Aranestro (Hüter des Firmaments 053)]]
+[[es:Araquanid (Guardianes Celestiales TCG Pocket)]]
+[[fr:Tarenbulle (Gardiens Astraux 053)]]
+[[it:Araquanid (Guardiani Astrali 53)]]
+[[ja:オニシズクモ (ポケポケ A3)]]
+[[zh:滴蛛霸（A3）]]

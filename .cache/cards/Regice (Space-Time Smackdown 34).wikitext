@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Regice
+|ja name=レジアイス
+|trans name=Regice
+|species=Regice
+|type=Water
+|image=RegiceSpace-TimeSmackdown34.png
+|illustrator=Tomokazu Komiya
+|hp=110
+|weakness=Metal
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=034/155|pack=Palkia|rarity=Diamond|rarity count=2}}
+}}
+
+'''Regice''' (Japanese: '''レジアイス''' ''Regice'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Crystal Body
+|jname=クリスタルボディ
+|jtrans=Crystal Body
+|effect=Prevent all effects of attacks used by your opponent's Pokémon done to this Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Frost Smash
+|jname=フロストスマッシュ
+|jtrans=Frost Smash
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Regice
+|species=Iceberg
+|ndex=0378
+|height=5'11"
+|jheight=1.8
+|weight=385.8
+|jweight=175.0
+|dex=With cold air that can reach temperatures as low as −328 degrees Fahrenheit, Regice instantly freezes any creature that approaches it.
+|jdex=マイナス200度まで 冷えこむ 冷気を 操り 近づいたものを あっという間に 氷漬けにする。
+}}
+
+==Trivia==
+===Origin===
+*'''Crystal Body''' is an {{TCG|Ability}} that first appeared as a {{TCG|Pokémon Power}} on {{TCG ID|Neo Revelation|Suicune|14}} from the {{TCG|Neo Revelation}} expansion.
+*'''Frost Smash''' is an attack that first appeared on {{TCG ID|Crimson Invasion|Regice|28}} from the {{TCG|Crimson Invasion}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Regice (Kollision von Raum und Zeit 034)]]
+[[es:Regice (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Regice (Choc Spatio-Temporel 034)]]
+[[it:Regice (Scontro Spaziotemporale 34)]]
+[[ja:レジアイス (ポケポケ A2)]]
+[[zh:雷吉艾斯（A2）]]

@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wartortle
+|ja name=カメール
+|trans name=Kameil
+|species=Wartortle
+|type=Water
+|image=WartortleCrimsonBlaze18.png
+|illustrator=Taiga Kasai
+|hp=90
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Squirtle
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=018/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Wartortle''' (Japanese: '''カメール''' ''Kameil'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Shell Shield
+|jname=こうらシールド
+|jtrans=Shell Shield
+|effect=As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Waterfall
+|jname=たきのぼり
+|jtrans=Waterfall Climb
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Wartortle
+|species=Turtle
+|ndex=0008
+|height=3'3"
+|jheight=1.0
+|weight=49.6
+|jweight=22.5
+|dex=It cleverly controls its furry ears and tail to maintain its balance while swimming.
+|jdex=ふさふさの 耳と しっぽを たくみに 操って 水中での バランスを たもつ。
+}}
+
+==Trivia==
+===Origin===
+*'''Shell Shield''' is an Ability that first appeared on {{TCG ID|Boundaries Crossed|Squirtle|29}} from the {{TCG|Boundaries Crossed}} expansion.
+*{{m|Waterfall}} is a [[move]] in the [[Pokémon games]] that {{p|Wartortle}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schillok (Feuerrote Flammen 018)]]
+[[es:Wartortle (Fuego Carmesí TCG Pocket)]]
+[[fr:Carabaffe (Embrasement Écarlate 018)]]
+[[ja:カメール (ポケポケ B1a)]]
+[[zh:卡咪龟（B1a）]]

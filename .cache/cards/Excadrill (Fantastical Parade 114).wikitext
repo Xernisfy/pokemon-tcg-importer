@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Excadrill
+|ja name=ドリュウズ
+|trans name=Doryuzu
+|species=Excadrill
+|type=Metal
+|image=ExcadrillFantasticalParade114.png
+|illustrator=Shin Nagasawa
+|hp=120
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Drilbur
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=114/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Excadrill''' (Japanese: '''ドリュウズ''' ''Doryuzu'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Colorless}}
+|name=Slashing Claw
+|jname=スラッシュクロー
+|jtrans=Slash Claw
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Excadrill
+|category=Subterrene
+|ndex=0530
+|height=2'4"
+|jheight=0.7
+|weight=89.1
+|jweight=40.4
+|dex=Its drill, which has evolved into steel, is strong enough to bore through iron plates. This Pokémon is a great help in tunnel construction.
+|jdex=鋼に 進化した ドリルは 鉄板を 貫く 破壊力。 トンネル工事で 大活躍する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Primal Clash|Excadrill|96}} from the {{TCG|Primal Clash}} expansion.
+*'''Slashing Claw''' is an attack that first appeared on {{TCG ID|Unified Minds|Salazzle|99}} and {{TCG ID|Unified Minds|Noctowl|166}}, both from the {{TCG|Unified Minds}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Stalobor (Traumhafte Parade 114)]]
+[[fr:Minotaupe (Parade Onirique 114)]]
+[[it:Excadrill (Parata Fantasmagorica 114)]]
+[[ja:ドリュウズ (ポケポケ B2)]]
+[[zh:龙头地鼠（B2）]]

@@ -1,0 +1,50 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Plume Fossil
+|ja name=はねの化石
+|trans name=Feather Fossil
+|subtype=Item
+|image=PlumeFossilMegaRising214.png
+|illustrator=Ryo Ueda
+|hp=40
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Blaziken|rarity=Diamond|rarity count=1|number=214/226}}
+}}
+
+'''Plume Fossil''' (Japanese: '''はねの化石''' ''Feather Fossil'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Play this card as if it were a 40-HP Basic {{e|Colorless}} Pokémon.<br>At any time during your turn, you may discard this card from play.<br>This card can't retreat.
+}}
+
+==Trivia==
+* This card's effect is similar to that of the {{TCG|Unidentified Fossil}} card in the [[Pokémon Trading Card Game]], but has 40 HP instead of 60 HP and only {{TCGP|Archen}} can evolve from.
+** {{TCG|Plume Fossil}} also exists in the Pokémon Trading Card Game, but has a different effect.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Noble Victories|Plume Fossil|93}} from the {{TCG|Noble Victories}} expansion.
+*[[Plume Fossil]]s are [[fossil]]s in the [[Pokémon games]] which can be revived into {{p|Archen}}.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=はねの化石 ''Hane no Kaseki''
+|zh_yue=羽毛化石 ''Yúhmòuh Fasehk''
+|zh_cmn=羽毛化石 ''Yǔmáo Huàshí''
+|fr=Fossile Plume
+|de=Federfossil
+|it=Fossilpiuma
+|ko=날개화석 ''Git'teol Hwaseok''
+|pt_br=Fóssil Pluma
+|es=Fósil Pluma
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Federfossil (TCG Pocket)]]
+[[fr:Fossile Plume (Méga-Ascension 214)]]
+[[it:Fossilpiuma (Mega Ascesa 214)]]
+[[ja:はねの化石 (ポケポケ)]]
+[[zh:羽毛化石（TCGP）]]

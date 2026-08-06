@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pupitar
+|ja name=サナギラス
+|trans name=Sanagiras
+|species=Pupitar
+|type=Fighting
+|image=PupitarTriumphantLight40.png
+|illustrator=match
+|hp=80
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Larvitar
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=040/075|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Pupitar''' (Japanese: '''サナギラス''' ''Sanagiras'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}{{e|Colorless}}
+|name=Speed Attack
+|jname=スピードアタック
+|jtrans=Speed Attack
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Pupitar
+|species=Hard Shell
+|ndex=0247
+|height=3'11"
+|jheight=1.2
+|weight=335.1
+|jweight=152.0
+|dex=Its shell is as hard as bedrock, and it is also very strong. Its thrashing can topple a mountain.
+|jdex=岩盤のような 硬い 殻に 覆われているが 力は 強く 暴れると 山も 崩れてしまう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fates Collide|Pupitar|42}} from the {{TCG|Fates Collide}} expansion.
+*'''Speed Attack''' is an attack that first appeared on {{TCG ID|Great Encounters|Porygon2|49}} from the {{TCG|Great Encounters}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pupitar (Licht des Triumphs 040)]]
+[[es:Pupitar (Luz Triunfal TCG Pocket)]]
+[[fr:Ymphect (Lumière Triomphale 040)]]
+[[it:Pupitar (Luce Trionfale 40)]]
+[[ja:サナギラス (ポケポケ A2a)]]
+[[zh:沙基拉斯（A2a）]]

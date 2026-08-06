@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Sabrina
+|ja name=ナツメ
+|trans name=Natsume
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SabrinaGeneticApex225.png|illustrator=Yuu Nishida|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SabrinaDeluxePackex339.png|illustrator=Yuu Nishida|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SabrinaGeneticApex272.png|illustrator=GIDORA|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=225/226|pack=Charizard|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=272/226|pack=Charizard|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=338/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=339/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Sabrina''' (Japanese: '''ナツメ''' ''Natsume'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Switch out your opponent's Active Pokémon to the Bench. ''(Your opponent chooses the new Active Pokémon.)''
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=SabrinaGeneticApex225.png
+|caption1=Standard card<br>Illus. [[Yuu Nishida]]
+|image2=SabrinaGeneticApex272.png
+|caption2=Super rare card<br>Illus. [[GIDORA]]
+|image3=SabrinaDeluxePackex339.png
+|caption3=Parallel foil card<br>Illus. [[Yuu Nishida]]
+}}
+
+==Trivia==
+* This card's effect is identical to {{TCG|Pokémon Circulator}} and {{TCG|Repel}} in the [[Pokémon Trading Card Game]], but as a {{TCGP|Supporter card}} instead of an {{TCGP|Item card}}.
+** This card's effect is similar to the Supporter cards {{TCG|Boss's Orders}} and {{TCG|Lysandre}} in the Pokémon Trading Card Game, but this card allows the opponent to choose which benched Pokémon is switched in.
+** {{TCG|Sabrina}} also exists in the Pokémon Trading Card Game, but with a different effect.
+
+===Origin===
+*[[Sabrina]] is a [[Gym Leader]] in [[Kanto]]. The interior of the [[Saffron Gym]], as depicted in {{game|FireRed and LeafGreen|s}}, is featured in the regular print's illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=ナツメ ''Natsume''
+|zh_yue=娜姿 ''Nàhjī''
+|zh_cmn=娜姿 ''Nàzī''
+|fr=Morgane
+|de=Sabrina
+|it=Sabrina
+|ko=초련 ''Choryeon''
+|pt_br=Sabrina
+|es=Sabrina
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sabrina (TCG Pocket)]]
+[[es:Sabrina (TCG Pocket)]]
+[[fr:Morgane (Puissance Génétique 225)]]
+[[it:Sabrina (Geni Supremi 225)]]
+[[ja:ナツメ (ポケポケ)]]
+[[zh:娜姿（TCGP）]]

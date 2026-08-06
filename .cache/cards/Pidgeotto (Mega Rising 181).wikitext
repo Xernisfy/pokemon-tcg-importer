@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pidgeotto
+|ja name=ピジョン
+|trans name=Pigeon
+|species=Pidgeotto
+|type=Colorless
+|image=PidgeottoMegaRising181.png
+|illustrator=Mizue
+|hp=90
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Pidgey
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=181/226}}
+}}
+
+'''Pidgeotto''' (Japanese: '''ピジョン''' ''Pigeon'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Speed Wing
+|jname=スピードウイング
+|jtrans=Speed Wing
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Pidgeotto
+|species=Bird
+|ndex=0017
+|height=3'7"
+|jheight=1.1
+|weight=66.1
+|jweight=30.0
+|dex=Very protective of its sprawling territorial area, this Pokémon will fiercely peck at any intruder.
+|jdex=広い 縄張りを 持っており 侵入する 邪魔者は 徹底的に つつかれてしまう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Pidgeotto|123}} from the {{TCG|Team Up}} expansion.
+*'''Speed Wing''' is an attack that first appeared on {{TCG ID|Dragon Vault|Latios|10}} from the {{TCG|Dragon Vault}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tauboga (Mega-Aufstieg 181)]]
+[[es:Pidgeotto (Megaascenso TCG Pocket)]]
+[[fr:Roucoups (Méga-Ascension 181)]]
+[[it:Pidgeotto (Mega Ascesa 181)]]
+[[ja:ピジョン (ポケポケ B1)]]
+[[zh:比比鸟（B1）]]

@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Jellicent
+|ja name=ブルンゲル
+|trans name=Burungel
+|species=Jellicent
+|type=Psychic
+|image=JellicentSecludedSprings39.png
+|illustrator=Kagemaru Himeno
+|hp=110
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Frillish
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=039/071|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Jellicent''' (Japanese: '''ブルンゲル''' ''Burungel'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}{{e|Colorless}}
+|name=Devour Soul
+|jname=ソウルイート
+|jtrans=Soul Eat
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Jellicent
+|category=Floating
+|ndex=0593
+|height=7'3"
+|jheight=2.2
+|weight=297.6
+|jweight=135.0
+|dex=Most of this Pokémon's body composition is identical to sea water. It makes sunken ships its lair.
+|jdex=からだの ほとんどが かいすいと おなじ せいぶんで できている。 ちんぼつせんを ねじろにする。
+}}
+
+==Trivia==
+===Origin===
+*This card features both the male and female forms of {{p|Jellicent}}.
+*This card's illustration was first featured on {{TCG ID|Noble Victories|Jellicent|31}} from the {{TCG|Noble Victories}} expansion.
+*'''Devour Soul''' is an attack that first appeared on {{TCG ID|Brilliant Stars|Dusknoir|62}} from the {{TCG|Brilliant Stars}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Apoquallyp (Verborgene Quelle 039)]]
+[[es:Jellicent (Manantial Oculto TCG Pocket)]]
+[[fr:Moyade (Source Secrète 039)]]
+[[it:Jellicent (Sorgenti Recondite 39)]]
+[[ja:ブルンゲル (ポケポケ A4a)]]
+[[zh:胖嘟嘟（A4a）]]

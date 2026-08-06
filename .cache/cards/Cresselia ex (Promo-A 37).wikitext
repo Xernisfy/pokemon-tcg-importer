@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cresselia {{TCGP Icon|ex}}
+|ja name=クレセリア{{TCGP Icon|ex}}
+|trans name=Cresselia {{TCGP Icon|ex}}
+|species=Cresselia
+|type=Psychic
+|image=CresseliaexPromo-A37.png
+|illustrator=PLANETA Mochizuki
+|hp=140
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=037/P-A|pack=Vol. 4}}
+}}
+
+'''Cresselia ex''' (Japanese: '''クレセリアex''' ''Cresselia ex'') is a {{ct|Psychic}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Lunar Plumage
+|jname=みかづきのはごろも
+|jtrans=Crescent Moon Plumage
+|effect=Whenever you attach a {{e|Psychic}} Energy from your Energy Zone to this Pokémon, heal 20 damage from this Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}{{e|Colorless}}
+|name=Psychic Flash
+|jname=サイコフラッシュ
+|jtrans=Psycho Flash
+|damage=80
+|effect=
+}}
+{{Cardtext/Pocket ex
+|type=Psychic
+|ndex=0488
+|name=Cresselia
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 4 packs; these were made available as part of the [[Cresselia ex Drop Event]], which ran from February 3 to 17, 2025.
+
+==Trivia==
+===Origin===
+*'''Psychic Flash''' is an attack that first appeared on {{TCG ID|Stellar Crown|Espathra|69}} from the {{TCG|Stellar Crown}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Cresselia-ex (PROMO-A 037)]]
+[[es:Cresselia ex (Promo-A 37 TCG Pocket)]]
+[[fr:Cresselia-ex (Promo-A 037)]]
+[[it:Cresselia-ex (Promo-A 37)]]
+[[ja:クレセリアex (ポケポケ P-A)]]
+[[zh:克雷色利亞ex（P-A）]]

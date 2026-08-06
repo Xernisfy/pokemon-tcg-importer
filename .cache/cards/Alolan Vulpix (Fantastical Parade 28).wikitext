@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Vulpix
+|ja name=アローラロコン
+|trans name=Alolan Rokon
+|species=Vulpix
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanVulpixFantasticalParade28.png|illustrator=Saya Tsuruta|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanVulpixPromo-B32.png|illustrator=nagimiso|tab caption=Promo}}
+|hp=60
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=028/155|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=032/P-B}}
+}}
+
+'''Alolan Vulpix''' (Japanese: '''アローラロコン''' ''Alolan Rokon'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Gnaw
+|jname=かじる
+|jtrans=Gnaw
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Vulpix
+|category=Fox 
+|ndex=0037
+|height=2'
+|jheight=0.6
+|weight=21.8
+|jweight=9.9
+|dex=In hot weather, this Pokémon makes ice shards with its six tails and sprays them around to cool itself off. 
+|jdex=暑いときには 6本の 尻尾で 氷の礫を 作り あたりに ばらまいて 体を 冷やす。
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} print of this card was available via special wonder picks during the Toxtricity [[Wonder Pick Event (Toxtricity)|Wonder Pick Event]], which ran from February 15 to 25, 2026.
+
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=AlolanVulpixFantasticalParade28.png
+|caption1=Common card<br>Illus. [[Saya Tsuruta]]
+|image2=AlolanVulpixPromo-B32.png
+|caption2=Promo card<br>Illus. [[nagimiso]]
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Vulpix}}.
+*This card's standard illustration was first featured on {{TCG ID|Burning Shadows|Alolan Vulpix|27}} from the {{TCG|Burning Shadows}} expansion.
+*This card's {{TCGP|Promo-B}} illustration was first featured on {{TCG ID|Cosmic Eclipse|Alolan Vulpix|39}} from the {{TCG|Cosmic Eclipse}} expansion; both cards have the Gnaw attack.
+*'''Gnaw''' is an attack that first appeared on {{TCG ID|Base Set|Pikachu|58}} from the {{TCG|Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Vulpix (Traumhafte Parade 028)]]
+[[es:Vulpix de Alola (Desfile de Ensueño TCG Pocket)]]
+[[fr:Goupix d'Alola (Parade Onirique 028)]]
+[[it:Vulpix di Alola (Parata Fantasmagorica 28)]]
+[[ja:アローラロコン (ポケポケ B2)]]
+[[zh:阿罗拉 六尾（B2）]]

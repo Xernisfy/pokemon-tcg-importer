@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sunflora
+|ja name=キマワリ
+|trans name=Kimawari
+|species=Sunflora
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SunfloraCrimsonBlaze8.png|illustrator=Saboteri|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SunfloraCrimsonBlaze71.png|illustrator=OKACHEKE|tab caption=Illustration Rare}}
+|hp=100
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Sunkern
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=008/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=071/069|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Sunflora''' (Japanese: '''キマワリ''' ''Kimawari'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Quick-Grow Beam
+|jname=そうじゅくビーム
+|jtrans=Precocious Beam
+|damage=30+
+|effect=If {{TCG ID|Crimson Blaze|Quick-Grow Extract|67}} is in your discard pile, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Sunflora
+|species=Sun
+|ndex=0192
+|height=2'7"
+|jheight=0.8
+|weight=18.7
+|jweight=8.5
+|dex=Since it converts sunlight into energy, it is always looking in the direction of the sun. 
+|jdex=浴びた 日差しを エネルギーに 変換するため 昼間は ずっと 太陽の方を 向いている。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=SunfloraCrimsonBlaze8.png
+|caption1=Uncommon card<br>Illus. [[Saboteri]]
+|image2=SunfloraCrimsonBlaze71.png
+|caption2=Illustration rare card<br>Illus. [[OKACHEKE]]
+}}
+
+==Trivia==
+===Origin===
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sonnflora (Feuerrote Flammen 008)]]
+[[es:Sunflora (Fuego Carmesí TCG Pocket)]]
+[[fr:Héliatronc (Embrasement Écarlate 008)]]
+[[it:Sunflora (Fiamme Cremisi 8)]]
+[[ja:キマワリ (ポケポケ B1a)]]
+[[zh:向日花怪（B1a）]]

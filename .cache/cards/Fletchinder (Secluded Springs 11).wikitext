@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Fletchinder
+|ja name=ヒノヤコマ
+|trans name=Hinoyakoma
+|species=Fletchinder
+|type=Fire
+|image=FletchinderSecludedSprings11.png
+|illustrator=5ban Graphics
+|hp=70
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Fletchling
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=011/071|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Fletchinder''' (Japanese: '''ヒノヤコマ''' ''Hinoyakoma'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Fire Wing
+|jname=ほのおのつばさ
+|jtrans=Flame Wings
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Fletchinder
+|species=Ember
+|ndex=0662
+|height=2'4"
+|jheight=0.7
+|weight=35.3
+|jweight=16.0
+|dex=Fletchinder scatters embers in tall grass where bug Pokémon might be hiding and then catches them as they come leaping out. 
+|jdex=虫ポケモンが 潜んでいそうな 草むらに 火の粉を まき散らして 飛び出してきたところを 捕まえる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Flashfire|Fletchinder|17}} from the {{TCG|Flashfire}} expansion.
+* '''Fire Wing''' is an attack that first appeared on {{TCG ID|Vending|Moltres|S2}} from {{TCG|Expansion Sheet 2}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dartignis (Verborgene Quelle 011)]]
+[[es:Fletchinder (Manantial Oculto TCG Pocket)]]
+[[fr:Braisillon (Source Secrète 011)]]
+[[it:Fletchinder (Sorgenti Recondite 11)]]
+[[ja:ヒノヤコマ (ポケポケ A4a)]]
+[[zh:火箭雀（A4a）]]

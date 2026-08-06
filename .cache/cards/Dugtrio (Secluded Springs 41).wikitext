@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dugtrio
+|ja name=ダグトリオ
+|trans name=Dugtrio
+|species=Dugtrio
+|type=Fighting
+|image=DugtrioSecludedSprings41.png
+|illustrator=Tomokazu Komiya
+|hp=90
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Diglett
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=041/071|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Dugtrio''' (Japanese: '''ダグトリオ''' ''Dugtrio'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Cliff Crumbler
+|jname=がけくずし
+|jtrans=Cliff Destruction
+|damage=40+
+|effect=Discard the top card of your deck. If that card is a {{e|Fighting}} Pokémon, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Dugtrio
+|category=Mole
+|ndex=0051
+|height=2'4"
+|jheight=0.7
+|weight=73.4
+|jweight=33.3
+|dex=Its three heads bob separately up and down to loosen the soil nearby, making it easier for it to burrow.
+|jdex=３つの　頭が　互い違いに 動くのは　まわりの　土を 柔らかくして　掘りやすくするため｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Skyridge|Dugtrio|52}} from the {{TCG|Skyridge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Digdri (Verborgene Quelle 041)]]
+[[es:Dugtrio (Manantial Oculto TCG Pocket)]]
+[[fr:Triopikeur (Source Secrète 041)]]
+[[it:Dugtrio (Sorgenti Recondite 41)]]
+[[ja:ダグトリオ (ポケポケ A4a)]]
+[[zh:三地鼠（A4a）]]

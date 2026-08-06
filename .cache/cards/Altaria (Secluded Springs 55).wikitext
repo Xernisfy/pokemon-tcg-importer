@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Altaria
+|ja name=チルタリス
+|trans name=Tyltalis
+|species=Altaria
+|type=Dragon
+|image=AltariaSecludedSprings55.png
+|illustrator=miki kudo
+|hp=120
+|weakness=
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Swablu
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=055/071|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Altaria''' (Japanese: '''チルタリス''' ''Tyltalis'') is a {{ct|Dragon}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Dragon Arcana
+|jname=りゅうのおうぎ
+|jtrans=Dragon Fan
+|damage=40+
+|effect=If this Pokémon has 2 or more different types of Energy attached, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Altaria
+|category=Humming
+|ndex=0334
+|height=3'7"
+|jheight=1.1
+|weight=45.4
+|jweight=20.6
+|dex=If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.
+|jdex=心が 通い合った 人がいると 柔らかく 美しい 羽で そっと 包み込み ハミングする。
+}}
+
+==Trivia==
+===Origin===
+*'''Dragon Arcana''' is an attack that first appeared on {{TCG ID|Cosmic Eclipse|Drampa|159}} from the {{TCG|Cosmic Eclipse}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Altaria (Verborgene Quelle 055)]]
+[[es:Altaria (Manantial Oculto TCG Pocket)]]
+[[fr:Altaria (Source Secrète 055)]]
+[[it:Altaria (Sorgenti Recondite 55)]]
+[[ja:チルタリス (ポケポケ A4a)]]
+[[zh:七夕青鸟（A4a）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Swoobat
+|ja name=ココロモリ
+|trans name=Kokoromori
+|species=Swoobat
+|type=Psychic
+|image=SwoobatGeneticApex134.png
+|illustrator=Masakazu Fukuda
+|hp=90
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Woobat
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=134/226}}
+}}
+
+'''Swoobat''' (Japanese: '''ココロモリ''' ''Kokoromori'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Heart Stamp
+|jname=ハートスタンプ
+|jtrans=Heart Stamp
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Swoobat
+|species=Courting
+|ndex=0528
+|height=2'11"
+|jheight=0.9
+|weight=23.1
+|jweight=10.5
+|dex=Emitting powerful sound waves tires it out. Afterward, it won't be able to fly for a little while.
+|jdex=超強力な　音波を 放ったあとは　疲れて しばらく　飛べなくなるよ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Legendary Treasures|Swoobat|65}} from the {{TCG|Legendary Treasures}} expansion.
+**Both cards have the {{m|Heart Stamp}} attack; this is a [[move]] in the Pokémon games that Swoobat can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Fletiamo (Unschlagbare Gene 134)]]
+[[es:Swoobat (Genes Formidables TCG Pocket)]]
+[[fr:Rhinolove (Puissance Génétique 134)]]
+[[it:Swoobat (Geni Supremi 134)]]
+[[ja:ココロモリ (ポケポケ A1)]]
+[[zh:心蝙蝠（A1）]]

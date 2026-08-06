@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Granbull
+|ja name=グランブル
+|trans name=Granbulu
+|species=Granbull
+|type=Psychic
+|image=GranbullFantasticalParade62.png
+|illustrator=SATOSHI NAKAI
+|hp=120
+|weakness=Metal
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Snubbull
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=062/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Granbull''' (Japanese: '''グランブル''' ''Granbulu'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}{{e|Psychic}}
+|name=Strength
+|jname=かいりき
+|jtrans=Super Strength
+|damage=90
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Granbull
+|species=Fairy
+|ndex=0210
+|height=4'7"
+|jheight=1.4
+|weight=107.4
+|jweight=48.7
+|dex=It can make most any Pokémon run away by opening its big mouth to reveal its thick fangs.
+|jdex=おおきな くちを ひらいて ふとい キバを みせつければ たいていの ポケモンは にげだす。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Granbull|71}} from the {{TCG|Darkness Ablaze}} expansion.
+*{{m|Strength}} is a [[move]] in the [[Pokémon games]] that {{p|Granbull}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Granbull (Traumhafte Parade 062)]]
+[[fr:Granbull (Parade Onirique 062)]]
+[[it:Granbull (Parata Fantasmagorica 62)]]
+[[ja:グランブル (ポケポケ B2)]]
+[[zh:布鲁皇（B2）]]

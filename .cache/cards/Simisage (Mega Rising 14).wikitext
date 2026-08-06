@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Simisage
+|ja name=ヤナッキー
+|trans name=Yanakkie
+|species=Simisage
+|type=Grass
+|image=SimisageMegaRising14.png
+|illustrator=tetsuya koizumi
+|hp=100
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Pansage
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=014/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+}}
+
+'''Simisage''' (Japanese: '''ヤナッキー''' ''Yanakkie'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Fury Swipes
+|jname=みだれひっかき
+|jtrans=Fury Swipes
+|damage=40×
+|effect=Flip 3 coins. This attack does 40 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Simisage
+|category=Thorn Monkey
+|ndex=0512
+|height=3'7"
+|jheight=1.1
+|weight=67.2
+|jweight=30.5
+|dex=Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.
+|jdex=気性が 激しく トゲの ついた 尻尾を 振り回して 戦う。 頭の 葉っぱは とても 苦い。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Burning Shadows|Simisage|13}} from the {{TCG|Burning Shadows}} expansion.
+*{{m|Fury Swipes}} is a [[move]] in the [[Pokémon games]] that {{p|Simisage}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Vegichita (Mega-Aufstieg 014)]]
+[[es:Simisage (Megaascenso TCG Pocket)]]
+[[fr:Feuiloutan (Méga-Ascension 014)]]
+[[it:Simisage (Mega Ascesa 14)]]
+[[ja:ヤナッキー (ポケポケ B1)]]
+[[zh:花椰猿（B1）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cacturne
+|ja name=ノクタス
+|trans name=Noctus
+|species=Cacturne
+|type=Grass
+|image=CacturneFantasticalParade7.png
+|illustrator=Suwama Chiaki
+|hp=120
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Cacnea
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=007/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Cacturne''' (Japanese: '''ノクタス''' ''Noctus'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=Spike Rend
+|jname=トゲでえぐる
+|jtrans=Bore with Spike
+|damage=60+
+|effect=If your opponent's Active Pokémon has damage on it, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Cacturne
+|species=Scarecrow
+|ndex=0332
+|height=4'3"
+|jheight=1.3
+|weight=170.6
+|jweight=77.4
+|dex=It lives in deserts. It becomes active at night when it hunts for prey exhausted from the desert's heat. 
+|jdex=砂漠に 生息。 夜になると 動きだし 砂漠の 暑さで 疲れ果てた 獲物を 捕らえる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Plasma Freeze|Cacturne|10}} from the {{TCG|Plasma Freeze}} expansion.
+*'''Spike Rend''' is an attack that first appeared on {{TCG ID|EX Emerald|Cacturne ex|91}} from the {{TCG|EX Emerald}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Noktuska (Traumhafte Parade 007)]]
+[[fr:Cacturne (Parade Onirique 007)]]
+[[it:Cacturne (Parata Fantasmagorica 7)]]
+[[ja:ノクタス (ポケポケ B2)]]
+[[zh:梦歌仙人掌（B2）]]

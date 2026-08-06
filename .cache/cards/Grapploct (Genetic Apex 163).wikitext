@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Grapploct
+|ja name=オトスパス
+|trans name=Otosupus
+|species=Grapploct
+|type=Fighting
+|image=GrapploctGeneticApex163.png
+|illustrator=kurumitsu
+|hp=130
+|weakness=Psychic
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Clobbopus
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=163/226|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Grapploct''' (Japanese: '''オトスパス''' ''Otosupus'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Knock Back
+|jname=なぐりとばす
+|jtrans=Knock Back
+|damage=70
+|effect=Switch out your opponent's Active Pokémon to the Bench. ''(Your opponent chooses the new Active Pokémon.)''
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Grapploct
+|species=Jujitsu
+|ndex=0853
+|height=5'3"
+|jheight=1.6
+|weight=86
+|jweight=39.0
+|dex=A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful.
+|jdex=全身が　筋肉の　塊｡ 触手を　使って　繰りだす 絞め技の　威力は　凄まじい｡
+}}
+
+==Trivia==
+===Origin===
+*'''Knock Back''' is an attack that first appeared on {{TCG ID|Team Rocket|Dark Machoke|40}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kaocto (Unschlagbare Gene 163)]]
+[[es:Grapploct (Genes Formidables TCG Pocket)]]
+[[fr:Krakos (Puissance Génétique 163)]]
+[[it:Grapploct (Geni Supremi 163)]]
+[[ja:オトスパス (ポケポケ A1)]]
+[[zh:八爪武师（A1）]]

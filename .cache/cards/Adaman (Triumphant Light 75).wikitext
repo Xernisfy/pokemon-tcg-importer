@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Adaman
+|ja name=セキ
+|trans name=Seki
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AdamanTriumphantLight75.png|illustrator=akagi|illustrator link=akagi (illustrator)|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AdamanTriumphantLight90.png|illustrator=akagi|illustrator link=akagi (illustrator)|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=075/075|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=090/075|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Adaman''' (Japanese: '''セキ''' ''Seki'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=During your opponent's next turn, all of your {{e|Metal}} Pokémon take −20 damage from attacks from your opponent's Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=AdamanTriumphantLight75.png
+|caption1=Uncommon card<br>Illus. [[akagi (illustrator)|akagi]]
+|image2=AdamanTriumphantLight90.png
+|caption2=Super rare card<br>Illus. [[akagi (illustrator)|akagi]]
+}}
+
+==Trivia==
+* This card's effect is similar to {{TCG|Jasmine's Gaze}} in the [[Pokémon Trading Card Game]], but decreases damage by 20 instead of 30 and only applies to {{e|Metal}} Pokémon.
+** This card's effect is also similar to the {{TCG|Stadium card}} {{TCG|Full Metal Lab}} in the Pokémon Trading Card Game, but this card is a Supporter card that only applies during the next turn, only affects the player's Pokémon, and decreases damage by 20 instead of 30.
+** {{TCG|Adaman}} also exists in the Pokémon Trading Card Game, but with a different effect.
+
+===Origin===
+*[[Adaman]] is the leader of the [[Diamond Clan]] in [[Pokémon Legends: Arceus]].
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=セキ ''Seki''
+|zh_yue=剛石 ''Gōngsehk''
+|zh_cmn=剛石<!-- / 刚石--> ''Gāngshí''
+|fr=Adamantin
+|de=Diam
+|it=Damon
+|ko=찬석 ''Chanseok''
+|pt_br=Ádamo
+|es=Adamas
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Diam (TCG Pocket)]]
+[[es:Adamas (TCG Pocket)]]
+[[fr:Adamantin (Lumière Triomphale 075)]]
+[[it:Damon (Luce Trionfale 75)]]
+[[ja:セキ (ポケポケ)]]
+[[zh:刚石（TCGP）]]

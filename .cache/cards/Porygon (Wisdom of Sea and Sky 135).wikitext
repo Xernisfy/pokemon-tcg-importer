@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Porygon
+|ja name=ポリゴン
+|trans name=Porygon
+|species=Porygon
+|type=Colorless
+|image=PorygonWisdomofSeaandSky135.png
+|illustrator=ryoma uratsuka
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=135/161|pack=Lugia|rarity=Diamond|rarity count=1}}
+}}
+
+'''Porygon''' (Japanese: '''ポリゴン''' ''Porygon'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Porygon
+|category=Virtual 
+|ndex=0137
+|height=2'7"
+|jheight=0.8
+|weight=80.5
+|jweight=36.5
+|dex=State-of-the-art technology was used to create Porygon. It was the first artificial Pokémon to be created via computer programming.
+|jdex=最高の　科学力を　使い 世界で　はじめて　プログラムにより 作られた　人工の　ポケモン｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Chilling Reign|Porygon|116}} from the {{TCG|Chilling Reign}} expansion.
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Porygon (Weisheit von Meer und Himmel 135)]]
+[[es:Porygon (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Porygon (Sagesse entre Ciel et Mer 135)]]
+[[it:Porygon (La Via del Cielo e del Mare 135)]]
+[[ja:ポリゴン (ポケポケ A4)]]
+[[zh:多边兽（A4）]]

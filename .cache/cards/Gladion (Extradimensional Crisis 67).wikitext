@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Gladion
+|ja name=グラジオ
+|trans name=Glazio
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GladionExtradimensionalCrisis67.png|illustrator=hncl|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GladionExtradimensionalCrisis81.png|illustrator=hncl|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=067/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=081/069|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Gladion''' (Japanese: '''グラジオ''' ''Glazio'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Put 1 random {{TCGP|Type: Null}} or {{TCGP|Silvally}} from your deck into your hand.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=GladionExtradimensionalCrisis67.png
+|caption1=Uncommon card<br>Illus. [[hncl]]
+|image2=GladionExtradimensionalCrisis81.png
+|caption2=Super rare card<br>Illus. [[hncl]]
+}}
+
+==Trivia==
+* {{TCG|Gladion}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Gladion]] is an enforcer for [[Team Skull]].
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=グラジオ ''Glazio''
+|zh_yue=格拉吉歐 ''Gaaklāaigāt'āu''
+|zh_cmn=格拉吉歐<!-- / 格拉吉欧--> ''Gélāji'ōu''
+|fr=Gladio
+|de=Gladio
+|it=Iridio
+|ko=글라디오 ''Gladio''
+|pt_br=Gladio
+|es=Gladio
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gladio (TCG Pocket)]]
+[[es:Gladio (TCG Pocket)]]
+[[fr:Gladio (Crise Interdimensionnelle 067)]]
+[[it:Iridio (Crisi Ultradimensionale 67)]]
+[[ja:グラジオ (ポケポケ)]]
+[[zh:格拉吉欧（TCGP）]]

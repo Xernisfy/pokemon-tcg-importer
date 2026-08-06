@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wattrel
+|ja name=カイデン
+|trans name=Kaiden
+|species=Wattrel
+|type=Lightning
+|image=WattrelPaldeanWonders43.png
+|illustrator=sowsow
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=043/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Wattrel''' (Japanese: '''カイデン''' ''Kaiden'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Flap
+|jname=はばたく
+|jtrans=Flap
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Wattrel
+|category=Storm Petrel
+|ndex=0940
+|height=1'4"
+|jheight=0.4
+|weight=7.9
+|jweight=3.6
+|dex=These Pokémon make their nests on coastal cliffs. The nests have a strange, crackling texture, and they're a popular delicacy.
+|jdex=海岸の 崖に 巣を 作る。 巣は パチパチ 弾ける 不思議な 食感で 人気の 珍味。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Paldea Evolved|Wattrel|81}} from the {{TCG|Paldea Evolved}} expansion.
+**Both cards have the '''Flap''' attack, which first appeared on {{TCG ID|Majestic Dawn|Starly|75}} from the {{TCG|Majestic Dawn}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Voltrel (Wundervolles Paldea 043)]]
+[[fr:Zapétrel (Merveilles de Paldea 043)]]
+[[it:Wattrel (Meraviglie di Paldea 43)]]
+[[ja:カイデン (ポケポケ B2a)]]
+[[zh:电海燕（B2a）]]

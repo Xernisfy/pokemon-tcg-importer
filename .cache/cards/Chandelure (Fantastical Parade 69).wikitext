@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Chandelure
+|ja name=シャンデラ
+|trans name=Chandela
+|species=Chandelure
+|type=Psychic
+|image=ChandelureFantasticalParade69.png
+|illustrator=Naoyo Kimura
+|hp=140
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Lampent
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=069/155|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Chandelure''' (Japanese: '''シャンデラ''' ''Chandela'') is a {{ct|Psychic}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Past Friends
+|jname=デッドストック
+|jtrans=Dead Stock
+|damage=60+
+|effect=This attack does 20 more damage for each {{TCGP|Supporter card}} in your discard pile.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Chandelure
+|species=Luring
+|ndex=0609
+|height=3'3"
+|jheight=1.0
+|weight=75.6
+|jweight=34.3
+|dex=It absorbs spirits, which it then burns. By waving the flames on its arms, it puts its foes into a hypnotic trance.
+|jdex=魂を 吸い取って 燃やす。 腕の 炎を 揺らして 相手を 催眠状態に する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Noble Victories|Chandelure|60}} from the {{TCG|Noble Victories}} expansion.
+*'''Past Friends''' is an attack that first appeared on {{TCG ID|Steam Siege|Chandelure|50}} from the {{TCG|Steam Siege}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Skelabra (Traumhafte Parade 069)]]
+[[fr:Lugulabre (Parade Onirique 069)]]
+[[it:Chandelure (Parata Fantasmagorica 69)]]
+[[ja:シャンデラ (ポケポケ B2)]]
+[[zh:水晶灯火灵（B2）]]

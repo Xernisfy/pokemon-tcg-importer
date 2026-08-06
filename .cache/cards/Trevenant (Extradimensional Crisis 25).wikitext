@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Trevenant
+|ja name=オーロット
+|trans name=Ohrot
+|species=Trevenant
+|type=Psychic
+|image=TrevenantExtradimensionalCrisis25.png
+|illustrator=Kouki Saitou
+|hp=120
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Phantump
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=025/069}}
+}}
+
+'''Trevenant''' (Japanese: '''オーロット''' ''Ohrot'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}{{e|Colorless}}
+|name=Wrack Down
+|jname=たたきつぶす
+|jtrans=Smash Up
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Trevenant
+|species=Elder Tree
+|ndex=0709
+|height=4'11"
+|jheight=1.5
+|weight=156.5
+|jweight=71.0
+|dex=People fear it due to a belief that it devours any who try to cut down trees in its forest, but to the Pokémon it shares its woods with, it's kind.
+|jdex=森の 木を 伐り倒す 人間を 食べると 恐れられているが 森で 暮らす ポケモンたちには 優しい。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|XY Promo|Trevenant|14}}, one of the {{TCG|XY Black Star Promos}}.
+*'''Wrack Down''' is an attack that first appeared on {{TCG ID|Platinum|Giratina|10}} from the {{TCG|Platinum}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Trombork (Dimensionale Krise 025)]]
+[[es:Trevenant (Crisis Dimensional TCG Pocket)]]
+[[fr:Desséliande (Crise Interdimensionnelle 025)]]
+[[it:Trevenant (Crisi Ultradimensionale 25)]]
+[[ja:オーロット (ポケポケ A3a)]]
+[[zh:朽木妖（A3a）]]

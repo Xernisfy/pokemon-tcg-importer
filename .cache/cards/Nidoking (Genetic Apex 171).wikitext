@@ -1,0 +1,79 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Nidoking
+|ja name=ニドキング
+|trans name=Nidoking
+|species=Nidoking
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=NidokingGeneticApex171.png|illustrator=kawayoo|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=NidokingGeneticApex241.png|illustrator=nagimiso|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=NidokingWisdomofSeaandSky228.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=150
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Nidorino
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=171/226|pack=Pikachu|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=241/226|pack=Pikachu|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=228/161|pack=Ho-Oh|rarity=Shiny|rarity count=1}}
+}}
+
+'''Nidoking''' (Japanese: '''ニドキング''' ''Nidoking'') is a {{ct|Darkness}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Colorless}}
+|name=Poison Horn
+|jname=どくのつの
+|jtrans=Poison Horn
+|damage=90
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Nidoking
+|species=Drill
+|ndex=0034
+|height=4'7"
+|jheight=1.4
+|weight=136.7
+|jweight=62.0
+|dex=When it goes on a rampage, it's impossible to control. But in the presence of a Nidoqueen it's lived with for a long time, Nidoking calms down.
+|jdex=暴れると　手が　つけられなくなるが 長年　連れ添った　ニドクインの 前では　穏やかな　顔に　なる｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=NidokingGeneticApex171.png
+|caption1=Rare card<br>Illus. [[kawayoo]]
+|image2=NidokingGeneticApex241.png
+|caption2=Illustration rare card<br>Illus. [[nagimiso]]
+|image3=NidokingWisdomofSeaandSky228.png
+|caption3=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Team Up|Nidoking|59}} from the {{TCG|Team Up}} expansion.
+*This card's shiny rare print features a {{Shiny}} {{p|Nidoking}}.
+*'''Poison Horn''' is an attack that first appeared on {{TCG ID|Vending|Weedle|S1}} from {{TCG|Expansion Sheet 1}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Nidoking (Unschlagbare Gene 171)]]
+[[es:Nidoking (Genes Formidables TCG Pocket)]]
+[[fr:Nidoking (Puissance Génétique 171)]]
+[[it:Nidoking (Geni Supremi 171)]]
+[[ja:ニドキング (ポケポケ A1)]]
+[[zh:尼多王（A1）]]

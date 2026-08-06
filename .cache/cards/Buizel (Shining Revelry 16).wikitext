@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Buizel
+|ja name=ブイゼル
+|trans name=Buoysel
+|species=Buizel
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BuizelShiningRevelry16.png|illustrator=sui|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BuizelShiningRevelry74.png|illustrator=Shimaris Yukichi|tab caption=Illustration Rare}}
+|hp=70
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=016/072|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=074/072|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Buizel''' (Japanese: '''ブイゼル''' ''Buoysel'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Water Gun
+|jname=みずでっぽう
+|jtrans=Water Gun
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Buizel
+|category=Sea Weasel 
+|ndex=0418
+|height=2'4"
+|jheight=0.7
+|weight=65
+|jweight=29.5
+|dex=It inflates its flotation sac, keeping its face above water in order to watch for prey movement.
+|jdex=くびの うきぶくろを ふくらませて すいめんに かおを だし ちじょうの えものの うごきを さぐるのだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=BuizelShiningRevelry16.png
+|caption1=Common card<br>Illus. [[sui]]
+|image2=BuizelShiningRevelry74.png
+|caption2=Illustration rare card<br>Illus. [[Shimaris Yukichi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Flashfire|Buizel|28}} from the {{TCG|Flashfire}} expansion.
+*{{m|Water Gun}} is a [[move]] in the [[Pokémon games]] that {{p|Buizel}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bamelin (Glänzendes Festival 016)]]
+[[es:Buizel (Festival Brillante TCG Pocket)]]
+[[fr:Mustébouée (Réjouissances Rayonnantes 016)]]
+[[it:Buizel (Tripudio Splendente 16)]]
+[[ja:ブイゼル (ポケポケ A2b)]]
+[[zh:泳圈鼬（A2b）]]

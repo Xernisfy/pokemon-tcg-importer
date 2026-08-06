@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Surskit
+|ja name=アメタマ
+|trans name=Ametama
+|species=Surskit
+|type=Grass
+|image=SurskitCelestialGuardians3.png
+|illustrator=Miki Tanaka
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=003/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Surskit''' (Japanese: '''アメタマ''' ''Ametama'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Quick Attack
+|jname=でんこうせっか
+|jtrans=Lightning Speed
+|damage=10+
+|effect=Flip a coin. If heads, this attack does 20 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Surskit
+|category=Pond Skater 
+|ndex=0283
+|height=1'8"
+|jheight=0.5
+|weight=3.7
+|jweight=1.7
+|dex=They usually live on ponds, but after an evening shower, they may appear on puddles in towns.
+|jdex=普段は 池に 棲んでいるが 夕立の 後には 街中の 水たまりに 姿を 現す。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Supreme Victors|Surskit|130}} from the {{TCG|Supreme Victors}} expansion; both cards have the Quick Attack attack.
+*{{m|Quick Attack}} is a [[move]] in the [[Pokémon games]] that {{p|Surskit}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gehweiher (Hüter des Firmaments 003)]]
+[[es:Surskit (Guardianes Celestiales TCG Pocket)]]
+[[fr:Arakdo (Gardiens Astraux 003)]]
+[[it:Surskit (Guardiani Astrali 3)]]
+[[ja:アメタマ (ポケポケ A3)]]
+[[zh:溜溜糖球（A3）]]

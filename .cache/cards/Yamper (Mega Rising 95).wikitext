@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Yamper
+|ja name=ワンパチ
+|trans name=Wanpachi
+|species=Yamper
+|type=Lightning
+|image=YamperMegaRising95.png
+|illustrator=Saya Tsuruta
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=095/226|pack=Mega Altaria|rarity=Diamond|rarity count=1}}
+}}
+
+'''Yamper''' (Japanese: '''ワンパチ''' ''Wanpachi'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Colorless}}
+|name=Roar
+|jname=ほえる
+|jtrans=Roar
+|damage=
+|effect=Your opponent switches their Active Pokémon with 1 of their Benched Pokémon. ''(Your opponent chooses the new Active Pokémon.)''
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Yamper
+|category=Puppy
+|ndex=0835
+|height=1'
+|jheight=0.3
+|weight=29.8
+|jweight=13.5
+|dex=This gluttonous Pokémon only assists people with their work because it wants treats. As it runs, it crackles with electricity.
+|jdex=おやつに 釣られて 人の 仕事を 手伝う 食いしん坊。パチパチと 電気を まとって ひた走る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sword & Shield|Yamper|74}} from the {{TCG|Sword & Shield}} expansion.
+*{{m|Roar}} is a [[move]] in the [[Pokémon games]] that {{p|Yamper}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Voldi (Mega-Aufstieg 095)]]
+[[es:Yamper (Megaascenso TCG Pocket)]]
+[[fr:Voltoutou (Méga-Ascension 095)]]
+[[it:Yamper (Mega Ascesa 95)]]
+[[ja:ワンパチ (ポケポケ B1)]]
+[[zh:来电汪（B1）]]

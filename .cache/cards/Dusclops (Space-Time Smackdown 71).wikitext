@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dusclops
+|ja name=サマヨール
+|trans name=Samayouru
+|species=Dusclops
+|type=Psychic
+|image=DusclopsSpace-TimeSmackdown71.png
+|illustrator=Sumiyoshi Kizuki
+|hp=90
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Duskull
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=071/155|pack=Dialga|rarity=Diamond|rarity count=2}}
+}}
+
+'''Dusclops''' (Japanese: '''サマヨール''' ''Samayouru'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}{{e|Colorless}}
+|name=Psypunch
+|jname=サイコパンチ
+|jtrans=Psycho Punch
+|damage=50
+|effect=
+}} 
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Dusclops
+|species=Beckon
+|ndex=0356
+|height=5'3"
+|jheight=1.6
+|weight=67.5
+|jweight=30.6
+|dex=It seeks drifting will-o'-the-wisps and sucks them into its empty body. What happens inside is a mystery.
+|jdex=さまよっている　ひとだまを　みつけ　からっぽの　たいないに　すいこむ。すいこまれて　どうなるかは　なぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Stormfront|Dusclops|35}} from the {{TCG|Stormfront}} expansion.
+*'''Psypunch''' is an attack that first appeared on {{TCG ID|Team Rocket|Dark Hypno|9}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zwirrklop (Kollision von Raum und Zeit 071)]]
+[[es:Dusclops (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Téraclope (Choc Spatio-Temporel 071)]]
+[[it:Dusclops (Scontro Spaziotemporale 71)]]
+[[ja:サマヨール (ポケポケ A2)]]
+[[zh:彷徨夜灵（A2）]]

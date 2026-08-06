@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Primeape
+|ja name=オコリザル
+|trans name=Okorizaru
+|species=Primeape
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PrimeapeGeneticApex142.png|illustrator=Kagemaru Himeno|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PrimeapeWisdomofSeaandSky222.png|illustrator=MAHOU|tab caption=Shiny Rare}}
+|hp=90
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Mankey
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=142/226|pack=Charizard|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=222/161|pack=Ho-Oh|rarity=Shiny|rarity count=1}}
+}}
+
+'''Primeape''' (Japanese: '''オコリザル''' ''Okorizaru'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Fight Back
+|jname=やりかえす
+|jtrans=Retort
+|damage=40+
+|effect=If this Pokémon has damage on it, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Primeape
+|species=Pig Monkey
+|ndex=0057
+|height=3'3"
+|jheight=1
+|weight=70.5
+|jweight=32.0
+|dex=It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.
+|jdex=だれかの　視線を　感じただけで 猛烈に　怒りだす｡　そして 目が合った　ものを　追いかけるのだ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=PrimeapeGeneticApex142.png
+|caption1=Uncommon card<br>Illus. [[Kagemaru Himeno]]
+|image2=PrimeapeWisdomofSeaandSky222.png
+|caption2=Shiny rare card<br>Illus. [[MAHOU]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Jungle|Primeape|43}} from the {{TCG|Jungle}} expansion.
+*This card's shiny rare print features a {{Shiny}} {{p|Primeape}}.
+*'''Fight Back''' is an attack that first appeared on {{TCG ID|Platinum|Vigoroth|64}} from the {{TCG|Platinum}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rasaff (Unschlagbare Gene 142)]]
+[[es:Primeape (Genes Formidables TCG Pocket)]]
+[[fr:Colossinge (Puissance Génétique 142)]]
+[[it:Primeape (Geni Supremi 142)]]
+[[ja:オコリザル (ポケポケ A1)]]
+[[zh:火暴猴（A1）]]

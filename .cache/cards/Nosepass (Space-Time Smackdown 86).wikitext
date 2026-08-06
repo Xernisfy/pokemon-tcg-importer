@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Nosepass
+|ja name=ノズパス
+|trans name=Nosepass
+|species=Nosepass
+|type=Fighting
+|image=NosepassSpace-TimeSmackdown86.png
+|illustrator=Midori Harada
+|hp=70
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=086/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Nosepass''' (Japanese: '''ノズパス''' ''Nosepass'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Nosepass
+|species=Compass
+|ndex=0299
+|height=3'3"
+|jheight=1.0
+|weight=213.8
+|jweight=97.0
+|dex=It moves less than an inch a year, but when it's in a jam, it will spin and drill down into the ground in a split second.
+|jdex=１年に １センチしか 動かないが ピンチに 陥ると 回転し 一瞬で 地中に 潜る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Arceus|Nosepass|69}} from the {{TCG|Arceus}} expansion.
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Nasgnet (Kollision von Raum und Zeit 086)]]
+[[es:Nosepass (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Tarinor (Choc Spatio-Temporel 086)]]
+[[it:Nosepass (Scontro Spaziotemporale 86)]]
+[[ja:ノズパス (ポケポケ A2)]]
+[[zh:朝北鼻（A2）]]

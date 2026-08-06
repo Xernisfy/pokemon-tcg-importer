@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Yanma
+|ja name=ヤンヤンマ
+|trans name=Yanyanma
+|species=Yanma
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=YanmaSpace-TimeSmackdown6.png|illustrator=Eri Yamaki|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=YanmaDeluxePackex21.png|illustrator=Eri Yamaki|tab caption=Parallel}}
+|hp=50
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=006/155|pack=Dialga|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=020/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=021/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Yanma''' (Japanese: '''ヤンヤンマ''' ''Yanyanma'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Flap
+|jname=はばたく
+|jtrans=Flap
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Yanma
+|species=Clear Wing
+|ndex=0193
+|height=3'11"
+|jheight=1.2
+|weight=83.8
+|jweight=38.0
+|dex=Its eyes can see 360 degrees without moving its head. It won't miss prey—even those behind it.
+|jdex=顔を 動かさずに ３６０度 すべてを 見渡す 目を 持つので 真後ろの 獲物も 見逃さない。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=YanmaSpace-TimeSmackdown6.png
+|caption1=Standard card<br>Illus. [[Eri Yamaki]]
+|image2=YanmaDeluxePackex21.png
+|caption2=Parallel foil card<br>Illus. [[Eri Yamaki]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Yanma|2}} from the {{TCG|Unified Minds}} expansion.
+*{{DL|Skill (Shuffle)|Flap}} is a {{OBP|skill|Shuffle}} in [[Pokémon Shuffle]], though {{p|Yanma}} cannot have it.
+**As an attack in the TCG, it first appeared on {{TCG ID|Majestic Dawn|Starly|75}} from the {{TCG|Majestic Dawn}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Yanma (Kollision von Raum und Zeit 006)]]
+[[es:Yanma (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Yanma (Choc Spatio-Temporel 006)]]
+[[it:Yanma (Scontro Spaziotemporale 6)]]
+[[ja:ヤンヤンマ (ポケポケ A2)]]
+[[zh:蜻蜻蜓（A2）]]

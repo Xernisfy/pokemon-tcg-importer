@@ -1,0 +1,63 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wigglytuff
+|ja name=プクリン
+|trans name=Pukurin
+|species=Wigglytuff
+|type=Colorless
+|image=WigglytuffGeneticApex194.png
+|illustrator=Atsuko Nishida
+|hp=100
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Jigglypuff
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Pikachu|rarity=Diamond|rarity count=1|number=194/226}}
+}}
+
+'''Wigglytuff''' (Japanese: '''プクリン''' ''Pukurin'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Hyper Voice
+|jname=ハイパーボイス
+|jtrans=Hyper Voice
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Wigglytuff
+|species=Balloon
+|ndex=0040
+|height=3'3"
+|jheight=1
+|weight=26.5
+|jweight=12.0
+|dex=It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.
+|jdex=キメ細やかな　毛皮の　持ち主｡ 怒らせると　どんどん　ふくらみ のしかかってくるので　注意｡
+}}
+
+==Trivia==
+This card's illustration features a [[Moon Stone]], an [[Evolution stone]] which can be used to evolve {{p|Jigglypuff}} into {{p|Wigglytuff}}.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|HeartGold & SoulSilver|Wigglytuff|56}} from the {{TCG|HeartGold & SoulSilver}} expansion.
+*{{m|Hyper Voice}} is a [[move]] in the [[Pokémon games]] that {{p|Wigglytuff}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knuddeluff (Unschlagbare Gene 194)]]
+[[es:Wigglytuff (Genes Formidables TCG Pocket)]]
+[[fr:Grodoudou (Puissance Génétique 194)]]
+[[it:Wigglytuff (Geni Supremi 194)]]
+[[ja:プクリン (ポケポケ A1)]]
+[[zh:胖可丁（A1）]]

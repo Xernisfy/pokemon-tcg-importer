@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Escavalier
+|ja name=シュバルゴ
+|trans name=Chevargo
+|species=Escavalier
+|type=Metal
+|image=EscavalierCelestialGuardians120.png
+|illustrator=Satoshi Shirai
+|hp=110
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Karrablast
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=120/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Escavalier''' (Japanese: '''シュバルゴ''' ''Chevargo'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}
+|name=Pike
+|jname=ロングスピア
+|jtrans=Long Spear
+|damage=30
+|effect=This attack also does 20 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex
+|type=Metal
+|name=Escavalier
+|species=Cavalry
+|ndex=0589
+|height=3'3"
+|jheight=1.0
+|weight=72.8
+|jweight=33.0
+|dex=Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances.
+|jdex=チョボマキから　うばった　カラで　からだを　おおい　ガードしながら　2ほんの　ヤリで　ついてくる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Escavalier|142}} from the {{TCG|Unified Minds}} expansion.
+*'''Pike''' is an attack that first appeared on {{TCG ID|Black & White|Samurott|31}} from the {{TCG|Black & White}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Omega Ruby}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Cavalanzas (Hüter des Firmaments 120)]]
+[[es:Escavalier (Guardianes Celestiales TCG Pocket)]]
+[[fr:Lançargot (Gardiens Astraux 120)]]
+[[it:Escavalier (Guardiani Astrali 120)]]
+[[ja:シュバルゴ (ポケポケ A3)]]
+[[zh:骑士蜗牛（A3）]]

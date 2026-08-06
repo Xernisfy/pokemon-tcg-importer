@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Paldean Wooper
+|ja name=パルデアウパー
+|trans name=Paldean Upah
+|species=Wooper
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PaldeanWooperPaldeanWonders64.png|illustrator=Pani Kobayashi|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PaldeanWooperPaldeanWonders97.png|illustrator=Miki Tanaka|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=064/093}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Star|rarity count=1|number=097/093}}
+}}
+
+'''Paldean Wooper''' (Japanese: '''パルデアウパー''' ''Paldean Upah'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}
+|name=Flop
+|jname=はねまわる
+|jtrans=Hop About
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Wooper
+|category=Poison Fish 
+|ndex=0194
+|height=1'4"
+|jheight=0.4
+|weight=24.3
+|jweight=11.0
+|dex=It's dangerous for Wooper to travel alone. They line up in groups of three or four and help each other as they walk around the wetlands.
+|jdex=単独行動は 危険なので 3、4匹が 一列に 並んで 助け合いながら 沼地を 歩く。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=PaldeanWooperPaldeanWonders64.png
+|caption1=Common card<br>Illus. [[Pani Kobayashi]]
+|image2=PaldeanWooperPaldeanWonders97.png
+|caption2=Illustration rare card<br>Illus. [[Miki Tanaka]]
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Paldean form]] of {{p|Wooper}}.
+*This card's standard illustration was first featured on {{TCG ID|Obsidian Flames|Paldean Wooper|127}} from the {{TCG|Obsidian Flames}} expansion.
+**Both cards have the '''Flop''' attack, which first appeared on {{TCG ID|Team Rocket|Magikarp|47}} from the {{TCG|Team Rocket}} expansion.
+*This card's illustration rare artwork was first featured on {{TCG ID|Paldea Evolved|Paldean Wooper|221}} from the {{TCG|Paldea Evolved}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Paldea-Felino (Wundervolles Paldea 064)]]
+[[es:Wooper de Paldea (Encantos de Paldea TCG Pocket)]]
+[[fr:Axoloto de Paldea (Merveilles de Paldea 064)]]
+[[it:Wooper di Paldea (Meraviglie di Paldea 64)]]
+[[ja:パルデアウパー (ポケポケ B2a)]]
+[[zh:帕底亚 乌波（B2a）]]

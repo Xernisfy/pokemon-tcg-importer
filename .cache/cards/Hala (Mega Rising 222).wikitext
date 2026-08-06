@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Hala
+|ja name=ハラ
+|trans name=Hala
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HalaMegaRising222.png|illustrator=Teeziro|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HalaMegaRising267.png|illustrator=Teeziro|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Blaziken|rarity=Diamond|rarity count=2|number=222/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Blaziken|rarity=Star|rarity count=2|number=267/226}}
+}}
+
+'''Hala''' (Japanese: '''ハラ''' ''Hala'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=During your opponent's next turn, if your {{TCGP|Hariyama}} or {{TCGP|Crabominable}} would be Knocked Out by damage from an attack, it is not Knocked Out and its remaining HP becomes 10.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=HalaMegaRising222.png
+|caption1=Uncommon card<br>Illus. [[Teeziro]]
+|image2=HalaMegaRising267.png
+|caption2=Super rare card<br>Illus. [[Teeziro]]
+}}
+
+==Trivia==
+* {{TCG|Hala}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Hala]] is the [[Island kahuna|kahuna]] of [[Melemele Island]].
+*{{p|Hariyama}} and {{p|Crabominable}} are Pokémon that Hala uses in {{game4|SMUSUM}}.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=ハラ ''Hala''
+|zh_yue=哈拉 ''Hālāai''
+|zh_cmn=哈拉 ''Hālā''
+|fr=Pectorius
+|de=Hala
+|it=Hala
+|ko=할라 ''Halla''
+|pt_br=Pandam
+|es=Kaudan
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hala (TCG Pocket)]]
+[[es:Kaudan (TCG Pocket)]]
+[[fr:Pectorius (Méga-Ascension 222)]]
+[[it:Hala (Mega Ascesa 222)]]
+[[ja:ハラ (ポケポケ)]]
+[[zh:哈拉（TCGP）]]

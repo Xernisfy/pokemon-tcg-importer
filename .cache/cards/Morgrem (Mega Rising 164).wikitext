@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Morgrem
+|ja name=ギモー
+|trans name=Gimoh
+|species=Morgrem
+|type=Darkness
+|image=MorgremMegaRising164.png
+|illustrator=Hitoshi Ariga
+|hp=90
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Impidimp
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=164/226|pack=Mega Altaria|rarity=Diamond|rarity count=2}}
+}}
+
+'''Morgrem''' (Japanese: '''ギモー''' ''Gimoh'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=False Surrender
+|jname=どげざつき
+|jtrans=False Surrender
+|damage=50
+|effect=This attack's damage isn't affected by any effects on your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Morgrem
+|category=Devious
+|ndex=0860
+|height=2'7"
+|jheight=0.8
+|weight=27.6
+|jweight=12.5
+|dex=This Pokémon absorbs negative emotions and turns them into energy. It's popular with people who tend to think gloomy thoughts.
+|jdex=負の 感情を 吸い取って エネルギーにしている ポケモン。 マイナス思考の 人に 人気。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Morgrem|124}} from the {{TCG|Rebel Clash}} expansion; both cards have the False Surrender attack.
+*{{m|False Surrender}} is a [[move]] in the [[Pokémon games]] that {{p|Morgrem}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pelzebub (Mega-Aufstieg 164)]]
+[[es:Morgrem (Megaascenso TCG Pocket)]]
+[[fr:Fourbelin (Méga-Ascension 164)]]
+[[it:Morgrem (Mega Ascesa 164)]]
+[[ja:ギモー (ポケポケ B1)]]
+[[zh:诈唬魔（B1）]]

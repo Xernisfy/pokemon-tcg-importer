@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Chingling
+|ja name=リーシャン
+|trans name=Lisyan
+|species=Chingling
+|type=Psychic
+|image=ChinglingMegaRising109.png
+|illustrator=Kagemaru Himeno
+|hp=30
+|weakness=
+|retreat cost=0
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=109/226|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Chingling''' (Japanese: '''リーシャン''' ''Lisyan'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost=
+|name=Jingly Noise
+|jname=しゃんしゃんノイズ
+|jtrans=Jingling Noise
+|damage=10
+|effect=During your opponent's next turn, they can't play any {{TCGP|Item card}}s from their hand.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Chingling
+|category=Bell
+|ndex=0433
+|height=8"
+|jheight=0.2
+|weight=1.3
+|jweight=0.6
+|dex=There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.
+|jdex=飛び跳ねると 口の中にある 玉が あちこちに 反射して 鈴のような 音色と なる。
+}}
+
+==Trivia==
+
+* This card plays the same role as {{TCG ID|Prismatic Evolutions|Budew|4}} in the physical [[Pokémon Trading Card Game]].
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Supreme Victors|Chingling|98}} from the {{TCG|Supreme Victors}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Klingplim (Mega-Aufstieg 109)]]
+[[es:Chingling (Megaascenso TCG Pocket)]]
+[[fr:Korillon (Méga-Ascension 109)]]
+[[it:Chingling (Mega Ascesa 109)]]
+[[ja:リーシャン (ポケポケ B1)]]
+[[zh:铃铛响（B1）]]

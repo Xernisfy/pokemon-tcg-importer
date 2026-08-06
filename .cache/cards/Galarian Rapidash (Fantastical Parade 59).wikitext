@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Galarian Rapidash
+|ja name=ガラルギャロップ
+|trans name=Galarian Gallop
+|species=Rapidash
+|type=Psychic
+|image=GalarianRapidashFantasticalParade59.png
+|illustrator=You Iribi
+|hp=100
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Galarian Ponyta
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=059/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Galarian Rapidash''' (Japanese: '''ガラルギャロップ''' ''Galarian Gallop'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Photon Laser
+|jname=フォトンレーザー
+|jtrans=Photon Laser
+|damage=40+
+|effect=If you have 5 or more {{e|Psychic}} Energy in play, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Rapidash
+|category=Unique Horn
+|ndex=0078
+|height=5'7"
+|jheight=1.7
+|weight=176.4
+|jweight=80.0
+|dex=Brave and prideful, this Pokémon dashes airily through the forest, its steps aided by the psychic power stored in the fur on its fetlocks.
+|jdex=勇猛果敢で 誇り 高い。 足先の 毛に サイコパワーを ためて 軽やかに 森を 駆ける。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sword & Shield|Galarian Rapidash|82}} from the {{TCG|Sword & Shield}} expansion.
+*'''Photon Laser''' is an attack that first appeared on {{TCG ID|Chilling Reign|Cresselia|64}} from the {{TCG|Chilling Reign}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Galar-Gallopa (Traumhafte Parade 059)]]
+[[fr:Galopa de Galar (Parade Onirique 059)]]
+[[it:Rapidash di Galar (Parata Fantasmagorica 59)]]
+[[ja:ガラルギャロップ (ポケポケ B2)]]
+[[zh:伽勒尔 烈焰马（B2）]]

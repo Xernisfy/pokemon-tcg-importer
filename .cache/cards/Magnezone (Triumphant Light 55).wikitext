@@ -1,0 +1,69 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Magnezone
+|ja name=ジバコイル
+|trans name=Jibacoil
+|species=Magnezone
+|type=Metal
+|image=MagnezoneTriumphantLight55.png
+|illustrator=toriyufu
+|hp=140
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Magneton
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=055/075|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Magnezone''' (Japanese: '''ジバコイル''' ''Jibacoil'') is a {{ct|Metal}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Ability/Pocket
+|type=Metal
+|name=Resilience Link
+|jname=ガードリンク
+|jtrans=Guard Link
+|effect=If you have {{TCGP|Arceus}} or {{DL|Arceus (TCG Pocket)|Arceus ex}} in play, this Pokémon takes −30 damage from attacks.
+}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Colorless}}
+|name=Power Beam
+|jname=パワービーム
+|jtrans=Power Beam
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Magnezone
+|species=Magnet Area
+|ndex=0462
+|height=3'11"
+|jheight=1.2
+|weight=396.8
+|jweight=180.0
+|dex=As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin while transmitting signals of unknown purpose.
+|jdex=怪電波を 発信しながら 空を 飛びまわり 未知の 電波を 受信 しているという。
+}}
+
+==Trivia==
+Magnezone is one of eight Pokémon in the {{TCGP|Triumphant Light}} expansion to feature a {{TCGP|Link Ability}} that is active or usable while {{TCGP|Arceus|Arceus or Arceus ex}} is in play. All of these cards, along with {{TCG ID|Triumphant Light|Arceus|70}} and {{TCG ID|Triumphant Light|Arceus ex|71}} from the same expansion, have a special pattern behind the card text to symbolise their connection to Arceus and are part of the [[Triumphant Light (TCG Pocket)#Themed Collections|Themed Collection]] "Pokémon with Abilities that "Link" with Arceus".
+
+===Origin===
+*'''Power Beam''' is an attack that first appeared on {{TCG ID|Double Crisis|Team Magma's Claydol|11}} from the {{TCG|Double Crisis}} special expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Magnezone (Licht des Triumphs 055)]]
+[[es:Magnezone (Luz Triunfal TCG Pocket)]]
+[[fr:Magnézone (Lumière Triomphale 055)]]
+[[it:Magnezone (Luce Trionfale 55)]]
+[[ja:ジバコイル (ポケポケ A2a)]]
+[[zh:自爆磁怪（A2a）]]

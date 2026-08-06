@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Glaceon
+|ja name=グレイシア
+|trans name=Glacia
+|species=Glaceon
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GlaceonEeveeGrove17.png|illustrator=Mizue|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GlaceonEeveeGrove73.png|illustrator=Fujimoto Gold|tab caption=Illustration Rare}}
+|hp=100
+|weakness=Metal
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Eevee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=017/069|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=073/069|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Glaceon''' (Japanese: '''グレイシア''' ''Glacia'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Ice Blade
+|jname=こおりのやいば
+|jtrans=Blade of Ice
+|damage=
+|effect=This attack does 50 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Glaceon
+|category=Fresh Snow 
+|ndex=0471
+|height=2'7"
+|jheight=0.8
+|weight=57.1
+|jweight=25.9
+|dex=It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.
+|jdex=体温を 自在に コントロールし 大気の 水分を 凍らせて ダイヤモンドダストを 巻き起こす。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=GlaceonEeveeGrove17.png
+|caption1=Rare card<br>Illus. [[Mizue]]
+|image2=GlaceonEeveeGrove73.png
+|caption2=Illustration rare card<br>Illus. [[Fujimoto Gold]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|SM Promo|Glaceon|238}}, one of the {{TCG|SM Black Star Promos}}.
+*'''Ice Blade''' is an attack that first appeared on {{TCG ID|Diamond & Pearl|Empoleon|4}} from the {{TCG|Diamond & Pearl}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Glaziola (Evoli-Hain 017)]]
+[[es:Glaceon (Arboleda de Eevee TCG Pocket)]]
+[[fr:Givrali (La Clairière d'Évoli 017)]]
+[[it:Glaceon (Il Bosco di Eevee 17)]]
+[[ja:グレイシア (ポケポケ A3b)]]
+[[zh:冰伊布（A3b）]]

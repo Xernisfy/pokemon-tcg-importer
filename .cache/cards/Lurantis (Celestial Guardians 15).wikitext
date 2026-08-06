@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lurantis
+|ja name=ラランテス
+|trans name=Lalantes
+|species=Lurantis
+|type=Grass
+|image=LurantisCelestialGuardians15.png
+|illustrator=AKIRA EGAWA
+|hp=90
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Fomantis
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=015/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Lurantis''' (Japanese: '''ラランテス''' ''Lalantes'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Petal Blizzard
+|jname=はなふぶき
+|jtrans=Flower Blizzard
+|damage=
+|effect=This attack does 20 damage to each of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Lurantis
+|species=Bloom Sickle
+|ndex=0754
+|height=2'11"
+|jheight=0.9
+|weight=40.8
+|jweight=18.5
+|dex=By masquerading as a bug Pokémon, it lowers the guard of actual bug Pokémon lured in by a scent of sweet flowers. Its sickles bring them down.
+|jdex=花の 甘い 香りに 誘われて 寄ってきた 虫ポケモンを 仲間と 油断させ カマで 仕留める。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Lurantis|16}} from the {{TCG|Unified Minds}} expansion, which also has the Petal Blizzard attack.
+*{{m|Petal Blizzard}} is a [[move]] in the [[Pokémon games]] that {{p|Lurantis}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mantidea (Hüter des Firmaments 015)]]
+[[es:Lurantis (Guardianes Celestiales TCG Pocket)]]
+[[fr:Floramantis (Gardiens Astraux 015)]]
+[[it:Lurantis (Guardiani Astrali 15)]]
+[[ja:ラランテス (ポケポケ A3)]]
+[[zh:兰螳花（A3）]]

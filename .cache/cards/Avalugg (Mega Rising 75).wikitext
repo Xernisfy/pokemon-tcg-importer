@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Avalugg
+|ja name=クレベース
+|trans name=Crebase
+|species=Avalugg
+|type=Water
+|image=AvaluggMegaRising75.png
+|illustrator=Kouki Saitou
+|hp=140
+|weakness=Metal
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Bergmite
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Diamond|rarity count=2|number=075/226}}
+}}
+
+'''Avalugg''' (Japanese: '''クレベース''' ''Crebase'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Frost Barrier
+|jname=フロストバリア
+|jtrans=Frost Barrier
+|damage=70
+|effect=During your opponent's next turn, this Pokémon takes -20 damage from attacks.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Avalugg
+|species=Iceberg
+|ndex=0713
+|height= 6'7"
+|jheight=2.0
+|weight=1113.3
+|jweight=505.0
+|dex=This Pokémon uses its massive icy body to flatten anything that gets in its way. When it's floating out on the ocean, it looks exactly like drift ice.
+|jdex=氷の 巨体で 邪魔者は すべて 圧し潰す。 海に 浮かぶ 姿は 流氷 そっくり。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Evolving Skies|Avalugg|45}} from the {{TCG|Evolving Skies}} expansion; both cards have the Frost Barrier attack.
+*'''Frost Barrier''' is an attack that first appeared on {{TCG ID|Flashfire|Avalugg|31}} from the {{TCG|Flashfire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Arktilas (Mega-Aufstieg 075)]]
+[[es:Avalugg (Megaascenso TCG Pocket)]]
+[[fr:Séracrawl (Méga-Ascension 075)]]
+[[it:Avalugg (Mega Ascesa 75)]]
+[[ja:クレベース (ポケポケ B1)]]
+[[zh:冰岩怪（B1）]]

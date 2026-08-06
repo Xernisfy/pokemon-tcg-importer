@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Florges
+|ja name=フラージェス
+|trans name=Florges
+|species=Florges
+|type=Psychic
+|image=FlorgesMythicalIsland38.png
+|illustrator=Cona Nitanda
+|hp=120
+|weakness=Metal
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Floette
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=038/068|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Florges''' (Japanese: '''フラージェス''' ''Florges'') is a {{ct|Psychic}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Bloomshine
+|jname=ブルームシャイン
+|jtrans=Bloomshine
+|damage=80
+|effect=Heal 20 damage from each of your Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Florges
+|species=Garden
+|ndex=0671
+|height=3'7"
+|jheight=1.1
+|weight=22
+|jweight=10.0
+|dex=This Pokémon creates an impressive flower garden in its territory. It draws forth the power of the red flowers around its neck.
+|jdex=自分の　テリトリーに　見事な 花園を　作る｡　首まわりの 赤い花の　パワーを　引き出す｡
+}}
+
+==Trivia==
+===Origin===
+*'''Bloomshine''' is an attack that first appeared on {{TCG ID|Crown Zenith|Calyrex|17}} from the {{TCG|Crown Zenith}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Florges (Mysteriöse Insel 038)]]
+[[es:Florges (La Isla Singular TCG Pocket)]]
+[[fr:Florges (L'Île Fabuleuse 038)]]
+[[it:Florges (L'Isola Misteriosa 38)]]
+[[ja:フラージェス (ポケポケ A1a)]]
+[[zh:花洁夫人（A1a）]]

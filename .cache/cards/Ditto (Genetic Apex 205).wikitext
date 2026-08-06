@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ditto
+|ja name=メタモン
+|trans name=Metamon
+|species=Ditto
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DittoGeneticApex205.png|illustrator=Miki Tanaka|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DittoGeneticApex247.png|illustrator=Jerky|tab caption=Illustration Rare}}
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=205/226|pack=Mewtwo|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=247/226|pack=Mewtwo|rarity=Star|rarity count=1}}
+}}
+
+'''Ditto''' (Japanese: '''メタモン''' ''Metamon'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Copy Anything
+|jname=どこでもコピー
+|jtrans=Copy Anywhere
+|damage=
+|effect=Choose 1 of your opponent's Pokémon's attacks and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Ditto
+|species=Transform
+|ndex=0132
+|height=1'
+|jheight=0.3
+|weight=8.8
+|jweight=4.0
+|dex=Its transformation ability is perfect. However, if made to laugh, it can't maintain its disguise.
+|jdex=変身は　完璧なのだが 笑わされて　力が　抜けると 変身は　解けてしまう｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=DittoGeneticApex205.png
+|caption1=Rare card<br>Illus. [[Miki Tanaka]]
+|image2=DittoGeneticApex247.png
+|caption2=Illustration rare card<br>Illus. [[Jerky]]
+}}
+
+==Trivia==
+This card's illustration rare print depicts a Ditto in the trees that has transformed into a {{P|Caterpie}}.
+
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|EX FireRed & LeafGreen|Ditto|4}} from the {{TCG|EX FireRed & LeafGreen}} expansion.
+*'''Copy Anything''' is an attack that first appeared on {{TCG ID|Detective Pikachu|Ditto|17}} from the {{TCG|Detective Pikachu}} subset.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ditto (Unschlagbare Gene 205)]]
+[[es:Ditto (Genes Formidables TCG Pocket)]]
+[[fr:Métamorph (Puissance Génétique 205)]]
+[[it:Ditto (Geni Supremi 205)]]
+[[ja:メタモン (ポケポケ A1)]]
+[[zh:百变怪（A1）]]

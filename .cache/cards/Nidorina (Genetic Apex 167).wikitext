@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Nidorina
+|ja name=ニドリーナ
+|trans name=Nidorina
+|species=Nidorina
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=NidorinaGeneticApex167.png|illustrator=Kagemaru Himeno|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=NidorinaWisdomofSeaandSky224.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Nidoran♀
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=167/226|pack=Pikachu|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=224/161|pack=Lugia|rarity=Shiny|rarity count=1}}
+}}
+
+'''Nidorina''' (Japanese: '''ニドリーナ''' ''Nidorina'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Bite
+|jname=かみつく
+|jtrans=Bite
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Nidorina
+|species=Poison Pin
+|ndex=0030
+|height=2'7"
+|jheight=0.8
+|weight=44.1
+|jweight=20.0
+|dex=The horn on its head has atrophied. It's thought that this happens so Nidorina's children won't get poked while their mother is feeding them.
+|jdex=額の　ツノは　子どもに　エサを 与えるときに　刺さらないよう 退化したと　考えられている｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=NidorinaGeneticApex167.png
+|caption1=Uncommon card<br>Illus. [[Kagemaru Himeno]]
+|image2=NidorinaWisdomofSeaandSky224.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Nidorina|55}} from the {{TCG|Team Up}} expansion.
+**Both cards have the {{m|Bite}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Nidorina}} can learn.
+*This card's shiny rare print features a {{Shiny}} {{p|Nidorina}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Nidorina (Unschlagbare Gene 167)]]
+[[es:Nidorina (Genes Formidables TCG Pocket)]]
+[[fr:Nidorina (Puissance Génétique 167)]]
+[[it:Nidorina (Geni Supremi 167)]]
+[[ja:ニドリーナ (ポケポケ A1)]]
+[[zh:尼多娜（A1）]]

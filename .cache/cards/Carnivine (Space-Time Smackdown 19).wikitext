@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Carnivine
+|ja name=マスキッパ
+|trans name=Muskippa
+|species=Carnivine
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CarnivineSpace-TimeSmackdown19.png|illustrator=Anesaki Dynamic|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CarnivineSpace-TimeSmackdown158.png|illustrator=Yoriyuki Ikegami|tab caption=Illustration Rare}}
+|hp=90
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=019/155|pack=Palkia|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=158/155|pack=Palkia|rarity=Star|rarity count=1}}
+}}
+
+'''Carnivine''' (Japanese: '''マスキッパ''' ''Muskippa'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=Flog
+|jname=ウィップダウン
+|jtrans=Whip Down
+|damage=40+
+|effect=Flip a coin. If heads, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Carnivine
+|species=Bug Catcher
+|ndex=0455
+|height=4'7"
+|jheight=1.4
+|weight=59.5
+|jweight=27.0
+|dex=It attracts prey with its sweet-smelling saliva, then chomps down. It takes a whole day to eat prey.
+|jdex=甘い においの だえきで 獲物を おびき寄せ おおあごで がぶり。 １日 かけて 獲物を 食べる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=CarnivineSpace-TimeSmackdown19.png
+|caption1=Uncommon card<br>Illus. [[Anesaki Dynamic]]
+|image2=CarnivineSpace-TimeSmackdown158.png
+|caption2=Illustration rare card<br>Illus. [[Yoriyuki Ikegami]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Ultra Prism|Carnivine|12}} from the {{TCG|Ultra Prism}} expansion.
+*'''Flog''' is an attack that first appeared on {{TCG ID|Legendary Treasures|Tangela|1}} and {{TCG ID|Legendary Treasures|Tangrowth|2}}, both from the {{TCG|Legendary Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Omega Ruby}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Venuflibis (Kollision von Raum und Zeit 019)]]
+[[es:Carnivine (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Vortente (Choc Spatio-Temporel 019)]]
+[[it:Carnivine (Scontro Spaziotemporale 19)]]
+[[ja:マスキッパ (ポケポケ A2)]]
+[[zh:尖牙笼（A2）]]

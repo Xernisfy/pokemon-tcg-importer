@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tadbulb
+|ja name=ズピカ
+|trans name=Zupika
+|species=Tadbulb
+|type=Lightning
+|image=TadbulbFantasticalParade56.png
+|illustrator=okayamatakatoshi
+|hp=50
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=056/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Tadbulb''' (Japanese: '''ズピカ''' ''Zupika'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Colorless}}
+|name=Charge
+|jname=じゅうでん
+|jtrans=Charge
+|damage=
+|effect=Take a {{e|Lightning}} Energy from your Energy Zone and attach it to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Tadbulb
+|species=EleTadpole
+|ndex=0938
+|height=1'
+|jheight=0.3
+|weight=0.9
+|jweight=0.4
+|dex=It floats using the electricity stored in its body. When thunderclouds are around, Tadbulb will float higher off the ground.
+|jdex=体に 蓄えた 電力で 浮遊する。 雷雲のときは いつもより 高く 浮き上がるのだ。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Charge}} is a [[move]] in the [[Pokémon games]] that {{p|Tadbulb}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Blipp (Traumhafte Parade 056)]]
+[[fr:Têtampoule (Parade Onirique 056)]]
+[[it:Tadbulb (Parata Fantasmagorica 56)]]
+[[ja:ズピカ (ポケポケ B2)]]
+[[zh:光蚪仔（B2）]]

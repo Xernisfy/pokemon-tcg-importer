@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Swellow
+|ja name=オオスバメ
+|trans name=Ohsubame
+|species=Swellow
+|type=Colorless
+|image=SwellowFantasticalParade133.png
+|illustrator=Mizue
+|hp=80
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Taillow
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=133/155|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Swellow''' (Japanese: '''オオスバメ''' ''Ohsubame'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Repelling Wind
+|jname=むしよけウインド
+|jtrans=Repelling Wind
+|effect=Once during your turn, you may switch out your opponent's Active Basic Pokémon to the Bench. ''(Your opponent chooses the new Active Pokémon.)''
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Wing Attack
+|jname=つばさでうつ
+|jtrans=Wing Strike
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Swellow
+|category=Swallow
+|ndex=0277
+|height=2'4"
+|jheight=0.7
+|weight=43.7
+|jweight=19.8
+|dex=It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.
+|jdex=森に 住む 獲物を 見つけると 上空から 急降下。鋭い ツメで 捕まえる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|XY|Swellow|103}} from the {{TCG|XY}} expansion; both cards have the Wing Attack attack.
+*{{m|Wing Attack}} is a [[move]] in the [[Pokémon games]] that {{p|Swellow}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schwalboss (Traumhafte Parade 133)]]
+[[fr:Hélédelle (Parade Onirique 133)]]
+[[it:Swellow (Parata Fantasmagorica 133)]]
+[[ja:オオスバメ (ポケポケ B2)]]
+[[zh:大王燕（B2）]]

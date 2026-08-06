@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Porygon-Z
+|ja name=ポリゴンＺ
+|trans name=Porygon-Z
+|species=Porygon-Z
+|type=Colorless
+|image=Porygon-ZWisdomofSeaandSky137.png
+|illustrator=Tomokazu Komiya
+|hp=130
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Porygon2
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=137/161|pack=Lugia|rarity=Diamond|rarity count=3}}
+}}
+
+'''Porygon-Z''' (Japanese: '''ポリゴンＺ''' ''Porygon-Z'') is a {{ct|Colorless}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Slowing Beam
+|jname=スロービーム
+|jtrans=Slow Beam
+|damage=70
+|effect=During your opponent's next turn, attacks used by the Defending Pokémon cost 1 {{e|Colorless}} more.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Porygon-Z
+|category=Virtual 
+|ndex=0474
+|height=2'11"
+|jheight=0.9
+|weight=75
+|jweight=34.0
+|dex=Porygon-Z had a program installed to allow it to move between dimensions, but the program also caused instability in Porygon-Z's behavior.
+|jdex=異次元 空間に 出入りできる プログラムを 追加したところ 挙動が 不安定になった。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Chilling Reign|Porygon-Z|118}} from the {{TCG|Chilling Reign}} expansion.
+*'''Slowing Beam''' is an attack that first appeared on {{TCG ID|Ancient Origins|Porygon-Z|66}} from the {{TCG|Ancient Origins}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Porygon-Z (Weisheit von Meer und Himmel 137)]]
+[[es:Porygon-Z (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Porygon-Z (Sagesse entre Ciel et Mer 137)]]
+[[it:Porygon-Z (La Via del Cielo e del Mare 137)]]
+[[ja:ポリゴンZ (ポケポケ A4)]]
+[[zh:多邊獸Ｚ（A4）]]

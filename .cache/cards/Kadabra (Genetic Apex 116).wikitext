@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Kadabra
+|ja name=ユンゲラー
+|trans name=Yungerer
+|species=Kadabra
+|type=Psychic
+|image=KadabraGeneticApex116.png
+|illustrator=Ken Sugimori
+|hp=80
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Abra
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=116/226|pack=Charizard|rarity=Diamond|rarity count=2}}
+}}
+
+'''Kadabra''' (Japanese: '''ユンゲラー''' ''Yungerer'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}{{e|Colorless}}
+|name=Super Psy Bolt
+|jname=ちょうねんりき
+|jtrans=Super Willpower
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Kadabra
+|species=Psi
+|ndex=0064
+|height=4'3"
+|jheight=1.3
+|weight=124.6
+|jweight=56.5
+|dex=Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow.
+|jdex=サイコパワーで　宙に　浮いたまま 眠る｡　弾力に　優れた　しっぽを 枕がわりに　するぞ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Base Set|Kadabra|32}} from the {{TCG|Base Set}}, as was its '''Super Psy Bolt''' attack (as '''Super Psy''').
+**Super Psy Bolt's Japanese name is derived from that of {{m|Confusion}}, a [[move]] in the [[Pokémon games]] that {{p|Kadabra}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kadabra (Unschlagbare Gene 116)]]
+[[es:Kadabra (Genes Formidables TCG Pocket)]]
+[[fr:Kadabra (Puissance Génétique 116)]]
+[[it:Kadabra (Geni Supremi 116)]]
+[[ja:ユンゲラー (ポケポケ A1)]]
+[[zh:勇基拉（A1）]]

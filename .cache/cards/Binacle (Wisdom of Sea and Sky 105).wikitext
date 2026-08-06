@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Binacle
+|ja name=カメテテ
+|trans name=Kametete
+|species=Binacle
+|type=Fighting
+|image=BinacleWisdomofSeaandSky105.png
+|illustrator=Saya Tsuruta
+|hp=80
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=105/161|pack=Lugia|rarity=Diamond|rarity count=1}}
+}}
+
+'''Binacle''' (Japanese: '''カメテテ''' ''Kametete'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}
+|name=Dual Chop
+|jname=ダブルチョップ
+|jtrans=Double Chop
+|damage=30×
+|effect=Flip 2 coins. This attack does 30 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Binacle
+|category=Two-Handed 
+|ndex=0688
+|height=1'8"
+|jheight=0.5
+|weight=68.3
+|jweight=31.0
+|dex=After two Binacle find a suitably sized rock, they adhere themselves to it and live together. They cooperate to gather food during high tide.
+|jdex=２匹が 海辺の 手ごろな 岩に くっついて 暮らす。 満潮時 協力して エサを 集める。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Binacle|103}} from the {{TCG|Rebel Clash}} expansion.
+**Both cards have the {{m|Dual Chop}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Binacle}} can learn via [[Move Tutor]].
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bithora (Weisheit von Meer und Himmel 105)]]
+[[es:Binacle (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Opermine (Sagesse entre Ciel et Mer 105)]]
+[[it:Binacle (La Via del Cielo e del Mare 105)]]
+[[ja:カメテテ (ポケポケ A4)]]
+[[zh:龟脚脚（A4）]]

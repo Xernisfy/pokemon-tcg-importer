@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Clefable
+|ja name=ピクシー
+|trans name=Pixy
+|species=Clefable
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ClefableGeneticApex114.png|illustrator=Sanosuke Sakuma|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ClefableFantasticalParade215.png|illustrator=Taiga Kasai|tab caption=Shiny Rare}}
+|hp=100
+|weakness=Metal
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Clefairy
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=114/226|pack=Pikachu|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Shiny|rarity count=1|number=215/155}}
+}}
+
+'''Clefable''' (Japanese: '''ピクシー''' ''Pixy'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Magical Shot
+|jname=マジカルショット
+|jtrans=Magical Shot
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Clefable
+|species=Fairy
+|ndex=0036
+|height=4'3"
+|jheight=1.3
+|weight=88.2
+|jweight=40.0
+|dex=A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.
+|jdex=妖精の　仲間で　めったに 人前に　出てこない｡　気配を 感じて　すぐに　逃げてしまうようだ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=ClefableGeneticApex114.png
+|caption1=Uncommon card<br>Illus. [[Sanosuke Sakuma]]
+|image2=ClefableFantasticalParade215.png
+|caption2=Shiny rare card<br>Illus. [[Taiga Kasai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BREAKpoint|Clefable|82}} from the {{TCG|BREAKpoint}} expansion.
+*'''Magical Shot''' is an attack that first appeared on {{TCG ID|Ancient Origins|Ralts|52}} and {{TCG ID|Ancient Origins|Kirlia|53}}, both from the {{TCG|Ancient Origins}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+*This card's {{TCGP|Fantastical Parade}} print features a {{Shiny}} {{p|Clefable}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pixi (Unschlagbare Gene 114)]]
+[[es:Clefable (Genes Formidables TCG Pocket)]]
+[[fr:Mélodelfe (Puissance Génétique 114)]]
+[[it:Clefable (Geni Supremi 114)]]
+[[ja:ピクシー (ポケポケ A1)]]
+[[zh:皮可西（A1）]]

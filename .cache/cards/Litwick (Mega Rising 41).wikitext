@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Litwick
+|ja name=ヒトモシ
+|trans name=Hitomoshi
+|species=Litwick
+|type=Fire
+|image=LitwickMegaRising41.png
+|illustrator=sowsow
+|hp=50
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=041/226|pack=Mega Altaria|rarity=Diamond|rarity count=1}}
+}}
+
+'''Litwick''' (Japanese: '''ヒトモシ''' ''Hitomoshi'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Flare
+|jname=ほのお
+|jtrans=Flame
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Litwick
+|category=Candle
+|ndex=0607
+|height=1'
+|jheight=0.3
+|weight=6.8
+|jweight=3.1
+|dex=The younger the life this Pokémon absorbs, the brighter and eerier the flame on its head burns.
+|jdex=吸い取る 命が 若ければ 若いほど 頭の 炎は 大きく 妖しく 燃え上がる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Litwick|28}} from the {{TCG|Unified Minds}} expansion.
+*'''Flare''' is an attack that first appeared on {{TCG ID|Base Set|Growlithe|28}} from the {{TCG|Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lichtel (Mega-Aufstieg 041)]]
+[[es:Litwick (Megaascenso TCG Pocket)]]
+[[fr:Funécire (Méga-Ascension 041)]]
+[[it:Litwick (Mega Ascesa 41)]]
+[[ja:ヒトモシ (ポケポケ B1)]]
+[[zh:烛光灵（B1）]]

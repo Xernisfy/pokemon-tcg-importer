@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Vanillite
+|ja name=バニプッチ
+|trans name=Vanipeti
+|species=Vanillite
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VanilliteEeveeGrove18.png|illustrator=MAHOU|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VanillitePromo-A85.png|illustrator=OOYAMA|tab caption=Promo}}
+|hp=60
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=018/069}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Vol. 10|number=085/P-A}}
+}}
+
+'''Vanillite''' (Japanese: '''バニプッチ''' ''Vanipeti'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Sweets Relay
+|jname=スイーツリレー
+|jtrans=Sweets Relay
+|damage=10+
+|effect=If 1 of your Pokémon used [[:Category:TCG Pocket cards with Sweets Relay|Sweets Relay]] during your last turn, this attack does 20 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Vanillite
+|species=Fresh Snow
+|ndex=0582
+|height=1'4"
+|jheight=0.4
+|weight=12.6
+|jweight=5.7
+|dex=Unable to survive in hot areas, it makes itself comfortable by breathing out air cold enough to cause snow. It burrows into the snow to sleep.
+|jdex=暑い 土地では 暮らせない。 冷気を 吐いて 雪を 降らせ 積もった 中に 潜って 眠る。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 10 packs; these were made available as part of the [[Alcremie Drop Event]], which ran from July 2 to 12, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=VanilliteEeveeGrove18.png
+|caption1=Common card<br>Illus. [[MAHOU]]
+|image2=VanillitePromo-A85.png
+|caption2=Promo card<br>Illus. [[OOYAMA]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Eevee Grove}} illustration was first featured on {{TCG ID|BREAKthrough|Vanillite|43}} from the {{TCG|BREAKthrough}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Guardians Rising|Vanillite|33}} from the {{TCG|Guardians Rising}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gelatini (Evoli-Hain 018)]]
+[[es:Vanillite (Arboleda de Eevee TCG Pocket)]]
+[[fr:Sorbébé (La Clairière d'Évoli 018)]]
+[[it:Vanillite (Il Bosco di Eevee 18)]]
+[[ja:バニプッチ (ポケポケ A3b)]]
+[[zh:迷你冰（A3b）]]

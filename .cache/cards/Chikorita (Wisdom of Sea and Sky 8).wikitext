@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Chikorita
+|ja name=チコリータ
+|trans name=Chicorita
+|species=Chikorita
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ChikoritaWisdomofSeaandSky8.png|illustrator=Naoyo Kimura|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ChikoritaWisdomofSeaandSky162.png|illustrator=Keisin|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=008/161|pack=Lugia|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=162/161|pack=Lugia|rarity=Star|rarity count=1}}
+}}
+
+'''Chikorita''' (Japanese: '''チコリータ''' ''Chicorita'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Razor Leaf
+|jname=はっぱカッター
+|jtrans=Leaf Cutter
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Chikorita
+|category=Leaf 
+|ndex=0152
+|height=2'11"
+|jheight=0.9
+|weight=14.1
+|jweight=6.4
+|dex=A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up sun rays.
+|jdex=頭の 葉っぱから ほのかに 甘い 香りが 漂う。おとなしくて 日差しを 浴びるのが 大好き。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=ChikoritaWisdomofSeaandSky8.png
+|caption1=Common card<br>Illus. [[Naoyo Kimura]]
+|image2=ChikoritaWisdomofSeaandSky162.png
+|caption2=Illustration rare card<br>Illus. [[Keisin]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Neo Genesis|Chikorita|53}} from the {{TCG|Neo Genesis}} expansion.
+*{{m|Razor Leaf}} is a [[move]] in the [[Pokémon games]] that {{p|Chikorita}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Endivie (Weisheit von Meer und Himmel 008)]]
+[[es:Chikorita (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Germignon (Sagesse entre Ciel et Mer 008)]]
+[[it:Chikorita (La Via del Cielo e del Mare 8)]]
+[[ja:チコリータ (ポケポケ A4)]]
+[[zh:菊草叶（A4）]]

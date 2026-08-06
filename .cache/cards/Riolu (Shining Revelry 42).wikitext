@@ -1,0 +1,87 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Riolu
+|ja name=リオル
+|trans name=Riolu
+|species=Riolu
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RioluShiningRevelry42.png|illustrator=You Iribi|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RioluDeluxePackex211.png|illustrator=You Iribi|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RioluShiningRevelry104.png|illustrator=GOSSAN|tab caption=Shiny Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RioluPromo-A59.png|illustrator=Akira Komayama|tab caption=Promo}}
+|hp=70
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=042/072|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=104/072|pack=Any|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=059/P-A}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=210/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=211/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Riolu''' (Japanese: '''リオル''' ''Riolu'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Punch
+|jname=パンチ
+|jtrans=Punch
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Riolu
+|category=Emanation 
+|ndex=0447
+|height=2'4"
+|jheight=0.7
+|weight=44.5
+|jweight=20.2
+|dex=They communicate with one another using their auras. They are able to run all through the night.
+|jdex=仲間同士で 波動を 出して コミュニケーションを とっている。 一晩中 走り続けられる。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} card was available via special wonder picks during the Lucario [[Wonder Pick Event (Lucario)|Wonder Pick Event]], which ran from April 16 to 26, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=RioluShiningRevelry42.png
+|caption1=Standard card<br>Illus. [[You Iribi]]
+|image2=RioluShiningRevelry104.png
+|caption2=Shiny rare card<br>Illus. [[GOSSAN]]
+|image4=RioluPromo-A59.png
+|caption4=Promo card<br>Illus. [[Akira Komayama]]
+|image5=RioluDeluxePackex211.png
+|caption5=Parallel foil card<br>Illus. [[You Iribi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Fates Collide|Riolu|45}} from the {{TCG|Fates Collide}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Riolu}}.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Plasma Storm|Riolu|76}} from the {{TCG|Plasma Storm}} expansion.
+*'''Punch''' is an attack that first appeared on {{TCG ID|Team Rocket|Machop|59}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Riolu (Glänzendes Festival 042)]]
+[[es:Riolu (Festival Brillante TCG Pocket)]]
+[[fr:Riolu (Réjouissances Rayonnantes 042)]]
+[[it:Riolu (Tripudio Splendente 42)]]
+[[ja:リオル (ポケポケ A2b)]]
+[[zh:利歐路（A2b）]]

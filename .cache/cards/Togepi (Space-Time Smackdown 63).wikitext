@@ -1,0 +1,78 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Togepi
+|ja name=トゲピー
+|trans name=Togepy
+|species=Togepi
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TogepiSpace-TimeSmackdown63.png|illustrator=Narumi Sato|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TogepiPromo-A41.png|illustrator=Naoyo Kimura|tab caption=Promo}}
+|hp=50
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=063/155}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=041/P-A}}
+}}
+
+'''Togepi''' (Japanese: '''トゲピー''' ''Togepy'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Pound
+|jname=はたく
+|jtrans=Pound
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Togepi
+|species=Spike Ball
+|ndex=0175
+|height=1'
+|jheight=0.3
+|weight=3.3
+|jweight=1.5
+|dex=The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.
+|jdex=殻の中に 幸せが たくさん つまっているらしく 優しくされると 幸運を 分け与える という。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available via special wonder picks during the Chimchar [[Wonder Pick Event (Chimchar)|Wonder Pick Event]], which ran from February 7 to 21, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=TogepiSpace-TimeSmackdown63.png
+|caption1=Common card<br>Illus. [[Narumi Sato]]
+|image2=TogepiPromo-A41.png
+|caption2=Promo card<br>Illus. [[Naoyo Kimura]]
+}}
+
+==Trivia==
+[[File:TCGP Cover Garden of Smiling Flowers.png|thumb|"Garden of Smiling Flowers" binder cover]]
+This card's {{TCGP|Space-Time Smackdown}} illustration is part of a {{TCG|combined illustration}} along with {{TCG ID|Space-Time Smackdown|Tangela|4}}, {{TCG ID|Space-Time Smackdown|Shaymin|22}}, and {{TCG ID|Space-Time Smackdown|Buneary|137}} from the same expansion. Together, these cards form the Space-Time Smackdown expansion's "Garden of Smiling Flowers" [[Space-Time Smackdown (TCG Pocket)#Themed Collections|Themed Collection]]. A second collection—the "Garden of Smiling Flowers 2" secret mission—was added to the game on June 26, 2025; the completion reward for this is the "Garden of Smiling Flowers" binder cover, showcasing the full illustration.
+
+===Origin===
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Neo Genesis|Togepi|51}} from the {{TCG|Neo Genesis}} expansion.
+*{{m|Pound}} is a [[move]] in the [[Pokémon games]] that {{p|Togepi}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Togepi (Kollision von Raum und Zeit 063)]]
+[[es:Togepi (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Togepi (Choc Spatio-Temporel 063)]]
+[[it:Togepi (Scontro Spaziotemporale 63)]]
+[[ja:トゲピー (ポケポケ A2)]]
+[[zh:波克比（A2）]]

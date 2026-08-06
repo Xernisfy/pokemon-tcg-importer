@@ -1,0 +1,63 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Nemona
+|ja name=ネモ
+|trans name=Nemo
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=NemonaPaldeanWonders90.png|illustrator=Sanosuke Sakuma|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=NemonaPaldeanWonders107.png|illustrator=Hideki Ishikawa|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=090/093|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=107/093|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Nemona''' (Japanese: '''ネモ''' ''Nemo'') is a {{TCGP|Supporter card}} in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=During this turn, attacks used by your {{TCGP|Pawmot}} do +80 damage to your opponent's Active {{TCGP|Pokémon ex}}.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=NemonaPaldeanWonders90.png
+|caption1=Uncommon card<br>Illus. [[Sanosuke Sakuma]]
+|image2=NemonaPaldeanWonders107.png
+|caption2=Super rare card<br>Illus. [[Hideki Ishikawa]]
+}}
+
+==Trivia==
+* A card named {{TCG|Nemona}} also exists in the [[Pokémon Trading Card Game]], but with a different effect.
+* This card affects {{p|Pawmot}}, which—along with its prevolutions—is frequently used by Nemona in the games in which she appears.
+
+===Origin===
+* [[Nemona]] is a [[rival]] character and a student at [[Naranja Academy]]{{sup/9|S}}/[[Uva Academy]]{{sup/9|V}}. She is depicted in her Uva Academy uniform.
+* This card's standard illustration was first featured on {{TCG ID|Paldean Fates|Nemona|82}} from the {{TCG|Paldean Fates}} expansion, originating from the Japanese {{TCG|Violet ex}} expansion.
+* Nemona's house in [[Cabo Poco]] is featured in the standard illustration, while the private beach behind it is featured in the super rare card's illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=ネモ ''Nemo''
+|zh_yue=妮莫 ''Nèihmohk''
+|zh_cmn=妮莫 ''Nímò''
+|fr=Menzi
+|de=Nemila
+|it=Nemi
+|ko=네모 ''Nemo''
+|pt_br=Noêmia
+|es=Mencía
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Nemila (TCG Pocket)]]
+[[es:Mencía (TCG Pocket)]]
+[[fr:Menzi (Merveilles de Paldea 090)]]
+[[it:Nemi (Meraviglie di Paldea 90)]]
+[[ja:ネモ (ポケポケ)]]
+[[zh:妮莫（TCGP）]]

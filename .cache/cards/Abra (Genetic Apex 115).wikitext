@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Abra
+|ja name=ケーシィ
+|trans name=Casey
+|species=Abra
+|type=Psychic
+|image=AbraGeneticApex115.png
+|illustrator=Aya Kusube
+|hp=60
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=115/226|pack=Charizard|rarity=Diamond|rarity count=1}}
+}}
+
+'''Abra''' (Japanese: '''ケーシィ''' ''Casey'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}
+|name=Teleport
+|jname=テレポート
+|jtrans=Teleport
+|damage=
+|effect=Switch this Pokémon with 1 of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Abra
+|species=Psi
+|ndex=0063
+|height=2'11"
+|jheight=0.9
+|weight=43
+|jweight=19.5
+|dex=This Pokémon uses its psychic powers while it sleeps. The contents of Abra's dreams affect the powers that the Pokémon wields.
+|jdex=寝ながら　超能力を　操る｡ 夢の　内容が　使う　力に　影響する｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Vending|Abra|S1}} from {{TCG|Expansion Sheet 1}}, which was only released in Japan.
+*{{m|Teleport}} is a [[move]] in the [[Pokémon games]] that {{p|Abra}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Abra (Unschlagbare Gene 115)]]
+[[es:Abra (Genes Formidables TCG Pocket)]]
+[[fr:Abra (Puissance Génétique 115)]]
+[[it:Abra (Geni Supremi 115)]]
+[[ja:ケーシィ (ポケポケ A1)]]
+[[zh:凯西（A1）]]

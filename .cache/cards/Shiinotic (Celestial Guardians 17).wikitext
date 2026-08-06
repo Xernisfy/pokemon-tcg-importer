@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Shiinotic
+|ja name=マシェード
+|trans name=Mashade
+|species=Shiinotic
+|type=Grass
+|image=ShiinoticCelestialGuardians17.png
+|illustrator=Suwama Chiaki
+|hp=100
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Morelull
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=017/155|pack=Lunala|rarity=Diamond|rarity count=2}}
+}}
+
+'''Shiinotic''' (Japanese: '''マシェード''' ''Mashade'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Flickering Light
+|jname=またたくひかり
+|jtrans=Twinkling Light
+|damage=50
+|effect=Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Shiinotic
+|species=Illuminating
+|ndex=0756
+|height=3'3"
+|jheight=1.0
+|weight=25.4
+|jweight=11.5
+|dex=Its flickering spores lure in prey and put them to sleep. Once this Pokémon has its prey snoozing, it drains their vitality with its fingertips.
+|jdex=点滅する 胞子の 光りで 獲物を おびき寄せて 眠らせる。 指先から 生気を 吸い取る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Shiinotic|148}} from the {{TCG|Lost Thunder}} expansion.
+*'''Flickering Light''' is an attack that first appeared on {{TCG ID|Darkness Ablaze|Shiinotic|80}} from {{TCG|Darkness Ablaze}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lamellux (Hüter des Firmaments 017)]]
+[[es:Shiinotic (Guardianes Celestiales TCG Pocket)]]
+[[fr:Lampignon (Gardiens Astraux 017)]]
+[[it:Shiinotic (Guardiani Astrali 17)]]
+[[ja:マシェード (ポケポケ A3)]]
+[[zh:灯罩夜菇（A3）]]

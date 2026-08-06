@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gallade {{TCGP Icon|ex}}
+|ja name=エルレイド{{TCGP Icon|ex}}
+|trans name=Erureido {{TCGP Icon|ex}}
+|species=Gallade
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GalladeexSpace-TimeSmackdown95.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GalladeexSpace-TimeSmackdown185.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GalladeexSpace-TimeSmackdown200.png|illustrator=Takumi Wada|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GalladeexEeveeGrove106.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=170
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Kirlia
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=095/155|pack=Dialga|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=185/155|pack=Dialga|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=200/155|pack=Dialga|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=106/069|pack=Any|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=215/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Gallade ex''' (Japanese: '''エルレイドex''' ''Erureido ex'') is a {{ct|Fighting}} Stage 2 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Energized Blade
+|jname=エナジーブレード
+|jtrans=Energy Blade
+|damage=70+
+|effect=This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Fighting
+|ndex=0475
+|name=Gallade
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=GalladeexSpace-TimeSmackdown95.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=GalladeexSpace-TimeSmackdown185.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image4=GalladeexSpace-TimeSmackdown200.png
+|caption4=Special illustration rare card<br>Illus. [[Takumi Wada]]
+|image5=GalladeexEeveeGrove106.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+The special illustration rare card features artwork that appears to heavily reference a digital-only [[Gardevoir (Pokémon TCG: Online Illustration Exhibition)|Gardevoir]] card with artwork by [[Takumi Wada]], which was showcased during the limited-time Pokémon Trading Card Game: Online Illustration Exhibition between August and October 2022. Both cards feature {{p|Kirlia}}'s [[Evolution]]s depicted from a slightly raised angle, standing in shallow water reflecting moonlight, {{p|Gardevoir}} looking to the bottom-right and {{p|Gallade}} to the bottom-left.
+
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Gallade}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Galagladi-ex (Kollision von Raum und Zeit 095)]]
+[[es:Gallade ex (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Gallame-ex (Choc Spatio-Temporel 095)]]
+[[it:Gallade-ex (Scontro Spaziotemporale 95)]]
+[[ja:エルレイドex (ポケポケ A2)]]
+[[zh:艾路雷朵ex（A2）]]

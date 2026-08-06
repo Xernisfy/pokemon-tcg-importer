@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ariados
+|ja name=アリアドス
+|trans name=Ariados
+|species=Ariados
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AriadosCrimsonBlaze6.png|illustrator=Tika Matsuno|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AriadosCrimsonBlaze70.png|illustrator=KEIICHIRO ITO|tab caption=Illustration Rare}}
+|hp=90
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Spinarak
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=006/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=070/069|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Ariados''' (Japanese: '''アリアドス''' ''Ariados'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Ability/Pocket
+|type=Grass
+|name=Trap Territory
+|jname=トラップテリトリー
+|jtrans=Trap Territory
+|effect=Your opponent's Active Pokémon's Retreat Cost is 1 more.
+}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Pierce
+|jname=つきさす
+|jtrans=Cleave
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Ariados
+|species=Long Leg
+|ndex=0168
+|height=3'7"
+|jheight=1.1
+|weight=73.9
+|jweight=33.5
+|dex=It spews threads from its mouth to catch its prey. When night falls, it leaves its web to go hunt aggressively.
+|jdex=糸を はいて 獲物を 捕らえる。 夜に なると 巣から 離れて 積極的に 狩りを するぞ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=AriadosCrimsonBlaze6.png
+|caption1=Uncommon card<br>Illus. [[Tika Matsuno]]
+|image2=AriadosCrimsonBlaze70.png
+|caption2=Illustration rare card<br>Illus. [[KEIICHIRO ITO]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Silver Tempest|Ariados|4}} from the {{TCG|Silver Tempest}} expansion; both cards have the Pierce attack.
+*'''Trap Territory''' is an Ability that first appeared on {{TCG ID|Scarlet & Violet|Spidops ex|19}} from the {{TCG|Scarlet & Violet}} expansion.
+*'''Pierce''' is an attack that first appeared on {{TCG ID|EX Sandstorm|Kabuto|39}} and {{TCG ID|EX Sandstorm|Anorith|27}}, both from the {{TCG|EX Sandstorm}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ariados (Feuerrote Flammen 006)]]
+[[es:Ariados (Fuego Carmesí TCG Pocket)]]
+[[fr:Migalos (Embrasement Écarlate 006)]]
+[[it:Ariados (Fiamme Cremisi 6)]]
+[[ja:アリアドス (ポケポケ B1a)]]
+[[zh:阿利多斯（B1a）]]

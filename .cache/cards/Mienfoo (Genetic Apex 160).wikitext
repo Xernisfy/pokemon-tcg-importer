@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mienfoo
+|ja name=コジョフー
+|trans name=Kojofu
+|species=Mienfoo
+|type=Fighting
+|image=MienfooGeneticApex160.png
+|illustrator=match
+|hp=60
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=160/226|pack=Pikachu|rarity=Diamond|rarity count=1}}
+}}
+
+'''Mienfoo''' (Japanese: '''コジョフー''' ''Kojofu'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}
+|name=Pound
+|jname=はたく
+|jtrans=Pound
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Mienfoo
+|species=Martial Arts
+|ndex=0619
+|height=2'11"
+|jheight=0.9
+|weight=44.1
+|jweight=20.0
+|dex=In one minute, a well-trained Mienfoo can chop with its arms more than 100 times.
+|jdex=よく鍛えられた　コジョフーは １分で　１００回を　超える チョップを　打つことが　できる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Noble Victories|Mienfoo|69}} from the {{TCG|Noble Victories}} expansion.
+**Both cards have the {{m|Pound}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Mienfoo}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lin-Fu (Unschlagbare Gene 160)]]
+[[es:Mienfoo (Genes Formidables TCG Pocket)]]
+[[fr:Kungfouine (Puissance Génétique 160)]]
+[[it:Mienfoo (Geni Supremi 160)]]
+[[ja:コジョフー (ポケポケ A1)]]
+[[zh:功夫鼬（A1）]]

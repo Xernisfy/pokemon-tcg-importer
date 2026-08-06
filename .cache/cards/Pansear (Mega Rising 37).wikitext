@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pansear
+|ja name=バオップ
+|trans name=Baoppu
+|species=Pansear
+|type=Fire
+|image=PansearMegaRising37.png
+|illustrator=Jerky
+|hp=60
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=037/226|pack=Mega Blaziken|rarity=Diamond|rarity count=1}}
+}}
+
+'''Pansear''' (Japanese: '''バオップ''' ''Baoppu'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Colorless}}
+|name=Beat
+|jname=たたく
+|jtrans=Strike
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Pansear
+|category=High Temp
+|ndex=0513
+|height=2'
+|jheight=0.6
+|weight=24.3
+|jweight=11.0
+|dex=This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600 degrees Fahrenheit.
+|jdex=火山の 洞穴で 暮らす。頭の ふさの 中が 燃えていて 300度の 高温になる。
+}}
+
+==Trivia==
+===Origin===
+*'''Beat''' is an attack that first appeared on {{TCG ID|VS|Falkner's Farfetch'd|3}} and {{TCG ID|VS|Karen's Magmar|88}}, both from the {{TCG|Pokémon VS}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Grillmak (Mega-Aufstieg 037)]]
+[[es:Pansear (Megaascenso TCG Pocket)]]
+[[fr:Flamajou (Méga-Ascension 037)]]
+[[it:Pansear (Mega Ascesa 37)]]
+[[ja:バオップ (ポケポケ B1)]]
+[[zh:爆香猴（B1）]]

@@ -1,0 +1,322 @@
+{{TCGPocketExpansionPrevNext | next = Promo-B}}
+{{TCGPocketExpansionInfobox
+|setname=Promo-A
+|setlogo=PA Set Logo EN.png
+|release=September 26, 2024 <small>(New Zealand)</small><br>October 30, 2024 <small>(worldwide)</small>
+|cards=117
+|missions=no
+}}
+
+'''Promo-A''' (stylized in-app as '''PROMO-A''') is the first series of promotional cards to be released in [[Pokémon Trading Card Game Pocket]].
+
+== Card list ==
+{{TCG Set List/header|tablecol=03D|bordercol=0BF|cellcol=0BF|rarity=none}}
+! rowspan="2" style="background-color: #0BF" | Promotion
+|-
+| 001/P-A || {{TCG ID|Promo-A|Potion|1}} || {{TCG Icon|Item}} || Available from the in-game {{TCGP|shop}} (costs 2 Shop Tickets)
+|-
+| 002/P-A || {{TCG ID|Promo-A|X Speed|2}} || {{TCG Icon|Item}} || Available from the in-game {{TCGP|shop}} (costs 2 Shop Tickets)
+|-
+| 003/P-A || {{TCG ID|Promo-A|Hand Scope|3}} || {{TCG Icon|Item}} || Available from the in-game {{TCGP|shop}} (costs 2 Shop Tickets)
+|-
+| 004/P-A || {{TCG ID|Promo-A|Pokédex|4}} || {{TCG Icon|Item}} || Available from the in-game {{TCGP|shop}} (costs 2 Shop Tickets)
+|-
+| 005/P-A || {{TCG ID|Promo-A|Poké Ball|5}} || {{TCG Icon|Item}} || Available from the in-game {{TCGP|shop}} (costs 2 Shop Tickets)
+|-
+| 006/P-A || {{TCG ID|Promo-A|Red Card|6}} || {{TCG Icon|Item}} || Available from the in-game {{TCGP|shop}} (costs 2 Shop Tickets)
+|-
+| 007/P-A || {{TCG ID|Promo-A|Professor's Research|7}} <small>[Professor Oak]</small> || {{TCG Icon|Supporter}} || Available from the in-game {{TCGP|shop}} (costs 2 Shop Tickets)
+|-
+| 008/P-A || {{TCG ID|Promo-A|Pokédex|8}} || {{TCG Icon|Item}} || Available as a gift (January 20 - April 30, 2025)
+|-
+| 009/P-A || {{TCG ID|Promo-A|Pikachu|9}} || {{TCG Icon|Lightning}} || Available from the in-game {{TCGP|shop}} (costs 1 Premium Ticket)
+|-
+| 010/P-A || {{TCG ID|Promo-A|Mewtwo|10}} || {{TCG Icon|Psychic}} || [[Mission (TCG Pocket)#Premium Missions|Premium Mission]] login reward (December 1 - 31, 2024)
+|-
+| 011/P-A || {{TCG ID|Promo-A|Chansey|11}} || {{TCG Icon|Colorless}} || [[Wonder Pick Event (Meowth)|Wonder Pick Event]] (November 1 - 15, 2024)
+|-
+| 012/P-A || {{TCG ID|Promo-A|Meowth|12}} || {{TCG Icon|Colorless}} || [[Wonder Pick Event (Meowth)|Wonder Pick Event]] (November 1 - 15, 2024)
+|-
+| 013/P-A || {{TCG ID|Promo-A|Butterfree|13}} || {{TCG Icon|Grass}} || [[Lapras ex Drop Event|Promo Pack A Series Vol. 1]] (November 5 - 18, 2024)
+|-
+| 014/P-A || {{TCG ID|Promo-A|Lapras ex|14|Lapras}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || [[Lapras ex Drop Event|Promo Pack A Series Vol. 1]] (November 5 - 18, 2024)
+|-
+| 015/P-A || {{TCG ID|Promo-A|Pikachu|15}} || {{TCG Icon|Lightning}} || [[Lapras ex Drop Event|Promo Pack A Series Vol. 1]] (November 5 - 18, 2024)
+|-
+| 016/P-A || {{TCG ID|Promo-A|Clefairy|16}} || {{TCG Icon|Psychic}} || [[Lapras ex Drop Event|Promo Pack A Series Vol. 1]] (November 5 - 18, 2024)
+|-
+| 017/P-A || {{TCG ID|Promo-A|Mankey|17}} || {{TCG Icon|Fighting}} || [[Lapras ex Drop Event|Promo Pack A Series Vol. 1]] (November 5 - 18, 2024)
+|-
+| 018/P-A || {{TCG ID|Promo-A|Venusaur|18}} || {{TCG Icon|Grass}} || [[Venusaur Drop Event|Promo Pack A Series Vol. 2]] (November 29 - December 12, 2024)
+|-
+| 019/P-A || {{TCG ID|Promo-A|Greninja|19}} || {{TCG Icon|Water}} || [[Venusaur Drop Event|Promo Pack A Series Vol. 2]] (November 29 - December 12, 2024)
+|-
+| 020/P-A || {{TCG ID|Promo-A|Haunter|20}} || {{TCG Icon|Psychic}} || [[Venusaur Drop Event|Promo Pack A Series Vol. 2]] (November 29 - December 12, 2024)
+|-
+| 021/P-A || {{TCG ID|Promo-A|Onix|21}} || {{TCG Icon|Fighting}} || [[Venusaur Drop Event|Promo Pack A Series Vol. 2]] (November 29 - December 12, 2024)
+|-
+| 022/P-A || {{TCG ID|Promo-A|Jigglypuff|22}} || {{TCG Icon|Colorless}} || [[Venusaur Drop Event|Promo Pack A Series Vol. 2]] (November 29 - December 12, 2024)
+|-
+| 023/P-A || {{TCG ID|Promo-A|Bulbasaur|23}} || {{TCG Icon|Grass}} || [[Wonder Pick Event (Venusaur)|Wonder Pick Event]] (December 6 - 20, 2024)
+|-
+| 024/P-A || {{TCG ID|Promo-A|Magnemite|24}} || {{TCG Icon|Lightning}} || [[Wonder Pick Event (Venusaur)|Wonder Pick Event]] (December 6 - 20, 2024)
+|-
+| 025/P-A || {{TCG ID|Promo-A|Moltres ex|25|Moltres}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || [[Mission (TCG Pocket)#Premium Missions|Premium Mission]] login reward (January 1 - 31, 2025)
+|-
+| 026/P-A || {{TCG ID|Promo-A|Pikachu|26}} || {{TCG Icon|Lightning}} || [[Mission (TCG Pocket)#New Year Event Missions|New Year Event Missions]] login reward (January 1 - 8, 2025)
+|-
+| 027/P-A || {{TCG ID|Promo-A|Snivy|27}} || {{TCG Icon|Grass}} || [[Blastoise Drop Event|Promo Pack A Series Vol. 3]] (January 1 - 15, 2025)
+|-
+| 028/P-A || {{TCG ID|Promo-A|Volcarona|28}} || {{TCG Icon|Fire}} || [[Blastoise Drop Event|Promo Pack A Series Vol. 3]] (January 1 - 15, 2025)
+|-
+| 029/P-A || {{TCG ID|Promo-A|Blastoise|29}} || {{TCG Icon|Water}} || [[Blastoise Drop Event|Promo Pack A Series Vol. 3]] (January 1 - 15, 2025)
+|-
+| 030/P-A || {{TCG ID|Promo-A|Eevee|30}} || {{TCG Icon|Colorless}} || [[Blastoise Drop Event|Promo Pack A Series Vol. 3]] (January 1 - 15, 2025)
+|-
+| 031/P-A || {{TCG ID|Promo-A|Cinccino|31}} || {{TCG Icon|Colorless}} || [[Blastoise Drop Event|Promo Pack A Series Vol. 3]] (January 1 - 15, 2025)
+|-
+| 032/P-A || {{TCG ID|Promo-A|Charmander|32}} || {{TCG Icon|Fire}} || [[Wonder Pick Event (Blastoise)|Wonder Pick Event]] (January 7 - 21, 2025)
+|-
+| 033/P-A || {{TCG ID|Promo-A|Squirtle|33}} || {{TCG Icon|Water}} || [[Wonder Pick Event (Blastoise)|Wonder Pick Event]] (January 7 - 21, 2025)
+|-
+| 034/P-A || {{TCG ID|Promo-A|Piplup|34}} || {{TCG Icon|Water}} || [[Mission (TCG Pocket)#Premium Missions|Premium Mission]] login reward (February 1 - 28, 2025)
+|-
+| 035/P-A || {{TCG ID|Promo-A|Turtwig|35}} || {{TCG Icon|Grass}} || [[Cresselia ex Drop Event|Promo Pack A Series Vol. 4]] (February 3 - 17, 2025)
+|-
+| 036/P-A || {{TCG ID|Promo-A|Electivire|36}} || {{TCG Icon|Lightning}} || [[Cresselia ex Drop Event|Promo Pack A Series Vol. 4]] (February 3 - 17, 2025)
+|-
+| 037/P-A || {{TCG ID|Promo-A|Cresselia ex|37|Cresselia}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || [[Cresselia ex Drop Event|Promo Pack A Series Vol. 4]] (February 3 - 17, 2025)
+|-
+| 038/P-A || {{TCG ID|Promo-A|Misdreavus|38}} || {{TCG Icon|Psychic}} || [[Cresselia ex Drop Event|Promo Pack A Series Vol. 4]] (February 3 - 17, 2025)
+|-
+| 039/P-A || {{TCG ID|Promo-A|Skarmory|39}} || {{TCG Icon|Metal}} || [[Cresselia ex Drop Event|Promo Pack A Series Vol. 4]] (February 3 - 17, 2025)
+|-
+| 040/P-A || {{TCG ID|Promo-A|Chimchar|40}} || {{TCG Icon|Fire}} || [[Wonder Pick Event (Chimchar)|Wonder Pick Event]] (February 7 - 21, 2025)
+|-
+| 041/P-A || {{TCG ID|Promo-A|Togepi|41}} || {{TCG Icon|Psychic}} || [[Wonder Pick Event (Chimchar)|Wonder Pick Event]] (February 7 - 21, 2025)
+|-
+| 042/P-A || {{TCG ID|Promo-A|Darkrai ex|42|Darkrai}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || [[Mission (TCG Pocket)#Premium Missions|Premium Mission]] login reward (March 1 - 31, 2025)
+|-
+| 043/P-A || {{TCG ID|Promo-A|Cherrim|43}} || {{TCG Icon|Grass}} || [[Gible Drop Event|Promo Pack A Series Vol. 5]] (March 3 - 17, 2025)
+|-
+| 044/P-A || {{TCG ID|Promo-A|Raichu|44}} || {{TCG Icon|Lightning}} || [[Gible Drop Event|Promo Pack A Series Vol. 5]] (March 3 - 17, 2025)
+|-
+| 045/P-A || {{TCG ID|Promo-A|Nosepass|45}} || {{TCG Icon|Fighting}} || [[Gible Drop Event|Promo Pack A Series Vol. 5]] (March 3 - 17, 2025)
+|-
+| 046/P-A || {{TCG ID|Promo-A|Gible|46}} || {{TCG Icon|Fighting}} || [[Gible Drop Event|Promo Pack A Series Vol. 5]] (March 3 - 17, 2025)
+|-
+| 047/P-A || {{TCG ID|Promo-A|Staraptor|47}} || {{TCG Icon|Colorless}} || [[Gible Drop Event|Promo Pack A Series Vol. 5]] (March 3 - 17, 2025)
+|-
+| 048/P-A || {{TCG ID|Promo-A|Manaphy|48}} || {{TCG Icon|Water}} || [[Wonder Pick Event (Manaphy)|Wonder Pick Event]] (March 10 - 24, 2025)
+|-
+| 049/P-A || {{TCG ID|Promo-A|Snorlax|49}} || {{TCG Icon|Colorless}} || [[Wonder Pick Event (Manaphy)|Wonder Pick Event]] (March 10 - 24, 2025)
+|-
+| 050/P-A || {{TCG ID|Promo-A|Mewtwo ex|50|Mewtwo}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || Poké Gold (paid) x115 + Promo Card (Mewtwo ex) Bundle
+|-
+| 051/P-A || {{TCG ID|Promo-A|Cyclizar|51}} || {{TCG Icon|Colorless}} || [[ex Starter Decks (TCG Pocket)#Missions|ex Starter Deck Missions]] Collect 50 cards reward (March 28 - April 27, 2025)
+|-
+| 052/P-A || {{TCG ID|Promo-A|Sprigatito|52}} || {{TCG Icon|Grass}} || [[Mission (TCG Pocket)#Premium Missions|Premium Mission]] login reward (April 1 - 30, 2025)
+|-
+| 053/P-A || {{TCG ID|Promo-A|Floatzel|53}} || {{TCG Icon|Water}} || [[Pawmot Drop Event|Promo Pack A Series Vol. 6]] (April 7 - 17, 2025)
+|-
+| 054/P-A || {{TCG ID|Promo-A|Pawmot|54}} || {{TCG Icon|Lightning}} || [[Pawmot Drop Event|Promo Pack A Series Vol. 6]] (April 7 - 17, 2025)
+|-
+| 055/P-A || {{TCG ID|Promo-A|Machamp|55}} || {{TCG Icon|Fighting}} || [[Pawmot Drop Event|Promo Pack A Series Vol. 6]] (April 7 - 17, 2025)
+|-
+| 056/P-A || {{TCG ID|Promo-A|Ekans|56}} || {{TCG Icon|Darkness}} || [[Pawmot Drop Event|Promo Pack A Series Vol. 6]] (April 7 - 17, 2025)
+|-
+| 057/P-A || {{TCG ID|Promo-A|Bidoof|57}} || {{TCG Icon|Colorless}} || [[Pawmot Drop Event|Promo Pack A Series Vol. 6]] (April 7 - 17, 2025)
+|-
+| 058/P-A || {{TCG ID|Promo-A|Pachirisu|58}} || {{TCG Icon|Lightning}} || [[Wonder Pick Event (Lucario)|Wonder Pick Event]] (April 16 - 26, 2025)
+|-
+| 059/P-A || {{TCG ID|Promo-A|Riolu|59}} || {{TCG Icon|Fighting}} || [[Wonder Pick Event (Lucario)|Wonder Pick Event]] (April 16 - 26, 2025)
+|-
+| 060/P-A || {{TCG ID|Promo-A|Exeggcute|60}} || {{TCG Icon|Grass}} || [[Rayquaza ex Drop Event|Promo Pack A Series Vol. 7]] (April 30 - May 13, 2025)
+|-
+| 061/P-A || {{TCG ID|Promo-A|Froakie|61}} || {{TCG Icon|Water}} || [[Rayquaza ex Drop Event|Promo Pack A Series Vol. 7]] (April 30 - May 13, 2025)
+|-
+| 062/P-A || {{TCG ID|Promo-A|Farfetch'd|62}} || {{TCG Icon|Colorless}} || [[Rayquaza ex Drop Event|Promo Pack A Series Vol. 7]] (April 30 - May 13, 2025)
+|-
+| 063/P-A || {{TCG ID|Promo-A|Rayquaza|63}} || {{TCG Icon|Colorless}} || [[Rayquaza ex Drop Event|Promo Pack A Series Vol. 7]] (April 30 - May 13, 2025)
+|-
+| 064/P-A || {{TCG ID|Promo-A|Rayquaza ex|64|Rayquaza}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || [[Rayquaza ex Drop Event|Promo Pack A Series Vol. 7]] (April 30 - May 13, 2025)
+|-
+| 065/P-A || {{TCG ID|Promo-A|Rayquaza ex|65|Rayquaza}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || [[Mission (TCG Pocket)#Special Missions 2025|Special Missions 2025]] Win 50 battles reward (April 30 - May 29, 2025)
+|-
+| 066/P-A || {{TCG ID|Promo-A|Mimikyu|66}} || {{TCG Icon|Psychic}} || [[Mission (TCG Pocket)#Premium Missions|Premium Mission]] login reward (May 1 - 31, 2025)
+|-
+| 067/P-A || {{TCG ID|Promo-A|Cosmog|67}} || {{TCG Icon|Psychic}} || [[Wonder Pick Event (Solgaleo)|Wonder Pick Event]] (May 9 - 19, 2025)
+|-
+| 068/P-A || {{TCG ID|Promo-A|Lycanroc|68}} || {{TCG Icon|Fighting}} || [[Wonder Pick Event (Solgaleo)|Wonder Pick Event]] (May 9 - 19, 2025)
+|-
+| 069/P-A || {{TCG ID|Promo-A|Alolan Exeggutor|69}} || {{TCG Icon|Grass}} || [[Alolan Ninetales Drop Event|Promo Pack A Series Vol. 8]] (May 16 - 26, 2025)
+|-
+| 070/P-A || {{TCG ID|Promo-A|Alolan Ninetales|70}} || {{TCG Icon|Water}} || [[Alolan Ninetales Drop Event|Promo Pack A Series Vol. 8]] (May 16 - 26, 2025)
+|-
+| 071/P-A || {{TCG ID|Promo-A|Crabrawler|71}} || {{TCG Icon|Fighting}} || [[Alolan Ninetales Drop Event|Promo Pack A Series Vol. 8]] (May 16 - 26, 2025)
+|-
+| 072/P-A || {{TCG ID|Promo-A|Alolan Grimer|72}} || {{TCG Icon|Darkness}} || [[Alolan Ninetales Drop Event|Promo Pack A Series Vol. 8]] (May 16 - 26, 2025)
+|-
+| 073/P-A || {{TCG ID|Promo-A|Toucannon|73}} || {{TCG Icon|Colorless}} || [[Alolan Ninetales Drop Event|Promo Pack A Series Vol. 8]] (May 16 - 26, 2025)
+|-
+| 074/P-A || {{TCG ID|Promo-A|Zeraora|74}} || {{TCG Icon|Lightning}} || [[Mission (TCG Pocket)#Premium Missions|Premium Mission]] login reward (June 1 - 30, 2025)
+|-
+| 075/P-A || {{TCG ID|Promo-A|Kartana|75}} || {{TCG Icon|Grass}} || [[Ultra Beast Drop Event|Promo Pack A Series Vol. 9]] (June 4 - 14, 2025)
+|-
+| 076/P-A || {{TCG ID|Promo-A|Blacephalon|76}} || {{TCG Icon|Fire}} || [[Ultra Beast Drop Event|Promo Pack A Series Vol. 9]] (June 4 - 14, 2025)
+|-
+| 077/P-A || {{TCG ID|Promo-A|Xurkitree|77}} || {{TCG Icon|Lightning}} || [[Ultra Beast Drop Event|Promo Pack A Series Vol. 9]] (June 4 - 14, 2025)
+|-
+| 078/P-A || {{TCG ID|Promo-A|Dawn Wings Necrozma|78}} || {{TCG Icon|Psychic}} || [[Ultra Beast Drop Event|Promo Pack A Series Vol. 9]] (June 4 - 14, 2025)
+|-
+| 079/P-A || {{TCG ID|Promo-A|Dusk Mane Necrozma|79}} || {{TCG Icon|Metal}} || [[Ultra Beast Drop Event|Promo Pack A Series Vol. 9]] (June 4 - 14, 2025)
+|-
+| 080/P-A || {{TCG ID|Promo-A|Stakataka|80}} || {{TCG Icon|Metal}} || [[Ultra Beast Drop Event|Promo Pack A Series Vol. 9]] (June 4 - 14, 2025)
+|-
+| 081/P-A || {{TCG ID|Promo-A|Ultra Necrozma ex|81|Ultra Necrozma}}{{TCGP Icon|ex}} || {{TCG Icon|Dragon}} || [[Ultra Beast Drop Event|Promo Pack A Series Vol. 9]] (June 4 - 14, 2025)
+|-
+| 082/P-A || {{TCG ID|Promo-A|Poipole|82}} || {{TCG Icon|Darkness}} || [[Wonder Pick Event (Ultra Necrozma)|Wonder Pick Event]] (June 12 - 22, 2025)
+|-
+| 083/P-A || {{TCG ID|Promo-A|Stufful|83}} || {{TCG Icon|Colorless}} || [[Wonder Pick Event (Ultra Necrozma)|Wonder Pick Event]] (June 12 - 22, 2025)
+|-
+| 084/P-A || {{TCG ID|Promo-A|Tapu Koko ex|84|Tapu Koko}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || [[Mission (TCG Pocket)#Premium Missions|Premium Mission]] login reward (July 1 - 31, 2025)
+|-
+| 085/P-A || {{TCG ID|Promo-A|Vanillite|85}} || {{TCG Icon|Water}} || [[Alcremie Drop Event|Promo Pack A Series Vol. 10]] (July 2 - 12, 2025)
+|-
+| 086/P-A || {{TCG ID|Promo-A|Jolteon|86}} || {{TCG Icon|Lightning}} || [[Alcremie Drop Event|Promo Pack A Series Vol. 10]] (July 2 - 12, 2025)
+|-
+| 087/P-A || {{TCG ID|Promo-A|Alcremie|87}} || {{TCG Icon|Psychic}} || [[Alcremie Drop Event|Promo Pack A Series Vol. 10]] (July 2 - 12, 2025)
+|-
+| 088/P-A || {{TCG ID|Promo-A|Dragonair|88}} || {{TCG Icon|Dragon}} || [[Alcremie Drop Event|Promo Pack A Series Vol. 10]] (July 2 - 12, 2025)
+|-
+| 089/P-A || {{TCG ID|Promo-A|Audino|89}} || {{TCG Icon|Colorless}} || [[Alcremie Drop Event|Promo Pack A Series Vol. 10]] (July 2 - 12, 2025)
+|-
+| 090/P-A || {{TCG ID|Promo-A|Togedemaru|90}} || {{TCG Icon|Metal}} || [[Wonder Pick Event (Silvally)|Wonder Pick Event]] (July 11 - 21, 2025)
+|-
+| 091/P-A || {{TCG ID|Promo-A|Greedent|91}} || {{TCG Icon|Colorless}} || [[Wonder Pick Event (Silvally)|Wonder Pick Event]] (July 11 - 21, 2025)
+|-
+| 092/P-A || {{TCG ID|Promo-A|Eevee|92}} || {{TCG Icon|Colorless}} || [[Mission (TCG Pocket)#Eevee Mass Outbreak Event Missions|Eevee Mass Outbreak Event Missions]] Collect 3 Eevee cards reward (July 21 - 30, 2025)
+|-
+| 093/P-A || {{TCG ID|Promo-A|Cleffa|93}} || {{TCG Icon|Psychic}} || [[Mission (TCG Pocket)#Premium Missions|Premium Mission]] login reward (August 1 - 31, 2025)
+|-
+| 094/P-A || {{TCG ID|Promo-A|Horsea|94}} || {{TCG Icon|Water}} || [[Blissey ex Drop Event|Promo Pack A Series Vol. 11]] (August 6 - 16, 2025)
+|-
+| 095/P-A || {{TCG ID|Promo-A|Chinchou|95}} || {{TCG Icon|Lightning}} || [[Blissey ex Drop Event|Promo Pack A Series Vol. 11]] (August 6 - 16, 2025)
+|-
+| 096/P-A || {{TCG ID|Promo-A|Houndoom|96}} || {{TCG Icon|Darkness}} || [[Blissey ex Drop Event|Promo Pack A Series Vol. 11]] (August 6 - 16, 2025)
+|-
+| 097/P-A || {{TCG ID|Promo-A|Kangaskhan|97}} || {{TCG Icon|Colorless}} || [[Blissey ex Drop Event|Promo Pack A Series Vol. 11]] (August 6 - 16, 2025)
+|-
+| 098/P-A || {{TCG ID|Promo-A|Blissey ex|98|Blissey}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || [[Blissey ex Drop Event|Promo Pack A Series Vol. 11]] (August 6 - 16, 2025)
+|-
+| 099/P-A || {{TCG ID|Promo-A|Marill|99}} || {{TCG Icon|Water}} || [[Wonder Pick Event (Tyranitar)|Wonder Pick Event]] (August 14 - 24, 2025)
+|-
+| 100/P-A || {{TCG ID|Promo-A|Weavile|100}} || {{TCG Icon|Darkness}} || [[Wonder Pick Event (Tyranitar)|Wonder Pick Event]] (August 14 - 24, 2025)
+|-
+| 101/P-A || {{TCG ID|Promo-A|Latias|101}} || {{TCG Icon|Psychic}} || [[Mission (TCG Pocket)#Premium Missions|Premium Mission]] login reward (September 1 - 30, 2025)
+|-
+| 102/P-A || {{TCG ID|Promo-A|Tropius|102}} || {{TCG Icon|Grass}} || [[Zoroark Drop Event|Promo Pack A Series Vol. 12]]  (September 3 - 13, 2025)
+|-
+| 103/P-A || {{TCG ID|Promo-A|Poliwag|103}} || {{TCG Icon|Water}} || [[Zoroark Drop Event|Promo Pack A Series Vol. 12]]  (September 3 - 13, 2025)
+|-
+| 104/P-A || {{TCG ID|Promo-A|Milotic|104}} || {{TCG Icon|Water}} || [[Zoroark Drop Event|Promo Pack A Series Vol. 12]]  (September 3 - 13, 2025)
+|-
+| 105/P-A || {{TCG ID|Promo-A|Zorua|105}} || {{TCG Icon|Darkness}} || [[Zoroark Drop Event|Promo Pack A Series Vol. 12]]  (September 3 - 13, 2025)
+|-
+| 106/P-A || {{TCG ID|Promo-A|Zoroark|106}} || {{TCG Icon|Darkness}} || [[Zoroark Drop Event|Promo Pack A Series Vol. 12]]  (September 3 - 13, 2025)
+|-
+| 107/P-A || {{TCG ID|Promo-A|Miltank|107}} || {{TCG Icon|Colorless}} || [[Wonder Pick Event (Quagsire)|Wonder Pick Event]] (September 14 - 24, 2025)
+|-
+| 108/P-A || {{TCG ID|Promo-A|Phanpy|108}} || {{TCG Icon|Fighting}} || [[Wonder Pick Event (Quagsire)|Wonder Pick Event]] (September 14 - 24, 2025)
+|-
+| 109/P-A || {{TCG ID|Promo-A|Eevee ex|109|Eevee}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || [[Mission (TCG Pocket)#First Anniversary Countdown Missions|First Anniversary Countdown Missions]] Day 5 login reward (October 25 - November 8, 2025)
+|-
+| 110/P-A || {{TCG ID|Promo-A|Entei ex|110|Entei}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || [[Mission (TCG Pocket)#Premium Missions|Premium Mission]] login reward (October 1 - 31, 2025)
+|-
+| 111/P-A || {{TCG ID|Promo-A|Pikachu|111}} || {{TCG Icon|Lightning}} || [[Raichu ex Drop Event|Promo Pack A Series Vol. 13]]  (October 6 - 16, 2025)
+|-
+| 112/P-A || {{TCG ID|Promo-A|Raichu ex|112|Raichu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || [[Raichu ex Drop Event|Promo Pack A Series Vol. 13]]  (October 6 - 16, 2025)
+|-
+| 113/P-A || {{TCG ID|Promo-A|Mimikyu|113}} || {{TCG Icon|Psychic}} || [[Raichu ex Drop Event|Promo Pack A Series Vol. 13]]  (October 6 - 16, 2025)
+|-
+| 114/P-A || {{TCG ID|Promo-A|Machamp|114}} || {{TCG Icon|Fighting}} || [[Raichu ex Drop Event|Promo Pack A Series Vol. 13]]  (October 6 - 16, 2025)
+|-
+| 115/P-A || {{TCG ID|Promo-A|Regigigas|115}} || {{TCG Icon|Colorless}} || [[Raichu ex Drop Event|Promo Pack A Series Vol. 13]]  (October 6 - 16, 2025)
+|-
+| 116/P-A || {{TCG ID|Promo-A|Shaymin|116}} || {{TCG Icon|Grass}} || [[Wonder Pick Event (Professor Oak)|Wonder Pick Event]] (October 13 - 23, 2025)
+|-
+| 117/P-A || {{TCG ID|Promo-A|Absol|117}} || {{TCG Icon|Darkness}} || [[Wonder Pick Event (Professor Oak)|Wonder Pick Event]] (October 13 - 23, 2025)
+|}
+
+==Gallery==
+=== Pack artwork ===
+{{TCGMerchGallery
+|background=03D
+|border=0BF
+|image1=Promo Pack A Series Vol. 1.png
+|caption1=Promo Pack A Series Vol. 1
+|image2=Promo Pack A Series Vol. 2.png
+|caption2=Promo Pack A Series Vol. 2
+|image3=Promo Pack A Series Vol. 3.png
+|caption3=Promo Pack A Series Vol. 3
+|image4=Promo Pack A Series Vol. 4.png
+|caption4=Promo Pack A Series Vol. 4
+|image5=Promo Pack A Series Vol. 5.png
+|caption5=Promo Pack A Series Vol. 5
+|image6=Promo Pack A Series Vol. 6.png
+|caption6=Promo Pack A Series Vol. 6
+|image7=Promo Pack A Series Vol. 7.png
+|caption7=Promo Pack A Series Vol. 7
+|image8=Promo Pack A Series Vol. 8.png
+|caption8=Promo Pack A Series Vol. 8
+|image9=Promo Pack A Series Vol. 9.png
+|caption9=Promo Pack A Series Vol. 9
+|image10=Promo Pack A Series Vol. 10.png
+|caption10=Promo Pack A Series Vol. 10
+|image11=Promo Pack A Series Vol. 11.png
+|caption11=Promo Pack A Series Vol. 11
+}}
+
+=== Pack logos ===
+{{TCGMerchGallery
+|background=03D
+|border=0BF
+|image1=PA Logo Vol. 1 EN.png
+|caption1=Promo Pack A Series Vol. 1 logo
+|image2=PA Logo Vol. 2 EN.png
+|caption2=Promo Pack A Series Vol. 2 logo
+|image3=PA Logo Vol. 3 EN.png
+|caption3=Promo Pack A Series Vol. 3 logo
+|image4=PA Logo Vol. 4 EN.png
+|caption4=Promo Pack A Series Vol. 4 logo
+|image5=PA Logo Vol. 5 EN.png
+|caption5=Promo Pack A Series Vol. 5 logo
+|image6=PA Logo Vol. 6 EN.png
+|caption6=Promo Pack A Series Vol. 6 logo
+|image7=PA Logo Vol. 7 EN.png
+|caption7=Promo Pack A Series Vol. 7 logo
+|image8=PA Logo Vol. 8 EN.png
+|caption8=Promo Pack A Series Vol. 8 logo
+|image9=PA Logo Vol. 9 EN.png
+|caption9=Promo Pack A Series Vol. 9 logo
+|image10=PA Logo Vol. 10 EN.png
+|caption10=Promo Pack A Series Vol. 10 logo
+|image11=PA Logo Vol. 11 EN.png
+|caption11=Promo Pack A Series Vol. 11 logo
+|image12=PA Logo Vol. 12 EN.png
+|caption12=Promo Pack A Series Vol. 12 logo
+|image13=PA Logo Vol. 13 EN.png
+|caption13=Promo Pack A Series Vol. 13 logo
+}}
+
+==Related articles==
+{{TCGPocketNavigation}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:PROMO-A (TCG Pocket)]]
+[[es:Promo-A (TCG Pocket)]]
+[[fr:Promo-A]]
+[[it:Promo-A (GCC Pocket)]]
+[[ja:P-Aシリーズのプロモーションカード一覧]]
+[[zh:A系列特典卡（TCGP）]]

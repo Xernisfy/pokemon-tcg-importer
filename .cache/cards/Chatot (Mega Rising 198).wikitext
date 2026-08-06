@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Chatot
+|ja name=ペラップ
+|trans name=Perap
+|species=Chatot
+|type=Colorless
+|image=ChatotMegaRising198.png
+|illustrator=Shimaris Yukichi
+|hp=70
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=198/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Chatot''' (Japanese: '''ペラップ''' ''Perap'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Sleepy Song
+|jname=スリーピーソング
+|jtrans=Sleepy Song
+|damage=30
+|effect=Your opponent's Active Pokémon is now {{TCG|Asleep}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Chatot
+|category=Music Note
+|ndex=0441
+|height=1'8"
+|jheight=0.5
+|weight=4.2
+|jweight=1.9
+|dex=It can learn and speak human words. If they gather, they all learn the same saying.
+|jdex=人の 言葉を 覚えて 鳴く。 仲間が 一か所に 集まると みんな 同じ 言葉を 覚える。
+}}
+
+==Trivia==
+===Origin===
+*'''Sleepy Song''' is an attack that first appeared on {{TCG ID|EX Hidden Legends|Wigglytuff ex|101}} from the {{TCG|EX Hidden Legends}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Plaudagei (Mega-Aufstieg 198)]]
+[[es:Chatot (Megaascenso TCG Pocket)]]
+[[fr:Pijako (Méga-Ascension 198)]]
+[[it:Chatot (Mega Ascesa 198)]]
+[[ja:ペラップ (ポケポケ B1)]]
+[[zh:聒噪鸟（B1）]]

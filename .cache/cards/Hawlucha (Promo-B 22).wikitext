@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hawlucha
+|ja name=ルチャブル
+|trans name=Luchabull
+|species=Hawlucha
+|type=Fighting
+|image=HawluchaPromo-B22.png
+|illustrator=Teeziro
+|hp=70
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=022/P-B|pack=Vol. 3}}
+}}
+
+'''Hawlucha''' (Japanese: '''ルチャブル''' ''Luchabull'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-B}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Aerial Ace
+|jname=つばめがえし
+|jtrans=Swallow Return
+|damage=40+
+|effect=Flip a coin. If heads, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Hawlucha
+|species=Wrestling
+|ndex=0701
+|height=2'7"
+|jheight=0.8
+|weight=47.4
+|jweight=21.5
+|dex=Hawlucha live quietly without flocking together. They fight constantly with their natural enemies: noisy groups of Primeape.
+|jdex=群れを 作らず 静かに 暮らす。 集団で 騒ぐ オコリザルは 天敵で いつも 争いになる。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-B Vol. 3 packs; these were made available as part of the [[Mega Latios ex Drop Event]], which ran from January 17 to February 3, 2026.
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Silver Tempest|Hawlucha|98}} from the {{TCG|Silver Tempest}} expansion.
+*{{m|Aerial Ace}} is a [[move]] in the [[Pokémon games]] that {{p|Hawlucha}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Resladero (PROMO-B 022)]]
+[[fr:Brutalibré (Promo-B 022)]]
+[[it:Hawlucha (Promo-B 22)]]
+[[ja:ルチャブル (ポケポケ P-B)]]

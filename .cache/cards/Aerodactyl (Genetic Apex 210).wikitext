@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Aerodactyl
+|ja name=プテラ
+|trans name=Ptera
+|species=Aerodactyl
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AerodactylGeneticApex210.png|illustrator=Naoyo Kimura|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AerodactylExtradimensionalCrisis98.png|illustrator=Masakazu Fukuda|tab caption=Shiny Rare}}
+|hp=100
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Old Amber
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=210/226|pack=Mewtwo|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=098/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Aerodactyl''' (Japanese: '''プテラ''' ''Ptera'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Primal Wingbeat
+|jname=げんしのはばたき
+|jtrans=Primal Flap
+|damage=
+|effect=Flip a coin. If heads, your opponent shuffles their Active Pokémon into their deck.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Aerodactyl
+|species=Fossil
+|ndex=0142
+|height=5'11"
+|jheight=1.8
+|weight=130.1
+|jweight=59.0
+|dex=This is a ferocious Pokémon from ancient times. Apparently even modern technology is incapable of producing a perfectly restored specimen.
+|jdex=古代の　獰猛な　ポケモン｡ 完璧な　復元は いまの　科学でも　不可能らしい｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=AerodactylGeneticApex210.png
+|caption1=Rare card<br>Illus. [[Naoyo Kimura]]
+|image2=AerodactylExtradimensionalCrisis98.png
+|caption2=Shiny rare card<br>Illus. [[Masakazu Fukuda]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Dark Explorers|Aerodactyl|53}} from the {{TCG|Dark Explorers}} expansion.
+*This card's shiny rare print features a {{Shiny}} {{p|Aerodactyl}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Aerodactyl (Unschlagbare Gene 210)]]
+[[es:Aerodactyl (Genes Formidables TCG Pocket)]]
+[[fr:Ptéra (Puissance Génétique 210)]]
+[[it:Aerodactyl (Geni Supremi 210)]]
+[[ja:プテラ (ポケポケ A1)]]
+[[zh:化石翼龙（A1）]]

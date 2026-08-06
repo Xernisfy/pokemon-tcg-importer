@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Paldean Tauros
+|ja name=パルデアケンタロス
+|trans name=Paldean Kentauros
+|species=Tauros
+|type=Fighting
+|image=PaldeanTaurosPaldeanWonders58.png
+|illustrator=Shin Nagasawa
+|hp=100
+|weakness=Psychic
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=058/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Paldean Tauros''' (Japanese: '''パルデアケンタロス''' ''Paldean Kentauros'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}
+|name=Rear Kick
+|jname=うしろげり
+|jtrans=Rear Kick
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Tauros
+|category=Wild Bull
+|ndex=0128
+|height=4'7"
+|jheight=1.4
+|weight=253.5
+|jweight=115.0
+|dex=This kind of Tauros, known as the Combat Breed, is distinguished by its thick, powerful muscles and its fierce disposition.
+|jdex=ぶ厚く 力強い 筋肉と 気性の 荒さが 特徴。 コンバット種と 呼ばれる。
+}}
+
+==Trivia==
+===Origin===
+*This card features the Combat Breed [[Paldean form]] of {{p|Tauros}}.
+*This card's illustration was first featured on {{TCG ID|Paldea Evolved|Paldean Tauros|108}} from the {{TCG|Paldea Evolved}} expansion.
+*'''Rear Kick''' is an attack that first appeared on {{TCG ID|Team Rocket|Dark Rapidash|44}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Paldea-Tauros (Wundervolles Paldea 058)]]
+[[fr:Tauros de Paldea (Merveilles de Paldea 058)]]
+[[it:Tauros di Paldea (Meraviglie di Paldea 58)]]
+[[ja:パルデアケンタロス (ポケポケ B2a)]]
+[[zh:帕底亚 肯泰罗（B2a）]]

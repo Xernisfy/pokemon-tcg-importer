@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Natu
+|ja name=ネイティ
+|trans name=Naty
+|species=Natu
+|type=Psychic
+|image=NatuMegaRising97.png
+|illustrator=Sanosuke Sakuma
+|hp=60
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=097/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Natu''' (Japanese: '''ネイティ''' ''Naty'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}
+|name=Peck
+|jname=つつく
+|jtrans=Peck
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Natu
+|category=Tiny Bird
+|ndex=0177
+|height=8"
+|jheight=0.2
+|weight=4.4
+|jweight=2.0
+|dex=Because its wings aren't yet fully grown, it has to hop to get around. It is always staring at something.
+|jdex=羽が 育ちきって おらず 飛び跳ねるようにして 移動する。 いつも なにかを 見つめている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Legendary Treasures|Natu|55}} from the {{TCG|Legendary Treasures}} expansion; both cards have the Peck attack.
+*{{m|Peck}} is a [[move]] in the [[Pokémon games]] that {{p|Natu}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Natu (Mega-Aufstieg 097)]]
+[[es:Natu (Megaascenso TCG Pocket)]]
+[[fr:Natu (Méga-Ascension 097)]]
+[[it:Natu (Mega Ascesa 97)]]
+[[ja:ネイティ (ポケポケ B1)]]
+[[zh:天然雀（B1）]]

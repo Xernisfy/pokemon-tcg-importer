@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pancham
+|ja name=ヤンチャム
+|trans name=Yancham
+|species=Pancham
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PanchamMegaRising138.png|illustrator=match|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PanchamMegaRising243.png|illustrator=Yukihiro Tada|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=138/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=243/226|pack=Mega Gyarados|rarity=Star|rarity count=1}}
+}}
+
+'''Pancham''' (Japanese: '''ヤンチャム''' ''Yancham'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}
+|name=Punch
+|jname=パンチ
+|jtrans=Punch
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Pancham
+|species=Playful
+|ndex=0674
+|height=2'
+|jheight=0.6
+|weight=17.6
+|jweight=8.0
+|dex=Wanting to make sure it's taken seriously, Pancham's always giving others a glare. But if it's not focusing, it ends up smiling.
+|jdex=なめられないように いつも 相手を 睨みつけているが 気が 緩むと つい 笑い顔に なってしまう。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=PanchamMegaRising138.png
+|caption1=Common card<br>Illus. [[match]]
+|image2=PanchamMegaRising243.png
+|caption2=Illustration rare card<br>Illus. [[Yukihiro Tada]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Super Legend Set|Pancham|1}} from the {{TCG|Super Legend Set: Xerneas-EX & Yveltal-EX}}.
+*'''Punch''' is an attack that first appeared on {{TCG ID|Team Rocket|Machop|59}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pam-Pam (Mega-Aufstieg 138)]]
+[[es:Pancham (Megaascenso TCG Pocket)]]
+[[fr:Pandespiègle (Méga-Ascension 138)]]
+[[it:Pancham (Mega Ascesa 138)]]
+[[ja:ヤンチャム (ポケポケ B1)]]
+[[zh:顽皮熊猫（B1）]]

@@ -1,0 +1,86 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pyukumuku
+|ja name=ナマコブシ
+|trans name=Namakobushi
+|species=Pyukumuku
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PyukumukuCelestialGuardians54.png|illustrator=You Iribi|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PyukumukuCelestialGuardians163.png|illustrator=Toshinao Aoki|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PyukumukuSecludedSprings97.png|illustrator=Nisota Niso|tab caption=Shiny Rare}}
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=054/155|pack=Lunala|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=163/155|pack=Lunala|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=097/071|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Pyukumuku''' (Japanese: '''ナマコブシ''' ''Namakobushi'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Innards Out
+|jname=とびだすなかみ
+|jtrans=Flying Innards
+|effect=If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 50 damage to the Attacking Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Sprinkle Water
+|jname=うちみず
+|jtrans=Sprinkling Water
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Pyukumuku
+|species=Sea Cucumber
+|ndex=0771
+|height=1'00"
+|jheight=0.3
+|weight=2.6
+|jweight=1.2
+|dex=It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.
+|jdex=あたたかい あさせで くらす。 てきに であうと たいないきかんを くちから だして なぐりつける。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=PyukumukuCelestialGuardians54.png
+|caption1=Common card<br>Illus. [[You Iribi]]
+|image2=PyukumukuCelestialGuardians163.png
+|caption2=Illustration rare card<br>Illus. [[Toshinao Aoki]]
+|image3=PyukumukuSecludedSprings97.png
+|caption3=Shiny rare card<br>Illus. [[Nisota Niso]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare print features a {{Shiny}} {{p|Pyukumuku}}.
+*This card's standard illustration was first featured on {{TCG ID|Sun & Moon|Pyukumuku|47}} from the {{TCG|Sun & Moon}} expansion.
+*{{a|Innards Out}} is an [[Ability]] in the [[Pokémon games]] that {{p|Pyukumuku}} can have.
+*'''Sprinkle Water''' is an attack that first appeared on {{TCG ID|Secret Wonders|Shellos|106}} from {{TCG|Secret Wonders}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gufa (Hüter des Firmaments 054)]]
+[[es:Pyukumuku (Guardianes Celestiales TCG Pocket)]]
+[[fr:Concombaffe (Gardiens Astraux 054)]]
+[[it:Pyukumuku (Guardiani Astrali 54)]]
+[[ja:ナマコブシ (ポケポケ A3)]]
+[[zh:拳海参（A3）]]

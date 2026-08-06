@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Greninja {{TCGP Icon|ex}}
+|ja name=ゲッコウガ{{TCGP Icon|ex}}
+|trans name=Gekkouga {{TCGP Icon|ex}}
+|species=Greninja
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GreninjaexMegaRising73.png|illustrator=PLANETA Mochizuki|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GreninjaexMegaRising256.png|illustrator=PLANETA Saito|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GreninjaexMegaRising275.png|illustrator=Raita Kazama|tab caption=Special Illustration Rare}}
+|hp=170
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Frogadier
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=073/226|pack=Mega Gyarados|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=256/226|pack=Mega Gyarados|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=275/226|pack=Mega Gyarados|rarity=Star|rarity count=2}}
+}}
+
+'''Greninja ex''' (Japanese: '''ゲッコウガex''' ''Gekkouga ex'') is a {{ct|Water}} Stage 2 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Shifting Stream
+|jname=すいりゅうへんげ
+|jtrans=Water Current Shift
+|effect=Once during your turn, you may switch your Active {{e|Water}} Pokémon with 1 of your Benched Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Aqua Edge
+|jname=アクアエッジ
+|jtrans=Aqua Edge
+|damage=100
+|effect=
+}}
+{{Cardtext/Pocket ex
+|type=Water
+|ndex=0658
+|name=Greninja
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=GreninjaexMegaRising73.png
+|caption1=Double rare card<br>Illus. [[PLANETA Mochizuki]]
+|image2=GreninjaexMegaRising256.png
+|caption2=Super rare card<br>Illus. [[PLANETA Saito]]
+|image3=GreninjaexMegaRising275.png
+|caption3=Special illustration rare card<br>Illus. [[Raita Kazama]]
+}}
+
+==Trivia==
+===Origin===
+*'''Aqua Edge''' is an attack that first appeared on {{TCG ID|Kalos Starter Set|Greninja|14}} from the {{TCG|Kalos Starter Set}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Quajutsu-ex (Mega-Aufstieg 073)]]
+[[es:Greninja ex (Megaascenso TCG Pocket)]]
+[[fr:Amphinobi-ex (Méga-Ascension 073)]]
+[[it:Greninja-ex (Mega Ascesa 73)]]
+[[ja:ゲッコウガex (ポケポケ B1)]]
+[[zh:甲贺忍蛙ex（B1）]]

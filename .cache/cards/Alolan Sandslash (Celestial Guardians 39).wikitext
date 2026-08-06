@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Sandslash
+|ja name=アローラサンドパン
+|trans name=Alolan Sandpan
+|species=Sandslash
+|type=Water
+|image=AlolanSandslashCelestialGuardians39.png
+|illustrator=Hasuno
+|hp=100
+|weakness=Metal
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Alolan Sandshrew
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=039/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Alolan Sandslash''' (Japanese: '''アローラサンドパン''' ''Alolan Sandpan'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Spike Armor
+|jname=トゲのよろい
+|jtrans=Spike Armor
+|damage=20
+|effect=During your opponent's next turn, if this Pokémon is damaged by an attack, do 40 damage to the Attacking Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Sandslash
+|species=Mouse
+|ndex=0028
+|height=3'11"
+|jheight=1.2
+|weight=121.3
+|jweight=55.0
+|dex=It uses large, hooked claws to cut a path through deep snow as it runs. On snowy mountains, this Sandslash is faster than any other Pokémon. 
+|jdex=大きな カギヅメで 深い 雪を かき分け 走る。 雪山では どの ポケモンよりも 速いのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Sandslash}}.
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Alolan Sandslash|138}} from the {{TCG|Cosmic Eclipse}} expansion.
+*'''Spike Armor''' is an attack that first appeared on {{TCG ID|Mysterious Treasures|Sandslash|61}} from the {{TCG|Mysterious Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Sandamer (Hüter des Firmaments 039)]]
+[[es:Sandslash de Alola (Guardianes Celestiales TCG Pocket)]]
+[[fr:Sablaireau d'Alola (Gardiens Astraux 039)]]
+[[it:Sandslash di Alola (Guardiani Astrali 39)]]
+[[ja:アローラサンドパン (ポケポケ A3)]]
+[[zh:阿罗拉 穿山王（A3）]]

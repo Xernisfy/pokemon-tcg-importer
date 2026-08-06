@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Persian
+|ja name=ペルシアン
+|trans name=Persian
+|species=Persian
+|type=Colorless
+|image=PersianFantasticalParade125.png
+|illustrator=Yukiko Baba
+|hp=100
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Meowth
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=125/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Persian''' (Japanese: '''ペルシアン''' ''Persian'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Slash
+|jname=きりさく
+|jtrans=Slash
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Persian
+|species=Classy Cat
+|ndex=0053
+|height=3'3"
+|jheight=1
+|weight=70.5
+|jweight=32.0
+|dex=It has a vicious temperament. Beware if it raises its tail straight up. This is a signal that it is about to pounce and bite.
+|jdex=気性が 激しく 尻尾を まっすぐ 立てたら 要注意。 とびかかって 噛みつく 前触れだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Persian|126}} from the {{TCG|Team Up}} expansion.
+*{{m|Slash}} is a [[move]] in the [[Pokémon games]] that {{p|Persian}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Snobilikat (Traumhafte Parade 125)]]
+[[fr:Persian (Parade Onirique 125)]]
+[[it:Persian (Parata Fantasmagorica 125)]]
+[[ja:ペルシアン (ポケポケ B2)]]
+[[zh:猫老大（B2）]]

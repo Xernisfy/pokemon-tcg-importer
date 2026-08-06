@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Onix
+|ja name=イワーク
+|trans name=Iwark
+|species=Onix
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OnixGeneticApex150.png|illustrator=otumami|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OnixPromo-A21.png|illustrator=Tomokazu Komiya|tab caption=Promo}}
+|hp=110
+|weakness=Grass
+|retreat cost=4
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=150/226|pack=Pikachu|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=021/P-A|pack=Vol. 2}}
+}}
+
+'''Onix''' (Japanese: '''イワーク''' ''Iwark'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}
+|name=Land Crush
+|jname=ランドクラッシュ
+|jtrans=Land Crush
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Onix
+|species=Rock Snake
+|ndex=0095
+|height=28'10"
+|jheight=8.8
+|weight=463
+|jweight=210.0
+|dex=As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid.
+|jdex=地中を　掘り進みながら いろんな　硬いものを　取り込み 頑丈な　体をつくる｡
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of five cards that could be pulled from Promo-A Vol. 2 packs; these were made available as part of the [[Venusaur Drop Event]], which ran from November 29 to December 13, 2024.
+
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=OnixGeneticApex150.png
+|caption1=Uncommon card<br>Illus. [[otumami]]
+|image2=OnixPromo-A21.png
+|caption2=Promo card<br>Illus. [[Tomokazu Komiya]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Genetic Apex}} illustration was first featured on {{TCG ID|Cosmic Eclipse|Onix|105}} from the {{TCG|Cosmic Eclipse}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Lost Thunder|Onix|109}} from the {{TCG|Lost Thunder}} expansion.
+**Both this card and the Lost Thunder print have the '''Land Crush''' attack, which first appeared as '''Fissure''' on {{TCG ID|Gym Heroes|Brock's Golem|20}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Onix (Unschlagbare Gene 150)]]
+[[es:Onix (Genes Formidables TCG Pocket)]]
+[[fr:Onix (Puissance Génétique 150)]]
+[[it:Onix (Geni Supremi 150)]]
+[[ja:イワーク (ポケポケ A1)]]
+[[zh:大岩蛇（A1）]]

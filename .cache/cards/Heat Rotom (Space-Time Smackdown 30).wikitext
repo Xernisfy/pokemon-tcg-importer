@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Heat Rotom
+|ja name=ヒートロトム
+|trans name=Heat Rotom
+|species=Rotom
+|type=Fire
+|image=HeatRotomSpace-TimeSmackdown30.png
+|illustrator=Kedamahadaitai Yawarakai
+|hp=80
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=030/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Heat Rotom''' (Japanese: '''ヒートロトム''' ''Heat Rotom'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}
+|name=Heat Breath
+|jname=ヒートブレス
+|jtrans=Heat Breath
+|damage=30+
+|effect=Flip a coin. If heads, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Rotom
+|species=Plasma
+|ndex=0479
+|height=1'
+|jheight=0.3
+|weight=0.7
+|jweight=0.3
+|dex=If the convection microwave oven is not working properly, then the Rotom inhabiting it will become lethargic.
+|jdex=オーブンレンジ 自体の 調子が 悪いと 中に 入っている ロトムも 元気が なくなるのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Rotom}} in its {{form|Rotom|Heat Rotom}} form.
+*'''Heat Breath''' is an attack that first appeared on {{TCG ID|Ancient Origins|Flareon|13}} from the {{TCG|Ancient Origins}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hitze-Rotom (Kollision von Raum und Zeit 030)]]
+[[es:Rotom Calor (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Motisma Chaleur (Choc Spatio-Temporel 030)]]
+[[it:Rotom Calore (Scontro Spaziotemporale 30)]]
+[[ja:ヒートロトム (ポケポケ A2)]]
+[[zh:加热洛托姆（A2）]]

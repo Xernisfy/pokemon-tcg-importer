@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Honedge
+|ja name=ヒトツキ
+|trans name=Hitotsuki
+|species=Honedge
+|type=Metal
+|image=HonedgeFantasticalParade118.png
+|illustrator=Atsuko Nishida
+|hp=70
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=118/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Honedge''' (Japanese: '''ヒトツキ''' ''Hitotsuki'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}
+|name=Cut Up
+|jname=きる
+|jtrans=Slice
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Honedge
+|category=Sword
+|ndex=0679
+|height=2'7"
+|jheight=0.8
+|weight=4.4
+|jweight=2.0
+|dex=The blue eye on the sword's handguard is the true body of Honedge. With its old cloth, it drains people's lives away.
+|jdex=剣の 鍔の 青い 目玉が ヒトツキの 本体。 古びた 布で 人の 生気を 吸い取る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Primal Clash|Honedge|98}} from the {{TCG|Primal Clash}} expansion.
+*'''Cut Up''' is an attack that first appeared on {{TCG ID|Sword & Shield|Pawniard|133}} from the {{TCG|Sword & Shield}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gramokles (Traumhafte Parade 118)]]
+[[fr:Monorpale (Parade Onirique 118)]]
+[[it:Honedge (Parata Fantasmagorica 118)]]
+[[ja:ヒトツキ (ポケポケ B2)]]
+[[zh:独剑鞘（B2）]]

@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Machoke
+|ja name=ゴーリキー
+|trans name=Goriky
+|species=Machoke
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MachokeGeneticApex144.png|illustrator=match|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MachokeDeluxePackex192.png|illustrator=match|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MachokeCelestialGuardians224.png|illustrator=Shin Nagasawa|tab caption=Shiny Rare}}
+|hp=100
+|weakness=Psychic
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Machop
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=144/226|pack=Charizard|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=224/155|pack=Solgaleo|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=191/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=192/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Machoke''' (Japanese: '''ゴーリキー''' ''Goriky'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Strength
+|jname=かいりき
+|jtrans=Super Strength
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Machoke
+|species=Superpower
+|ndex=0067
+|height=4'11"
+|jheight=1.5
+|weight=155.4
+|jweight=70.5
+|dex=Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.
+|jdex=すごく　強靭な　肉体なので パワーセーブ　ベルトを　つけて 強さを　制御している｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=MachokeGeneticApex144.png
+|caption1=Standard card<br>Illus. [[match]]
+|image2=MachokeCelestialGuardians224.png
+|caption2=Shiny rare card<br>Illus. [[Shin Nagasawa]]
+|image3=MachokeDeluxePackex192.png
+|caption3=Parallel foil card<br>Illus. [[match]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Plasma Blast|Machoke|48}} from the {{TCG|Plasma Blast}} expansion.
+**[[Lentimas Town]] from {{B2W2}} is featured in the background of the illustration.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Machoke}}.
+*{{m|Strength}} is a [[move]] in the [[Pokémon games]] that {{p|Machoke}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Maschock (Unschlagbare Gene 144)]]
+[[es:Machoke (Genes Formidables TCG Pocket)]]
+[[fr:Machopeur (Puissance Génétique 144)]]
+[[it:Machoke (Geni Supremi 144)]]
+[[ja:ゴーリキー (ポケポケ A1)]]
+[[zh:豪力（A1）]]

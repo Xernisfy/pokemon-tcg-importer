@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dusknoir
+|ja name=ヨノワール
+|trans name=Yonoir
+|species=Dusknoir
+|type=Psychic
+|image=DusknoirMegaRising105.png
+|illustrator=nagimiso
+|hp=150
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Dusclops
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=105/226|pack=Mega Blaziken|rarity=Diamond|rarity count=3}}
+}}
+
+'''Dusknoir''' (Japanese: '''ヨノワール''' ''Yonoir'') is a {{ct|Psychic}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Fade into Darkness
+|jname=やみにきえる
+|jtrans=Disappear into Darkness
+|effect=When this Pokémon is Knocked Out, flip a coin. If heads, your opponent can't get any points for it.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Hammer In
+|jname=ぶちかます
+|jtrans=Headfirst Strike
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Dusknoir
+|category=Gripper
+|ndex=0477
+|height=7'3"
+|jheight=2.2
+|weight=235
+|jweight=106.6
+|dex=With the mouth on its belly, Dusknoir swallows its target whole. The soul is the only thing eaten— Dusknoir disgorges the body before departing.
+|jdex=狙った 相手を 腹の口で 丸飲み。 魂だけを 食い 肉体は 吐き出し 去っていく。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Burning Shadows|Dusknoir|53}} from the {{TCG|Burning Shadows}} expansion.
+*'''Hammer In''' is an attack that first appeared on {{TCG ID|Mysterious Treasures|Larvitar|87}} from the {{TCG|Mysterious Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zwirrfinst (Mega-Aufstieg 105)]]
+[[es:Dusknoir (Megaascenso TCG Pocket)]]
+[[fr:Noctunoir (Méga-Ascension 105)]]
+[[it:Dusknoir (Mega Ascesa 105)]]
+[[ja:ヨノワール (ポケポケ B1)]]
+[[zh:黑夜魔灵（B1）]]

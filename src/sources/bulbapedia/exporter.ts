@@ -209,12 +209,12 @@ export async function exportSets(sets: [CardSet, Card[]][]) {
     const olderSet = setFile.findIndex((v) => v.releaseDate > set.releaseDate);
     if (olderSet > -1) setFile.splice(olderSet, 0, set);
     else setFile.push(set);
-    Deno.writeTextFileSync(
+    await Deno.writeTextFile(
       cardsExportPath + "/" + set.id + ".json",
       JSON.stringify(cards, null, 2),
     );
   }
-  Deno.writeTextFileSync(
+  await Deno.writeTextFile(
     setsExportPath + "/en.json",
     JSON.stringify(setFile, null, 2),
   );

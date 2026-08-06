@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cleffa
+|ja name=ピィ
+|trans name=Py
+|species=Cleffa
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CleffaWisdomofSeaandSky77.png|illustrator=Orca|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CleffaPromo-A93.png|illustrator=Tika Matsuno|tab caption=Promo}}
+|hp=30
+|weakness=
+|retreat cost=0
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=077/161|pack=Lugia (Bonus)|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=093/P-A}}
+}}
+
+'''Cleffa''' (Japanese: '''ピィ''' ''Py'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|None}}
+|name=Twinkly Call
+|jname=きらきらコール
+|jtrans=Sparkly Call
+|damage=
+|effect=Put a random Pokémon from your deck into your hand.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Cleffa
+|category=Star Shape 
+|ndex=0173
+|height=1'
+|jheight=0.3
+|weight=6.6
+|jweight=3.0
+|dex=According to local rumors, Cleffa are often seen in places where shooting stars have fallen.
+|jdex=ピィを よく 見かける 場所は 流れ星が 落ちた 場所と 地元では うわさ されている。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available from August 1 to 31, 2025 as a login reward from the monthly {{DL|Mission (TCG Pocket)|Premium Missions}}.
+
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=CleffaWisdomofSeaandSky77.png
+|caption1=Rare card<br>Illus. [[Orca]]
+|image2=CleffaPromo-A93.png
+|caption2=Promo card<br>Illus. [[Tika Matsuno]]
+}}
+
+==Trivia==
+===Origin===
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pii (Weisheit von Meer und Himmel 077)]]
+[[es:Cleffa (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Mélo (Sagesse entre Ciel et Mer 077)]]
+[[it:Cleffa (La Via del Cielo e del Mare 77)]]
+[[ja:ピィ (ポケポケ A4)]]
+[[zh:皮宝宝（A4）]]

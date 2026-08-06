@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Appletun
+|ja name=タルップル
+|trans name=Tarupple
+|species=Appletun
+|type=Grass
+|image=AppletunEeveeGrove7.png
+|illustrator=Akira Komayama
+|hp=90
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Applin
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=007/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Appletun''' (Japanese: '''タルップル''' ''Tarupple'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Sweets Relay
+|jname=スイーツリレー
+|jtrans=Sweets Relay
+|damage=40+
+|effect=If 1 of your Pokémon used [[:Category:TCG Pocket cards with Sweets Relay|Sweets Relay]] during your last turn, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Appletun
+|species=Apple Nectar
+|ndex=0842
+|height=1'4"
+|jheight=0.4
+|weight=28.7
+|jweight=13.0
+|dex=It feeds mainly on sweet apples. It will also eat small bug Pokémon that are attracted by its sweet nectar.
+|jdex=主食は 甘い りんご。 甘い 蜜に 誘われ 寄ってくる 小型の 虫ポケモンも 食べる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Appletun|23}} from the {{TCG|Rebel Clash}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schlapfel (Evoli-Hain 007)]]
+[[es:Appletun (Arboleda de Eevee TCG Pocket)]]
+[[fr:Dratatin (La Clairière d'Évoli 007)]]
+[[it:Appletun (Il Bosco di Eevee 7)]]
+[[ja:タルップル (ポケポケ A3b)]]
+[[zh:丰蜜龙（A3b）]]

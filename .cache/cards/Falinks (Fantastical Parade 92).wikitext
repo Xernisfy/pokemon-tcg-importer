@@ -1,0 +1,78 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Falinks
+|ja name=タイレーツ
+|trans name=Tairetsu
+|species=Falinks
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FalinksFantasticalParade92.png|illustrator=Yuu Nishida|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FalinksFantasticalParade172.png|illustrator=okayamatakatoshi|tab caption=Illustration Rare}}
+|hp=70
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=092/155|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=172/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Falinks''' (Japanese: '''タイレーツ''' ''Tairetsu'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Ability/Pocket
+|type=Fighting
+|name=Coordinated Unit
+|jname=れんけいユニット
+|jtrans=Coordinated Unit
+|effect=If you have another {{TCGP|Falinks}} in play, this Pokémon's attacks do +20 damage to your opponent's Active Pokémon, and this Pokémon takes −20 damage from attacks from your opponent's Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Invade
+|jname=せめこむ
+|jtrans=Invade
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Falinks
+|species=Formation
+|ndex=0870
+|height=9'10"
+|jheight=3.0
+|weight=136.7
+|jweight=62.0
+|dex=The leader, known as the brass, uses its extendible horn to issue orders to the others when it's time to change formation.
+|jdex=伸縮する ツノで ヘイチョーと 呼ばれる リーダーが 陣形を 組み替える 指示を 出しているぞ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=FalinksFantasticalParade92.png
+|caption1=Uncommon card<br>Illus. [[Yuu Nishida]]
+|image2=FalinksFantasticalParade172.png
+|caption2=Illustration rare card<br>Illus. [[okayamatakatoshi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Fusion Strike|Falinks|155}} from the {{TCG|Fusion Strike}} expansion; both cards have the Invade attack.
+*'''Invade''' is an attack that first appeared on {{TCG ID|Fusion Strike|Falinks|155}} from the {{TCG|Fusion Strike}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Legios (Traumhafte Parade 092)]]
+[[fr:Hexadron (Parade Onirique 092)]]
+[[it:Falinks (Parata Fantasmagorica 92)]]
+[[ja:タイレーツ (ポケポケ B2)]]
+[[zh:列阵兵（B2）]]

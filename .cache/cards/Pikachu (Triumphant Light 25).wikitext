@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pikachu
+|ja name=ピカチュウ
+|trans name=Pikachu
+|species=Pikachu
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PikachuTriumphantLight25.png|illustrator=MAHOU|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PikachuPromo-B1.png|illustrator=You Iribi|tab caption=Promo}}
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=025/075|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=001/P-B}}
+}}
+
+'''Pikachu''' (Japanese: '''ピカチュウ''' ''Pikachu'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Spark
+|jname=スパーク
+|jtrans=Spark
+|damage=10
+|effect=This attack does 10 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Pikachu
+|species=Mouse
+|ndex=0025
+|height=1'4"
+|jheight=0.4
+|weight=13.2
+|jweight=6.0
+|dex=When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.
+|jdex=両頬には　電気を　溜めこむ 袋がある｡　怒ると　溜めこんだ 電気を　一気に　放ってくる｡
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} card was first made available to purchase from the Premium section of the in-game {{TCGP|shop}} on November 1, 2025 at a cost of 1 Premium Ticket, a currency only available to players with a Premium Pass subscription. Only one copy of this card can be purchased in this way.
+
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=PikachuTriumphantLight25.png
+|caption1=Common card<br>Illus. [[MAHOU]]
+|image2=PikachuPromo-B1.png
+|caption2=Promo card<br>Illus. [[You Iribi]]
+}}
+
+==Trivia==
+This card's set number in the {{TCGP|Triumphant Light}} expansion is 025, which is also {{p|Pikachu}}'s [[National Pokédex]] [[List of Pokémon by National Pokédex number|number]].
+
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|XY|Pikachu|42}} from the {{TCG|XY}} expansion.
+*{{m|Spark}} is a [[move]] in the [[Pokémon games]] that {{p|Pikachu}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pikachu (Licht des Triumphs 025)]]
+[[es:Pikachu (Luz Triunfal TCG Pocket)]]
+[[fr:Pikachu (Lumière Triomphale 025)]]
+[[it:Pikachu (Luce Trionfale 25)]]
+[[ja:ピカチュウ (ポケポケ A2a)]]
+[[zh:皮卡丘（A2a）]]

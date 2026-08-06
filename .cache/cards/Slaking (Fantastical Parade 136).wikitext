@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Slaking
+|ja name=ケッキング
+|trans name=Kekking
+|species=Slaking
+|type=Colorless
+|image=SlakingFantasticalParade136.png
+|illustrator=Masakazu Fukuda
+|hp=160
+|weakness=Fighting
+|retreat cost=4
+|evo stage=Stage 2
+|prevo name=Vigoroth
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=136/155|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Slaking''' (Japanese: '''ケッキング''' ''Kekking'') is a {{ct|Colorless}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Snoozing Habit
+|jname=いねむりぐせ
+|jtrans=Dozing Habit
+|effect=As long as this Pokémon is in the Active Spot, whenever you attach an Energy from your Energy Zone to it, it is now {{TCG|Asleep}}.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Knuckle Sandwich
+|jname=グーパンチ
+|jtrans=Fist Punch
+|damage=150
+|effect=Discard a random Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Slaking
+|category=Lazy
+|ndex=0289	
+|height=6'7"
+|jheight=2.0
+|weight=287.7
+|jweight=130.5
+|dex=This Pokémon lives lying on its side. It only rolls over and moves when there is no more grass to eat.
+|jdex=寝転がったまま 生活 する。 まわりに 食べる 草が なくなると ようやく 寝返りをして 動く。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Platinum|Slaking|16}} from the {{TCG|Platinum}} expansion.
+*'''Knuckle Sandwich''' is an attack that first appeared on {{TCG ID|Furious Fists|Slaking|83}} from the {{TCG|Furious Fists}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Letarking (Traumhafte Parade 136)]]
+[[fr:Monaflèmit (Parade Onirique 136)]]
+[[it:Slaking (Parata Fantasmagorica 136)]]
+[[ja:ケッキング (ポケポケ B2)]]
+[[zh:请假王（B2）]]

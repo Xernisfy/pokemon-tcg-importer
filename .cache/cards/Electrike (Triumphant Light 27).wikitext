@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Electrike
+|ja name=ラクライ
+|trans name=Rakurai
+|species=Electrike
+|type=Lightning
+|image=ElectrikeTriumphantLight27.png
+|illustrator=Shin Nagasawa
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=027/075|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Electrike''' (Japanese: '''ラクライ''' ''Rakurai'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Zap Kick
+|jname=エレキック
+|jtrans=Elekick
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Electrike
+|species=Lightning
+|ndex=0309
+|height=2'
+|jheight=0.6
+|weight=33.5
+|jweight=15.2
+|dex=It stores static electricity in its fur for discharging. It gives off sparks if a storm approaches.
+|jdex=静電気を 体毛に たくわえて 放電する。 嵐が 近づくと 全身から 火花を 散らす。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Arceus|Electrike|63}} from the {{TCG|Platinum: Arceus|Arceus}} expansion.
+*'''Zap Kick''' is an attack that first appeared on {{TCG ID|EX Emerald|Manectric|16}} from the {{TCG|EX Emerald}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Frizelbliz (Licht des Triumphs 027)]]
+[[es:Electrike (Luz Triunfal TCG Pocket)]]
+[[fr:Dynavolt (Lumière Triomphale 027)]]
+[[it:Electrike (Luce Trionfale 27)]]
+[[ja:ラクライ (ポケポケ A2a)]]
+[[zh:落雷獸（A2a）]]

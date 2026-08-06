@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Froslass
+|ja name=ユキメノコ
+|trans name=Yukimenoko
+|species=Froslass
+|type=Water
+|image=FroslassTriumphantLight19.png
+|illustrator=Mizue
+|hp=90
+|weakness=Metal
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Snorunt
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=019/075|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Froslass''' (Japanese: '''ユキメノコ''' ''Yukimenoko'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Blizzard
+|jname=ふぶき
+|jtrans=Blizzard
+|damage=40
+|effect=This attack also does 10 damage to each of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Froslass
+|species=Snow Land
+|ndex=0478
+|height=4'3"
+|jheight=1.3
+|weight=58.6
+|jweight=26.6
+|dex=When it finds humans or Pokémon it likes, it freezes them and takes them to its chilly den, where they become decorations.
+|jdex=気に入った 人間や ポケモンを 冷気で 凍らせる。 巣穴に 持って帰って 飾るのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Froslass|38}} from the {{TCG|Unified Minds}} expansion.
+*{{m|Blizzard}} is a [[move]] in the [[Pokémon games]] that {{p|Froslass}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Frosdedje (Licht des Triumphs 019)]]
+[[es:Froslass (Luz Triunfal TCG Pocket)]]
+[[fr:Momartik (Lumière Triomphale 019)]]
+[[it:Froslass (Luce Trionfale 19)]]
+[[ja:ユキメノコ (ポケポケ A2a)]]
+[[zh:雪妖女（A2a）]]

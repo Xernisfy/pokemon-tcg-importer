@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lickitung
+|ja name=ベロリンガ
+|trans name=Beroringa
+|species=Lickitung
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LickitungSpace-TimeSmackdown124.png|illustrator=Yukiko Baba|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LickitungDeluxePackex283.png|illustrator=Yukiko Baba|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LickitungWisdomofSeaandSky230.png|illustrator=MAHOU|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=124/155|pack=Palkia|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=230/161|pack=Ho-Oh|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=282/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=283/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Lickitung''' (Japanese: '''ベロリンガ''' ''Beroringa'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Tongue Slap
+|jname=ベロではたく
+|jtrans=Tongue Strike
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Lickitung
+|species=Licking
+|ndex=0108
+|height=3'11"
+|jheight=1.2
+|weight=144.4
+|jweight=65.5
+|dex=If this Pokémon's sticky saliva gets on you and you don't clean it off, an intense itch will set in. The itch won't go away, either.
+|jdex=ネバネバした　唾液に　触れたまま 放っておくと　ものすごい　痒みが はじまり　とまらなくなるぞ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=LickitungSpace-TimeSmackdown124.png
+|caption1=Standard card<br>Illus. [[Yukiko Baba]]
+|image2=LickitungWisdomofSeaandSky230.png
+|caption2=Shiny rare card<br>Illus. [[MAHOU]]
+|image3=LickitungDeluxePackex283.png
+|caption3=Parallel foil card<br>Illus. [[Yukiko Baba]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Unbroken Bonds|Lickitung|152}} from the {{TCG|Unbroken Bonds}} expansion.
+*This card's shiny rare print features a {{Shiny}} {{p|Lickitung}}.
+*'''Tongue Slap''' is an attack that first appeared on {{TCG ID|Gym Heroes|Brock's Lickitung|41}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schlurp (Kollision von Raum und Zeit 124)]]
+[[es:Lickitung (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Excelangue (Choc Spatio-Temporel 124)]]
+[[it:Lickitung (Scontro Spaziotemporale 124)]]
+[[ja:ベロリンガ (ポケポケ A2)]]
+[[zh:大舌头（A2）]]

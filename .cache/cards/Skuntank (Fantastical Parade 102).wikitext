@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Skuntank
+|ja name=スカタンク
+|trans name=Skutank
+|species=Skuntank
+|type=Darkness
+|image=SkuntankFantasticalParade102.png
+|illustrator=sowsow
+|hp=110
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Stunky
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=102/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Skuntank''' (Japanese: '''スカタンク''' ''Skutank'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Colorless}}
+|name=Smokescreen Shot
+|jname=えんまくだん
+|jtrans=Smokescreen Bomb
+|damage=70
+|effect=During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Skuntank
+|species=Skunk
+|ndex=0435
+|height=3'3"
+|jheight=1.0
+|weight=83.8
+|jweight=38.0
+|dex=It attacks by spraying a repugnant fluid from its tail, but the stench dulls after a few squirts.
+|jdex=尻尾の 先から くさい 臭いの 液体を 飛ばして 攻撃。 連射すると 臭いは 弱まる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Skuntank|115}} from the {{TCG|Rebel Clash}} expansion.
+*'''Smokescreen Shot''' is an attack that first appeared on {{TCG ID|Paradox Rift|Octillery|34}} from the {{TCG|Paradox Rift}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Skuntank (Traumhafte Parade 102)]]
+[[fr:Moufflair (Parade Onirique 102)]]
+[[it:Skuntank (Parata Fantasmagorica 102)]]
+[[ja:スカタンク (ポケポケ B2)]]
+[[zh:坦克臭鼬（B2）]]

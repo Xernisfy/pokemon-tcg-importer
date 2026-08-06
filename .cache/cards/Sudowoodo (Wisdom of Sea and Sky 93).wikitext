@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sudowoodo
+|ja name=ウソッキー
+|trans name=Usokkie
+|species=Sudowoodo
+|type=Fighting
+|image=SudowoodoWisdomofSeaandSky93.png
+|illustrator=AKIRA EGAWA
+|hp=90
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=093/161|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Sudowoodo''' (Japanese: '''ウソッキー''' ''Usokkie'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Rock Throw
+|jname=いわおとし
+|jtrans=Rock Drop
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Sudowoodo
+|category=Imitation 
+|ndex=0185
+|height=3'11"
+|jheight=1.2
+|weight=83.8
+|jweight=38.0
+|dex=Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.
+|jdex=いつも 木のふりを している。 体の つくりは 植物より 石や 岩などに 近いようだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Origin|Sudowoodo|94}} from the {{TCG|Lost Origin}} expansion.
+*{{m|Rock Throw}} is a [[move]] in the [[Pokémon games]] that {{p|Sudowoodo}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mogelbaum (Weisheit von Meer und Himmel 093)]]
+[[es:Sudowoodo (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Simularbre (Sagesse entre Ciel et Mer 093)]]
+[[it:Sudowoodo (La Via del Cielo e del Mare 93)]]
+[[ja:ウソッキー (ポケポケ A4)]]
+[[zh:树才怪（A4）]]

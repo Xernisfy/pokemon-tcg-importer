@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gengar
+|ja name=ゲンガー
+|trans name=Gangar
+|species=Gengar
+|type=Psychic
+|image=GengarTriumphantLight33.png
+|illustrator=Midori Harada
+|hp=140
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Haunter
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=033/075|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Gengar''' (Japanese: '''ゲンガー''' ''Gangar'') is a {{ct|Psychic}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Hypnoblast
+|jname=さいみんはどう
+|jtrans=Hypnotic Pulse
+|damage=70
+|effect=Your opponent's Active Pokémon is now {{TCG|Asleep}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Gengar
+|species=Shadow
+|ndex=0094
+|height=4'11"
+|jheight=1.5
+|weight=89.3
+|jweight=40.5
+|dex=To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.
+|jdex=命を　奪おうと　決めた 獲物の　影に　潜り込み じっと　チャンスを　狙ってる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Arceus|Gengar|16}} from the {{TCG|Platinum: Arceus}} expansion.
+*'''Hypnoblast''' is an attack that first appeared on {{TCG ID|Gym Challenge|Rocket's Mewtwo|14}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gengar (Licht des Triumphs 033)]]
+[[es:Gengar (Luz Triunfal TCG Pocket)]]
+[[fr:Ectoplasma (Lumière Triomphale 033)]]
+[[it:Gengar (Luce Trionfale 33)]]
+[[ja:ゲンガー (ポケポケ A2a)]]
+[[zh:耿鬼（A2a）]]

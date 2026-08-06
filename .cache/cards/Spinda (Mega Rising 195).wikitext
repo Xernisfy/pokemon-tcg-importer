@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Spinda
+|ja name=パッチール
+|trans name=Patcheel
+|species=Spinda
+|type=Colorless
+|image=SpindaMegaRising195.png
+|illustrator=Shigenori Negishi
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=195/226|pack=Mega Altaria|rarity=Diamond|rarity count=1}}
+}}
+
+'''Spinda''' (Japanese: '''パッチール''' ''Patcheel'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Dizzying Headbutt
+|jname=フラフラずつき
+|jtrans=
+|damage=30
+|effect=Both Active Pokémon are now {{TCG|Confused}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Spinda
+|category=Spot Panda
+|ndex=0327
+|height=3'7"
+|jheight=1.1
+|weight=11
+|jweight=5.0
+|dex=Each Spinda's spot pattern is different. With its stumbling movements, it evades opponents' attacks brilliantly!
+|jdex=1匹ずつ ブチ模様は 異なる。 フラフラした 動きで 相手の 攻撃を 絶妙に かわすぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Spinda|102}} from the {{TCG|Sun & Moon}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pandir (Mega-Aufstieg 195)]]
+[[es:Spinda (Megaascenso TCG Pocket)]]
+[[fr:Spinda (Méga-Ascension 195)]]
+[[it:Spinda (Mega Ascesa 195)]]
+[[ja:パッチール (ポケポケ B1)]]
+[[zh:晃晃斑（B1）]]

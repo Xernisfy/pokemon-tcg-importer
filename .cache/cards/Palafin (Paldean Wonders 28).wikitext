@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Palafin
+|ja name=イルカマン
+|trans name=Irukaman
+|species=Palafin
+|type=Water
+|image=PalafinPaldeanWonders28.png
+|illustrator=Souichirou Gunjima
+|hp=130
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Finizen
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=028/093|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Palafin''' (Japanese: '''イルカマン''' ''Irukaman'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}
+|name=Jet Punch
+|jname=ジェットパンチ
+|jtrans=Jet Punch
+|damage=50
+|effect=This attack also does 50 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Palafin
+|category=Hero
+|ndex=0964
+|height=5'11"
+|jheight=1.8
+|weight=214.7
+|jweight=97.4
+|dex=This hero of the ocean swims at a speed of 50 knots and saves drowning people and Pokémon.
+|jdex=５０ノットの　速さで　泳ぎ 溺れている　人や　ポケモンを 助ける　海の　ヒーロー｡
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Palafin}}'s {{fd|Palafin|Hero Form}}.
+*This card's illustration was first featured on {{TCG ID|Obsidian Flames|Palafin|62}} from the {{TCG|Obsidian Flames}} expansion.
+**Both cards have the {{m|Jet Punch}} attack; this is Palafin's [[signature move]] in the [[Pokémon games]].
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Delfinator (Wundervolles Paldea 028)]]
+[[fr:Superdofin (Merveilles de Paldea 028)]]
+[[it:Palafin (Meraviglie di Paldea 28)]]
+[[ja:イルカマン (ポケポケ B2a)]]
+[[zh:海豚侠（B2a）]]

@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Snivy
+|ja name=ツタージャ
+|trans name=Tsutarja
+|species=Snivy
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SnivyMythicalIsland4.png|illustrator=Kagemaru Himeno|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SnivyDeluxePackex33.png|illustrator=Kagemaru Himeno|tab caption=Parallel}}
+|hp=70
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=004/068|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=032/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=033/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Snivy''' (Japanese: '''ツタージャ''' ''Tsutarja'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Vine Whip
+|jname=つるのムチ
+|jtrans=Vine Whip
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Snivy
+|species=Grass Snake
+|ndex=0495
+|height=2'
+|jheight=0.6
+|weight=17.9
+|jweight=8.1
+|dex=Being exposed to sunlight makes its movements swifter. It uses vines more adeptly than its hands.
+|jdex=太陽の 光を 浴びると いつもよりも 素早く 動ける。 手よりも ツルを うまく使う。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=SnivyMythicalIsland4.png
+|caption1=Standard card<br>Illus. [[Kagemaru Himeno]]
+|image2=SnivyDeluxePackex33.png
+|caption2=Parallel foil card<br>Illus. [[Kagemaru Himeno]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Black & White|Snivy|1}} from the {{TCG|Black & White}} expansion.
+**Both cards have the {{m|Vine Whip}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Snivy}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Omega Ruby}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Serpifeu (Mysteriöse Insel 004)]]
+[[es:Snivy (La Isla Singular TCG Pocket)]]
+[[fr:Vipélierre (L'Île Fabuleuse 004)]]
+[[it:Snivy (L'Isola Misteriosa 4)]]
+[[ja:ツタージャ (ポケポケ A1a)]]
+[[zh:藤藤蛇（A1a）]]

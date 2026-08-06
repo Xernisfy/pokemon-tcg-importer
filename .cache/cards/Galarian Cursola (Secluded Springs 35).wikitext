@@ -1,0 +1,69 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Galarian Cursola
+|ja name=ガラルサニゴーン
+|trans name=Galarian Sunigoon
+|species=Cursola
+|type=Psychic
+|image=GalarianCursolaSecludedSprings35.png
+|illustrator=Kagemaru Himeno
+|hp=80
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Galarian Corsola
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=035/071|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Galarian Cursola''' (Japanese: '''ガラルサニゴーン''' ''Galarian Sunigoon'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Perish Body
+|jname=ほろびのボディ
+|jtrans=Perish Body
+|effect=If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, flip a coin. If heads, the Attacking Pokémon is Knocked Out.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Spooky Shot
+|jname=ホロウショット
+|jtrans=Hollow Shot
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Cursola
+|category=Coral
+|ndex=0864
+|height=3'3"
+|jheight=1.0
+|weight=0.9
+|jweight=0.4
+|dex=Its shell is overflowing with its heightened otherworldly energy. The ectoplasm serves as protection for this Pokémon's core spirit.
+|jdex=霊力が 高まり 殻から 解き放たれた。 霊体で 核の 魂を 守っている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Galarian Cursola|79}} from the {{TCG|Rebel Clash}} expansion.
+*{{a|Perish Body}} is an [[Ability]] in the [[Pokémon games]] that is the [[signature Ability]] of Cursola.
+*'''Spooky Shot''' is an attack that first appeared on {{TCG ID|Legendary Treasures|Misdreavus|57}} and {{TCG ID|Legendary Treasures|Mismagius|58}}, both from the {{TCG|Legendary Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Galar-Gorgasonn (Verborgene Quelle 035)]]
+[[es:Cursola de Galar (Manantial Oculto TCG Pocket)]]
+[[fr:Corayôme de Galar (Source Secrète 035)]]
+[[it:Cursola di Galar (Sorgenti Recondite 35)]]
+[[ja:ガラルサニゴーン (ポケポケ A4a)]]
+[[zh:伽勒尔 魔灵珊瑚（A4a）]]

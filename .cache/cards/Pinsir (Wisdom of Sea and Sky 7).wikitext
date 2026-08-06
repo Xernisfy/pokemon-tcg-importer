@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pinsir
+|ja name=カイロス
+|trans name=Kailios
+|species=Pinsir
+|type=Grass
+|image=PinsirWisdomofSeaandSky7.png
+|illustrator=Toshinao Aoki
+|hp=90
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=007/161|pack=Lugia|rarity=Diamond|rarity count=1}}
+}}
+
+'''Pinsir''' (Japanese: '''カイロス''' ''Kailios'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=Guillotine
+|jname=ハサミギロチン
+|jtrans=Pincer Guillotine
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Pinsir
+|category=Stag Beetle
+|ndex=0127
+|height=4'11"
+|jheight=1.5
+|weight=121.3
+|jweight=55.0
+|dex=These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender.
+|jdex=ツノで　互いを　格付けする｡ 太く　立派な　ツノを　持つ カイロスほど　異性に　人気｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Aquapolis|Pinsir|101}} from the {{TCG|Aquapolis}} expansion.
+*{{m|Guillotine}} is a [[move]] in the [[Pokémon games]] that {{p|Pinsir}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pinsir (Weisheit von Meer und Himmel 007)]]
+[[es:Pinsir (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Scarabrute (Sagesse entre Ciel et Mer 007)]]
+[[it:Pinsir (La Via del Cielo e del Mare 7)]]
+[[ja:カイロス (ポケポケ A4)]]
+[[zh:凯罗斯（A4）]]

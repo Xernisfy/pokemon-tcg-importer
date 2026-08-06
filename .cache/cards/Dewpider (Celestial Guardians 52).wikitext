@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dewpider
+|ja name=シズクモ
+|trans name=Shizukumo
+|species=Dewpider
+|type=Water
+|image=DewpiderCelestialGuardians52.png
+|illustrator=Atsuko Nishida
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=052/155|pack=Solgaleo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Dewpider''' (Japanese: '''シズクモ''' ''Shizukumo'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Hook
+|jname=ひっかける
+|jtrans=Hook
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Dewpider
+|species=Water Bubble
+|ndex=0751
+|height=1'
+|jheight=0.3
+|weight=8.8
+|jweight=4.0
+|dex=It forms a water bubble at the rear of its body and then covers its head with it. Meeting another Dewpider means comparing water-bubble sizes.
+|jdex=お尻で 水泡を 膨らませて 頭を 包む。 仲間同士で 水泡の 大きさを 比べる。
+}}
+
+==Trivia==
+===Origin===
+*This card is almost identical to {{TCG ID|Silver Tempest|Dewpider|47}} from the {{TCG|Silver Tempest}} expansion, except for the {{TCG|Weakness}} modifier.
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Dewpider|48}} from the {{TCG|Unified Minds}} expansion.
+*'''Hook''' is an attack that first appeared on {{TCG ID|EX Dragon|Magnemite|61}} from the {{TCG|EX Dragon}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Araqua (Hüter des Firmaments 052)]]
+[[es:Dewpider (Guardianes Celestiales TCG Pocket)]]
+[[fr:Araqua (Gardiens Astraux 052)]]
+[[it:Dewpider (Guardiani Astrali 52)]]
+[[ja:シズクモ (ポケポケ A3)]]
+[[zh:滴蛛（A3）]]

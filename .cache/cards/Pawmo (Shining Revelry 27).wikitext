@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pawmo
+|ja name=パモット
+|trans name=Pamot
+|species=Pawmo
+|type=Lightning
+|image=PawmoShiningRevelry27.png
+|illustrator=Saboteri
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Pawmi
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=027/072|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Pawmo''' (Japanese: '''パモット''' ''Pamot'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Punch
+|jname=パンチ
+|jtrans=Punch
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Pawmo
+|category=Mouse 
+|ndex=0922
+|height=1'4"
+|jheight=0.4
+|weight=14.3
+|jweight=6.5
+|dex=When its group is attacked, Pawmo is the first to leap into battle, defeating enemies with a fighting technique that utilizes electric shocks.
+|jdex=群れが 襲われたときは 電撃を 駆使した 格闘技で 真っ先に 戦いを 挑み 敵を 倒す。
+}}
+
+==Trivia==
+===Origin===
+*'''Punch''' is an attack that first appeared on {{TCG ID|Team Rocket|Machop|59}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pamamo (Glänzendes Festival 027)]]
+[[es:Pawmo (Festival Brillante TCG Pocket)]]
+[[fr:Pohmotte (Réjouissances Rayonnantes 027)]]
+[[it:Pawmo (Tripudio Splendente 27)]]
+[[ja:パモット (ポケポケ A2b)]]
+[[zh:布土撥（A2b）]]

@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gothita
+|ja name=ゴチム
+|trans name=Gothimu
+|species=Gothita
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GothitaMegaRising112.png|illustrator=Atsuko Nishida|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GothitaMegaRising239.png|illustrator=Orca|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=112/226|pack=Mega Altaria|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=239/226|pack=Mega Altaria|rarity=Star|rarity count=1}}
+}}
+
+'''Gothita''' (Japanese: '''ゴチム''' ''Gothimu'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Stampede
+|jname=ふむ
+|jtrans=Step On
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Gothita
+|species=Fixation
+|ndex=0574
+|height=1'4"
+|jheight=0.4
+|weight=12.8
+|jweight=5.8
+|dex=Beware of touching the ribbon-shaped feelers that control its psychic power. Gothita will begin bawling if you do. 
+|jdex=サイコパワーを コントロールする リボン型の 触角に 触れると 激しく 泣きだすので 注意。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=GothitaMegaRising112.png
+|caption1=Common card<br>Illus. [[Atsuko Nishida]]
+|image2=GothitaMegaRising239.png
+|caption2=Illustration rare card<br>Illus. [[Orca]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Furious Fists|Gothita|39}} from the {{TCG|Furious Fists}} expansion.
+*'''Stampede''' is an attack that first appeared on {{TCG ID|EX Ruby & Sapphire|Phanpy|62}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mollimorba (Mega-Aufstieg 112)]]
+[[es:Gothita (Megaascenso TCG Pocket)]]
+[[fr:Scrutella (Méga-Ascension 112)]]
+[[it:Gothita (Mega Ascesa 112)]]
+[[ja:ゴチム (ポケポケ B1)]]
+[[zh:哥德宝宝（B1）]]

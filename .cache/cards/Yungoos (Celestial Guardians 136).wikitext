@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Yungoos
+|ja name=ヤングース
+|trans name=Youngoose
+|species=Yungoos
+|type=Colorless
+|image=YungoosCelestialGuardians136.png
+|illustrator=Shigenori Negishi
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Solgaleo|rarity=Diamond|rarity count=1|number=136/155}}
+}}
+
+'''Yungoos''' (Japanese: '''ヤングース ''' ''Youngoose'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Yungoos
+|species=Loitering
+|ndex=0734
+|height=1'4"
+|jheight=0.4
+|weight=13.2
+|jweight=6.0
+|dex=Its stomach fills most of its torso. It wanders the same path every day, searching for fresh food.
+|jdex=胴体の ほとんどが 胃袋。 毎日 同じ ルートを うろつき 新鮮な エサを 探してまわる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Yungoos|180}} from the {{TCG|Unified Minds}} expansion.
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Yungoos}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mangunior (Hüter des Firmaments 136)]]
+[[es:Yungoos (Guardianes Celestiales TCG Pocket)]]
+[[fr:Manglouton (Gardiens Astraux 136)]]
+[[it:Yungoos (Guardiani Astrali 136)]]
+[[ja:ヤングース (ポケポケ A3)]]
+[[zh:猫鼬少（A3）]]

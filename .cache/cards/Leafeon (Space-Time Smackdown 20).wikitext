@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Leafeon
+|ja name=リーフィア
+|trans name=Leafia
+|species=Leafeon
+|type=Grass
+|image=LeafeonSpace-TimeSmackdown20.png
+|illustrator=Kouki Saitou
+|hp=90
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Eevee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=020/155|pack=Dialga|rarity=Diamond|rarity count=3}}
+}}
+
+'''Leafeon''' (Japanese: '''リーフィア''' ''Leafia'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Leafy Cyclone
+|jname=はっぱサイクロン
+|jtrans=Leaf Cyclone
+|damage=90
+|effect=During your next turn, this Pokémon can't attack.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Leafeon
+|species=Verdant
+|ndex=0470
+|height=3'3"
+|jheight=1.0
+|weight=56.2
+|jweight=25.5
+|dex=When you see Leafeon asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air.
+|jdex=晴れた 日に 寝ている リーフィアは 光合成をして きれいな 空気を 作り出しているのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Majestic Dawn|Leafeon|7}} from the {{TCG|Majestic Dawn}} expansion.
+*'''Leafy Cyclone''' is an attack that first appeared on {{TCG ID|Astral Radiance|Leafeon|13}} from the {{TCG|Astral Radiance}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Folipurba (Kollision von Raum und Zeit 020)]]
+[[es:Leafeon (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Phyllali (Choc Spatio-Temporel 020)]]
+[[it:Leafeon (Scontro Spaziotemporale 20)]]
+[[ja:リーフィア (ポケポケ A2)]]
+[[zh:叶伊布（A2）]]

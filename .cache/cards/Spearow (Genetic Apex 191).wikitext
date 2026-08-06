@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Spearow
+|ja name=オニスズメ
+|trans name=Onisuzume
+|species=Spearow
+|type=Colorless
+|image=SpearowGeneticApex191.png
+|illustrator=Shiburingaru
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=191/226|pack=Charizard|rarity=Diamond|rarity count=1}}
+}}
+
+'''Spearow''' (Japanese: '''オニスズメ''' ''Onisuzume'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Peck
+|jname=つつく
+|jtrans=Peck
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Spearow
+|species=Tiny Bird
+|ndex=0021
+|height=1'
+|jheight=0.3
+|weight=4.4
+|jweight=2.0
+|dex=Its reckless nature leads it to stand up to others—even large Pokémon—if it has to protect its territory.
+|jdex=自分のテリトリーを　守るためなら 大きな　ポケモンが　相手でも 向かっていく　向こう見ずな　性質｡
+}}
+
+==Trivia==
+Spearow is one of seven Pokémon in the {{TCGP|Genetic Apex}} expansion featured in the "Touring the Kanto Region" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]], in which all of the cards show various elements of the [[Kanto]] region. This card's illustration features Spearow on [[Kanto]] {{rt|16|Kanto}}, with [[Celadon City]] and the [[Celadon Department Store]] in the background, as depicted in {{game|FireRed and LeafGreen|s}}.
+
+===Origin===
+*{{m|Peck}} is a [[move]] in the [[Pokémon games]] that {{p|Spearow}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Habitak (Unschlagbare Gene 191)]]
+[[es:Spearow (Genes Formidables TCG Pocket)]]
+[[fr:Piafabec (Puissance Génétique 191)]]
+[[it:Spearow (Geni Supremi 191)]]
+[[ja:オニスズメ (ポケポケ A1)]]
+[[zh:烈雀（A1）]]

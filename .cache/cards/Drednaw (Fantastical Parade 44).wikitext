@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Drednaw
+|ja name=カジリガメ
+|trans name=Kajirigame
+|species=Drednaw
+|type=Water
+|image=DrednawFantasticalParade44.png
+|illustrator=kodama
+|hp=130
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Chewtle
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=044/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Drednaw''' (Japanese: '''カジリガメ''' ''Kajirigame'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Heavy Impact
+|jname=ヘビーインパクト
+|jtrans=Heavy Impact
+|damage=120
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Drednaw
+|species=Bite
+|ndex=0834
+|height=3'3"
+|jheight=1.0
+|weight=254.6
+|jweight=115.5
+|dex=Drednaw lurks along the shoreline. When prey come to drink water, Drednaw stretches its neck out and chomps down on them.
+|jdex=岸辺に 潜み 獲物が 水を 飲みに 来たところを 首を 長く 伸ばして がぶりと 噛みつく。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fusion Strike|Drednaw|81}} from the {{TCG|Fusion Strike}} expansion.
+*'''Heavy Impact''' attack is an attack that first appeared on {{TCG ID|EX Team Rocket Returns|Dark Steelix|10}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kamalm (Traumhafte Parade 044)]]
+[[fr:Torgamord (Parade Onirique 044)]]
+[[it:Drednaw (Parata Fantasmagorica 44)]]
+[[ja:カジリガメ (ポケポケ B2)]]
+[[zh:暴噬龟（B2）]]

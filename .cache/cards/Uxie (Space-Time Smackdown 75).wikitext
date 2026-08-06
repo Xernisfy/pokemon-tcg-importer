@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Uxie
+|ja name=ユクシー
+|trans name=Yuxie
+|species=Uxie
+|type=Psychic
+|image=UxieSpace-TimeSmackdown75.png
+|illustrator=AKIRA EGAWA
+|hp=70
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=075/155}}
+}}
+
+'''Uxie''' (Japanese: '''ユクシー''' ''Yuxie'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Mind Boost
+|jname=マインドブースト
+|jtrans=Mind Boost
+|damage=20
+|effect=Take a {{e|Psychic}} Energy from your Energy Zone and attach it to {{TCGP|Mesprit}} or {{TCGP|Azelf}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Uxie
+|species=Knowledge
+|ndex=0480
+|height=1'
+|jheight=0.3
+|weight=0.7
+|jweight=0.3
+|dex=Known as "The Being of Knowledge." It is said that it can wipe out the memory of those who see its eyes.
+|jdex=知識の神と 呼ばれている。 目を 合わせた 者の 記憶を 消してしまう 力を 持つという。
+}}
+
+==Trivia==
+===Origin===
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Selfe (Kollision von Raum und Zeit 075)]]
+[[es:Uxie (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Créhelf (Choc Spatio-Temporel 075)]]
+[[it:Uxie (Scontro Spaziotemporale 75)]]
+[[ja:ユクシー (ポケポケ A2)]]
+[[zh:由克希（A2）]]

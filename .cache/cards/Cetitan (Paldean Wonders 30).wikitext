@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cetitan
+|ja name=ハルクジラ
+|trans name=Hulkujira
+|species=Cetitan
+|type=Water
+|image=CetitanPaldeanWonders30.png
+|illustrator=Anesaki Dynamic
+|hp=150
+|weakness=Metal
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Cetoddle
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=030/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Cetitan''' (Japanese: '''ハルクジラ''' ''Hulkujira'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}{{e|Colorless}}
+|name=Ice Punch
+|jname=れいとうパンチ
+|jtrans=Freezing Punch
+|damage=80
+|effect=Flip a coin. If heads, your opponent's Active Pokémon is now {{TCG|Paralyzed}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Cetitan
+|category=Terra Whale
+|ndex=0975
+|height=14'9"
+|jheight=4.5
+|weight=1543.2
+|jweight=700.0
+|dex=Ice energy builds up in the horn on its upper jaw, causing the horn to reach cryogenic temperatures that freeze its surroundings.
+|jdex=氷エネルギーの 集中する 上あごの ツノが 超低温になって 周囲を 凍らせる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Cetitan|60}} from the {{TCG|Scarlet & Violet}} expansion.
+*{{m|Ice Punch}} is a [[move]] in the [[Pokémon games]] that {{p|Cetitan}} can learn via [[TM]].
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kolowal (Wundervolles Paldea 030)]]
+[[fr:Balbalèze (Merveilles de Paldea 030)]]
+[[it:Cetitan (Meraviglie di Paldea 30)]]
+[[ja:ハルクジラ (ポケポケ B2a)]]
+[[zh:浩大鲸（B2a）]]

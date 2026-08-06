@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gloom
+|ja name=クサイハナ
+|trans name=Kusaihana
+|species=Gloom
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GloomWisdomofSeaandSky2.png|illustrator=Kyoko Umemoto|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GloomCrimsonBlaze89.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Oddish
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=002/161|pack=Lugia|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=089/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Gloom''' (Japanese: '''クサイハナ''' ''Kusaihana'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Leaf Step
+|jname=リーフステップ
+|jtrans=Leaf Step
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Gloom
+|species=Weed
+|ndex=0044
+|height=2'7"
+|jheight=0.8
+|weight=19
+|jweight=8.6
+|dex=Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.
+|jdex=めしべが　放つ　とてつもなく 臭い　においは　２キロ先まで とどき　気を　失わせる｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=GloomWisdomofSeaandSky2.png
+|caption1=Uncommon card<br>Illus. [[Kyoko Umemoto]]
+|image2=GloomCrimsonBlaze89.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Crown Zenith|Gloom|2}} from the {{TCG|Crown Zenith}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Gloom}}.
+* '''Leaf Step''' is an attack that first appeared on {{TCG ID|SM Promo|Shining Celebi|79}}, one of the {{TCG|SM Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Duflor (Weisheit von Meer und Himmel 002)]]
+[[es:Gloom (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Ortide (Sagesse entre Ciel et Mer 002)]]
+[[it:Gloom (La Via del Cielo e del Mare 2)]]
+[[ja:クサイハナ (ポケポケ A4)]]
+[[zh:臭臭花（A4）]]

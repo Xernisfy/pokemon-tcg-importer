@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Voltorb
+|ja name=ビリリダマ
+|trans name=Biriridama
+|species=Voltorb
+|type=Lightning
+|image=VoltorbShiningRevelry23.png
+|illustrator=Masakazu Fukuda
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=023/072}}
+}}
+
+'''Voltorb''' (Japanese: '''ビリリダマ''' ''Biriridama'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Lightning Ball
+|jname=ピッカリだま
+|jtrans=Shining Ball
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Voltorb
+|category=Ball 
+|ndex=0100
+|height=1'8"
+|jheight=0.5
+|weight=22.9
+|jweight=10.4
+|dex=It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.
+|jdex=転がって　移動するので 地面が　デコボコだと ショックで　爆発してしまう｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Emerald|Voltorb|71}} from the {{TCG|EX Emerald}} expansion.
+*'''Lightning Ball''' is an attack that first appeared on {{TCG ID|Aquapolis|Lanturn|20}} from the {{TCG|Aquapolis}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Voltobal (Glänzendes Festival 023)]]
+[[es:Voltorb (Festival Brillante TCG Pocket)]]
+[[fr:Voltorbe (Réjouissances Rayonnantes 023)]]
+[[it:Voltorb (Tripudio Splendente 23)]]
+[[ja:ビリリダマ (ポケポケ A2b)]]
+[[zh:霹靂電球（A2b）]]

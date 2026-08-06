@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ferrothorn
+|ja name=ナットレイ
+|trans name=Nutrey
+|species=Ferrothorn
+|type=Metal
+|image=FerrothornMegaRising167.png
+|illustrator=Hasuno
+|hp=110
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Ferroseed
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=167/226|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Ferrothorn''' (Japanese: '''ナットレイ''' ''Nutrey'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}
+|name=Guard Press
+|jname=ガードプレス
+|jtrans=Guard Press
+|damage=50
+|effect=During your opponent's next turn, this Pokémon takes −20 damage from attacks.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Ferrothorn
+|category=Thorn Pod
+|ndex=0598
+|height=3'3"
+|jheight=1.0
+|weight=242.5
+|jweight=110.0
+|dex=Its spikes are harder than steel. This Pokémon crawls across rock walls by stabbing the spikes on its feelers into the stone.
+|jdex=鋼より 硬い 棘を もつ。 触手の 棘を 突き刺し 岩壁を 這って 移動する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Ferrothorn|103}} from the {{TCG|Team Up}} expansion; both cards have the Guard Press attack.
+*'''Guard Press''' is an attack that first appeared on {{TCG ID|Unleashed|Steelix|24}} from the {{TCG|Unleashed}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tentantel (Mega-Aufstieg 167)]]
+[[es:Ferrothorn (Megaascenso TCG Pocket)]]
+[[fr:Noacier (Méga-Ascension 167)]]
+[[it:Ferrothorn (Mega Ascesa 167)]]
+[[ja:ナットレイ (ポケポケ B1)]]
+[[zh:坚果哑铃（B1）]]

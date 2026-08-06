@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Trevenant
+|ja name=オーロット
+|trans name=Ohrot
+|species=Trevenant
+|type=Grass
+|image=TrevenantCelestialGuardians8.png
+|illustrator=Shin Nagasawa
+|hp=130
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Phantump
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Solgaleo|rarity=Diamond|rarity count=2|number=008/155}}
+}}
+
+'''Trevenant''' (Japanese: '''オーロット''' ''Ohrot'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=Claw Slash
+|jname=ツメできりさく
+|jtrans=Claw Slash
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Trevenant
+|species=Elder Tree
+|ndex=0709
+|height=4'11"
+|jheight=1.5
+|weight=156.5
+|jweight=71.0
+|dex=People fear it due to a belief that it devours any who try to cut down trees in its forest, but to the Pokémon it shares its woods with, it's kind.
+|jdex=森の 木を 伐り倒す 人間を 食べると 恐れられているが 森で 暮らす ポケモンたちには 優しい。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Trevenant|94}} from the {{TCG|Cosmic Eclipse}} expansion.
+*'''Claw Slash''' is an attack that first appeared on {{TCG ID|XY Promo|Sableye|92}}, one of the {{TCG|XY Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Trombork (Hüter des Firmaments 008)]]
+[[es:Trevenant (Guardianes Celestiales TCG Pocket)]]
+[[fr:Desséliande (Gardiens Astraux 008)]]
+[[it:Trevenant (Guardiani Astrali 8)]]
+[[ja:オーロット (ポケポケ A3)]]
+[[zh:朽木妖（A3）]]

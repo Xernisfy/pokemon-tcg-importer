@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Revavroom
+|ja name=ブロロローム
+|trans name=Burororoom
+|species=Revavroom
+|type=Metal
+|image=RevavroomPaldeanWonders76.png
+|illustrator=Anesaki Dynamic
+|hp=110
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Varoom
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=076/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Revavroom''' (Japanese: '''ブロロローム''' ''Burororoom'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Colorless}}
+|name=Poison Gas
+|jname=どくガス
+|jtrans=Poison Gas
+|damage=50
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Revavroom
+|category=Multi-Cyl
+|ndex=0966
+|height=5'11"
+|jheight=1.8
+|weight=264.6
+|jweight=120.0
+|dex=Revavroom viciously threatens others with the sound of its exhaust. It sticks its tongue out from its cylindrical mouth and sprays toxic fluids.
+|jdex=排気音で 激しく 威嚇する。 円筒形の 口から べろを 出して 毒液を まき散らす。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Revavroom|142}} from the {{TCG|Scarlet & Violet}} expansion.
+*{{m|Poison Gas}} is a [[move]] in the [[Pokémon games]] that {{p|Revavroom}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knattatox (Wundervolles Paldea 076)]]
+[[fr:Vrombotor (Merveilles de Paldea 076)]]
+[[it:Revavroom (Meraviglie di Paldea 76)]]
+[[ja:ブロロローム (ポケポケ B2a)]]
+[[zh:普隆隆姆（B2a）]]

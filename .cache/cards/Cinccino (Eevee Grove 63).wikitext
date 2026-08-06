@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cinccino
+|ja name=チラチーノ
+|trans name=Chillaccino
+|species=Cinccino
+|type=Colorless
+|image=CinccinoEeveeGrove63.png
+|illustrator=Mizue
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Minccino
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=063/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Cinccino''' (Japanese: '''チラチーノ''' ''Chillaccino'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Slap
+|jname=ビンタ
+|jtrans=Face Slap
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Cinccino
+|category=Scarf 
+|ndex=0573
+|height=1'8"
+|jheight=0.5
+|weight=16.5
+|jweight=7.5
+|dex=Its body secretes oil that this Pokémon spreads over its nest as a coating to protect it from dust. Cinccino won't tolerate even a speck of the stuff.
+|jdex=塵ひとつ 許せない 潔癖。 体から 染み出る 油を 巣に 塗りつけ コーティングする。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Emerging Powers|Cinccino|85}} from the {{TCG|Emerging Powers}} expansion.
+*'''Slap''' is an attack that first appeared on {{TCG ID|Gym Heroes|Sabrina's Mr. Mime|94}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Chillabell (Evoli-Hain 063)]]
+[[es:Cinccino (Arboleda de Eevee TCG Pocket)]]
+[[fr:Pashmilla (La Clairière d'Évoli 063)]]
+[[it:Cinccino (Il Bosco di Eevee 63)]]
+[[ja:チラチーノ (ポケポケ A3b)]]
+[[zh:奇诺栗鼠（A3b）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Joltik
+|ja name=バチュル
+|trans name=Bachuru
+|species=Joltik
+|type=Lightning
+|image=JoltikMegaRising92.png
+|illustrator=Ayaka Yoshida
+|hp=30
+|weakness=Fighting
+|retreat cost=0
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=092/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Joltik''' (Japanese: '''バチュル''' ''Bachuru'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Attach
+|jname=くっつく
+|jtrans=Attach
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Joltik
+|category=Attaching
+|ndex=0595
+|height=4"
+|jheight=0.1
+|weight=1.3
+|jweight=0.6
+|dex=Joltik can be found clinging to other Pokémon. It's soaking up static electricity because it can't produce a charge on its own. 
+|jdex=ポケモンの 体に くっついて 静電気を 吸い取る。 自分では 電気を つくることが できない。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Steam Siege|Joltik|41}} from the {{TCG|Steam Siege}} expansion; both cards have the Attach attack.
+*'''Attach''' is an attack that first appeared on {{TCG ID|Steam Siege|Joltik|41}} from the {{TCG|Steam Siege}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wattzapf (Mega-Aufstieg 092)]]
+[[es:Joltik (Megaascenso TCG Pocket)]]
+[[fr:Statitik (Méga-Ascension 092)]]
+[[it:Joltik (Mega Ascesa 92)]]
+[[ja:バチュル (ポケポケ B1)]]
+[[zh:电电虫（B1）]]

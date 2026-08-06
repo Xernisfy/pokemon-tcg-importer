@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pikachu
+|ja name=ピカチュウ
+|trans name=Pikachu
+|species=Pikachu
+|type=Lightning
+|image=PikachuCelestialGuardians57.png
+|illustrator=Naoyo Kimura
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=057/155|pack=Solgaleo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Pikachu''' (Japanese: '''ピカチュウ''' ''Pikachu'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Tail Smack
+|jname=しっぽでたたく
+|jtrans=Tail Swipe
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Pikachu
+|species=Mouse
+|ndex=0025
+|height=1'4"
+|jheight=0.4
+|weight=13.2
+|jweight=6.0
+|dex=When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.
+|jdex=両頬には 電気を 溜めこむ 袋がある。 怒ると 溜めこんだ 電気を 一気に 放ってくる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Pikachu|66}} from the {{TCG|Cosmic Eclipse}} expansion.
+*'''Tail Smack''' is an attack that first appeared on {{TCG ID|BW Promo|Snivy|13}} one of the {{TCG|BW Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pikachu (Hüter des Firmaments 057)]]
+[[es:Pikachu (Guardianes Celestiales TCG Pocket)]]
+[[fr:Pikachu (Gardiens Astraux 057)]]
+[[it:Pikachu (Guardiani Astrali 57)]]
+[[ja:ピカチュウ (ポケポケ A3)]]
+[[zh:皮卡丘（A3）]]

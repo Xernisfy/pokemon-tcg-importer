@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sandygast
+|ja name=スナバァ
+|trans name=Sunaba
+|species=Sandygast
+|type=Fighting
+|image=SandygastMegaRising143.png
+|illustrator=Yukiko Baba
+|hp=80
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=143/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Sandygast''' (Japanese: '''スナバァ''' ''Sunaba'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}
+|name=Sand Attack
+|jname=すなかけ
+|jtrans=Sand Attack
+|damage=20
+|effect=During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Sandygast
+|category=Sand Heap
+|ndex=0769
+|height=1'8"
+|jheight=0.5
+|weight=154.3
+|jweight=70.0
+|dex=It flings sand into the eyes of its prey and tries to close in on them while they're blinded, but since Sandygast is so slow, the prey tends to escape.
+|jdex=獲物の 目を 砂で 潰し その隙に 近づこうとするが 動きが 遅いので 逃げられる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Sandygast|126}} from the {{TCG|Cosmic Eclipse}} expansion.
+*{{m|Sand Attack}} is a [[move]] in the [[Pokémon games]] that {{p|Sandygast}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sankabuh (Mega-Aufstieg 143)]]
+[[es:Sandygast (Megaascenso TCG Pocket)]]
+[[fr:Bacabouh (Méga-Ascension 143)]]
+[[it:Sandygast (Mega Ascesa 143)]]
+[[ja:スナバァ (ポケポケ B1)]]
+[[zh:沙丘娃（B1）]]

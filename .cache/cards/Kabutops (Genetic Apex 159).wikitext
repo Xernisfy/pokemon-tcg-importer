@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Kabutops
+|ja name=カブトプス
+|trans name=Kabutops
+|species=Kabutops
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KabutopsGeneticApex159.png|illustrator=Shin Nagasawa|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KabutopsFantasticalParade221.png|illustrator=Krgc|tab caption=Shiny Rare}}
+|hp=140
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Kabuto
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=159/226|pack=Charizard|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Shiny|rarity count=1|number=221/155}}
+}}
+
+'''Kabutops''' (Japanese: '''カブトプス''' ''Kabutops'') is a {{ct|Fighting}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Leech Life
+|jname=きゅうけつ
+|jtrans=Suck Blood
+|damage=50
+|effect=Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Kabutops
+|species=Shellfish
+|ndex=0141
+|height=4'3"
+|jheight=1.3
+|weight=89.3
+|jweight=40.5
+|dex=Kabutops slices its prey apart and sucks out the fluids. The discarded body parts become food for other Pokémon.
+|jdex=獲物を　切り裂き　体液を　すする｡ 残った　体は ほかのポケモンの　エサになる｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=KabutopsGeneticApex159.png
+|caption1=Uncommon card<br>Illus. [[Shin Nagasawa]]
+|image3=KabutopsFantasticalParade221.png
+|caption3=Shiny rare card<br>Illus. [[Krgc]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Kabutops|78}} from the {{TCG|Team Up}} expansion.
+*{{m|Leech Life}} is a [[move]] in the [[Pokémon games]] that {{p|Kabutops}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+*This card's {{TCGP|Fantastical Parade}} print features a {{Shiny}} {{p|Kabutops}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kabutops (Unschlagbare Gene 159)]]
+[[es:Kabutops (Genes Formidables TCG Pocket)]]
+[[fr:Kabutops (Puissance Génétique 159)]]
+[[it:Kabutops (Geni Supremi 159)]]
+[[ja:カブトプス (ポケポケ A1)]]
+[[zh:镰刀盔（A1）]]

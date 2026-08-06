@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tentacruel
+|ja name=ドククラゲ
+|trans name=Dokukurage
+|species=Tentacruel
+|type=Water
+|image=TentacruelShiningRevelry15.png
+|illustrator=match
+|hp=100
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Tentacool
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=015/072}}
+}}
+
+'''Tentacruel''' (Japanese: '''ドククラゲ''' ''Dokukurage'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Wave Splash
+|jname=スプラッシュ
+|jtrans=Splash
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Tentacruel
+|category=Jellyfish 
+|ndex=0073
+|height=5'3"
+|jheight=1.6
+|weight=121.3
+|jweight=55.0
+|dex=When the red orbs on Tentacruel's head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves.
+|jdex=頭の　赤い　玉の　光が 強くなったら　要注意｡ 超音波を　放つ　前触れだ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Primal Clash|Tentacruel|72}} from the {{TCG|Primal Clash}} expansion.
+*'''Wave Splash''' is an attack that first appeared on {{TCG ID|Vending|Golduck|S3}} from {{TCG|Expansion Sheet 3}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tentoxa (Glänzendes Festival 015)]]
+[[es:Tentacruel (Festival Brillante TCG Pocket)]]
+[[fr:Tentacruel (Réjouissances Rayonnantes 015)]]
+[[it:Tentacruel (Tripudio Splendente 15)]]
+[[ja:ドククラゲ (ポケポケ A2b)]]
+[[zh:毒刺水母（A2b）]]

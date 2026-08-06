@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Arcanine
+|ja name=ウインディ
+|trans name=Windie
+|species=Arcanine
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArcanineMegaRising29.png|illustrator=Yuu Nishida|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArcaninePromo-B13.png|illustrator=Atsuko Nishida|tab caption=Promo}}
+|hp=120
+|weakness=Water
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Growlithe
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=029/226|pack=Mega Blaziken|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=013/P-B|pack=Vol. 2}}
+}}
+
+'''Arcanine''' (Japanese: '''ウインディ''' ''Windie'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Fire Fang
+|jname=ほのおのキバ
+|jtrans=Fire Fang
+|damage=50
+|effect=Flip a coin. If heads, your opponent's Active Pokémon is now {{TCG|Burned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Arcanine
+|category=Legendary
+|ndex=0059
+|height=6'3"
+|jheight=1.9
+|weight=341.7
+|jweight=155.0
+|dex=Its magnificent bark conveys a sense of majesty. Anyone hearing it can't help but grovel before it.
+|jdex=どうどうとした なきごえは いげんに あふれ きいたものは おもわず ひれふしてしまう。
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} print of this card was one of five cards that could be pulled from Promo-B Vol. 2 packs; these were made available as part of the [[Mareep Drop Event]], which ran from January 1 to 18, 2026.
+
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=ArcanineMegaRising29.png
+|caption1=Uncommon card<br>Illus. [[Yuu Nishida]]
+|image2=ArcaninePromo-B13.png
+|caption2={{TCGP|Promo-B}} card<br>Illus. [[Atsuko Nishida]]
+}}
+
+==Trivia==
+===Origin===
+*This card's uncommon print illustration was first featured on {{TCG ID|Fusion Strike|Arcanine|33}} from the {{TCG|Fusion Strike}} expansion, and the {{TCGP|Promo-B}} print illustration was first featured on {{TCG ID|Supreme Victors|Arcanine|50}} from the {{TCG|Supreme Victors}} expansion.
+*{{m|Fire Fang}} is a [[move]] in the [[Pokémon games]] that {{p|Arcanine}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Arkani (Mega-Aufstieg 029)]]
+[[es:Arcanine (Megaascenso TCG Pocket)]]
+[[fr:Arcanin (Méga-Ascension 029)]]
+[[it:Arcanine (Mega Ascesa 29)]]
+[[ja:ウインディ (ポケポケ B1)]]
+[[zh:风速狗（B1）]]

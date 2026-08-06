@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mareep
+|ja name=メリープ
+|trans name=Merriep
+|species=Mareep
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MareepMegaRising82.png|illustrator=saino misaki|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MareepPromo-B15.png|illustrator=okayamatakatoshi|tab caption=Promo}}
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=082/226|pack=Mega Altaria|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=015/P-B|pack=Vol. 2}}
+}}
+
+'''Mareep''' (Japanese: '''メリープ''' ''Merriep'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Rear Kick
+|jname=うしろげり
+|jtrans=Rear Kick
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Mareep
+|category=Wool
+|ndex=0179
+|height=2'
+|jheight=0.6
+|weight=17.2
+|jweight=7.8
+|dex=Its fleece grows continually. In the summer, the fleece is fully shed, but it grows back in a week.
+|jdex=体毛は　どんどん　伸びる。　夏になると　全部　抜け落ちるが　1週間で　元通りになる。
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} print of this card was one of five cards that could be pulled from Promo-B Vol. 2 packs; these were made available as part of the [[Mareep Drop Event]], which ran from January 1 to 18, 2026.
+
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=MareepMegaRising82.png
+|caption1=Common card<br>Illus. [[saino misaki]]
+|image2=MareepPromo-B15.png
+|caption2={{TCGP|Promo-B}} card<br>Illus. [[okayamatakatoshi]]
+}}
+
+==Trivia==
+===Origin===
+*'''Rear Kick''' is an attack that first appeared on {{TCG ID|Team Rocket|Dark Rapidash|44}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Voltilamm (Mega-Aufstieg 082)]]
+[[es:Mareep (Megaascenso TCG Pocket)]]
+[[fr:Wattouat (Méga-Ascension 082)]]
+[[it:Mareep (Mega Ascesa 82)]]
+[[ja:メリープ (ポケポケ B1)]]
+[[zh:咩利羊（B1）]]

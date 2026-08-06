@@ -1,0 +1,69 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tyranitar
+|ja name=バンギラス
+|trans name=Bangiras
+|species=Tyranitar
+|type=Fighting
+|image=TyranitarTriumphantLight41.png
+|illustrator=kawayoo
+|hp=160
+|weakness=Grass
+|retreat cost=4
+|evo stage=Stage 2
+|prevo name=Pupitar
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=3|number=041/075}}
+}}
+
+'''Tyranitar''' (Japanese: '''バンギラス''' ''Bangiras'') is a {{ct|Fighting}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Ability/Pocket
+|type=Fighting
+|name=Power Link
+|jname=パワーリンク
+|jtrans=Power Link
+|effect=If you have {{TCGP|Arceus}} or {{DL|Arceus (TCG Pocket)|Arceus ex}} in play, attacks used by this Pokémon do +30 damage to your opponent's Active Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Land Crush
+|jname=ランドクラッシュ
+|jtrans=Land Crush
+|damage=130
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Tyranitar
+|species=Armor
+|ndex=0248
+|height=6'7"
+|jheight=2.0
+|weight=445.3
+|jweight=202.0
+|dex=Extremely strong, it can change the landscape. It is so insolent that it doesn't care about others.
+|jdex=あたりの 地形を 変えるぐらい 朝飯前の 力持ち。 まわりを 気にしない ふてぶてしさ。
+}}
+
+==Trivia==
+Tyranitar is one of eight Pokémon in the {{TCGP|Triumphant Light}} expansion to feature a {{TCGP|Link Ability}} that is active or usable while {{TCGP|Arceus|Arceus or Arceus ex}} is in play. All of these cards, along with {{TCG ID|Triumphant Light|Arceus|70}} and {{TCG ID|Triumphant Light|Arceus ex|71}} from the same expansion, have a special pattern behind the card text to symbolise their connection to Arceus and are part of the [[Triumphant Light (TCG Pocket)#Themed Collections|Themed Collection]] "Pokémon with Abilities that "Link" with Arceus".
+
+===Origin===
+*'''Land Crush''' is an attack that first appeared as '''Fissure''' on {{TCG ID|Gym Heroes|Brock's Golem|20}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Despotar (Licht des Triumphs 041)]]
+[[es:Tyranitar (Luz Triunfal TCG Pocket)]]
+[[fr:Tyranocif (Lumière Triomphale 041)]]
+[[it:Tyranitar (Luce Trionfale 41)]]
+[[ja:バンギラス (ポケポケ A2a)]]
+[[zh:班基拉斯（A2a）]]

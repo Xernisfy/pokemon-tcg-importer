@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wobbuffet
+|ja name=ソーナンス
+|trans name=Sonans
+|species=Wobbuffet
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WobbuffetWisdomofSeaandSky86.png|illustrator=Masakazu Fukuda|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WobbuffetWisdomofSeaandSky175.png|illustrator=GOTO minori|tab caption=Illustration Rare}}
+|hp=90
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lugia|rarity=Diamond|rarity count=1|number=086/161}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lugia|rarity=Star|rarity count=1|number=175/161}}
+}}
+
+'''Wobbuffet''' (Japanese: '''ソーナンス''' ''Sonans'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Reply Strongly
+|jname=つよめにかえす
+|jtrans=Hit Back Harder
+|damage=30+
+|effect=If this Pokémon was damaged by an attack during your opponent's last turn while it was in the Active Spot, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Wobbuffet
+|category=Patient 
+|ndex=0202
+|height=4'3"
+|jheight=1.3
+|weight=62.8
+|jweight=28.5
+|dex=It hates light and shock. If attacked, it inflates its body to build up its counterstrike.
+|jdex=光や ショックを 嫌う。攻撃されると 体が ふくらみ 反撃が 強力に なる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=WobbuffetWisdomofSeaandSky86.png
+|caption1=Common card<br>Illus. [[Masakazu Fukuda]]
+|image2=WobbuffetWisdomofSeaandSky175.png
+|caption2=Illustration rare card<br>Illus. [[GOTO minori]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|EX Power Keepers|Wobbuffet|24}} from the {{TCG|EX Power Keepers}} expansion.
+*'''Reply Strongly''' is an attack that first appeared on {{TCG ID|Lost Thunder|Sudowoodo|110}} from the {{TCG|Lost Thunder}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Woingenau (Weisheit von Meer und Himmel 086)]]
+[[es:Wobbuffet (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Qulbutoké (Sagesse entre Ciel et Mer 086)]]
+[[it:Wobbuffet (La Via del Cielo e del Mare 86)]]
+[[ja:ソーナンス (ポケポケ A4)]]
+[[zh:果然翁（A4）]]

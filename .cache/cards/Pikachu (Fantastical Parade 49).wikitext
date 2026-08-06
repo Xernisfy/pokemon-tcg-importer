@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pikachu
+|ja name=ピカチュウ
+|trans name=Pikachu
+|species=Pikachu
+|type=Lightning
+|image=PikachuFantasticalParade49.png
+|illustrator=chibi
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=049/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Pikachu''' (Japanese: '''ピカチュウ''' ''Pikachu'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Thunder Jolt
+|jname=でんげき
+|jtrans=Electric Attack
+|damage=30
+|effect=This Pokémon also does 10 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Pikachu
+|species=Mouse
+|ndex=0025
+|height=1'4"
+|jheight=0.4
+|weight=13.2
+|jweight=6.0
+|dex=When several of these Pokémon gather, their electricity can build and cause lightning storms.
+|jdex=何匹かが 集まっていると そこに 猛烈な 電気が 溜まり 稲妻が 落ちることがあるという。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Evolving Skies|Pikachu|49}} from the {{TCG|Evolving Skies}} expansion.
+*'''Thunder Jolt''' is an attack that first appeared on {{TCG ID|Base Set|Pikachu|58}} from the {{TCG|Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pikachu (Traumhafte Parade 049)]]
+[[fr:Pikachu (Parade Onirique 049)]]
+[[it:Pikachu (Parata Fantasmagorica 49)]]
+[[ja:ピカチュウ (ポケポケ B2)]]
+[[zh:皮卡丘（B2）]]

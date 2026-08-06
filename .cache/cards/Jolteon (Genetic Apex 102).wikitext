@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Jolteon
+|ja name=サンダース
+|trans name=Thunders
+|species=Jolteon
+|type=Lightning
+|image=JolteonGeneticApex102.png
+|illustrator=Kouki Saitou
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Eevee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=102/226|pack=Pikachu|rarity=Diamond|rarity count=3}}
+}}
+
+'''Jolteon''' (Japanese: '''サンダース''' ''Thunders'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}
+|name=Pin Missile
+|jname=ミサイルばり
+|jtrans=Missile Needle
+|damage=40×
+|effect=Flip 4 coins. This attack does 40 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Jolteon
+|species=Lightning
+|ndex=0135
+|height=2'7"
+|jheight=0.8
+|weight=54
+|jweight=24.5
+|dex=It concentrates the weak electric charges emitted by its cells and launches wicked lightning bolts.
+|jdex=細胞が　出している　弱い 電気を　ひとまとめにして 強力な　電撃を　放つ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Hidden Fates|Jolteon|23}} from the {{TCG|Hidden Fates}} expansion.
+*{{m|Pin Missile}} is a [[move]] in the [[Pokémon games]] that {{p|Jolteon}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Blitza (Unschlagbare Gene 102)]]
+[[es:Jolteon (Genes Formidables TCG Pocket)]]
+[[fr:Voltali (Puissance Génétique 102)]]
+[[it:Jolteon (Geni Supremi 102)]]
+[[ja:サンダース (ポケポケ A1)]]
+[[zh:雷伊布（A1）]]

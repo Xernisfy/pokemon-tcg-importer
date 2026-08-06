@@ -1,0 +1,50 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Big Malasada
+|ja name=おおきいマラサダ
+|trans name=Big Malasada
+|subtype=Item
+|image=BigMalasadaCelestialGuardians142.png
+|illustrator=5ban Graphics
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=142/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Big Malasada''' (Japanese: '''おおきいマラサダ''' ''Big Malasada'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Heal 10 damage and remove a random Special Condition from your Active Pokémon.
+}}
+
+==Trivia==
+* {{TCGP|Pokémon Center Lady}} has a more potent version of this card's effect, but as a {{TCGP|Supporter card}} instead of an Item card.
+* This card's effect is similar to that of the {{TCG|Big Malasada}} card in the [[Pokémon Trading Card Game]], but this card heals 10 damage instead of 20, and the healed {{TCG|Special Condition}} is chosen at random.
+
+===Origin===
+* This card's illustration was first featured on {{TCG ID|Sun & Moon|Big Malasada|114}} from the {{TCG|Sun & Moon}} expansion.
+* The [[Big Malasada]] is an item in the [[Pokémon games]] that removes all [[status condition]]s from a Pokémon, the equivalent of the TCG's {{TCG|Special Condition}}s.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=おおきいマラサダ ''Ōkī Malasada''
+|zh_yue=大馬拉薩達 ''Daaih Máhlāaisaatdaaht''
+|zh_cmn=大馬拉薩達<!-- / 大马拉萨达--> ''Dà Mǎlāsàdá''
+|fr=Malasada Maxi
+|de=Maxi-Malasada
+|it=Malasada maxi
+|ko=큰 말라사다 ''Keun Malasada''
+|pt_br=Sonho Recheado Grande
+|es=Malasada Maxi
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Maxi-Malasada (TCG Pocket)]]
+[[es:Malasada Maxi (TCG Pocket)]]
+[[fr:Malasada Maxi (Gardiens Astraux 142)]]
+[[it:Malasada maxi (Guardiani Astrali 142)]]
+[[ja:おおきいマラサダ (ポケポケ)]]
+[[zh:大马拉萨达（TCGP）]]

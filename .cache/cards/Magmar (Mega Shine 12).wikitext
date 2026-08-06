@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Magmar
+|ja name=ブーバー
+|trans name=Boober
+|species=Magmar
+|type=Fire
+|image=MagmarMegaShine12.png
+|illustrator=Yukiko Baba
+|hp=80
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=012/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Magmar''' (Japanese: '''ブーバー''' ''Boober'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Tail Whap
+|jname=しっぽではたく
+|jtrans=Tail Strike
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Magmar
+|category=Spitfire
+|ndex=0126
+|height=4'3"
+|jheight=1.3
+|weight=98.1
+|jweight=44.5
+|dex=Wavering flames similar to those of the sun appear on the surface of this Pokémon’s body.
+|jdex=体の　表面には　太陽と 同じような　炎の　ゆらめきが 発生している｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Team Rocket Returns|Magmar|44}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*'''Tail Whap''' is an attack that first appeared on {{TCG ID|Aquapolis|Wooper|66}} from the {{TCG|Aquapolis}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Magmar (Mega-Schillern 012)]]
+[[fr:Magmar (Méga-Rayonnement 012)]]
+[[it:Magmar (Mega Splendore 12)]]
+[[ja:ブーバー (ポケポケ B2b)]]
+[[zh:鸭嘴火兽（B2b）]]

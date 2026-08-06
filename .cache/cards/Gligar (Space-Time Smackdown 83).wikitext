@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gligar
+|ja name=グライガー
+|trans name=Gliger
+|species=Gligar
+|type=Fighting
+|image=GligarSpace-TimeSmackdown83.png
+|illustrator=Sanosuke Sakuma
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=083/155|pack=Dialga|rarity=Diamond|rarity count=1}}
+}}
+
+'''Gligar''' (Japanese: '''グライガー''' ''Gliger'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Pierce
+|jname=つきさす
+|jtrans=Pierce
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Gligar
+|species=Fly Scorpion
+|ndex=0207
+|height=3'7"
+|jheight=1.1
+|weight=142.9
+|jweight=64.8
+|dex=It usually clings to cliffs. When it spots its prey, it spreads its wings and glides down to attack.
+|jdex=いつもは 崖に 張りついている。 獲物を見つけると 羽を広げ 風に乗り 襲いかかってくる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Phantom Forces|Gligar|46}} from the {{TCG|Phantom Forces}} expansion.
+*'''Pierce''' is an attack that first appeared on {{TCG ID|EX Sandstorm|Kabuto|39}} and {{TCG ID|EX Sandstorm|Anorith|27}}, both from the {{TCG|EX Sandstorm}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Skorgla (Kollision von Raum und Zeit 083)]]
+[[es:Gligar (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Scorplane (Choc Spatio-Temporel 083)]]
+[[it:Gligar (Scontro Spaziotemporale 83)]]
+[[ja:グライガー (ポケポケ A2)]]
+[[zh:天蝎（A2）]]

@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wugtrio {{TCGP Icon|ex}}
+|ja name=ウミトリオ{{TCGP Icon|ex}}
+|trans name=Umitrio {{TCGP Icon|ex}}
+|species=Wugtrio
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WugtrioexShiningRevelry19.png|illustrator=PLANETA Tsuji|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WugtrioexShiningRevelry81.png|illustrator=PLANETA Tsuji|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WugtrioexShiningRevelry109.png|illustrator=PLANETA Tsuji|tab caption=Shiny Super Rare}}
+|hp=140
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Wiglett
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=4|number=019/072}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Star|rarity count=2|number=081/072}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Shiny|rarity count=2|number=109/072}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=127/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Wugtrio ex''' (Japanese: '''ウミトリオex''' ''Umitrio ex'') is a {{ct|Water}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}
+|name=Pop Out Throughout
+|jname=あちこちとびだす
+|jtrans=Pop Out All Around
+|damage=
+|effect=1 of your opponent's Pokémon is chosen at random 3 times. For each time a Pokémon is chosen, do 50 damage to it.
+}}
+{{Cardtext/Pocket ex
+|type=Water
+|ndex=0961
+|name=Wugtrio
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=WugtrioexShiningRevelry19.png
+|caption1=Double rare card<br>Illus. [[PLANETA Tsuji]]
+|image2=WugtrioexShiningRevelry81.png
+|caption2=Super rare card<br>Illus. [[PLANETA Tsuji]]
+|image3=WugtrioexShiningRevelry109.png
+|caption3=Shiny super rare card<br>Illus. [[PLANETA Tsuji]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Wugtrio}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schligdri-ex (Glänzendes Festival 019)]]
+[[es:Wugtrio ex (Festival Brillante TCG Pocket)]]
+[[fr:Triopikeau-ex (Réjouissances Rayonnantes 019)]]
+[[it:Wugtrio-ex (Tripudio Splendente 19)]]
+[[ja:ウミトリオex (ポケポケ A2b)]]
+[[zh:三海地鼠ex（A2b）]]

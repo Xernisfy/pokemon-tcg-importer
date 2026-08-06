@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mightyena
+|ja name=グラエナ
+|trans name=Graena
+|species=Mightyena
+|type=Darkness
+|image=MightyenaSpace-TimeSmackdown101.png
+|illustrator=Kouki Saitou
+|hp=90
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Poochyena
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=101/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Mightyena''' (Japanese: '''グラエナ''' ''Graena'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}
+|name=Darkness Fang
+|jname=やみのキバ
+|jtrans=Darkness Fang
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Mightyena
+|species=Bite
+|ndex=0262
+|height=3'3"
+|jheight=1.0
+|weight=81.6
+|jweight=37.0
+|dex=It will always obey the commands of a skilled Trainer. Its behavior arises from its living in packs in ancient times.
+|jdex=優れた トレーナーの 命令には 絶対に 服従。 大昔に 群れで 行動していた 名残り。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Platinum|Mightyena|54}} from the {{TCG|Platinum}} expansion.
+*'''Darkness Fang''' is an attack that first appeared on {{TCG ID|EX Unseen Forces|Umbreon ex|112}} from the {{TCG|EX Unseen Forces}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Magnayen (Kollision von Raum und Zeit 101)]]
+[[es:Mightyena (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Grahyèna (Choc Spatio-Temporel 101)]]
+[[it:Mightyena (Scontro Spaziotemporale 101)]]
+[[ja:グラエナ (ポケポケ A2)]]
+[[zh:大狼犬（A2）]]

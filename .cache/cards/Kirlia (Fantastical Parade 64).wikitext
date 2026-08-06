@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Kirlia
+|ja name=キルリア
+|trans name=Kirlia
+|species=Kirlia
+|type=Psychic
+|image=KirliaFantasticalParade64.png
+|illustrator=mingo
+|hp=80
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Ralts
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=064/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Kirlia''' (Japanese: '''キルリア''' ''Kirlia'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Psybeam
+|jname=サイケこうせん
+|jtrans=Psyche Beam
+|damage=20
+|effect=Your opponent's Active Pokémon is now {{TCG|Confused}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Kirlia
+|species=Emotion
+|ndex=0281
+|height=2'7"
+|jheight=0.8
+|weight=44.5
+|jweight=20.2
+|dex=The cheerful spirit of its Trainer gives it energy for its psychokinetic power. It spins and dances when happy.
+|jdex=トレーナーの 明るい 気持ちが サイコパワーの 源。 楽しい 気分に なると クルクル 踊る。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Psybeam}} is a [[move]] in the [[Pokémon games]] that {{p|Kirlia}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kirlia (Traumhafte Parade 064)]]
+[[es:Kirlia (Desfile de Ensueño TCG Pocket)]]
+[[fr:Kirlia (Parade Onirique 064)]]
+[[it:Kirlia (Parata Fantasmagorica 64)]]
+[[ja:キルリア (ポケポケ B2)]]
+[[zh:奇鲁莉安（B2）]]

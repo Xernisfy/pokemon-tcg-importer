@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Oddish
+|ja name=ナゾノクサ
+|trans name=Nazonokusa
+|species=Oddish
+|type=Grass
+|image=OddishGeneticApex11.png
+|illustrator=HYOGONOSUKE
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=011/226|pack=Charizard|rarity=Diamond|rarity count=1}}
+}}
+
+'''Oddish''' (Japanese: '''ナゾノクサ''' ''Nazonokusa'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Oddish
+|species=Weed
+|ndex=0043
+|height=1'8"
+|jheight=0.5
+|weight=11.9
+|jweight=5.4
+|dex=If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.
+|jdex=月の光を　浴びて　動きだす｡ 夜のあいだに　タネを　あちこちに ばらまくため　歩きまわる｡
+}}
+
+==Trivia==
+This card is part of a narrative illustration with {{TCG ID|Genetic Apex|Venonat|16}}, {{TCG ID|Genetic Apex|Bellsprout|18}}, and the illustration rare {{TCG ID|Genetic Apex|Snorlax|250}} from the same set. In this illustration, Oddish can be seen by Snorlax's head; the Snorlax card reveals that Oddish is stuck in the northern stretch of [[Kanto]] {{rt|12|Kanto}}, which Snorlax is blocking. Together, these cards form the "A Big Snorlax Nuisance" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]]. Oddish, Venonat, and Bellsprout also have the same stats and an attack that does 20 damage for one {{e|Grass}} Energy.
+
+===Origin===
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Myrapla (Unschlagbare Gene 011)]]
+[[es:Oddish (Genes Formidables TCG Pocket)]]
+[[fr:Mystherbe (Puissance Génétique 011)]]
+[[it:Oddish (Geni Supremi 11)]]
+[[ja:ナゾノクサ (ポケポケ A1)]]
+[[zh:走路草（A1）]]

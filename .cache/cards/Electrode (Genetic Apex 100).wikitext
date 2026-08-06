@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Electrode
+|ja name=マルマイン
+|trans name=Marumine
+|species=Electrode
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ElectrodeGeneticApex100.png|illustrator=Asako Ito|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ElectrodeGeneticApex235.png|illustrator=DOM|tab caption=Illustration Rare}}
+|hp=80
+|weakness=Fighting
+|retreat cost=0
+|evo stage=Stage 1
+|prevo name=Voltorb
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=100/226|pack=Pikachu|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=235/226|pack=Pikachu|rarity=Star|rarity count=1}}
+}}
+
+'''Electrode''' (Japanese: '''マルマイン''' ''Marumine'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Electro Ball
+|jname=エレキボール
+|jtrans=Elecball
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Electrode
+|species=Ball
+|ndex=0101
+|height=3'11"
+|jheight=1.2
+|weight=146.8
+|jweight=66.6
+|dex=The more energy it charges up, the faster it gets. But this also makes it more likely to explode.
+|jdex=電気エネルギーを　溜めこむほど 高速で　動けるようになるが そのぶん　爆発　しやすい｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=ElectrodeGeneticApex100.png
+|caption1=Uncommon card<br>Illus. [[Asako Ito]]
+|image2=ElectrodeGeneticApex235.png
+|caption2=Illustration rare card<br>Illus. [[DOM]]
+}}
+
+==Trivia==
+[[File:ElectrodeGeneticApex235 artwork.png|thumb|Standalone illustration]]
+The illustration rare print of this card features [[Kanto]]'s [[Kanto Power Plant|Power Plant]], with {{p|Zapdos}} flying in the background. In {{LGPE}}, the Power Plant contains four {{p|Electrode}} posing as fake [[item ball]]s, which are also depicted in the illustration.
+
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Team Up|Electrode|39}} from the {{TCG|Team Up}} expansion.
+*{{m|Electro Ball}} is a [[move]] in the [[Pokémon games]] that {{p|Electrode}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lektrobal (Unschlagbare Gene 100)]]
+[[es:Electrode (Genes Formidables TCG Pocket)]]
+[[fr:Électrode (Puissance Génétique 100)]]
+[[it:Electrode (Geni Supremi 100)]]
+[[ja:マルマイン (ポケポケ A1)]]
+[[zh:顽皮雷弹（A1）]]

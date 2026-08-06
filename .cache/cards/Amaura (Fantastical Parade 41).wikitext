@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Amaura
+|ja name=アマルス
+|trans name=Amarus
+|species=Amaura
+|type=Water
+|image=AmauraFantasticalParade41.png
+|illustrator=Atsuko Nishida
+|hp=100
+|weakness=Metal
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Sail Fossil
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=041/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Amaura''' (Japanese: '''アマルス''' ''Amarus'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Aurora Beam
+|jname=オーロラビーム
+|jtrans=Aurora Beam
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Amaura
+|species=Tundra
+|ndex=0698
+|height=4'03"
+|jheight=1.3
+|weight=55.6
+|jweight=25.2
+|dex=Amaura is an ancient Pokémon that has gone extinct. Specimens of this species can sometimes be found frozen in ice.
+|jdex=全滅した 古代の ポケモン。 氷漬けの 状態で 発見されることも あるぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Forbidden Light|Amaura|27}} from the {{TCG|Forbidden Light}} expansion; both cards have the Aurora Beam attack.
+*{{m|Aurora Beam}} is a [[move]] in the [[Pokémon games]] that {{p|Amaura}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Amarino (Traumhafte Parade 041)]]
+[[fr:Amagara (Parade Onirique 041)]]
+[[it:Amaura (Parata Fantasmagorica 41)]]
+[[ja:アマルス (ポケポケ B2)]]
+[[zh:冰雪龙（B2）]]

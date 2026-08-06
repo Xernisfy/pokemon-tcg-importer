@@ -1,0 +1,65 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Scyther
+|ja name=ストライク
+|trans name=Strike
+|species=Scyther
+|type=Grass
+|image=ScytherGeneticApex25.png
+|illustrator=Hasuno
+|hp=70
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=025/226|pack=Mewtwo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Scyther''' (Japanese: '''ストライク''' ''Strike'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Sharp Scythe
+|jname=するどいカマ
+|jtrans=Sharp Sickle
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Scyther
+|species=Mantis
+|ndex=0123
+|height=4'11"
+|jheight=1.5
+|weight=123.5
+|jweight=56.0
+|dex=It slashes through grass with its sharp scythes, moving too fast for the human eye to track.
+|jdex=切れ味　鋭い　カマを　使って 草むらを　切り進む｡　あまりに 速い　動きで　目が　追いつかない｡
+}}
+
+==Trivia==
+This card is one of several featured in the {{TCGP|Genetic Apex}} expansion's "Safari Zone" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]], all of which can be found in the [[Kanto Safari Zone]] in Generations {{gen|I}} and {{gen|III}}.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Hidden Fates|Scyther|5}} from the {{TCG|Hidden Fates}} expansion.
+**Both cards have the '''Sharp Scythe''' attack, which first appeared as '''Sharp Sickle''' on {{TCG ID|Fossil|Kabutops|9}} from the {{TCG|Fossil}} expansion.<ref group="nb">Kabutops uses hiragana (するどいかま) for the Japanese attack name, while all subsequent instances use katakana (するどいカマ) instead.</ref>
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+==Notes==
+{{reflist|group=nb}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sichlor (Unschlagbare Gene 025)]]
+[[es:Scyther (Genes Formidables TCG Pocket)]]
+[[fr:Insécateur (Puissance Génétique 025)]]
+[[it:Scyther (Geni Supremi 25)]]
+[[ja:ストライク (ポケポケ A1)]]
+[[zh:飞天螳螂（A1）]]

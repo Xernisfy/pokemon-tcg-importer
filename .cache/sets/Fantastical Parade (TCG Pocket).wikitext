@@ -1,0 +1,738 @@
+{{TCGPocketExpansionPrevNext | prev = Crimson Blaze | next = Paldean Wonders }}
+{{TCGPocketExpansionInfobox
+|setname=Fantastical Parade
+|jasetname=夢幻パレード
+|jasettrans=Dream Parade
+|setlogo=B2 Set Logo EN.png
+|release=January 29, 2026
+|cards=234 (155 + 79 secret)
+|collections=28 (23 + 5 secret)
+|dex missions=15 (14 + 1 secret)
+|deck missions=20
+|decks=10
+|battles=
+}}
+'''Fantastical Parade''' (Japanese: '''夢幻パレード''' ''Dream Parade'') is the third {{TCGP|B Series}} expansion, and the fourteenth expansion overall, in [[Pokémon Trading Card Game Pocket]].
+
+== Information ==
+'''Fantastical Parade''' is the sixth main expansion released through [[Pokémon Trading Card Game Pocket]], being the first main expansion to feature only a single booster pack. With an overall theme of a parade or festival, this expansion focuses on various Pokémon ex such as {{p|Gardevoir|Mega Gardevoir}} and {{p|Ogerpon|Teal Mask Ogerpon}}.
+
+Fantastical Parade sees the introduction of {{TCGP|Stadium card}}s to Pokémon TCG Pocket.
+
+== Card list ==
+{{TCG Set List/header|tablecol=E37|bordercol=70A|cellcol=FBB}}
+|-
+| 001/155 || {{TCG ID|Fantastical Parade|Ledyba|1}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 002/155 || {{TCG ID|Fantastical Parade|Ledian|2}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 003/155 || {{TCG ID|Fantastical Parade|Shuckle|3}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 004/155 || {{TCG ID|Fantastical Parade|Roselia|4}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 005/155 || {{TCG ID|Fantastical Parade|Roserade|5}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 006/155 || {{TCG ID|Fantastical Parade|Cacnea|6}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 007/155 || {{TCG ID|Fantastical Parade|Cacturne|7}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 008/155 || {{TCG ID|Fantastical Parade|Chespin|8}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 009/155 || {{TCG ID|Fantastical Parade|Quilladin|9}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 010/155 || {{TCG ID|Fantastical Parade|Chesnaught|10}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 011/155 || {{TCG ID|Fantastical Parade|Scatterbug|11}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 012/155 || {{TCG ID|Fantastical Parade|Spewpa|12}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 013/155 || {{TCG ID|Fantastical Parade|Vivillon|13}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 014/155 || {{TCG ID|Fantastical Parade|Buzzwole|14}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 015/155 || {{TCG ID|Fantastical Parade|Gossifleur|15}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 016/155 || {{TCG ID|Fantastical Parade|Eldegoss|16}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 017/155 || {{TCG ID|Fantastical Parade|Teal Mask Ogerpon ex|17|Teal Mask Ogerpon}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 018/155 || {{TCG ID|Fantastical Parade|Alolan Marowak|18}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 019/155 || {{TCG ID|Fantastical Parade|Reshiram|19}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 020/155 || {{TCG ID|Fantastical Parade|Litleo|20}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 021/155 || {{TCG ID|Fantastical Parade|Pyroar|21}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 022/155 || {{TCG ID|Fantastical Parade|Oricorio|22}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 023/155 || {{TCG ID|Fantastical Parade|Blacephalon ex|23|Blacephalon}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 024/155 || {{TCG ID|Fantastical Parade|Scorbunny|24}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 025/155 || {{TCG ID|Fantastical Parade|Raboot|25}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 026/155 || {{TCG ID|Fantastical Parade|Cinderace|26}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 027/155 || {{TCG ID|Fantastical Parade|Hearthflame Mask Ogerpon|27}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 028/155 || {{TCG ID|Fantastical Parade|Alolan Vulpix|28}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 029/155 || {{TCG ID|Fantastical Parade|Alolan Ninetales ex|29|Alolan Ninetales}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 030/155 || {{TCG ID|Fantastical Parade|Galarian Mr. Mime|30}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 031/155 || {{TCG ID|Fantastical Parade|Galarian Mr. Rime|31}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 032/155 || {{TCG ID|Fantastical Parade|Delibird|32}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 033/155 || {{TCG ID|Fantastical Parade|Mudkip|33}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 034/155 || {{TCG ID|Fantastical Parade|Marshtomp|34}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 035/155 || {{TCG ID|Fantastical Parade|Swampert|35}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 036/155 || {{TCG ID|Fantastical Parade|Mega Swampert ex|36|Mega Swampert}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 037/155 || {{TCG ID|Fantastical Parade|Vanillite|37}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 038/155 || {{TCG ID|Fantastical Parade|Vanillish|38}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 039/155 || {{TCG ID|Fantastical Parade|Vanilluxe|39}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 040/155 || {{TCG ID|Fantastical Parade|Cryogonal|40}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 041/155 || {{TCG ID|Fantastical Parade|Amaura|41}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 042/155 || {{TCG ID|Fantastical Parade|Aurorus|42}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 043/155 || {{TCG ID|Fantastical Parade|Chewtle|43}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 044/155 || {{TCG ID|Fantastical Parade|Drednaw|44}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 045/155 || {{TCG ID|Fantastical Parade|Cramorant|45}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 046/155 || {{TCG ID|Fantastical Parade|Arrokuda|46}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 047/155 || {{TCG ID|Fantastical Parade|Barraskewda|47}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 048/155 || {{TCG ID|Fantastical Parade|Wellspring Mask Ogerpon|48}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 049/155 || {{TCG ID|Fantastical Parade|Pikachu|49}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 050/155 || {{TCG ID|Fantastical Parade|Alolan Raichu|50}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 051/155 || {{TCG ID|Fantastical Parade|Zapdos|51}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 052/155 || {{TCG ID|Fantastical Parade|Plusle|52}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 053/155 || {{TCG ID|Fantastical Parade|Minun|53}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 054/155 || {{TCG ID|Fantastical Parade|Toxel|54}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 055/155 || {{TCG ID|Fantastical Parade|Toxtricity ex|55|Toxtricity}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 056/155 || {{TCG ID|Fantastical Parade|Tadbulb|56}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 057/155 || {{TCG ID|Fantastical Parade|Bellibolt|57}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 058/155 || {{TCG ID|Fantastical Parade|Galarian Ponyta|58}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 059/155 || {{TCG ID|Fantastical Parade|Galarian Rapidash|59}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 060/155 || {{TCG ID|Fantastical Parade|Wobbuffet|60}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 061/155 || {{TCG ID|Fantastical Parade|Snubbull|61}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 062/155 || {{TCG ID|Fantastical Parade|Granbull|62}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 063/155 || {{TCG ID|Fantastical Parade|Ralts|63}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 064/155 || {{TCG ID|Fantastical Parade|Kirlia|64}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 065/155 || {{TCG ID|Fantastical Parade|Gardevoir|65}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 066/155 || {{TCG ID|Fantastical Parade|Mega Gardevoir ex|66|Mega Gardevoir}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 067/155 || {{TCG ID|Fantastical Parade|Litwick|67}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 068/155 || {{TCG ID|Fantastical Parade|Lampent|68}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 069/155 || {{TCG ID|Fantastical Parade|Chandelure|69}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 070/155 || {{TCG ID|Fantastical Parade|Meloetta|70}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 071/155 || {{TCG ID|Fantastical Parade|Pumpkaboo|71}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 072/155 || {{TCG ID|Fantastical Parade|Gourgeist|72}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 073/155 || {{TCG ID|Fantastical Parade|Mimikyu ex|73|Mimikyu}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 074/155 || {{TCG ID|Fantastical Parade|Sinistea|74}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 075/155 || {{TCG ID|Fantastical Parade|Polteageist|75}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 076/155 || {{TCG ID|Fantastical Parade|Indeedee|76}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 077/155 || {{TCG ID|Fantastical Parade|Sandshrew|77}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 078/155 || {{TCG ID|Fantastical Parade|Sandslash|78}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 079/155 || {{TCG ID|Fantastical Parade|Machop|79}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 080/155 || {{TCG ID|Fantastical Parade|Machoke|80}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 081/155 || {{TCG ID|Fantastical Parade|Machamp|81}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 082/155 || {{TCG ID|Fantastical Parade|Cubone|82}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 083/155 || {{TCG ID|Fantastical Parade|Meditite|83}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 084/155 || {{TCG ID|Fantastical Parade|Medicham|84}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 085/155 || {{TCG ID|Fantastical Parade|Roggenrola|85}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 086/155 || {{TCG ID|Fantastical Parade|Boldore|86}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 087/155 || {{TCG ID|Fantastical Parade|Gigalith ex|87|Gigalith}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 088/155 || {{TCG ID|Fantastical Parade|Drilbur|88}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 089/155 || {{TCG ID|Fantastical Parade|Tyrunt|89}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 090/155 || {{TCG ID|Fantastical Parade|Tyrantrum|90}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 091/155 || {{TCG ID|Fantastical Parade|Passimian|91}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 092/155 || {{TCG ID|Fantastical Parade|Falinks|92}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 093/155 || {{TCG ID|Fantastical Parade|Cornerstone Mask Ogerpon|93}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 094/155 || {{TCG ID|Fantastical Parade|Alolan Meowth|94}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 095/155 || {{TCG ID|Fantastical Parade|Alolan Persian|95}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 096/155 || {{TCG ID|Fantastical Parade|Alolan Grimer|96}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 097/155 || {{TCG ID|Fantastical Parade|Alolan Muk|97}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 098/155 || {{TCG ID|Fantastical Parade|Galarian Zigzagoon|98}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 099/155 || {{TCG ID|Fantastical Parade|Galarian Linoone|99}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 100/155 || {{TCG ID|Fantastical Parade|Galarian Obstagoon|100}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 101/155 || {{TCG ID|Fantastical Parade|Stunky|101}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 102/155 || {{TCG ID|Fantastical Parade|Skuntank|102}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 103/155 || {{TCG ID|Fantastical Parade|Spiritomb|103}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 104/155 || {{TCG ID|Fantastical Parade|Purrloin|104}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 105/155 || {{TCG ID|Fantastical Parade|Liepard|105}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 106/155 || {{TCG ID|Fantastical Parade|Scraggy|106}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 107/155 || {{TCG ID|Fantastical Parade|Scrafty|107}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 108/155 || {{TCG ID|Fantastical Parade|Yveltal|108}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 109/155 || {{TCG ID|Fantastical Parade|Guzzlord|109}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 110/155 || {{TCG ID|Fantastical Parade|Galarian Meowth|110}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 111/155 || {{TCG ID|Fantastical Parade|Galarian Perrserker|111}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 112/155 || {{TCG ID|Fantastical Parade|Mawile|112}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 113/155 || {{TCG ID|Fantastical Parade|Mega Mawile ex|113|Mega Mawile}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 114/155 || {{TCG ID|Fantastical Parade|Excadrill|114}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 115/155 || {{TCG ID|Fantastical Parade|Ferroseed|115}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 116/155 || {{TCG ID|Fantastical Parade|Ferrothorn|116}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 117/155 || {{TCG ID|Fantastical Parade|Galarian Stunfisk|117}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 118/155 || {{TCG ID|Fantastical Parade|Honedge|118}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 119/155 || {{TCG ID|Fantastical Parade|Doublade|119}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 120/155 || {{TCG ID|Fantastical Parade|Aegislash|120}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 121/155 || {{TCG ID|Fantastical Parade|Bagon|121}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 122/155 || {{TCG ID|Fantastical Parade|Shelgon|122}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 123/155 || {{TCG ID|Fantastical Parade|Salamence|123}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 124/155 || {{TCG ID|Fantastical Parade|Meowth|124}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 125/155 || {{TCG ID|Fantastical Parade|Persian|125}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 126/155 || {{TCG ID|Fantastical Parade|Kangaskhan|126}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 127/155 || {{TCG ID|Fantastical Parade|Mega Kangaskhan ex|127|Mega Kangaskhan}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 128/155 || {{TCG ID|Fantastical Parade|Sentret|128}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 129/155 || {{TCG ID|Fantastical Parade|Furret|129}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 130/155 || {{TCG ID|Fantastical Parade|Smeargle|130}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 131/155 || {{TCG ID|Fantastical Parade|Lugia|131}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 132/155 || {{TCG ID|Fantastical Parade|Taillow|132}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 133/155 || {{TCG ID|Fantastical Parade|Swellow|133}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 134/155 || {{TCG ID|Fantastical Parade|Slakoth|134}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 135/155 || {{TCG ID|Fantastical Parade|Vigoroth|135}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 136/155 || {{TCG ID|Fantastical Parade|Slaking|136}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 137/155 || {{TCG ID|Fantastical Parade|Spinda|137}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 138/155 || {{TCG ID|Fantastical Parade|Tornadus|138}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 139/155 || {{TCG ID|Fantastical Parade|Bunnelby|139}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 140/155 || {{TCG ID|Fantastical Parade|Diggersby|140}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 141/155 || {{TCG ID|Fantastical Parade|Furfrou|141}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 142/155 || {{TCG ID|Fantastical Parade|Tandemaus|142}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 143/155 || {{TCG ID|Fantastical Parade|Maushold|143}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 144/155 || {{TCG ID|Fantastical Parade|Jaw Fossil|144}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 145/155 || {{TCG ID|Fantastical Parade|Lucky Ice Pop|145}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 146/155 || {{TCG ID|Fantastical Parade|Sail Fossil|146}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 147/155 || {{TCG ID|Fantastical Parade|Protective Poncho|147}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 148/155 || {{TCG ID|Fantastical Parade|Metal Core Barrier|148}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 149/155 || {{TCG ID|Fantastical Parade|Diantha|149}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 150/155 || {{TCG ID|Fantastical Parade|Sightseer|150}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 151/155 || {{TCG ID|Fantastical Parade|Juggler|151}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 152/155 || {{TCG ID|Fantastical Parade|Piers|152}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 153/155 || {{TCG ID|Fantastical Parade|Training Area|153}} || {{TCG Icon|Stadium}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 154/155 || {{TCG ID|Fantastical Parade|Starting Plains|154}} || {{TCG Icon|Stadium}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 155/155 || {{TCG ID|Fantastical Parade|Peculiar Plaza|155}} || {{TCG Icon|Stadium}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 156/155 || {{TCG ID|Fantastical Parade|Cacnea|156}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}}
+|-
+| 157/155 || {{TCG ID|Fantastical Parade|Roserade|157}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}}
+|-
+| 158/155 || {{TCG ID|Fantastical Parade|Vivillon|158}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}}
+|-
+| 159/155 || {{TCG ID|Fantastical Parade|Buzzwole|159}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}}
+|-
+| 160/155 || {{TCG ID|Fantastical Parade|Reshiram|160}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|1}}
+|-
+| 161/155 || {{TCG ID|Fantastical Parade|Oricorio|161}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|1}}
+|-
+| 162/155 || {{TCG ID|Fantastical Parade|Scorbunny|162}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|1}}
+|-
+| 163/155 || {{TCG ID|Fantastical Parade|Aurorus|163}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}}
+|-
+| 164/155 || {{TCG ID|Fantastical Parade|Cramorant|164}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}}
+|-
+| 165/155 || {{TCG ID|Fantastical Parade|Minun|165}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|1}}
+|-
+| 166/155 || {{TCG ID|Fantastical Parade|Toxel|166}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|1}}
+|-
+| 167/155 || {{TCG ID|Fantastical Parade|Galarian Ponyta|167}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}}
+|-
+| 168/155 || {{TCG ID|Fantastical Parade|Snubbull|168}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}}
+|-
+| 169/155 || {{TCG ID|Fantastical Parade|Indeedee|169}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}}
+|-
+| 170/155 || {{TCG ID|Fantastical Parade|Sandshrew|170}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|1}}
+|-
+| 171/155 || {{TCG ID|Fantastical Parade|Tyrantrum|171}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|1}}
+|-
+| 172/155 || {{TCG ID|Fantastical Parade|Falinks|172}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|1}}
+|-
+| 173/155 || {{TCG ID|Fantastical Parade|Alolan Muk|173}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|1}}
+|-
+| 174/155 || {{TCG ID|Fantastical Parade|Purrloin|174}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|1}}
+|-
+| 175/155 || {{TCG ID|Fantastical Parade|Yveltal|175}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|1}}
+|-
+| 176/155 || {{TCG ID|Fantastical Parade|Galarian Obstagoon|176}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|1}}
+|-
+| 177/155 || {{TCG ID|Fantastical Parade|Galarian Perrserker|177}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|1}}
+|-
+| 178/155 || {{TCG ID|Fantastical Parade|Salamence|178}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Star|1}}
+|-
+| 179/155 || {{TCG ID|Fantastical Parade|Slakoth|179}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}}
+|-
+| 180/155 || {{TCG ID|Fantastical Parade|Teal Mask Ogerpon ex|180|Teal Mask Ogerpon}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}}
+|-
+| 181/155 || {{TCG ID|Fantastical Parade|Blacephalon ex|181|Blacephalon}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|2}}
+|-
+| 182/155 || {{TCG ID|Fantastical Parade|Alolan Ninetales ex|182|Alolan Ninetales}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}}
+|-
+| 183/155 || {{TCG ID|Fantastical Parade|Mega Swampert ex|183|Mega Swampert}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}}
+|-
+| 184/155 || {{TCG ID|Fantastical Parade|Toxtricity ex|184|Toxtricity}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}}
+|-
+| 185/155 || {{TCG ID|Fantastical Parade|Mega Gardevoir ex|185|Mega Gardevoir}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|2}}
+|-
+| 186/155 || {{TCG ID|Fantastical Parade|Mimikyu ex|186|Mimikyu}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|2}}
+|-
+| 187/155 || {{TCG ID|Fantastical Parade|Gigalith ex|187|Gigalith}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}}
+|-
+| 188/155 || {{TCG ID|Fantastical Parade|Mega Mawile ex|188|Mega Mawile}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}}
+|-
+| 189/155 || {{TCG ID|Fantastical Parade|Mega Kangaskhan ex|189|Mega Kangaskhan}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|2}}
+|-
+| 190/155 || {{TCG ID|Fantastical Parade|Diantha|190}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 191/155 || {{TCG ID|Fantastical Parade|Sightseer|191}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 192/155 || {{TCG ID|Fantastical Parade|Juggler|192}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 193/155 || {{TCG ID|Fantastical Parade|Piers|193}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 194/155 || {{TCG ID|Fantastical Parade|Teal Mask Ogerpon ex|194|Teal Mask Ogerpon}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}}
+|-
+| 195/155 || {{TCG ID|Fantastical Parade|Blacephalon ex|195|Blacephalon}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|2}}
+|-
+| 196/155 || {{TCG ID|Fantastical Parade|Alolan Ninetales ex|196|Alolan Ninetales}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}}
+|-
+| 197/155 || {{TCG ID|Fantastical Parade|Mega Swampert ex|197|Mega Swampert}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}}
+|-
+| 198/155 || {{TCG ID|Fantastical Parade|Toxtricity ex|198|Toxtricity}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}}
+|-
+| 199/155 || {{TCG ID|Fantastical Parade|Mimikyu ex|199|Mimikyu}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|2}}
+|-
+| 200/155 || {{TCG ID|Fantastical Parade|Gigalith ex|200|Gigalith}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}}
+|-
+| 201/155 || {{TCG ID|Fantastical Parade|Mega Mawile ex|201|Mega Mawile}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}}
+|-
+| 202/155 || {{TCG ID|Fantastical Parade|Mega Kangaskhan ex|202|Mega Kangaskhan}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|2}}
+|-
+| 203/155 || {{TCG ID|Fantastical Parade|Mega Gardevoir ex|203|Mega Gardevoir}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|3}}
+|-
+| 204/155 || {{TCG ID|Fantastical Parade|Meowth|204}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|3}}
+|-
+| 205/155 || {{TCG ID|Fantastical Parade|Tangela|205}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 206/155 || {{TCG ID|Fantastical Parade|Magby|206}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 207/155 || {{TCG ID|Fantastical Parade|Magmar|207}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 208/155 || {{TCG ID|Fantastical Parade|Horsea|208}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 209/155 || {{TCG ID|Fantastical Parade|Seadra|209}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 210/155 || {{TCG ID|Fantastical Parade|Mantyke|210}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 211/155 || {{TCG ID|Fantastical Parade|Omanyte|211}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 212/155 || {{TCG ID|Fantastical Parade|Omastar|212}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 213/155 || {{TCG ID|Fantastical Parade|Pichu|213}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 214/155 || {{TCG ID|Fantastical Parade|Clefairy|214}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 215/155 || {{TCG ID|Fantastical Parade|Clefable|215}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 216/155 || {{TCG ID|Fantastical Parade|Latias|216}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 217/155 || {{TCG ID|Fantastical Parade|Latios|217}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 218/155 || {{TCG ID|Fantastical Parade|Hitmonlee|218}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 219/155 || {{TCG ID|Fantastical Parade|Hitmonchan|219}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 220/155 || {{TCG ID|Fantastical Parade|Kabuto|220}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 221/155 || {{TCG ID|Fantastical Parade|Kabutops|221}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 222/155 || {{TCG ID|Fantastical Parade|Phanpy|222}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 223/155 || {{TCG ID|Fantastical Parade|Tyrogue|223}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 224/155 || {{TCG ID|Fantastical Parade|Tauros|224}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 225/155 || {{TCG ID|Fantastical Parade|Flareon ex|225|Flareon}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 226/155 || {{TCG ID|Fantastical Parade|Ho-Oh ex|226|Ho-Oh}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 227/155 || {{TCG ID|Fantastical Parade|Kingdra ex|227|Kingdra}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 228/155 || {{TCG ID|Fantastical Parade|Espeon ex|228|Espeon}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 229/155 || {{TCG ID|Fantastical Parade|Sylveon ex|229|Sylveon}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 230/155 || {{TCG ID|Fantastical Parade|Donphan ex|230|Donphan}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 231/155 || {{TCG ID|Fantastical Parade|Umbreon ex|231|Umbreon}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 232/155 || {{TCG ID|Fantastical Parade|Lugia ex|232|Lugia}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 233/155 || {{TCG ID|Fantastical Parade|Meloetta|233}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Crown|1}}
+|-
+| 234/155 || {{TCG ID|Fantastical Parade|Protective Poncho|234}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Crown|1}}
+|}
+
+==Missions==
+
+=== Dex Missions ===
+Fantastical Parade has 14 regular {{DL|Mission (TCG Pocket)|Dex Missions}} and one hidden Dex Mission:
+{{TCGPocketMission/Header|reward=yes|tablecol=E37|bordercol=70A|cellcol=FBB}}
+{{TCGPocketMission/Entry|mission=Register 10 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 20 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 30 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 40 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 50 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 60 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 70 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 80 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 90 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 100 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 110 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 120 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 130 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 140 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade)|num=5}}}}
+|-
+! colspan="2" style="color:#FFF" | Secret Mission
+{{TCGPocketMission/Entry|mission=Register all {{Rar/TCGP|Diamond|1}} – {{Rar/TCGP|Diamond|4}} cards in the card dex|reward={{TCGPocketItem|Fantastical Parade Mega Gardevoir|Fantastical Parade: Mega Gardevoir (profile icon)|type=Profile Icon}}|lastitem=yes}}
+|}
+
+=== Deck Missions ===
+Fantastical Parade has 10 [[deck]]s and 20 {{DL|Mission (TCG Pocket)|Deck Missions}}. Each deck has two missions:
+
+{{TCGPocketMission/Header|reward=yes|tablecol=E37|bordercol=70A|cellcol=FBB}}
+{{TCGPocketMission/Entry|mission=Collect the highlight card(s) for [deck name]|reward={{TCGPocketItem|Rental Deck|[deck name] rental deck}}}}
+{{TCGPocketMission/Entry|mission=Collect cards for [deck name]|reward={{TCGPocketItem|Theme Deck List|[deck name] theme deck list}}|lastitem=yes}}
+|}
+
+The 10 available decks related to Fantastical Parade are: 
+{{TCGPocketExpansionDeck/Header|tablecol=E37|bordercol=70A|cellcol=FBB}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Teal Mask Ogerpon ex Deck|Fantastical Parade}}|{{e|Grass}}|{{TCG ID|Fantastical Parade|Teal Mask Ogerpon ex|17}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Blacephalon ex Deck|Fantastical Parade}}|{{e|Fire}}|{{TCG ID|Fantastical Parade|Blacephalon ex|23}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Alolan Ninetales ex Deck|Fantastical Parade}}|{{e|Water}}|{{TCG ID|Fantastical Parade|Alolan Ninetales ex|29}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Swampert ex Deck|Fantastical Parade}}|{{e|Water}}|{{TCG ID|Fantastical Parade|Mega Swampert ex|36}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Toxtricity ex Deck|Fantastical Parade}}|{{e|Lightning}}|{{TCG ID|Fantastical Parade|Toxtricity ex|55}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Gardevoir ex Deck|Fantastical Parade}}|{{e|Psychic}}|{{TCG ID|Fantastical Parade|Mega Gardevoir ex|66}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Gigalith ex Deck|Fantastical Parade}}|{{e|Fighting}}|{{TCG ID|Fantastical Parade|Gigalith ex|87}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Piers Deck|Fantastical Parade}}|{{e|Darkness}}|{{TCG ID|Fantastical Parade|Piers|152}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Mawile ex Deck|Fantastical Parade}}|{{e|Metal}}|{{TCG ID|Fantastical Parade|Mega Mawile ex|113}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Kangaskhan ex Deck|Fantastical Parade}}|{{e|Colorless}}|{{TCG ID|Fantastical Parade|Mega Kangaskhan ex|127}}|lastitem=yes}}
+|}
+
+=== Themed Collections ===
+Fantastical Parade has 23 regular {{DL|Mission (TCG Pocket)|Themed Collections}} and 5 hidden Themed Collections.
+
+{{TCGPocketCollection/Header|tablecol=E37|bordercol=70A|cellcol=FBB}}
+{{TCGPocketCollection/Entry|collection=Mega Gardevoir and a Magnificent Evolution
+|cards={{TCG ID|Fantastical Parade|Ralts|63}} (#063)<br>{{TCG ID|Fantastical Parade|Kirlia|64}} (#064)<br>{{TCG ID|Fantastical Parade|Gardevoir|65}} (#065)<br>{{TCG ID|Fantastical Parade|Mega Gardevoir ex|66}} (#066 or #185 or #203) 
+|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×12}}
+}}
+{{TCGPocketCollection/Entry|collection=Mega Swampert and Pokémon with Strong Arms
+|cards={{TCG ID|Fantastical Parade|Buzzwole|14}} (#014 or #159)<br>{{TCG ID|Fantastical Parade|Mega Swampert ex|36}} (#036 or #183 or #197)<br>{{TCG ID|Fantastical Parade|Machoke|80}} (#080)<br>{{TCG ID|Fantastical Parade|Machamp|81}} (#081)
+|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×12}}
+}}
+{{TCGPocketCollection/Entry|collection=Mega Mawile and Pokémon with Huge Jaws
+|cards={{TCG ID|Fantastical Parade|Drednaw|44}} (#044)<br>{{TCG ID|Fantastical Parade|Granbull|62}} (#062)<br>{{TCG ID|Fantastical Parade|Tyrantrum|90}} (#090 or #171)<br>{{TCG ID|Fantastical Parade|Mawile|112}} (#112)<br>{{TCG ID|Fantastical Parade|Mega Mawile ex|113}} (#113 or #188 or #201)
+|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×12}}
+}}
+{{TCGPocketCollection/Entry|collection=Mega Kangaskhan and Family Bonds
+|cards={{TCG ID|Fantastical Parade|Mega Kangaskhan ex|127}} (#127 or #189 or #202)<br>{{TCG ID|Fantastical Parade|Maushold|143}} (#143)
+|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×9}}
+}}
+{{TCGPocketCollection/Entry|collection=High Spirits in a Vibrant Town
+|cards={{TCG ID|Fantastical Parade|Sightseer|150}} (#150 or #191)<br>5 in any combination of:<br>{{TCG ID|Fantastical Parade|Ledian|2}} (#002)<br>{{TCG ID|Fantastical Parade|Shuckle|3}} (#003)<br>{{TCG ID|Fantastical Parade|Alolan Marowak|18}} (#018)<br>{{TCG ID|Fantastical Parade|Oricorio|22}} (#022)<br>{{TCG ID|Fantastical Parade|Delibird|32}} (#032)<br>{{TCG ID|Fantastical Parade|Vanillite|37}} (#037)<br>{{TCG ID|Fantastical Parade|Snubbull|61}} (#061)<br>{{TCG ID|Fantastical Parade|Litwick|67}} (#067)<br>{{TCG ID|Fantastical Parade|Pumpkaboo|71}} (#071)<br>{{TCG ID|Fantastical Parade|Smeargle|130}} (#130)<br>{{TCG ID|Fantastical Parade|Slakoth|134}} (#134)<br>{{TCG ID|Fantastical Parade|Spinda|137}} (#137)<br>{{TCG ID|Fantastical Parade|Maushold|143}} (#143)<br>{{TCG ID|Fantastical Parade|Buzzwole|159}} (#159)<br>{{TCG ID|Fantastical Parade|Falinks|172}} (#172)<br>{{TCG ID|Fantastical Parade|Teal Mask Ogerpon ex|194}} (#194)<br>{{TCG ID|Fantastical Parade|Meowth|204}} (#204)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon that Dance in the Town
+|cards={{TCG ID|Fantastical Parade|Alolan Marowak|18}} (#018)<br>{{TCG ID|Fantastical Parade|Oricorio|22}} (#022 or #161)<br>{{TCG ID|Fantastical Parade|Galarian Mr. Rime|31}} (#031)<br>{{TCG ID|Fantastical Parade|Spinda|137}} (#137)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×2}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon and the Nighttime Festival
+|cards={{TCG ID|Fantastical Parade|Ledian|2}} (#002)<br>{{TCG ID|Fantastical Parade|Litwick|67}} (#067)<br>{{TCG ID|Fantastical Parade|Pumpkaboo|71}} (#071)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Ogerpon and the Four Masks
+|cards={{TCG ID|Fantastical Parade|Teal Mask Ogerpon ex|17}} (#017 or #180 or #194)<br>{{TCG ID|Fantastical Parade|Hearthflame Mask Ogerpon|27}} (#027)<br>{{TCG ID|Fantastical Parade|Wellspring Mask Ogerpon|48}} (#048)<br>{{TCG ID|Fantastical Parade|Cornerstone Mask Ogerpon|93}} (#093)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Each Meowth is Different
+|cards={{TCG ID|Fantastical Parade|Alolan Meowth|94}} (#094)<br>{{TCG ID|Fantastical Parade|Galarian Meowth|110}} (#110)<br>{{TCG ID|Fantastical Parade|Meowth|124}} (#124 or #204)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Cramorant, Gulping and Gorging 1
+|cards={{TCG ID|Fantastical Parade|Cramorant|45}} (#045)<br>{{TCG ID|Fantastical Parade|Arrokuda|46}} (#046)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Cramorant, Gulping and Gorging 2
+|cards={{TCG ID|Fantastical Parade|Pikachu|49}} (#049)<br>{{TCG ID|Fantastical Parade|Cramorant|164}} (#164)
+|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×5}}
+}}
+{{TCGPocketCollection/Entry|collection=Warning: May Be Prickly
+|cards=5 in any combination of:<br>{{TCG ID|Fantastical Parade|Cacnea|6}} (#006 or #156)<br>{{TCG ID|Fantastical Parade|Cacturne|7}} (#007)<br>{{TCG ID|Fantastical Parade|Chespin|8}} (#008)<br>{{TCG ID|Fantastical Parade|Quilladin|9}} (#009)<br>{{TCG ID|Fantastical Parade|Chesnaught|10}} (#010)<br>{{TCG ID|Fantastical Parade|Sandslash|78}} (#078)<br>{{TCG ID|Fantastical Parade|Ferroseed|115}} (#115)<br>{{TCG ID|Fantastical Parade|Ferrothorn|116}} (#116)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Plusle and Minun
+|cards={{TCG ID|Fantastical Parade|Plusle|52}} (#052)<br>{{TCG ID|Fantastical Parade|Minun|53}} (#053 or #165)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Want Some... Ice Cream?
+|cards={{TCG ID|Fantastical Parade|Vanillite|37}} (#037)<br>{{TCG ID|Fantastical Parade|Vanillish|38}} (#038)<br>{{TCG ID|Fantastical Parade|Vanilluxe|39}} (#039)<br>{{TCG ID|Fantastical Parade|Lucky Ice Pop|145}} (#145)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Teatime Preparations
+|cards={{TCG ID|Fantastical Parade|Sinistea|74}} (#074)<br>{{TCG ID|Fantastical Parade|Indeedee|76}} (#076)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Invasion of the Ultra Beasts
+|cards={{TCG ID|Fantastical Parade|Buzzwole|14}} (#014 or #159)<br>{{TCG ID|Fantastical Parade|Blacephalon ex|23}} (#023 or #181 or #195)<br>{{TCG ID|Fantastical Parade|Guzzlord|109}} (#109)
+|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×12}}
+}}
+{{TCGPocketCollection/Entry|collection=Alolan Form Pokémon
+|cards=5 in any combination of:<br>{{TCG ID|Fantastical Parade|Alolan Marowak|18}} (#018)<br>{{TCG ID|Fantastical Parade|Alolan Vulpix|28}} (#028)<br>{{TCG ID|Fantastical Parade|Alolan Ninetales ex|29}} (#029 or #182 or #196)<br>{{TCG ID|Fantastical Parade|Alolan Raichu|50}} (#050)<br>{{TCG ID|Fantastical Parade|Alolan Meowth|94}} (#094)<br>{{TCG ID|Fantastical Parade|Alolan Persian|95}} (#095)<br>{{TCG ID|Fantastical Parade|Alolan Grimer|96}} (#096)<br>{{TCG ID|Fantastical Parade|Alolan Muk|97}} (#097 or #173)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Galarian Form Pokémon
+|cards=5 in any combination of:<br>{{TCG ID|Fantastical Parade|Galarian Mr. Mime|30}} (#030)<br>{{TCG ID|Fantastical Parade|Galarian Mr. Rime|31}} (#031)<br>{{TCG ID|Fantastical Parade|Galarian Ponyta|58}} (#058 or #167)<br>{{TCG ID|Fantastical Parade|Galarian Rapidash|59}} (#059)<br>{{TCG ID|Fantastical Parade|Galarian Zigzagoon|98}} (#098)<br>{{TCG ID|Fantastical Parade|Galarian Linoone|99}} (#099)<br>{{TCG ID|Fantastical Parade|Galarian Obstagoon|100}} (#100 or #176)<br>{{TCG ID|Fantastical Parade|Galarian Meowth|110}} (#110)<br>{{TCG ID|Fantastical Parade|Galarian Perrserker|111}} (#111 or #177)<br>{{TCG ID|Fantastical Parade|Galarian Stunfisk|117}} (#117)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Starting Plains Battle
+|cards={{TCG ID|Fantastical Parade|Plusle|52}} (#052)<br>{{TCG ID|Fantastical Parade|Minun|53}} (#053)<br>{{TCG ID|Fantastical Parade|Wobbuffet|60}} (#060)<br>{{TCG ID|Fantastical Parade|Passimian|91}} (#091)<br>{{TCG ID|Fantastical Parade|Galarian Stunfisk|117}} (#117)<br>{{TCG ID|Fantastical Parade|Starting Plains|154}} (#154)
+|reward={{TCGPocketItem|Cover Starting Plains Battle|Starting Plains Battle (cover)}}<br>{{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Peculiar Plaza and Psychic-type Pokémon
+|cards={{TCG ID|Fantastical Parade|Mega Gardevoir ex|66}} (#066 or #185 or #203)<br>{{TCG ID|Fantastical Parade|Peculiar Plaza|155}} (#155)<br>5 of any {{ct|Psychic}} Pokémon cards available in the expansion (other than Mega Gardevoir ex)
+|reward={{TCGPocketItem|Emblem Ticket B2|Emblem Ticket (Fantastical Parade) ×9}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Mudkip cards
+|cards={{TCG ID|Fantastical Parade|Mudkip|33}} (#033) ×3
+|reward={{TCGPocketItem|Mudkip|Mudkip (profile icon)|type=Profile Icon}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Cramorant cards
+|cards={{TCG ID|Fantastical Parade|Cramorant|45}} (#045) ×3
+|reward={{TCGPocketItem|Cramorant|Cramorant (profile icon)|type=Profile Icon}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Meloetta cards
+|cards={{TCG ID|Fantastical Parade|Meloetta|70}} (#070) ×3
+|reward={{TCGPocketItem|Meloetta|Meloetta (profile icon)|type=Profile Icon}}
+}}
+|-
+! colspan="3" style="color:#FFF" | Secret Missions
+{{TCGPocketCollection/Entry|collection=Fantastical Parade Museum 1
+|cards={{TCG ID|Fantastical Parade|Cacnea|156}} (#156)<br>{{TCG ID|Fantastical Parade|Roserade|157}} (#157)<br>{{TCG ID|Fantastical Parade|Vivillon|158}} (#158)<br>{{TCG ID|Fantastical Parade|Buzzwole|159}} (#159)<br>{{TCG ID|Fantastical Parade|Reshiram|160}} (#160)<br>{{TCG ID|Fantastical Parade|Oricorio|161}} (#161)<br>{{TCG ID|Fantastical Parade|Scorbunny|162}} (#162)<br>{{TCG ID|Fantastical Parade|Aurorus|163}} (#163)<br>{{TCG ID|Fantastical Parade|Cramorant|164}} (#164)<br>{{TCG ID|Fantastical Parade|Minun|165}} (#165)<br>{{TCG ID|Fantastical Parade|Toxel|166}} (#166)<br>{{TCG ID|Fantastical Parade|Galarian Ponyta|167}} (#167)<br>{{TCG ID|Fantastical Parade|Snubbull|168}} (#168)<br>{{TCG ID|Fantastical Parade|Indeedee|169}} (#169)<br>{{TCG ID|Fantastical Parade|Sandshrew|170}} (#170)<br>{{TCG ID|Fantastical Parade|Tyrantrum|171}} (#171)<br>{{TCG ID|Fantastical Parade|Falinks|172}} (#172)<br>{{TCG ID|Fantastical Parade|Alolan Muk|173}} (#173)<br>{{TCG ID|Fantastical Parade|Purrloin|174}} (#174)<br>{{TCG ID|Fantastical Parade|Yveltal|175}} (#175)<br>{{TCG ID|Fantastical Parade|Galarian Obstagoon|176}} (#176)<br>{{TCG ID|Fantastical Parade|Galarian Perrserker|177}} (#177)<br>{{TCG ID|Fantastical Parade|Salamence|178}} (#178)<br>{{TCG ID|Fantastical Parade|Slakoth|179}} (#179)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Fantastical Parade Museum 2
+|cards={{TCG ID|Fantastical Parade|Teal Mask Ogerpon ex|194}} (#194)<br>{{TCG ID|Fantastical Parade|Blacephalon ex|195}} (#195)<br>{{TCG ID|Fantastical Parade|Alolan Ninetales ex|196}} (#196)<br>{{TCG ID|Fantastical Parade|Mega Swampert ex|197}} (#197)<br>{{TCG ID|Fantastical Parade|Toxtricity ex|198}} (#198)<br>{{TCG ID|Fantastical Parade|Mimikyu ex|199}} (#199)<br>{{TCG ID|Fantastical Parade|Gigalith ex|200}} (#200)<br>{{TCG ID|Fantastical Parade|Mega Mawile ex|201}} (#201)<br>{{TCG ID|Fantastical Parade|Mega Kangaskhan ex|202}} (#202)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Fantastical Parade Museum 3
+|cards={{TCG ID|Fantastical Parade|Diantha|190}} (#190)<br>{{TCG ID|Fantastical Parade|Sightseer|191}} (#191)<br>{{TCG ID|Fantastical Parade|Juggler|192}} (#192)<br>{{TCG ID|Fantastical Parade|Piers|193}} (#193)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Fantastical Parade: Immersive Experience
+|cards={{TCG ID|Fantastical Parade|Mega Gardevoir ex|203}} (#203)<br>{{TCG ID|Fantastical Parade|Meowth|204}} (#204)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon and the Town Festival
+|cards={{TCG ID|Fantastical Parade|Ledian|2}} (#002)<br>{{TCG ID|Fantastical Parade|Shuckle|3}} (#003)<br>{{TCG ID|Fantastical Parade|Alolan Marowak|18}} (#018)<br>{{TCG ID|Fantastical Parade|Oricorio|22}} (#022)<br>{{TCG ID|Fantastical Parade|Delibird|32}} (#032)<br>{{TCG ID|Fantastical Parade|Vanillite|37}} (#037)<br>{{TCG ID|Fantastical Parade|Snubbull|61}} (#061)<br>{{TCG ID|Fantastical Parade|Litwick|67}} (#067)<br>{{TCG ID|Fantastical Parade|Pumpkaboo|71}} (#071)<br>{{TCG ID|Fantastical Parade|Smeargle|130}} (#130)<br>{{TCG ID|Fantastical Parade|Slakoth|134}} (#134)<br>{{TCG ID|Fantastical Parade|Spinda|137}} (#137)<br>{{TCG ID|Fantastical Parade|Maushold|143}} (#143)<br>{{TCG ID|Fantastical Parade|Buzzwole|159}} (#159)<br>{{TCG ID|Fantastical Parade|Falinks|172}} (#172)<br>{{TCG ID|Fantastical Parade|Teal Mask Ogerpon ex|194}} (#194)<br>{{TCG ID|Fantastical Parade|Meowth|204}} (#204)
+|reward={{TCGPocketItem|Meowth|Meowth (emblem)|type=Emblem}}|lastitem=yes}}
+|}
+
+== Offering rates ==
+The following table outlines the offering rates for each individual card in the Fantastical Parade booster pack.
+
+The probability of each type of pack appearing is as follows:
+* Regular pack - 94.711%
+* Regular pack + 1 card - 5.238%
+* Rare pack - 0.050%
+
+In regular packs with a bonus card, the card inclusion rates for the first five cards are the same as those for regular packs without a bonus card.
+
+{{Rar/TCGP|Shiny|1}} and {{Rar/TCGP|Shiny|2}} rarity cards are only available as bonus cards.
+
+{{TCGPocketRates/Header|tablecol=E37|bordercol=70A|cellcol=FBB|bonuscard=yes}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 1.515% || — || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 1.764% || 1.176% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.178% || 0.714% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.166% || 0.666% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.107% || 0.428% || — || 1.960%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.021% || 0.086% || — || 1.960%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.111% || 0.444% || — || 1.960%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|1}} || — || — || — || 3.409% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|2}} || — || — || — || 3.977% || —
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.020% || 0.080% || — || style="border-bottom-right-radius:5px" | 1.960%
+|}
+
+== Solo battles ==
+{{main|List of Fantastical Parade solo battles in Pokémon TCG Pocket}}
+
+== Gallery ==
+=== Key artwork ===
+{{TCGMerchGallery
+|background=FBB
+|border=70A
+|image1=B2 Key Art.png
+|size1=400px
+|caption1=Key artwork
+}}
+
+=== Pack artwork ===
+{{TCGMerchGallery
+|background=FBB
+|border=70A
+|image1=B2 Booster EN.png
+|caption1=Booster pack
+}}
+
+== In other languages ==
+{{Langtable|color=FBB|bordercolor=70A
+|ja=夢幻パレード ''Mugen Parade''
+|zh_yue=幻夢遊行 ''Waahnmuhng Yàuhhàhng''
+|zh_cmn=幻夢遊行 ''Huànmèng Yóuxíng''
+|fr=Parade Onirique
+|de=Traumhafte Parade
+|it=Parata Fantasmagorica
+|ko=몽환 퍼레이드 ''Monghwan Parade''
+|pt_br=Desfile Onírico
+|es=Desfile de Ensueño
+}}
+
+== Related articles ==
+{{TCGPocketNavigation}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Traumhafte Parade (TCG Pocket)]]
+[[es:Desfile de Ensueño (TCG Pocket)]]
+[[fr:Parade Onirique]]
+[[it:Parata Fantasmagorica (GCC Pocket)]]
+[[ja:夢幻パレード]]
+[[zh:幻夢遊行（TCGP）]]

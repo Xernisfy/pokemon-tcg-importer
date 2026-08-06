@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gogoat
+|ja name=ゴーゴート
+|trans name=Gogoat
+|species=Gogoat
+|type=Grass
+|image=GogoatGeneticApex32.png
+|illustrator=You Iribi
+|hp=120
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Skiddo
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=032/226|pack=Charizard|rarity=Diamond|rarity count=1}}
+}}
+
+'''Gogoat''' (Japanese: '''ゴーゴート''' ''Gogoat'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}{{e|Colorless}}
+|name=Razor Leaf
+|jname=はっぱカッター
+|jtrans=Leaf Cutter
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Gogoat
+|species=Mount
+|ndex=0673
+|height=5'7"
+|jheight=1.7
+|weight=200.6
+|jweight=91.0
+|dex=It can sense the feelings of others by touching them with its horns. This species has assisted people with their work since 5,000 years ago.
+|jdex=ツノで　触れると　相手の　気持ちを 感じとれる｡　５０００年前から 人の　仕事を　手伝ってきた｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Crimson Invasion|Gogoat|11}} from the {{TCG|Crimson Invasion}} expansion.
+*{{m|Razor Leaf}} is a [[move]] in the [[Pokémon games]] that {{p|Gogoat}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Chevrumm (Unschlagbare Gene 032)]]
+[[es:Gogoat (Genes Formidables TCG Pocket)]]
+[[fr:Chevroum (Puissance Génétique 032)]]
+[[it:Gogoat (Geni Supremi 32)]]
+[[ja:ゴーゴート (ポケポケ A1)]]
+[[zh:坐骑山羊（A1）]]

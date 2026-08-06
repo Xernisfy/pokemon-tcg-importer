@@ -1,0 +1,63 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sandslash
+|ja name=サンドパン
+|trans name=Sandpan
+|species=Sandslash
+|type=Fighting
+|image=SandslashGeneticApex138.png
+|illustrator=Miki Tanaka
+|hp=100
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Sandshrew
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=138/226|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Sandslash''' (Japanese: '''サンドパン''' ''Sandpan'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Slash
+|jname=きりさく
+|jtrans=Slash
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Sandslash
+|species=Mouse
+|ndex=0028
+|height=3'3"
+|jheight=1
+|weight=65
+|jweight=29.5
+|dex=The drier the area Sandslash lives in, the harder and smoother the Pokémon's spikes will feel when touched.
+|jdex=湿度が　低い　土地で　暮らす サンドパンほど　背中の　棘の 手触りは　硬く　滑らかになる｡
+}}
+
+==Trivia==
+[[Miki Tanaka]] illustrated both a {{TCG ID|Vending|Sandshrew|S2}} card and a {{TCG ID|Skyridge|Sandslash|93}} card for the [[Pokémon Trading Card Game]]; though the cards did not originally release together in the TCG, their illustrations were later included alongside each other in Pokémon Trading Card Game Pocket's {{TCGP|Genetic Apex}} expansion.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Skyridge|Sandslash|93}} from the {{TCG|Skyridge}} expansion.
+*{{m|Slash}} is a [[move]] in the [[Pokémon games]] that {{p|Sandslash}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sandamer (Unschlagbare Gene 138)]]
+[[es:Sandslash (Genes Formidables TCG Pocket)]]
+[[fr:Sablaireau (Puissance Génétique 138)]]
+[[it:Sandslash (Geni Supremi 138)]]
+[[ja:サンドパン (ポケポケ A1)]]
+[[zh:穿山王（A1）]]

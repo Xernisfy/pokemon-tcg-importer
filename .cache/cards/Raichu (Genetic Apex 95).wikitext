@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Raichu
+|ja name=ライチュウ
+|trans name=Raichu
+|species=Raichu
+|type=Lightning
+|image=RaichuGeneticApex95.png
+|illustrator=AKIRA EGAWA
+|hp=100
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Pikachu
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=095/226|pack=Pikachu|rarity=Diamond|rarity count=3}}
+}}
+
+'''Raichu''' (Japanese: '''ライチュウ''' ''Raichu'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}{{e|Lightning}}
+|name=Thunderbolt
+|jname=10まんボルト
+|jtrans=100,000 Volts
+|damage=140
+|effect=Discard all Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Raichu
+|species=Mouse
+|ndex=0026
+|height=2'7"
+|jheight=0.8
+|weight=66.1
+|jweight=30.0
+|dex=Its tail discharges electricity into the ground, protecting it from getting shocked.
+|jdex=尻尾が　アースの　役目をはたして 電気を　地面に　逃がすので 自分自身は　しびれたりしない｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Raichu|67}} from the {{TCG|Cosmic Eclipse}} expansion.
+*{{m|Thunderbolt}} is a [[move]] in the [[Pokémon games]] that {{p|Raichu}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Raichu (Unschlagbare Gene 095)]]
+[[es:Raichu (Genes Formidables TCG Pocket)]]
+[[fr:Raichu (Puissance Génétique 095)]]
+[[it:Raichu (Geni Supremi 95)]]
+[[ja:ライチュウ (ポケポケ A1)]]
+[[zh:雷丘（A1）]]

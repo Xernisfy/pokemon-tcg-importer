@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Machoke
+|ja name=ゴーリキー
+|trans name=Goriky
+|species=Machoke
+|type=Fighting
+|image=MachokeFantasticalParade80.png
+|illustrator=AKIRA EGAWA
+|hp=90
+|weakness=Psychic
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Machop
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=080/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Machoke''' (Japanese: '''ゴーリキー''' ''Goriky'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Chop
+|jname=チョップ
+|jtrans=Chop
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Machoke
+|species=Superpower
+|ndex=0067
+|height=4'11"
+|jheight=1.5
+|weight=155.4
+|jweight=70.5
+|dex=Its formidable body never gets tired. It helps people by doing work such as the moving of heavy goods.
+|jdex=疲れることのない 強靭な 肉体を もつ。 重い 荷物の 運搬などの 仕事を 手伝う。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Champion's Path|Machoke|25}} from the {{TCG|Champion's Path}} expansion.
+*'''Chop''' is an attack that first appeared on {{TCG ID|Gym Challenge|Giovanni's Machop|72}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Maschock (Traumhafte Parade 080)]]
+[[fr:Machopeur (Parade Onirique 080)]]
+[[it:Machoke (Parata Fantasmagorica 80)]]
+[[ja:ゴーリキー (ポケポケ B2)]]
+[[zh:豪力（B2）]]

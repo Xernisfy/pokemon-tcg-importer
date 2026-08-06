@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Barbaracle
+|ja name=ガメノデス
+|trans name=Gamenodes
+|species=Barbaracle
+|type=Fighting
+|image=BarbaracleWisdomofSeaandSky106.png
+|illustrator=Nurikabe
+|hp=120
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Binacle
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=106/161|pack=Lugia|rarity=Diamond|rarity count=2}}
+}}
+
+'''Barbaracle''' (Japanese: '''ガメノデス''' ''Gamenodes'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}{{e|Colorless}}
+|name=Dynamic Chop
+|jname=ばくれつチョップ
+|jtrans=Explosive Chop
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Barbaracle
+|category=Collective 
+|ndex=0689
+|height=4'3"
+|jheight=1.3
+|weight=211.6
+|jweight=96.0
+|dex=Seven Binacle come together to form one Barbaracle. The Binacle that serves as the head gives orders to those serving as the limbs.
+|jdex=７匹の カメテテが １匹分の 体を つくっている。 頭が 手足に 命令する 仕組み。
+}}
+
+==Trivia==
+===Origin===
+*'''Dynamic Chop''' is an attack that first appeared on {{TCG ID|Guardians Rising|Machop|63}} from the {{TCG|Guardians Rising}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Thanathora (Weisheit von Meer und Himmel 106)]]
+[[es:Barbaracle (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Golgopathe (Sagesse entre Ciel et Mer 106)]]
+[[it:Barbaracle (La Via del Cielo e del Mare 106)]]
+[[ja:ガメノデス (ポケポケ A4)]]
+[[zh:龟足巨铠（A4）]]

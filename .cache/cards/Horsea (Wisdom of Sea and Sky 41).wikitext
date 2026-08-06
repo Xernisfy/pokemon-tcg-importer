@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Horsea
+|ja name=タッツー
+|trans name=Tattu
+|species=Horsea
+|type=Water
+|image=HorseaWisdomofSeaandSky41.png
+|illustrator=Yukiko Baba
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HorseaWisdomofSeaandSky41.png|illustrator=Yukiko Baba|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HorseaDeluxePackex89.png|illustrator=Yukiko Baba|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HorseaFantasticalParade208.png|illustrator=Taiga Kasai|tab caption=Shiny Rare}}
+|hp=50
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=041/161|pack=Lugia|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=088/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=089/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=208/155|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Horsea''' (Japanese: '''タッツー''' ''Tattu'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Hook
+|jname=ひっかける
+|jtrans=Hook
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Horsea
+|species=Dragon
+|ndex=0116
+|height=1'4"
+|jheight=0.4
+|weight=17.6
+|jweight=8.0
+|dex=Horsea makes its home in oceans with gentle currents. If this Pokémon is under attack, it spits out pitch-black ink and escapes.
+|jdex=潮の　流れが　穏やかな　海に　棲む｡ 襲われると　真っ黒な　墨を吐いて その隙に　逃げだす｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=HorseaWisdomofSeaandSky41.png
+|caption1=Standard card<br>Illus. [[Yukiko Baba]]
+|image2=HorseaDeluxePackex89.png
+|caption2=Parallel foil card<br>Illus. [[Yukiko Baba]]
+|image3=HorseaFantasticalParade208.png
+|caption3=Shiny rare card<br>Illus. [[Taiga Kasai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Dragon Majesty|Horsea|15}} from the {{TCG|Dragon Majesty}} expansion.
+*'''Hook''' is an attack that first appeared on {{TCG ID|EX Dragon|Magnemite|61}} from the {{TCG|EX Dragon}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+*This card's {{TCGP|Fantastical Parade}} print features a {{Shiny}} {{p|Horsea}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Seeper (Weisheit von Meer und Himmel 041)]]
+[[es:Horsea (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Hypotrempe (Sagesse entre Ciel et Mer 041)]]
+[[it:Horsea (La Via del Cielo e del Mare 41)]]
+[[ja:タッツー (ポケポケ A4)]]
+[[zh:墨海马（A4）]]

@@ -1,0 +1,86 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Garchomp {{TCGP Icon|ex}}
+|ja name=ガブリアス{{TCGP Icon|ex}}
+|trans name=Gaburias {{TCGP Icon|ex}}
+|species=Garchomp
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GarchompexTriumphantLight47.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GarchompexTriumphantLight84.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GarchompexTriumphantLight93.png|illustrator=toriyufu|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GarchompexSecludedSprings103.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=170
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Gabite
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=047/075|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=084/075|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=093/075|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=103/071|pack=Any|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=209/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Garchomp ex''' (Japanese: '''ガブリアスex''' ''Gaburias ex'') is a {{ct|Fighting}} Stage 2 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Linear Attack
+|jname=ちょくげきだん
+|jtrans=Direct Hit
+|damage=
+|effect=This attack does 50 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Dragon Claw
+|jname=ドラゴンクロー
+|jtrans=Dragon Claw
+|damage=100
+|effect=
+}}
+{{Cardtext/Pocket ex
+|type=Fighting
+|ndex=0445
+|name=Garchomp
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=GarchompexTriumphantLight47.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=GarchompexTriumphantLight84.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image4=GarchompexTriumphantLight93.png
+|caption4=Special illustration rare card<br>Illus. [[toriyufu]]
+|image5=GarchompexSecludedSprings103.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+The special illustration rare card features {{p|Garchomp}} and {{p|Arceus}}.
+
+===Origin===
+*This card's shiny rare illustration features a {{Shiny}} {{p|Garchomp}}.
+*'''Linear Attack''' is an attack that first appeared on {{TCG ID|EX Team Magma vs Team Aqua|Team Magma's Groudon|9}} from the {{TCG|EX Team Magma vs Team Aqua}} expansion.
+*{{m|Dragon Claw}} is a [[move]] in the [[Pokémon games]] that {{p|Garchomp}} can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knakrack-ex (Licht des Triumphs 047)]]
+[[es:Garchomp ex (Luz Triunfal TCG Pocket)]]
+[[fr:Carchacrok-ex (Lumière Triomphale 047)]]
+[[it:Garchomp-ex (Luce Trionfale 47)]]
+[[ja:ガブリアスex (ポケポケ A2a)]]
+[[zh:烈咬陆鲨ex（A2a）]]

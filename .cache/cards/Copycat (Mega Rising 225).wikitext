@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Copycat
+|ja name=モノマネむすめ
+|trans name=Mimic Girl
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CopycatMegaRising225.png|illustrator=Yuu Nishida|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CopycatMegaRising270.png|illustrator=Yuu Nishida|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Diamond|rarity count=2|number=225/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Star|rarity count=2|number=270/226}}
+}}
+
+'''Copycat''' (Japanese: '''モノマネむすめ''' ''Mimic Girl'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Shuffle your hand into your deck. Draw a card for each card in your opponent's hand.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=CopycatMegaRising225.png
+|caption1=Uncommon card<br>Illus. [[Yuu Nishida]]
+|image2=CopycatMegaRising270.png
+|caption2=Super rare card<br>Illus. [[Yuu Nishida]]
+}}
+
+==Trivia==
+* This card's effect is the same as that of {{TCG|Copycat}} in the [[Pokémon Trading Card Game]].
+
+===Origin===
+* {{OBP|Copycat|character}} is a NPC in {{game|Red and Blue|s|Pokémon Red, Blue}}, {{v2|Yellow}}, {{game3|Gold and Silver|Gold, Silver|s}}, {{v2|Crystal}}, {{game3|FireRed and LeafGreen|FireRed, LeafGreen|s}}, {{game3|HeartGold and SoulSilver|HeartGold, SoulSilver|s}}, and {{LGPE|Let's Go, Pikachu!, Let's Go, Eevee!}}.
+** This card depicts Copycat dressed as {{ga|Ethan}}, [[Fantina]], [[Hala]], and [[Lisia]].
+
+==In other languages==
+{{Langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=モノマネむすめ ''Monomane Musume''
+|zh_yue=模仿少女 ''Mòuhfóng Siunéuih''
+|zh_cmn=模仿少女 ''Mófǎng Shàonǚ''
+|fr=Copieuse
+|de=Nachahmerin
+|it=Copiona
+|ko=흉내내기 아가씨 ''Hyungnaenaegi Agassi''
+|pt_br=Imitadora
+|es=Copiona
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Nachahmerin (TCG Pocket)]]
+[[es:Copiona (TCG Pocket)]]
+[[fr:Copieuse (Méga-Ascension 225)]]
+[[it:Copiona (Mega Ascesa 225)]]
+[[ja:モノマネむすめ (ポケポケ)]]
+[[zh:模仿少女（TCGP）]]

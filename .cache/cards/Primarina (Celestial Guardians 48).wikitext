@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Primarina
+|ja name=アシレーヌ
+|trans name=Ashirene
+|species=Primarina
+|type=Water
+|image=PrimarinaCelestialGuardians48.png
+|illustrator=Kagemaru Himeno
+|hp=140
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Brionne
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=048/155|pack=Lunala|rarity=Diamond|rarity count=3}}
+}}
+
+'''Primarina''' (Japanese: '''アシレーヌ''' ''Ashirene'') is a {{ct|Water}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Melodious Healing
+|jname=ヒールメロディ
+|jtrans=Heal Melody
+|effect=Once during your turn, you may heal 30 damage from each of your {{e|Water}} Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Surf
+|jname=なみのり
+|jtrans=Surfing
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Primarina
+|species=Soloist
+|ndex=0730
+|height=5'11"
+|jheight=1.8
+|weight=97
+|jweight=44.0
+|dex=To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.
+|jdex=アシレーヌに とって 戦いは ステージ。 華麗に 歌って 舞い踊り 獲物を 仕留める。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Primarina|41}} from the {{TCG|Sun & Moon}} expansion.
+*{{m|Surf}} is a [[move]] in the [[Pokémon games]] that {{p|Primarina}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Primarene (Hüter des Firmaments 048)]]
+[[es:Primarina (Guardianes Celestiales TCG Pocket)]]
+[[fr:Oratoria (Gardiens Astraux 048)]]
+[[it:Primarina (Guardiani Astrali 48)]]
+[[ja:アシレーヌ (ポケポケ A3)]]
+[[zh:西狮海壬（A3）]]

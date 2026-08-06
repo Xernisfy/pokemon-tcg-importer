@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dugtrio
+|ja name=ダグトリオ
+|trans name=Dugtrio
+|species=Dugtrio
+|type=Fighting
+|image=DugtrioMegaShine34.png
+|illustrator=Kyoko Umemoto
+|hp=80
+|weakness=Grass
+|retreat cost=0
+|evo stage=Stage 1
+|prevo name=Diglett
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=034/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Dugtrio''' (Japanese: '''ダグトリオ''' ''Dugtrio'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}
+|name=Mud Bomb
+|jname=どろばくだん
+|jtrans=Mud Bomb
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Dugtrio
+|category=Mole
+|ndex=0051
+|height=2'4"
+|jheight=0.7
+|weight=73.4
+|jweight=33.3
+|dex=In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.
+|jdex=地中を　掘りすすんで 相手が　油断しているところを 別の　場所から　攻撃する｡
+}}
+
+==Trivia==
+[[Kyoko Umemoto]] illustrated both a {{TCG ID|EX Crystal Guardians|Diglett|50}} card and a {{TCG ID|Sword & Shield|Dugtrio|93}} card for the [[Pokémon Trading Card Game]]; though the cards did not originally release together in the TCG—being released in 2006 and 2020 respectively—their illustrations were later included alongside each other in Pokémon Trading Card Game Pocket's {{TCGP|Mega Shine}} expansion. This card's illustration references the Diglett from {{TCG ID|Mega Shine|Diglett|33}}'s illustration in its background.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sword & Shield|Dugtrio|93}} from the {{TCG|Sword & Shield}} expansion.
+**Both cards have the {{m|Mud Bomb}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Dugtrio}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Digdri (Mega-Schillern 034)]]
+[[fr:Triopikeur (Méga-Rayonnement 034)]]
+[[it:Dugtrio (Mega Splendore 34)]]
+[[ja:ダグトリオ (ポケポケ B2b)]]
+[[zh:三地鼠（B2b）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ducklett
+|ja name=コアルヒー
+|trans name=Koaruhie
+|species=Ducklett
+|type=Water
+|image=DucklettWisdomofSeaandSky62.png
+|illustrator=MAHOU
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=062/161|pack=Ho-Oh|rarity=Diamond|rarity count=1}}
+}}
+
+'''Ducklett''' (Japanese: '''コアルヒー''' ''Koaruhie'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Colorless}}
+|name=Rain Splash
+|jname=みずかけ
+|jtrans=Water Splash
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Ducklett
+|species=Water Bird
+|ndex=0580
+|height=1'8"
+|jheight=0.5
+|weight=12.1
+|jweight=5.5
+|dex=When attacked, it uses its feathers to splash water, escaping under cover of the spray.
+|jdex=敵に　襲われると　全身の　羽毛から 水しぶきを　出す｡ 水煙に　紛れて　逃げるのだ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Emerging Powers|Ducklett|26}} from the {{TCG|Emerging Powers}} expansion.
+*'''Rain Splash''' is an attack that first appeared on {{TCG ID|EX Deoxys|Lotad|63}} from the {{TCG|EX Deoxys}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Piccolente (Weisheit von Meer und Himmel 062)]]
+[[es:Ducklett (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Couaneton (Sagesse entre Ciel et Mer 062)]]
+[[it:Ducklett (La Via del Cielo e del Mare 62)]]
+[[ja:コアルヒー (ポケポケ A4)]]
+[[zh:鸭宝宝（A4）]]

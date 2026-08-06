@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Growlithe
+|ja name=ガーディ
+|trans name=Gardie
+|species=Growlithe
+|type=Fire
+|image=GrowlitheCelestialGuardians25.png
+|illustrator=Naoyo Kimura
+|hp=70
+|weakness=Water
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=025/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Growlithe''' (Japanese: '''ガーディ''' ''Gardie'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}
+|name=Combustion
+|jname=かえん
+|jtrans=Blaze
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Growlithe
+|species=Puppy
+|ndex=0058
+|height=2'4"
+|jheight=0.7
+|weight=41.9
+|jweight=19.0
+|dex=It has a brave and trustworthy nature. It fearlessly stands up to bigger and stronger foes.
+|jdex=自分より 強くて 大きな 相手にも 恐れずに 立ち向かう 勇敢で 頼もしい 性格。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rising Rivals|Growlithe|63}} from the {{TCG|Rising Rivals}} expansion.
+*'''Combustion''' is an attack that first appeared on {{TCG ID|Neo Destiny|Slugma|82}} from {{TCG|Neo Destiny}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Fukano (Hüter des Firmaments 025)]]
+[[es:Growlithe (Guardianes Celestiales TCG Pocket)]]
+[[fr:Caninos (Gardiens Astraux 025)]]
+[[it:Growlithe (Guardiani Astrali 25)]]
+[[ja:ガーディ (ポケポケ A3)]]
+[[zh:卡蒂狗（A3）]]

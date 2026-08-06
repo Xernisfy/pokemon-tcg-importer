@@ -1,0 +1,1061 @@
+{{TCGPocketExpansionPrevNext | prev = Secluded Springs | next = Mega Rising }}
+{{TCGPocketExpansionInfobox
+|setname=Deluxe Pack: ex
+|jasetname=ハイクラスパックex
+|jasettrans=High Class Pack ex
+|setsymbol=yes
+|alt=Deluxe Pack ex
+|setlogo=A4b Set Logo EN.png
+|release=September 30, 2025
+|cards=379 (353 + 26 secret cards)
+|collections=31 (25 + 6 secret)
+|dex missions=10 (9 + 1 secret)
+|deck missions=28
+|decks=14
+|battles=
+}}
+'''Deluxe Pack: ex''' (Japanese: '''{{j|ハイクラスパックex}}''' ''High Class Pack ex'') is the first deluxe pack, and eleventh expansion overall, in [[Pokémon Trading Card Game Pocket]].
+
+== Information ==
+'''Deluxe Pack: ex''' is the first deluxe pack released through [[Pokémon Trading Card Game Pocket]]. Similar to High Class Packs in the {{Trading Card Game}}, it primarily features cards from previous expansions, including every {{Rar/TCGP|Diamond|4}} {{TCGP|Pokémon ex}} released in booster packs from {{TCGP|Genetic Apex}} through {{TCGP|Wisdom of Sea and Sky}}. Deluxe Pack: ex also introduced parallel foil cards to TCG Pocket.
+
+Unlike previous expansions, booster packs of Deluxe Pack: ex only contain four cards instead of five. However, each pack is guaranteed to include at least one card of {{Rar/TCGP|Diamond|4}} rarity or higher. In [[Wonder Pick]], two Pack Hourglasses are the fifth option instead of a card.
+
+Deluxe Pack: ex was first available between Sept. 29, 2025, at 11 p.m. PDT and Oct. 29, 2025, at 10:59 p.m. PDT, and later returned between Jan. 14, 2026, at 11 p.m. PDT and Jan. 29, 2026, at 10:59 p.m. PDT. Booster packs from the expansion will be made available again in the future.
+
+== Card list ==
+{{TCG Set List/header|tablecol={{Gold color}}|bordercol={{Gold color dark}}|cellcol={{Gold color light}}}}
+|-
+| 001/353 || {{TCG ID|Deluxe Pack: ex|Bulbasaur|1}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 002/353 || {{TCG ID|Deluxe Pack: ex|Bulbasaur|2}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 003/353 || {{TCG ID|Deluxe Pack: ex|Ivysaur|3}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 004/353 || {{TCG ID|Deluxe Pack: ex|Ivysaur|4}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 005/353 || {{TCG ID|Deluxe Pack: ex|Venusaur ex|5|Venusaur}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 006/353 || {{TCG ID|Deluxe Pack: ex|Weedle|6}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 007/353 || {{TCG ID|Deluxe Pack: ex|Weedle|7}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 008/353 || {{TCG ID|Deluxe Pack: ex|Kakuna|8}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 009/353 || {{TCG ID|Deluxe Pack: ex|Kakuna|9}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 010/353 || {{TCG ID|Deluxe Pack: ex|Beedrill ex|10|Beedrill}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 011/353 || {{TCG ID|Deluxe Pack: ex|Exeggcute|11}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 012/353 || {{TCG ID|Deluxe Pack: ex|Exeggcute|12}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 013/353 || {{TCG ID|Deluxe Pack: ex|Exeggutor ex|13|Exeggutor}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 014/353 || {{TCG ID|Deluxe Pack: ex|Hoppip|14}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 015/353 || {{TCG ID|Deluxe Pack: ex|Hoppip|15}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 016/353 || {{TCG ID|Deluxe Pack: ex|Skiploom|16}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 017/353 || {{TCG ID|Deluxe Pack: ex|Skiploom|17}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 018/353 || {{TCG ID|Deluxe Pack: ex|Jumpluff|18}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 019/353 || {{TCG ID|Deluxe Pack: ex|Jumpluff|19}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 020/353 || {{TCG ID|Deluxe Pack: ex|Yanma|20}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 021/353 || {{TCG ID|Deluxe Pack: ex|Yanma|21}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 022/353 || {{TCG ID|Deluxe Pack: ex|Yanmega ex|22|Yanmega}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 023/353 || {{TCG ID|Deluxe Pack: ex|Shuckle ex|23|Shuckle}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 024/353 || {{TCG ID|Deluxe Pack: ex|Celebi ex|24|Celebi}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 025/353 || {{TCG ID|Deluxe Pack: ex|Cherubi|25}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 026/353 || {{TCG ID|Deluxe Pack: ex|Cherubi|26}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 027/353 || {{TCG ID|Deluxe Pack: ex|Cherrim|27}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 028/353 || {{TCG ID|Deluxe Pack: ex|Cherrim|28}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 029/353 || {{TCG ID|Deluxe Pack: ex|Leafeon ex|29|Leafeon}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 030/353 || {{TCG ID|Deluxe Pack: ex|Shaymin|30}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 031/353 || {{TCG ID|Deluxe Pack: ex|Shaymin|31}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 032/353 || {{TCG ID|Deluxe Pack: ex|Snivy|32}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 033/353 || {{TCG ID|Deluxe Pack: ex|Snivy|33}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 034/353 || {{TCG ID|Deluxe Pack: ex|Servine|34}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 035/353 || {{TCG ID|Deluxe Pack: ex|Servine|35}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 036/353 || {{TCG ID|Deluxe Pack: ex|Serperior|36}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 037/353 || {{TCG ID|Deluxe Pack: ex|Serperior|37}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 038/353 || {{TCG ID|Deluxe Pack: ex|Rowlet|38}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 039/353 || {{TCG ID|Deluxe Pack: ex|Rowlet|39}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 040/353 || {{TCG ID|Deluxe Pack: ex|Dartrix|40}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 041/353 || {{TCG ID|Deluxe Pack: ex|Dartrix|41}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 042/353 || {{TCG ID|Deluxe Pack: ex|Decidueye ex|42|Decidueye}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 043/353 || {{TCG ID|Deluxe Pack: ex|Dhelmise ex|43|Dhelmise}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 044/353 || {{TCG ID|Deluxe Pack: ex|Buzzwole ex|44|Buzzwole}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 045/353 || {{TCG ID|Deluxe Pack: ex|Pheromosa|45}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 046/353 || {{TCG ID|Deluxe Pack: ex|Pheromosa|46}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 047/353 || {{TCG ID|Deluxe Pack: ex|Kartana|47}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 048/353 || {{TCG ID|Deluxe Pack: ex|Kartana|48}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 049/353 || {{TCG ID|Deluxe Pack: ex|Sprigatito|49}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 050/353 || {{TCG ID|Deluxe Pack: ex|Sprigatito|50}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 051/353 || {{TCG ID|Deluxe Pack: ex|Floragato|51}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 052/353 || {{TCG ID|Deluxe Pack: ex|Floragato|52}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 053/353 || {{TCG ID|Deluxe Pack: ex|Meowscarada|53}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 054/353 || {{TCG ID|Deluxe Pack: ex|Meowscarada|54}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 055/353 || {{TCG ID|Deluxe Pack: ex|Charmander|55}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 056/353 || {{TCG ID|Deluxe Pack: ex|Charmander|56}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 057/353 || {{TCG ID|Deluxe Pack: ex|Charmeleon|57}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 058/353 || {{TCG ID|Deluxe Pack: ex|Charmeleon|58}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 059/353 || {{TCG ID|Deluxe Pack: ex|Charizard ex|59|Charizard}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 060/353 || {{TCG ID|Deluxe Pack: ex|Charizard ex|60|Charizard}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 061/353 || {{TCG ID|Deluxe Pack: ex|Growlithe|61}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 062/353 || {{TCG ID|Deluxe Pack: ex|Growlithe|62}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 063/353 || {{TCG ID|Deluxe Pack: ex|Arcanine ex|63|Arcanine}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 064/353 || {{TCG ID|Deluxe Pack: ex|Flareon|64}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 065/353 || {{TCG ID|Deluxe Pack: ex|Flareon|65}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 066/353 || {{TCG ID|Deluxe Pack: ex|Flareon ex|66|Flareon}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 067/353 || {{TCG ID|Deluxe Pack: ex|Moltres ex|67|Moltres}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 068/353 || {{TCG ID|Deluxe Pack: ex|Ho-Oh ex|68|Ho-Oh}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 069/353 || {{TCG ID|Deluxe Pack: ex|Torkoal|69}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 070/353 || {{TCG ID|Deluxe Pack: ex|Torkoal|70}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 071/353 || {{TCG ID|Deluxe Pack: ex|Chimchar|71}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 072/353 || {{TCG ID|Deluxe Pack: ex|Chimchar|72}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 073/353 || {{TCG ID|Deluxe Pack: ex|Monferno|73}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 074/353 || {{TCG ID|Deluxe Pack: ex|Monferno|74}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 075/353 || {{TCG ID|Deluxe Pack: ex|Infernape ex|75|Infernape}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 076/353 || {{TCG ID|Deluxe Pack: ex|Heatran|76}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 077/353 || {{TCG ID|Deluxe Pack: ex|Heatran|77}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 078/353 || {{TCG ID|Deluxe Pack: ex|Litten|78}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 079/353 || {{TCG ID|Deluxe Pack: ex|Litten|79}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 080/353 || {{TCG ID|Deluxe Pack: ex|Torracat|80}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 081/353 || {{TCG ID|Deluxe Pack: ex|Torracat|81}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 082/353 || {{TCG ID|Deluxe Pack: ex|Incineroar ex|82|Incineroar}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 083/353 || {{TCG ID|Deluxe Pack: ex|Squirtle|83}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 084/353 || {{TCG ID|Deluxe Pack: ex|Squirtle|84}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 085/353 || {{TCG ID|Deluxe Pack: ex|Wartortle|85}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 086/353 || {{TCG ID|Deluxe Pack: ex|Wartortle|86}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 087/353 || {{TCG ID|Deluxe Pack: ex|Blastoise ex|87|Blastoise}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 088/353 || {{TCG ID|Deluxe Pack: ex|Horsea|88}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 089/353 || {{TCG ID|Deluxe Pack: ex|Horsea|89}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 090/353 || {{TCG ID|Deluxe Pack: ex|Seadra|90}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 091/353 || {{TCG ID|Deluxe Pack: ex|Seadra|91}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 092/353 || {{TCG ID|Deluxe Pack: ex|Kingdra ex|92|Kingdra}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 093/353 || {{TCG ID|Deluxe Pack: ex|Staryu|93}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 094/353 || {{TCG ID|Deluxe Pack: ex|Staryu|94}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 095/353 || {{TCG ID|Deluxe Pack: ex|Starmie ex|95|Starmie}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 096/353 || {{TCG ID|Deluxe Pack: ex|Magikarp|96}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 097/353 || {{TCG ID|Deluxe Pack: ex|Magikarp|97}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 098/353 || {{TCG ID|Deluxe Pack: ex|Gyarados ex|98|Gyarados}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 099/353 || {{TCG ID|Deluxe Pack: ex|Vaporeon|99}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 100/353 || {{TCG ID|Deluxe Pack: ex|Vaporeon|100}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 101/353 || {{TCG ID|Deluxe Pack: ex|Articuno ex|101|Articuno}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 102/353 || {{TCG ID|Deluxe Pack: ex|Corphish|102}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 103/353 || {{TCG ID|Deluxe Pack: ex|Corphish|103}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 104/353 || {{TCG ID|Deluxe Pack: ex|Crawdaunt|104}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 105/353 || {{TCG ID|Deluxe Pack: ex|Crawdaunt|105}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 106/353 || {{TCG ID|Deluxe Pack: ex|Glaceon ex|106|Glaceon}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 107/353 || {{TCG ID|Deluxe Pack: ex|Palkia ex|107|Palkia}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 108/353 || {{TCG ID|Deluxe Pack: ex|Manaphy|108}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 109/353 || {{TCG ID|Deluxe Pack: ex|Manaphy|109}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 110/353 || {{TCG ID|Deluxe Pack: ex|Froakie|110}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 111/353 || {{TCG ID|Deluxe Pack: ex|Froakie|111}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 112/353 || {{TCG ID|Deluxe Pack: ex|Frogadier|112}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 113/353 || {{TCG ID|Deluxe Pack: ex|Frogadier|113}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 114/353 || {{TCG ID|Deluxe Pack: ex|Greninja|114}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 115/353 || {{TCG ID|Deluxe Pack: ex|Greninja|115}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 116/353 || {{TCG ID|Deluxe Pack: ex|Popplio|116}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 117/353 || {{TCG ID|Deluxe Pack: ex|Popplio|117}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 118/353 || {{TCG ID|Deluxe Pack: ex|Brionne|118}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 119/353 || {{TCG ID|Deluxe Pack: ex|Brionne|119}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 120/353 || {{TCG ID|Deluxe Pack: ex|Primarina ex|120|Primarina}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 121/353 || {{TCG ID|Deluxe Pack: ex|Crabominable ex|121|Crabominable}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 122/353 || {{TCG ID|Deluxe Pack: ex|Wishiwashi|122}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 123/353 || {{TCG ID|Deluxe Pack: ex|Wishiwashi|123}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 124/353 || {{TCG ID|Deluxe Pack: ex|Wishiwashi ex|124|Wishiwashi}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 125/353 || {{TCG ID|Deluxe Pack: ex|Wiglett|125}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 126/353 || {{TCG ID|Deluxe Pack: ex|Wiglett|126}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 127/353 || {{TCG ID|Deluxe Pack: ex|Wugtrio ex|127|Wugtrio}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 128/353 || {{TCG ID|Deluxe Pack: ex|Pikachu|128}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 129/353 || {{TCG ID|Deluxe Pack: ex|Pikachu|129}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 130/353 || {{TCG ID|Deluxe Pack: ex|Alolan Raichu ex|130|Alolan Raichu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 131/353 || {{TCG ID|Deluxe Pack: ex|Pikachu ex|131|Pikachu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 132/353 || {{TCG ID|Deluxe Pack: ex|Pikachu ex|132|Pikachu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 133/353 || {{TCG ID|Deluxe Pack: ex|Magnemite|133}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 134/353 || {{TCG ID|Deluxe Pack: ex|Magnemite|134}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 135/353 || {{TCG ID|Deluxe Pack: ex|Magneton|135}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 136/353 || {{TCG ID|Deluxe Pack: ex|Magneton|136}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 137/353 || {{TCG ID|Deluxe Pack: ex|Magnezone|137}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 138/353 || {{TCG ID|Deluxe Pack: ex|Magnezone|138}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 139/353 || {{TCG ID|Deluxe Pack: ex|Zapdos ex|139|Zapdos}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 140/353 || {{TCG ID|Deluxe Pack: ex|Chinchou|140}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 141/353 || {{TCG ID|Deluxe Pack: ex|Chinchou|141}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 142/353 || {{TCG ID|Deluxe Pack: ex|Lanturn ex|142|Lanturn}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 143/353 || {{TCG ID|Deluxe Pack: ex|Pachirisu|143}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 144/353 || {{TCG ID|Deluxe Pack: ex|Pachirisu|144}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 145/353 || {{TCG ID|Deluxe Pack: ex|Pachirisu ex|145|Pachirisu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 146/353 || {{TCG ID|Deluxe Pack: ex|Oricorio|146}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 147/353 || {{TCG ID|Deluxe Pack: ex|Oricorio|147}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 148/353 || {{TCG ID|Deluxe Pack: ex|Tapu Koko ex|148|Tapu Koko}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 149/353 || {{TCG ID|Deluxe Pack: ex|Zeraora|149}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 150/353 || {{TCG ID|Deluxe Pack: ex|Zeraora|150}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 151/353 || {{TCG ID|Deluxe Pack: ex|Gastly|151}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 152/353 || {{TCG ID|Deluxe Pack: ex|Gastly|152}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 153/353 || {{TCG ID|Deluxe Pack: ex|Haunter|153}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 154/353 || {{TCG ID|Deluxe Pack: ex|Haunter|154}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 155/353 || {{TCG ID|Deluxe Pack: ex|Gengar ex|155|Gengar}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 156/353 || {{TCG ID|Deluxe Pack: ex|Jynx|156}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 157/353 || {{TCG ID|Deluxe Pack: ex|Jynx|157}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 158/353 || {{TCG ID|Deluxe Pack: ex|Mewtwo ex|158|Mewtwo}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 159/353 || {{TCG ID|Deluxe Pack: ex|Mew ex|159|Mew}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 160/353 || {{TCG ID|Deluxe Pack: ex|Espeon ex|160|Espeon}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 161/353 || {{TCG ID|Deluxe Pack: ex|Misdreavus|161}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 162/353 || {{TCG ID|Deluxe Pack: ex|Misdreavus|162}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 163/353 || {{TCG ID|Deluxe Pack: ex|Mismagius ex|163|Mismagius}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 164/353 || {{TCG ID|Deluxe Pack: ex|Ralts|164}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 165/353 || {{TCG ID|Deluxe Pack: ex|Ralts|165}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 166/353 || {{TCG ID|Deluxe Pack: ex|Kirlia|166}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 167/353 || {{TCG ID|Deluxe Pack: ex|Kirlia|167}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 168/353 || {{TCG ID|Deluxe Pack: ex|Gardevoir|168}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 169/353 || {{TCG ID|Deluxe Pack: ex|Gardevoir|169}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 170/353 || {{TCG ID|Deluxe Pack: ex|Giratina|170}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 171/353 || {{TCG ID|Deluxe Pack: ex|Giratina|171}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 172/353 || {{TCG ID|Deluxe Pack: ex|Giratina ex|172|Giratina}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 173/353 || {{TCG ID|Deluxe Pack: ex|Swirlix|173}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 174/353 || {{TCG ID|Deluxe Pack: ex|Swirlix|174}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 175/353 || {{TCG ID|Deluxe Pack: ex|Slurpuff|175}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 176/353 || {{TCG ID|Deluxe Pack: ex|Slurpuff|176}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 177/353 || {{TCG ID|Deluxe Pack: ex|Sylveon ex|177|Sylveon}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 178/353 || {{TCG ID|Deluxe Pack: ex|Oricorio|178}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 179/353 || {{TCG ID|Deluxe Pack: ex|Oricorio|179}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 180/353 || {{TCG ID|Deluxe Pack: ex|Cosmog|180}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 181/353 || {{TCG ID|Deluxe Pack: ex|Cosmog|181}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 182/353 || {{TCG ID|Deluxe Pack: ex|Cosmoem|182}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 183/353 || {{TCG ID|Deluxe Pack: ex|Cosmoem|183}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 184/353 || {{TCG ID|Deluxe Pack: ex|Lunala ex|184|Lunala}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 185/353 || {{TCG ID|Deluxe Pack: ex|Milcery|185}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 186/353 || {{TCG ID|Deluxe Pack: ex|Milcery|186}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 187/353 || {{TCG ID|Deluxe Pack: ex|Alcremie|187}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 188/353 || {{TCG ID|Deluxe Pack: ex|Alcremie|188}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 189/353 || {{TCG ID|Deluxe Pack: ex|Machop|189}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 190/353 || {{TCG ID|Deluxe Pack: ex|Machop|190}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 191/353 || {{TCG ID|Deluxe Pack: ex|Machoke|191}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 192/353 || {{TCG ID|Deluxe Pack: ex|Machoke|192}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 193/353 || {{TCG ID|Deluxe Pack: ex|Machamp ex|193|Machamp}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 194/353 || {{TCG ID|Deluxe Pack: ex|Cubone|194}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 195/353 || {{TCG ID|Deluxe Pack: ex|Cubone|195}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 196/353 || {{TCG ID|Deluxe Pack: ex|Marowak ex|196|Marowak}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 197/353 || {{TCG ID|Deluxe Pack: ex|Aerodactyl ex|197|Aerodactyl}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 198/353 || {{TCG ID|Deluxe Pack: ex|Sudowoodo|198}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 199/353 || {{TCG ID|Deluxe Pack: ex|Sudowoodo|199}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 200/353 || {{TCG ID|Deluxe Pack: ex|Phanpy|200}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 201/353 || {{TCG ID|Deluxe Pack: ex|Phanpy|201}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 202/353 || {{TCG ID|Deluxe Pack: ex|Donphan ex|202|Donphan}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 203/353 || {{TCG ID|Deluxe Pack: ex|Nosepass|203}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 204/353 || {{TCG ID|Deluxe Pack: ex|Nosepass|204}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 205/353 || {{TCG ID|Deluxe Pack: ex|Gible|205}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 206/353 || {{TCG ID|Deluxe Pack: ex|Gible|206}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 207/353 || {{TCG ID|Deluxe Pack: ex|Gabite|207}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 208/353 || {{TCG ID|Deluxe Pack: ex|Gabite|208}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 209/353 || {{TCG ID|Deluxe Pack: ex|Garchomp ex|209|Garchomp}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 210/353 || {{TCG ID|Deluxe Pack: ex|Riolu|210}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 211/353 || {{TCG ID|Deluxe Pack: ex|Riolu|211}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 212/353 || {{TCG ID|Deluxe Pack: ex|Lucario|212}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 213/353 || {{TCG ID|Deluxe Pack: ex|Lucario|213}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 214/353 || {{TCG ID|Deluxe Pack: ex|Lucario ex|214|Lucario}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 215/353 || {{TCG ID|Deluxe Pack: ex|Gallade ex|215|Gallade}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 216/353 || {{TCG ID|Deluxe Pack: ex|Drilbur|216}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 217/353 || {{TCG ID|Deluxe Pack: ex|Drilbur|217}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 218/353 || {{TCG ID|Deluxe Pack: ex|Crabrawler|218}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 219/353 || {{TCG ID|Deluxe Pack: ex|Crabrawler|219}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 220/353 || {{TCG ID|Deluxe Pack: ex|Rockruff|220}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 221/353 || {{TCG ID|Deluxe Pack: ex|Rockruff|221}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 222/353 || {{TCG ID|Deluxe Pack: ex|Lycanroc ex|222|Lycanroc}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 223/353 || {{TCG ID|Deluxe Pack: ex|Passimian ex|223|Passimian}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 224/353 || {{TCG ID|Deluxe Pack: ex|Marshadow|224}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 225/353 || {{TCG ID|Deluxe Pack: ex|Marshadow|225}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 226/353 || {{TCG ID|Deluxe Pack: ex|Zubat|226}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 227/353 || {{TCG ID|Deluxe Pack: ex|Zubat|227}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 228/353 || {{TCG ID|Deluxe Pack: ex|Golbat|228}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 229/353 || {{TCG ID|Deluxe Pack: ex|Golbat|229}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 230/353 || {{TCG ID|Deluxe Pack: ex|Crobat|230}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 231/353 || {{TCG ID|Deluxe Pack: ex|Crobat|231}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 232/353 || {{TCG ID|Deluxe Pack: ex|Crobat ex|232|Crobat}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 233/353 || {{TCG ID|Deluxe Pack: ex|Alolan Grimer|233}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 234/353 || {{TCG ID|Deluxe Pack: ex|Alolan Grimer|234}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 235/353 || {{TCG ID|Deluxe Pack: ex|Alolan Muk ex|235|Alolan Muk}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 236/353 || {{TCG ID|Deluxe Pack: ex|Paldean Wooper|236}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 237/353 || {{TCG ID|Deluxe Pack: ex|Paldean Wooper|237}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 238/353 || {{TCG ID|Deluxe Pack: ex|Paldean Clodsire ex|238|Paldean Clodsire}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 239/353 || {{TCG ID|Deluxe Pack: ex|Umbreon|239}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 240/353 || {{TCG ID|Deluxe Pack: ex|Umbreon|240}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 241/353 || {{TCG ID|Deluxe Pack: ex|Umbreon ex|241|Umbreon}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 242/353 || {{TCG ID|Deluxe Pack: ex|Sneasel|242}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 243/353 || {{TCG ID|Deluxe Pack: ex|Sneasel|243}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 244/353 || {{TCG ID|Deluxe Pack: ex|Weavile ex|244|Weavile}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 245/353 || {{TCG ID|Deluxe Pack: ex|Darkrai ex|245|Darkrai}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 246/353 || {{TCG ID|Deluxe Pack: ex|Nihilego|246}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 247/353 || {{TCG ID|Deluxe Pack: ex|Nihilego|247}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 248/353 || {{TCG ID|Deluxe Pack: ex|Guzzlord ex|248|Guzzlord}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 249/353 || {{TCG ID|Deluxe Pack: ex|Alolan Diglett|249}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 250/353 || {{TCG ID|Deluxe Pack: ex|Alolan Diglett|250}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 251/353 || {{TCG ID|Deluxe Pack: ex|Alolan Dugtrio ex|251|Alolan Dugtrio}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 252/353 || {{TCG ID|Deluxe Pack: ex|Skarmory ex|252|Skarmory}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 253/353 || {{TCG ID|Deluxe Pack: ex|Probopass ex|253|Probopass}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 254/353 || {{TCG ID|Deluxe Pack: ex|Dialga ex|254|Dialga}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 255/353 || {{TCG ID|Deluxe Pack: ex|Excadrill|255}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 256/353 || {{TCG ID|Deluxe Pack: ex|Excadrill|256}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 257/353 || {{TCG ID|Deluxe Pack: ex|Klefki|257}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 258/353 || {{TCG ID|Deluxe Pack: ex|Klefki|258}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 259/353 || {{TCG ID|Deluxe Pack: ex|Solgaleo ex|259|Solgaleo}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 260/353 || {{TCG ID|Deluxe Pack: ex|Magearna|260}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 261/353 || {{TCG ID|Deluxe Pack: ex|Magearna|261}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 262/353 || {{TCG ID|Deluxe Pack: ex|Tinkatink|262}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 263/353 || {{TCG ID|Deluxe Pack: ex|Tinkatink|263}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 264/353 || {{TCG ID|Deluxe Pack: ex|Tinkatuff|264}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 265/353 || {{TCG ID|Deluxe Pack: ex|Tinkatuff|265}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 266/353 || {{TCG ID|Deluxe Pack: ex|Tinkaton ex|266|Tinkaton}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 267/353 || {{TCG ID|Deluxe Pack: ex|Dratini|267}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 268/353 || {{TCG ID|Deluxe Pack: ex|Dratini|268}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 269/353 || {{TCG ID|Deluxe Pack: ex|Dragonair|269}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 270/353 || {{TCG ID|Deluxe Pack: ex|Dragonair|270}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 271/353 || {{TCG ID|Deluxe Pack: ex|Dragonite ex|271|Dragonite}}{{TCGP Icon|ex}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 272/353 || {{TCG ID|Deluxe Pack: ex|Pidgey|272}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 273/353 || {{TCG ID|Deluxe Pack: ex|Pidgey|273}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 274/353 || {{TCG ID|Deluxe Pack: ex|Pidgeotto|274}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 275/353 || {{TCG ID|Deluxe Pack: ex|Pidgeotto|275}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 276/353 || {{TCG ID|Deluxe Pack: ex|Pidgeot ex|276|Pidgeot}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 277/353 || {{TCG ID|Deluxe Pack: ex|Jigglypuff|277}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 278/353 || {{TCG ID|Deluxe Pack: ex|Jigglypuff|278}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 279/353 || {{TCG ID|Deluxe Pack: ex|Wigglytuff ex|279|Wigglytuff}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 280/353 || {{TCG ID|Deluxe Pack: ex|Farfetch'd|280}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 281/353 || {{TCG ID|Deluxe Pack: ex|Farfetch'd|281}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 282/353 || {{TCG ID|Deluxe Pack: ex|Lickitung|282}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 283/353 || {{TCG ID|Deluxe Pack: ex|Lickitung|283}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 284/353 || {{TCG ID|Deluxe Pack: ex|Lickilicky ex|284|Lickilicky}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 285/353 || {{TCG ID|Deluxe Pack: ex|Eevee|285}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 286/353 || {{TCG ID|Deluxe Pack: ex|Eevee|286}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 287/353 || {{TCG ID|Deluxe Pack: ex|Eevee ex|287|Eevee}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 288/353 || {{TCG ID|Deluxe Pack: ex|Snorlax ex|288|Snorlax}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 289/353 || {{TCG ID|Deluxe Pack: ex|Lugia ex|289|Lugia}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 290/353 || {{TCG ID|Deluxe Pack: ex|Skitty|290}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 291/353 || {{TCG ID|Deluxe Pack: ex|Skitty|291}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 292/353 || {{TCG ID|Deluxe Pack: ex|Delcatty|292}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 293/353 || {{TCG ID|Deluxe Pack: ex|Delcatty|293}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 294/353 || {{TCG ID|Deluxe Pack: ex|Bidoof|294}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 295/353 || {{TCG ID|Deluxe Pack: ex|Bidoof|295}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 296/353 || {{TCG ID|Deluxe Pack: ex|Bibarel ex|296|Bibarel}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 297/353 || {{TCG ID|Deluxe Pack: ex|Shaymin|297}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 298/353 || {{TCG ID|Deluxe Pack: ex|Shaymin|298}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 299/353 || {{TCG ID|Deluxe Pack: ex|Arceus ex|299|Arceus}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 300/353 || {{TCG ID|Deluxe Pack: ex|Type: Null|300}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 301/353 || {{TCG ID|Deluxe Pack: ex|Type: Null|301}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 302/353 || {{TCG ID|Deluxe Pack: ex|Silvally|302}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 303/353 || {{TCG ID|Deluxe Pack: ex|Silvally|303}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 304/353 || {{TCG ID|Deluxe Pack: ex|Celesteela|304}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 305/353 || {{TCG ID|Deluxe Pack: ex|Celesteela|305}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 306/353 || {{TCG ID|Deluxe Pack: ex|Cyclizar|306}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 307/353 || {{TCG ID|Deluxe Pack: ex|Cyclizar|307}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 308/353 || {{TCG ID|Deluxe Pack: ex|Eevee Bag|308}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 309/353 || {{TCG ID|Deluxe Pack: ex|Eevee Bag|309}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 310/353 || {{TCG ID|Deluxe Pack: ex|Elemental Switch|310}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 311/353 || {{TCG ID|Deluxe Pack: ex|Elemental Switch|311}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 312/353 || {{TCG ID|Deluxe Pack: ex|Old Amber|312}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 313/353 || {{TCG ID|Deluxe Pack: ex|Old Amber|313}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 314/353 || {{TCG ID|Deluxe Pack: ex|Rare Candy|314}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 315/353 || {{TCG ID|Deluxe Pack: ex|Rare Candy|315}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 316/353 || {{TCG ID|Deluxe Pack: ex|Pokémon Communication|316}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 317/353 || {{TCG ID|Deluxe Pack: ex|Pokémon Communication|317}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 318/353 || {{TCG ID|Deluxe Pack: ex|Electrical Cord|318}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 319/353 || {{TCG ID|Deluxe Pack: ex|Electrical Cord|319}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 320/353 || {{TCG ID|Deluxe Pack: ex|Giant Cape|320}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 321/353 || {{TCG ID|Deluxe Pack: ex|Giant Cape|321}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 322/353 || {{TCG ID|Deluxe Pack: ex|Rocky Helmet|322}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 323/353 || {{TCG ID|Deluxe Pack: ex|Rocky Helmet|323}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 324/353 || {{TCG ID|Deluxe Pack: ex|Leaf Cape|324}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 325/353 || {{TCG ID|Deluxe Pack: ex|Leaf Cape|325}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 326/353 || {{TCG ID|Deluxe Pack: ex|Cyrus|326}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 327/353 || {{TCG ID|Deluxe Pack: ex|Cyrus|327}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 328/353 || {{TCG ID|Deluxe Pack: ex|Erika|328}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 329/353 || {{TCG ID|Deluxe Pack: ex|Erika|329}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 330/353 || {{TCG ID|Deluxe Pack: ex|Irida|330}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 331/353 || {{TCG ID|Deluxe Pack: ex|Irida|331}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 332/353 || {{TCG ID|Deluxe Pack: ex|Lyra|332}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 333/353 || {{TCG ID|Deluxe Pack: ex|Lyra|333}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 334/353 || {{TCG ID|Deluxe Pack: ex|Giovanni|334}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 335/353 || {{TCG ID|Deluxe Pack: ex|Giovanni|335}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 336/353 || {{TCG ID|Deluxe Pack: ex|Silver|336}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 337/353 || {{TCG ID|Deluxe Pack: ex|Silver|337}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 338/353 || {{TCG ID|Deluxe Pack: ex|Sabrina|338}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 339/353 || {{TCG ID|Deluxe Pack: ex|Sabrina|339}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 340/353 || {{TCG ID|Deluxe Pack: ex|Iono|340}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 341/353 || {{TCG ID|Deluxe Pack: ex|Iono|341}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 342/353 || {{TCG ID|Deluxe Pack: ex|Dawn|342}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 343/353 || {{TCG ID|Deluxe Pack: ex|Dawn|343}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 344/353 || {{TCG ID|Deluxe Pack: ex|Mars|344}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 345/353 || {{TCG ID|Deluxe Pack: ex|Mars|345}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 346/353 || {{TCG ID|Deluxe Pack: ex|Leaf|346}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 347/353 || {{TCG ID|Deluxe Pack: ex|Leaf|347}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 348/353 || {{TCG ID|Deluxe Pack: ex|Lillie|348}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 349/353 || {{TCG ID|Deluxe Pack: ex|Lillie|349}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 350/353 || {{TCG ID|Deluxe Pack: ex|Lusamine|350}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 351/353 || {{TCG ID|Deluxe Pack: ex|Lusamine|351}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 352/353 || {{TCG ID|Deluxe Pack: ex|Red|352}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 353/353 || {{TCG ID|Deluxe Pack: ex|Red|353}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 354/353 || {{TCG ID|Deluxe Pack: ex|Floragato|354}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}}
+|-
+| 355/353 || {{TCG ID|Deluxe Pack: ex|Crawdaunt|355}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}}
+|-
+| 356/353 || {{TCG ID|Deluxe Pack: ex|Greninja|356}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}}
+|-
+| 357/353 || {{TCG ID|Deluxe Pack: ex|Gardevoir|357}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}}
+|-
+| 358/353 || {{TCG ID|Deluxe Pack: ex|Slurpuff|358}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}}
+|-
+| 359/353 || {{TCG ID|Deluxe Pack: ex|Farfetch'd|359}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}}
+|-
+| 360/353 || {{TCG ID|Deluxe Pack: ex|Buzzwole ex|360|Buzzwole}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}}
+|-
+| 361/353 || {{TCG ID|Deluxe Pack: ex|Charizard ex|361|Charizard}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|2}}
+|-
+| 362/353 || {{TCG ID|Deluxe Pack: ex|Ho-Oh ex|362|Ho-Oh}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|2}}
+|-
+| 363/353 || {{TCG ID|Deluxe Pack: ex|Palkia ex|363|Palkia}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}}
+|-
+| 364/353 || {{TCG ID|Deluxe Pack: ex|Pikachu ex|364|Pikachu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}}
+|-
+| 365/353 || {{TCG ID|Deluxe Pack: ex|Mewtwo ex|365|Mewtwo}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|2}}
+|-
+| 366/353 || {{TCG ID|Deluxe Pack: ex|Mew ex|366|Mew}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|2}}
+|-
+| 367/353 || {{TCG ID|Deluxe Pack: ex|Lunala ex|367|Lunala}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|2}}
+|-
+| 368/353 || {{TCG ID|Deluxe Pack: ex|Dialga ex|368|Dialga}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}}
+|-
+| 369/353 || {{TCG ID|Deluxe Pack: ex|Solgaleo ex|369|Solgaleo}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}}
+|-
+| 370/353 || {{TCG ID|Deluxe Pack: ex|Eevee ex|370|Eevee}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|2}}
+|-
+| 371/353 || {{TCG ID|Deluxe Pack: ex|Lugia ex|371|Lugia}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|2}}
+|-
+| 372/353 || {{TCG ID|Deluxe Pack: ex|Arceus ex|372|Arceus}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|2}}
+|-
+| 373/353 || {{TCG ID|Deluxe Pack: ex|Professor's Research|373}} '''<small>[Professor Oak]</small>''' || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 374/353 || {{TCG ID|Deluxe Pack: ex|Lillie|374}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 375/353 || {{TCG ID|Deluxe Pack: ex|Lusamine|375}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 376/353 || {{TCG ID|Deluxe Pack: ex|Pikachu ex|376|Pikachu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|3}}
+|-
+| 377/353 || {{TCG ID|Deluxe Pack: ex|Giratina ex|377|Giratina}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 378/353 || {{TCG ID|Deluxe Pack: ex|Darkrai ex|378|Darkrai}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 379/353 || {{TCG ID|Deluxe Pack: ex|Rare Candy|379}} || {{TCG Icon|Item}} || {{Rar/TCGP|Crown|1}}
+
+|}
+
+== Missions ==
+=== Dex Missions ===
+Deluxe Pack: ex has 9 regular {{DL|Mission (TCG Pocket)|Dex Missions}} and 1 hidden Dex Mission:
+{{TCGPocketMission/Header|reward=yes|bordercol={{Gold color dark}}|tablecol={{Gold color}}|textcol=FFF}}
+{{TCGPocketMission/Entry|mission=Register 30 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack: ex)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 50 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack: ex)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 70 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack: ex)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 100 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack: ex)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 150 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack: ex)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 200 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack: ex)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 250 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack: ex)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 300 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack: ex)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 350 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack: ex)|num=20}}}}
+|-
+! colspan="2" style="color:#FFF" | Secret Mission
+{{TCGPocketMission/Entry|mission=Register all {{Rar/TCGP|Diamond|1}} – {{Rar/TCGP|Diamond|4}} cards in the card dex|reward={{TCGPocketItem|Deluxe Pack ex Pikachu|Deluxe Pack: ex: Pikachu (profile icon)|type=Profile Icon}}|lastitem=yes}}
+|}
+
+=== Deck Missions ===
+Deluxe Pack: ex has 14 [[deck]]s and 28 {{DL|Mission (TCG Pocket)|Deck Missions}}. Each deck has two missions:
+
+{{TCGPocketMission/Header|reward=yes|bordercol={{Gold color dark}}|tablecol={{Gold color}}|textcol=FFF}}
+{{TCGPocketMission/Entry|mission=Collect the highlight card(s) for [deck name]|reward={{TCGPocketItem|Rental Deck|[deck name] rental deck}}}}
+{{TCGPocketMission/Entry|mission=Collect cards for [deck name]|reward={{TCGPocketItem|Theme Deck List|[deck name] theme deck list}}|lastitem=yes}}
+|}
+
+The 14 available decks related to Deluxe Pack: ex are: 
+{{TCGPocketExpansionDeck/Header|bordercol={{Gold color dark}}|tablecol={{Gold color}}|textcol=FFF}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Buzzwole ex & Shuckle ex Deck|Deluxe Pack: ex}}|{{e|Grass}}|{{TCG ID|Deluxe Pack: ex|Shuckle ex|23}}, {{TCG ID|Deluxe Pack: ex|Buzzwole ex|44}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Charizard ex & Moltres ex Deck|Deluxe Pack: ex}}|{{e|Fire}}|{{TCG ID|Deluxe Pack: ex|Charizard ex|59}}, {{TCG ID|Deluxe Pack: ex|Moltres ex|67}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Palkia ex & Articuno ex Deck|Deluxe Pack: ex}}|{{e|Water}}|{{TCG ID|Deluxe Pack: ex|Articuno ex|101}}, {{TCG ID|Deluxe Pack: ex|Palkia ex|107}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Pikachu ex & Alolan Raichu ex Deck|Deluxe Pack: ex}}|{{e|Lightning}}|{{TCG ID|Deluxe Pack: ex|Alolan Raichu ex|130}}, {{TCG ID|Deluxe Pack: ex|Pikachu ex|131}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mewtwo ex & Mew ex Deck|Deluxe Pack: ex}}|{{e|Psychic}}|{{TCG ID|Deluxe Pack: ex|Mewtwo ex|158}}, {{TCG ID|Deluxe Pack: ex|Mew ex|159}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Lunala ex & Giratina ex Deck|Deluxe Pack: ex}}|{{e|Psychic}}|{{TCG ID|Deluxe Pack: ex|Giratina ex|172}}, {{TCG ID|Deluxe Pack: ex|Lunala ex|184}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Lucario ex & Garchomp ex Deck|Deluxe Pack: ex}}|{{e|Fighting}}|{{TCG ID|Deluxe Pack: ex|Garchomp ex|209}}, {{TCG ID|Deluxe Pack: ex|Lucario ex|214}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Guzzlord ex & Crobat ex Deck|Deluxe Pack: ex}}|{{e|Darkness}}|{{TCG ID|Deluxe Pack: ex|Crobat ex|232}}, {{TCG ID|Deluxe Pack: ex|Guzzlord ex|248}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Arceus ex & Dialga ex Deck|Deluxe Pack: ex}}|{{e|Metal}}{{e|Colorless}}|{{TCG ID|Deluxe Pack: ex|Dialga ex|254}}, {{TCG ID|Deluxe Pack: ex|Arceus ex|299}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Solgaleo ex & Skarmory ex Deck|Deluxe Pack: ex}}|{{e|Metal}}|{{TCG ID|Deluxe Pack: ex|Skarmory ex|252}}, {{TCG ID|Deluxe Pack: ex|Solgaleo ex|259}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Eevee ex & Sylveon ex Deck|Deluxe Pack: ex}}|{{e|Psychic}}{{e|Colorless}}|{{TCG ID|Deluxe Pack: ex|Sylveon ex|177}}, {{TCG ID|Deluxe Pack: ex|Eevee ex|287}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Lugia ex & Ho-Oh ex Deck|Deluxe Pack: ex}}|{{e|Fire}}{{e|Colorless}}|{{TCG ID|Deluxe Pack: ex|Ho-Oh ex|68}}, {{TCG ID|Deluxe Pack: ex|Lugia ex|289}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Best Partners Deck|Deluxe Pack: ex}}|{{e|Grass}}{{e|Fire}}{{e|Water}}|{{TCG ID|Deluxe Pack: ex|Venusaur ex|5}}, {{TCG ID|Deluxe Pack: ex|Charizard ex|60}}, {{TCG ID|Deluxe Pack: ex|Blastoise ex|87}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Pikachu & Friends Deck|Deluxe Pack: ex}}|{{e|Lightning}}|{{TCG ID|Deluxe Pack: ex|Alolan Raichu ex|130}}, {{TCG ID|Deluxe Pack: ex|Pikachu ex|131}}, {{TCG ID|Deluxe Pack: ex|Pachirisu ex|145}}|lastitem=yes}}
+|}
+
+=== Themed Collections ===
+Deluxe Pack: ex has 25 regular {{DL|Mission (TCG Pocket)|Themed Collections}} and 6 hidden Themed Collections. Unlike previous expansions, cards from previous expansions can also count towards the completion of the Themed Collections.
+
+{{TCGPocketCollection/Header|bordercol={{Gold color dark}}|tablecol={{Gold color}}|textcol=FFF}}
+{{TCGPocketCollection/Entry|collection=ex Collection
+|cards=15 of any [[Pokémon ex]] cards available in the expansion.
+|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×16}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect Parallel Foil Card Pokémon
+|cards=5 of any parallel foil Pokémon cards available in the expansion.
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×16}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon with Impressive Shells
+|cards={{TCG ID|Deluxe Pack: ex|Shuckle ex|23}} (#023)<br>{{TCG ID|Deluxe Pack: ex|Torkoal|69}} (#069 or #070)<br>{{TCG ID|Deluxe Pack: ex|Squirtle|83}} (#083 or #084)<br>{{TCG ID|Deluxe Pack: ex|Wartortle|85}} (#085 or #086)<br>{{TCG ID|Deluxe Pack: ex|Blastoise ex|87}} (#087)<br>{{TCG ID|Deluxe Pack: ex|Corphish|102}} (#102 or #103)<br>{{TCG ID|Deluxe Pack: ex|Crawdaunt|104}} (#104 or #105 or #355)<br>{{TCG ID|Deluxe Pack: ex|Crabominable ex|121}} (#121)<br>{{TCG ID|Deluxe Pack: ex|Crabrawler|218}} (#218 or #219)
+|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×2}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon That Hold Things
+|cards={{TCG ID|Deluxe Pack: ex|Cubone|194}} (#194 or #195)<br>{{TCG ID|Deluxe Pack: ex|Marowak ex|196}} (#196)<br>{{TCG ID|Deluxe Pack: ex|Passimian ex|223}} (#223)<br>{{TCG ID|Deluxe Pack: ex|Tinkatink|262}} (#262 or #263)<br>{{TCG ID|Deluxe Pack: ex|Tinkatuff|264}} (#264 or #265)<br>{{TCG ID|Deluxe Pack: ex|Tinkaton ex|266}} (#266)<br>{{TCG ID|Deluxe Pack: ex|Farfetch'd|280}} (#280 or #281 or #359)
+|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×2}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon with Cute Tongues
+|cards={{TCG ID|Deluxe Pack: ex|Haunter|153}} (#153 or #154)<br>{{TCG ID|Deluxe Pack: ex|Gengar ex|155}} (#155)<br>{{TCG ID|Deluxe Pack: ex|Swirlix|173}} (#173 or #174)<br>{{TCG ID|Deluxe Pack: ex|Slurpuff|175}} (#175 or #176 or #358)<br>{{TCG ID|Deluxe Pack: ex|Lickitung|282}} (#282 or #283)<br>{{TCG ID|Deluxe Pack: ex|Lickilicky ex|284}} (#284)
+|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×2}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon That Hide Their True Faces
+|cards={{TCG ID|Deluxe Pack: ex|Cubone|194}} (#194 or #195)<br>{{TCG ID|Deluxe Pack: ex|Type: Null|300}} (#300 or #301)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Very Very Light Pokémon
+|cards={{TCG ID|Deluxe Pack: ex|Kartana|47}} (#047 or #048)<br>{{TCG ID|Deluxe Pack: ex|Gastly|151}} (#151 or #152)<br>{{TCG ID|Deluxe Pack: ex|Haunter|153}} (#153 or #154)<br>{{TCG ID|Deluxe Pack: ex|Cosmog|180}} (#180 or #181)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=A Kitty Get-Together
+|cards={{TCG ID|Deluxe Pack: ex|Sprigatito|49}} (#049 or #050)<br>{{TCG ID|Deluxe Pack: ex|Litten|78}} (#078 or #079)<br>{{TCG ID|Deluxe Pack: ex|Skitty|290}} (#290 or #291)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Slithering About
+|cards={{TCG ID|Deluxe Pack: ex|Serperior|36}} (#036 or #037)<br>{{TCG ID|Deluxe Pack: ex|Wiglett|125}} (#125 or #126)<br>{{TCG ID|Deluxe Pack: ex|Dratini|267}} (#267 or #268)
+|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×2}}
+}}
+{{TCGPocketCollection/Entry|collection=Fish Pokémon with 30 HP
+|cards={{TCG ID|Deluxe Pack: ex|Magikarp|96}} (#096 or #097)<br>{{TCG ID|Deluxe Pack: ex|Wishiwashi|122}} (#122 or #123)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Late Bloomers
+|cards={{TCG ID|Deluxe Pack: ex|Gible|205}} (#205 or #206)<br>{{TCG ID|Deluxe Pack: ex|Dratini|267}} (#267 or #268)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=The Main Characters of the Kanto Region
+|cards={{TCG ID|Deluxe Pack: ex|Leaf|346}} (#346 or #347)<br>{{TCG ID|Deluxe Pack: ex|Red|352}} (#352 or #353)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Father and Child
+|cards={{TCG ID|Deluxe Pack: ex|Giovanni|334}} (#334 or #335)<br>{{TCG ID|Deluxe Pack: ex|Silver|336}} (#336 or #337)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Mother and Child
+|cards={{TCG ID|Deluxe Pack: ex|Lillie|348}} (#348 or #349 or #374)<br>{{TCG ID|Deluxe Pack: ex|Lusamine|350}} (#350 or #351 or #375)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Item Mania
+|cards={{TCG ID|Deluxe Pack: ex|Eevee Bag|308}} (#308 or #309)<br>{{TCG ID|Deluxe Pack: ex|Elemental Switch|310}} (#310 or #311)<br>{{TCG ID|Deluxe Pack: ex|Old Amber|312}} (#312 or #313)<br>{{TCG ID|Deluxe Pack: ex|Rare Candy|314}} (#314 or #315 or #379)<br>{{TCG ID|Deluxe Pack: ex|Pokémon Communication|316}} (#316 or #317)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon Tool Mania
+|cards={{TCG ID|Deluxe Pack: ex|Electrical Cord|318}} (#318 or #319)<br>{{TCG ID|Deluxe Pack: ex|Giant Cape|320}} (#320 or #321)<br>{{TCG ID|Deluxe Pack: ex|Rocky Helmet|322}} (#322 or #323)<br>{{TCG ID|Deluxe Pack: ex|Leaf Cape|324}} (#324 or #325)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=ex Collection • Grass
+|cards=5 in any combination of:<br>{{TCG ID|Deluxe Pack: ex|Venusaur ex|5}} (#005)<br>{{TCG ID|Deluxe Pack: ex|Beedrill ex|10}} (#010)<br>{{TCG ID|Deluxe Pack: ex|Exeggutor ex|13}} (#013)<br>{{TCG ID|Deluxe Pack: ex|Yanmega ex|22}} (#022)<br>{{TCG ID|Deluxe Pack: ex|Shuckle ex|23}} (#023)<br>{{TCG ID|Deluxe Pack: ex|Celebi ex|24}} (#024)<br>{{TCG ID|Deluxe Pack: ex|Leafeon ex|29}} (#029)<br>{{TCG ID|Deluxe Pack: ex|Decidueye ex|42}} (#042)<br>{{TCG ID|Deluxe Pack: ex|Dhelmise ex|43}} (#043)<br>{{TCG ID|Deluxe Pack: ex|Buzzwole ex|44}} (#044 or #360)
+|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×6}}
+}}
+{{TCGPocketCollection/Entry|collection=ex Collection • Fire
+|cards=5 in any combination of:<br>{{TCG ID|Deluxe Pack: ex|Charizard ex|59}} (#059 or #361)<br>{{TCG ID|Deluxe Pack: ex|Charizard ex|60}} (#060)<br>{{TCG ID|Deluxe Pack: ex|Arcanine ex|63}} (#063)<br>{{TCG ID|Deluxe Pack: ex|Flareon ex|66}} (#066)<br>{{TCG ID|Deluxe Pack: ex|Moltres ex|67}} (#067)<br>{{TCG ID|Deluxe Pack: ex|Ho-Oh ex|68}} (#068 or #0362)<br>{{TCG ID|Deluxe Pack: ex|Infernape ex|75}} (#075)<br>{{TCG ID|Deluxe Pack: ex|Incineroar ex|82}} (#082)
+|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×6}}
+}}
+{{TCGPocketCollection/Entry|collection=ex Collection • Water
+|cards=5 in any combination of:<br>{{TCG ID|Deluxe Pack: ex|Blastoise ex|87}} (#087)<br>{{TCG ID|Deluxe Pack: ex|Kingdra ex|92}} (#092)<br>{{TCG ID|Deluxe Pack: ex|Starmie ex|95}} (#095)<br>{{TCG ID|Deluxe Pack: ex|Gyarados ex|98}} (#098)<br>{{TCG ID|Deluxe Pack: ex|Articuno ex|101}} (#101)<br>{{TCG ID|Deluxe Pack: ex|Glaceon ex|106}} (#106)<br>{{TCG ID|Deluxe Pack: ex|Palkia ex|107}} (#107 or #363)<br>{{TCG ID|Deluxe Pack: ex|Primarina ex|120}} (#120)<br>{{TCG ID|Deluxe Pack: ex|Crabominable ex|121}} (#121)<br>{{TCG ID|Deluxe Pack: ex|Wishiwashi ex|124}} (#124)<br>{{TCG ID|Deluxe Pack: ex|Wugtrio ex|127}} (#127)
+|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×6}}
+}}
+{{TCGPocketCollection/Entry|collection=ex Collection • Lightning
+|cards=5 in any combination of:<br>{{TCG ID|Deluxe Pack: ex|Alolan Raichu ex|130}} (#130)<br>{{TCG ID|Deluxe Pack: ex|Pikachu ex|131}} (#131 or #364 or #376)<br>{{TCG ID|Deluxe Pack: ex|Pikachu ex|132}} (#132)<br>{{TCG ID|Deluxe Pack: ex|Zapdos ex|139}} (#139)<br>{{TCG ID|Deluxe Pack: ex|Lanturn ex|142}} (#142)<br>{{TCG ID|Deluxe Pack: ex|Pachirisu ex|145}} (#145)<br>{{TCG ID|Deluxe Pack: ex|Tapu Koko ex|148}} (#148)
+|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×6}}
+}}
+{{TCGPocketCollection/Entry|collection=ex Collection • Psychic
+|cards=5 in any combination of:<br>{{TCG ID|Deluxe Pack: ex|Gengar ex|155}} (#155)<br>{{TCG ID|Deluxe Pack: ex|Mewtwo ex|158}} (#158 or #365)<br>{{TCG ID|Deluxe Pack: ex|Mew ex|159}} (#159 or #366)<br>{{TCG ID|Deluxe Pack: ex|Espeon ex|160}} (#160)<br>{{TCG ID|Deluxe Pack: ex|Mismagius ex|163}} (#163)<br>{{TCG ID|Deluxe Pack: ex|Giratina ex|172}} (#172 or #377)<br>{{TCG ID|Deluxe Pack: ex|Sylveon ex|177}} (#177)<br>{{TCG ID|Deluxe Pack: ex|Lunala ex|184}} (#184 or #367)
+|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×6}}
+}}
+{{TCGPocketCollection/Entry|collection=ex Collection • Fighting
+|cards=5 in any combination of:<br>{{TCG ID|Deluxe Pack: ex|Machamp ex|193}} (#193)<br>{{TCG ID|Deluxe Pack: ex|Marowak ex|196}} (#196)<br>{{TCG ID|Deluxe Pack: ex|Aerodactyl ex|197}} (#197)<br>{{TCG ID|Deluxe Pack: ex|Donphan ex|202}} (#202)<br>{{TCG ID|Deluxe Pack: ex|Garchomp ex|209}} (#209)<br>{{TCG ID|Deluxe Pack: ex|Lucario ex|214}} (#214)<br>{{TCG ID|Deluxe Pack: ex|Gallade ex|215}} (#215)<br>{{TCG ID|Deluxe Pack: ex|Lycanroc ex|222}} (#222)<br>{{TCG ID|Deluxe Pack: ex|Passimian ex|223}} (#223)
+|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×6}}
+}}
+{{TCGPocketCollection/Entry|collection=ex Collection • Darkness
+|cards=5 in any combination of:<br>{{TCG ID|Deluxe Pack: ex|Crobat ex|232}} (#232)<br>{{TCG ID|Deluxe Pack: ex|Alolan Muk ex|235}} (#235)<br>{{TCG ID|Deluxe Pack: ex|Paldean Clodsire ex|238}} (#238)<br>{{TCG ID|Deluxe Pack: ex|Umbreon ex|241}} (#241)<br>{{TCG ID|Deluxe Pack: ex|Weavile ex|244}} (#244)<br>{{TCG ID|Deluxe Pack: ex|Darkrai ex|245}} (#245 or #378)<br>{{TCG ID|Deluxe Pack: ex|Guzzlord ex|248}} (#248)
+|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×6}}
+}}
+{{TCGPocketCollection/Entry|collection=ex Collection • Metal
+|cards=5 in any combination of:<br>{{TCG ID|Deluxe Pack: ex|Alolan Dugtrio ex|251}} (#251)<br>{{TCG ID|Deluxe Pack: ex|Skarmory ex|252}} (#252)<br>{{TCG ID|Deluxe Pack: ex|Probopass ex|253}} (#253)<br>{{TCG ID|Deluxe Pack: ex|Dialga ex|254}} (#254 or #368)<br>{{TCG ID|Deluxe Pack: ex|Solgaleo ex|259}} (#259 or #369)<br>{{TCG ID|Deluxe Pack: ex|Tinkaton ex|266}} (#266)
+|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×6}}
+}}
+{{TCGPocketCollection/Entry|collection=ex Collection • Colorless
+|cards=5 in any combination of:<br>{{TCG ID|Deluxe Pack: ex|Pidgeot ex|276}} (#276)<br>{{TCG ID|Deluxe Pack: ex|Wigglytuff ex|279}} (#279)<br>{{TCG ID|Deluxe Pack: ex|Lickilicky ex|284}} (#284)<br>{{TCG ID|Deluxe Pack: ex|Eevee ex|287}} (#287 or #370)<br>{{TCG ID|Deluxe Pack: ex|Snorlax ex|288}} (#288)<br>{{TCG ID|Deluxe Pack: ex|Lugia ex|289}} (#289 or #371)<br>{{TCG ID|Deluxe Pack: ex|Bibarel ex|296}} (#296)<br>{{TCG ID|Deluxe Pack: ex|Arceus ex|299}} (#299 or #372)
+|reward={{TCGPocketItem|Emblem Ticket A4b|Emblem Ticket (Deluxe Pack ex) ×6}}
+}}
+|-
+! colspan="3" style="color:#FFF" | Secret Missions
+{{TCGPocketCollection/Entry|collection=Collect Special {{Rar/TCGP|Star|2}} Cards
+|cards=One of:<br>{{TCG ID|Deluxe Pack: ex|Buzzwole ex|360}} (#360)<br>{{TCG ID|Deluxe Pack: ex|Charizard ex|361}} (#361)<br>{{TCG ID|Deluxe Pack: ex|Ho-Oh ex|362}} (#362)<br>{{TCG ID|Deluxe Pack: ex|Palkia ex|363}} (#363)<br>{{TCG ID|Deluxe Pack: ex|Pikachu ex|364}} (#364)<br>{{TCG ID|Deluxe Pack: ex|Mewtwo ex|365}} (#365)<br>{{TCG ID|Deluxe Pack: ex|Mew ex|366}} (#366)<br>{{TCG ID|Deluxe Pack: ex|Lunala ex|367}} (#367)<br>{{TCG ID|Deluxe Pack: ex|Dialga ex|368}} (#368)<br>{{TCG ID|Deluxe Pack: ex|Solgaleo ex|369}} (#369)<br>{{TCG ID|Deluxe Pack: ex|Eevee ex|370}} (#370)<br>{{TCG ID|Deluxe Pack: ex|Lugia ex|371}} (#371)<br>{{TCG ID|Deluxe Pack: ex|Arceus ex|372}} (#372)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=ex Complete!
+|cards=One of each  75 [[Pokémon ex]] cards available in the expansion.
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Deluxe Pack: ex Museum 1
+|cards={{TCG ID|Deluxe Pack: ex|Floragato|354}} (#354)<br>{{TCG ID|Deluxe Pack: ex|Crawdaunt|355}} (#355)<br>{{TCG ID|Deluxe Pack: ex|Greninja|356}} (#356)<br>{{TCG ID|Deluxe Pack: ex|Gardevoir|357}} (#357)<br>{{TCG ID|Deluxe Pack: ex|Slurpuff|358}} (#358)<br>{{TCG ID|Deluxe Pack: ex|Farfetch'd|359}} (#359)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Deluxe Pack: ex Museum 2
+|cards={{TCG ID|Deluxe Pack: ex|Buzzwole ex|360}} (#360)<br>{{TCG ID|Deluxe Pack: ex|Charizard ex|361}} (#361)<br>{{TCG ID|Deluxe Pack: ex|Ho-Oh ex|362}} (#362)<br>{{TCG ID|Deluxe Pack: ex|Palkia ex|363}} (#363)<br>{{TCG ID|Deluxe Pack: ex|Pikachu ex|364}} (#364)<br>{{TCG ID|Deluxe Pack: ex|Mewtwo ex|365}} (#365)<br>{{TCG ID|Deluxe Pack: ex|Mew ex|366}} (#366)<br>{{TCG ID|Deluxe Pack: ex|Lunala ex|367}} (#367)<br>{{TCG ID|Deluxe Pack: ex|Dialga ex|368}} (#368)<br>{{TCG ID|Deluxe Pack: ex|Solgaleo ex|369}} (#369)<br>{{TCG ID|Deluxe Pack: ex|Eevee ex|370}} (#370)<br>{{TCG ID|Deluxe Pack: ex|Lugia ex|371}} (#371)<br>{{TCG ID|Deluxe Pack: ex|Arceus ex|372}} (#372)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Deluxe Pack: ex Museum 3
+|cards={{TCG ID|Deluxe Pack: ex|Professor's Research|373}} (#373)<br>{{TCG ID|Deluxe Pack: ex|Lillie|374}} (#374)<br>{{TCG ID|Deluxe Pack: ex|Lusamine|375}} (#375)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Pikachu Museum
+|cards={{TCG ID|Deluxe Pack: ex|Pikachu|128}} (#128 or #129)<br>{{TCG ID|Deluxe Pack: ex|Pikachu ex|131}} (#131)<br>{{TCG ID|Deluxe Pack: ex|Pikachu ex|132}} (#132)<br>{{TCG ID|Deluxe Pack: ex|Pikachu ex|364}} (#364)<br>{{TCG ID|Deluxe Pack: ex|Pikachu ex|376}} (#376)
+|reward={{TCGPocketItem|Pikachu ver 2|Pikachu (emblem)|type=Emblem}}
+|lastitem=yes
+}}
+|}
+
+== Offering rates ==
+The following table outlines the offering rates for each individual card in the Deluxe Pack: ex booster pack.
+
+The probability of each type of pack appearing is as it follows:
+* Regular pack - 99.950%
+* Rare pack - 0.050%
+
+{| class="roundy" style="background: #{{{tablecol|{{Gold color}}}}}; border: 3px solid #{{{bordercol|{{Gold color light}}}}}; text-align: center; display: table; border-collapse: separate"
+|- style="background: #{{{cellcol|{{Gold color light}}}}}; text-align: center"
+! style="padding: 0 1em; border-top-left-radius: 5px" rowspan="2" | Rarity
+! style="padding: 0 1em" colspan="4" | Regular packs
+! style="padding: 0 1em; border-top-right-radius: 5px" | Rare packs
+|- style="background: #{{{cellcol|{{Gold color light}}}}}; text-align: center"
+! style="padding: 0 1em" | Card 1
+! style="padding: 0 1em" | Card 2
+! style="padding: 0 1em" | Card 3
+! style="padding: 0 1em" | Card 4
+! style="padding: 0 1em" | Cards 1-4
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 1.562%<br><small>Standard card only</small> || 0.277%<br><small>Standard card only || 0.359%<br><small>Parallel foil card only</small> || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 1.645%<br><small>Standard card only</small> || 0.359%<br><small>Parallel foil card only</small> || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || — || 1.266% <small>(Standard cards)</small><br>0.359% <small>(Parallel foil cards)</small> || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || — || — || 1.333% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || — || 2.143% || — || 3.846%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || — || 0.156% || — || 3.846%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || — || 1.111% || — || 3.846%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|2}} || — || — || 0.833% || — || 3.846%
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || — || 0.198% || — || style="border-bottom-right-radius:5px"| 3.846%
+|}
+
+== Solo battles ==
+{{main|List of Deluxe Pack: ex solo battles in Pokémon TCG Pocket}}
+
+== Gallery ==
+The pack artwork for the Deluxe Pack: ex expansion was illustrated by [[PLANETA]].<ref>[https://pla-neta.co.jp/works/illust/4138/ Pokémon Trading Card Game Pocket拡張パック「ハイクラスパックex」 - PLANETA｜プラネッタ]</ref><ref>[https://x.com/PLANETACoLtd/status/1976120432261841351 X post on @PLANETACoLtd], October 8, 2025</ref>
+
+=== Key artwork ===
+{{TCGMerchGallery
+|background={{Gold color light}}
+|border={{Gold color dark}}
+|image1=A4b Key Art.png
+|size1=400px
+|caption1=Key artwork
+}}
+
+=== Pack artwork ===
+{{TCGMerchGallery
+|background={{Gold color light}}
+|border={{Gold color dark}}
+|image1=A4b Booster EN.png
+|caption1=Booster pack
+}}
+
+=== Pack logo ===
+{{TCGMerchGallery
+|background={{Gold color light}}
+|border={{Gold color dark}}
+|image1=A4b Set Logo EN.png
+|caption1=English logo
+|image5=A4b Set Logo JA.png|caption5=Japanese logo}}
+
+== In other languages ==
+{{Langtable|color={{Gold color light}}|bordercolor={{Gold color dark}}
+|ja=ハイクラスパックex ''High Class Pack ex''
+|zh_yue=高級擴充包ex ''Gōukāp Kwokchūng Bāau ex''
+|zh_cmn=高級擴充包ex ''Gāojí Kuòchōng Bāo ex''
+|fr=Booster de Luxe ex
+|de=Deluxepack-ex
+|it=Busta Deluxe ex
+|ko=하이클래스팩 ex ''High Class Pack ex''
+|pt_br=Pacote Deluxe ex
+|es=Sobre Deluxe ex
+}}
+
+==References==
+{{reflist}}
+
+== Related articles ==
+{{TCGPocketNavigation}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Deluxepack-ex (TCG Pocket)]]
+[[es:Sobre Deluxe ex (TCG Pocket)]]
+[[fr:Booster de Luxe ex]]
+[[it:Busta Deluxe ex (GCC Pocket)]]
+[[ja:ハイクラスパックex]]
+[[zh:高級擴充包ex（TCGP）]]

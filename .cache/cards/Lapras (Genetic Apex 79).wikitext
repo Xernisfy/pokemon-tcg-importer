@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lapras
+|ja name=ラプラス
+|trans name=Laplace
+|species=Lapras
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LaprasGeneticApex79.png|illustrator=Sekio|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LaprasGeneticApex234.png|illustrator=Haru Akasaka|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LaprasEeveeGrove94.png|illustrator=Nelnal|tab caption=Shiny Rare}}
+|hp=100
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=079/226|pack=Charizard|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=234/226|pack=Charizard|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=094/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Lapras''' (Japanese: '''ラプラス''' ''Laplace'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Hydro Pump
+|jname=ハイドロポンプ
+|jtrans=Hydro Pump
+|damage=20+
+|effect=If this Pokémon has at least 3 extra {{e|Water}} Energy attached, this attack does 70 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Lapras
+|species=Transport
+|ndex=0131
+|height=8'2"
+|jheight=2.5
+|weight=485
+|jweight=220.0
+|dex=A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.
+|jdex=賢く　心優しい　ポケモン｡ きれいな　歌声を　響かせながら 海の上を　泳いで　いく｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=LaprasGeneticApex79.png
+|caption1=Rare card<br>Illus. [[Sekio]]
+|image2=LaprasGeneticApex234.png
+|caption2=Illustration rare card<br>Illus. [[Haru Akasaka]]
+|image3=LaprasEeveeGrove94.png
+|caption3=Shiny rare card<br>Illus. [[Nelnal]]
+}}
+
+==Trivia==
+The illustration rare print of this card features a [[surfing Pikachu]] in the background.
+
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Lost Thunder|Lapras|56}} from the {{TCG|Lost Thunder}} expansion.
+*This card's shiny rare print features a {{Shiny}} {{p|Lapras}}.
+*{{m|Hydro Pump}} is a [[move]] in the [[Pokémon games]] that {{p|Lapras}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lapras (Unschlagbare Gene 079)]]
+[[es:Lapras (Genes Formidables TCG Pocket)]]
+[[fr:Lokhlass (Puissance Génétique 079)]]
+[[it:Lapras (Geni Supremi 79)]]
+[[ja:ラプラス (ポケポケ A1)]]
+[[zh:拉普拉斯（A1）]]

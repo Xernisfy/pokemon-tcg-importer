@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dragonair
+|ja name=ハクリュー
+|trans name=Hakuryu
+|species=Dragonair
+|type=Dragon
+|image=DragonairGeneticApex184.png
+|illustrator=kirisAki
+|hp=100
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Dratini
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=184/226|pack=Mewtwo|rarity=Diamond|rarity count=2}}
+}}
+
+'''Dragonair''' (Japanese: '''ハクリュー''' ''Hakuryu'') is a {{ct|Dragon}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Water}}{{e|Lightning}}{{e|Colorless}}
+|name=Tail Smack
+|jname=しっぽでたたく
+|jtrans=Tail Swipe
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Dragonair
+|species=Dragon
+|ndex=0148
+|height=13'1"
+|jheight=4
+|weight=36.4
+|jweight=16.5
+|dex=They say that if it emits an aura from its whole body, the weather will begin to change instantly.
+|jdex=全身から　オーラが　出されると あたりの　天候が　みるみるうちに 変わっていく　という｡
+}}
+
+==Trivia==
+This card is one of several featured in the {{TCGP|Genetic Apex}} expansion's "Safari Zone" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]], all of which can be found in the [[Kanto Safari Zone]] in Generations {{gen|I}} and {{gen|III}}.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Dragonair|118}} from the {{TCG|Team Up}} expansion.
+*'''Tail Smack''' is an attack that first appeared on {{TCG ID|BW Promo|Snivy|6}}, one of the {{TCG|BW Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dragonir (Unschlagbare Gene 184)]]
+[[es:Dragonair (Genes Formidables TCG Pocket)]]
+[[fr:Draco (Puissance Génétique 184)]]
+[[it:Dragonair (Geni Supremi 184)]]
+[[ja:ハクリュー (ポケポケ A1)]]
+[[zh:哈克龙（A1）]]

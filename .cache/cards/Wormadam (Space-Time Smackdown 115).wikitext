@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wormadam
+|ja name=ミノマダム
+|trans name=Minomadam
+|species=Wormadam
+|type=Metal
+|image=WormadamSpace-TimeSmackdown115.png
+|illustrator=Kyoko Umemoto
+|hp=110
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Burmy
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Palkia|rarity=Diamond|rarity count=1|number=115/155}}
+}}
+
+'''Wormadam''' (Japanese: '''ミノマダム''' ''Minomadam'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}
+|name=Iron Head
+|jname=アイアンヘッド
+|jtrans=Iron Head
+|damage=50+
+|effect=Flip a coin until you get tails. This attack does 30 more damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Wormadam
+|species=Bagworm
+|ndex=0413
+|height=1'8"
+|jheight=0.5
+|weight=14.3
+|jweight=6.5
+|dex=Its appearance changes depending on where it evolved. The materials on hand become a part of its body.
+|jdex=進化した 場所によって 姿が 変わる。身近にある 材料が 体の 一部になるのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Wormadam}} in its {{form|Wormadam|Trash Cloak}} form.
+*This card's illustration was first featured on {{TCG ID|Fates Collide|Wormadam|59}} from the {{TCG|Fates Collide}} expansion; both cards have the Iron Head attack.
+*{{m|Iron Head}} is a [[move]] in the [[Pokémon games]] that {{p|Wormadam}} Trash Cloak can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shining Pearl}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Burmadame (Kollision von Raum und Zeit 115)]]
+[[es:Wormadam (Pugna Espaciotemporal 115 TCG Pocket)]]
+[[fr:Cheniselle (Choc Spatio-Temporel 115)]]
+[[it:Wormadam (Scontro Spaziotemporale 115)]]
+[[ja:ミノマダム (ポケポケ A2 115)]]
+[[zh:结草贵妇（A2 115）]]

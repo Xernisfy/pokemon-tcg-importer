@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Igglybuff
+|ja name=ププリン
+|trans name=Pupurin
+|species=Igglybuff
+|type=Colorless
+|image=IgglybuffSecludedSprings59.png
+|illustrator=Miki Tanaka
+|hp=30
+|weakness=
+|retreat cost=0
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=059/071|pack=Any (Bonus)|rarity=Diamond|rarity count=3}}
+}}
+
+'''Igglybuff''' (Japanese: '''ププリン''' ''Pupurin'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|None}}
+|name=Sleepy Lullaby
+|jname=すやすやソング
+|jtrans=Soundly Sleeping Lulluby
+|damage=10
+|effect=Your opponent's Active Pokémon is now {{TCG|Asleep}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Igglybuff
+|category=Balloon
+|ndex=0174
+|height=1'
+|jheight=0.3
+|weight=32.2
+|jweight=1.0
+|dex=Its body has a faintly sweet scent and is bouncy and soft. If it bounces even once, it cannot stop.
+|jdex=ほんのり 甘い 香りがして よく 弾む 柔らかい 体は 一度 弾みだすと 止まらない。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Neo Discovery|Igglybuff|40}} from the {{TCG|Neo Discovery}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Fluffeluff (Verborgene Quelle 059)]]
+[[es:Igglybuff (Manantial Oculto TCG Pocket)]]
+[[fr:Toudoudou (Source Secrète 059)]]
+[[it:Igglybuff (Sorgenti Recondite 59)]]
+[[ja:ププリン (ポケポケ A4a)]]
+[[zh:宝宝丁（A4a）]]

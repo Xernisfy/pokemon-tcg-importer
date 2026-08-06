@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Morelull
+|ja name=ネマシュ
+|trans name=Nemasyu
+|species=Morelull
+|type=Grass
+|image=MorelullCelestialGuardians16.png
+|illustrator=You Iribi
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MorelullCelestialGuardians16.png|illustrator=You Iribi|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MorelullCelestialGuardians157.png|illustrator=kamonabe|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=016/155|pack=Lunala|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=157/155|pack=Lunala|rarity=Star|rarity count=1}}
+}}
+
+'''Morelull''' (Japanese: '''ネマシュ''' ''Nemasyu'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Stampede
+|jname=ふむ
+|jtrans=Step On
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Morelull
+|species=Illuminating
+|ndex=0755
+|height=8"
+|jheight=0.2
+|weight=3.3
+|jweight=1.5
+|dex=Pokémon living in the forest eat the delicious caps on Morelull's head. The caps regrow overnight.
+|jdex=頭の 傘は とても 美味しい。 森の ポケモンたちに 食べられるが 一晩で 再生する。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=MorelullCelestialGuardians16.png
+|caption1=Common card<br>Illus. [[You Iribi]]
+|image2=MorelullCelestialGuardians157.png
+|caption2=Illustration rare card<br>Illus. [[kamonabe]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Lost Thunder|Morelull|147}} from the {{TCG|Lost Thunder}} expansion.
+*This card's illustration rare print forms a {{TCG|narrative illustration}} with the illustration rare print of {{TCG ID|Celestial Guardians|Cutiefly|167}}; both cards are illustrated by [[kamonabe]].
+*'''Stampede''' is an attack that first appeared on {{TCG ID|EX Ruby & Sapphire|Phanpy|62}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bubungus (Hüter des Firmaments 016)]]
+[[es:Morelull (Guardianes Celestiales TCG Pocket)]]
+[[fr:Spododo (Gardiens Astraux 016)]]
+[[it:Morelull (Guardiani Astrali 16)]]
+[[ja:ネマシュ (ポケポケ A3)]]
+[[zh:睡睡菇（A3）]]

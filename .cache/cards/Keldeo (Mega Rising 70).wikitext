@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Keldeo
+|ja name=ケルディオ
+|trans name=Keldeo
+|species=Keldeo
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KeldeoMegaRising70.png|illustrator=Takeshi Nakamura|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KeldeoMegaRising235.png|illustrator=Narumi Sato|tab caption=Illustration Rare}}
+|hp=100
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Blaziken|rarity=Diamond|rarity count=3|number=070/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Blaziken|rarity=Star|rarity count=1|number=235/226}}
+}}
+
+'''Keldeo''' (Japanese: '''ケルディオ''' ''Keldeo'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Sacred Sword
+|jname=せいなるつるぎ
+|jtrans=Sacred Sword
+|damage=110
+|effect=During your next turn, this Pokémon can't use Sacred Sword.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Keldeo
+|species=Colt
+|ndex=0647
+|height=4'7"
+|jheight=1.4
+|weight=106.9
+|jweight=48.5
+|dex=It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.
+|jdex=海や 川など 水面を 走り 世界中を 駆け巡る。美しい 水辺に 現れる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=KeldeoMegaRising70.png
+|caption1=Rare card<br>Illus. [[Takeshi Nakamura]]
+|image2=KeldeoMegaRising235.png
+|caption2=Illustration rare card<br>Illus. [[Narumi Sato]]
+}}
+
+==Trivia==
+===Origin===
+*{{m|Sacred Sword}} is a [[move]] in the [[Pokémon games]] that {{p|Keldeo}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Keldeo (Mega-Aufstieg 070)]]
+[[es:Keldeo (Megaascenso TCG Pocket)]]
+[[fr:Keldeo (Méga-Ascension 070)]]
+[[it:Keldeo (Mega Ascesa 70)]]
+[[ja:ケルディオ (ポケポケ B1)]]
+[[zh:凯路迪欧（B1）]]

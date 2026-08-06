@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ninetales
+|ja name=キュウコン
+|trans name=Kyukon
+|species=Ninetales
+|type=Fire
+|image=NinetalesWisdomofSeaandSky26.png
+|illustrator=AKIRA EGAWA
+|hp=100
+|weakness=Water
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Vulpix
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=026/161|pack=Lugia|rarity=Diamond|rarity count=3}}
+}}
+
+'''Ninetales''' (Japanese: '''キュウコン''' ''Kyukon'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Colorless}}
+|name=Scorching Breath
+|jname=しゃくねつのいぶき
+|jtrans=Scorching Breath
+|damage=120
+|effect=During your next turn, this Pokémon can't attack.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Ninetales
+|species=Fox
+|ndex=0038
+|height=3'7"
+|jheight=1.1
+|weight=43.9
+|jweight=19.9
+|dex=It is said to live 1,000 years, and each of its tails is loaded with supernatural powers.
+|jdex=しっぽの １本 １本に 神通力が 込められている。 １０００年 生きると 言われる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Ninetales|25}} from the {{TCG|Rebel Clash}} expansion.
+*'''Scorching Breath''' is an attack that first appeared on {{TCG ID|Evolutions|Arcanine|18}} from the {{TCG|Evolutions}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Vulnona (Weisheit von Meer und Himmel 026)]]
+[[es:Ninetales (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Feunard (Sagesse entre Ciel et Mer 026)]]
+[[it:Ninetales (La Via del Cielo e del Mare 26)]]
+[[ja:キュウコン (ポケポケ A4)]]
+[[zh:九尾（A4）]]

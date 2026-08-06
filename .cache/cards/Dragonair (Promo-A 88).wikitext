@@ -1,0 +1,63 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dragonair
+|ja name=ハクリュー
+|trans name=Hakuryu
+|species=Dragonair
+|type=Dragon
+|image=DragonairPromo-A88.png
+|illustrator=Shinya Komatsu
+|hp=100
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Dratini
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=088/P-A|pack=Vol. 10}}
+}}
+
+'''Dragonair''' (Japanese: '''ハクリュー''' ''Hakuryu'') is a {{ct|Dragon}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Colorless}}
+|name=Shed Skin
+|jname=だっぴ
+|jtrans=Molting
+|damage=
+|effect=Heal 30 damage from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Dragonair
+|species=Dragon
+|ndex=0148
+|height=13'1"
+|jheight=4
+|weight=36.4
+|jweight=16.5
+|dex=They say that if it emits an aura from its whole body, the weather will begin to change instantly.
+|jdex=全身から　オーラが　出されると あたりの　天候が　みるみるうちに 変わっていく　という｡
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 10 packs; these were made available as part of the [[Alcremie Drop Event]], which ran from July 2 to 12, 2025.
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Silver Tempest|Dragonair|130}} from the {{TCG|Silver Tempest}} expansion.
+*{{a|Shed Skin}} is an [[Ability]] in the [[Pokémon games]] that {{p|Dragonair}} can have.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dragonir (PROMO-A 088)]]
+[[es:Dragonair (Promo-A 88 TCG Pocket)]]
+[[fr:Draco (Promo-A 088)]]
+[[it:Dragonair (Promo-A 88)]]
+[[ja:ハクリュー (ポケポケ P-A)]]
+[[zh:哈克龍（P-A）]]

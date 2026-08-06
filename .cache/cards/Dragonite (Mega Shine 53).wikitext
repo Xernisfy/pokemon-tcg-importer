@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dragonite
+|ja name=カイリュー
+|trans name=Kairyu
+|species=Dragonite
+|type=Dragon
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DragoniteMegaShine53.png|illustrator=Kouki Saitou|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DragoniteMegaShine107.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=150
+|weakness=
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Dragonair
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=053/069|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=107/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Dragonite''' (Japanese: '''カイリュー''' ''Kairyu'') is a {{ct|Dragon}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Water}}{{e|Lightning}}{{e|Colorless}}
+|name=Dragon Wave
+|jname=ドラゴンウェーブ
+|jtrans=Dragon Wave
+|damage=150
+|effect=Discard a {{e|Water}} Energy and a {{e|Lightning}} Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Dragonite
+|category=Dragon
+|ndex=0149
+|height=7'3"
+|jheight=2.2
+|weight=463
+|jweight=210.0
+|dex=It can fly in spite of its big and bulky physique. It circles the globe in just 16 hours.
+|jdex=大きな　体格で　空を　飛ぶ｡ 地球を　約１６時間で １周してしまう｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Dragon
+|image1=DragoniteMegaShine53.png
+|caption1=Rare card<br>Illus. [[Kouki Saitou]]
+|image2=DragoniteMegaShine107.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|T Promo|Dragonite|18}}, a {{TCG|T Promotional cards|T Promotional card}} only released in Japan.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Dragonite}}.
+*'''Dragon Wave''' is an attack that first appeared on {{TCG ID|VS|Lance's TM 01|128}} from the {{TCG|Pokémon VS}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dragoran (Mega-Schillern 053)]]
+[[fr:Dracolosse (Méga-Rayonnement 053)]]
+[[it:Dragonite (Mega Splendore 53)]]
+[[ja:カイリュー (ポケポケ B2b)]]
+[[zh:快龙（B2b）]]

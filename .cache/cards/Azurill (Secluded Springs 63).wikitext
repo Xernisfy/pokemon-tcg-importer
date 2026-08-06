@@ -1,0 +1,70 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Azurill
+|ja name=ルリリ
+|trans name=Ruriri
+|species=Azurill
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AzurillSecludedSprings63.png|illustrator=Rond|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AzurillSecludedSprings77.png|illustrator=ryoma uratsuka|tab caption=Illustration Rare}}
+|hp=30
+|weakness=
+|retreat cost=0
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=063/071|pack=Any (Bonus)|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=077/071|pack=Any (Bonus)|rarity=Star|rarity count=1}}
+}}
+
+'''Azurill''' (Japanese: '''ルリリ''' ''Ruriri'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|None}}
+|name=Squishy Healing
+|jname=ぷにぷにヒール
+|jtrans=Squishy Heal
+|damage=
+|effect=Heal 50 damage from 1 of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Azurill
+|category=Polka Dot
+|ndex=298
+|height=8"
+|jheight=0.2
+|weight=4.4
+|jweight=2.0
+|dex=Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.
+|jdex=ゴムボールのように よく 弾む。 尻尾を 振りまわし 自分よりも 大きな 相手に 立ち向かう。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=AzurillSecludedSprings63.png
+|caption1=Rare card<br>Illus. [[Rond]]
+|image2=AzurillSecludedSprings77.png
+|caption2=Illustration rare card<br>Illus. [[ryoma uratsuka]]
+}}
+
+==Trivia==
+===Origin===
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Azurill (Verborgene Quelle 063)]]
+[[es:Azurill (Manantial Oculto TCG Pocket)]]
+[[fr:Azurill (Source Secrète 063)]]
+[[it:Azurill (Sorgenti Recondite 63)]]
+[[ja:ルリリ (ポケポケ A4a)]]
+[[zh:露力丽（A4a）]]

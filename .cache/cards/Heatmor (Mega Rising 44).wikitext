@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Heatmor
+|ja name=クイタラン
+|trans name=Kuitaran
+|species=Heatmor
+|type=Fire
+|image=HeatmorMegaRising44.png
+|illustrator=Satoshi Shirai
+|hp=80
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=044/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Heatmor''' (Japanese: '''クイタラン''' ''Kuitaran'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Tongue Whip
+|jname=ベロのムチ
+|jtrans=Tongue Whip
+|damage=
+|effect=This attack does 30 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Heatmor
+|category=Anteater
+|ndex=0631
+|height=4'8"
+|jheight=1.4
+|weight=127.9
+|jweight=58.0
+|dex=A flame serves as its tongue, melting through the hard shell of Durant so that Heatmor can devour their insides.
+|jdex=炎を ベロの ように 使う。 アイアントの 硬い 外骨格を じわじわと 溶かし いただくのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Heatmor|34}} from the {{TCG|Rebel Clash}} expansion.
+*'''Tongue Whip''' is an attack that first appeared on {{TCG ID|EX FireRed & LeafGreen|Lickitung|37}} from the {{TCG|EX FireRed & LeafGreen}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Furnifraß (Mega-Aufstieg 044)]]
+[[es:Heatmor (Megaascenso TCG Pocket)]]
+[[fr:Aflamanoir (Méga-Ascension 044)]]
+[[it:Heatmor (Mega Ascesa 44)]]
+[[ja:クイタラン (ポケポケ B1)]]
+[[zh:熔蚁兽（B1）]]

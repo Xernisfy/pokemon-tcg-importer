@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bagon
+|ja name=タツベイ
+|trans name=Tatsubay
+|species=Bagon
+|type=Dragon
+|image=BagonFantasticalParade121.png
+|illustrator=sui
+|hp=60
+|weakness=
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=121/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Bagon''' (Japanese: '''タツベイ''' ''Tatsubay'') is a {{ct|Dragon}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Colorless}}
+|name=Bite
+|jname=かみつく
+|jtrans=Bite
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Bagon
+|category=Rock Head
+|ndex=0371
+|height=2'
+|jheight=0.6
+|weight=92.8
+|jweight=42.1
+|dex=Its belief that it will be able to fly one day is apparently the influence of information carried in its genes.
+|jdex=いつか 飛べると 信じているのは 遺伝子の 中の 情報が 影響 しているから らしい。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Celestial Storm|Bagon|104}} from the {{TCG|Celestial Storm}} expansion.
+*{{m|Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Bagon}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kindwurm (Traumhafte Parade 121)]]
+[[fr:Draby (Parade Onirique 121)]]
+[[it:Bagon (Parata Fantasmagorica 121)]]
+[[ja:タツベイ (ポケポケ B2)]]
+[[zh:宝贝龙（B2）]]

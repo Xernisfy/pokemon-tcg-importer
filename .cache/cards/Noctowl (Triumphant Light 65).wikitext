@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Noctowl
+|ja name=ヨルノズク
+|trans name=Yorunozuku
+|species=Noctowl
+|type=Colorless
+|image=NoctowlTriumphantLight65.png
+|illustrator=DOM
+|hp=100
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Hoothoot
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=065/075|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Noctowl''' (Japanese: '''ヨルノズク''' ''Yorunozuku'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Silent Wing
+|jname=サイレントウイング
+|jtrans=Silent Wing
+|damage=50
+|effect=Your opponent reveals their hand.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Noctowl
+|species=Owl
+|ndex=0164
+|height=5'3"
+|jheight=1.6
+|weight=89.9
+|jweight=40.8
+|dex=Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.
+|jdex=特殊な つくりの 両目は わずかな 光さえ あれば 暗闇でも 昼のように 見える。
+}}
+
+==Trivia==
+Noctowl is one of four Pokémon in the {{TCGP|Triumphant Light}} expansion featured in the "Abomasnow of Mt. Coronet" [[Triumphant Light (TCG Pocket)#Themed Collections|Themed Collection]] as {{p|Noctowl}} can be found at [[Mount Coronet]] in {{game|Diamond and Pearl|s|Pokémon Diamond, Pearl}}, {{game|Platinum||Platinum}}, {{game|Brilliant Diamond and Shining Pearl|s|Brilliant Diamond, and Shining Pearl}}; this may also be the setting for this card's illustration.
+
+===Origin===
+*'''Silent Wing''' is an attack that first appeared on {{TCG ID|Astral Radiance|Noctowl|121}} from the {{TCG|Astral Radiance}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Noctuh (Licht des Triumphs 065)]]
+[[es:Noctowl (Luz Triunfal TCG Pocket)]]
+[[fr:Noarfang (Lumière Triomphale 065)]]
+[[it:Noctowl (Luce Trionfale 65)]]
+[[ja:ヨルノズク (ポケポケ A2a)]]
+[[zh:貓頭夜鷹（A2a）]]

@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hoothoot
+|ja name=ホーホー
+|trans name=Hoho
+|species=Hoothoot
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HoothootWisdomofSeaandSky140.png|illustrator=Yumi|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HoothootWisdomofSeaandSky182.png|illustrator=Uninori|tab caption=Illustration Rare}}
+|hp=50
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=140/161|pack=Ho-Oh|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=182/161|pack=Ho-Oh|rarity=Star|rarity count=1}}
+}}
+
+'''Hoothoot''' (Japanese: '''ホーホー''' ''Hoho'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Insomnia
+|jname=ふみん
+|jtrans=Insomnia
+|effect=This Pokémon can't be {{TCG|Asleep}}.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Wing Attack
+|jname=つばさでうつ
+|jtrans=Wing Strike
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Hoothoot
+|category=Owl 
+|ndex=0163
+|height=2'4"
+|jheight=0.7
+|weight=46.7
+|jweight=21.2
+|dex=It always stands on one foot. It changes feet so fast, the movement can rarely be seen.
+|jdex=いつも 一本足で 立っている。 脚を 入れ替える 瞬間は 素早くて なかなか 見られない。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=HoothootWisdomofSeaandSky140.png
+|caption1=Common card<br>Illus. [[Yumi]]
+|image2=HoothootWisdomofSeaandSky182.png
+|caption2=Illustration rare card<br>Illus. [[Uninori]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Sword & Shield|Hoothoot|143}} from the {{TCG|Sword & Shield}} expansion.
+**Both cards have {{m|Wing Attack}}; this is a [[move]] in the [[Pokémon games]] that {{p|Hoothoot}} can learn.
+*{{a|Insomnia}} is an [[Ability]] in the [[Pokémon games]] that {{p|Hoothoot}} can have.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hoothoot (Weisheit von Meer und Himmel 140)]]
+[[es:Hoothoot (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Hoothoot (Sagesse entre Ciel et Mer 140)]]
+[[it:Hoothoot (La Via del Cielo e del Mare 140)]]
+[[ja:ホーホー (ポケポケ A4)]]
+[[zh:咕咕（A4）]]

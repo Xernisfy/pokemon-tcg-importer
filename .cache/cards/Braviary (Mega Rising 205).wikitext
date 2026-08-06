@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Braviary
+|ja name=ウォーグル
+|trans name=Warrgle
+|species=Braviary
+|type=Colorless
+|image=BraviaryMegaRising205.png
+|illustrator=chibi
+|hp=120
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Rufflet
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=205/226|pack=Mega Blaziken|rarity=Diamond|rarity count=2}}
+}}
+
+'''Braviary''' (Japanese: '''ウォーグル''' ''Warrgle'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Slash
+|jname=きりさく
+|jtrans=Tear into Pieces
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Braviary
+|species=Valiant
+|ndex=0628
+|height=4'11"
+|jheight=1.5
+|weight=90.4
+|jweight=41.0
+|dex=For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured.
+|jdex=仲間の ためなら どれだけ 傷つこうとも 戦いを やめない 勇敢な 大空の 戦士。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Braviary|178}} from the {{TCG|Cosmic Eclipse}} expansion.
+*{{m|Slash}} is a [[move]] in the [[Pokémon games]] that {{p|Braviary}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Washakwil (Mega-Aufstieg 205)]]
+[[es:Braviary (Megaascenso TCG Pocket)]]
+[[fr:Gueriaigle (Méga-Ascension 205)]]
+[[it:Braviary (Mega Ascesa 205)]]
+[[ja:ウォーグル (ポケポケ B1)]]
+[[zh:勇士雄鹰（B1）]]

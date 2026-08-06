@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Centiskorch
+|ja name=マルヤクデ
+|trans name=Maruyakude
+|species=Centiskorch
+|type=Fire
+|image=CentiskorchGeneticApex52.png
+|illustrator=GOSSAN
+|hp=130
+|weakness=Water
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Sizzlipede
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=052/226|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Centiskorch''' (Japanese: '''マルヤクデ''' ''Maruyakude'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Fire Blast
+|jname=だいもんじ
+|jtrans=Daimonji
+|damage=130
+|effect=Discard a {{e|Fire}} Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Centiskorch
+|species=Radiator
+|ndex=0851
+|height=9'10"
+|jheight=3
+|weight=264.6
+|jweight=120.0
+|dex=When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.
+|jdex=発熱時の　体温は　およそ ８００度｡　体を　鞭のように しならせて　跳びかかってくるぞ｡
+}}
+
+==Trivia==
+===Origin===
+*{{m|Fire Blast}} is a [[move]] in the [[Pokémon games]] that {{p|Centiskorch}} can learn via [[TR]].
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Infernopod (Unschlagbare Gene 052)]]
+[[es:Centiskorch (Genes Formidables TCG Pocket)]]
+[[fr:Scolocendre (Puissance Génétique 052)]]
+[[it:Centiskorch (Geni Supremi 52)]]
+[[ja:マルヤクデ (ポケポケ A1)]]
+[[zh:焚焰蚣（A1）]]

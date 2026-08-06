@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Meowth
+|ja name=アローラニャース
+|trans name=Alolan Nyarth
+|species=Meowth
+|type=Darkness
+|image=AlolanMeowthFantasticalParade94.png
+|illustrator=Megumi Mizutani
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=094/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Alolan Meowth''' (Japanese: '''アローラニャース''' ''Alolan Nyarth'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Swagger
+|jname=いばる
+|jtrans=Swagger
+|damage=
+|effect=Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Meowth
+|category=Scratch Cat
+|ndex=0052
+|height=1'04"
+|jheight=0.4
+|weight=9.3
+|jweight=4.2
+|dex=Deeply proud and keenly smart, this Pokémon moves with cunning during battle and relentlessly attacks enemies' weak points.
+|jdex=プライドと 知能が 高い。 ずる賢く 立ちまわり 相手の 弱点を 執拗に 攻める。
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Meowth}}.
+*This card's illustration was first featured on {{TCG ID|SM Promo|Alolan Meowth|43}}, one of the {{TCG|SM Black Star Promos}}.
+*{{m|Swagger}} is a [[move]] in the [[Pokémon games]] that Alolan Meowth can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Mauzi (Traumhafte Parade 094)]]
+[[fr:Miaouss d'Alola (Parade Onirique 094)]]
+[[it:Meowth di Alola (Parata Fantasmagorica 94)]]
+[[ja:アローラニャース (ポケポケ B2)]]
+[[zh:阿罗拉 喵喵（B2）]]

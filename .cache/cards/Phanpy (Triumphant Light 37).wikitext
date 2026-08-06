@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Phanpy
+|ja name=ゴマゾウ
+|trans name=Gomazou
+|species=Phanpy
+|type=Fighting
+|image=PhanpyTriumphantLight37.png
+|illustrator=Asako Ito
+|hp=60
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=037/075|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Phanpy''' (Japanese: '''ゴマゾウ''' ''Gomazou'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Rollout
+|jname=ころがる
+|jtrans=Roll
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Phanpy
+|species=Long Nose
+|ndex=0231
+|height=1'8"
+|jheight=0.5
+|weight=73.9
+|jweight=33.5
+|dex=This Pokémon lives and nests on a riverbank. After playing in the mud, it won't be able to settle down unless it washes its body.
+|jdex=川辺に 巣穴を 作り 暮らす。 泥遊びをしたあとは 体を 洗わないと 落ち着かないのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Phanpy|111}} from the {{TCG|Lost Thunder}} expansion.
+*{{m|Rollout}} is a [[move]] in the [[Pokémon games]] that {{p|Phanpy}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Phanpy (Licht des Triumphs 037)]]
+[[es:Phanpy (Luz Triunfal TCG Pocket)]]
+[[fr:Phanpy (Lumière Triomphale 037)]]
+[[it:Phanpy (Luce Trionfale 37)]]
+[[ja:ゴマゾウ (ポケポケ A2a)]]
+[[zh:小小象（A2a）]]

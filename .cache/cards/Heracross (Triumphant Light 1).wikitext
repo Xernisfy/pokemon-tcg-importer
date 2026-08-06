@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Heracross
+|ja name=ヘラクロス
+|trans name=Heracros
+|species=Heracross
+|type=Grass
+|image=HeracrossTriumphantLight1.png
+|illustrator=Satoshi Shirai
+|hp=100
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=001/075|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Heracross''' (Japanese: '''ヘラクロス''' ''Heracros'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}{{e|Colorless}}
+|name=Single-Horn Throw
+|jname=いっぽんなげ
+|jtrans=Ippon Throw
+|damage=50+
+|effect=Flip 2 coins. If both of them are heads, this attack does 70 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Heracross
+|species=Single Horn
+|ndex=0214
+|height=4'11"
+|jheight=1.5
+|weight=119
+|jweight=54.0
+|dex=It loves sweet nectar. To keep all the nectar to itself, it hurls rivals away with its prized horn.
+|jdex=甘いミツが 大好きで 独り占め するため 自慢のツノを 使って 相手を ぶん投げる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Heracross|9}} from the {{TCG|Cosmic Eclipse}} expansion.
+*'''Single-Horn Throw''' is an attack that first appeared on {{TCG ID|Chilling Reign|Heracross|6}} from the {{TCG|Chilling Reign}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Skaraborn (Licht des Triumphs 001)]]
+[[es:Heracross (Luz Triunfal TCG Pocket)]]
+[[fr:Scarhino (Lumière Triomphale 001)]]
+[[it:Heracross (Luce Trionfale 1)]]
+[[ja:ヘラクロス (ポケポケ A2a)]]
+[[zh:赫拉克羅斯（A2a）]]

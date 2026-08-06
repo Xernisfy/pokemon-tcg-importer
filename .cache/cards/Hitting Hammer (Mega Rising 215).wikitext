@@ -1,0 +1,45 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Hitting Hammer
+|ja name=ヒットハンマー
+|trans name=Hit Hammer
+|subtype=Item
+|image=HittingHammerMegaRising215.png
+|illustrator=Toyste Beach
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Diamond|rarity count=2|number=215/226}}
+}}
+
+'''Hitting Hammer''' (Japanese: '''ヒットハンマー''' ''Hit Hammer'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Flip 2 coins. If both of them are heads, discard a random Energy from your opponent's Active Pokémon.
+}}
+
+==Trivia==
+* This card's effect is similar to that of the {{TCG|Crushing Hammer}} card in the [[Pokémon Trading Card Game]], but requires two successful coin flips instead of one, can only discard Energy from the opponent's Active Pokémon, and the discarded Energy is chosen randomly.
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=ヒットハンマー ''Hit Hammer''
+|zh_yue=重擊錘 ''Chúhnggīk Chèuih''
+|zh_cmn=重擊錘 ''Zhòngjí Chuí''
+|fr=Maillet Cognant
+|de=Schlagender Hammer
+|it=Martello Debilitante
+|ko=히트해머 ''Hit Hammer''
+|pt_br=Martelo Batedor
+|es=Mazo Golpeador
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schlagender Hammer (TCG Pocket)]]
+[[fr:Maillet Cognant (Méga-Ascension 215)]]
+[[it:Martello Debilitante (Mega Ascesa 215)]]
+[[ja:ヒットハンマー]]
+[[zh:重击锤（TCGP）]]

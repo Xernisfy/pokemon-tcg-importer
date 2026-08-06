@@ -1,0 +1,820 @@
+{{TCGPocketExpansionPrevNext | prev = Eevee Grove | next = Secluded Springs }}
+{{TCGPocketExpansionInfobox
+|setname=Wisdom of Sea and Sky
+|jasetname=空と海の導き
+|jasettrans=Guidance of Sea and Sky
+|setlogo=A4 Set Logo EN.png
+|setsymbol=yes
+|cards=241 (161 + 80 secret cards)
+|release=July 30, 2025
+|collections=22 + 6 secret
+|dex missions=15 + 1 secret
+|deck missions=20
+|decks=10
+|battles=30
+}}
+'''Wisdom of Sea and Sky''' (Japanese: '''{{j|空と海の導き}}''' ''Guidance of Sea and Sky'') is the ninth expansion of cards in [[Pokémon Trading Card Game Pocket]].
+
+== Information ==
+'''Wisdom of Sea and Sky''' is the fourth main expansion released through [[Pokémon Trading Card Game Pocket]]. The expansion focuses heavily on [[Generation II]] and features Pokémon and characters from the [[Johto]] region; its two booster packs are themed around {{p|Ho-Oh}} and {{p|Lugia}}, the [[game mascot]]s and featured Legendary Pokémon of {{game|Gold and Silver|s}} and their remakes, {{game|HeartGold and SoulSilver|s}}.
+
+The expansion introduces [[Baby Pokémon]] to the game, which were introduced to the [[core series]] in Generation II; these are depicted as {{TCG|Basic Pokémon}} with 30 {{TCG|HP}}, no {{TCG|Weakness}}es or {{TCG|Retreat Cost}}s, and attacks that require no {{TCG|Energy}} to use.
+
+== Card list ==
+{{TCG Set List/header|tablecol=CB9|bordercol=A97|cellcol=FEC}}
+{{TCG Set List/header/packs|Ho-Oh|Lugia|cellcol=FEC|setcode=A4}}
+|-
+| 001/161 || {{TCG ID|Wisdom of Sea and Sky|Oddish|1}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 002/161 || {{TCG ID|Wisdom of Sea and Sky|Gloom|2}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 003/161 || {{TCG ID|Wisdom of Sea and Sky|Bellossom|3}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 004/161 || {{TCG ID|Wisdom of Sea and Sky|Tangela|4}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 005/161 || {{TCG ID|Wisdom of Sea and Sky|Tangrowth|5}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 006/161 || {{TCG ID|Wisdom of Sea and Sky|Scyther|6}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 007/161 || {{TCG ID|Wisdom of Sea and Sky|Pinsir|7}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 008/161 || {{TCG ID|Wisdom of Sea and Sky|Chikorita|8}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 009/161 || {{TCG ID|Wisdom of Sea and Sky|Bayleef|9}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 010/161 || {{TCG ID|Wisdom of Sea and Sky|Meganium|10}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 011/161 || {{TCG ID|Wisdom of Sea and Sky|Ledyba|11}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 012/161 || {{TCG ID|Wisdom of Sea and Sky|Ledian|12}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 013/161 || {{TCG ID|Wisdom of Sea and Sky|Hoppip|13}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 014/161 || {{TCG ID|Wisdom of Sea and Sky|Skiploom|14}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 015/161 || {{TCG ID|Wisdom of Sea and Sky|Jumpluff|15}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 016/161 || {{TCG ID|Wisdom of Sea and Sky|Sunkern|16}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 017/161 || {{TCG ID|Wisdom of Sea and Sky|Sunflora|17}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 018/161 || {{TCG ID|Wisdom of Sea and Sky|Yanma|18}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 019/161 || {{TCG ID|Wisdom of Sea and Sky|Yanmega|19}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 020/161 || {{TCG ID|Wisdom of Sea and Sky|Pineco|20}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 021/161 || {{TCG ID|Wisdom of Sea and Sky|Shuckle ex|21|Shuckle}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}} ||  || {{Yes}}
+|-
+| 022/161 || {{TCG ID|Wisdom of Sea and Sky|Heracross|22}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 023/161 || {{TCG ID|Wisdom of Sea and Sky|Cherubi|23}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 024/161 || {{TCG ID|Wisdom of Sea and Sky|Cherrim|24}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 025/161 || {{TCG ID|Wisdom of Sea and Sky|Vulpix|25}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 026/161 || {{TCG ID|Wisdom of Sea and Sky|Ninetales|26}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 027/161 || {{TCG ID|Wisdom of Sea and Sky|Cyndaquil|27}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 028/161 || {{TCG ID|Wisdom of Sea and Sky|Quilava|28}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 029/161 || {{TCG ID|Wisdom of Sea and Sky|Typhlosion|29}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 030/161 || {{TCG ID|Wisdom of Sea and Sky|Slugma|30}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 031/161 || {{TCG ID|Wisdom of Sea and Sky|Magcargo|31}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 032/161 || {{TCG ID|Wisdom of Sea and Sky|Magby|32}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 033/161 || {{TCG ID|Wisdom of Sea and Sky|Entei|33}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 034/161 || {{TCG ID|Wisdom of Sea and Sky|Ho-Oh ex|34|Ho-Oh}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} || 
+|-
+| 035/161 || {{TCG ID|Wisdom of Sea and Sky|Darumaka|35}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 036/161 || {{TCG ID|Wisdom of Sea and Sky|Darmanitan|36}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 037/161 || {{TCG ID|Wisdom of Sea and Sky|Heatmor|37}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 038/161 || {{TCG ID|Wisdom of Sea and Sky|Poliwag|38}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 039/161 || {{TCG ID|Wisdom of Sea and Sky|Poliwhirl|39}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 040/161 || {{TCG ID|Wisdom of Sea and Sky|Politoed|40}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 041/161 || {{TCG ID|Wisdom of Sea and Sky|Horsea|41}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 042/161 || {{TCG ID|Wisdom of Sea and Sky|Seadra|42}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 043/161 || {{TCG ID|Wisdom of Sea and Sky|Kingdra ex|43|Kingdra}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}} ||  || {{Yes}}
+|-
+| 044/161 || {{TCG ID|Wisdom of Sea and Sky|Magikarp|44}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 045/161 || {{TCG ID|Wisdom of Sea and Sky|Gyarados|45}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 046/161 || {{TCG ID|Wisdom of Sea and Sky|Totodile|46}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 047/161 || {{TCG ID|Wisdom of Sea and Sky|Croconaw|47}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 048/161 || {{TCG ID|Wisdom of Sea and Sky|Feraligatr|48}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 049/161 || {{TCG ID|Wisdom of Sea and Sky|Marill|49}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 050/161 || {{TCG ID|Wisdom of Sea and Sky|Azumarill|50}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 051/161 || {{TCG ID|Wisdom of Sea and Sky|Wooper|51}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 052/161 || {{TCG ID|Wisdom of Sea and Sky|Quagsire|52}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 053/161 || {{TCG ID|Wisdom of Sea and Sky|Qwilfish|53}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 054/161 || {{TCG ID|Wisdom of Sea and Sky|Corsola|54}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 055/161 || {{TCG ID|Wisdom of Sea and Sky|Remoraid|55}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 056/161 || {{TCG ID|Wisdom of Sea and Sky|Octillery|56}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 057/161 || {{TCG ID|Wisdom of Sea and Sky|Delibird|57}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 058/161 || {{TCG ID|Wisdom of Sea and Sky|Mantine|58}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 059/161 || {{TCG ID|Wisdom of Sea and Sky|Suicune|59}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 060/161 || {{TCG ID|Wisdom of Sea and Sky|Corphish|60}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 061/161 || {{TCG ID|Wisdom of Sea and Sky|Crawdaunt|61}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 062/161 || {{TCG ID|Wisdom of Sea and Sky|Ducklett|62}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 063/161 || {{TCG ID|Wisdom of Sea and Sky|Swanna|63}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 064/161 || {{TCG ID|Wisdom of Sea and Sky|Chinchou|64}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 065/161 || {{TCG ID|Wisdom of Sea and Sky|Lanturn ex|65|Lanturn}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|4}} ||  || {{Yes}}
+|-
+| 066/161 || {{TCG ID|Wisdom of Sea and Sky|Pichu|66}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 067/161 || {{TCG ID|Wisdom of Sea and Sky|Mareep|67}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 068/161 || {{TCG ID|Wisdom of Sea and Sky|Flaaffy|68}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 069/161 || {{TCG ID|Wisdom of Sea and Sky|Ampharos|69}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 070/161 || {{TCG ID|Wisdom of Sea and Sky|Elekid|70}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 071/161 || {{TCG ID|Wisdom of Sea and Sky|Raikou|71}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 072/161 || {{TCG ID|Wisdom of Sea and Sky|Emolga|72}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 073/161 || {{TCG ID|Wisdom of Sea and Sky|Slowpoke|73}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 074/161 || {{TCG ID|Wisdom of Sea and Sky|Slowking|74}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 075/161 || {{TCG ID|Wisdom of Sea and Sky|Smoochum|75}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 076/161 || {{TCG ID|Wisdom of Sea and Sky|Jynx|76}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 077/161 || {{TCG ID|Wisdom of Sea and Sky|Cleffa|77}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 078/161 || {{TCG ID|Wisdom of Sea and Sky|Togepi|78}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 079/161 || {{TCG ID|Wisdom of Sea and Sky|Togetic|79}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 080/161 || {{TCG ID|Wisdom of Sea and Sky|Togekiss|80}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 081/161 || {{TCG ID|Wisdom of Sea and Sky|Natu|81}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 082/161 || {{TCG ID|Wisdom of Sea and Sky|Xatu|82}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 083/161 || {{TCG ID|Wisdom of Sea and Sky|Espeon ex|83|Espeon}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|4}} ||  || {{Yes}}
+|-
+| 084/161 || {{TCG ID|Wisdom of Sea and Sky|Unown|84}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 085/161 || {{TCG ID|Wisdom of Sea and Sky|Unown|85}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 086/161 || {{TCG ID|Wisdom of Sea and Sky|Wobbuffet|86}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 087/161 || {{TCG ID|Wisdom of Sea and Sky|Girafarig|87}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 088/161 || {{TCG ID|Wisdom of Sea and Sky|Snubbull|88}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 089/161 || {{TCG ID|Wisdom of Sea and Sky|Granbull|89}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 090/161 || {{TCG ID|Wisdom of Sea and Sky|Munna|90}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 091/161 || {{TCG ID|Wisdom of Sea and Sky|Musharna|91}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 092/161 || {{TCG ID|Wisdom of Sea and Sky|Onix|92}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 093/161 || {{TCG ID|Wisdom of Sea and Sky|Sudowoodo|93}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 094/161 || {{TCG ID|Wisdom of Sea and Sky|Gligar|94}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 095/161 || {{TCG ID|Wisdom of Sea and Sky|Gliscor|95}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 096/161 || {{TCG ID|Wisdom of Sea and Sky|Swinub|96}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 097/161 || {{TCG ID|Wisdom of Sea and Sky|Piloswine|97}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 098/161 || {{TCG ID|Wisdom of Sea and Sky|Mamoswine|98}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 099/161 || {{TCG ID|Wisdom of Sea and Sky|Phanpy|99}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 100/161 || {{TCG ID|Wisdom of Sea and Sky|Donphan ex|100|Donphan}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} || 
+|-
+| 101/161 || {{TCG ID|Wisdom of Sea and Sky|Tyrogue|101}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 102/161 || {{TCG ID|Wisdom of Sea and Sky|Hitmontop|102}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 103/161 || {{TCG ID|Wisdom of Sea and Sky|Larvitar|103}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 104/161 || {{TCG ID|Wisdom of Sea and Sky|Pupitar|104}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 105/161 || {{TCG ID|Wisdom of Sea and Sky|Binacle|105}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 106/161 || {{TCG ID|Wisdom of Sea and Sky|Barbaracle|106}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 107/161 || {{TCG ID|Wisdom of Sea and Sky|Zubat|107}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 108/161 || {{TCG ID|Wisdom of Sea and Sky|Golbat|108}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 109/161 || {{TCG ID|Wisdom of Sea and Sky|Crobat ex|109|Crobat}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} || 
+|-
+| 110/161 || {{TCG ID|Wisdom of Sea and Sky|Spinarak|110}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 111/161 || {{TCG ID|Wisdom of Sea and Sky|Ariados|111}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 112/161 || {{TCG ID|Wisdom of Sea and Sky|Umbreon ex|112|Umbreon}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} || 
+|-
+| 113/161 || {{TCG ID|Wisdom of Sea and Sky|Murkrow|113}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 114/161 || {{TCG ID|Wisdom of Sea and Sky|Honchkrow|114}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 115/161 || {{TCG ID|Wisdom of Sea and Sky|Sneasel|115}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 116/161 || {{TCG ID|Wisdom of Sea and Sky|Weavile|116}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 117/161 || {{TCG ID|Wisdom of Sea and Sky|Houndour|117}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 118/161 || {{TCG ID|Wisdom of Sea and Sky|Houndoom|118}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 119/161 || {{TCG ID|Wisdom of Sea and Sky|Tyranitar|119}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 120/161 || {{TCG ID|Wisdom of Sea and Sky|Absol|120}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 121/161 || {{TCG ID|Wisdom of Sea and Sky|Forretress|121}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 122/161 || {{TCG ID|Wisdom of Sea and Sky|Steelix|122}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 123/161 || {{TCG ID|Wisdom of Sea and Sky|Scizor|123}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 124/161 || {{TCG ID|Wisdom of Sea and Sky|Skarmory ex|124|Skarmory}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} || 
+|-
+| 125/161 || {{TCG ID|Wisdom of Sea and Sky|Mawile|125}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 126/161 || {{TCG ID|Wisdom of Sea and Sky|Klink|126}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 127/161 || {{TCG ID|Wisdom of Sea and Sky|Klang|127}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 128/161 || {{TCG ID|Wisdom of Sea and Sky|Klinklang|128}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 129/161 || {{TCG ID|Wisdom of Sea and Sky|Spearow|129}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 130/161 || {{TCG ID|Wisdom of Sea and Sky|Fearow|130}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 131/161 || {{TCG ID|Wisdom of Sea and Sky|Chansey|131}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 132/161 || {{TCG ID|Wisdom of Sea and Sky|Blissey|132}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 133/161 || {{TCG ID|Wisdom of Sea and Sky|Kangaskhan|133}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 134/161 || {{TCG ID|Wisdom of Sea and Sky|Eevee|134}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 135/161 || {{TCG ID|Wisdom of Sea and Sky|Porygon|135}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 136/161 || {{TCG ID|Wisdom of Sea and Sky|Porygon2|136}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 137/161 || {{TCG ID|Wisdom of Sea and Sky|Porygon-Z|137}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 138/161 || {{TCG ID|Wisdom of Sea and Sky|Sentret|138}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 139/161 || {{TCG ID|Wisdom of Sea and Sky|Furret|139}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 140/161 || {{TCG ID|Wisdom of Sea and Sky|Hoothoot|140}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 141/161 || {{TCG ID|Wisdom of Sea and Sky|Noctowl|141}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 142/161 || {{TCG ID|Wisdom of Sea and Sky|Aipom|142}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 143/161 || {{TCG ID|Wisdom of Sea and Sky|Ambipom|143}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 144/161 || {{TCG ID|Wisdom of Sea and Sky|Dunsparce|144}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 145/161 || {{TCG ID|Wisdom of Sea and Sky|Teddiursa|145}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 146/161 || {{TCG ID|Wisdom of Sea and Sky|Ursaring|146}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 147/161 || {{TCG ID|Wisdom of Sea and Sky|Stantler|147}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 148/161 || {{TCG ID|Wisdom of Sea and Sky|Smeargle|148}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 149/161 || {{TCG ID|Wisdom of Sea and Sky|Lugia ex|149|Lugia}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|4}} ||  || {{Yes}}
+|-
+| 150/161 || {{TCG ID|Wisdom of Sea and Sky|Bouffalant|150}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 151/161 || {{TCG ID|Wisdom of Sea and Sky|Elemental Switch|151}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 152/161 || {{TCG ID|Wisdom of Sea and Sky|Squirt Bottle|152}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 153/161 || {{TCG ID|Wisdom of Sea and Sky|Steel Apron|153}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 154/161 || {{TCG ID|Wisdom of Sea and Sky|Dark Pendant|154}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 155/161 || {{TCG ID|Wisdom of Sea and Sky|Rescue Scarf|155}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 156/161 || {{TCG ID|Wisdom of Sea and Sky|Will|156}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 157/161 || {{TCG ID|Wisdom of Sea and Sky|Lyra|157}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 158/161 || {{TCG ID|Wisdom of Sea and Sky|Silver|158}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 159/161 || {{TCG ID|Wisdom of Sea and Sky|Fisher|159}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 160/161 || {{TCG ID|Wisdom of Sea and Sky|Jasmine|160}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 161/161 || {{TCG ID|Wisdom of Sea and Sky|Hiker|161}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 162/161 || {{TCG ID|Wisdom of Sea and Sky|Chikorita|162}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 163/161 || {{TCG ID|Wisdom of Sea and Sky|Bellossom|163}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 164/161 || {{TCG ID|Wisdom of Sea and Sky|Heracross|164}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 165/161 || {{TCG ID|Wisdom of Sea and Sky|Cyndaquil|165}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 166/161 || {{TCG ID|Wisdom of Sea and Sky|Magby|166}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 167/161 || {{TCG ID|Wisdom of Sea and Sky|Totodile|167}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 168/161 || {{TCG ID|Wisdom of Sea and Sky|Qwilfish|168}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 169/161 || {{TCG ID|Wisdom of Sea and Sky|Octillery|169}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 170/161 || {{TCG ID|Wisdom of Sea and Sky|Delibird|170}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 171/161 || {{TCG ID|Wisdom of Sea and Sky|Pichu|171}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 172/161 || {{TCG ID|Wisdom of Sea and Sky|Ampharos|172}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 173/161 || {{TCG ID|Wisdom of Sea and Sky|Togepi|173}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 174/161 || {{TCG ID|Wisdom of Sea and Sky|Xatu|174}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 175/161 || {{TCG ID|Wisdom of Sea and Sky|Wobbuffet|175}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 176/161 || {{TCG ID|Wisdom of Sea and Sky|Gligar|176}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 177/161 || {{TCG ID|Wisdom of Sea and Sky|Spinarak|177}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 178/161 || {{TCG ID|Wisdom of Sea and Sky|Murkrow|178}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 179/161 || {{TCG ID|Wisdom of Sea and Sky|Tyranitar|179}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 180/161 || {{TCG ID|Wisdom of Sea and Sky|Scizor|180}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 181/161 || {{TCG ID|Wisdom of Sea and Sky|Sentret|181}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 182/161 || {{TCG ID|Wisdom of Sea and Sky|Hoothoot|182}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 183/161 || {{TCG ID|Wisdom of Sea and Sky|Stantler|183}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 184/161 || {{TCG ID|Wisdom of Sea and Sky|Smeargle|184}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}}||  || {{Yes}}
+|-
+| 185/161 || {{TCG ID|Wisdom of Sea and Sky|Blissey|185}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 186/161 || {{TCG ID|Wisdom of Sea and Sky|Shuckle ex|186|Shuckle}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 187/161 || {{TCG ID|Wisdom of Sea and Sky|Ho-Oh ex|187|Ho-Oh}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 188/161 || {{TCG ID|Wisdom of Sea and Sky|Kingdra ex|188|Kingdra}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 189/161 || {{TCG ID|Wisdom of Sea and Sky|Lanturn ex|189|Lanturn}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 190/161 || {{TCG ID|Wisdom of Sea and Sky|Espeon ex|190|Espeon}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 191/161 || {{TCG ID|Wisdom of Sea and Sky|Donphan ex|191|Donphan}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 192/161 || {{TCG ID|Wisdom of Sea and Sky|Crobat ex|192|Crobat}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 193/161 || {{TCG ID|Wisdom of Sea and Sky|Umbreon ex|193|Umbreon}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 194/161 || {{TCG ID|Wisdom of Sea and Sky|Skarmory ex|194|Skarmory}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 195/161 || {{TCG ID|Wisdom of Sea and Sky|Lugia ex|195|Lugia}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 196/161 || {{TCG ID|Wisdom of Sea and Sky|Will|196}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 197/161 || {{TCG ID|Wisdom of Sea and Sky|Lyra|197}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 198/161 || {{TCG ID|Wisdom of Sea and Sky|Silver|198}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 199/161 || {{TCG ID|Wisdom of Sea and Sky|Fisher|199}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 200/161 || {{TCG ID|Wisdom of Sea and Sky|Jasmine|200}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 201/161 || {{TCG ID|Wisdom of Sea and Sky|Hiker|201}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 202/161 || {{TCG ID|Wisdom of Sea and Sky|Shuckle ex|202|Shuckle}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 203/161 || {{TCG ID|Wisdom of Sea and Sky|Kingdra ex|203|Kingdra}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 204/161 || {{TCG ID|Wisdom of Sea and Sky|Lanturn ex|204|Lanturn}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 205/161 || {{TCG ID|Wisdom of Sea and Sky|Espeon ex|205|Espeon}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 206/161 || {{TCG ID|Wisdom of Sea and Sky|Donphan ex|206|Donphan}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 207/161 || {{TCG ID|Wisdom of Sea and Sky|Crobat ex|207|Crobat}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 208/161 || {{TCG ID|Wisdom of Sea and Sky|Umbreon ex|208|Umbreon}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 209/161 || {{TCG ID|Wisdom of Sea and Sky|Skarmory ex|209|Skarmory}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 210/161 || {{TCG ID|Wisdom of Sea and Sky|Ho-Oh ex|210|Ho-Oh}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|3}} || {{Yes}} || 
+|-
+| 211/161 || {{TCG ID|Wisdom of Sea and Sky|Lugia ex|211|Lugia}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|3}} ||  || {{Yes}}
+|-
+| 212/161 || {{TCG ID|Wisdom of Sea and Sky|Yanma|212}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 213/161 || {{TCG ID|Wisdom of Sea and Sky|Flareon|213}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 214/161 || {{TCG ID|Wisdom of Sea and Sky|Magikarp|214}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}}
+|-
+| 215/161 || {{TCG ID|Wisdom of Sea and Sky|Gyarados|215}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}}
+|-
+| 216/161 || {{TCG ID|Wisdom of Sea and Sky|Vaporeon|216}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}}
+|-
+| 217/161 || {{TCG ID|Wisdom of Sea and Sky|Magnemite|217}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}}
+|-
+| 218/161 || {{TCG ID|Wisdom of Sea and Sky|Magneton|218}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}}
+|-
+| 219/161 || {{TCG ID|Wisdom of Sea and Sky|Jolteon|219}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}}
+|-
+| 220/161 || {{TCG ID|Wisdom of Sea and Sky|Misdreavus|220}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 221/161 || {{TCG ID|Wisdom of Sea and Sky|Mankey|221}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 222/161 || {{TCG ID|Wisdom of Sea and Sky|Primeape|222}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 223/161 || {{TCG ID|Wisdom of Sea and Sky|Nidoran♀|223}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}}
+|-
+| 224/161 || {{TCG ID|Wisdom of Sea and Sky|Nidorina|224}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}}
+|-
+| 225/161 || {{TCG ID|Wisdom of Sea and Sky|Nidoqueen|225}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}}
+|-
+| 226/161 || {{TCG ID|Wisdom of Sea and Sky|Nidoran♂|226}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 227/161 || {{TCG ID|Wisdom of Sea and Sky|Nidorino|227}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 228/161 || {{TCG ID|Wisdom of Sea and Sky|Nidoking|228}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 229/161 || {{TCG ID|Wisdom of Sea and Sky|Sneasel|229}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}}
+|-
+| 230/161 || {{TCG ID|Wisdom of Sea and Sky|Lickitung|230}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 231/161 || {{TCG ID|Wisdom of Sea and Sky|Eevee|231}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 232/161 || {{TCG ID|Wisdom of Sea and Sky|Yanmega ex|232|Yanmega}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|2}} || {{Yes}} || 
+|-
+| 233/161 || {{TCG ID|Wisdom of Sea and Sky|Leafeon ex|233|Leafeon}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|2}} || {{Yes}} || 
+|-
+| 234/161 || {{TCG ID|Wisdom of Sea and Sky|Gyarados ex|234|Gyarados}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|2}} ||  || {{Yes}}
+|-
+| 235/161 || {{TCG ID|Wisdom of Sea and Sky|Glaceon ex|235|Glaceon}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|2}} ||  || {{Yes}}
+|-
+| 236/161 || {{TCG ID|Wisdom of Sea and Sky|Pachirisu ex|236|Pachirisu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Shiny|2}} ||  || {{Yes}}
+|-
+| 237/161 || {{TCG ID|Wisdom of Sea and Sky|Mismagius ex|237|Mismagius}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Shiny|2}} || {{Yes}} || 
+|-
+| 238/161 || {{TCG ID|Wisdom of Sea and Sky|Weavile ex|238|Weavile}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Shiny|2}} ||  || {{Yes}}
+|-
+| 239/161 || {{TCG ID|Wisdom of Sea and Sky|Lickilicky ex|239|Lickilicky}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|2}} || {{Yes}} || 
+|-
+| 240/161 || {{TCG ID|Wisdom of Sea and Sky|Ho-Oh ex|240|Ho-Oh}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Crown|1}} || {{Yes}} || {{Yes}}
+|-
+| 241/161 || {{TCG ID|Wisdom of Sea and Sky|Lugia ex|241|Lugia}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Crown|1}} || {{Yes}} || {{Yes}}
+|}
+
+== Missions ==
+=== Dex Missions ===
+Wisdom of Sea and Sky has 15 regular {{DL|Mission (TCG Pocket)|Dex Missions}} and one hidden Dex Mission:
+
+{{TCGPocketMission/Header|reward=yes|bordercol=A97|tablecol=FEC}}
+{{TCGPocketMission/Entry|mission=Register 10 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 20 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 30 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 40 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 50 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 60 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 70 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 80 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 90 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 100 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 110 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 120 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 130 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 140 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 150 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky)|num=10}}}}
+|-
+! colspan="2" | Secret Mission
+{{TCGPocketMission/Entry|mission=Register all {{Rar/TCGP|Diamond|1}} – {{Rar/TCGP|Diamond|4}} cards in the card dex|reward={{TCGPocketItem|Wisdom of Sea and Sky Lugia|Wisdom of Sea and Sky: Lugia (profile icon)|type=Profile Icon}}<br>{{TCGPocketItem|Wisdom of Sea and Sky Ho-Oh|Wisdom of Sea and Sky: Ho-Oh (profile icon)|type=Profile Icon}}|lastitem=yes}}
+|}
+
+=== Deck Missions ===
+Wisdom of Sea and Sky has 10 [[deck]]s and 20 {{DL|Mission (TCG Pocket)|Deck Missions}}. Each deck has two missions:
+
+{{TCGPocketMission/Header|reward=yes|bordercol=A97|tablecol=FEC}}
+{{TCGPocketMission/Entry|mission=Collect the highlight card(s) for [deck name]|reward={{TCGPocketItem|Rental Deck|[deck name] rental deck}}}}
+{{TCGPocketMission/Entry|mission=Collect cards for [deck name]|reward={{TCGPocketItem|Theme Deck List|[deck name] theme deck list}}|lastitem=yes}}
+|}
+
+The 10 available decks related to Wisdom of Sea and Sky are: 
+
+{{TCGPocketExpansionDeck/Header|bordercol=A97|tablecol=FEC}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Shuckle ex & Meganium Deck|Wisdom of Sea and Sky}}|{{e|Grass}}|{{TCG ID|Wisdom of Sea and Sky|Shuckle ex|21}}, {{TCG ID|Wisdom of Sea and Sky|Meganium|10}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Ho-Oh ex & Entei Deck|Wisdom of Sea and Sky}}|{{e|Fire}}|{{TCG ID|Wisdom of Sea and Sky|Ho-Oh ex|34}}, {{TCG ID|Wisdom of Sea and Sky|Entei|33}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Kingdra ex Deck|Wisdom of Sea and Sky}}|{{e|Water}}|{{TCG ID|Wisdom of Sea and Sky|Kingdra ex|43}}, {{TCG ID|Wisdom of Sea and Sky|Suicune|59}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Gyarados Deck|Wisdom of Sea and Sky}}|{{e|Water}}|{{TCG ID|Wisdom of Sea and Sky|Gyarados|45}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Lanturn ex Deck|Wisdom of Sea and Sky}}|{{e|Lightning}}|{{TCG ID|Wisdom of Sea and Sky|Lanturn ex|65}}, {{TCG ID|Wisdom of Sea and Sky|Raikou|71}}, {{TCG ID|Wisdom of Sea and Sky|Ampharos|69}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Espeon ex Deck|Wisdom of Sea and Sky}}|{{e|Psychic}}|{{TCG ID|Wisdom of Sea and Sky|Espeon ex|83}}, {{TCG ID|Wisdom of Sea and Sky|Togekiss|80}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Donphan ex Deck|Wisdom of Sea and Sky}}|{{e|Fighting}}|{{TCG ID|Wisdom of Sea and Sky|Donphan ex|100}}, {{TCG ID|Wisdom of Sea and Sky|Mamoswine|98}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Umbreon ex Deck|Wisdom of Sea and Sky}}|{{e|Darkness}}|{{TCG ID|Wisdom of Sea and Sky|Umbreon ex|112}}, {{TCG ID|Wisdom of Sea and Sky|Absol|120}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Skarmory ex & Scizor Deck|Wisdom of Sea and Sky}}|{{e|Metal}}|{{TCG ID|Wisdom of Sea and Sky|Skarmory ex|124}}, {{TCG ID|Wisdom of Sea and Sky|Scizor|123}}, {{TCG ID|Wisdom of Sea and Sky|Steelix|122}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Lugia ex Deck|Wisdom of Sea and Sky}}|{{e|Colorless}}|{{TCG ID|Wisdom of Sea and Sky|Lugia ex|149}}, {{TCG ID|Wisdom of Sea and Sky|Blissey|132}}, {{TCG ID|Wisdom of Sea and Sky|Swanna|63}}}}
+|}
+
+=== Themed Collections ===
+Wisdom of Sea and Sky has 22 regular {{DL|Mission (TCG Pocket)|Themed Collections}} and six hidden Themed Collections:
+
+{{TCGPocketCollection/Header|bordercol=A97|tablecol=FEC}}
+{{TCGPocketCollection/Entry|collection=The Golden Sky, where Ho-Oh Soars
+|cards={{TCG ID|Wisdom of Sea and Sky|Jumpluff|15}} (#015)<br>{{TCG ID|Wisdom of Sea and Sky|Ho-Oh ex|34}} (#034, #187, #210, #240)<br>{{TCG ID|Wisdom of Sea and Sky|Swanna|63}} (#063)<br>{{TCG ID|Wisdom of Sea and Sky|Togetic|79}}(#079)<br>{{TCG ID|Wisdom of Sea and Sky|Gligar|94}} (#094, #176)<br>{{TCG ID|Wisdom of Sea and Sky|Skarmory ex|124}} (#124, #194, #209)<br>{{TCG ID|Wisdom of Sea and Sky|Fearow|130}} (#130)
+|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky) ×19}}
+}}
+{{TCGPocketCollection/Entry|collection=The Silvery Ocean, where Lugia Dwells
+|cards={{TCG ID|Wisdom of Sea and Sky|Kingdra ex|43}} (#043, #188, #203)<br>{{TCG ID|Wisdom of Sea and Sky|Qwilfish|53}} (#053, #168)<br>{{TCG ID|Wisdom of Sea and Sky|Octillery|56}} (#056, #169)<br>{{TCG ID|Wisdom of Sea and Sky|Mantine|58}} (#058)<br>{{TCG ID|Wisdom of Sea and Sky|Chinchou|64}} (#064)<br>{{TCG ID|Wisdom of Sea and Sky|Barbaracle|106}} (#106)<br>{{TCG ID|Wisdom of Sea and Sky|Lugia ex|149}} (#149, #195, #211, #241)
+|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky) ×20}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon that can Use Attacks Immediately
+|cards={{TCG ID|Wisdom of Sea and Sky|Magby|32}} (#032, #166)<br>{{TCG ID|Wisdom of Sea and Sky|Pichu|66}} (#066, #171)<br>{{TCG ID|Wisdom of Sea and Sky|Elekid|70}} (#070)<br>{{TCG ID|Wisdom of Sea and Sky|Smoochum|75}} (#075)<br>{{TCG ID|Wisdom of Sea and Sky|Cleffa|77}} (#077)<br>{{TCG ID|Wisdom of Sea and Sky|Tyrogue|101}} (#101)
+|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky) ×12}}
+}}
+{{TCGPocketCollection/Entry|collection=Shapes that Resemble Ancient Writing
+|cards={{TCG ID|Wisdom of Sea and Sky|Unown|84}} (#084)<br>{{TCG ID|Wisdom of Sea and Sky|Unown|85}} (#085)
+|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky) ×6}}
+}}
+{{TCGPocketCollection/Entry|collection=Staying Still...
+|cards={{TCG ID|Wisdom of Sea and Sky|Pineco|20}} (#020)<br>{{TCG ID|Wisdom of Sea and Sky|Xatu|82}} (#082, #174)<br>{{TCG ID|Wisdom of Sea and Sky|Sudowoodo|93}} (#093)<br>{{TCG ID|Wisdom of Sea and Sky|Forretress|121}} (#121)<br>{{TCG ID|Wisdom of Sea and Sky|Spinarak|110}} (#110, #177)
+|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky) ×3}}
+}}
+{{TCGPocketCollection/Entry|collection=The Man in the Mysterious Mask
+|cards={{TCG ID|Wisdom of Sea and Sky|Will|156}} (#156, #196)<br>{{TCG ID|Wisdom of Sea and Sky|Jynx|76}} (#076)<br>{{TCG ID|Wisdom of Sea and Sky|Xatu|82}} (#082, #174)
+|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky) ×2}}
+}}
+{{TCGPocketCollection/Entry|collection=The Steel-Clad-Defense Girl
+|cards={{TCG ID|Wisdom of Sea and Sky|Jasmine|160}} (#160, #200)<br>{{TCG ID|Wisdom of Sea and Sky|Skarmory ex|124}} (#124, #194, #209)<br>{{TCG ID|Wisdom of Sea and Sky|Steelix|122}} (#122)
+|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky) ×8}}
+}}
+{{TCGPocketCollection/Entry|collection=Lake of Rage
+|cards={{TCG ID|Wisdom of Sea and Sky|Magikarp|44}} (#044) ×4<br>{{TCG ID|Wisdom of Sea and Sky|Gyarados|215}} (#215)
+|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky) ×5}}
+}}
+{{TCGPocketCollection/Entry|collection=A Mass Outbreak of Pokémon
+|cards={{TCG ID|Wisdom of Sea and Sky|Yanma|18}} (#018) ×2<br>{{TCG ID|Wisdom of Sea and Sky|Marill|49}} (#049) ×2<br>{{TCG ID|Wisdom of Sea and Sky|Qwilfish|53}} (#053, #168) ×2<br>{{TCG ID|Wisdom of Sea and Sky|Remoraid|55}} (#055) ×2<br>{{TCG ID|Wisdom of Sea and Sky|Snubbull|88}} (#088) ×2<br>{{TCG ID|Wisdom of Sea and Sky|Dunsparce|144}} (#144) ×2
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon you Meet at the National Park
+|cards={{TCG ID|Wisdom of Sea and Sky|Ledyba|11}} (#011)<br>{{TCG ID|Wisdom of Sea and Sky|Sunkern|16}} (#016)<br>{{TCG ID|Wisdom of Sea and Sky|Pineco|20}} (#020)<br>{{TCG ID|Wisdom of Sea and Sky|Spinarak|110}} (#110, #177)<br>{{TCG ID|Wisdom of Sea and Sky|Hoothoot|140}} (#140, #182)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Journeying with a Partner and an Egg
+|cards={{TCG ID|Wisdom of Sea and Sky|Togepi|78}} (#078, #173)<br>{{TCG ID|Wisdom of Sea and Sky|Lyra|157}} (#157, #197)<br>1 of the following:<br>{{TCG ID|Wisdom of Sea and Sky|Chikorita|8}} (#008, #162)<br>{{TCG ID|Wisdom of Sea and Sky|Cyndaquil|27}} (#027, #165)<br>{{TCG ID|Wisdom of Sea and Sky|Totodile|46}} (#046, #167)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=A Delivery of Presents for Everyone
+|cards={{TCG ID|Wisdom of Sea and Sky|Hoppip|13}} (#013)<br>{{TCG ID|Wisdom of Sea and Sky|Slugma|30}} (#030)<br>{{TCG ID|Wisdom of Sea and Sky|Corsola|54}} (#054)<br>{{TCG ID|Wisdom of Sea and Sky|Delibird|170}} (#170)
+|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky) ×6}}
+}}
+{{TCGPocketCollection/Entry|collection=Vibrant Petals
+|cards={{TCG ID|Wisdom of Sea and Sky|Bellossom|3}} (#003, #163)<br>{{TCG ID|Wisdom of Sea and Sky|Meganium|10}} (#010)<br>{{TCG ID|Wisdom of Sea and Sky|Skiploom|14}} (#014)<br>{{TCG ID|Wisdom of Sea and Sky|Sunflora|17}} (#017)
+|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky) ×4}}
+}}
+{{TCGPocketCollection/Entry|collection=They have Two Faces?
+|cards={{TCG ID|Wisdom of Sea and Sky|Slowking|74}} (#074)<br>{{TCG ID|Wisdom of Sea and Sky|Wobbuffet|86}} (#086)<br>{{TCG ID|Wisdom of Sea and Sky|Girafarig|87}} (#087)<br>{{TCG ID|Wisdom of Sea and Sky|Spinarak|110}} (#110)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Hard, Body-Protecting Shells
+|cards={{TCG ID|Wisdom of Sea and Sky|Pineco|20}} (#020)<br>{{TCG ID|Wisdom of Sea and Sky|Pupitar|104}} (#104)<br>{{TCG ID|Wisdom of Sea and Sky|Forretress|121}} (#121)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Large Horns Brimming with Charm
+|cards={{TCG ID|Wisdom of Sea and Sky|Houndoom|118}} (#118)<br>{{TCG ID|Wisdom of Sea and Sky|Heracross|22}} (#022, #164)<br>{{TCG ID|Wisdom of Sea and Sky|Stantler|147}} (#147, #183)
+|reward={{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky) ×3}}
+}}
+{{TCGPocketCollection/Entry|collection=Remoraid, Clinging to a Fin
+|cards={{TCG ID|Wisdom of Sea and Sky|Remoraid|55}} (#055)<br>{{TCG ID|Wisdom of Sea and Sky|Mantine|58}} (#058)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Hiking: Discovery and Exploration
+|cards={{TCG ID|Wisdom of Sea and Sky|Onix|92}} (#092)<br>{{TCG ID|Wisdom of Sea and Sky|Swinub|96}} (#096)<br>{{TCG ID|Wisdom of Sea and Sky|Phanpy|99}} (#099)<br>{{TCG ID|Wisdom of Sea and Sky|Larvitar|103}} (#103)<br>{{TCG ID|Wisdom of Sea and Sky|Pupitar|104}} (#104)<br>{{TCG ID|Wisdom of Sea and Sky|Teddiursa|145}} (#145)<br>{{TCG ID|Wisdom of Sea and Sky|Ursaring|146}} (#146)<br>{{TCG ID|Wisdom of Sea and Sky|Hiker|161}} (#161, #201)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Fishing for a Big Catch
+|cards={{TCG ID|Wisdom of Sea and Sky|Horsea|41}} (#041)<br>{{TCG ID|Wisdom of Sea and Sky|Seadra|42}} (#042)<br>{{TCG ID|Wisdom of Sea and Sky|Magikarp|44}} (#044)<br>{{TCG ID|Wisdom of Sea and Sky|Qwilfish|53}} (#053, #168)<br>{{TCG ID|Wisdom of Sea and Sky|Corsola|54}} (#054)<br>{{TCG ID|Wisdom of Sea and Sky|Remoraid|55}} (#055)<br>{{TCG ID|Wisdom of Sea and Sky|Corphish|60}} (#060)<br>{{TCG ID|Wisdom of Sea and Sky|Fisher|159}} (#159, #199)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A4|Emblem Ticket (Wisdom of Sea and Sky) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 5 Meganium cards
+|cards={{TCG ID|Wisdom of Sea and Sky|Meganium|10}} (#010) ×5
+|reward={{TCGPocketItem|Meganium|Meganium (profile icon)|type=Profile Icon}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 5 Typhlosion cards
+|cards={{TCG ID|Wisdom of Sea and Sky|Typhlosion|29}} (#029) ×5
+|reward={{TCGPocketItem|Typhlosion|Typhlosion (profile icon)|type=Profile Icon}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 5 Feraligatr cards
+|cards={{TCG ID|Wisdom of Sea and Sky|Feraligatr|48}} (#048) ×5
+|reward={{TCGPocketItem|Feraligatr|Feraligatr (profile icon)|type=Profile Icon}}
+}}
+|-
+! colspan="3" | Secret Missions
+{{TCGPocketCollection/Entry|collection=Illustrated Pokémon Handscrolls
+|cards={{TCG ID|Wisdom of Sea and Sky|Qwilfish|168}} (#168)<br>{{TCG ID|Wisdom of Sea and Sky|Stantler|183}} (#183)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Wisdom of Sea and Sky Museum 1
+|cards={{TCG ID|Wisdom of Sea and Sky|Heracross|164}} (#164)<br>{{TCG ID|Wisdom of Sea and Sky|Magby|166}} (#166)<br>{{TCG ID|Wisdom of Sea and Sky|Totodile|167}} (#167)<br>{{TCG ID|Wisdom of Sea and Sky|Delibird|170}} (#170)<br>{{TCG ID|Wisdom of Sea and Sky|Togepi|173}} (#173)<br>{{TCG ID|Wisdom of Sea and Sky|Gligar|176}} (#176)<br>{{TCG ID|Wisdom of Sea and Sky|Spinarak|177}} (#177)<br>{{TCG ID|Wisdom of Sea and Sky|Tyranitar|179}} (#179)<br>{{TCG ID|Wisdom of Sea and Sky|Sentret|181}} (#181)<br>{{TCG ID|Wisdom of Sea and Sky|Hoothoot|182}} (#182)<br>{{TCG ID|Wisdom of Sea and Sky|Stantler|183}} (#183)<br>{{TCG ID|Wisdom of Sea and Sky|Blissey|185}} (#185)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Wisdom of Sea and Sky Museum 2
+|cards={{TCG ID|Wisdom of Sea and Sky|Chikorita|162}} (#162)<br>{{TCG ID|Wisdom of Sea and Sky|Bellossom|163}} (#163)<br>{{TCG ID|Wisdom of Sea and Sky|Cyndaquil|165}} (#165)<br>{{TCG ID|Wisdom of Sea and Sky|Qwilfish|168}} (#168)<br>{{TCG ID|Wisdom of Sea and Sky|Octillery|169}} (#169)<br>{{TCG ID|Wisdom of Sea and Sky|Pichu|171}} (#171)<br>{{TCG ID|Wisdom of Sea and Sky|Ampharos|172}} (#172)<br>{{TCG ID|Wisdom of Sea and Sky|Xatu|174}} (#174)<br>{{TCG ID|Wisdom of Sea and Sky|Wobbuffet|175}} (#175)<br>{{TCG ID|Wisdom of Sea and Sky|Murkrow|178}} (#178)<br>{{TCG ID|Wisdom of Sea and Sky|Scizor|180}} (#180)<br>{{TCG ID|Wisdom of Sea and Sky|Smeargle|184}} (#184)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Wisdom of Sea and Sky Museum 3
+|cards={{TCG ID|Wisdom of Sea and Sky|Donphan ex|206}} (#206)<br>{{TCG ID|Wisdom of Sea and Sky|Crobat ex|207}} (#207)<br>{{TCG ID|Wisdom of Sea and Sky|Umbreon ex|208}} (#208)<br>{{TCG ID|Wisdom of Sea and Sky|Skarmory ex|209}} (#209)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Wisdom of Sea and Sky Museum 4
+|cards={{TCG ID|Wisdom of Sea and Sky|Shuckle ex|202}} (#202)<br>{{TCG ID|Wisdom of Sea and Sky|Kingdra ex|203}} (#203)<br>{{TCG ID|Wisdom of Sea and Sky|Lanturn ex|204}} (#204)<br>{{TCG ID|Wisdom of Sea and Sky|Espeon ex|205}} (#205)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Smeargle's Colorful Collection
+|cards={{TCG ID|Wisdom of Sea and Sky|Chikorita|162}} (#162), {{TCG ID|Wisdom of Sea and Sky|Bellossom|163}} (#163), {{TCG ID|Wisdom of Sea and Sky|Heracross|164}} (#164), or {{TCG ID|Wisdom of Sea and Sky|Shuckle ex|202}} (#202)<br>{{TCG ID|Wisdom of Sea and Sky|Cyndaquil|165}} (#165) or {{TCG ID|Wisdom of Sea and Sky|Magby|166}} (#166)<br>{{TCG ID|Wisdom of Sea and Sky|Totodile|167}} (#167), {{TCG ID|Wisdom of Sea and Sky|Qwilfish|168}} (#168), {{TCG ID|Wisdom of Sea and Sky|Octillery|169}} (#169), {{TCG ID|Wisdom of Sea and Sky|Delibird|170}} (#170), or {{TCG ID|Wisdom of Sea and Sky|Kingdra ex|203}} (#203)<br>{{TCG ID|Wisdom of Sea and Sky|Pichu|171}} (#171), {{TCG ID|Wisdom of Sea and Sky|Ampharos|172}} (#172), or {{TCG ID|Wisdom of Sea and Sky|Lanturn ex|204}} (#204)<br>{{TCG ID|Wisdom of Sea and Sky|Togepi|173}} (#173), {{TCG ID|Wisdom of Sea and Sky|Xatu|174}} (#174), {{TCG ID|Wisdom of Sea and Sky|Wobbuffet|175}} (#175), or {{TCG ID|Wisdom of Sea and Sky|Espeon ex|205}} (#205)<br>{{TCG ID|Wisdom of Sea and Sky|Gligar|176}} (#176) or {{TCG ID|Wisdom of Sea and Sky|Donphan ex|206}} (#206)<br>{{TCG ID|Wisdom of Sea and Sky|Spinarak|177}} (#177), {{TCG ID|Wisdom of Sea and Sky|Murkrow|178}} (#178), {{TCG ID|Wisdom of Sea and Sky|Tyranitar|179}} (#179), {{TCG ID|Wisdom of Sea and Sky|Crobat ex|207}} (#207), or {{TCG ID|Wisdom of Sea and Sky|Umbreon ex|208}} (#208)<br>{{TCG ID|Wisdom of Sea and Sky|Scizor|180}} (#180) or {{TCG ID|Wisdom of Sea and Sky|Skarmory ex|209}} (#209)<br>{{TCG ID|Wisdom of Sea and Sky|Sentret|181}} (#181), {{TCG ID|Wisdom of Sea and Sky|Hoothoot|182}} (#182), {{TCG ID|Wisdom of Sea and Sky|Stantler|183}} (#183), or {{TCG ID|Wisdom of Sea and Sky|Blissey|185}} (#185)<br>{{TCG ID|Wisdom of Sea and Sky|Smeargle|184}} (#184)
+|reward={{TCGPocketItem|Smeargle|Smeargle (Emblem)|type=Emblem}}
+}}
+|}
+
+== Offering rates ==
+The following tables outline the offering rates for each Wisdom of Sea and Sky booster pack.
+
+The probability of each type of pack appearing is as follows:
+* Regular pack - 91.620%
+* Regular pack + 1 card - 8.330%
+* Rare pack - 0.050%
+
+In regular packs with a bonus card, the card inclusion rates for the first five cards are the same as those for regular packs without a bonus card.
+
+=== Wisdom of Sea and Sky: Ho-Oh ===
+While all {{rar/TCGP|Crown}} cards can be found in regular packs, the only one that can be pulled from a rare pack is {{TCG ID|Wisdom of Sea and Sky|Ho-Oh ex|240}}.
+
+{{TCG ID|Wisdom of Sea and Sky|Magby|32}} (#032), {{TCG ID|Wisdom of Sea and Sky|Smoochum|75}} (#075), {{TCG ID|Wisdom of Sea and Sky|Tyrogue|101}} (#101), and {{TCG ID|Wisdom of Sea and Sky|Magby|166}} (#166) are only available as bonus cards.
+
+{{TCGPocketRates/Header|tablecol=CB9|bordercol=A97|cellcol=FEC|bonuscard=yes}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 2.380% || — || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 2.870% || 1.806% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.353% || 1.415% || 29.033% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.333% || 1.332% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.233% || 0.935% || 12.900% || 2.564%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.041% || 0.166% || — || 2.564%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.888% || — || 2.564%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|1}} || — || 0.071% || 0.285% || — || 2.564%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|2}} || — || 0.083% || 0.333% || — || 2.564%
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.020% || 0.080% || — || style="border-bottom-right-radius:5px" | 2.564%
+|}
+
+=== Wisdom of Sea and Sky: Lugia ===
+While all {{rar/TCGP|Crown}} cards can be found in regular packs, the only one that can be pulled from a rare pack is {{TCG ID|Wisdom of Sea and Sky|Lugia ex|241}}.
+
+{{TCG ID|Wisdom of Sea and Sky|Pichu|66}} (#066), {{TCG ID|Wisdom of Sea and Sky|Elekid|70}} (#070), {{TCG ID|Wisdom of Sea and Sky|Cleffa|77}} (#077), and {{TCG ID|Wisdom of Sea and Sky|Pichu|171}} (#171) are only available as bonus cards.
+
+{{TCGPocketRates/Header|tablecol=CB9|bordercol=A97|cellcol=FEC|bonuscard=yes}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 2.380% || — || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 2.870% || 1.806% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.353% || 1.415% || 29.033% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.333% || 1.332% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.233% || 0.935% || 12.900% || 2.564%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.041% || 0.166% || — || 2.564%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.888% || — || 2.564%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|1}} || — || 0.071% || 0.285% || — || 2.564%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|2}} || — || 0.083% || 0.333% || — || 2.564%
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.020% || 0.080% || — || style="border-bottom-right-radius:5px" | 2.564%
+|}
+
+== Solo battles ==
+{{main|List of Wisdom of Sea and Sky solo battles in Pokémon TCG Pocket}}
+
+== Gallery ==
+The pack artworks for the Wisdom of Sea and Sky expansion were illustrated by [[PLANETA]].<ref>[https://pla-neta.co.jp/works/illust/4017/ Pokémon Trading Card Game Pocket拡張パック「空と海の導き」 - PLANETA｜プラネッタ]</ref><ref>[https://x.com/PLANETACoLtd/status/1953290005255729333 X post on @PLANETACoLtd], August 6, 2025</ref>
+
+=== Key artwork ===
+{{TCGMerchGallery
+|background=FEC
+|border=A97
+|image1=A4 Key Art.png
+|size1=400px
+|caption1=Key artwork
+}}
+
+=== Pack artwork ===
+{{TCGMerchGallery
+|background=FEC
+|border=A97
+|image1=A4 Booster Ho-Oh EN.png
+|caption1=Ho-Oh booster pack
+|image2=A4 Booster Lugia EN.png
+|caption2=Lugia booster pack
+}}
+
+=== Pack logos ===
+{{TCGMerchGallery
+|background=FEC
+|border=A97
+|image1=A4 Logo Ho-Oh EN.png
+|caption1=English Ho-Oh logo
+|image2=A4 Logo Lugia EN.png
+|caption2=English Lugia logo
+|image5=A4 Logo Ho-Oh JA.png|caption5=Japanese Ho-Oh logo|image6=A4 Logo Lugia JA.png|caption6=Japanese Lugia logo}}
+<!--
+=== Accessories ===
+{{TCGMerchGallery
+|background=FEC
+|border=A97
+|image1=TCGP Cover Wisdom of Sea and Sky Ho-Oh.png
+|caption1=Ho-Oh binder cover
+|image2=TCGP Cover Wisdom of Sea and Sky Lugia.png
+|caption2=Lugia binder cover
+|image3=TCGP Profile Icon Wisdom of Sea and Sky Ho-Oh.png
+|caption3=Ho-Oh profile icon
+|image4=TCGP Profile Icon Wisdom of Sea and Sky Lugia.png
+|caption4=Lugia profile icon
+}}
+-->
+
+== In other languages ==
+{{Langtable|color=FEC|bordercolor=A97
+|ja=空と海の導き ''Sora to Umi no Michibiki''
+|zh_yue=天與海的指引 ''Tīn yúh Hói dīk Jíyáhn''
+|zh_cmn=天與海的指引 ''Tiān yǔ Hǎi de Zhǐyǐn''
+|fr=Sagesse entre Ciel et Mer
+|de=Weisheit von Meer und Himmel
+|it=La Via del Cielo e del Mare
+|ko=하늘과 바다의 인도 ''Haneul-gwa Bada-ui Indo''
+|pt_br=Sabedoria dos Céus e Mares
+|es=Saber Marino y Celeste
+}}
+
+== References ==
+{{reflist}}
+
+== Related articles ==
+{{TCGPocketNavigation}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Weisheit von Meer und Himmel (TCG Pocket)]]
+[[es:Saber Marino y Celeste (TCG Pocket)]]
+[[fr:Sagesse entre Ciel et Mer]]
+[[it:La Via del Cielo e del Mare (GCC Pocket)]]
+[[ja:空と海の導き]]
+[[zh:天與海的指引（TCGP）]]

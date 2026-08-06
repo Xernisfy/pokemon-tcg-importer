@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Seismitoad
+|ja name=ガマゲロゲ
+|trans name=Gamageroge
+|species=Seismitoad
+|type=Water
+|image=SeismitoadMegaRising65.png
+|illustrator=SATOSHI NAKAI
+|hp=150
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Palpitoad
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=065/226}}
+}}
+
+'''Seismitoad''' (Japanese: '''ガマゲロゲ''' ''Gamageroge'') is a {{ct|Water}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Split Spiral Punch
+|jname=ぐるぐるパンチ
+|jtrans=Spinning Punch
+|damage=90
+|effect=Your opponent's Active Pokémon is now {{TCG|Confused}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Seismitoad
+|species=Vibration
+|ndex=0537
+|height=4'11"
+|jheight=1.5
+|weight=136.7
+|jweight=62.0
+|dex=This Pokémon is popular among the elderly, who say the vibrations of its lumps are great for massages.
+|jdex=コブが 起こす バイブレーションが マッサージに 良いと 老人に 大人気の ポケモンだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Seismitoad|46}} from the {{TCG|Rebel Clash}} expansion; both cards have the Split Spiral Punch attack.
+*'''Split Spiral Punch''' is an attack that first appeared on {{TCG ID|EX FireRed & LeafGreen|Poliwrath|11}} from the {{TCG|EX FireRed & LeafGreen}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Branawarz (Mega-Aufstieg 065)]]
+[[es:Seismitoad (Megaascenso TCG Pocket)]]
+[[fr:Crapustule (Méga-Ascension 065)]]
+[[it:Seismitoad (Mega Ascesa 65)]]
+[[ja:ガマゲロゲ (ポケポケ B1)]]
+[[zh:蟾蜍王（B1）]]

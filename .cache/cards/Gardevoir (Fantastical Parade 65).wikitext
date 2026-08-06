@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gardevoir
+|ja name=サーナイト
+|trans name=Sirnight
+|species=Gardevoir
+|type=Psychic
+|image=GardevoirFantasticalParade65.png
+|illustrator=mingo
+|hp=130
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Kirlia
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=065/155|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Gardevoir''' (Japanese: '''サーナイト''' ''Sirnight'') is a {{ct|Psychic}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Psy Turbo
+|jname=サイコターボ
+|jtrans=Psycho Turbo
+|damage=60
+|effect=Take 2 {{e|Psychic}} Energy from your Energy Zone and attach it to one of your Benched {{e|Psychic}} Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Gardevoir
+|species=Embrace
+|ndex=0282
+|height=5'3"
+|jheight=1.6
+|weight=106.7
+|jweight=48.4
+|dex=It unleashes psychokinetic energy at full power when protecting a Trainer it has bonded closely with.
+|jdex=心の 通い合った トレーナーを 守るとき 最大 パワーの サイコエネルギーが 発揮される。
+}}
+
+==Trivia==
+===Origin===
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Guardevoir (Traumhafte Parade 065)]]
+[[es:Gardevoir (Desfile de Ensueño TCG Pocket)]]
+[[fr:Gardevoir (Parade Onirique 065)]]
+[[it:Gardevoir (Parata Fantasmagorica 65)]]
+[[ja:サーナイト (ポケポケ B2)]]
+[[zh:沙奈朵（B2）]]

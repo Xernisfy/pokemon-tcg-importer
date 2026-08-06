@@ -1,0 +1,84 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Charizard Y {{TCGP Icon|Mega ex}}
+|ja name=メガリザードンY{{TCGP Icon|Mega ex}}
+|trans name=Mega Lizardon Y {{TCGP Icon|Mega ex}}
+|species=Charizard
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaCharizardYexCrimsonBlaze14.png|illustrator=PLANETA Igarashi|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaCharizardYexCrimsonBlaze77.png|illustrator=PLANETA Igarashi|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaCharizardYexCrimsonBlaze87.png|illustrator=Nurikabe|tab caption=Immersive}}
+|hp=220
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Charmeleon
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=014/069|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=077/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=087/069|pack=Any|rarity=Star|rarity count=3}}
+}}
+
+'''Mega Charizard Y ex''' (Japanese: '''メガリザードンYex''' ''Mega Lizardon Y ex'') is a {{ct|Fire}} Stage 2 {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Mega Species/Pocket|Charizard}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Fire}}{{e|Colorless}}
+|name=Crimson Dive
+|jname=グレンダイブ
+|jtrans=Guren Dive
+|damage=250
+|effect=This Pokémon also does 50 damage to itself.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Fire
+|ndex=0006
+|name=Charizard
+|form=MY
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Charizard
+|category=Flame
+|ndex=0006
+|height=5'7"
+|jheight=1.7
+|weight=221.6
+|jweight=100.5
+|dex=Its bond with its Trainer is the source of its power. It boasts speed and maneuverability greater than that of a jet fighter.
+|jdex=トレーナーとの 絆が パワーの 源。 ジェット機を しのぐ 飛行能力を 誇る。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=MegaCharizardYexCrimsonBlaze14.png
+|caption1=Double rare card<br>Illus. [[PLANETA Igarashi]]
+|image2=MegaCharizardYexCrimsonBlaze77.png
+|caption2=Super rare card<br>Illus. [[PLANETA Igarashi]]
+|image3=MegaCharizardYexCrimsonBlaze87.png
+|caption3=Immersive card<br>Illus. [[Nurikabe]]
+}}
+
+==Trivia==
+===Origin===
+*This card features [[Mega]] {{p|Charizard}} Y.
+*This card's immersive illustration features {{p|Charmander}}, {{p|Charmeleon}}, {{p|Charizard}}, and Mega Charizard Y.
+*'''Crimson Dive''' is an attack that first appeared on {{TCG ID|Flashfire|M Charizard-EX|13}} from the {{TCG|Flashfire}} expansion.
+*This card's [[Pokédex]] entry comes from {{LGPE}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Glurak Y-ex (Feuerrote Flammen 014)]]
+[[fr:Méga-Dracaufeu Y-ex (Embrasement Écarlate 014)]]
+[[it:Mega Charizard Y-ex (Fiamme Cremisi 14)]]
+[[ja:メガリザードンYex (ポケポケ B1a)]]
+[[zh:超级喷火龙Yex（B1a）]]

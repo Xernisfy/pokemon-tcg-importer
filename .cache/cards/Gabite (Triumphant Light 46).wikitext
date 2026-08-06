@@ -1,0 +1,84 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gabite
+|ja name=ガバイト
+|trans name=Gabite
+|species=Gabite
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GabiteTriumphantLight46.png|illustrator=Sumiyoshi Kizuki|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GabiteDeluxePackex208.png|illustrator=Sumiyoshi Kizuki|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GabiteSecludedSprings99.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Gible
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=046/075|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=099/071|pack=Any|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=207/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=208/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Gabite''' (Japanese: '''ガバイト''' ''Gabite'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Sharp Scythe
+|jname=するどいカマ
+|jtrans=Sharp Sickle
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Gabite
+|species=Cave
+|ndex=0444
+|height=4'7"
+|jheight=1.4
+|weight=123.5
+|jweight=56.0
+|dex=In rare cases, it molts and sheds its scales. Medicine containing its scales as an ingredient will make a weary body feel invigorated.
+|jdex=まれに 脱皮し ウロコが 剥げる。 その成分が 含まれる 薬は 疲れた 体を ギンギンにする。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=GabiteTriumphantLight46.png
+|caption1=Standard card<br>Illus. [[Sumiyoshi Kizuki]]
+|image2=GabiteSecludedSprings99.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+|image3=GabiteDeluxePackex208.png
+|caption3=Parallel foil card<br>Illus. [[Sumiyoshi Kizuki]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Ultra Prism|Gabite|98}} from the {{TCG|Ultra Prism}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Gabite}}.
+*'''Sharp Scythe''' is an attack that first appeared as '''Sharp Sickle''' on {{TCG ID|Fossil|Kabutops|9}} from the {{TCG|Fossil}} expansion.<ref group="nb">Kabutops uses hiragana (するどいかま) for the Japanese attack name, while all subsequent instances use katakana (するどいカマ) instead.</ref>
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+==Notes==
+{{reflist|group=nb}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knarksel (Licht des Triumphs 046)]]
+[[es:Gabite (Luz Triunfal TCG Pocket)]]
+[[fr:Carmache (Lumière Triomphale 046)]]
+[[it:Gabite (Luce Trionfale 46)]]
+[[ja:ガバイト (ポケポケ A2a)]]
+[[zh:尖牙陸鯊（A2a）]]

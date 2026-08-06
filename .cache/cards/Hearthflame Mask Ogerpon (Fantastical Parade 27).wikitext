@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hearthflame Mask Ogerpon
+|ja name=オーガポン かまどのめん
+|trans name=Ogerpon Stove Mask
+|species=Ogerpon
+|type=Fire
+|image=HearthflameMaskOgerponFantasticalParade27.png
+|illustrator=Nurikabe
+|hp=80
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=027/155|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Hearthflame Mask Ogerpon''' (Japanese: '''オーガポン かまどのめん''' ''Ogerpon Stove Mask'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}
+|name=Hearthflame Dance
+|jname=かまどのまい
+|jtrans=Stove Dance
+|damage=40
+|effect=Flip a coin. If heads, take 2 {{e|Fire}} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Ogerpon
+|species=Mask
+|ndex=1017
+|height=3'11"
+|jheight=1.2
+|weight=87.7
+|jweight=39.8
+|dex=In this form, it draws on the power of fire. It spears its enemies with thorn-covered ivy.
+|jdex=炎の力を 引き出す 姿。 トゲの ついた ツタを 槍のように 操り 敵を 貫く。
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Ogerpon}} in its {{form|Ogerpon|Hearthflame Mask}} form.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ofenmaske-Ogerpon (Traumhafte Parade 027)]]
+[[fr:Ogerpon Masque du Fourneau (Parade Onirique 027)]]
+[[it:Ogerpon Maschera Focolare (Parata Fantasmagorica 27)]]
+[[ja:オーガポンかまどのめん (ポケポケ B2)]]
+[[zh:厄鬼椪 火灶面具（B2）]]

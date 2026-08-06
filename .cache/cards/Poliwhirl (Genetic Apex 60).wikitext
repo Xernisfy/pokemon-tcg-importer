@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Poliwhirl
+|ja name=ニョロゾ
+|trans name=Nyorozo
+|species=Poliwhirl
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PoliwhirlGeneticApex60.png|illustrator=Yuka Morii|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PoliwhirlMegaRising296.png|illustrator=MAHOU|tab caption=Shiny Rare}}
+|hp=90
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Poliwag
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=060/226|pack=Charizard|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=296/226|pack=Mega Gyarados|rarity=Shiny|rarity count=1}}
+}}
+
+'''Poliwhirl''' (Japanese: '''ニョロゾ''' ''Nyorozo'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Knuckle Punch
+|jname=げんこつ
+|jtrans=Fist
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Poliwhirl
+|species=Tadpole
+|ndex=0061
+|height=3'3"
+|jheight=1
+|weight=44.1
+|jweight=20.0
+|dex=Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl's has been used in place of lullabies to get children to go to sleep.
+|jdex=お腹の　渦は　ずっと　見ていると 眠くなる｡　子守唄がわりに 子どもを　寝つかせるのにも　使う｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=PoliwhirlGeneticApex60.png
+|caption1=Standard card<br>Illus. [[Yuka Morii]]
+|image2=PoliwhirlMegaRising296.png
+|caption2=Shiny rare card<br>Illus. [[MAHOU]]
+}}
+==Trivia==
+===Origin===
+*This card's {{TCGP|Genetic Apex}} illustration was first featured on {{TCG ID|Expedition|Poliwhirl|89}} from the {{TCG|Expedition Base Set}}.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Poliwhirl}}.
+*'''Knuckle Punch''' is an attack that first appeared on {{TCG ID|Neo Revelation|Geodude|44}} from the {{TCG|Neo Revelation}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Quaputzi (Unschlagbare Gene 060)]]
+[[es:Poliwhirl (Genes Formidables TCG Pocket)]]
+[[fr:Têtarte (Puissance Génétique 060)]]
+[[it:Poliwhirl (Geni Supremi 60)]]
+[[ja:ニョロゾ (ポケポケ A1)]]
+[[zh:蚊香君（A1）]]

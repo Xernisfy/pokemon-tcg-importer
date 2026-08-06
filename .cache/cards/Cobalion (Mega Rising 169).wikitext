@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cobalion
+|ja name=コバルオン
+|trans name=Cobalon
+|species=Cobalion
+|type=Metal
+|image=CobalionMegaRising169.png
+|illustrator=Takeshi Nakamura
+|hp=110
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=169/226|pack=Mega Blaziken|rarity=Diamond|rarity count=3}}
+}}
+
+'''Cobalion''' (Japanese: '''コバルオン''' ''Cobalon'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Colorless}}
+|name=Sacred Sword
+|jname=せいなるつるぎ
+|jtrans=Sacred Sword
+|damage=110
+|effect=During your next turn, this Pokémon can't use Sacred Sword.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Cobalion
+|category=Iron Will
+|ndex=0638
+|height=6'11"
+|jheight=2.1
+|weight=551.2
+|jweight=250.0
+|dex=It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.
+|jdex=鋼の 心と 体を 持つ。 人が ポケモンを 傷つけたとき 仲間とともに 人を こらしめた。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Sacred Sword}} is a [[move]] in the [[Pokémon games]] that {{p|Cobalion}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kobalium (Mega-Aufstieg 169)]]
+[[es:Cobalion (Megaascenso TCG Pocket)]]
+[[fr:Cobaltium (Méga-Ascension 169)]]
+[[it:Cobalion (Mega Ascesa 169)]]
+[[ja:コバルオン (ポケポケ B1)]]
+[[zh:勾帕路翁（B1）]]

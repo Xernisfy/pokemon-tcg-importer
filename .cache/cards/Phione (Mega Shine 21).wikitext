@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Phione
+|ja name=フィオネ
+|trans name=Phione
+|species=Phione
+|type=Water
+|image=PhioneMegaShine21.png
+|illustrator=kawayoo
+|hp=70
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=021/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Phione''' (Japanese: '''フィオネ''' ''Phione'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Aqua Turbo
+|jname=アクアターボ
+|jtrans=Aqua Turbo
+|damage=10
+|effect=Take a {{e|Water}} Energy from your Energy Zone and attach it to 1 of your Benched {{e|Water}} Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Phione
+|category=Sea Drifter
+|ndex=0489
+|height=1'4"
+|jheight=0.4
+|weight=6.8
+|jweight=3.1
+|dex=It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.
+|jdex=暖かい　海を　漂っている｡ どんな　遠くに　流されても 生まれた　場所に　かならず戻る｡
+}}
+
+==Trivia==
+This card's illustration forms a {{TCGP|narrative illustration}} with {{TCG ID|Mega Shine|Empoleon|20}} and {{TCG ID|Mega Shine|Trubbish|41}} from the same set. All of the standard illustrations in this group were first featured in the {{TCG|Legendary Treasures}} expansion, and also form the {{TCGP|Mega Shine}} expansion's "Toward a More Beautiful World" [[Mega Shine (TCG Pocket)#Themed Collections|Themed Collection]].
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Legendary Treasures|Phione|36}} from the {{TCG|Legendary Treasures}} expansion.
+*'''Aqua Turbo''' is an attack that first appeared on {{TCG ID|BREAKpoint|Palkia-EX|31}} from the {{TCG|BREAKpoint}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Alpha Sapphire}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Phione (Mega-Schillern 021)]]
+[[fr:Phione (Méga-Rayonnement 021)]]
+[[it:Phione (Mega Splendore 21)]]
+[[ja:フィオネ (ポケポケ B2b)]]
+[[zh:霏欧纳（B2b）]]

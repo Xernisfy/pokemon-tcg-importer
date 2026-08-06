@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Xurkitree
+|ja name=デンジュモク
+|trans name=Denjyumoku
+|species=Xurkitree
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=XurkitreeExtradimensionalCrisis20.png|illustrator=Satoshi Shirai|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=XurkitreePromo-A77.png|illustrator=Shin Nagasawa|tab caption=Promo}}
+|hp=100
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=020/069}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Vol. 9|number=077/P-A}}
+}}
+
+'''Xurkitree''' (Japanese: '''デンジュモク''' ''Denjyumoku'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/UltraBeast/Pocket}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}{{e|Colorless}}
+|name=Electronica
+|jname=エレクトロニカ
+|jtrans=Electronica
+|damage=60
+|effect=Your opponent's Active Pokémon is now Confused.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Xurkitree
+|species=Glowing
+|ndex=0796
+|height=12'06"
+|jheight=3.8
+|weight=220.5
+|jweight=100.0
+|dex=Although it's alien to this world and a danger here, it's apparently a common organism in the world where it normally lives.
+|jdex=この世界では 異質で 危険だが 本来 棲んでいる 世界では 普通に 見かける 生物らしい。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of seven cards that could be pulled from Promo-A Vol. 9 packs; these were made available as part of the [[Ultra Beast Drop Event]], which ran from June 4 to 14, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=XurkitreeExtradimensionalCrisis20.png
+|caption1=Uncommon card<br>Illus. [[Satoshi Shirai]]
+|image2=XurkitreePromo-A77.png
+|caption2=Promo card<br>Illus. [[Shin Nagasawa]]
+}}
+
+==Trivia==
+===Origin===
+*The '''Electronica''' attack is named after {{wp|electronica}}, a genre of music. The name may have been chosen in reference to {{p|Xurkitree}}'s {{t|Electric}} [[type]] and design.
+*This card's standard illustration was first featured on {{TCG ID|Unified Minds|Xurkitree|70}} from the {{TCG|Unified Minds}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Forbidden Light|Xurkitree|39}} from the {{TCG|Forbidden Light}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Voltriant (Dimensionale Krise 020)]]
+[[es:Xurkitree (Crisis Dimensional TCG Pocket)]]
+[[fr:Câblifère (Crise Interdimensionnelle 020)]]
+[[it:Xurkitree (Crisi Ultradimensionale 20)]]
+[[ja:デンジュモク (ポケポケ A3a)]]
+[[zh:电束木（A3a）]]

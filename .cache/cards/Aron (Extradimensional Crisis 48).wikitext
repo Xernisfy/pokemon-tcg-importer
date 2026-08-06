@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Aron
+|ja name=ココドラ
+|trans name=Cokodora
+|species=Aron
+|type=Metal
+|image=AronExtradimensionalCrisis48.png
+|illustrator=Shigenori Negishi
+|hp=70
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=048/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Aron''' (Japanese: '''ココドラ''' ''Cokodora'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Colorless}}
+|name=Headbutt
+|jname=ずつき
+|jtrans=Headbutt
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Aron
+|category=Iron Armor 
+|ndex=0304
+|height=1'4"
+|jheight=0.4
+|weight=132.3
+|jweight=60.0
+|dex=It eats iron ore—and sometimes railroad tracks—to build up the steel armor that protects its body.
+|jdex=鉄鉱石や たまに 鉄道の レールを 食べて 体を 守る 鋼の 鎧が つくられる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Plasma Blast|Aron|57}} from the {{TCG|Plasma Blast}} expansion; both cards have the Headbutt attack.
+*{{m|Headbutt}} is a [[move]] in the [[Pokémon games]] that {{p|Aron}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Stollunior (Dimensionale Krise 048)]]
+[[es:Aron (Crisis Dimensional TCG Pocket)]]
+[[fr:Galekid (Crise Interdimensionnelle 048)]]
+[[it:Aron (Crisi Ultradimensionale 48)]]
+[[ja:ココドラ (ポケポケ A3a)]]
+[[zh:可可多拉（A3a）]]

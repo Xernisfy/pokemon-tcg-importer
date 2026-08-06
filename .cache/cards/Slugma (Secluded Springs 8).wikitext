@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Slugma
+|ja name=マグマッグ
+|trans name=Magmag
+|species=Slugma
+|type=Fire
+|image=SlugmaSecludedSprings8.png
+|illustrator=Yukiko Baba
+|hp=80
+|weakness=Water
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=008/071|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Slugma''' (Japanese: '''マグマッグ''' ''Magmag'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Combustion
+|jname=かえん
+|jtrans=Blaze
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Slugma
+|category=Lava
+|ndex=0218
+|height=2'4"
+|jheight=0.7
+|weight=77.2
+|jweight=35.0
+|dex=A common sight in volcanic areas, it slowly slithers around in a constant search for warm places.
+|jdex=火山地帯に 多く 発生。 暖かい ところを 探して のろのろ はいずり回っている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Skyridge|Slugma|99}} from the {{TCG|Skyridge}} expansion.
+*'''Combustion''' is an attack that first appeared on {{TCG ID|Neo Destiny|Slugma|82}} from the {{TCG|Neo Destiny}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schneckmag (Verborgene Quelle 008)]]
+[[es:Slugma (Manantial Oculto TCG Pocket)]]
+[[fr:Limagma (Source Secrète 008)]]
+[[it:Slugma (Sorgenti Recondite 8)]]
+[[ja:マグマッグ (ポケポケ A4a)]]
+[[zh:熔岩虫（A4a）]]

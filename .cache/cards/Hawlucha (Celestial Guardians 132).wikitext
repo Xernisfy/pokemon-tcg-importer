@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hawlucha
+|ja name=ルチャブル
+|trans name=Luchabull
+|species=Hawlucha
+|type=Colorless
+|image=HawluchaCelestialGuardians132.png
+|illustrator=miki kudo
+|hp=80
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=132/155|pack=Solgaleo|rarity=Diamond|rarity count=2}}
+}}
+
+'''Hawlucha''' (Japanese: '''ルチャブル''' ''Luchabull'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Justified Press
+|jname=せいぎのプレス
+|jtrans=Press of Justice
+|damage=20+
+|effect=If your opponent's Active Pokémon is a {{e|Darkness}} Pokémon, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Hawlucha
+|species=Wrestling
+|ndex=0701
+|height=2'7"
+|jheight=0.8
+|weight=47.4
+|jweight=21.5
+|dex=Its elegant finishing moves—performed by nimbly leaping around using its wings—are polished in the forest where it was born and raised.
+|jdex=翼を 使い 軽やかに 跳び 相手を 華麗に 仕留める 技は 生まれ育った 森で 磨かれる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Steam Siege|Hawlucha|97}} from the {{TCG|Steam Siege}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Resladero (Hüter des Firmaments 132)]]
+[[es:Hawlucha (Guardianes Celestiales TCG Pocket)]]
+[[fr:Brutalibré (Gardiens Astraux 132)]]
+[[it:Hawlucha (Guardiani Astrali 132)]]
+[[ja:ルチャブル (ポケポケ A3)]]
+[[zh:摔角鹰人（A3）]]

@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wiglett
+|ja name=ウミディグダ
+|trans name=Umidigda
+|species=Wiglett
+|type=Water
+|image=WiglettPaldeanWonders25.png
+|illustrator=Shin Nagasawa
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=025/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Wiglett''' (Japanese: '''ウミディグダ''' ''Umidigda'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Water Gun
+|jname=みずでっぽう
+|jtrans=Water Gun
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Wiglett
+|category=Garden Eel
+|ndex=0960
+|height=3'11"
+|jheight=1.2
+|weight=4
+|jweight=1.8
+|dex=Though it looks like Diglett, Wiglett is an entirely different species. The resemblance seems to be a coincidental result of environmental adaptation.
+|jdex=ディグダに　似るが　まるで　別の 種類｡　生息　環境に　適応して 偶然　似たらしい｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Wiglett|55}} from the {{TCG|Scarlet & Violet}} expansion.
+*{{m|Water Gun}} is a [[move]] in the [[Pokémon games]] that {{p|Wiglett}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schligda (Wundervolles Paldea 025)]]
+[[fr:Taupikeau (Merveilles de Paldea 025)]]
+[[it:Wiglett (Meraviglie di Paldea 25)]]
+[[ja:ウミディグダ (ポケポケ B2a)]]
+[[zh:海地鼠（B2a）]]

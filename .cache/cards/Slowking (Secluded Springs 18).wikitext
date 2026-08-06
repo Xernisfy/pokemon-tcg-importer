@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Slowking
+|ja name=ヤドキング
+|trans name=Yadoking
+|species=Slowking
+|type=Water
+|image=SlowkingSecludedSprings18.png
+|illustrator=Aya Kusube
+|hp=130
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Slowpoke
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=018/071|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Slowking''' (Japanese: '''ヤドキング''' ''Yadoking'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Litter
+|jname=ポイすて
+|jtrans=Litter
+|damage=50×
+|effect=Discard up to 2 {{TCGP|Pokémon Tool}} cards from your hand. This attack does 50 damage for each card you discarded in this way.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Slowking
+|category=Royal 
+|ndex=0199
+|height=6'7"
+|jheight=2
+|weight=175.3
+|jweight=79.5
+|dex=When its head was bitten, toxins entered Slowpoke's head and unlocked an extraordinary power.
+|jdex=かまれたとき あたまに しみこんだ どくそに よって ただならない のうりょくに めざめた ヤドン。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Aquapolis|Slowking|H22}} from the {{TCG|Aquapolis}} expansion.
+*'''Litter''' is an attack that first appeared on {{TCG ID|EX Team Rocket Returns|Dark Slowking|9}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Laschoking (Verborgene Quelle 018)]]
+[[es:Slowking (Manantial Oculto TCG Pocket)]]
+[[fr:Roigada (Source Secrète 018)]]
+[[it:Slowking (Sorgenti Recondite 18)]]
+[[ja:ヤドキング (ポケポケ A4a)]]
+[[zh:呆呆王（A4a）]]

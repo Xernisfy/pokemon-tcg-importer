@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Barboach
+|ja name=ドジョッチ
+|trans name=Dojoach
+|species=Barboach
+|type=Fighting
+|image=BarboachEeveeGrove38.png
+|illustrator=Tomokazu Komiya
+|hp=70
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=038/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Barboach''' (Japanese: '''ドジョッチ''' ''Dojoach'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}
+|name=Mud-Slap
+|jname=どろかけ
+|jtrans=Mud Spray
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Barboach
+|category=Whiskers
+|ndex=0339
+|height=1'4"
+|jheight=0.4
+|weight=4.2
+|jweight=1.9
+|dex=Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey's location.
+|jdex=２本のヒゲは 敏感なレーダー。 泥で 濁った 水の 中でも 獲物の 位置を 察知するぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Dragon|Barboach|51}} from the {{TCG|EX Dragon}} expansion.
+*{{m|Mud-Slap}} is a [[move]] in the [[Pokémon games]] that {{p|Barboach}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schmerbe (Evoli-Hain 038)]]
+[[es:Barboach (Arboleda de Eevee TCG Pocket)]]
+[[fr:Barloche (La Clairière d'Évoli 038)]]
+[[it:Barboach (Il Bosco di Eevee 38)]]
+[[ja:ドジョッチ (ポケポケ A3b)]]
+[[zh:泥泥鳅（A3b）]]

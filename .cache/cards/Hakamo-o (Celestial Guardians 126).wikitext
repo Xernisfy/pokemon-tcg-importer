@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hakamo-o
+|ja name=ジャランゴ
+|trans name=Jyarango
+|species=Hakamo-o
+|type=Dragon
+|image=Hakamo-oCelestialGuardians126.png
+|illustrator=Ryuta Fuse
+|hp=100
+|weakness=
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Jangmo-o
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=126/155|pack=Lunala|rarity=Diamond|rarity count=2}}
+}}
+
+'''Hakamo-o''' (Japanese: '''ジャランゴ''' ''Jyarango'') is a {{ct|Dragon}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Lightning}}{{e|Fighting}}
+|name=Dragon Claw
+|jname=ドラゴンクロー
+|jtrans=Dragon Claw
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Hakamo-o
+|species=Scaly
+|ndex=0783
+|height=3'11"
+|jheight=1.2
+|weight=103.6
+|jweight=47.0
+|dex=The scaleless, scarred parts of its body are signs of its strength. It shows them off to defeated opponents.
+|jdex=ウロコが はがれた 傷だらけの 体は 強者の 証し。 倒した 相手に 見せつける。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Hakamo-o|162}} from the {{TCG|Cosmic Eclipse}} expansion.
+*{{m|Dragon Claw}} is a [[move]] in the [[Pokémon games]] that {{p|Hakamo-o}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mediras (Hüter des Firmaments 126)]]
+[[es:Hakamo-o (Guardianes Celestiales TCG Pocket)]]
+[[fr:Écaïd (Gardiens Astraux 126)]]
+[[it:Hakamo-o (Guardiani Astrali 126)]]
+[[ja:ジャランゴ (ポケポケ A3)]]
+[[zh:鳞甲龙（A3）]]

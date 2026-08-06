@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Skuntank
+|ja name=スカタンク
+|trans name=Skutank
+|species=Skuntank
+|type=Darkness
+|image=SkuntankSpace-TimeSmackdown103.png
+|illustrator=kirisAki
+|hp=100
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Stunky
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=103/155|pack=Dialga|rarity=Diamond|rarity count=2}}
+}}
+
+'''Skuntank''' (Japanese: '''スカタンク''' ''Skutank'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}
+|name=Poison Gas
+|jname=どくガス
+|jtrans=Poison Gas
+|damage=50
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Skuntank
+|species=Skunk
+|ndex=0435
+|height=3'3"
+|jheight=1.0
+|weight=83.8
+|jweight=38.0
+|dex=It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.
+|jdex=しっぽの　さきから　ひどい　においの　えきたいを　とばして　こうげきするが　うえから　ねらわれると　とまどう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Flashfire|Skuntank|55}} from the {{TCG|Flashfire}} expansion.
+*{{m|Poison Gas}} is a [[move]] in the [[Pokémon games]] that {{p|Skuntank}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Skuntank (Kollision von Raum und Zeit 103)]]
+[[es:Skuntank (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Moufflair (Choc Spatio-Temporel 103)]]
+[[it:Skuntank (Scontro Spaziotemporale 103)]]
+[[ja:スカタンク (ポケポケ A2)]]
+[[zh:坦克臭鼬（A2）]]

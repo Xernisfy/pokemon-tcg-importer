@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Jellicent
+|ja name=ブルンゲル
+|trans name=Burungel
+|species=Jellicent
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JellicentMegaRising69.png|illustrator=Tomokazu Komiya|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JellicentMegaRising234.png|illustrator=Haru Akasaka|tab caption=Illustration Rare}}
+|hp=120
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Frillish
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Diamond|rarity count=3|number=069/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Star|rarity count=1|number=234/226}}
+}}
+
+'''Jellicent''' (Japanese: '''ブルンゲル''' ''Burungel'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Bouncy Body
+|jname=ぷるぷるボディ
+|jtrans=Bouncy Body
+|effect=If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, take a {{e|Water}} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Surf
+|jname=なみのり
+|jtrans=Surfing
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Jellicent
+|species=Floating
+|ndex=0593
+|height=7'3"
+|jheight=2.2
+|weight=297.6
+|jweight=135.0
+|dex=Whenever a full moon hangs in the night sky, schools of Jellicent gather near the surface of the sea, waiting for their prey to appear.
+|jdex=満月に なると 群れを 引き連れ 海面に 姿を 見せる。 獲物が 来るのを 待っているのだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=JellicentMegaRising69.png
+|caption1=Rare card<br>Illus. [[Tomokazu Komiya]]
+|image2=JellicentMegaRising234.png
+|caption2=Illustration rare card<br>Illus. [[Haru Akasaka]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Battle Styles|Jellicent|42}} from the {{TCG|Battle Styles}} expansion.
+*{{m|Surf}} is a [[move]] in the [[Pokémon games]] that {{p|Jellicent}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Apoquallyp (Mega-Aufstieg 069)]]
+[[es:Jellicent (Megaascenso TCG Pocket)]]
+[[fr:Moyade (Méga-Ascension 069)]]
+[[it:Jellicent (Mega Ascesa 69)]]
+[[ja:ブルンゲル (ポケポケ B1)]]
+[[zh:胖嘟嘟（B1）]]

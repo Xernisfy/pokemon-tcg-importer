@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Reshiram
+|ja name=レシラム
+|trans name=Reshiram
+|species=Reshiram
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ReshiramFantasticalParade19.png|illustrator=Shin Nagasawa|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ReshiramFantasticalParade160.png|illustrator=toriyufu|tab caption=Illustration Rare}}
+|hp=120
+|weakness=Water
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=019/155|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=160/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Reshiram''' (Japanese: '''レシラム''' ''Reshiram'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Fire}}
+|name=Blue Flare
+|jname=あおいほのお
+|jtrans=Blue Flame
+|damage=110
+|effect=Discard 2 {{e|Fire}} Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Reshiram
+|species=Vast White
+|ndex=0643
+|height=10'6"
+|jheight=3.2
+|weight=727.5
+|jweight=330.0
+|dex=When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather.
+|jdex=レシラムの 尻尾が 燃えると 熱エネルギーで 大気が 動いて 世界の 天気が 変化する。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=ReshiramFantasticalParade19.png
+|caption1=Rare card<br>Illus. [[Shin Nagasawa]]
+|image2=ReshiramFantasticalParade160.png
+|caption2=Illustration rare card<br>Illus. [[toriyufu]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Plasma Freeze|Reshiram|17}} from the {{TCG|Plasma Freeze}} expansion.
+*{{m|Blue Flare}} is a [[move]] in the [[Pokémon games]] that {{p|Reshiram}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Reshiram (Traumhafte Parade 019)]]
+[[fr:Reshiram (Parade Onirique 019)]]
+[[it:Reshiram (Parata Fantasmagorica 19)]]
+[[ja:レシラム (ポケポケ B2)]]
+[[zh:莱希拉姆（B2）]]

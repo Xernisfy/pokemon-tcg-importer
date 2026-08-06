@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Sightseer
+|ja name=かんこうきゃく
+|trans name=Sightseer
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SightseerFantasticalParade150.png|illustrator=yuu|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SightseerFantasticalParade191.png|illustrator=yuu|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=150/155}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Star|rarity count=2|number=191/155}}
+}}
+
+'''Sightseer''' (Japanese: '''かんこうきゃく''' ''Sightseer'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Look at the top 4 cards of your deck. Put all Stage 1 Pokémon you find there into your hand. Shuffle the other cards back into your deck.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=SightseerFantasticalParade150.png
+|caption1=Uncommon card<br>Illus. [[yuu]]
+|image2=SightseerFantasticalParade191.png
+|caption2=Super rare card<br>Illus. [[yuu]]
+}}
+
+==Trivia==
+* {{TCG|Sightseer}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+===Origin===
+*{{tc|Sightseer}} is a Trainer class introduced to the [[core series]] in [[Generation VII]].
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=かんこうきゃく ''Kankōkyaku''
+|zh_yue=觀光客 ''Gūngwōnghaak''
+|zh_cmn=觀光客 ''Guānguāngkè''
+|fr=Vacancière
+|de=Urlauberin
+|it=Vacanziera
+|ko=관광객 ''Gwan-gwanggaek''
+|pt_br=Excursionista
+|es=Veraneante
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Urlauberin (TCG Pocket)]]
+[[fr:Vacancière (Parade Onirique 150)]]
+[[it:Vacanziera (Parata Fantasmagorica 150)]]
+[[ja:かんこうきゃく (ポケポケ)]]
+[[zh:游客（TCGP）]]

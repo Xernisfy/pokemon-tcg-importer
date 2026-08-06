@@ -1,0 +1,49 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Poison Barb
+|ja name=どくバリ
+|trans name=Poison Barb
+|subtype=Pokémon Tool
+|image=PoisonBarbCelestialGuardians146.png
+|illustrator=Toyste Beach
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=146/155|pack=Lunala|rarity=Diamond|rarity count=2}}
+}}
+
+'''Poison Barb''' (Japanese: '''どくバリ''' ''Poison Barb'') is a {{TCGP|Pokémon Tool}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Tool
+|rule=Pocket Tool
+|effect=If the Pokémon this card is attached to is your Active Pokémon and is damaged by an attack from your opponent's Pokémon, the Attacking Pokémon is now {{TCG|Poisoned}}.
+}}
+
+==Trivia==
+This card's effect is identical to that of the {{TCG|Poison Barb}} card in the [[Pokémon Trading Card Game]].
+
+===Origin===
+* The [[Poison Barb]] is an item in the [[Pokémon games]] that boosts the power of {{type|Poison}} moves when held.
+* This card's illustration was first featured on {{TCG ID|Sun & Moon|Poison Barb|124}} from the {{TCG|Sun & Moon}} expansion.
+
+==In other languages==
+{{langtable|color={{TCG Pokémon Tool color}}|bordercolor={{TCG Pokémon Tool color dark}}|textcolor=FFF
+|ja=どくバリ ''Dokubari''
+|zh_yue=毒針 ''Duhkjām''
+|zh_cmn=毒針<!-- / 毒针--> ''Dúzhēn''
+|fr=Pic Venin
+|de=Giftstich
+|it=Velenaculeo
+|ko=독바늘 ''Dokbaneul''
+|pt_br=Farpa Venenosa
+|es=Flecha Venenosa
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Giftstich (TCG Pocket)]]
+[[es:Flecha Venenosa (TCG Pocket)]]
+[[fr:Pic Venin (Gardiens Astraux 146)]]
+[[it:Velenaculeo (Guardiani Astrali 146)]]
+[[ja:どくバリ (ポケポケ)]]
+[[zh:毒针（TCGP）]]

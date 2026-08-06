@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Kabuto
+|ja name=カブト
+|trans name=Kabuto
+|species=Kabuto
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KabutoGeneticApex158.png|illustrator=sui|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KabutoFantasticalParade220.png|illustrator=Krgc|tab caption=Shiny Rare}}
+|hp=90
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Dome Fossil
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=158/226|pack=Charizard|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Shiny|rarity count=1|number=220/155}}
+}}
+
+'''Kabuto''' (Japanese: '''カブト''' ''Kabuto'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Shell Attack
+|jname=こうらアタック
+|jtrans=Shell Attack
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Kabuto
+|species=Shellfish
+|ndex=0140
+|height=1'8"
+|jheight=0.5
+|weight=25.4
+|jweight=11.5
+|dex=This species is almost entirely extinct. Kabuto molt every three days, making their shells harder and harder.
+|jdex=ほぼ　全滅した　ポケモン｡ ３日に　一度　脱皮して 殻を　どんどん　硬くする｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=KabutoGeneticApex158.png
+|caption1=Uncommon card<br>Illus. [[sui]]
+|image3=KabutoFantasticalParade220.png
+|caption3=Shiny rare card<br>Illus. [[Krgc]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Kabuto|77}} from the {{TCG|Team Up}} expansion.
+*'''Shell Attack''' is an attack that first appeared on {{TCG ID|Team Rocket|Squirtle|68}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+*This card's {{TCGP|Fantastical Parade}} print features a {{Shiny}} {{p|Kabuto}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kabuto (Unschlagbare Gene 158)]]
+[[es:Kabuto (Genes Formidables TCG Pocket)]]
+[[fr:Kabuto (Puissance Génétique 158)]]
+[[it:Kabuto (Geni Supremi 158)]]
+[[ja:カブト (ポケポケ A1)]]
+[[zh:化石盔（A1）]]

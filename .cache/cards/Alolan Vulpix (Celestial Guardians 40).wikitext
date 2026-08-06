@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Vulpix
+|ja name=アローラロコン
+|trans name=Alolan Rokon
+|species=Vulpix
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanVulpixCelestialGuardians40.png|illustrator=You Iribi|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanVulpixCelestialGuardians162.png|illustrator=tono|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=040/155|pack=Lunala|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=162/155|pack=Lunala|rarity=Star|rarity count=1}}
+}}
+
+'''Alolan Vulpix''' (Japanese: '''アローラロコン''' ''Alolan Rokon'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Call Forth Cold
+|jname=れいきをよぶ
+|jtrans=Cold Call
+|damage=
+|effect=Take a {{e|Water}} Energy from your Energy Zone and attach it to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Vulpix
+|category=Fox 
+|ndex=0037
+|height=2'
+|jheight=0.6
+|weight=21.8
+|jweight=9.9
+|dex=After long years in the ever-snowcapped mountains of Alola, this Vulpix has gained power over ice.
+|jdex=アローラ地方の 万年雪が 積もる 山で 長年 暮らすうち 氷の 能力を 手に入れた。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=AlolanVulpixCelestialGuardians40.png
+|caption1=Common card<br>Illus. [[You Iribi]]
+|image2=AlolanVulpixCelestialGuardians162.png
+|caption2=Illustration rare card<br>Illus. [[tono]]
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Vulpix}}.
+*This card's standard illustration was first featured on {{TCG ID|Guardians Rising|Alolan Vulpix|21}} from the {{TCG|Guardians Rising}} expansion.
+*'''Call Forth Cold''' is an attack that first appeared on {{TCG ID|Unbroken Bonds|Kyurem|50}} from the {{TCG|Unbroken Bonds}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Vulpix (Hüter des Firmaments 040)]]
+[[es:Vulpix de Alola (Guardianes Celestiales TCG Pocket)]]
+[[fr:Goupix d'Alola (Gardiens Astraux 040)]]
+[[it:Vulpix di Alola (Guardiani Astrali 40)]]
+[[zh:阿罗拉 六尾（A3）]]

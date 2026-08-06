@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Popplio
+|ja name=アシマリ
+|trans name=Ashimari
+|species=Popplio
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PopplioCelestialGuardians45.png|illustrator=Kanami Ogata|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PopplioMegaRising300.png|illustrator=Taiga Kasai|tab caption=Shiny Rare}}
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=045/155|pack=Lunala|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=300/226|pack=Mega Altaria|rarity=Shiny|rarity count=1}}
+}}
+
+'''Popplio''' (Japanese: '''アシマリ''' ''Ashimari'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Colorless}}
+|name=Sing
+|jname=うたう
+|jtrans=Sing
+|damage=
+|effect=Your opponent's Active Pokémon is now {{TCG|Asleep}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Popplio
+|category=Sea Lion 
+|ndex=0728
+|height=1'4"
+|jheight=0.4
+|weight=16.5
+|jweight=7.5
+|dex=The balloons it inflates with its nose grow larger and larger as it practices day by day.
+|jdex=鼻で 膨らませる バルーンは 日々 練習を 重ねることで 少しずつ 大きく なっていく。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=PopplioCelestialGuardians45.png
+|caption1=Standard card<br>Illus. [[Kanami Ogata]]
+|image2=PopplioMegaRising300.png
+|caption2=Shiny rare card<br>Illus. [[Taiga Kasai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare illustration features a {{Shiny}} {{p|Popplio}}.
+*{{m|Sing}} is a [[move]] in the [[Pokémon games]] that {{p|Popplio}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Robball (Hüter des Firmaments 045)]]
+[[es:Popplio (Guardianes Celestiales 45 TCG Pocket)]]
+[[fr:Otaquin (Gardiens Astraux 045)]]
+[[it:Popplio (Guardiani Astrali 45)]]
+[[ja:アシマリ (ポケポケ A3 045)]]
+[[zh:球球海狮（A3 045）]]

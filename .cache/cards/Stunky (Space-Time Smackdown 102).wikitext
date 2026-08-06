@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Stunky
+|ja name=スカンプー
+|trans name=Skunpuu
+|species=Stunky
+|type=Darkness
+|image=StunkySpace-TimeSmackdown102.png
+|illustrator=Kyoko Umemoto
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=102/155|pack=Dialga|rarity=Diamond|rarity count=1}}
+}}
+
+'''Stunky''' (Japanese: '''スカンプー''' ''Skunpuu'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Scratch
+|jname=ひっかく
+|jtrans=Scratch
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Stunky
+|species=Skunk
+|ndex=0434
+|height=1'4"
+|jheight=0.4
+|weight=42.3
+|jweight=19.2
+|dex=It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.
+|jdex=おしりからとばす　くさい　しるの　においは　はんけい2キロに　ひろがり　まわりの　ポケモンは　いなくなる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Flashfire|Stunky|53}} from the {{TCG|Flashfire}} expansion.
+*{{m|Scratch}} is a [[move]] in the [[Pokémon games]] that {{p|Stunky}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Skunkapuh (Kollision von Raum und Zeit 102)]]
+[[es:Stunky (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Moufouette (Choc Spatio-Temporel 102)]]
+[[it:Stunky (Scontro Spaziotemporale 102)]]
+[[ja:スカンプー (ポケポケ A2)]]
+[[zh:臭鼬噗（A2）]]

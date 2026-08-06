@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Liepard
+|ja name=レパルダス
+|trans name=Lepardas
+|species=Liepard
+|type=Darkness
+|image=LiepardCrimsonBlaze48.png
+|illustrator=AKIRA EGAWA
+|hp=90
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Purrloin
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=048/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Liepard''' (Japanese: '''レパルダス''' ''Lepardas'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Snatch and Flee
+|jname=うばってドロン
+|jtrans=Snatch and Flee
+|damage=60
+|effect=Your opponent reveals a random card from their hand and shuffles it into their deck. Shuffle this Pokémon into your deck.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Liepard
+|species=Cruel
+|ndex=0510
+|height=3'7"
+|jheight=1.1
+|weight=82.7
+|jweight=37.5
+|dex=Don't be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.
+|jdex=美しい 毛並みと スタイルに 惑わされがちだが 気まぐれで 狂暴な ポケモンなのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Brilliant Stars|Liepard|91}} from the {{TCG|Brilliant Stars}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kleoparda (Feuerrote Flammen 048)]]
+[[fr:Léopardus (Embrasement Écarlate 048)]]
+[[it:Liepard (Fiamme Cremisi 48)]]
+[[ja:レパルダス (ポケポケ B1a)]]
+[[zh:酷豹（B1a）]]

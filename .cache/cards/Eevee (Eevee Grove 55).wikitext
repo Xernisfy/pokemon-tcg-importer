@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Eevee
+|ja name=イーブイ
+|trans name=Eievui
+|species=Eevee
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EeveeEeveeGrove55.png|illustrator=Naoki Saito|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EeveeDeluxePackex286.png|illustrator=Naoki Saito|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EeveeEeveeGrove78.png|illustrator=Narumi Sato|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=055/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=078/069|pack=Any|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=285/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=286/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Eevee''' (Japanese: '''イーブイ''' ''Eievui'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Collect
+|jname=もってくる
+|jtrans=Fetch
+|damage=
+|effect=Draw a card.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Eevee
+|category=Evolution 
+|ndex=0133
+|height=1'
+|jheight=0.3
+|weight=14.3
+|jweight=6.5
+|dex=Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.
+|jdex=環境の　変化に　すぐさま 合わせられるよう　いくつもの 進化の　可能性を　秘めている｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=EeveeEeveeGrove55.png
+|caption1=Standard card<br>Illus. [[Naoki Saito]]
+|image2=EeveeEeveeGrove78.png
+|caption2=Illustration rare card<br>Illus. [[Narumi Sato]]
+|image3=EeveeDeluxePackex286.png
+|caption3=Parallel foil card<br>Illus. [[Naoki Saito]]
+}}
+
+==Trivia==
+The illustration rare card features {{p|Eevee}} standing in a grove of eight different flowering plants and bushes, each one's color alluding to each of Eevee's [[Eeveelution|Evolutions]].
+
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|SWSH Promo|Eevee|95}}, one of the {{TCG|SWSH Black Star Promos}}.
+*'''Collect''' is an attack that first appeared on {{TCG ID|Movie VS Pack|Forina's Linoone|5}} from the {{TCG|Movie Commemoration VS Pack}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Evoli (Evoli-Hain 055)]]
+[[es:Eevee (Arboleda de Eevee TCG Pocket)]]
+[[fr:Évoli (La Clairière d'Évoli 055)]]
+[[it:Eevee (Il Bosco di Eevee 55)]]
+[[ja:イーブイ (ポケポケ A3b)]]
+[[zh:伊布（A3b）]]

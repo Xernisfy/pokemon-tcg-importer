@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ultra Necrozma {{TCGP Icon|ex}}
+|ja name=ウルトラネクロズマ{{TCGP Icon|ex}}
+|trans name=UltraNecrozma {{TCGP Icon|ex}}
+|species=Necrozma
+|type=Dragon
+|image=UltraNecrozmaexPromo-A81.png
+|illustrator=PLANETA Tsuji
+|hp=150
+|weakness=
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Vol. 9|number=081/P-A}}
+}}
+
+'''Ultra Necrozma ex''' (Japanese: '''ウルトラネクロズマex''' ''Ultra Necrozma ex'') is a {{ct|Dragon}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/UltraBeast/Pocket}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Photon Claw
+|jname=フォトンクロー
+|jtrans=Photon Claw
+|damage=60
+|effect=
+}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Psychic}}{{e|Psychic}}{{e|Metal}}{{e|Metal}}
+|name=Shoegaze
+|jname=シューゲイザー
+|jtrans=Shoegazer
+|damage=120
+|effect=Discard the top 5 cards of each player's deck.
+}}
+{{Cardtext/Pocket ex
+|type=Dragon
+|ndex=0800U
+|name=Necrozma
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+This card was one of seven cards that could be pulled from Promo-A Vol. 9 packs; these were made available as part of the [[Ultra Beast Drop Event]], which ran from June 4 to 14, 2025.
+
+==Trivia==
+===Origin===
+*The '''Shoegaze''' attack is named after {{wp|shoegaze}}, a genre of music. The Japanese name of the attack, シューゲイザー ''Shoegazer'' (common name for the shoegaze genre in Japan), contains the same kana for ゲイザー ''gazer'' as フォトンゲイザー ''{{m|Photon Geyser}}'', {{p|Necrozma}}'s [[signature move]] in the [[core series games]].
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ultra-Necrozma-ex (PROMO-A 081)]]
+[[es:Ultra-Necrozma ex (Promo-A 81 TCG Pocket)]]
+[[fr:Ultra-Necrozma-ex (Promo-A 081)]]
+[[it:UltraNecrozma-ex (Promo-A 81)]]
+[[ja:ウルトラネクロズマex (ポケポケ P-A)]]
+[[zh:究极奈克洛兹玛ex（P-A）]]

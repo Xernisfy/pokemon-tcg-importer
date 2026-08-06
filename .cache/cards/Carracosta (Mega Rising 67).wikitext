@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Carracosta
+|ja name=アバゴーラ
+|trans name=Abagoura
+|species=Carracosta
+|type=Water
+|image=CarracostaMegaRising67.png
+|illustrator=match
+|hp=150
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Tirtouga
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Diamond|rarity count=3|number=067/226}}
+}}
+
+'''Carracosta''' (Japanese: '''アバゴーラ''' ''Abagoura'') is a {{ct|Water}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Blocking Shell
+|jname=ブロックシェル
+|jtrans=Block Shell
+|damage=100
+|effect=Prevent all damage done to this Pokémon by attacks from Basic Pokémon during your opponent's next turn.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Carracosta
+|species=Prototurtle
+|ndex=0565
+|height=3'11"
+|jheight=1.2
+|weight=178.6
+|jweight=81.0
+|dex=This Pokémon emerges from the water in search of prey despite the fact that it moves more slowly on land. 
+|jdex=水の中と くらべて 動きは 鈍いが 獲物を 探し求め 陸上でも 活動するぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Noble Victories|Carracosta|26}} from the {{TCG|Noble Victories}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Karippas (Mega-Aufstieg 067)]]
+[[es:Carracosta (Megaascenso TCG Pocket)]]
+[[fr:Mégapagos (Méga-Ascension 067)]]
+[[it:Carracosta (Mega Ascesa 67)]]
+[[ja:アバゴーラ (ポケポケ B1)]]
+[[zh:肋骨海龟（B1）]]

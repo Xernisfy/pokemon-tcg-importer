@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Entei
+|ja name=エンテイ
+|trans name=Entei
+|species=Entei
+|type=Fire
+|image=EnteiWisdomofSeaandSky33.png
+|illustrator=kodama
+|hp=110
+|weakness=Water
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=033/161|pack=Ho-Oh|rarity=Diamond|rarity count=3}}
+}}
+
+'''Entei''' (Japanese: '''エンテイ''' ''Entei'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Strong Flare
+|jname=ストロングフレア
+|jtrans=Strong Flare
+|damage=110
+|effect=Flip a coin. If tails, discard 2 random Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Entei
+|category=Volcano
+|ndex=0244
+|height=6'11"
+|jheight=2.1
+|weight=436.5
+|jweight=198.0
+|dex=A Pokémon that races across the land. It is said that one is born every time a new volcano appears.
+|jdex=新しい 火山が できるたび 生まれてくると 伝えられる 大地を 駆け巡る ポケモン。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Battle Styles|Entei|20}} from the {{TCG|Battle Styles}} expansion.
+*'''Strong Flare''' is an attack that first appeared on {{TCG ID|BREAKpoint|Emboar-EX|14}} from the {{TCG|BREAKpoint}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Entei (Weisheit von Meer und Himmel 033)]]
+[[es:Entei (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Entei (Sagesse entre Ciel et Mer 033)]]
+[[it:Entei (La Via del Cielo e del Mare 33)]]
+[[ja:エンテイ (ポケポケ A4)]]
+[[zh:炎帝（A4）]]

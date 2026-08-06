@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Magnezone
+|ja name=ジバコイル
+|trans name=Jibacoil
+|species=Magnezone
+|type=Lightning
+|image=MagnezoneCrimsonBlaze26.png
+|illustrator=Kagemaru Himeno
+|hp=150
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Magneton
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=026/069|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Magnezone''' (Japanese: '''ジバコイル''' ''Jibacoil'') is a {{ct|Lightning}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}{{e|Colorless}}
+|name=Mirror Shot
+|jname=ミラーショット
+|jtrans=Mirror Shot
+|damage=90
+|effect=During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Magnezone
+|species=Magnet Area
+|ndex=0462
+|height=3'11"
+|jheight=1.2
+|weight=396.8
+|jweight=180.0
+|dex=Exposure to a special magnetic field changed Magneton's molecular structure, turning it into Magnezone.
+|jdex=特殊な 磁場で レアコイルの 分子 構造が 組み換えられて ジバコイルに 進化した。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|DP Promo|Magnezone|44}}, one of the {{TCG|DP Black Star Promos}}.
+*{{m|Mirror Shot}} is a [[move]] in the [[Pokémon games]] that {{p|Magnezone}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Magnezone (Feuerrote Flammen 026)]]
+[[fr:Magnézone (Embrasement Écarlate 026)]]
+[[it:Magnezone (Fiamme Cremisi 26)]]
+[[ja:ジバコイル (ポケポケ B1a)]]
+[[zh:自爆磁怪（B1a）]]

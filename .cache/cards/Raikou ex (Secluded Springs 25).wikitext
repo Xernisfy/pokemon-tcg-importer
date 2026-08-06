@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Raikou {{TCGP Icon|ex}}
+|ja name=ライコウ{{TCGP Icon|ex}}
+|trans name=Raikou {{TCGP Icon|ex}}
+|species=Raikou
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RaikouexSecludedSprings25.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RaikouexSecludedSprings81.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RaikouexSecludedSprings88.png|illustrator=Tsuyoshi Nagano|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RaikouexPaldeanWonders128.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=130
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=025/071|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=081/071|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=088/071|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=128/093|pack=Any|rarity=Shiny|rarity count=2}}
+}}
+
+'''Raikou ex''' (Japanese: '''ライコウex''' ''Raikou ex'') is a {{ct|Lightning}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Ability/Pocket
+|type=Lightning
+|name=Legendary Pulse
+|jname=でんせつのこどう
+|jtrans=Legendary Pulse
+|effect=At the end of your turn, if this Pokémon is in the Active Spot, draw a card.
+}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Voltaic Bullet
+|jname=ボルテージバレット
+|jtrans=Voltage Bullet
+|damage=60
+|effect=This attack also does 10 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Lightning
+|ndex=0243
+|name=Raikou
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=RaikouexSecludedSprings25.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=RaikouexSecludedSprings81.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image4=RaikouexSecludedSprings88.png
+|caption4=Special illustration rare card<br>Illus. [[Tsuyoshi Nagano]]
+|image5=RaikouexPaldeanWonders128.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+This card's shiny super rare illustration features a {{Shiny}} {{p|Raikou}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+[[de:Raikou-ex (Verborgene Quelle 025)]]
+[[es:Raikou ex (Manantial Oculto TCG Pocket)]]
+[[fr:Raikou-ex (Source Secrète 025)]]
+[[it:Raikou-ex (Sorgenti Recondite 25)]]
+[[ja:ライコウex (ポケポケ A4a)]]
+[[zh:雷公ex（A4a）]]

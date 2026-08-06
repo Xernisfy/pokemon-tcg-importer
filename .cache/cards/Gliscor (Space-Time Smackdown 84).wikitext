@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gliscor
+|ja name=グライオン
+|trans name=Glion
+|species=Gliscor
+|type=Fighting
+|image=GliscorSpace-TimeSmackdown84.png
+|illustrator=Mizue
+|hp=100
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Gligar
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=084/155|pack=Dialga|rarity=Diamond|rarity count=2}}
+}}
+
+'''Gliscor''' (Japanese: '''グライオン''' ''Glion'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Acrobatics
+|jname=アクロバット
+|jtrans=Acrobat
+|damage=20+
+|effect=Flip 2 coins. This attack does 20 more damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Gliscor
+|species=Fang Scorpion Pokémon
+|ndex=0472
+|height=6'7"
+|jheight=2
+|weight=93.7
+|jweight=42.5
+|dex=It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!
+|jdex=尻尾で 木の枝に ぶら下がり 獲物を 観察する。 すきを 見て 上空から 襲いかかる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unbroken Bonds|Gliscor|99}} from the {{TCG|Unbroken Bonds}} expansion.
+*{{m|Acrobatics}} is a [[move]] in the [[Pokémon games]] that {{p|Gliscor}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Skorgro (Kollision von Raum und Zeit 084)]]
+[[es:Gliscor (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Scorvol (Choc Spatio-Temporel 084)]]
+[[it:Gliscor (Scontro Spaziotemporale 84)]]
+[[ja:グライオン (ポケポケ A2)]]
+[[zh:天蝎王（A2）]]

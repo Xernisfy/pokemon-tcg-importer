@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Emolga
+|ja name=エモンガ
+|trans name=Emonga
+|species=Emolga
+|type=Lightning
+|image=EmolgaWisdomofSeaandSky72.png
+|illustrator=Saya Tsuruta
+|hp=70
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=072/161|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Emolga''' (Japanese: '''エモンガ''' ''Emonga'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Raging Thunder
+|jname=らくらい
+|jtrans=Lightning Bolt
+|damage=40
+|effect=This attack also does 10 damage to 1 of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Emolga
+|species=Sky Squirrel
+|ndex=0587
+|height=1'4"
+|jheight=0.4
+|weight=11
+|jweight=5.0
+|dex=As Emolga flutters through the air, it crackles with electricity. This Pokémon is cute, but it can cause a lot of trouble.
+|jdex=電気を ほとばしらせながら 空を 舞うように 飛ぶ。 可愛いが やっかいなのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Crown Zenith|Emolga|47}} from the {{TCG|Crown Zenith}} expansion.
+*'''Raging Thunder''' is an attack that first appeared on {{TCG ID|Vending|Zapdos|S2}} from {{TCG|Expansion Sheet 2}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Emolga (Weisheit von Meer und Himmel 072)]]
+[[es:Emolga (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Emolga (Sagesse entre Ciel et Mer 072)]]
+[[it:Emolga (La Via del Cielo e del Mare 72)]]
+[[ja:エモンガ (ポケポケ A4)]]
+[[zh:电飞鼠（A4）]]

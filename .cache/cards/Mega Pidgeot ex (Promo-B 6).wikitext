@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Pidgeot {{TCGP Icon|Mega ex}}
+|ja name=メガピジョット{{TCGP Icon|Mega ex}}
+|trans name=Mega Pigeot {{TCGP Icon|Mega ex}}
+|species=Pidgeot
+|type=Colorless
+|image=MegaPidgeotexPromo-B6.png
+|illustrator=PLANETA CG Works
+|hp=210
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Pidgeotto
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Vol. 1|number=006/P-B}}
+}}
+
+'''Mega Pidgeot ex''' (Japanese: '''メガピジョットex''' ''Mega Pigeot ex'') is a {{ct|Colorless}} Stage 2 {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]].  It is part of the {{TCGP|Promo-B}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Mega Species/Pocket|Pidgeot}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Giant Twister
+|jname=ジャイアントツイスター 
+|jtrans=Giant Twister
+|damage=100
+|effect=Flip 3 coins. For each heads, discard a random Energy from your opponent's Active Pokémon. If all of them are tails, this attack does nothing.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Colorless
+|ndex=0018
+|name=Pidgeot
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Pidgeot
+|category=Bird
+|ndex=0018
+|height=7'03"
+|jheight=2.2
+|weight=111.3
+|jweight=50.5
+|dex=With its muscular strength now greatly increased, it can fly continuously for two weeks without resting.
+|jdex=きんりょくが おおはばに アップ。2しゅうかんの あいだ やすまず とびつづけることが できるのだ。
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-B Vol. 1 packs; these were made available as part of the [[Mega Pidgeot ex Drop Event]], which ran from November 18 to 28, 2025.
+
+===Gallery===
+
+==Trivia==
+===Origin===
+*This card features [[Mega]] {{p|Pidgeot}}.
+*This card's [[Pokédex]] entry comes from {{g|Let's Go, Pikachu! and Let's Go, Eevee!}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Tauboss-ex (PROMO-B 006)]]
+[[es:Mega-Pidgeot ex (Promo-B 6 TCG Pocket)]]
+[[fr:Méga-Roucarnage-ex (Promo-B 006)]]
+[[it:Mega Pidgeot-ex (Promo-B 6)]]
+[[ja:メガピジョットex (ポケポケ P-B)]]
+[[zh:超级大比鸟ex（P-B）]]

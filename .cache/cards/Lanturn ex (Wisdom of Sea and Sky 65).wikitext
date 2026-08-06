@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lanturn {{TCGP Icon|ex}}
+|ja name=ランターン {{TCGP Icon|ex}}
+|trans name=Lantern {{TCGP Icon|ex}}
+|species=Lanturn
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LanturnexWisdomofSeaandSky65.png|illustrator=PLANETA Igarashi|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LanturnexWisdomofSeaandSky189.png|illustrator=PLANETA Igarashi|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LanturnexWisdomofSeaandSky204.png|illustrator=Fujimoto Gold|tab caption=Special Illustration Rare}}
+|hp=150
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Chinchou
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=065/161|pack=Lugia|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=189/161|pack=Lugia|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=204/161|pack=Lugia|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=142/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Lanturn ex''' (Japanese: '''ランターンex''' ''Lantern ex'') is a {{ct|Lightning}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}{{e|Colorless}}
+|name=Flashing Signal
+|jname=シグナルフラッシュ
+|jtrans=Signal Flash
+|damage=80
+|effect=Flip a coin. If heads, your opponent's Active Pokémon is now {{TCG|Paralyzed}}. If tails, your opponent's Active Pokémon is now {{TCG|Confused}}.
+}}
+{{Cardtext/Pocket ex
+|type=Lightning
+|ndex=0171
+|name=Lanturn
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=LanturnexWisdomofSeaandSky65.png
+|caption1=Double rare card<br>Illus. [[PLANETA Igarashi]]
+|image2=LanturnexWisdomofSeaandSky189.png
+|caption2=Super rare card<br>Illus. [[PLANETA Igarashi]]
+|image3=LanturnexWisdomofSeaandSky204.png
+|caption3=Special illustration rare card<br>Illus. [[Fujimoto Gold]]
+}}
+
+==Trivia==
+===Origin===
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lanturn-ex (Weisheit von Meer und Himmel 065)]]
+[[es:Lanturn ex (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Lanturn-ex (Sagesse entre Ciel et Mer 065)]]
+[[it:Lanturn-ex (La Via del Cielo e del Mare 65)]]
+[[ja:ランターンex (ポケポケ A4)]]
+[[zh:电灯怪ex（A4）]]

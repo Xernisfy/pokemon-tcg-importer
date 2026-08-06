@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Crabominable {{TCGP Icon|ex}}
+|ja name=ケケンカニ{{TCGP Icon|ex}}
+|trans name=Kekenkani {{TCGP Icon|ex}}
+|species=Crabominable
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CrabominableexCelestialGuardians49.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CrabominableexCelestialGuardians183.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CrabominableexCelestialGuardians201.png|illustrator=Miki Tanaka|tab caption=Special Illustration Rare}}
+|hp=160
+|weakness=Metal
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Crabrawler
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=049/155|pack=Solgaleo|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=183/155|pack=Solgaleo|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=201/155|pack=Solgaleo|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=121/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Crabominable ex''' (Japanese: '''ケケンカニex''' ''Kekenkani ex'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Insatiable Striking
+|jname=がつがつボンバー
+|jtrans=Voracious Bomber
+|damage=40
+|effect=During your next turn, this Pokémon's Insatiable Striking attack does +40 damage.
+}}
+{{Cardtext/Pocket ex
+|type=Water
+|ndex=0740
+|name=Crabominable
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=CrabominableexCelestialGuardians49.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=CrabominableexCelestialGuardians183.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=CrabominableexCelestialGuardians201.png
+|caption3=Special illustration rare card<br>Illus. [[Miki Tanaka]]
+}}
+
+==Trivia==
+===Origin===
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Krawell-ex (Hüter des Firmaments 049)]]
+[[es:Crabominable ex (Guardianes Celestiales TCG Pocket)]]
+[[fr:Crabominable-ex (Gardiens Astraux 049)]]
+[[it:Crabominable-ex (Guardiani Astrali 49)]]
+[[ja:ケケンカニex (ポケポケ A3)]]
+[[zh:好胜毛蟹ex（A3）]]

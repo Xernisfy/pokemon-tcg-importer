@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pineco
+|ja name=クヌギダマ
+|trans name=Kunugidama
+|species=Pineco
+|type=Grass
+|image=PinecoWisdomofSeaandSky20.png
+|illustrator=Suwama Chiaki
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=020/161|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Pineco''' (Japanese: '''クヌギダマ''' ''Kunugidama'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Pineco
+|category=Bagworm
+|ndex=0204
+|height=2'
+|jheight=0.6
+|weight=15.9
+|jweight=7.2
+|dex=It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.
+|jdex=木の実に そっくり。 間違われて とりポケモンに つつかれてしまうが 硬い 殻で 守られている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Flashfire|Pineco|4}} from the {{TCG|Flashfire}} expansion; both cards have the Ram attack.
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Brilliant Diamond and Shining Pearl}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tannza (Weisheit von Meer und Himmel 020)]]
+[[es:Pineco (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Pomdepik (Sagesse entre Ciel et Mer 020)]]
+[[it:Pineco (La Via del Cielo e del Mare 20)]]
+[[ja:クヌギダマ (ポケポケ A4)]]
+[[zh:榛果球（A4）]]

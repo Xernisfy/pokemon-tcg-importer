@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tangrowth
+|ja name=モジャンボ
+|trans name=Mojumbo
+|species=Tangrowth
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TangrowthSpace-TimeSmackdown5.png|illustrator=kodama|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TangrowthSpace-TimeSmackdown156.png|illustrator=Saboteri|tab caption=Illustration Rare}}
+|hp=130
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Tangela
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Dialga|rarity=Diamond|rarity count=2|number=005/155}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Dialga|rarity=Star|rarity count=1|number=156/155}}
+}}
+
+'''Tangrowth''' (Japanese: '''モジャンボ''' ''Mojumbo'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=Mega Drain
+|jname=メガドレイン
+|jtrans=Mega Drain
+|damage=90
+|effect=Heal 30 damage from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Tangrowth
+|species=Vine
+|ndex=0465
+|height=6'7"
+|jheight=2.0
+|weight=283.5
+|jweight=128.6
+|dex=Tangrowth has two arms that it can extend as it pleases. Recent research has shown that these arms are, in fact, bundles of vines.
+|jdex=自在に 伸びる ２本の 腕は じつは ツルが 束になったものと 最近の 研究で わかった。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=TangrowthSpace-TimeSmackdown5.png
+|caption1=Uncommon card<br>Illus. [[kodama]]
+|image2=TangrowthSpace-TimeSmackdown156.png
+|caption2=Illustration rare card<br>Illus. [[Saboteri]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration first appeared on {{TCG ID|Unbroken Bonds|Tangrowth|17}} from the {{TCG|Unbroken Bonds}} expansion.
+*{{m|Mega Drain}} is a [[move]] in the [[Pokémon games]] that {{p|Tangrowth}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tangoloss (Kollision von Raum und Zeit 005)]]
+[[es:Tangrowth (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Bouldeneu (Choc Spatio-Temporel 005)]]
+[[it:Tangrowth (Scontro Spaziotemporale 5)]]
+[[ja:モジャンボ (ポケポケ A2)]]
+[[zh:巨蔓藤（A2）]]

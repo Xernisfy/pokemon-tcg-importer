@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Carbink
+|ja name=メレシー
+|trans name=Melecie
+|species=Carbink
+|type=Psychic
+|image=CarbinkMegaRising119.png
+|illustrator=Sanosuke Sakuma
+|hp=50
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=119/226|pack=Mega Altaria|rarity=Diamond|rarity count=1}}
+}}
+
+'''Carbink''' (Japanese: '''メレシー''' ''Melecie'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Guard Press
+|jname=ガードプレス
+|jtrans=Guard Press
+|damage=30
+|effect=During your opponent's next turn, this Pokémon takes −30 damage from attacks.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Carbink
+|category=Jewel
+|ndex=0703
+|height=1'
+|jheight=0.3
+|weight=12.6
+|jweight=5.7
+|dex=It's said that somewhere in the world, there's a mineral vein housing a large pack of slumbering Carbink. It's also said that this pack has a queen.
+|jdex=世界の どこかには メレシーが たくさん 眠る 鉱脈があり 群れの 女王も いるという。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Carbink|117}} from the {{TCG|Lost Thunder}} expansion; both cards have the Guard Press attack.
+*'''Guard Press''' is an attack that first appeared on {{TCG ID|Unleashed|Steelix|24}} from the {{TCG|Unleashed}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rocara (Mega-Aufstieg 119)]]
+[[es:Carbink (Megaascenso TCG Pocket)]]
+[[fr:Strassie (Méga-Ascension 119)]]
+[[it:Carbink (Mega Ascesa 119)]]
+[[ja:メレシー (ポケポケ B1)]]
+[[zh:小碎钻（B1）]]

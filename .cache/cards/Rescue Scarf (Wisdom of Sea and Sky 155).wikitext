@@ -1,0 +1,48 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Rescue Scarf
+|ja name=レスキュースカーフ
+|trans name=Rescue Scarf
+|subtype=Pokémon Tool
+|image=RescueScarfWisdomofSeaandSky155.png
+|illustrator=Ryo Ueda
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=155/161|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Rescue Scarf''' (Japanese: '''レスキュースカーフ''' ''Rescue Scarf'') is a {{TCGP|Pokémon Tool}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Tool
+|rule=Pocket Tool
+|effect=If the Pokémon this card is attached to is Knocked Out by damage from an attack from your opponent's Pokémon, put it into your hand instead of the discard pile. 
+}}
+
+==Trivia==
+This card's effect is identical to that of the {{TCG|Rescue Scarf}} card in the [[Pokémon Trading Card Game]].
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Dragons Exalted|Rescue Scarf|115}} from the {{TCG|Dragons Exalted}} expansion.
+
+==In other languages==
+{{langtable|color={{TCG Pokémon Tool color}}|bordercolor={{TCG Pokémon Tool color dark}}|textcolor=FFF
+|ja=レスキュースカーフ ''Rescue Scarf''
+|zh_yue=救援領巾 ''Gauwùhn Léhnggān''
+|zh_cmn=救援領巾 ''Jiùyuán Lǐngjīn''
+|fr=Foulard de Sauvetage
+|de=Rettender Schal
+|it=Sciarpa Salvagente
+|ko=레스큐 스카프 ''Rescue Scarf''
+|pt_br=Cachecol de Resgate
+|es=Bufanda Rescatadora
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rettender Schal (TCG Pocket)]]
+[[es:Bufanda Rescatadora (TCG Pocket)]]
+[[fr:Foulard de Sauvetage (Sagesse entre Ciel et Mer 155)]]
+[[it:Sciarpa Salvagente (La Via del Cielo e del Mare 155)]]
+[[ja:レスキュースカーフ (ポケポケ)]]
+[[zh:救援领巾（TCGP）]]

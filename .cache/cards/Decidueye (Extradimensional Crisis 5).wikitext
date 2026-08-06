@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Decidueye
+|ja name=ジュナイパー
+|trans name=Junaiper
+|species=Decidueye
+|type=Grass
+|image=DecidueyeExtradimensionalCrisis5.png
+|illustrator=Souichirou Gunjima
+|hp=130
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Dartrix
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=005/069|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Decidueye''' (Japanese: '''ジュナイパー''' ''Junaiper'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Sniping Arrow
+|jname=スナイピングアロー
+|jtrans=Sniping Arrow
+|damage=
+|effect=This attack does 70 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Decidueye
+|category=Arrow Quill 
+|ndex=0724
+|height=5'3"
+|jheight=1.6
+|weight=80.7
+|jweight=36.6
+|dex=It nocks its arrow quills and shoots them at opponents. When it simply can't afford to miss, it tugs the vine on its head to improve its focus.
+|jdex=矢羽を つがえ 相手に 放つ。 絶対 外せない時は 頭の ツルを引き 集中 するのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|SWSH Promo|Decidueye|35}}, one of the {{TCG|SWSH Black Star Promos|Sword & Shield Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Silvarro (Dimensionale Krise 005)]]
+[[es:Decidueye (Crisis Dimensional TCG Pocket)]]
+[[fr:Archéduc (Crise Interdimensionnelle 005)]]
+[[it:Decidueye (Crisi Ultradimensionale 5)]]
+[[ja:ジュナイパー (ポケポケ A3a)]]
+[[zh:狙射树枭（A3a）]]

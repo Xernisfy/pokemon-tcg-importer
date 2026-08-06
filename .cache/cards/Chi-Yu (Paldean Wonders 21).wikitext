@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Chi-Yu
+|ja name=イーユイ
+|trans name=Yiyui
+|species=Chi-Yu
+|type=Fire
+|image=Chi-YuPaldeanWonders21.png
+|illustrator=Dsuke
+|hp=80
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=021/093|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Chi-Yu''' (Japanese: '''イーユイ''' ''Yiyui'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}
+|name=Megafire of Envy
+|jname=ねたみのごうか
+|jtrans=Jealous Flames
+|damage=40+
+|effect=If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Chi-Yu
+|category=Ruinous
+|ndex=1004
+|height=1'4"
+|jheight=0.4
+|weight=10.8
+|jweight=4.9
+|dex=The envy accumulated within curved beads that sparked multiple conflicts has clad itself in fire and become a Pokémon.
+|jdex=多くの 争いの 火種となった 勾玉に 集まった 妬みが 炎を まとい ポケモンとなった。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|SVP Promo|Chi-Yu|57}}, one of the {{TCG|SVP Black Star Promos}}.
+**Both cards have the '''Megafire of Envy''' attack, as the SVP Promo card is a reprint of {{TCG|Paradox Rift|Chi-Yu|29}} from the {{TCG|Paradox Rift}} expansion, from which the attack originates.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Yuyu (Wundervolles Paldea 021)]]
+[[fr:Yuyu (Merveilles de Paldea 021)]]
+[[it:Chi-Yu (Meraviglie di Paldea 21)]]
+[[ja:イーユイ (ポケポケ B2a)]]
+[[zh:古玉鱼（B2a）]]

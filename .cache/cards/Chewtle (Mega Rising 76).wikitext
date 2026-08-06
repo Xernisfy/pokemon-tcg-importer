@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Chewtle
+|ja name=カムカメ
+|trans name=Kamukame
+|species=Chewtle
+|type=Water
+|image=ChewtleMegaRising76.png
+|illustrator=Nurikabe
+|hp=80
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=076/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+}}
+
+'''Chewtle''' (Japanese: '''カムカメ''' ''Kamukame'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Wave Splash
+|jname=スプラッシュ
+|jtrans=Splash
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Chewtle
+|species=Snapping
+|ndex=0833
+|height=1'
+|jheight=0.3
+|weight=18.7
+|jweight=8.5
+|dex=A popular game among children is to lift up sticks that Chewtle have bitten onto to see whose Chewtle can hang on the longest.
+|jdex=カムカメが 噛みついた 枝を 持ち上げ 食いついている 時間を 競う 遊びが 子どもに 人気。
+}}
+
+==Trivia==
+===Origin===
+*'''Wave Splash''' is an attack that first appeared on {{TCG ID|Vending|Golduck|S3}} from {{TCG|Expansion Sheet 3}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kamehaps (Mega-Aufstieg 076)]]
+[[es:Chewtle (Megaascenso TCG Pocket)]]
+[[fr:Khélocrok (Méga-Ascension 076)]]
+[[it:Chewtle (Mega Ascesa 76)]]
+[[ja:カムカメ (ポケポケ B1)]]
+[[zh:咬咬龟（B1）]]

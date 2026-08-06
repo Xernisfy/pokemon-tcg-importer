@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Luxray
+|ja name=レントラー
+|trans name=Rentorar
+|species=Luxray
+|type=Lightning
+|image=LuxraySpace-TimeSmackdown60.png
+|illustrator=Hitoshi Ariga
+|hp=130
+|weakness=Fighting
+|retreat cost=0
+|evo stage=Stage 2
+|prevo name=Luxio
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=060/155|pack=Dialga|rarity=Diamond|rarity count=3}}
+}}
+
+'''Luxray''' (Japanese: '''レントラー''' ''Rentorar'') is a {{ct|Lightning}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}{{e|Lightning}}
+|name=Volt Bolt
+|jname=ボルテージアロー
+|jtrans=Voltage Arrow
+|damage=
+|effect=Discard all {{e|Lightning}} Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Luxray
+|species=Gleam Eyes
+|ndex=0405
+|height=4'7"
+|jheight=1.4
+|weight=92.6
+|jweight=42.0
+|dex=It can see clearly through walls to track down its prey and seek its lost young.
+|jdex=壁の向こうも 見える 力で 逃げた 獲物を 追いつめるほかにも 迷子の 子どもを 捜したりする。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Flashfire|Luxray|34}} from the {{TCG|Flashfire}} expansion.
+*'''Volt Bolt''' is an attack that first appeared on {{TCG ID|Dark Explorers|Raikou-EX|38}} from the {{TCG|Dark Explorers}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Luxtra (Kollision von Raum und Zeit 060)]]
+[[es:Luxray (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Luxray (Choc Spatio-Temporel 060)]]
+[[it:Luxray (Scontro Spaziotemporale 60)]]
+[[ja:レントラー (ポケポケ A2)]]
+[[zh:伦琴猫（A2）]]

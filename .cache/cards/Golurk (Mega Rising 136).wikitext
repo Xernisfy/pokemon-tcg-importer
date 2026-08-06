@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Golurk
+|ja name=ゴルーグ
+|trans name=Goloog
+|species=Golurk
+|type=Fighting
+|image=GolurkMegaRising136.png
+|illustrator=Anesaki Dynamic
+|hp=130
+|weakness=Grass
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Golett
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=136/226|pack=Mega Blaziken|rarity=Diamond|rarity count=3}}
+}}
+
+'''Golurk''' (Japanese: '''ゴルーグ''' ''Goloog'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Heavy Rocket
+|jname=ヘビーロケット
+|jtrans=Heavy Rocket
+|damage=60×
+|effect=Reveal the top 3 cards of your deck. This attack does 60 damage for each Pokémon with a Retreat Cost of 3 or more you find there. Shuffle the revealed cards back into your deck.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Golurk
+|category=Automaton
+|ndex=0623
+|height=9'2"
+|jheight=2.8
+|weight=727.5
+|jweight=330.0
+|dex=There's a theory that inside Golurk is a perpetual motion machine that produces limitless energy, but this belief hasn't been proven.
+|jdex=体内に エネルギーを 生み出す 永久機関が あると いうが 未だに 解明は されていない。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Golurk|77}} from the {{TCG|Darkness Ablaze}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Golgantes (Mega-Aufstieg 136)]]
+[[es:Golurk (Megaascenso TCG Pocket)]]
+[[fr:Golemastoc (Méga-Ascension 136)]]
+[[it:Golurk (Mega Ascesa 136)]]
+[[ja:ゴルーグ (ポケポケ B1)]]
+[[zh:泥偶巨人（B1）]]

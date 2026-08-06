@@ -1,0 +1,78 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gengar
+|ja name=ゲンガー
+|trans name=Gangar
+|species=Gengar
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GengarGeneticApex122.png|illustrator=Naoyo Kimura|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GengarCelestialGuardians222.png|illustrator=kurumitsu|tab caption=Shiny Rare}}
+|hp=130
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Haunter
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=122/226|pack=Mewtwo|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=222/155|pack=Lunala|rarity=Shiny|rarity count=1}}
+}}
+
+'''Gengar''' (Japanese: '''ゲンガー''' ''Gangar'') is a {{ct|Psychic}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Bother
+|jname=いやがらせ
+|jtrans=Pestering
+|damage=50
+|effect=Your opponent can't use any {{TCGP|Supporter card}}s from their hand during their next turn.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Gengar
+|species=Shadow
+|ndex=0094
+|height=4'11"
+|jheight=1.5
+|weight=89.3
+|jweight=40.5
+|dex=To steal the life of its target, it slips into the prey's shadow and silently waits for an opportunity.
+|jdex=命を　奪おうと　決めた 獲物の　影に　潜り込み じっと　チャンスを　狙ってる｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=GengarGeneticApex122.png
+|caption1=Rare card<br>Illus. [[Naoyo Kimura]]
+|image2=GengarCelestialGuardians222.png
+|caption2=Shiny rare card<br>Illus. [[kurumitsu]]
+}}
+
+==Trivia==
+While many cards in Pokémon Trading Card Game Pocket reuse artwork from the [[Pokémon Trading Card Game]], this was the first of a small number of instances where the names of the originating card and the TCG Pocket card do not match; the illustration originates from a TCG card called {{TCG ID|VS|Morty's Gengar|21}}, while this card is simply called Gengar.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|VS|Morty's Gengar|21}} from the {{TCG|Pokémon VS}} expansion, which was only released in Japan.
+*This card's shiny rare print features a {{Shiny}} {{p|Gengar}}.
+*'''Bother'''{{'}}s Japanese name is that of Disgust, an [[List of Abilities in Pokémon Conquest|Ability]] in [[Pokémon Conquest]], though Gengar cannot have it.
+**As an attack in the TCG, it first appeared as '''Torment''' on {{TCG ID|Secret Wonders|Lombre|54}} from the {{TCG|Secret Wonders}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gengar (Unschlagbare Gene 122)]]
+[[es:Gengar (Genes Formidables TCG Pocket)]]
+[[fr:Ectoplasma (Puissance Génétique 122)]]
+[[it:Gengar (Geni Supremi 122)]]
+[[ja:ゲンガー (ポケポケ A1)]]
+[[zh:耿鬼（A1）]]

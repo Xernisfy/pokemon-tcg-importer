@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Scyther
+|ja name=ストライク
+|trans name=Strike
+|species=Scyther
+|type=Grass
+|image=ScytherWisdomofSeaandSky6.png
+|illustrator=Narumi Sato
+|hp=70
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=006/161|pack=Lugia|rarity=Diamond|rarity count=1}}
+}}
+
+'''Scyther''' (Japanese: '''ストライク''' ''Strike'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Slash
+|jname=きりさく
+|jtrans=Slash
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Scyther
+|species=Mantis
+|ndex=0123
+|height=4'11"
+|jheight=1.5
+|weight=123.5
+|jweight=56.0
+|dex=It slashes through grass with its sharp scythes, moving too fast for the human eye to track.
+|jdex=切れ味　鋭い　カマを　使って 草むらを　切り進む｡　あまりに 速い　動きで　目が　追いつかない｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Crown Zenith|Scyther|6}} from the {{TCG|Crown Zenith}} expansion.
+*{{m|Slash}} is a [[move]] in the [[Pokémon games]] that {{p|Scyther}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sichlor (Weisheit von Meer und Himmel 006)]]
+[[es:Scyther (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Insécateur (Sagesse entre Ciel et Mer 006)]]
+[[it:Scyther (La Via del Cielo e del Mare 6)]]
+[[ja:ストライク (ポケポケ A4)]]
+[[zh:飞天螳螂（A4）]]

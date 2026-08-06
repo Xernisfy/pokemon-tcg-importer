@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rotom
+|ja name=ロトム
+|trans name=Rotom
+|species=Rotom
+|type=Psychic
+|image=RotomTriumphantLight35.png
+|illustrator=Anesaki Dynamic
+|hp=70
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=035/075|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Rotom''' (Japanese: '''ロトム''' ''Rotom'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Speed Link
+|jname=スピードリンク
+|jtrans=Speed Link
+|effect=If you have {{TCGP|Arceus}} or {{DL|Arceus (TCG Pocket)|Arceus ex}} in play, this Pokémon has no {{TCG|Retreat Cost}}.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}
+|name=Dash Attack
+|jname=とびだしアタック
+|jtrans=Leaping Attack
+|damage=
+|effect=This attack does 20 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Rotom
+|species=Plasma
+|ndex=0479
+|height=1'
+|jheight=0.3
+|weight=0.7
+|jweight=0.3
+|dex=Its electricity-like body can enter some kinds of machines and take control in order to make mischief.
+|jdex=電気のような 体は 一部の 機械に 入り込むことが できる。そして その体で いたずらする。
+}}
+
+==Trivia==
+Rotom is one of eight Pokémon in the {{TCGP|Triumphant Light}} expansion to feature a {{TCGP|Link Ability}} that is active or usable while {{TCGP|Arceus|Arceus or Arceus ex}} is in play. All of these cards, along with {{TCG ID|Triumphant Light|Arceus|70}} and {{TCG ID|Triumphant Light|Arceus ex|71}} from the same expansion, have a special pattern behind the card text to symbolise their connection to Arceus and are part of the [[Triumphant Light (TCG Pocket)#Themed Collections|Themed Collection]] "Pokémon with Abilities that "Link" with Arceus".
+
+===Origin===
+*'''Dash Attack''' is an attack that first appeared on {{TCG ID|Supreme Victors|Nincada|117}} from the {{TCG|Supreme Victors}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rotom (Licht des Triumphs 035)]]
+[[es:Rotom (Luz Triunfal TCG Pocket)]]
+[[fr:Motisma (Lumière Triomphale 035)]]
+[[it:Rotom (Luce Trionfale 35)]]
+[[ja:ロトム (ポケポケ A2a)]]
+[[zh:洛托姆（A2a）]]

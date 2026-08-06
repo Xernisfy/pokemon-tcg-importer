@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Kangaskhan
+|ja name=ガルーラ
+|trans name=Garura
+|species=Kangaskhan
+|type=Colorless
+|image=KangaskhanGeneticApex203.png
+|illustrator=Ken Sugimori
+|hp=100
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=203/226|pack=Charizard|rarity=Diamond|rarity count=3}}
+}}
+
+'''Kangaskhan''' (Japanese: '''ガルーラ''' ''Garura'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Dizzy Punch
+|jname=ピヨピヨパンチ
+|jtrans=Chirp Chirp Punch
+|damage=30×
+|effect=Flip 2 coins. This attack does 30 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Kangaskhan
+|species=Parent
+|ndex=0115
+|height=7'3"
+|jheight=2.2
+|weight=176.4
+|jweight=80.0
+|dex=Although it's carrying its baby in a pouch on its belly, Kangaskhan is swift on its feet. It intimidates its opponents with quick jabs.
+|jdex=腹の　袋に　子どもが　いるが フットワークは　とても　軽い｡ 素早いジャブで　相手を　威嚇｡
+}}
+==Trivia==
+This card is one of several featured in the {{TCGP|Genetic Apex}} expansion's "Safari Zone" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]], all of which can be found in the [[Kanto Safari Zone]] in Generations {{gen|I}} and {{gen|III}}.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Garura Parent/Child|Kangaskhan|promo}}, an {{TCG|Unnumbered Promotional cards|unnumbered promotional card}} only released in Japan.
+**Both cards have the {{m|Dizzy Punch}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Kangaskhan}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kangama (Unschlagbare Gene 203)]]
+[[es:Kangaskhan (Genes Formidables TCG Pocket)]]
+[[fr:Kangourex (Puissance Génétique 203)]]
+[[it:Kangaskhan (Geni Supremi 203)]]
+[[ja:ガルーラ (ポケポケ A1)]]
+[[zh:袋兽（A1）]]

@@ -1,0 +1,79 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Klefki
+|ja name=クレッフィ
+|trans name=Cleffy
+|species=Klefki
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KlefkiMegaRising120.png|illustrator=Shigenori Negishi|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KlefkiMegaRising330.png|illustrator=PLANETA CG Works|tab caption=Ultra Rare}}
+|hp=50
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=120/226|pack=Mega Gyarados|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=330/226|pack=Any|rarity=Crown|rarity count=1}}
+}}
+
+'''Klefki''' (Japanese: '''クレッフィ''' ''Cleffy'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Dismantling Keys
+|jname=ぶんかいのカギ
+|jtrans=Dismantling Keys
+|effect=Once during your turn, if this Pokémon is on your Bench, you may discard all Pokémon Tools from your opponent's Active Pokémon. If you do, discard this Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}
+|name=Hook
+|jname=ひっかける
+|jtrans=Hook
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Klefki
+|species=Key Ring
+|ndex=0707
+|height=8"
+|jheight=0.2
+|weight=6.6
+|jweight=3.0
+|dex=In the past, noble families entrusted their vault keys to a Klefki. They passed the Klefki down through the generations, taking good care of it.
+|jdex=昔の 貴族は 宝庫の カギを 管理させる クレッフィを 代々 引き継ぎ 大切に 扱った。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=KlefkiMegaRising120.png
+|caption1=Rare card<br>Illus. [[Shigenori Negishi]]
+|image2=KlefkiMegaRising330.png
+|caption2=Ultra rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Team Up|Klefki|110}} from the {{TCG|Team Up}} expansion.
+*'''Hook''' is an attack that first appeared on {{TCG ID|EX Dragon|Magnemite|61}} from the {{TCG|EX Dragon}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Clavion (Mega-Aufstieg 120)]]
+[[es:Klefki (Megaascenso TCG Pocket)]]
+[[fr:Trousselin (Méga-Ascension 120)]]
+[[it:Klefki (Mega Ascesa 120)]]
+[[ja:クレッフィ (ポケポケ B1)]]
+[[zh:钥圈儿（B1）]]

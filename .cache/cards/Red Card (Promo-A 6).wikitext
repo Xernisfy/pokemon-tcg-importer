@@ -1,0 +1,53 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Red Card
+|ja name=レッドカード
+|trans name=Red Card
+|subtype=Item
+|image=RedCardPromo-A6.png
+|illustrator=5ban Graphics
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=006/P-A}}
+}}
+
+'''Red Card''' (Japanese: '''レッドカード''' ''Red Card'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Your opponent shuffles their hand into their deck and draws 3 cards.
+}}
+
+==Release information==
+Red Card cards were first made available to purchase from the in-game {{TCGP|shop}} on October 30, 2024 worldwide (September 26, 2024 in New Zealand) for 2 Shop Tickets each. One copy of Red Card is also awarded to players who complete the {{TCGP|mission}} "09: Play a Supporter card!" in the {{DL|Mission (TCG Pocket)|Battle Guide}}.
+
+==Trivia==
+* {{TCGP|Mars}} has a more potent version of this card's effect, but as a {{TCGP|Supporter card}} instead of an Item card.
+* This card's effect closely resembles the {{TCG|Red Card}} card in the [[Pokémon Trading Card Game]], but the opponent draws 3 cards instead of 4.
+
+===Origin===
+* This card's illustration was first featured on {{TCG ID|XY|Red Card|124}} from the {{TCG|XY}} expansion.
+* The [[Red Card]] is a [[held item]] introduced in the [[Generation V]] [[Pokémon games]]. This card depicts a Red Card as it appears in the [[core series]] games.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=レッドカード ''Red Card''
+|zh_yue=紅牌 ''Hùhngpàaih''
+|zh_cmn=紅牌<!-- / 红牌--> ''Hóngpái''
+|fr=Carton Rouge
+|de=Rote Karte
+|it=Cartelrosso
+|ko=레드카드 ''Red Card''
+|pt_br=Cartão Vermelho
+|es=Tarjeta Roja
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rote Karte (TCG Pocket)]]
+[[es:Tarjeta Roja (TCG Pocket)]]
+[[fr:Carton Rouge (Promo-A 006)]]
+[[it:Cartelrosso (Promo-A 6)]]
+[[ja:レッドカード (ポケポケ)]]
+[[zh:紅牌（TCGP）]]

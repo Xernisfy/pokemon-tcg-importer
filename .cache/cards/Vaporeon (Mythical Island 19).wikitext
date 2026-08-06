@@ -1,0 +1,86 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Vaporeon
+|ja name=シャワーズ
+|trans name=Showers
+|species=Vaporeon
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VaporeonMythicalIsland19.png|illustrator=LINNE|tab caption=Standard}}	
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VaporeonDeluxePackex100.png|illustrator=LINNE|tab caption=Parallel}}	
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VaporeonMythicalIsland72.png|illustrator=aspara|tab caption=Illustration Rare}}
+|hp=120
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Eevee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=019/068|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=072/068|pack=Any|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=099/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=100/353|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Vaporeon''' (Japanese: '''シャワーズ''' ''Showers'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Wash Out
+|jname=おしながす
+|jtrans=Wash Away
+|effect=As often as you like during your turn, you may move a {{e|Water}} Energy from 1 of your Benched {{e|Water}} Pokémon to your Active {{e|Water}} Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}{{e|Colorless}}
+|name=Wave Splash
+|jname=スプラッシュ
+|jtrans=Splash
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Vaporeon
+|species=Bubble Jet
+|ndex=0134
+|height=3'3"
+|jheight=1
+|weight=63.9
+|jweight=29.0
+|dex=It lives close to water. Its long tail is ridged with a fin, which is often mistaken for a mermaid's.
+|jdex=水辺に　棲むが　尻尾には 魚のような　ひれが　残っていて 人魚と　間違う　人もいる｡
+}}
+
+==Release information==
+===Gallery===	
+{{TCGGallery	
+|type=Water	
+|image1=VaporeonMythicalIsland19.png	
+|caption1=Standard card<br>Illus. [[LINNE]]	
+|image2=VaporeonMythicalIsland72.png	
+|caption2=Illustration rare card<br>Illus. [[aspara]]
+|image3=VaporeonDeluxePackex100.png	
+|caption3=Parallel foil card<br>Illus. [[LINNE]]	
+}}
+
+==Trivia==
+===Origin===
+*'''Wash Out''' is an {{TCG|Ability}} that first appeared as a {{TCG|Poké-POWER}} on {{TCG ID|Great Encounters|Swampert|9}} from {{TCG|Great Encounters}}.
+*'''Wave Splash''' is an attack that first appeared on {{TCG ID|Vending|Golduck|S3}} from {{TCG|Expansion Sheet 3}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Aquana (Mysteriöse Insel 019)]]
+[[es:Vaporeon (La Isla Singular TCG Pocket)]]
+[[fr:Aquali (L'Île Fabuleuse 019)]]
+[[it:Vaporeon (L'Isola Misteriosa 19)]]
+[[ja:シャワーズ (ポケポケ A1a)]]
+[[zh:水伊布（A1a）]]

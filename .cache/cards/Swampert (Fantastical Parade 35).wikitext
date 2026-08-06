@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Swampert
+|ja name=ラグラージ
+|trans name=Laglarge
+|species=Swampert
+|type=Water
+|image=SwampertFantasticalParade35.png
+|illustrator=Masakazu Fukuda
+|hp=150
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Marshtomp
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=035/155|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Swampert''' (Japanese: '''ラグラージ''' ''Laglarge'') is a {{ct|Water}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}
+|name=Large Whirlpool
+|jname=おおうずしお
+|jtrans=Large Whirlpool
+|damage=100
+|effect=Discard a random Energy from among the Energy attached to all Pokémon ''(both yours and your opponent's)''.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Swampert
+|species=Mud Fish
+|ndex=0260
+|height=4'11"
+|jheight=1.5
+|weight=180.6
+|jweight=81.9
+|dex=Swampert’s arms are rock-hard. With one swing, they can batter down Swampert’s foes. This Pokémon makes its nest on beautiful beaches.
+|jdex=両腕は 岩のように 硬く 一振りで 相手を 叩きのめす。 美しい 砂浜で 巣作り。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fusion Strike|Swampert|64}} from the {{TCG|Fusion Strike}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sumpex (Traumhafte Parade 035)]]
+[[fr:Laggron (Parade Onirique 035)]]
+[[it:Swampert (Parata Fantasmagorica 35)]]
+[[ja:ラグラージ (ポケポケ B2)]]
+[[zh:巨沼怪（B2）]]

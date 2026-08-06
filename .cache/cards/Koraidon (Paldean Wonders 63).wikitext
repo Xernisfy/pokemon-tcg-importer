@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Koraidon
+|ja name=コライドン
+|trans name=Koraidon
+|species=Koraidon
+|type=Fighting
+|image=KoraidonPaldeanWonders63.png
+|illustrator=Kouki Saitou
+|hp=120
+|weakness=Psychic
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=063/093|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Koraidon''' (Japanese: '''コライドン''' ''Koraidon'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Colorless}}{{e|Colorless}}
+|name=Rampaging Fang
+|jname=ランページファング
+|jtrans=Rampage Fang
+|damage=120
+|effect=Discard 2 {{e|Fighting}} Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Koraidon
+|category=Paradox
+|ndex=1007
+|height=8'2"
+|jheight=2.5
+|weight=668
+|jweight=303.0
+|dex=This Pokémon resembles Cyclizar, but it is far burlier and more ferocious. Nothing is known about its ecology or other features.
+|jdex=モトトカゲと　似た　印象だが はるかに　たくましく　凶暴｡ 生態などは　一切　不明｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Koraidon|124}} from the {{TCG|Scarlet & Violet}} expansion, as was its '''Rampaging Fang''' attack.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Koraidon (Wundervolles Paldea 063)]]
+[[fr:Koraidon (Merveilles de Paldea 063)]]
+[[it:Koraidon (Meraviglie di Paldea 63)]]
+[[ja:コライドン (ポケポケ B2a)]]
+[[zh:故勒顿（B2a）]]

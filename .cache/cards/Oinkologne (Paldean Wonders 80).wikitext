@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Oinkologne
+|ja name=パフュートン
+|trans name=Perfuton
+|species=Oinkologne
+|type=Colorless
+|image=OinkolognePaldeanWonders80.png
+|illustrator=Pani Kobayashi
+|hp=110
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Lechonk
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=080/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Oinkologne''' (Japanese: '''パフュートン''' ''Perfuton'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Leg Stomp
+|jname=レッグスタンプ
+|jtrans=Leg Stamp
+|damage=100
+|effect=Flip a coin. If tails, during your next turn, this Pokémon can't attack.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Oinkologne
+|category=Hog
+|ndex=0916
+|height=3'3"
+|jheight=1.0
+|weight=264.6
+|jweight=120.0
+|dex=It entrances female Pokémon with the sweet, alluring scent that wafts from all over its body. 
+|jdex=全身から 甘く 妖艶な 香りを 漂わせて メスの ポケモンたちを 骨抜きにする。
+}}
+
+==Trivia==
+===Origin===
+*This card features the male form of {{p|Oinkologne}}.
+*This card's illustration was first featured on {{TCG ID|Obsidian Flames|Oinkologne|183}} from the {{TCG|Obsidian Flames}} expansion.
+*'''Leg Stomp''' is an attack that first appeared on {{TCG ID|Scarlet & Violet|Oinkologne|157}} from the {{TCG|Scarlet & Violet}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Fragrunz (Wundervolles Paldea 080)]]
+[[fr:Fragroin (Merveilles de Paldea 080)]]
+[[it:Oinkologne (Meraviglie di Paldea 80)]]
+[[ja:パフュートン (ポケポケ B2a)]]
+[[zh:飘香豚（B2a）]]

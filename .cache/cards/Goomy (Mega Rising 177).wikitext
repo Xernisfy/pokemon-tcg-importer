@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Goomy
+|ja name=ヌメラ
+|trans name=Numera
+|species=Goomy
+|type=Dragon
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GoomyMegaRising177.png|illustrator=Midori Harada|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GoomyMegaRising247.png|illustrator=Kariya|tab caption=Illustration Rare}}
+|hp=40
+|weakness=
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=177/226|pack=Mega Altaria|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=247/226|pack=Mega Altaria|rarity=Star|rarity count=1}}
+}}
+
+'''Goomy''' (Japanese: '''ヌメラ''' ''Numera'') is a {{ct|Dragon}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Ability/Pocket
+|type=Dragon
+|name=Sticky Membrane
+|jname=ねばるねんまく
+|jtrans=Sticky Mucous
+|effect=As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon cost 1 {{e|Colorless}} more.
+}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Water}}{{e|Psychic}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Goomy
+|category=Soft Tissue
+|ndex=0704
+|height=1'
+|jheight=0.3
+|weight=6.2
+|jweight=2.8
+|dex=Goomy's horns are excellent sensory organs that cover all five of Goomy's senses. Goomy picks up on danger from the movement of the air.
+|jdex=ツノは 五感の すべてを まかなう 優れた 感覚器官。 空気の 動きで 危険を 感じとる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Dragon
+|image1=GoomyMegaRising177.png
+|caption1=Common card<br>Illus. [[Midori Harada]]
+|image2=GoomyMegaRising247.png
+|caption2=Illustration rare card<br>Illus. [[Kariya]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Forbidden Light|Goomy|91}} from the {{TCG|Forbidden Light}} expansion; both cards have the Sticky Membrane Ability and the Ram attack.
+*'''Sticky Membrane''' is an {{TCG|Ability}} that first appeared on {{TCG ID|Forbidden Light|Goomy|91}} from the {{TCG|Forbidden Light}} expansion.
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Viscora (Mega-Aufstieg 177)]]
+[[es:Goomy (Megaascenso TCG Pocket)]]
+[[fr:Mucuscule (Méga-Ascension 177)]]
+[[it:Goomy (Mega Ascesa 177)]]
+[[ja:ヌメラ (ポケポケ B1)]]
+[[zh:黏黏宝（B1）]]

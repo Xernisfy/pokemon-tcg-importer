@@ -1,0 +1,44 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Nasty Notice
+|ja name=いじわるレター
+|trans name=Mean Letter
+|subtype=Item
+|image=NastyNoticeMegaShine65.png
+|illustrator=Studio Bora Inc.
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=065/069}}
+}}
+
+'''Nasty Notice''' (Japanese: '''いじわるレター''' ''Mean Letter'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=You opponent discards cards from their hand until they have 4 cards in their hand.
+}}
+
+==Trivia==
+*This card's effect is identical to the {{TCG|Ability|Abilities}} Scornful Storm on {{TCG ID|Dragon Vault|Salamence|8}} from {{TCG|Dragon Vault}} or Wicked Ruler on {{TCG ID|Champion's Path|Galarian Obstagoon|37}} from {{TCG|Champion's Path}}.
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=いじわるレター ''Ijiwaru Letter''
+|zh_yue=惡搞信 ''Okgáau Seun''
+|zh_cmn=惡搞信 ''Ègǎo Xìn''
+|fr=Message Désagréable
+|de=Fiese Notiz
+|it=Avviso Molesto
+|ko=꾀부리기 레터 ''Kkoeburigi Letter''
+|pt_br=Aviso Antipático
+|es=Nota Malévola
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Fiese Notiz (TCG Pocket)]]
+[[fr:Message Désagréable (Méga-Rayonnement 065)]]
+[[it:Avviso Molesto (Mega Splendore 65)]]
+[[ja:いじわるレター]]

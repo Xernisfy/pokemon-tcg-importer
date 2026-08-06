@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Roserade
+|ja name=ロズレイド
+|trans name=Roserade
+|species=Roserade
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RoseradeFantasticalParade5.png|illustrator=chibi|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RoseradeFantasticalParade157.png|illustrator=tono|tab caption=Illustration Rare}}
+|hp=90
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Roselia
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=005/155|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=157/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Roserade''' (Japanese: '''ロズレイド''' ''Roserade'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Poison Ring
+|jname=ポイズンサークル
+|jtrans=Poison Circle
+|damage=50
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}. During your opponent’s next turn, that Pokémon can't retreat.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Roserade
+|species=Bouquet
+|ndex=0407
+|height=2'11"
+|jheight=0.9
+|weight=32
+|jweight=14.5
+|dex=The poison in its right hand is quick acting. The poison in its left hand is slow acting. Both are life threatening.
+|jdex=右手の 毒は 即効性。 左手の 毒は 遅効性。 どちらも 命に かかわるぞ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=RoseradeFantasticalParade5.png
+|caption1=Rare card<br>Illus. [[chibi]]
+|image2=RoseradeFantasticalParade157.png
+|caption2=Illustration rare card<br>Illus. [[tono]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Sword & Shield|Roserade|4}} from the {{TCG|Sword & Shield}} expansion.
+*'''Poison Ring''' is an attack that first appeared on {{TCG ID|EX Team Magma vs Team Aqua|Sceptile ex|93}} from the {{TCG|EX Team Magma vs Team Aqua}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Roserade (Traumhafte Parade 005)]]
+[[fr:Roserade (Parade Onirique 005)]]
+[[it:Roserade (Parata Fantasmagorica 5)]]
+[[ja:ロズレイド (ポケポケ B2)]]
+[[zh:罗丝雷朵（B2）]]

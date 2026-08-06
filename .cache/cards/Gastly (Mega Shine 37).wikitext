@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gastly
+|ja name=ゴース
+|trans name=Ghos
+|species=Gastly
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GastlyMegaShine37.png|illustrator=Nobuhiro Imagawa|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GastlyMegaShine100.png|illustrator=Shigenori Negishi|tab caption=Shiny Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GastlyPromo-B47.png|illustrator=kodama|tab caption=Promo}}
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=037/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=100/069|pack=Any|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=047/P-B}}
+}}
+
+'''Gastly''' (Japanese: '''ゴース''' ''Ghos'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Mumble
+|jname=つぶやく
+|jtrans=Murmur
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Gastly
+|category=Gas
+|ndex=0092
+|height=4'3"
+|jheight=1.3
+|weight=0.2
+|jweight=0.1
+|dex=Its body is made of gas. Despite lacking substance, it can envelop an opponent of any size and cause suffocation.
+|jdex=ガスでできた 薄い 体は どんな 大きさの 相手も 包みこみ 息の根を 止める。
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} card was available via special wonder picks during the Mega Kangaskhan [[Wonder Pick Event (Mega Kangaskhan)|Wonder Pick Event]], which ran from April 17 to 27, 2026. Players could also obtain one Promo Card Exchange Ticket during the event, which could be redeemed in the {{TCGP|shop}} for one of the event's two cards until May 4, 2026.
+
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=GastlyMegaShine37.png
+|caption1=Common card<br>Illus. [[Nobuhiro Imagawa]]
+|image2=GastlyMegaShine100.png
+|caption2=Shiny rare card<br>Illus. [[Shigenori Negishi]]
+|image3=GastlyPromo-B47.png
+|caption3=Promo card<br>Illus. [[kodama]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Paldean Fates|Gastly|55}} from the {{TCG|Paldean Fates}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Gastly}}.
+*This card's {{TCGP|Promo-B}} illustration was first featured on {{TCG ID|Generations|Gastly|33}} from the {{TCG|Generations}} expansion.
+*'''Mumble''' is an attack that first appeared on {{TCG ID|Great Encounters|Whismur|94}} from the {{TCG|Great Encounters}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Nebulak (Mega-Schillern 037)]]
+[[fr:Fantominus (Méga-Rayonnement 037)]]
+[[it:Gastly (Mega Splendore 37)]]
+[[ja:ゴース (ポケポケ B2b)]]
+[[zh:鬼斯（B2b）]]

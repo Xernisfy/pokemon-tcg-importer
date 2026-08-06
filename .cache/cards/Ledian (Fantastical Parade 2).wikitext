@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ledian
+|ja name=レディアン
+|trans name=Redian
+|species=Ledian
+|type=Grass
+|image=LedianFantasticalParade2.png
+|illustrator=mashu
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Ledyba
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=002/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Ledian''' (Japanese: '''レディアン''' ''Redian'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Swift
+|jname=スピードスター
+|jtrans=Speed Star
+|damage=40
+|effect=This attack's damage isn't affected by Weakness or by any effects on your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Ledian
+|species=Five Star
+|ndex=0166
+|height=4'7"
+|jheight=1.4
+|weight=78.5
+|jweight=35.6
+|dex=It flies through the night sky, sprinkling sparkly dust. According to some, if that dust sticks to you, good things will happen to you.
+|jdex=きらめく 粉を 振りまきながら 夜空を 飛ぶ。 粉が 身体に つくと いいことが あるといわれる。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Swift}} is a [[move]] in the [[Pokémon games]] that {{p|Ledian}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ledian (Traumhafte Parade 002)]]
+[[fr:Coxyclaque (Parade Onirique 002)]]
+[[it:Ledian (Parata Fantasmagorica 2)]]
+[[ja:レディアン (ポケポケ B2)]]
+[[zh:安瓢虫（B2）]]

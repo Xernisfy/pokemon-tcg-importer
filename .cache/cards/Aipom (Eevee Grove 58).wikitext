@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Aipom
+|ja name=エイパム
+|trans name=Eipam
+|species=Aipom
+|type=Colorless
+|image=AipomEeveeGrove58.png
+|illustrator=Shibuzoh.
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=058/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Aipom''' (Japanese: '''エイパム''' ''Eipam'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Double Hit
+|jname=ダブルアタック
+|jtrans=Double Attack
+|damage=20×
+|effect=Flip 2 coins. This attack does 20 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Aipom
+|category=Long Tail 
+|ndex=0190
+|height=2'7"
+|jheight=0.8
+|weight=25.4
+|jweight=11.5
+|dex=As it did more and more with its tail, its hands became clumsy. It makes its nest high in the treetops.
+|jdex=シッポで いろんなことを していたら 手先は 不器用に なってしまった。 高い 木の上に 巣を 作る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|SM Promo|Aipom|244}}, one of the {{TCG|SM Black Star Promos|Sun & Moon Black Star Promos}}.
+*{{m|Double Hit}} is a [[move]] in the [[Pokémon games]] that {{p|Aipom}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Griffel (Evoli-Hain 058)]]
+[[es:Aipom (Arboleda de Eevee TCG Pocket)]]
+[[fr:Capumain (La Clairière d'Évoli 058)]]
+[[it:Aipom (Il Bosco di Eevee 58)]]
+[[ja:エイパム (ポケポケ A3b)]]
+[[zh:长尾怪手（A3b）]]

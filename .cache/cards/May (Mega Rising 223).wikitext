@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=May
+|ja name=ハルカ
+|trans name=Haruka
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MayMegaRising223.png|illustrator=Sanosuke Sakuma|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MayMegaRising268.png|illustrator=Sanosuke Sakuma|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Blaziken|rarity=Diamond|rarity count=2|number=223/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Blaziken|rarity=Star|rarity count=2|number=268/226}}
+}}
+
+'''May''' (Japanese: '''ハルカ''' ''Haruka'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Put 2 random Pokémon from your deck into your hand. For each Pokémon you put into your hand this way, choose a Pokémon to shuffle from your hand into your deck.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=MayMegaRising223.png
+|caption1=Uncommon card<br>Illus. [[Sanosuke Sakuma]]
+|image2=MayMegaRising268.png
+|caption2=Super rare card<br>Illus. [[Sanosuke Sakuma]]
+}}
+
+==Trivia==
+
+===Origin===
+*{{ga|May}} is the female [[player character]] in {{game3|Ruby and Sapphire|Pokémon Ruby, Sapphire|s}}, {{v2|Emerald}}, {{pkmn|Omega Ruby and Alpha Sapphire|Omega Ruby, and Alpha Sapphire}}.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=ハルカ ''Haruka''
+|zh_yue=小遙 ''Síu Yìuh''
+|zh_cmn=小遙 ''Xiǎo Yáo''
+|fr=Flora
+|de=Maike
+|it=Vera
+|ko=봄이 ''Bom-i''
+|pt_br=May
+|es=Aura
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+[[de:Maike (TCG Pocket)]]
+[[es:Aura (TCG Pocket)]]
+[[fr:Flora (Méga-Ascension 223)]]
+[[it:Vera (Mega Ascesa 223)]]
+[[ja:ハルカ (ポケポケ)]]
+[[zh:小遥（TCGP）]]

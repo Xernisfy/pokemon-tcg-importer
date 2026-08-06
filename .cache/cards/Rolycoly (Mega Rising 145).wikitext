@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rolycoly
+|ja name=タンドン
+|trans name=Tandon
+|species=Rolycoly
+|type=Fighting
+|image=RolycolyMegaRising145.png
+|illustrator=Misa Tsutsui
+|hp=70
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=145/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+}}
+
+'''Rolycoly''' (Japanese: '''タンドン''' ''Tandon'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Rolycoly
+|category=Coal
+|ndex=0837
+|height=1'
+|jheight=0.3
+|weight=26.5
+|jweight=12.0
+|dex=Chunks of the surface of this Pokémon's body that have grown old and flaked off have long been used for fuel as an alternative to coal.
+|jdex=古くなり 剥がれ落ちた 体の 表面は 石炭の 代わりに 燃料として 使われてきた。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Rolycoly|105}} from the {{TCG|Rebel Clash}} expansion; both cards have the Ram attack.
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Klonkett (Mega-Aufstieg 145)]]
+[[es:Rolycoly (Megaascenso TCG Pocket)]]
+[[fr:Charbi (Méga-Ascension 145)]]
+[[it:Rolycoly (Mega Ascesa 145)]]
+[[ja:タンドン (ポケポケ B1)]]
+[[zh:小炭仔（B1）]]

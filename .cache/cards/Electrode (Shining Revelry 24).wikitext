@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Electrode
+|ja name=マルマイン
+|trans name=Marumine
+|species=Electrode
+|type=Lightning
+|image=ElectrodeShiningRevelry24.png
+|illustrator=Shigenori Negishi
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Voltorb
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=024/072|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Electrode''' (Japanese: '''マルマイン''' ''Marumine'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Tumbling Attack
+|jname=ローリングアタック
+|jtrans=Rolling Attack
+|damage=50+
+|effect=Flip a coin. If heads, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Electrode
+|category=Ball 
+|ndex=0101
+|height=3'11"
+|jheight=1.2
+|weight=146.8
+|jweight=66.6
+|dex=The more energy it charges up, the faster it gets. But this also makes it more likely to explode.
+|jdex=電気エネルギーを　溜めこむほど 高速で　動けるようになるが そのぶん　爆発　しやすい｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|XY|Electrode|45}} from the {{TCG|XY}} expansion.
+*'''Tumbling Attack''' is an attack that first appeared on {{TCG ID|Gym Challenge|Giovanni's Nidoking|7}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lektrobal (Glänzendes Festival 024)]]
+[[es:Electrode (Festival Brillante TCG Pocket)]]
+[[fr:Électrode (Réjouissances Rayonnantes 024)]]
+[[it:Electrode (Tripudio Splendente 24)]]
+[[ja:マルマイン (ポケポケ A2b)]]
+[[zh:頑皮雷彈（A2b）]]

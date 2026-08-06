@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pikachu {{TCGP Icon|ex}}
+|ja name=ピカチュウ{{TCGP Icon|ex}}
+|trans name=Pikachu {{TCGP Icon|ex}}
+|species=Pikachu
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PikachuexShiningRevelry22.png|illustrator=PLANETA Igarashi|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PikachuexShiningRevelry82.png|illustrator=PLANETA Igarashi|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PikachuexShiningRevelry92.png|illustrator=You Iribi|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PikachuexMegaRising321.png|illustrator=PLANETA Igarashi|tab caption=Shiny Super Rare}}
+|hp=120
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=022/072|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=082/072|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=092/072|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=132/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=321/226|pack=Mega Gyarados|rarity=Shiny|rarity count=2}}
+}}
+
+'''Pikachu ex''' (Japanese: '''ピカチュウex''' ''Pikachu ex'') is a {{ct|Lightning}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}{{e|Lightning}}
+|name=Thunderbolt
+|jname=10まんボルト
+|jtrans=100,000 Volts
+|damage=150
+|effect=Discard all Energy from this Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Lightning
+|ndex=0025
+|name=Pikachu
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=PikachuexShiningRevelry22.png
+|caption1=Double rare card<br>Illus. [[PLANETA Igarashi]]
+|image2=PikachuexShiningRevelry82.png
+|caption2=Super rare card<br>Illus. [[PLANETA Igarashi]]
+|image4=PikachuexShiningRevelry92.png
+|caption4=Special illustration rare card<br>Illus. [[You Iribi]]
+|image5=PikachuexMegaRising321.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA Igarashi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Pikachu}}.
+*{{m|Thunderbolt}} is a [[move]] in the [[Pokémon games]] that {{p|Pikachu}} can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pikachu-ex (Glänzendes Festival 022)]]
+[[es:Pikachu ex (Festival Brillante TCG Pocket)]]
+[[fr:Pikachu-ex (Réjouissances Rayonnantes 022)]]
+[[it:Pikachu-ex (Tripudio Splendente 22)]]
+[[ja:ピカチュウex (ポケポケ A2b)]]
+[[zh:皮卡丘ex（A2b）]]

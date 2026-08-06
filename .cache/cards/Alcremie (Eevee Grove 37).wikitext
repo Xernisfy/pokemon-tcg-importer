@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alcremie
+|ja name=マホイップ
+|trans name=Mawhip
+|species=Alcremie
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlcremieEeveeGrove37.png|illustrator=Mizue|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlcremieDeluxePackex188.png|illustrator=Mizue|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlcremiePromo-A87.png|illustrator=Tika Matsuno|tab caption=Promo}}
+|hp=80
+|weakness=Metal
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Milcery
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=037/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=087/P-A|pack=Vol. 10}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=187/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=188/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Alcremie''' (Japanese: '''マホイップ''' ''Mawhip'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}
+|name=Sweets Overload
+|jname=ドカもりスイーツ	
+|jtrans=Supersized Sweets
+|damage=40×
+|effect=This attack does 40 damage for each time your Pokémon used {{cat|TCG Pocket cards with Sweets Relay|Sweets Relay}} during this game.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Alcremie
+|category=Cream 
+|ndex=0869
+|height=1'
+|jheight=0.3
+|weight=1.1
+|jweight=0.5
+|dex=When it trusts a Trainer, it will treat them to berries it's decorated with cream.
+|jdex=信頼する トレーナーには クリームで デコレーションした 木の実を ふるまって くれるのだ。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} card was one of five cards that could be pulled from Promo-A Vol. 10 packs; these were made available as part of the [[Alcremie Drop Event]], which ran from July 2 to 12, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=AlcremieEeveeGrove37.png
+|caption1=Standard card<br>Illus. [[Mizue]]
+|image2=AlcremiePromo-A87.png
+|caption2=Promo card<br>Illus. [[Tika Matsuno]]
+|image3=AlcremieDeluxePackex188.png
+|caption3=Parallel foil card<br>Illus. [[Mizue]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Rebel Clash|Alcremie|87}} from the {{TCG|Rebel Clash}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pokusan (Evoli-Hain 037)]]
+[[es:Alcremie (Arboleda de Eevee TCG Pocket)]]
+[[fr:Charmilly (La Clairière d'Évoli 037)]]
+[[it:Alcremie (Il Bosco di Eevee 37)]]
+[[ja:マホイップ (ポケポケ A3b)]]
+[[zh:霜奶仙（A3b）]]

@@ -1,0 +1,53 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Potion
+|ja name=きずぐすり
+|trans name=Salve
+|subtype=Item
+|image=PotionPromo-A1.png
+|illustrator=5ban Graphics
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=001/P-A}}
+}}
+
+'''Potion''' (Japanese: '''きずぐすり''' ''Salve'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Heal 20 damage from 1 of your Pokémon.
+}}
+
+==Release information==
+Potion cards were first made available to purchase from the in-game {{TCGP|shop}} on October 30, 2024 worldwide (September 26, 2024 in New Zealand) for 2 Shop Tickets each. One copy of Potion is also awarded to players who complete the {{TCGP|Mission|mission}} "07: Attach Energy to your Benched Pokémon!" in the {{DL|Mission (TCG Pocket)|Battle Guide}}.
+
+==Trivia==
+* {{TCGP|Pokémon Center Lady}} has a more potent version of this card's effect, but as a {{TCGP|Supporter card}} instead of an Item card.
+* This card's effect is identical to that of the {{TCG|Potion}} card in the [[Pokémon Trading Card Game]] up to the Diamond & Pearl Series, when it allowed players to remove up to two damage counters (20 damage) from a Pokémon. The TCG card was altered in the {{TCG|Black & White}} expansion onward, after which it heals 30 damage instead.
+
+===Origin===
+* This card's illustration was first featured on {{TCG ID|Kalos Starter Set|Potion|37}} from the {{TCG|Kalos Starter Set}}.
+* [[Potion]] is an item in the [[Pokémon games]] that heals damage. This card depicts the Potion as it appears in the majority of [[core series]] games, where its most common effect is also to heal up to 20 [[HP]].
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=きずぐすり ''Kizugusuri''
+|zh_yue=傷藥 ''Sēungyeuhk''
+|zh_cmn=傷藥 ''Shāngyào''
+|fr=Potion
+|de=Trank
+|it=Pozione
+|ko=상처약 ''Sangcheo Yak''
+|pt_br=Poção
+|es=Poción
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Trank (TCG Pocket)]]
+[[es:Poción (TCG Pocket)]]
+[[fr:Potion (Promo-A 001)]]
+[[it:Pozione (Promo-A 1)]]
+[[ja:きずぐすり (ポケポケ)]]
+[[zh:伤药（TCGP）]]

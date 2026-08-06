@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bellsprout
+|ja name=マダツボミ
+|trans name=Madatsubomi
+|species=Bellsprout
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BellsproutGeneticApex18.png|illustrator=HYOGONOSUKE|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BellsproutMegaRising287.png|illustrator=MAHOU|tab caption=Shiny Rare}}
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=018/226|pack=Charizard|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=287/226|pack=Mega Altaria|rarity=Shiny|rarity count=1}}
+}}
+
+'''Bellsprout''' (Japanese: '''マダツボミ''' ''Madatsubomi'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Vine Whip
+|jname=つるのムチ
+|jtrans=Vine Whip
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Bellsprout
+|species=Flower
+|ndex=0069
+|height=2'4"
+|jheight=0.7
+|weight=8.8
+|jweight=4.0
+|dex=Even though its body is extremely skinny, it is blindingly fast when catching its prey.
+|jdex=ひょろっとした　体つきだが 獲物を　捕らえるときの　動きは 目にも　とまらないほど　素早い｡
+}}
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=BellsproutGeneticApex18.png
+|caption1=Standard card<br>Illus. [[HYOGONOSUKE]]
+|image2=BellsproutMegaRising287.png
+|caption2=Shiny rare card<br>Illus. [[MAHOU]]
+}}
+
+==Trivia==
+This card's Genetic Apex illustration is part of a narrative illustration with {{TCG ID|Genetic Apex|Oddish|11}}, {{TCG ID|Genetic Apex|Venonat|16}}, and the illustration rare {{TCG ID|Genetic Apex|Snorlax|250}} from the same set. In this illustration, Bellsprout can be seen by one of Snorlax's hands; the Snorlax card reveals that Bellsprout is stuck on [[Kanto]] {{rt|11|Kanto}}, with Snorlax blocking the way to {{rt|12|Kanto}}. Together, these cards form the "A Big Snorlax Nuisance" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]]. Oddish, Venonat, and Bellsprout also have the same stats and an attack that does 20 damage for one {{e|Grass}} Energy.
+
+===Origin===
+*This card's shiny rare illustration features a {{Shiny}} {{p|Bellsprout}}.
+*{{m|Vine Whip}} is a [[move]] in the [[Pokémon games]] that {{p|Bellsprout}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knofensa (Unschlagbare Gene 018)]]
+[[es:Bellsprout (Genes Formidables TCG Pocket)]]
+[[fr:Chétiflor (Puissance Génétique 018)]]
+[[it:Bellsprout (Geni Supremi 18)]]
+[[ja:マダツボミ (ポケポケ A1)]]
+[[zh:喇叭芽（A1）]]

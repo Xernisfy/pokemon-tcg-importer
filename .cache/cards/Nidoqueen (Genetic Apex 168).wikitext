@@ -1,0 +1,79 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Nidoqueen
+|ja name=ニドクイン
+|trans name=Nidoqueen
+|species=Nidoqueen
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=NidoqueenGeneticApex168.png|illustrator=nagimiso|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=NidoqueenGeneticApex240.png|illustrator=aoki|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=NidoqueenWisdomofSeaandSky225.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=140
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Nidorina
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=168/226|pack=Pikachu|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=240/226|pack=Pikachu|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=225/161|pack=Lugia|rarity=Shiny|rarity count=1}}
+}}
+
+'''Nidoqueen''' (Japanese: '''ニドクイン''' ''Nidoqueen'') is a {{ct|Darkness}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Colorless}}
+|name=Lovestrike
+|jname=ラブラブアタック
+|jtrans=Lovey-Dovey Attack
+|damage=80+
+|effect=This attack does 50 more damage for each of your Benched {{TCGP|Nidoking}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Nidoqueen
+|species=Drill
+|ndex=0031
+|height=4'3"
+|jheight=1.3
+|weight=132.3
+|jweight=60.0
+|dex=Nidoqueen is better at defense than offense. With scales like armor, this Pokémon will shield its children from any kind of attack.
+|jdex=攻めるよりも　守るほうが　得意｡ 鎧のような　ウロコで　いかなる 攻撃からも　子どもを　守る｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=NidoqueenGeneticApex168.png
+|caption1=Rare card<br>Illus. [[nagimiso]]
+|image2=NidoqueenGeneticApex240.png
+|caption2=Illustration rare card<br>Illus. [[aoki]]
+|image3=NidoqueenWisdomofSeaandSky225.png
+|caption3=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Team Up|Nidoqueen|56}} from the {{TCG|Team Up}} expansion.
+*This card's shiny rare print features a {{Shiny}} {{p|Nidoqueen}}.
+*'''Lovestrike''' is an attack that first appeared on {{TCG ID|Plasma Freeze|Nidoking|58}} from the {{TCG|Plasma Freeze}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Nidoqueen (Unschlagbare Gene 168)]]
+[[es:Nidoqueen (Genes Formidables TCG Pocket)]]
+[[fr:Nidoqueen (Puissance Génétique 168)]]
+[[it:Nidoqueen (Geni Supremi 168)]]
+[[ja:ニドクイン (ポケポケ A1)]]
+[[zh:尼多后（A1）]]

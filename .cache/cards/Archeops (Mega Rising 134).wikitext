@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Archeops
+|ja name=アーケオス
+|trans name=Archeos
+|species=Archeops
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArcheopsMegaRising134.png|illustrator=Hasuno|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArcheopsMegaRising242.png|illustrator=OKUBO|tab caption=Illustration Rare}}
+|hp=140
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Archen
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=134/226|pack=Mega Blaziken|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=242/226|pack=Mega Blaziken|rarity=Star|rarity count=1}}
+}}
+
+'''Archeops''' (Japanese: '''アーケオス''' ''Archeos'') is a {{ct|Fighting}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Wild Spin
+|jname=ワイルドスピン
+|jtrans=Wild Spin
+|damage=
+|effect=This attack does 20 damage to each of your opponent's Pokémon. During your next turn, this Pokémon's Wild Spin attack does +20 damage to each of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Archeops
+|category=First Bird
+|ndex=0567
+|height=4'7"
+|jheight=1.4
+|weight=70.5
+|jweight=32.0
+|dex=Though capable of flight, Archeops was apparently better at hunting on the ground.
+|jdex=飛ぶことも できるが 地上で 獲物を 狩ることの ほうが ずっと 得意だったようだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=ArcheopsMegaRising134.png
+|caption1=Rare card<br>Illus. [[Hasuno]]
+|image2=ArcheopsMegaRising242.png
+|caption2=Illustration rare card<br>Illus. [[OKUBO]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Unified Minds|Archeops|121}} from the {{TCG|Unified Minds}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Aeropteryx (Mega-Aufstieg 134)]]
+[[es:Archeops (Megaascenso TCG Pocket)]]
+[[fr:Aéroptéryx (Méga-Ascension 134)]]
+[[it:Archeops (Mega Ascesa 134)]]
+[[ja:アーケオス (ポケポケ B1)]]
+[[zh:始祖大鸟（B1）]]

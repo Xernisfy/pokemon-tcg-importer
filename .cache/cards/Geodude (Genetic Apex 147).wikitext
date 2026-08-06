@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Geodude
+|ja name=イシツブテ
+|trans name=Isitsubute
+|species=Geodude
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GeodudeGeneticApex147.png|illustrator=Kouki Saitou|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GeodudeMegaRising307.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=70
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=147/226|pack=Pikachu|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=307/226|pack=Mega Blaziken|rarity=Shiny|rarity count=1}}
+}}
+
+'''Geodude''' (Japanese: '''イシツブテ''' ''Isitsubute'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Geodude
+|species=Rock
+|ndex=0074
+|height=1'4"
+|jheight=0.4
+|weight=44.1
+|jweight=20.0
+|dex=Geodude that have lived a long life have had all their edges smoothed out until they're totally round. They also have a calm, quiet disposition.
+|jdex=長く　生きた　イシツブテは　角が とれて　まんまる｡　性格も　とても 落ち着いていて　穏やか　なのだ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=GeodudeGeneticApex147.png
+|caption1=Standard card<br>Illus. [[Kouki Saitou]]
+|image2=GeodudeMegaRising307.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Genetic Apex}} illustration was first featured on {{TCG ID|Supreme Victors|Geodude|105}} from the {{TCG|Supreme Victors}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Geodude}}.
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Geodude}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kleinstein (Unschlagbare Gene 147)]]
+[[es:Geodude (Genes Formidables TCG Pocket)]]
+[[fr:Racaillou (Puissance Génétique 147)]]
+[[it:Geodude (Geni Supremi 147)]]
+[[ja:イシツブテ (ポケポケ A1)]]
+[[zh:小拳石（A1）]]

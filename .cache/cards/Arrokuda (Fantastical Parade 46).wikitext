@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Arrokuda
+|ja name=サシカマス
+|trans name=Sasikamasu
+|species=Arrokuda
+|type=Water
+|image=ArrokudaFantasticalParade46.png
+|illustrator=Hitoshi Ariga
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=046/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Arrokuda''' (Japanese: '''サシカマス''' ''Sasikamasu'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Colorless}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Arrokuda
+|species=Rush
+|ndex=0846
+|height=1'8"
+|jheight=0.5
+|weight=2.2
+|jweight=1.0
+|dex=After it's eaten its fill, its movements become extremely sluggish. That's when Cramorant swallows it up.
+|jdex=腹一杯で 極端に 動きが 鈍った ところを ウッウに 丸飲みに される。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Vivid Voltage|Arrokuda|41}} from the {{TCG|Vivid Voltage}} expansion.
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pikuda (Traumhafte Parade 046)]]
+[[fr:Embrochet (Parade Onirique 046)]]
+[[it:Arrokuda (Parata Fantasmagorica 46)]]
+[[ja:サシカマス (ポケポケ B2)]]
+[[zh:刺梭鱼（B2）]]

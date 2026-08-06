@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Crawdaunt
+|ja name=シザリガー
+|trans name=Shizariger
+|species=Crawdaunt
+|type=Water
+|image=CrawdauntMegaRising59.png
+|illustrator=Shibuzoh.
+|hp=100
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Corphish
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=059/226}}
+}}
+
+'''Crawdaunt''' (Japanese: '''シザリガー''' ''Shizariger'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Guillotine
+|jname=ハサミギロチン
+|jtrans=Pincer Guillotine
+|damage=90
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Crawdaunt
+|species=Rogue
+|ndex=0342
+|height=3'7"
+|jheight=1.1
+|weight=72.3
+|jweight=32.8
+|dex=A brutish Pokémon that loves to battle. It will crash itself into any foe that approaches its nest.
+|jdex=戦いを 好む 性格。 すみかに 近づく 相手を 容赦なく 叩きのめす。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Brilliant Stars|Crawdaunt|33}} from the {{TCG|Brilliant Stars}} expansion.
+*{{m|Guillotine}} is a [[move]] in the [[Pokémon games]] that {{p|Crawdaunt}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Krebutack (Mega-Aufstieg 059)]]
+[[es:Crawdaunt (Megaascenso TCG Pocket)]]
+[[fr:Colhomard (Méga-Ascension 059)]]
+[[it:Crawdaunt (Mega Ascesa 59)]]
+[[ja:シザリガー (ポケポケ B1)]]
+[[zh:铁螯龙虾（B1）]]

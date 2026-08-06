@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Teal Mask Ogerpon {{TCGP Icon|ex}}
+|ja name=オーガポン みどりのめん{{TCGP Icon|ex}}
+|trans name=Ogerpon Turquoise Mask {{TCGP Icon|ex}}
+|species=Ogerpon
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TealMaskOgerponexFantasticalParade17.png|illustrator=5ban Graphics|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TealMaskOgerponexFantasticalParade180.png|illustrator=5ban Graphics|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TealMaskOgerponexFantasticalParade194.png|illustrator=imoniii|tab caption=Special Illustration Rare}}
+|hp=130
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=017/155|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=180/155|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=194/155|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Teal Mask Ogerpon ex''' (Japanese: '''オーガポン みどりのめんex''' ''Ogerpon Turquoise Mask ex'') is a {{ct|Grass}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Ability/Pocket
+|type=Grass
+|name=Soothing Wind
+|jname=やすらぎのかぜ
+|jtrans=Soothing Wind
+|effect=Each of your Pokémon that has any Energy attached recovers from all {{TCG|Special Condition}}s and can't be affected by any Special Conditions.
+}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Energized Leaves
+|jname=エナジーリーフ
+|jtrans=Energy Leaf
+|damage=60+
+|effect=If the amount of Energy attached to both Active Pokémon is 5 or more, this attack does 60 more damage.
+}}
+{{Cardtext/Pocket ex
+|type=Grass
+|ndex=1017
+|name=Teal Mask Ogerpon
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=TealMaskOgerponexFantasticalParade17.png
+|caption1=Double rare card<br>Illus. [[5ban Graphics]]
+|image2=TealMaskOgerponexFantasticalParade180.png
+|caption2=Super rare card<br>Illus. [[5ban Graphics]]
+|image3=TealMaskOgerponexFantasticalParade194.png
+|caption3=Special illustration rare card<br>Illus. [[imoniii]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Ogerpon}} in its {{form|Ogerpon|Teal Mask}} form.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Türkisgrüne-Maske-Ogerpon-ex (Traumhafte Parade 017)]]
+[[fr:Ogerpon Masque Turquoise-ex (Parade Onirique 017)]]
+[[it:Ogerpon Maschera Turchese-ex (Parata Fantasmagorica 17)]]
+[[ja:オーガポンみどりのめんex (ポケポケ B2)]]
+[[zh:厄鬼椪 碧草面具ex（B2）]]

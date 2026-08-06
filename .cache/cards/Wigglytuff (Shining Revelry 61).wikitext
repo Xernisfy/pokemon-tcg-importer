@@ -1,0 +1,86 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wigglytuff
+|ja name=プクリン
+|trans name=Pukurin
+|species=Wigglytuff
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WigglytuffShiningRevelry61.png|illustrator=miki kudo|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WigglytuffShiningRevelry78.png|illustrator=5ban Graphics|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WigglytuffCelestialGuardians229.png|illustrator=Tomowaka|tab caption=Shiny Rare}}
+|hp=100
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Jigglypuff
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=3|number=061/072}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Star|rarity count=1|number=078/072}}
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Solgaleo|rarity=Shiny|rarity count=1|number=229/155}}
+}}
+
+'''Wigglytuff''' (Japanese: '''プクリン''' ''Pukurin'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Comforting Song
+|jname=やすらぎのうた
+|jtrans=Song of Peace
+|effect=Once during your turn, you may heal 20 damage from your Active Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Gentle Slap
+|jname=ひっぱたく
+|jtrans=Slap
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Wigglytuff
+|category=Balloon 
+|ndex=0040
+|height=3'3"
+|jheight=1
+|weight=26.5
+|jweight=12.0
+|dex=It has a very fine fur. Take care not to make it angry, or it may inflate steadily and hit with a body slam.
+|jdex=キメ細やかな　毛皮の　持ち主｡ 怒らせると　どんどん　ふくらみ のしかかってくるので　注意｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=WigglytuffShiningRevelry61.png
+|caption1=Rare card<br>Illus. [[miki kudo]]
+|image2=WigglytuffShiningRevelry78.png
+|caption2=Illustration rare card<br>Illus. [[5ban Graphics]]
+|image3=WigglytuffCelestialGuardians229.png
+|caption3=Shiny rare card<br>Illus. [[Tomowaka]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Unbroken Bonds|Wigglytuff|135}} from the {{TCG|Unbroken Bonds}} expansion.
+*'''Gentle Slap''' is an attack that first appeared on {{TCG ID|EX Team Rocket Returns|Psyduck|70}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*This card's shiny rare print features a {{Shiny}} {{p|Wigglytuff}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knuddeluff (Glänzendes Festival 061)]]
+[[es:Wigglytuff (Festival Brillante TCG Pocket)]]
+[[fr:Grodoudou (Réjouissances Rayonnantes 061)]]
+[[it:Wigglytuff (Tripudio Splendente 61)]]
+[[ja:プクリン (ポケポケ A2b)]]
+[[zh:胖可丁（A2b）]]

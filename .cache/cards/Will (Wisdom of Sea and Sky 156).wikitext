@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Will
+|ja name=イツキ
+|trans name=Itsuki
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WillWisdomofSeaandSky156.png|illustrator=GIDORA|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WillWisdomofSeaandSky196.png|illustrator=GIDORA|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lugia|rarity=Diamond|rarity count=2|number=156/161}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lugia|rarity=Star|rarity count=2|number=196/161}}
+}}
+
+'''Will''' (Japanese: '''イツキ''' ''Itsuki'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=The next time you flip any number of coins for the effect of an attack, Ability, or Trainer card after using this card on this turn, the first coin flip will definitely be heads.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=WillWisdomofSeaandSky156.png
+|caption1=Uncommon card<br>Illus. [[GIDORA]]
+|image2=WillWisdomofSeaandSky196.png
+|caption2=Super rare card<br>Illus. [[GIDORA]]
+}}
+
+==Trivia==
+* This card's effect is similar to that of the {{TCG|Will}} card in the [[Pokémon Trading Card Game]], but the first toss is guaranteed to be heads rather than the player's choice.
+
+===Origin===
+* [[Will]] is a member of the [[Indigo Plateau|Indigo]] [[Elite Four]] in {{game5|Gold|Silver|Crystal|HeartGold|SoulSilver}}.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=イツキ ''Itsuki''
+|zh_yue=一樹 ''Yātsyuh''
+|zh_cmn=一樹 ''Yīshù''
+|fr=Clément
+|de=Willi
+|it=Pino
+|ko=일목 ''Ilmok''
+|pt_br=Will
+|es=Mento
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Willi (TCG Pocket)]]
+[[es:Mento (TCG Pocket)]]
+[[fr:Clément (Sagesse entre Ciel et Mer 156)]]
+[[it:Pino (La Via del Cielo e del Mare 156)]]
+[[ja:イツキ (ポケポケ)]]
+[[zh:一树（TCGP）]]

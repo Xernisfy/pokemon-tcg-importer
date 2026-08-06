@@ -1,0 +1,69 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wishiwashi {{TCGP Icon|ex}}
+|ja name=ヨワシ{{TCGP Icon|ex}}
+|trans name=Yowashi {{TCGP Icon|ex}}
+|species=Wishiwashi
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WishiwashiexCelestialGuardians51.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WishiwashiexCelestialGuardians184.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WishiwashiexCelestialGuardians202.png|illustrator=Nurikabe|tab caption=Special Illustration Rare}}
+|hp=170
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lunala|rarity=Diamond|rarity count=4|number=051/155}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lunala|rarity=Star|rarity count=2|number=184/155}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lunala|rarity=Star|rarity count=2|number=202/155}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=124/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Wishiwashi ex''' (Japanese: '''ヨワシex''' ''Yowashi ex'') is a {{ct|Water}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}
+|name=School Storm
+|jname=ぎょぐんストーム
+|jtrans=School of Fish Storm
+|damage=30+
+|effect=This attack does 40 more damage for each of your Benched {{TCGP|Wishiwashi}} and {{DL|Wishiwashi (TCG Pocket)|Wishiwashi ex}}.
+}}
+{{Cardtext/Pocket ex
+|type=Water
+|ndex=0746
+|name=Wishiwashi
+|form=Sc
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=WishiwashiexCelestialGuardians51.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=WishiwashiexCelestialGuardians184.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=WishiwashiexCelestialGuardians202.png
+|caption3=Special illustration rare card<br>Illus. [[Nurikabe]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Wishiwashi}} in its {{form|Wishiwashi|School Form}}; two Wishiwashi in their Solo Form can also be seen on the special illustration rare card.
+*'''School Storm''' is an attack that first appeared on {{TCG ID|Cosmic Eclipse|Wishiwashi-GX|63}} from the {{TCG|Cosmic Eclipse}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lusardin-ex (Hüter des Firmaments 051)]]
+[[es:Wishiwashi ex (Guardianes Celestiales TCG Pocket)]]
+[[fr:Froussardine-ex (Gardiens Astraux 051)]]
+[[it:Wishiwashi-ex (Guardiani Astrali 51)]]
+[[ja:ヨワシex (ポケポケ A3)]]
+[[zh:弱丁鱼ex（A3）]]

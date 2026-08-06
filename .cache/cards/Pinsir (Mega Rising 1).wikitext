@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pinsir
+|ja name=カイロス
+|trans name=Kailios
+|species=Pinsir
+|type=Grass
+|image=PinsirMegaRising1.png
+|illustrator=Suwama Chiaki
+|hp=90
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=001/226|pack=Mega Blaziken|rarity=Diamond|rarity count=1}}
+}}
+
+'''Pinsir''' (Japanese: '''カイロス''' ''Kailios'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=X-Scissor
+|jname=シザークロス
+|jtrans=Scissor Cross
+|damage=50+
+|effect=Flip a coin. If heads, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Pinsir
+|category=Stag Beetle
+|ndex=0127
+|height=4'11"
+|jheight=1.5
+|weight=121.3
+|jweight=55.0
+|dex=This Pokémon clamps its pincers down on its prey and then either splits the prey in half or flings it away. 
+|jdex=ツノで 獲物を 挟みこみ そのまま まっぷたつに するか 強引に 投げ飛ばしてしまう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Pinsir|4}} from the {{TCG|Lost Thunder}} expansion.
+*{{m|X-Scissor}} is a [[move]] in the [[Pokémon games]] that {{p|Pinsir}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pinsir (Mega-Aufstieg 001)]]
+[[es:Pinsir (Megaascenso TCG Pocket)]]
+[[fr:Scarabrute (Méga-Ascension 001)]]
+[[it:Pinsir (Mega Ascesa 1)]]
+[[ja:カイロス (ポケポケ B1)]]
+[[zh:凯罗斯（B1）]]

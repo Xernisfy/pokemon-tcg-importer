@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Vaporeon
+|ja name=シャワーズ
+|trans name=Showers
+|species=Vaporeon
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VaporeonGeneticApex80.png|illustrator=Kagemaru Himeno|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VaporeonWisdomofSeaandSky216.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=130
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Eevee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mewtwo|rarity=Diamond|rarity count=3|number=080/226}}
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lugia|rarity=Shiny|rarity count=1|number=216/161}}
+}}
+
+'''Vaporeon''' (Japanese: '''シャワーズ''' ''Showers'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}{{e|Colorless}}
+|name=Bubble Drain
+|jname=バブルドレイン
+|jtrans=Bubble Drain
+|damage=60
+|effect=Heal 30 damage from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Vaporeon
+|species=Bubble Jet
+|ndex=0134
+|height=3'3"
+|jheight=1
+|weight=63.9
+|jweight=29.0
+|dex=It lives close to water. Its long tail is ridged with a fin, which is often mistaken for a mermaid's.
+|jdex=水辺に　棲むが　尻尾には 魚のような　ひれが　残っていて 人魚と　間違う　人もいる｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=VaporeonGeneticApex80.png
+|caption1=Rare card<br>Illus. [[Kagemaru Himeno]]
+|image2=VaporeonWisdomofSeaandSky216.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Majestic Dawn|Vaporeon|34}} from the {{TCG|Majestic Dawn}} expansion.
+*This card's shiny rare print features a {{Shiny}} {{p|Vaporeon}}.
+*'''Bubble Drain''' is an attack that first appeared on {{TCG ID|Everyone's Exciting Battle|Azumarill|12}} from the {{TCG|Everyone's Exciting Battle}} collection.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Aquana (Unschlagbare Gene 080)]]
+[[es:Vaporeon (Genes Formidables TCG Pocket)]]
+[[fr:Aquali (Puissance Génétique 080)]]
+[[it:Vaporeon (Geni Supremi 80)]]
+[[ja:シャワーズ (ポケポケ A1)]]
+[[zh:水伊布（A1）]]

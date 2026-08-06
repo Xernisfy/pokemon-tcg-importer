@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Aipom
+|ja name=エイパム
+|trans name=Eipam
+|species=Aipom
+|type=Colorless
+|image=AipomMegaRising185.png
+|illustrator=Kagemaru Himeno
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=185/226|pack=Mega Altaria|rarity=Diamond|rarity count=1}}
+}}
+
+'''Aipom''' (Japanese: '''エイパム''' ''Eipam'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Tail Smash
+|jname=テールスマッシュ
+|jtrans=Tail Smash
+|damage=40
+|effect=Flip a coin. If tails, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Aipom
+|category=Long Tail
+|ndex=0190
+|height=2'7"
+|jheight=0.8
+|weight=25.4
+|jweight=11.5
+|dex=It searches for prey from the tops of trees. When it spots its favorite food, Bounsweet, Aipom gets excited and pounces.
+|jdex=木の 上から 獲物が いないか 探す。 好物の アマカジを 見ると 興奮して 飛びかかるぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Aquapolis|Aipom|67}} from the {{TCG|Aquapolis}} expansion.
+*'''Tail Smash''' is an attack that first appeared on {{TCG ID|Expedition|Charizard|39}} from the {{TCG|Expedition Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Griffel (Mega-Aufstieg 185)]]
+[[es:Aipom (Megaascenso TCG Pocket)]]
+[[fr:Capumain (Méga-Ascension 185)]]
+[[it:Aipom (Mega Ascesa 185)]]
+[[ja:エイパム (ポケポケ B1)]]
+[[zh:长尾怪手（B1）]]

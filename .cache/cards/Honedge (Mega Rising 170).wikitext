@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Honedge
+|ja name=ヒトツキ
+|trans name=Hitotsuki
+|species=Honedge
+|type=Metal
+|image=HonedgeMegaRising170.png
+|illustrator=Suwama Chiaki
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=170/226|pack=Mega Blaziken|rarity=Diamond|rarity count=1}}
+}}
+
+'''Honedge''' (Japanese: '''ヒトツキ''' ''Hitotsuki'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}
+|name=Pierce
+|jname=つきさす
+|jtrans=Pierce
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Honedge
+|category=Sword
+|ndex=0679
+|height=2'7"
+|jheight=0.8
+|weight=4.4
+|jweight=2.0
+|dex=The blue eye on the sword's handguard is the true body of Honedge. With its old cloth, it drains people's lives away.
+|jdex=剣の 鍔の 青い 目玉が ヒトツキの 本体。 古びた 布で 人の 生気を 吸い取る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Honedge|93}} from the {{TCG|Unified Minds}} expansion.
+*'''Pierce''' is an attack that first appeared on {{TCG ID|EX Sandstorm|Kabuto|39}} and {{TCG ID|EX Sandstorm|Anorith|27}}, both from the {{TCG|EX Sandstorm}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gramokles (Mega-Aufstieg 170)]]
+[[es:Honedge (Megaascenso TCG Pocket)]]
+[[fr:Monorpale (Méga-Ascension 170)]]
+[[it:Honedge (Mega Ascesa 170)]]
+[[ja:ヒトツキ (ポケポケ B1)]]
+[[zh:独剑鞘（B1）]]

@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Infernape {{TCGP Icon|ex}}
+|ja name=ゴウカザル{{TCGP Icon|ex}}
+|trans name=Goukazaru {{TCGP Icon|ex}}
+|species=Infernape
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=InfernapeexSpace-TimeSmackdown29.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=InfernapeexSpace-TimeSmackdown181.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=InfernapeexSpace-TimeSmackdown197.png|illustrator=nagimiso|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=InfernapeexSecludedSprings101.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=170
+|weakness=Water
+|retreat cost=0
+|evo stage=Stage 2
+|prevo name=Monferno
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=029/155|pack=Palkia|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=181/155|pack=Palkia|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=197/155|pack=Palkia|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=101/071|pack=Any|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=075/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Infernape ex''' (Japanese: '''ゴウカザルex''' ''Goukazaru ex'') is a {{ct|Fire}} Stage 2 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Flare Blitz
+|jname=フレアドライブ
+|jtrans=Flare Drive
+|damage=140
+|effect=Discard all {{e|Fire}} Energy from this Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Fire
+|ndex=0392
+|name=Infernape
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=InfernapeexSpace-TimeSmackdown29.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=InfernapeexSpace-TimeSmackdown181.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image4=InfernapeexSpace-TimeSmackdown197.png
+|caption4=Special illustration rare card<br>Illus. [[nagimiso]]
+|image5=InfernapeexSecludedSprings101.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+Infernape riding a cloud in the special illustration rare card may be a reference to {{wp|Monkey King}}—one of its supposed inspirations—who had an ability called Cloud Somersaulting (Chinese: 觔斗雲 ''Jīndǒuyún'') which allowed it to travel or "leap" 108,000 {{wp|li (unit)|li}} (54,000 km; 34,000 mi) in one somersault. Monkey King is often depicted as riding a nimbus-like cloud.
+
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Infernape}}.
+* {{m|Flare Blitz}} is a [[move]] in the [[Pokémon games]] that {{p|Infernape}} can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Panferno-ex (Kollision von Raum und Zeit 029)]]
+[[es:Infernape ex (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Simiabraz-ex (Choc Spatio-Temporel 029)]]
+[[it:Infernape-ex (Scontro Spaziotemporale 29)]]
+[[ja:ゴウカザルex (ポケポケ A2)]]
+[[zh:烈焰猴ex（A2）]]

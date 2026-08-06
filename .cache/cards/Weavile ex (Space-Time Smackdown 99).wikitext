@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Weavile {{TCGP Icon|ex}}
+|ja name=マニューラ{{TCGP Icon|ex}}
+|trans name=Manyula {{TCGP Icon|ex}}
+|species=Weavile
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WeavileexSpace-TimeSmackdown99.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WeavileexSpace-TimeSmackdown186.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WeavileexSpace-TimeSmackdown201.png|illustrator=hncl|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WeavileexWisdomofSeaandSky238.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=140
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Sneasel
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Palkia|rarity=Diamond|rarity count=4|number=099/155}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Palkia|rarity=Star|rarity count=2|number=186/155}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Palkia|rarity=Star|rarity count=2|number=201/155}}
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lugia|rarity=Shiny|rarity count=2|number=238/161}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=244/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Weavile ex''' (Japanese: '''マニューラex''' ''Manyula ex'') is a {{ct|Darkness}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Scratching Nails
+|jname=スクラッチネイル
+|jtrans=Scratch Nail
+|damage=30+
+|effect=If your opponent's Active Pokémon has damage on it, this attack does 40 more damage.
+}}
+{{Cardtext/Pocket ex
+|type=Darkness
+|ndex=0461
+|name=Weavile
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=WeavileexSpace-TimeSmackdown99.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=WeavileexSpace-TimeSmackdown186.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image4=WeavileexSpace-TimeSmackdown201.png
+|caption4=Special illustration rare card<br>Illus. [[hncl]]
+|image5=WeavileexWisdomofSeaandSky238.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+This card's special illustration rare print features {{p|Weavile}} and {{p|Swinub}}.
+
+===Origin===
+*This card's shiny super rare print features a {{Shiny}} {{p|Weavile}}.
+*'''Scratching Nails''' is an attack that first appeared on {{TCG ID|Paldea Evolved|Meowscarada ex|15}} from the {{TCG|Paldea Evolved}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Snibunna-ex (Kollision von Raum und Zeit 099)]]
+[[es:Weavile ex (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Dimoret-ex (Choc Spatio-Temporel 099)]]
+[[it:Weavile-ex (Scontro Spaziotemporale 99)]]
+[[ja:マニューラex (ポケポケ A2)]]
+[[zh:玛狃拉ex（A2）]]

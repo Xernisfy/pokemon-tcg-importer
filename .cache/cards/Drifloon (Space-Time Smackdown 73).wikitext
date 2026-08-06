@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Drifloon
+|ja name=フワンテ
+|trans name=Fuwante
+|species=Drifloon
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DrifloonSpace-TimeSmackdown73.png|illustrator=Atsuko Nishida|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DrifloonSpace-TimeSmackdown165.png|illustrator=Orca|tab caption=Illustration Rare}}
+|hp=50
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=073/155|pack=Dialga|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=165/155|pack=Dialga|rarity=Star|rarity count=1}}
+}}
+
+'''Drifloon''' (Japanese: '''フワンテ''' ''Fuwante'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Expand
+|jname=ふくらむ
+|jtrans=Inflate
+|damage=10
+|effect=During your opponent's next turn, this Pokémon takes −20 damage from attacks.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Drifloon
+|species=Balloon
+|ndex=0425
+|height=1'4"
+|jheight=0.4
+|weight=2.6
+|jweight=1.2
+|dex=It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing.
+|jdex=風船と 間違えて フワンテを 持っていた 小さな 子どもが 消えてしまうことが あるという。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=DrifloonSpace-TimeSmackdown73.png
+|caption1=Common card<br>Illus. [[Atsuko Nishida]]
+|image2=DrifloonSpace-TimeSmackdown165.png
+|caption2=Illustration rare card<br>Illus. [[Orca]]
+}}
+
+==Trivia==
+*The illustration rare print of this card features the exterior of the [[Valley Windworks]], where {{p|Drifloon}} can be found in Generations {{gen|IV}} and {{gen|VIII}}.
+**Additionally, this print shows a calendar marked on [[Friday]], the only day that Drifloon appears.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Stormfront|Drifloon|58}} from the {{TCG|Stormfront}} expansion.
+*'''Expand''' is an attack that first appeared on {{TCG ID|Vending|Wigglytuff|S1}} from {{TCG|Expansion Sheet 1}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Driftlon (Kollision von Raum und Zeit 073)]]
+[[es:Drifloon (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Baudrive (Choc Spatio-Temporel 073)]]
+[[it:Drifloon (Scontro Spaziotemporale 73)]]
+[[ja:フワンテ (ポケポケ A2)]]
+[[zh:飘飘球（A2）]]

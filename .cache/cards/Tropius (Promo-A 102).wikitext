@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tropius
+|ja name=トロピウス
+|trans name=Tropius
+|species=Tropius
+|type=Grass
+|image=TropiusPromo-A102.png
+|illustrator=sowsow
+|hp=100
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Vol. 12|number=102/P-A}}
+}}
+
+'''Tropius''' (Japanese: '''トロピウス''' ''Tropius'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Double Smash
+|jname=ダブルスマッシュ
+|jtrans=Double Smash
+|damage=40×
+|effect=Flip 2 coins. This attack does 40 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Tropius
+|species=Fruit
+|ndex=0357
+|height=6'07"
+|jheight=2.0
+|weight=220.5
+|jweight=100.0
+|dex=It lives in tropical jungles. The bunch of fruit around its neck is delicious. The fruit grows twice a year.
+|jdex=熱帯の　ジャングルに　生息。首の　フサは　甘くて　美味しい。１年に　２回　実を　つける。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 12 packs; these were made available as part of the [[Zoroark Drop Event]], which ran from September 3 to 13, 2025.
+
+==Trivia==
+===Origin===
+* This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Tropius|12}} from the {{TCG|Cosmic Eclipse}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tropius (PROMO-A 102)]]
+[[es:Tropius (Promo-A 102 TCG Pocket)]]
+[[fr:Tropius (Promo-A 102)]]
+[[it:Tropius (Promo-A 102)]]
+[[ja:トロピウス (ポケポケ P-A)]]
+[[zh:热带龙（P-A）]]

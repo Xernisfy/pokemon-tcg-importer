@@ -1,0 +1,66 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Smeargle
+|ja name=ドーブル
+|trans name=Doble
+|species=Smeargle
+|type=Colorless
+|image=SmeargleFantasticalParade130.png
+|illustrator=Sekio
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=130/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Smeargle''' (Japanese: '''ドーブル''' ''Doble'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Portrait
+|jname=にがおえ
+|jtrans=Portrait
+|effect=Once during your turn, if this Pokémon is in the Active Spot, you may look at a random {{TCGP|Supporter card}} from your opponent’s hand. Use the effect of that card as the effect of this Ability.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Tail Whap
+|jname=しっぽではたく
+|jtrans=Tail Strike
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Smeargle
+|species=Painter
+|ndex=0235
+|height=3'11"
+|jheight=1.2
+|weight=127.9
+|jweight=58.0
+|dex=The color of the mysterious fluid secreted from the tip of the tail is predetermined for each Smeargle.
+|jdex=尻尾の 先から 分泌する 謎の 液体の 色は ドーブルごとに 決まっている。
+}}
+
+==Trivia==
+===Origin===
+*'''Portrait''' is an Ability that first appeared as a [[Pokémon Power (TCG)|Poké-Power]] on {{TCG ID|Undaunted|Smeargle|8}} from the {{TCG|Undaunted}} expansion.
+*'''Tail Whap''' is an attack that first appeared on {{TCG ID|Aquapolis|Wooper|66}} from the {{TCG|Aquapolis}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Farbeagle (Traumhafte Parade 130)]]
+[[fr:Queulorior (Parade Onirique 130)]]
+[[it:Smeargle (Parata Fantasmagorica 130)]]
+[[ja:ドーブル (ポケポケ B2)]]
+[[zh:图图犬（B2）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Crocalor
+|ja name=アチゲータ
+|trans name=Achigator
+|species=Crocalor
+|type=Fire
+|image=CrocalorPaldeanWonders17.png
+|illustrator=kantaro
+|hp=100
+|weakness=Water
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Fuecoco
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=017/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Crocalor''' (Japanese: '''アチゲータ''' ''Achigator'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}
+|name=Bite
+|jname=かみつく
+|jtrans=Bite
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Crocalor
+|category=Fire Croc
+|ndex=0910
+|height=3'3"
+|jheight=1
+|weight=67.7
+|jweight=30.7
+|dex=The valve in Crocalor's flame sac is closely connected to its vocal cords. This Pokémon utters a guttural cry as it spews flames every which way.
+|jdex=声帯と 炎袋の 弁は 密接な 関係。 だみ声を 上げながら 炎を 吐き散らす。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Crocalor|37}} from the {{TCG|Scarlet & Violet}} expansion.
+*{{m|Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Crocalor}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lokroko (Wundervolles Paldea 017)]]
+[[fr:Crocogril (Merveilles de Paldea 017)]]
+[[it:Crocalor (Meraviglie di Paldea 17)]]
+[[ja:アチゲータ (ポケポケ B2a)]]
+[[zh:炙烫鳄（B2a）]]

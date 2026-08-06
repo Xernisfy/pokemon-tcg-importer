@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Quaxwell
+|ja name=ウェルカモ
+|trans name=Welkamo
+|species=Quaxwell
+|type=Water
+|image=QuaxwellPaldeanWonders23.png
+|illustrator=kirisAki
+|hp=80
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Quaxly
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=023/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Quaxwell''' (Japanese: '''ウェルカモ''' ''Welkamo'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Splashing Turn
+|jname=スプラッシュターン
+|jtrans=Splash Turn
+|damage=40
+|effect=Switch this Pokémon with 1 of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Quaxwell
+|category=Practicing
+|ndex=0913
+|height=3'11"
+|jheight=1.2
+|weight=47.4
+|jweight=21.5
+|dex=The hardworking Quaxwell observes people and Pokémon from various regions and incorporates their movements into its own dance routines.
+|jdex=様々な 地方の ポケモンや 人の 動きを 見て 自らの 踊りに 取り入れる 努力家。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Quaxwell|53}} from the {{TCG|Scarlet & Violet}} expansion.
+*'''Splashing Turn''' is an attack that first appeared on {{TCG ID|EX Unseen Forces|Suicune ☆|115|Suicune}}{{Star}} from the {{TCG|EX Unseen Forces}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Fuentente (Wundervolles Paldea 023)]]
+[[fr:Canarbello (Merveilles de Paldea 023)]]
+[[it:Quaxwell (Meraviglie di Paldea 23)]]
+[[ja:ウェルカモ (ポケポケ B2a)]]
+[[zh:涌跃鸭（B2a）]]

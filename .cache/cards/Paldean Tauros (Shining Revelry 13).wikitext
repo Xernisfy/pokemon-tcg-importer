@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Paldean Tauros
+|ja name=パルデアケンタロス
+|trans name=Paldean Kentauros
+|species=Tauros
+|type=Fire
+|image=PaldeanTaurosShiningRevelry13.png
+|illustrator=Minahamu
+|hp=110
+|weakness=Water
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=013/072|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Paldean Tauros''' (Japanese: '''パルデアケンタロス''' ''Paldean Kentauros'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}{{e|Colorless}}
+|name=Blaze Tackle
+|jname=ブレイズタックル
+|jtrans=Blaze Tackle
+|damage=80
+|effect=This Pokémon also does 10 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Tauros
+|category=Wild Bull 
+|ndex=0128
+|height=4'7"
+|jheight=1.4
+|weight=187.4
+|jweight=85.0
+|dex=When heated by fire energy, its horns can get hotter than 1,800 degrees Fahrenheit. Those gored by them will suffer both wounds and burns.
+|jdex=炎のエネルギーで 熱した ツノは 摂氏1000度になり 突き刺された 敵は 傷と 火傷に 苦しむ。
+}}
+
+==Trivia==
+===Origin===
+*This card features the Blaze Breed [[Paldean form]] of {{p|Tauros}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Paldea-Tauros (Glänzendes Festival 013)]]
+[[es:Tauros de Paldea (Festival Brillante TCG Pocket)]]
+[[fr:Tauros de Paldea (Réjouissances Rayonnantes 013)]]
+[[it:Tauros di Paldea (Tripudio Splendente 13)]]
+[[ja:パルデアケンタロス (ポケポケ A2b)]]
+[[zh:帕底亞 肯泰羅（A2b）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Vulpix
+|ja name=ロコン
+|trans name=Rokon
+|species=Vulpix
+|type=Fire
+|image=VulpixWisdomofSeaandSky25.png
+|illustrator=Shibuzoh.
+|hp=60
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lugia|rarity=Diamond|rarity count=1|number=025/161}}
+}}
+
+'''Vulpix''' (Japanese: '''ロコン''' ''Rokon'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}
+|name=Live Coal
+|jname=ひだね
+|jtrans=Live Coal
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Vulpix
+|category=Fox
+|ndex=0037
+|height=2'
+|jheight=0.6
+|weight=21.8
+|jweight=9.9
+|dex=While young, it has six gorgeous tails. When it grows, several new tails are sprouted.
+|jdex=子どもだが ６本の しっぽが 美しい。 成長すると さらに しっぽが 増える。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Champion's Path|Vulpix|6}} from the {{TCG|Champion's Path}} expansion.
+*'''Live Coal''' is an attack that first appeared on {{TCG ID|Mysterious Treasures|Cyndaquil|79}} from the {{TCG|Mysterious Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Vulpix (Weisheit von Meer und Himmel 025)]]
+[[es:Vulpix (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Goupix (Sagesse entre Ciel et Mer 025)]]
+[[it:Vulpix (La Via del Cielo e del Mare 25)]]
+[[ja:ロコン (ポケポケ A4)]]
+[[zh:六尾（A4）]]

@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Illumise
+|ja name=イルミーゼ
+|trans name=Illumise
+|species=Illumise
+|type=Grass
+|image=IllumiseMegaShine4.png
+|illustrator=Kouki Saitou
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=004/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Illumise''' (Japanese: '''イルミーゼ''' ''Illumise'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Mental Crush
+|jname=メンタルクラッシュ
+|jtrans=Mental Crush
+|damage=20+
+|effect=If your opponent's Active Pokémon is {{TCG|Confused}}, this attack does 40 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Illumise
+|category=Firefly
+|ndex=0314
+|height=2'
+|jheight=0.6
+|weight=39
+|jweight=17.7
+|dex=It guides Volbeat to draw signs in the night sky. There are scholars who research the meaning of these signs.
+|jdex=バルビートを　誘導して　夜空に サインを　描く｡　サインの　意味を 研究する　学者も　いる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Emerald|Illumise|32}} from the {{TCG|EX Emerald}} expansion.
+*'''Mental Crush''' is an attack that first appeared on {{TCG ID|SWSH Promo|Hatterene V|55}}, one of the {{TCG|SWSH Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Illumise (Mega-Schillern 004)]]
+[[fr:Lumivole (Méga-Rayonnement 004)]]
+[[it:Illumise (Mega Splendore 4)]]
+[[ja:イルミーゼ (ポケポケ B2b)]]
+[[zh:甜甜萤（B2b）]]

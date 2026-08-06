@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Houndstone
+|ja name=ハカドッグ
+|trans name=Hakadog
+|species=Houndstone
+|type=Psychic
+|image=HoundstonePaldeanWonders53.png
+|illustrator=Kouki Saitou
+|hp=130
+|weakness=Darkness
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Greavard
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=053/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Houndstone''' (Japanese: '''ハカドッグ''' ''Hakadog'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Last Respects
+|jname=おはかまいり
+|jtrans=Visit to the Grave
+|damage=50+
+|effect=This attack does 20 more damage for each {{e|Psychic}} Pokémon in your discard pile.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Houndstone
+|category=Ghost Dog
+|ndex=0972
+|height=6'7"
+|jheight=2
+|weight=33.1
+|jweight=15.0
+|dex=A lovingly mourned Pokémon was reborn as Houndstone. It doesn't like anyone touching the protuberance atop its head.
+|jdex=大切に 弔われた ポケモンが 生まれ変わった 姿。 頭の 突起を 触られるのは 嫌い。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Houndstone|106}} from the {{TCG|Scarlet & Violet}} expansion.
+**Both cards have the {{m|Last Respects}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Houndstone}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Friedwuff (Wundervolles Paldea 053)]]
+[[fr:Tomberro (Merveilles de Paldea 053)]]
+[[it:Houndstone (Meraviglie di Paldea 53)]]
+[[ja:ハカドッグ (ポケポケ B2a)]]
+[[zh:墓扬犬（B2a）]]

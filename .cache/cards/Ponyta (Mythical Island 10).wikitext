@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ponyta
+|ja name=ポニータ
+|trans name=Ponyta
+|species=Ponyta
+|type=Fire
+|image=PonytaMythicalIsland10.png
+|illustrator=Tomokazu Komiya
+|hp=60
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=010/068|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Ponyta''' (Japanese: '''ポニータ''' ''Ponyta'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Stomp
+|jname=ふみつけ
+|jtrans=Trample
+|damage=10+
+|effect=Flip a coin. If heads, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Ponyta
+|species=Fire Horse
+|ndex=0077
+|height=3'3"
+|jheight=1
+|weight=66.1
+|jweight=30.0
+|dex=It can't run properly when it's newly born. As it races around with others of its kind, its legs grow stronger.
+|jdex=生まれたばかりは　走るのが　へた｡ 仲間と　かけっこを　するうちに 足腰が　強く　育っていく｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Flashfire|Ponyta|14}} from the {{TCG|Flashfire}} expansion.
+*{{m|Stomp}} is a [[move]] in the [[Pokémon games]] that {{p|Ponyta}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ponita (Mysteriöse Insel 010)]]
+[[es:Ponyta (La Isla Singular TCG Pocket)]]
+[[fr:Ponyta (L'Île Fabuleuse 010)]]
+[[it:Ponyta (L'Isola Misteriosa 10)]]
+[[ja:ポニータ (ポケポケ A1a)]]
+[[zh:小火马（A1a）]]

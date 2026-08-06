@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Melmetal
+|ja name=メルメタル
+|trans name=Melmetal
+|species=Melmetal
+|type=Metal
+|image=MelmetalEeveeGrove50.png
+|illustrator=NC Empire
+|hp=140
+|weakness=Fire
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Meltan
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=050/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Melmetal''' (Japanese: '''メルメタル''' ''Melmetal'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Metal}}
+|name=Mega Punch
+|jname=メガトンパンチ
+|jtrans=Megaton Punch
+|damage=90
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Melmetal
+|category=Hex Nut 
+|ndex=0809
+|height=8'2"
+|jheight=2.5
+|weight=1763.7
+|jweight=800.0
+|dex=At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.
+|jdex=寿命が　尽きると　体が 錆びて　崩れる｡　やがて　小さな 破片が　メルタンに　復活する｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Melmetal|130}} from the {{TCG|Darkness Ablaze}} expansion.
+*{{m|Mega Punch}} is a [[move]] in the [[Pokémon games]] that {{p|Melmetal}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Melmetal (Evoli-Hain 050)]]
+[[es:Melmetal (Arboleda de Eevee TCG Pocket)]]
+[[fr:Melmetal (La Clairière d'Évoli 050)]]
+[[it:Melmetal (Il Bosco di Eevee 50)]]
+[[ja:メルメタル (ポケポケ A3b)]]
+[[zh:美录梅塔（A3b）]]

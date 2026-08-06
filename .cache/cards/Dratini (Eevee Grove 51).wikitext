@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dratini
+|ja name=ミニリュウ
+|trans name=Miniryu
+|species=Dratini
+|type=Dragon
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DratiniEeveeGrove51.png|illustrator=Naoyo Kimura|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DratiniDeluxePackex268.png|illustrator=Naoyo Kimura|tab caption=Parallel}}
+|hp=60
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=051/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=267/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=268/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Dratini''' (Japanese: '''ミニリュウ''' ''Miniryu'') is a {{ct|Dragon}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Colorless}}
+|name=Beat
+|jname=たたく
+|jtrans=Strike
+|damage=20
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Dratini
+|species=Dragon
+|ndex=0147
+|height=5'11"
+|jheight=1.8
+|weight=7.3
+|jweight=3.3
+|dex=It sheds many layers of skin as it grows larger. During this process, it is protected by a rapid waterfall.
+|jdex=激しく　流れ落ちる　滝に 守られながら　脱皮を　繰り返し どんどん　大きくなる｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Dragon
+|image1=DratiniEeveeGrove51.png
+|caption1=Standard card<br>Illus. [[Naoyo Kimura]]
+|image2=DratiniDeluxePackex268.png
+|caption2=Parallel foil card<br>Illus. [[Naoyo Kimura]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Dratini|94}} from the {{TCG|Sun & Moon}} expansion.
+*'''Beat''' is an attack that first appeared on {{TCG ID|VS|Falkner's Farfetch'd|3}} and {{TCG|VS|Karen's Magmar|88}}, both from the {{TCG|Pokémon VS}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dratini (Evoli-Hain 051)]]
+[[es:Dratini (Arboleda de Eevee TCG Pocket)]]
+[[fr:Minidraco (La Clairière d'Évoli 051)]]
+[[it:Dratini (Il Bosco di Eevee 51)]]
+[[ja:ミニリュウ (ポケポケ A3b)]]
+[[zh:迷你龙（A3b）]]

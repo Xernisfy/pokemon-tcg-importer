@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+| en name = Donphan {{TCGP Icon|ex}}
+| ja name = ドンファン {{TCGP Icon|ex}}
+| trans name = Donfan {{TCGP Icon|ex}}
+| species = Donphan
+| type = Fighting
+| image set = {{TCG Card Infobox/Tabbed Image/Pocket|image=DonphanexWisdomofSeaandSky100.png|illustrator=PLANETA Yamashita|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DonphanexWisdomofSeaandSky191.png|illustrator=PLANETA Yamashita|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DonphanexWisdomofSeaandSky206.png|illustrator=Yuriko Akase|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DonphanexFantasticalParade230.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+| hp = 160
+| weakness = Grass
+| retreat cost = 3
+| illustrator = 
+| evo stage = Stage 1
+| prevo name = Phanpy
+| expansions = {{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=100/161|pack=Ho-Oh|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=191/161|pack=Ho-Oh|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=206/161|pack=Ho-Oh|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=202/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=230/155|pack=Any|rarity=Shiny|rarity count=2}}
+}}
+
+'''Donphan ex''' (Japanese: '''ドンファンex''' ''Donfan ex'') is a {{ct|Fighting}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Gigantic Press
+|jname=ギガトンプレス
+|jtrans=Gigaton Press
+|damage=50+
+|effect=If this Pokémon has at least 2 extra {{e|Fighting}} Energy attached, this attack does 60 more damage.
+}}
+{{Cardtext/Pocket ex
+|type=Fighting
+|ndex=0232
+|name=Donphan
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=DonphanexWisdomofSeaandSky100.png
+|caption1=Double rare card<br>Illus. [[PLANETA Yamashita]]
+|image2=DonphanexWisdomofSeaandSky191.png
+|caption2=Super rare card<br>Illus. [[PLANETA Yamashita]]
+|image3=DonphanexWisdomofSeaandSky206.png
+|caption3=Special illustration rare card<br>Illus. [[Yuriko Akase]]
+|image4=DonphanexFantasticalParade230.png
+|caption4=Shiny super rare card<br>Illus. [[PLANETA Yamashita]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Donphan}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Donphan-ex (Weisheit von Meer und Himmel 100)]]
+[[es:Donphan ex (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Donphan-ex (Sagesse entre Ciel et Mer 100)]]
+[[it:Donphan-ex (La Via del Cielo e del Mare 100)]]
+[[ja:ドンファンex (ポケポケ A4)]]
+[[zh:顿甲ex（A4）]]

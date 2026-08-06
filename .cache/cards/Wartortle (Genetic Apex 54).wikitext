@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wartortle
+|ja name=カメール
+|trans name=Kameil
+|species=Wartortle
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WartortleGeneticApex54.png|illustrator=Nelnal|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WartortleDeluxePackex86.png|illustrator=Nelnal|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WartortleCelestialGuardians216.png|illustrator=Nisota Niso|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Squirtle
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Pikachu|rarity=Diamond|rarity count=2|number=054/226}}
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lunala|rarity=Shiny|rarity count=1|number=216/155}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=085/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=086/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Wartortle''' (Japanese: '''カメール''' ''Kameil'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Wave Splash
+|jname=スプラッシュ
+|jtrans=Splash
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Wartortle
+|species=Turtle
+|ndex=0008
+|height=3'3"
+|jheight=1
+|weight=49.6
+|jweight=22.5
+|dex=It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.
+|jdex=長生きの　シンボルと　されている｡ 甲羅に　苔が　ついているのは とくに　長生きの　カメールだ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=WartortleGeneticApex54.png
+|caption1=Standard card<br>Illus. [[Nelnal]]
+|image2=WartortleCelestialGuardians216.png
+|caption2=Shiny rare card<br>Illus. [[Nisota Niso]]
+|image3=WartortleDeluxePackex86.png
+|caption3=Parallel foil card<br>Illus. [[Nelnal]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare illustration features a {{Shiny}} {{p|Wartortle}}.
+*'''Wave Splash''' is an attack that first appeared on {{TCG ID|Vending|Golduck|S3}} from {{TCG|Expansion Sheet 3}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schillok (Unschlagbare Gene 054)]]
+[[es:Wartortle (Genes Formidables TCG Pocket)]]
+[[fr:Carabaffe (Puissance Génétique 054)]]
+[[it:Wartortle (Geni Supremi 54)]]
+[[ja:カメール (ポケポケ A1)]]
+[[zh:卡咪龟（A1）]]

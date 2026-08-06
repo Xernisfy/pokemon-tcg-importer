@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lickitung
+|ja name=ベロリンガ
+|trans name=Beroringa
+|species=Lickitung
+|type=Colorless
+|image=LickitungShiningRevelry62.png
+|illustrator=Sumiyoshi Kizuki
+|hp=80
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=062/072|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Lickitung''' (Japanese: '''ベロリンガ''' ''Beroringa'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Rollout
+|jname=ころがる
+|jtrans=Roll
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Lickitung
+|category=Licking 
+|ndex=0108
+|height=3'11"
+|jheight=1.2
+|weight=144.4
+|jweight=65.5
+|dex=If this Pokémon's sticky saliva gets on you and you don't clean it off, an intense itch will set in. The itch won't go away, either.
+|jdex=ネバネバした　唾液に　触れたまま 放っておくと　ものすごい　痒みが はじまり　とまらなくなるぞ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX FireRed & LeafGreen|Lickitung|37}} from the {{TCG|EX FireRed & LeafGreen}} expansion.
+*{{m|Rollout}} is a [[move]] in the [[Pokémon games]] that {{p|Lickitung}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schlurp (Glänzendes Festival 062)]]
+[[es:Lickitung (Festival Brillante TCG Pocket)]]
+[[fr:Excelangue (Réjouissances Rayonnantes 062)]]
+[[it:Lickitung (Tripudio Splendente 62)]]
+[[ja:ベロリンガ (ポケポケ A2b)]]
+[[zh:大舌頭（A2b）]]

@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Charmeleon
+|ja name=リザード
+|trans name=Lizardo
+|species=Charmeleon
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharmeleonShiningRevelry9.png|illustrator=kodama|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharmeleonShiningRevelry100.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=90
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Charmander
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=009/072|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=100/072|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Charmeleon''' (Japanese: '''リザード''' ''Lizardo'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Combustion
+|jname=かえん
+|jtrans=Blaze
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Charmeleon
+|category=Flame 
+|ndex=0005
+|height=3'7"
+|jheight=1.1
+|weight=41.9
+|jweight=19.0
+|dex=It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.
+|jdex=燃える　しっぽを　振りまわし するどい　ツメで　相手を 切り裂く　荒々しい　性格｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=CharmeleonShiningRevelry9.png
+|caption1=Uncommon card<br>Illus. [[kodama]]
+|image2=CharmeleonShiningRevelry100.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare print features a {{Shiny}} {{p|Charmeleon}}.
+*This card's standard illustration was first featured on {{TCG ID|Dragon Majesty|Charmeleon|2}} from the {{TCG|Dragon Majesty}} expansion.
+*'''Combustion''' is an attack that first appeared on {{TCG ID|Neo Destiny|Slugma|82}} from the {{TCG|Neo Destiny}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Glutexo (Glänzendes Festival 009)]]
+[[es:Charmeleon (Festival Brillante TCG Pocket)]]
+[[fr:Reptincel (Réjouissances Rayonnantes 009)]]
+[[it:Charmeleon (Tripudio Splendente 9)]]
+[[ja:リザード (ポケポケ A2b)]]
+[[zh:火恐龍（A2b）]]

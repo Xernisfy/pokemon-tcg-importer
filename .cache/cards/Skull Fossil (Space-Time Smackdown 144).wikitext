@@ -1,0 +1,49 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Skull Fossil
+|ja name=ずがいの化石
+|trans name=Skull Fossil
+|subtype=Item
+|image=SkullFossilSpace-TimeSmackdown144.png
+|illustrator=Toyste Beach
+|hp=40
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=144/155|pack=Dialga|rarity=Diamond|rarity count=1}}
+}}
+'''Skull Fossil''' (Japanese: '''ずがいの化石''' ''Skull Fossil'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Play this card as if it were a 40-HP Basic {{e|Colorless}} Pokémon.<br>At any time during your turn, you may discard this card from play.<br>This card can't retreat.
+}}
+
+==Trivia==
+* This card's effect is similar to that of the {{TCG|Unidentified Fossil}} card in the [[Pokémon Trading Card Game]], but has 40 HP instead of 60 HP and only {{TCGP|Cranidos}} can evolve from.
+** {{TCG|Skull Fossil}} also exists in the Pokémon Trading Card Game, but has 50 HP and also has a {{TCG|Poké-Body}}.
+
+===Origin===
+*[[Skull Fossil]]s are [[fossil]]s in the [[Pokémon games]] which can be revived into {{p|Cranidos}}.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=ずがいの化石 ''Zugai no Kaseki''
+|zh_yue=頭蓋化石 ''Tàuhgoi Fasehk''
+|zh_cmn=頭蓋化石<!-- / 头盖化石--> ''Tóugài Huàshí''
+|fr=Fossile Crâne
+|de=Kopffossil
+|it=Fossilcranio
+|ko=두개의화석 ''Dugaeui Hwaseok''
+|pt_br=Fóssil Crânio
+|es=Fósil Cráneo
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kopffossil (TCG Pocket)]]
+[[es:Fósil Cráneo (TCG Pocket)]]
+[[fr:Fossile Crâne (Choc Spatio-Temporel 144)]]
+[[it:Fossilcranio (Scontro Spaziotemporale 144)]]
+[[ja:ずがいの化石 (ポケポケ)]]
+[[zh:头盖化石（TCGP）]]

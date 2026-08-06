@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Trubbish
+|ja name=ヤブクロン
+|trans name=Yabukuron
+|species=Trubbish
+|type=Darkness
+|image=TrubbishMegaShine41.png
+|illustrator=kawayoo
+|hp=70
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=041/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Trubbish''' (Japanese: '''ヤブクロン''' ''Yabukuron'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=Sludge Toss
+|jname=ヘドロなげ
+|jtrans=Sludge Throw
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Trubbish
+|category=Trash Bag
+|ndex=0568
+|height=2'
+|jheight=0.6
+|weight=68.3
+|jweight=31.0
+|dex=This Pokémon was born from a bag stuffed with trash. Galarian Weezing relish the fumes belched by Trubbish.
+|jdex=ゴミの　詰まった　ゴミ袋から 生まれた｡　吐き出す　毒ガスは ガラルの　マタドガスの　好物｡
+}}
+
+==Trivia==
+This card's illustration forms a {{TCGP|narrative illustration}} with {{TCG ID|Mega Shine|Empoleon|20}} and {{TCG ID|Mega Shine|Phione|21}} from the same set. All of the standard illustrations in this group were first featured in the {{TCG|Legendary Treasures}} expansion, and also form the {{TCGP|Mega Shine}} expansion's "Toward a More Beautiful World" [[Mega Shine (TCG Pocket)#Themed Collections|Themed Collection]].
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Legendary Treasures|Trubbish|67}} from the {{TCG|Legendary Treasures}} expansion.
+*'''Sludge Toss''' is an attack that first appeared on {{TCG ID|Gym Challenge|Koga's Grimer|78}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Unratütox (Mega-Schillern 041)]]
+[[fr:Miamiasme (Méga-Rayonnement 041)]]
+[[it:Trubbish (Mega Splendore 41)]]
+[[ja:ヤブクロン (ポケポケ B2b)]]
+[[zh:破破袋（B2b）]]

@@ -1,0 +1,92 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Oricorio
+|ja name=オドリドリ
+|trans name=Odoridori
+|species=Oricorio
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OricorioCelestialGuardians66.png|illustrator=Jerky|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OricorioDeluxePackex147.png|illustrator=Jerky|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OricorioCelestialGuardians165.png|illustrator=USGMEN|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OricorioMegaRising303.png|illustrator=whomor Inc.|tab caption=Shiny Rare}}
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=066/155|pack=Solgaleo|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=165/155|pack=Solgaleo|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=146/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=147/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=303/226|pack=Mega Gyarados|rarity=Shiny|rarity count=1}}
+}}
+
+'''Oricorio''' (Japanese: '''オドリドリ''' ''Odoridori'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Ability/Pocket
+|type=Lightning
+|name=Safeguard
+|jname=しんぴのまもり
+|jtrans=Mysterious Protection
+|effect=Prevent all damage done to this Pokémon by attacks from your opponent's {{TCGP|Pokémon ex}}.
+}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}
+|name=Zzzap
+|jname=パチパチ
+|jtrans=Electric Crackling
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Oricorio
+|species=Dancing
+|ndex=0741
+|height=2'00"
+|jheight=0.6
+|weight=7.5
+|jweight=3.4
+|dex=This form of Oricorio has sipped yellow nectar. It uses nimble steps to approach opponents, then knocks them out with electric punches. 
+|jdex=やまぶきのミツを 吸った 姿。 軽快な ステップで 相手に 近寄り 電撃パンチで KO。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=OricorioCelestialGuardians66.png
+|caption1=Standard card<br>Illus. [[Jerky]]
+|image2=OricorioCelestialGuardians165.png
+|caption2=Illustration rare card<br>Illus. [[USGMEN]]
+|image4=OricorioDeluxePackex147.png
+|caption4=Parallel foil card<br>Illus. [[Jerky]]
+|image5=OricorioMegaRising303.png
+|caption5=Shiny rare card<br>Illus. [[whomor Inc.]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Oricorio}} in its {{form|Oricorio|Pom-Pom Style}}.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Oricorio}}.
+*{{m|Safeguard}} is a [[move]] in the [[Pokémon games]] that {{p|Oricorio}} can learn.
+*'''Zzzap''' is an attack that first appeared on {{TCG ID|Neo Genesis|Pichu|12}} from {{TCG|Neo Genesis}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Choreogel (Hüter des Firmaments 066)]]
+[[es:Oricorio (Guardianes Celestiales 66 TCG Pocket)]]
+[[fr:Plumeline (Gardiens Astraux 066)]]
+[[it:Oricorio (Guardiani Astrali 66)]]
+[[ja:オドリドリ (ポケポケ A3 066)]]
+[[zh:花舞鸟（A3 066）]]

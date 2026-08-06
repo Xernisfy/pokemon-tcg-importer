@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Raichu
+|ja name=ライチュウ
+|trans name=Raichu
+|species=Raichu
+|type=Lightning
+|image=RaichuMythicalIsland26.png
+|illustrator=hncl
+|hp=120
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Pikachu
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=026/068|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Raichu''' (Japanese: '''ライチュウ''' ''Raichu'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}{{e|Lightning}}
+|name=Gigashock
+|jname=ギガスパーク
+|jtrans=Gigaspark
+|damage=60
+|effect=This attack also does 20 damage to each of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Raichu
+|species=Mouse
+|ndex=0026
+|height=2'7"
+|jheight=0.8
+|weight=66.1
+|jweight=30.0
+|dex=Its tail discharges electricity into the ground, protecting it from getting shocked.
+|jdex=尻尾が　アースの　役目をはたして 電気を　地面に　逃がすので 自分自身は　しびれたりしない｡
+}}
+
+==Trivia==
+This card's number in the {{TCGP|Mythical Island}} expansion is 026, which is also {{p|Raichu}}'s [[National Pokédex]] [[List of Pokémon by National Pokédex number|number]].
+
+===Origin===
+*'''Gigashock''' is an attack that first appeared on {{TCG ID|Fossil|Raichu|14}} from the {{TCG|Fossil}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Raichu (Mysteriöse Insel 026)]]
+[[es:Raichu (La Isla Singular TCG Pocket)]]
+[[fr:Raichu (L'Île Fabuleuse 026)]]
+[[it:Raichu (L'Isola Misteriosa 26)]]
+[[ja:ライチュウ (ポケポケ A1a)]]
+[[zh:雷丘（A1a）]]

@@ -1,0 +1,50 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Repel
+|ja name=むしよけスプレー
+|trans name=Repellent Spray
+|subtype=Item
+|image=RepelExtradimensionalCrisis64.png
+|illustrator=Yoshinobu Saito
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=064/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Repel''' (Japanese: '''むしよけスプレー''' ''Repellent Spray'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Switch out your opponent's Active Basic Pokémon to the Bench. ''(Your opponent chooses the new Active Pokémon.)''
+}}
+
+==Trivia==
+* This card's effect is similar to that of the {{TCG|Repel}} card in the [[Pokémon Trading Card Game]], but this card can only be used if the opponent's Active Pokémon is a Basic Pokémon.
+** {{TCGP|Sabrina}} has an identical effect to the TCG card Repel, but as a {{TCGP|Supporter card}} instead of an Item card.
+
+===Origin===
+* This card's illustration was first featured on {{TCG ID|Sun & Moon|Repel|130}} from the {{TCG|Sun & Moon}} expansion.
+* [[Repel]] is an item in the [[Pokémon games]] that prevents wild Pokémon from appearing.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=むしよけスプレー ''Mushiyoke Spray''
+|zh_yue=除蟲噴霧 ''Chèuihchùhng Panmouh''
+|zh_cmn=除蟲噴霧 ''Chúchóng Pēnwù''
+|fr=Repousse
+|de=Schutz
+|it=Repellente
+|ko=벌레회피스프레이 ''Beolle Hoepi Spray''
+|pt_br=Repelente
+|es=Repelente
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schutz (TCG Pocket)]]
+[[es:Repelente (TCG Pocket)]]
+[[fr:Repousse (Crise Interdimensionnelle 064)]]
+[[it:Repellente (Crisi Ultradimensionale 64)]]
+[[ja:むしよけスプレー (ポケポケ)]]
+[[zh:除虫喷雾（TCGP）]]

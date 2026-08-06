@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gastrodon
+|ja name=トリトドン
+|trans name=Tritodon
+|species=Gastrodon
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GastrodonSpace-TimeSmackdown41.png|illustrator=Aya Kusube|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GastrodonSpace-TimeSmackdown161.png|illustrator=takashi shiraishi|tab caption=Illustration Rare}}
+|hp=120
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Shellos
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=041/155|pack=Palkia|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=161/155|pack=Palkia|rarity=Star|rarity count=1}}
+}}
+
+'''Gastrodon''' (Japanese: '''トリトドン''' ''Tritodon'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}{{e|Colorless}}
+|name=Muddy Water
+|jname=だくりゅう
+|jtrans=Muddy Stream
+|damage=60
+|effect=This attack also does 20 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Gastrodon
+|species=Sea Slug
+|ndex=0423
+|height=2'11"
+|jheight=0.9
+|weight=65.9
+|jweight=29.9
+|dex=They normally inhabit rocky seashores, but in times of continuous rain, they can sometimes be found in the mountains, far from the sea.
+|jdex=普段は 磯に いるが 雨が 続くと 海から 遠く離れた 山で 見つかることも あるのだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=GastrodonSpace-TimeSmackdown41.png
+|caption1=Uncommon card<br>Illus. [[Aya Kusube]]
+|image2=GastrodonSpace-TimeSmackdown161.png
+|caption2=Illustration rare card<br>Illus. [[takashi shiraishi]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Gastrodon}} in both its {{form|Shellos|West Sea and East Sea}} forms in both of its illustrations.
+*This card's standard illustration was first featured on {{TCG ID|Steam Siege|Gastrodon|29}} from the {{TCG|Steam Siege}} expansion.
+*{{m|Muddy Water}} is a [[move]] in the [[Pokémon games]] that {{p|Gastrodon}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gastrodon (Kollision von Raum und Zeit 041)]]
+[[es:Gastrodon (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Tritosor (Choc Spatio-Temporel 041)]]
+[[it:Gastrodon (Scontro Spaziotemporale 41)]]
+[[ja:トリトドン (ポケポケ A2)]]
+[[zh:海兔兽（A2）]]

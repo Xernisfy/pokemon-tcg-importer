@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Passimian
+|ja name=ナゲツケサル
+|trans name=Nagetukesaru
+|species=Passimian
+|type=Fighting
+|image=PassimianExtradimensionalCrisis34.png
+|illustrator=Naoki Saito
+|hp=100
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=034/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Passimian''' (Japanese: '''ナゲツケサル''' ''Nagetukesaru'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Let's Throw
+|jname=いっしょになげる
+|jtrans=Let's Throw Together
+|damage=40+
+|effect=If {{TCGP|Passimian}} is on your Bench, this attack does 40 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Passimian
+|category=Teamwork 
+|ndex=0766
+|height=6'7"
+|jheight=2
+|weight=182.5
+|jweight=82.8
+|dex=This Pokémon battles by throwing hard berries. It won't obey a Trainer who throws Poké Balls without skill.
+|jdex=硬い 木の実を 投げて 戦う。 ボールを 投げるのが 下手くそな トレーナーの 言うことは 聞かない。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Passimian|73}} from the {{TCG|Sun & Moon}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Quartermak (Dimensionale Krise 034)]]
+[[es:Passimian (Crisis Dimensional TCG Pocket)]]
+[[fr:Quartermac (Crise Interdimensionnelle 034)]]
+[[it:Passimian (Crisi Ultradimensionale 34)]]
+[[ja:ナゲツケサル (ポケポケ A3a)]]
+[[zh:投掷猴（A3a）]]

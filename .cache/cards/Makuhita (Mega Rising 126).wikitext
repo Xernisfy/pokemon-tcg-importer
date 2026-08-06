@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Makuhita
+|ja name=マクノシタ
+|trans name=Makunoshita
+|species=Makuhita
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MakuhitaMegaRising126.png|illustrator=Sachiko Adachi|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MakuhitaMegaRising240.png|illustrator=Koji Nakata|tab caption=Illustration Rare}}
+|hp=80
+|weakness=Psychic
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=126/226|pack=Mega Blaziken|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=240/226|pack=Mega Blaziken|rarity=Star|rarity count=1}}
+}}
+
+'''Makuhita''' (Japanese: '''マクノシタ''' ''Makunoshita'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Lunge Out
+|jname=つきたおし
+|jtrans=Shove
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Makuhita
+|species=Guts
+|ndex=0296
+|height=3'3"
+|jheight=1.0
+|weight=190.5
+|jweight=86.4
+|dex=It toughens up by slamming into thick trees over and over. It gains a sturdy body and dauntless spirit.
+|jdex=たいぼくに　なんども　たいあたりして　きょうじんな　からだと　くじけない　こころを　きたえ　あげるのだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=MakuhitaMegaRising126.png
+|caption1=Common card<br>Illus. [[Sachiko Adachi]]
+|image2=MakuhitaMegaRising240.png
+|caption2=Illustration rare card<br>Illus. [[Koji Nakata]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|EX Delta Species|Makuhita|75}} from the {{TCG|EX Delta Species}} expansion.
+*'''Lunge Out''' is an attack that first appeared on {{TCG ID|EX Ruby & Sapphire|Makuhita|56}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Makuhita (Mega-Aufstieg 126)]]
+[[es:Makuhita (Megaascenso TCG Pocket)]]
+[[fr:Makuhita (Méga-Ascension 126)]]
+[[it:Makuhita (Mega Ascesa 126)]]
+[[ja:マクノシタ (ポケポケ B1)]]
+[[zh:幕下力士（B1）]]

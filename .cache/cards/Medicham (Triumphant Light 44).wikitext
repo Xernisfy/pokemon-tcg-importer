@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Medicham
+|ja name=チャーレム
+|trans name=Charem
+|species=Medicham
+|type=Fighting
+|image=MedichamTriumphantLight44.png
+|illustrator=Tetsu Kayama
+|hp=100
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Meditite
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=044/075|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Medicham''' (Japanese: '''チャーレム''' ''Charem'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Kick Shot
+|jname=いっぱつげり
+|jtrans=Kick Shot
+|damage=80
+|effect=Flip a coin. If tails, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Medicham
+|species=Meditate
+|ndex=0308
+|height=4'3"
+|jheight=1.3
+|weight=69.4
+|jweight=31.5
+|dex=Through yoga training, it gained the psychic power to predict its foe's next move.
+|jdex=ヨガの 修行で 鍛えられた サイコパワーで 相手の 動きを 予測する ことが できるのだ。
+}}
+
+==Trivia==
+Medicham is one of four Pokémon in the {{TCGP|Triumphant Light}} expansion featured in the "Abomasnow of Mt. Coronet" [[Triumphant Light (TCG Pocket)#Themed Collections|Themed Collection]] as {{p|Medicham}} can be found at [[Mount Coronet]] in {{game|Diamond and Pearl|s|Pokémon Diamond, Pearl}}, {{game|Platinum||Platinum}}, {{game|Brilliant Diamond and Shining Pearl|s|Brilliant Diamond, and Shining Pearl}}; this may also be the setting for this card's illustration.
+
+===Origin===
+*'''Kick Shot''' is an attack that first appeared on {{TCG ID|Diamond & Pearl|Hoothoot|85}} from the {{TCG|Diamond & Pearl}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Meditalis (Licht des Triumphs 044)]]
+[[es:Medicham (Luz Triunfal TCG Pocket)]]
+[[fr:Charmina (Lumière Triomphale 044)]]
+[[it:Medicham (Luce Trionfale 44)]]
+[[ja:チャーレム (ポケポケ A2a)]]
+[[zh:恰雷姆（A2a）]]

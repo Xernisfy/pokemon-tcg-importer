@@ -1,0 +1,83 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Gyarados {{TCGP Icon|Mega ex}}
+|ja name=メガギャラドス{{TCGP Icon|Mega ex}}
+|trans name=Mega Gyarados {{TCGP Icon|Mega ex}}
+|species=Gyarados
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaGyaradosexMegaRising52.png|illustrator=PLANETA Igarashi|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaGyaradosexMegaRising255.png|illustrator=PLANETA Igarashi|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaGyaradosexMegaRising285.png|illustrator=danciao|tab caption=Immersive}}
+|hp=210
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Magikarp
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=052/226|pack=Mega Gyarados|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=255/226|pack=Mega Gyarados|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=285/226|pack=Mega Gyarados|rarity=Star|rarity count=3}}
+}}
+
+'''Mega Gyarados ex''' (Japanese: '''メガギャラドスex''' ''Mega Gyarados ex'') is a {{ct|Water}} Stage 1 {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Mega Species/Pocket|Gyarados}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Mega Blaster
+|jname=メガブラスター
+|jtrans=Mega Blaster
+|damage=140
+|effect=Discard the top 3 cards of your opponent's deck.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Water
+|ndex=0130
+|name=Gyarados
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Gyarados
+|species=Atrocious
+|ndex=0130
+|height=21'4"
+|jheight=6.5
+|weight=672.4
+|jweight=305.0
+|dex=Mega Evolution also affects its brain, leaving no other function except its destructive instinct to burn everything to cinders.
+|jdex=メガシンカが 脳にも 作用。 すべてを 焼き尽す 破壊の 本能しか 残っていない。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=MegaGyaradosexMegaRising52.png
+|caption1=Double rare card<br>Illus. [[PLANETA Igarashi]]
+|image2=MegaGyaradosexMegaRising255.png
+|caption2=Super rare card<br>Illus. [[PLANETA Igarashi]]
+|image3=MegaGyaradosexMegaRising285.png
+|caption3={{TCGP|Immersive card}}<br>Illus. [[danciao]]
+}}
+
+==Trivia==
+*The Immersive card features {{p|Magikarp}}, {{me|Gyarados}}, {{p|Murkrow}}, {{p|Wailmer}}, {{p|Wailord}}, {{p|Honchkrow}}, {{p|Tirtouga}}, {{p|Frillish}}, {{p|Jellicent}}, {{p|Hydreigon}}, {{p|Skrelp}}, {{p|Rookidee}}, {{p|Corvisquire}}, {{p|Chewtle}}, {{p|Drednaw}}, {{p|Arrokuda}} and {{p|Barraskewda}}.
+===Origin===
+*This card features [[Mega]] {{p|Gyarados}}.
+*This card's [[Pokédex]] entry comes from {{g|Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Garados-ex (Mega-Aufstieg 052)]]
+[[es:Mega-Gyarados ex (Megaascenso TCG Pocket)]]
+[[fr:Méga-Léviator-ex (Méga-Ascension 052)]]
+[[it:Mega Gyarados-ex (Mega Ascesa 52)]]
+[[ja:メガギャラドスex (ポケポケ B1)]]
+[[zh:超级暴鲤龙ex（B1）]]

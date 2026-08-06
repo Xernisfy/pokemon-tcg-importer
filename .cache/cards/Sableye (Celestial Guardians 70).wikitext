@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sableye
+|ja name=ヤミラミ
+|trans name=Yamirami
+|species=Sableye
+|type=Psychic
+|image=SableyeCelestialGuardians70.png
+|illustrator=Aya Kusube
+|hp=80
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=070/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Sableye''' (Japanese: '''ヤミラミ''' ''Yamirami'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Corner
+|jname=おいつめる
+|jtrans=Corner
+|damage=40
+|effect=During your opponent's next turn, the Defending Pokémon can't retreat.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Sableye
+|species=Darkness
+|ndex=0302
+|height=1'8"
+|jheight=0.5
+|weight=24.3
+|jweight=11.0
+|dex=It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.
+|jdex=暗い 洞窟に 棲み処を 作り 鋭い ツメを 使って 宝石を 掘り出しては 食べる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Guardians Rising|Sableye|80}} from the {{TCG|Guardians Rising}} expansion.
+*'''Corner''' is an attack that first appeared on {{TCG ID|Neo Destiny|Houndour|43}} from the {{TCG|Neo Destiny}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zobiris (Hüter des Firmaments 070)]]
+[[es:Sableye (Guardianes Celestiales TCG Pocket)]]
+[[fr:Ténéfix (Gardiens Astraux 070)]]
+[[it:Sableye (Guardiani Astrali 70)]]
+[[ja:ヤミラミ (ポケポケ A3)]]
+[[zh:勾魂眼（A3）]]

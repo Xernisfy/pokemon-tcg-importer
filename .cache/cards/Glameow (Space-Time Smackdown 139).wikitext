@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Glameow
+|ja name=ニャルマー
+|trans name=Nyarmar
+|species=Glameow
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GlameowSpace-TimeSmackdown139.png|illustrator=sowsow|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GlameowSpace-TimeSmackdown178.png|illustrator=matazo|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=139/155|pack=Palkia|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=178/155|pack=Palkia|rarity=Star|rarity count=1}}
+}}
+
+'''Glameow''' (Japanese: '''ニャルマー''' ''Nyarmar'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Pose
+|jname=きどる
+|jtrans=Pretend
+|damage=40
+|effect=Flip a coin. If tails, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Glameow
+|species=Catty
+|ndex=0431
+|height=1'8"
+|jheight=0.5
+|weight=8.6
+|jweight=3.9
+|dex=It claws if displeased and purrs when affectionate. Its fickleness is very popular among some.
+|jdex=気に入らないと ツメを 立てるが たまに のどを 鳴らして 甘える 性格が 一部に 大人気だ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=GlameowSpace-TimeSmackdown139.png
+|caption1=Common card<br>Illus. [[sowsow]]
+|image2=GlameowSpace-TimeSmackdown178.png
+|caption2=Illustration rare card<br>Illus. [[matazo]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Unbroken Bonds|Glameow|159}} from the {{TCG|Unbroken Bonds}} expansion.
+*'''Pose''' is an attack that first appeared on {{TCG ID|Diamond & Pearl|Glameow|83}} from the {{TCG|Diamond & Pearl}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Charmian (Kollision von Raum und Zeit 139)]]
+[[es:Glameow (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Chaglam (Choc Spatio-Temporel 139)]]
+[[it:Glameow (Scontro Spaziotemporale 139)]]
+[[ja:ニャルマー (ポケポケ A2)]]
+[[zh:魅力喵（A2）]]

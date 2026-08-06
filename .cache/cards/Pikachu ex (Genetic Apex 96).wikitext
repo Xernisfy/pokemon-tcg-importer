@@ -1,0 +1,83 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pikachu {{TCGP Icon|ex}}
+|ja name=ピカチュウ{{TCGP Icon|ex}}
+|trans name=Pikachu {{TCGP Icon|ex}}
+|species=Pikachu
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PikachuexGeneticApex96.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PikachuexGeneticApex259.png|illustrator=PLANETA CG Works|tab caption=Super Rare (A1)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PikachuexDeluxePackex364.png|illustrator=5ban Graphics|tab caption=Super Rare (A4b)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PikachuexGeneticApex281.png|illustrator=Ryota Murayama|tab caption=Immersive (A1)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PikachuexDeluxePackex376.png|illustrator=kantaro|tab caption=Immersive (A4b)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PikachuexGeneticApex285.png|illustrator=PLANETA CG Works|tab caption=Ultra Rare}}
+|hp=120
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=096/226|pack=Pikachu|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=259/226|pack=Pikachu|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=281/226|pack=Pikachu|rarity=Star|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=285/226|pack=Any|rarity=Crown}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=131/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=364/353|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=376/353|pack=Any|rarity=Star|rarity count=3}}
+}}
+
+'''Pikachu ex''' (Japanese: '''ピカチュウex''' ''Pikachu ex'') is a {{ct|Lightning}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Circle Circuit
+|jname=エレキサークル
+|jtrans=Elec-Circle
+|damage=30×
+|effect=This attack does 30 damage for each of your Benched {{e|Lightning}} Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Lightning
+|ndex=0025
+|name=Pikachu
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=PikachuexGeneticApex96.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=PikachuexGeneticApex259.png
+|caption2=Super rare card<br>({{TCGP|Genetic Apex}})<br>Illus. [[PLANETA CG Works]]
+|image3=PikachuexGeneticApex281.png
+|caption3={{TCGP|Immersive card}}<br>(Genetic Apex)<br>Illus. [[Ryota Murayama]]
+|image4=PikachuexGeneticApex285.png
+|caption4=Ultra rare card<br>Illus. [[PLANETA CG Works]]
+|image5=PikachuexDeluxePackex364.png
+|caption5=Super rare card<br>({{TCGP|Deluxe Pack: ex}})<br>Illus. [[5ban Graphics]]
+|image6=PikachuexDeluxePackex376.png
+|caption6=Immersive card<br>(Deluxe Pack: ex)<br>Illus. [[kantaro]]
+}}
+
+==Trivia==
+* This card's immersive illustration from {{TCGP|Genetic Apex}} includes {{p|Caterpie}}, {{p|Butterfree}}, {{p|Weedle}}, {{p|Pidgey}}, {{p|Pikachu}}, {{p|Nidoran♀}}, {{p|Nidoran♂}}, {{p|Oddish}}, {{p|Poliwag}}, and {{p|Ponyta}}.
+* This card's immersive illustration from {{TCGP|Deluxe Pack: ex}} includes Pokémon appearing on the booster packs of [[List of Pokémon Trading Card Game Pocket expansions|previous expansions]]: {{p|Mewtwo}}, {{p|Charizard}}, {{p|Pikachu}} (Genetic Apex); {{p|Mew}} ({{TCGP|Mythical Island}}); {{p|Dialga}}, {{p|Palkia}} ({{TCGP|Space-Time Smackdown}}); {{p|Arceus}} ({{TCGP|Triumphant Light}}); {{Shiny}} {{p|Beedrill}}, Shiny {{p|Pachirisu}}, Shiny {{p|Lucario}}, Shiny {{p|Varoom}} ({{TCGP|Shining Revelry}}); {{p|Solgaleo}}, {{p|Lunala}} ({{TCGP|Celestial Guardians}}); {{p|Nihilego}}, {{p|Buzzwole}}, {{p|Guzzlord}}, {{p|Blacephalon}} ({{TCGP|Extradimensional Crisis}}); {{p|Eevee}}, {{p|Vaporeon}}, {{p|Jolteon}}, {{p|Flareon}}, {{p|Espeon}}, {{p|Umbreon}}, {{p|Leafeon}}, {{p|Glaceon}}, {{p|Sylveon}} ({{TCGP|Eevee Grove}}); {{p|Ho-Oh}}, {{p|Lugia}} ({{TCGP|Wisdom of Sea and Sky}}); and {{p|Suicune}} ({{TCGP|Secluded Springs}}).
+* This is the first card in [[Pokémon Trading Card Game Pocket]] to have multiple immersive prints.
+
+===Origin===
+*'''Circle Circuit''' is an attack that first appeared on {{TCG ID|XY|Raichu|43}} from the {{TCG|XY}} expansion. The only other TCG card with Circle Circuit is {{TCG ID|SWSH Promo|Pikachu V|63}}, one of the {{TCG|SWSH Black Star Promos}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pikachu-ex (Unschlagbare Gene 096)]]
+[[es:Pikachu ex (Genes Formidables TCG Pocket)]]
+[[fr:Pikachu-ex (Puissance Génétique 096)]]
+[[it:Pikachu-ex (Geni Supremi 96)]]
+[[ja:ピカチュウex (ポケポケ A1)]]
+[[zh:皮卡丘ex（A1）]]

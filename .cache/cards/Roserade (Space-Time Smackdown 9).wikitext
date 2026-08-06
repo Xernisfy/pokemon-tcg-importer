@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Roserade
+|ja name=ロズレイド
+|trans name=Roserade
+|species=Roserade
+|type=Grass
+|image=RoseradeSpace-TimeSmackdown9.png
+|illustrator=Masakazu Fukuda
+|hp=100
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Roselia
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=009/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Roserade''' (Japanese: '''ロズレイド''' ''Roserade'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Poisonous Whip
+|jname=どくのムチ
+|jtrans=Poison Whip
+|damage=50
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Roserade
+|species=Bouquet
+|ndex=0407
+|height=2'11"
+|jheight=0.9
+|weight=32
+|jweight=14.5
+|dex=After captivating opponents with its sweet scent, it lashes them with its thorny whips.
+|jdex=かぐわしい 花の 香りで 相手を 惑わせ いばらの ムチで 激しく 打ちつける。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Wild Blaze|Roserade|9}} from the {{TCG|Flashfire}} expansion.
+*'''Poisonous Whip''' is an attack that first appeared as '''Poison Whip''' on {{TCG ID|Pokémon Web|Tangela|5}} from {{vg|Pokémon Trading Card Game}} for the [[Game Boy Color]].
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Roserade (Kollision von Raum und Zeit 009)]]
+[[es:Roserade (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Roserade (Choc Spatio-Temporel 009)]]
+[[it:Roserade (Scontro Spaziotemporale 9)]]
+[[ja:ロズレイド (ポケポケ A2)]]
+[[zh:罗丝雷朵（A2）]]

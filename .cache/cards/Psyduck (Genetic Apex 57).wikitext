@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Psyduck
+|ja name=コダック
+|trans name=Koduck
+|species=Psyduck
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PsyduckGeneticApex57.png|illustrator=Shibuzoh.|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PsyduckSecludedSprings93.png|illustrator=Scav|tab caption=Shiny Rare}}
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=057/226|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=093/071|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Psyduck''' (Japanese: '''コダック''' ''Koduck'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Colorless}}
+|name=Headache
+|jname=ずつう
+|jtrans=Headache
+|damage=10
+|effect=Your opponent can't use any {{TCGP|Supporter card}}s from their hand during their next turn.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Psyduck
+|species=Duck
+|ndex=0054
+|height=2'7"
+|jheight=0.8
+|weight=43.2
+|jweight=19.6
+|dex=It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.
+|jdex=いつも　頭痛に　悩まされている｡ この　頭痛が　激しくなると 不思議な　力を　使いはじめる｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=PsyduckGeneticApex57.png
+|caption1=Common card<br>Illus. [[Shibuzoh.]]
+|image2=PsyduckSecludedSprings93.png
+|caption2=Shiny rare card<br>Illus. [[Scav]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare print features a {{Shiny}} {{p|Psyduck}}.
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Psyduck|28}} from the {{TCG|Sun & Moon}} expansion.
+*'''Headache''' is an attack that first appeared on {{TCG ID|Fossil|Psyduck|53}} from the {{TCG|Fossil}} expansion. It has only ever been featured on {{TCG|Psyduck}} cards.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Enton (Unschlagbare Gene 057)]]
+[[es:Psyduck (Genes Formidables TCG Pocket)]]
+[[fr:Psykokwak (Puissance Génétique 057)]]
+[[it:Psyduck (Geni Supremi 57)]]
+[[ja:コダック (ポケポケ A1)]]
+[[zh:可达鸭（A1）]]

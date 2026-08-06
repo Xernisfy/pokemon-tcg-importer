@@ -1,0 +1,57 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Quick-Grow Extract
+|ja name=そうじゅくエキス
+|trans name=Precocious Extract
+|subtype=Item
+|image set={{TCG Card Infobox/Tabbed Image/Pocket|image=Quick-GrowExtractCrimsonBlaze67.png
+|illustrator=Studio Bora Inc.
+|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=Quick-GrowExtractCrimsonBlaze103.png|illustrator=Studio Bora Inc.|tab caption=Ultra Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=067/069}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Crown|rarity count=1|number=103/069}}
+}}
+
+'''Quick-Grow Extract''' (Japanese: '''そうじゅくエキス''' ''Precocious Extract'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Choose 1 of your {{e|Grass}} Pokémon in play. Put a random {{e|Grass}} Pokémon from your deck that evolves from that Pokémon onto that Pokémon to evolve it. You can't use this card during your first turn or on a Pokémon that was put into play this turn.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Item
+|image1=Quick-GrowExtractCrimsonBlaze67.png
+|caption1=Uncommon card<br>Illus. [[Studio Bora Inc.]]
+|image2=Quick-GrowExtractCrimsonBlaze103.png
+|caption2=Ultra rare card<br>Illus. [[Studio Bora Inc.]]
+}}
+
+==Trivia==
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=そうじゅくエキス ''Sōjuku Ekisu''
+|zh_yue=早熟精華 ''Jóusuhk Jīngwàh''
+|zh_cmn=早熟精華 ''Zǎoshóu Jīnghuá''
+|fr=Extrait de Croissance
+|de=Wachstumsextrakt
+|it=Fialetta di Fertilizzante
+|ko=조숙엑기스 ''Josuk Ekkiseu''
+|pt_br=Extrato de Adubo
+|es=Extracto de Maduración
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wachstumsextrakt (TCG Pocket)]]
+[[fr:Extrait de Croissance (Embrasement Écarlate 067)]]
+[[it:Fialetta di Fertilizzante (Fiamme Cremisi 67)]]
+[[ja:そうじゅくエキス]]
+[[zh:早熟精华（TCGP）]]

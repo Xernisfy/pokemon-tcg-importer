@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tatsugiri
+|ja name=シャリタツ
+|trans name=Syaritatsu
+|species=Tatsugiri
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TatsugiriPaldeanWonders33.png|illustrator=OKACHEKE|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TatsugiriPromo-B36.png|illustrator=Shibuzoh.|tab caption=Promo}}
+|hp=70
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=033/093|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=036/P-B|pack=Vol. 5}}
+}}
+
+'''Tatsugiri''' (Japanese: '''シャリタツ''' ''Syaritatsu'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Rally Back
+|jname=まきかえす
+|jtrans=Rally
+|damage=20+
+|effect=If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Tatsugiri
+|category=Mimicry
+|ndex=0978
+|height=1'
+|jheight=0.3
+|weight=17.6
+|jweight=8.0
+|dex=Tatsugiri is an extremely cunning Pokémon. It feigns weakness to lure in prey, then orders its partner to attack.
+|jdex=非常に 悪賢い ポケモン。 弱ったふりで 獲物を おびき寄せ 仲間の ポケモンに 襲わせる。
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} print of this card was one of five cards that could be pulled from Promo-B Vol. 5 packs; these were made available as part of the [[Charcadet Drop Event]], which ran from March 11 to 21, 2026.
+
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=TatsugiriPaldeanWonders33.png
+|caption1=Uncommon card<br>Illus. [[OKACHEKE]]
+|image2=TatsugiriPromo-B36.png
+|caption2=Promo card<br>Illus. [[Shibuzoh.]]
+}}
+
+==Trivia==
+===Origin===
+*This card features a {{form|Tatsugiri|Curly Form}} {{p|Tatsugiri}} in both of its illustrations.
+*This card's {{TCGP|Paldean Wonders}} illustration was first featured on {{TCG ID|Scarlet & Violet|Tatsugiri|62}} from the {{TCG|Scarlet & Violet}} expansion.
+*This card's {{TCGP|Promo-B}} illustration was first featured on {{TCG ID|Paradox Rift|Tatsugiri|141}} from the {{TCG|Paradox Rift}} expansion.
+*'''Rally Back''' is an attack that first appeared on {{TCG ID|Shining Legends|Shaymin|7}} from the {{TCG|Shining Legends}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Nigiragi (Wundervolles Paldea 033)]]
+[[fr:Nigirigon (Merveilles de Paldea 033)]]
+[[it:Tatsugiri (Meraviglie di Paldea 33)]]
+[[ja:シャリタツ (ポケポケ B2a)]]
+[[zh:米立龙（B2a）]]

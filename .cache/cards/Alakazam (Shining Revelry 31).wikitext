@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alakazam
+|ja name=フーディン
+|trans name=Foodin
+|species=Alakazam
+|type=Psychic
+|image=AlakazamShiningRevelry31.png
+|illustrator=Mousho
+|hp=130
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Kadabra
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=031/072|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Alakazam''' (Japanese: '''フーディン''' ''Foodin'') is a {{ct|Psychic}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Psychic Suppression
+|jname=サイコサプレッション
+|jtrans=Psycho Suppression
+|damage=80
+|effect=This attack also does 20 damage to each of your opponent's Benched Pokémon that has any Energy attached.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Alakazam
+|category=Psi 
+|ndex=0065
+|height=4'11"
+|jheight=1.5
+|weight=105.8
+|jweight=48.0
+|dex=It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death.
+|jdex=非常に　高い　知能を　持つ｡ 生まれてから　死ぬまでの　できごとを すべて　覚えている　という｡
+}}
+
+==Trivia==
+===Origin===
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Simsala (Glänzendes Festival 031)]]
+[[es:Alakazam (Festival Brillante TCG Pocket)]]
+[[fr:Alakazam (Réjouissances Rayonnantes 031)]]
+[[it:Alakazam (Tripudio Splendente 31)]]
+[[ja:フーディン (ポケポケ A2b)]]
+[[zh:胡地（A2b）]]

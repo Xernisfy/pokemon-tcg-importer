@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Lana
+|ja name=スイレン
+|trans name=Suiren
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LanaCelestialGuardians152.png|illustrator=Yuu Nishida|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LanaCelestialGuardians194.png|illustrator=Yuu Nishida|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=152/155|pack=Solgaleo|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=194/155|pack=Solgaleo|rarity=Star|rarity count=2}}
+}}
+
+'''Lana''' (Japanese: '''スイレン''' ''Suiren'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=You can use this card only if you have {{TCGP|Araquanid}} in play.
+Switch in 1 of your opponent's Benched Pokémon to the Active Spot.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=LanaCelestialGuardians152.png
+|caption1=Uncommon card<br>Illus. [[Yuu Nishida]]
+|image2=LanaCelestialGuardians194.png
+|caption2=Super rare card<br>Illus. [[Yuu Nishida]]
+}}
+
+==Trivia==
+* {{TCG|Lana}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Lana]] is a [[Trial Captain|captain]] in the [[Generation VII]] [[Pokémon games]]. The [[Brooklet Hill]] Totem's Den is featured in the uncommon illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=スイレン ''Suiren''
+|zh_yue=水蓮 ''Séuilìhn''
+|zh_cmn=水蓮<!-- / 水莲--> ''Shuǐlián''
+|fr=Néphie
+|de=Tracy
+|it=Suiren
+|ko=수련 ''Suryeon''
+|pt_br=Vitória
+|es=Capitana Nereida
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tracy (TCG Pocket)]]
+[[es:Capitana Nereida (TCG Pocket)]]
+[[fr:Néphie (Gardiens Astraux 152)]]
+[[it:Suiren (Guardiani Astrali 152)]]
+[[ja:スイレン (ポケポケ)]]
+[[zh:水莲（TCGP）]]

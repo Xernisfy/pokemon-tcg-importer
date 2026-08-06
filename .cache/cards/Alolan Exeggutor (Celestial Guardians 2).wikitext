@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Exeggutor
+|ja name=アローラナッシー
+|trans name=Alolan Nassy
+|species=Exeggutor
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanExeggutorCelestialGuardians2.png|illustrator=Anesaki Dynamic|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanExeggutorCelestialGuardians156.png|illustrator=Saboteri|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanExeggutorPromo-A69.png|illustrator=Satoshi Shirai|tab caption=Promo}}
+|hp=150
+|weakness=Fire
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Exeggcute
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=002/155|pack=Lunala|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=156/155|pack=Lunala|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=069/P-A|pack=Vol. 8}}
+}}
+
+'''Alolan Exeggutor''' (Japanese: '''アローラナッシー''' ''Alolan Nassy'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}{{e|Colorless}}
+|name=Tropical Hammer
+|jname=トロピカルハンマー
+|jtrans=Tropical Hammer
+|damage=150
+|effect=Flip a coin. If tails, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Exeggutor
+|category=Coconut 
+|ndex=0103
+|height=35'9"
+|jheight=10.9
+|weight=916.2
+|jweight=415.6
+|dex=Blazing sunlight has brought out the true form and powers of this Pokémon.
+|jdex=ギラギラと 照りつける 太陽の 光を 浴びた 結果 本来の 姿と 能力が 目覚めた。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of five cards that could be pulled from Promo-A Vol. 8 packs; these were made available as part of the [[Alolan Ninetales Drop Event]], which ran from May 16 to 26, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=AlolanExeggutorCelestialGuardians2.png
+|caption1=Rare card<br>Illus. [[Anesaki Dynamic]]
+|image2=AlolanExeggutorCelestialGuardians156.png
+|caption2=Illustration rare card<br>Illus. [[Saboteri]]
+|image3=AlolanExeggutorPromo-A69.png
+|caption3=Promo card<br>Illus. [[Satoshi Shirai]]
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Exeggutor}}.
+*This card's standard illustration was first featured on {{TCG ID|Team Up|Alolan Exeggutor|114}} from the {{TCG|Team Up}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Forbidden Light|Alolan Exeggutor|2}} from the {{TCG|Forbidden Light}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Kokowei (Hüter des Firmaments 002)]]
+[[es:Exeggutor de Alola (Guardianes Celestiales TCG Pocket)]]
+[[fr:Noadkoko d'Alola (Gardiens Astraux 002)]]
+[[it:Exeggutor di Alola (Guardiani Astrali 2)]]
+[[ja:アローラナッシー (ポケポケ A3)]]
+[[zh:阿罗拉 椰蛋树（A3）]]

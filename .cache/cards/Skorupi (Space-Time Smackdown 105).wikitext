@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Skorupi
+|ja name=スコルピ
+|trans name=Scorupi
+|species=Skorupi
+|type=Darkness
+|image=SkorupiSpace-TimeSmackdown105.png
+|illustrator=Naoki Saito
+|hp=70
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=105/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Skorupi''' (Japanese: '''スコルピ''' ''Scorupi'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}
+|name=Pierce
+|jname=つきさす
+|jtrans=Pierce
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Skorupi
+|species=Scorpion
+|ndex=0451
+|height=2'7"
+|jheight=0.8
+|weight=26.5
+|jweight=12.0
+|dex=After burrowing into the sand, it waits patiently for prey to come near. This Pokémon and Sizzlipede share common descent.
+|jdex=砂に 体を 埋め じっと 獲物を 待ち続けている。 ヤクデと 祖先が 近い。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Furious Fists|Skorupi|38}} from the {{TCG|Furious Fists}} expansion.
+*'''Pierce''' is an attack that first appeared on {{TCG ID|EX Sandstorm|Kabuto|39}} and {{TCG ID|EX Sandstorm|Anorith|27}}, both from the {{TCG|EX Sandstorm}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pionskora (Kollision von Raum und Zeit 105)]]
+[[es:Skorupi (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Rapion (Choc Spatio-Temporel 105)]]
+[[it:Skorupi (Scontro Spaziotemporale 105)]]
+[[ja:スコルピ (ポケポケ A2)]]
+[[zh:钳尾蝎（A2）]]

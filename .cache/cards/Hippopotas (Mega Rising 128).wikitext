@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hippopotas
+|ja name=ヒポポタス
+|trans name=Hippopotas
+|species=Hippopotas
+|type=Fighting
+|image=HippopotasMegaRising128.png
+|illustrator=Yuya Oka
+|hp=80
+|weakness=Grass
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=128/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+}}
+
+'''Hippopotas''' (Japanese: '''ヒポポタス''' ''Hippopotas'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}
+|name=Mud Shot
+|jname=マッドショット
+|jtrans=Mud Shot
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Hippopotas
+|category=Hippo
+|ndex=0449
+|height=2'7"
+|jheight=0.8
+|weight=109.1
+|jweight=49.5
+|dex=It shrouds itself in sand to ward off germs. It travels easily through the sands of the desert.
+|jdex=砂で 体を 覆うことで ばい菌から 身を 守る。 砂漠の 砂の 中を 移動。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Evolving Skies|Hippopotas|84}} from the {{TCG|Evolving Skies}} expansion; both cards have the Mud Shot attack.
+*{{m|Mud Shot}} is a [[move]] in the [[Pokémon games]] that {{p|Hippopotas}} can learn. 
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hippopotas (Mega-Aufstieg 128)]]
+[[es:Hippopotas (Megaascenso TCG Pocket)]]
+[[fr:Hippopotas (Méga-Ascension 128)]]
+[[it:Hippopotas (Mega Ascesa 128)]]
+[[ja:ヒポポタス (ポケポケ B1)]]
+[[zh:沙河马（B1）]]

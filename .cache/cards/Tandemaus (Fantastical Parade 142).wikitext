@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tandemaus
+|ja name=ワッカネズミ
+|trans name=Wakkanezumi
+|species=Tandemaus
+|type=Colorless
+|image=TandemausFantasticalParade142.png
+|illustrator=Shimaris Yukichi
+|hp=40
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=142/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Tandemaus''' (Japanese: '''ワッカネズミ''' ''Wakkanezumi'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Flock
+|jname=むれる
+|jtrans=Swarm
+|damage=
+|effect=Put 3 random cards from among {{TCG|Tandemaus}} and {{TCG|Maushold}} from your deck onto your Bench.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Tandemaus
+|species=Couple
+|ndex=0924
+|height=1'
+|jheight=0.3
+|weight=4
+|jweight=1.8
+|dex=The pair sticks together no matter what. They split any food they find exactly in half and then eat it together.
+|jdex=どんなときでも ２匹は 一緒。 見つけた エサは ぴったりと 半分こして 仲良く 食べる。
+}}
+
+==Trivia==
+===Origin===
+*'''Flock''' is an attack that first appeared as '''Swarm''' on {{TCG ID|Mysterious Treasures|Murkrow|90}} from the {{TCG|Mysterious Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zwieps (Traumhafte Parade 142)]]
+[[fr:Compagnol (Parade Onirique 142)]]
+[[it:Tandemaus (Parata Fantasmagorica 142)]]
+[[ja:ワッカネズミ (ポケポケ B2)]]
+[[zh:一对鼠（B2）]]

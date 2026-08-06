@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Electabuzz
+|ja name=エレブー
+|trans name=Eleboo
+|species=Electabuzz
+|type=Lightning
+|image=ElectabuzzSpace-TimeSmackdown56.png
+|illustrator=Shin Nagasawa
+|hp=80
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=056/155|pack=Dialga|rarity=Diamond|rarity count=1}}
+}}
+
+'''Electabuzz''' (Japanese: '''エレブー''' ''Eleboo'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Charge
+|jname=じゅうでん
+|jtrans=Charge
+|damage=
+|effect=Take a {{e|Lightning}} Energy from your Energy Zone and attach it to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Electabuzz
+|species=Electric
+|ndex=0125
+|height=3'7"
+|jheight=1.1
+|weight=66.1
+|jweight=30.0
+|dex=Many power plants keep Ground-type Pokémon around as a defense against Electabuzz that come seeking electricity.
+|jdex=電気を　狙う　エレブーの　対策に じめんポケモンを　置く 発電所は　多い｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BREAKpoint|Electabuzz|42}} from the {{TCG|BREAKpoint}} expansion.
+*{{m|Charge}} is a [[move]] in the [[Pokémon games]] that {{p|Electabuzz}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Elektek (Kollision von Raum und Zeit 056)]]
+[[es:Electabuzz (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Élektek (Choc Spatio-Temporel 056)]]
+[[it:Electabuzz (Scontro Spaziotemporale 56)]]
+[[ja:エレブー (ポケポケ A2)]]
+[[zh:电击兽（A2）]]

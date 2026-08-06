@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Jynx
+|ja name=ルージュラ
+|trans name=Rougela
+|species=Jynx
+|type=Water
+|image=JynxSecludedSprings19.png
+|illustrator=Yukiko Baba
+|hp=70
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=019/071|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Jynx''' (Japanese: '''ルージュラ''' ''Rougela'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Dazzle Dance
+|jname=げんわくダンス
+|jtrans=Dazzling Dance
+|damage=40
+|effect=Your opponent's Active Pokémon is now {{TCG|Confused}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Jynx
+|category=Human Shape 
+|ndex=0124
+|height=4'7"
+|jheight=1.4
+|weight=89.5
+|jweight=40.6
+|dex=Its strange cries sound like human language. There are some musicians who compose songs for Jynx to sing.
+|jdex=人間の 言葉のような 不思議な 鳴き声。 ルージュラに 歌わせる 曲を 作る 音楽家もいる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Unseen Forces|Jynx|28}} from the {{TCG|EX Unseen Forces}} expansion.
+*'''Dazzle Dance''' is an attack that first appeared on {{TCG ID|EX Ruby & Sapphire|Kirlia|35}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rossana (Verborgene Quelle 019)]]
+[[es:Jynx (Manantial Oculto TCG Pocket)]]
+[[fr:Lippoutou (Source Secrète 019)]]
+[[it:Jynx (Sorgenti Recondite 19)]]
+[[ja:ルージュラ (ポケポケ A4a)]]
+[[zh:迷唇姐（A4a）]]

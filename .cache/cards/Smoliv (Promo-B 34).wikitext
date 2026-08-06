@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Smoliv
+|ja name=ミニーブ
+|trans name=Minive
+|species=Smoliv
+|type=Grass
+|image=SmolivPromo-B34.png
+|illustrator=Shibuzoh.
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=034/P-B|pack=Vol. 5}}
+}}
+
+'''Smoliv''' (Japanese: '''ミニーブ''' ''Minive'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-B}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Nutrients
+|jname=えいようそ
+|jtrans=Nutrients
+|damage=
+|effect=Heal 20 damage from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Smoliv
+|category=Olive 
+|ndex=0928
+|height=1'
+|jheight=0.3
+|weight=14.3
+|jweight=6.5
+|dex=This Pokémon converts nutrients into oil, which it stores in the fruit on its head. It can easily go a whole week without eating or drinking.
+|jdex=栄養を オイルにして 頭の 実に 蓄える。 飲まず食わずでも 1週間は へっちゃら。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-B Vol. 5 packs; these were made available as part of the [[Charcadet Drop Event]], which ran from March 11 to 21, 2026.
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Smoliv|21}} from the {{TCG|Scarlet & Violet}} expansion.
+**Both cards feature the '''Nutrients''' attack.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Olini (PROMO-B 034)]]
+[[fr:Olivini (Promo-B 034)]]
+[[it:Smoliv (Promo-B 34)]]
+[[ja:ミニーブ (ポケポケ P-B)]]

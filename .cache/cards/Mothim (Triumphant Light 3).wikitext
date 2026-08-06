@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mothim
+|ja name=ガーメイル
+|trans name=Gamale
+|species=Mothim
+|type=Grass
+|image=MothimTriumphantLight3.png
+|illustrator=MAHOU
+|hp=90
+|weakness=Lightning
+|retreat cost=0
+|evo stage=Stage 1
+|prevo name=Burmy
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=003/075|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Mothim''' (Japanese: '''ガーメイル''' ''Gamale'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Gust
+|jname=かぜおこし
+|jtrans=Stir Up Wind
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Mothim
+|species=Moth
+|ndex=0414
+|height=2'11"
+|jheight=0.9
+|weight=51.4
+|jweight=23.3
+|dex=It loves the honey of flowers and steals honey collected by Combee.
+|jdex=はなの ミツが だいすき。 ミツハニーの あつめた ミツを よこどりして たべてしまう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fates Collide|Mothim|4}} from the {{TCG|Fates Collide}} expansion; both cards have the Gust attack.
+*{{m|Gust}} is a [[move]] in the [[Pokémon games]] that {{p|Mothim}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Moterpel (Licht des Triumphs 003)]]
+[[es:Mothim (Luz Triunfal TCG Pocket)]]
+[[fr:Papilord (Lumière Triomphale 003)]]
+[[it:Mothim (Luce Trionfale 3)]]
+[[ja:ガーメイル (ポケポケ A2a)]]
+[[zh:紳士蛾（A2a）]]

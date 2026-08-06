@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Spritzee
+|ja name=シュシュプ
+|trans name=Shushupu
+|species=Spritzee
+|type=Psychic
+|image=SpritzeeCrimsonBlaze35.png
+|illustrator=Tika Matsuno
+|hp=60
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=035/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Spritzee''' (Japanese: '''シュシュプ''' ''Shushupu'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Sweet Scent
+|jname=あまいかおり
+|jtrans=Sweet Scent
+|damage=
+|effect=Heal 20 damage from 1 of your Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Spritzee
+|species=Perfume
+|ndex=0682
+|height=8"
+|jheight=0.2
+|weight=1.1
+|jweight=0.5
+|dex=The scent its body gives off enraptures those who smell it. Noble ladies had no shortage of love for Spritzee.
+|jdex=人を 魅了する 香しい においを 体から 漂わせる。 高貴な 婦人たちに 愛された。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Sweet Scent}} is a [[move]] in the [[Pokémon games]] that {{p|Spritzee}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Parfi (Feuerrote Flammen 035)]]
+[[fr:Fluvetin (Embrasement Écarlate 035)]]
+[[it:Spritzee (Fiamme Cremisi 35)]]
+[[ja:シュシュプ (ポケポケ B1a)]]
+[[zh:粉香香（B1a）]]

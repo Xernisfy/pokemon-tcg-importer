@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gloom
+|ja name=クサイハナ
+|trans name=Kusaihana
+|species=Gloom
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GloomGeneticApex12.png|illustrator=Anesaki Dynamic|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GloomGeneticApex228.png|illustrator=OKACHEKE|tab caption=Illustration Rare}}
+|hp=80
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Oddish
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=012/226|pack=Charizard|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=228/226|pack=Charizard|rarity=Star|rarity count=1}}
+}}
+
+'''Gloom''' (Japanese: '''クサイハナ''' ''Kusaihana'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Drool
+|jname=よだれ
+|jtrans=Drool
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Gloom
+|species=Weed
+|ndex=0044
+|height=2'7"
+|jheight=0.8
+|weight=19
+|jweight=8.6
+|dex=Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.
+|jdex=めしべが　放つ　とてつもなく 臭い　においは　２キロ先まで とどき　気を　失わせる｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=GloomGeneticApex12.png
+|caption1=Uncommon card<br>Illus. [[Anesaki Dynamic]]
+|image2=GloomGeneticApex228.png
+|caption2=Illustration rare card<br>Illus. [[OKACHEKE]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Unbroken Bonds|Gloom|7}} from the {{TCG|Unbroken Bonds}} expansion.
+**Both cards have the '''Drool''' attack, which first appeared on {{TCG ID|Gym Heroes|Erika's Weepinbell|48}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Duflor (Unschlagbare Gene 012)]]
+[[es:Gloom (Genes Formidables TCG Pocket)]]
+[[fr:Ortide (Puissance Génétique 012)]]
+[[it:Gloom (Geni Supremi 12)]]
+[[ja:クサイハナ (ポケポケ A1)]]
+[[zh:臭臭花（A1）]]

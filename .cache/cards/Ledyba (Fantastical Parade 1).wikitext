@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ledyba
+|ja name=レディバ
+|trans name=Rediba
+|species=Ledyba
+|type=Grass
+|image=LedybaFantasticalParade1.png
+|illustrator=Yuka Morii
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=001/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Ledyba''' (Japanese: '''レディバ''' ''Rediba'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Punch
+|jname=パンチ
+|jtrans=Punch
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Ledyba
+|species=Five Star
+|ndex=0165
+|height=3'3"
+|jheight=1.0
+|weight=23.8
+|jweight=10.8
+|dex=These very cowardly Pokémon join together and use Reflect to protect their nest.
+|jdex=とっても 臆病な ポケモン。 仲間と 一緒に リフレクターを 張って 巣を 守って いるのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|HeartGold & SoulSilver|Ledyba|71}} from the {{TCG|HeartGold & SoulSilver}} expansion.
+*'''Punch''' is an attack that first appeared on {{TCG ID|Team Rocket|Machop|59}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ledyba (Traumhafte Parade 001)]]
+[[fr:Coxy (Parade Onirique 001)]]
+[[it:Ledyba (Parata Fantasmagorica 1)]]
+[[ja:レディバ (ポケポケ B2)]]
+[[zh:芭瓢虫（B2）]]

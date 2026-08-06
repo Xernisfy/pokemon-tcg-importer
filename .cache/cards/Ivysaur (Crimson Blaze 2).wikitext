@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ivysaur
+|ja name=フシギソウ
+|trans name=Fushigisou
+|species=Ivysaur
+|type=Grass
+|image=IvysaurCrimsonBlaze2.png
+|illustrator=Kanako Eo
+|hp=100
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Bulbasaur
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=002/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Ivysaur''' (Japanese: '''フシギソウ''' ''Fushigisou'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Synthesis
+|jname=こうごうせい
+|jtrans=Photosynthesis
+|damage=
+|effect=Take 2 {{e|Grass}} Energy from your Energy Zone and attach it to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Ivysaur
+|species=Seed
+|ndex=0002
+|height=3'3"
+|jheight=1.0
+|weight=28.7
+|jweight=13.0
+|dex=The more sunlight Ivysaur bathes in, the more strength wells up within it, allowing the bud on its back to grow larger.
+|jdex=太陽の 光を 浴びるほど 体に 力が わいて 背中の つぼみが 育っていく。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Supreme Victors|Ivysaur|62}} from the {{TCG|Supreme Victors}} expansion.
+*{{m|Synthesis}} is a [[move]] in the [[Pokémon games]] that {{p|Ivysaur}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bisaknosp (Feuerrote Flammen 002)]]
+[[es:Ivysaur (Fuego Carmesí TCG Pocket)]]
+[[fr:Herbizarre (Embrasement Écarlate 002)]]
+[[it:Ivysaur (Fiamme Cremisi 2)]]
+[[ja:フシギソウ (ポケポケ B1a)]]
+[[zh:妙蛙草（B1a）]]

@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Slugma
+|ja name=マグマッグ
+|trans name=Magmag
+|species=Slugma
+|type=Fire
+|image=SlugmaWisdomofSeaandSky30.png
+|illustrator=Mékayu
+|hp=70
+|weakness=Water
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=030/161|pack=Ho-Oh|rarity=Diamond|rarity count=1}}
+}}
+
+'''Slugma''' (Japanese: '''マグマッグ''' ''Magmag'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}
+|name=Stampede
+|jname=ふむ
+|jtrans=Step On
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Slugma
+|category=Lava
+|ndex=0218
+|height=2'4"
+|jheight=0.7
+|weight=77.2
+|jweight=35.0
+|dex=A common sight in volcanic areas, it slowly slithers around in a constant search for warm places.
+|jdex=火山地帯に 多く 発生。 暖かい ところを 探して のろのろ はいずり回っている。
+}}
+
+==Trivia==
+===Origin===
+*'''Stampede''' is an attack that first appeared on {{TCG ID|EX Ruby & Sapphire|Phanpy|62}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schneckmag (Weisheit von Meer und Himmel 030)]]
+[[es:Slugma (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Limagma (Sagesse entre Ciel et Mer 030)]]
+[[it:Slugma (La Via del Cielo e del Mare 30)]]
+[[ja:マグマッグ (ポケポケ A4)]]
+[[zh:熔岩虫（A4）]]

@@ -1,0 +1,69 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Conkeldurr
+|ja name=ローブシン
+|trans name=Roubushin
+|species=Conkeldurr
+|type=Fighting
+|image=ConkeldurrCelestialGuardians96.png
+|illustrator=kawayoo
+|hp=150
+|weakness=Psychic
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Gurdurr
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=096/155|pack=Lunala|rarity=Diamond|rarity count=3}}
+}}
+
+'''Conkeldurr''' (Japanese: '''ローブシン''' ''Roubushin'') is a {{ct|Fighting}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Ability/Pocket
+|type=Fighting
+|name=Guts
+|jname=こんじょう
+|jtrans=Guts
+|effect=If this Pokémon would be Knocked Out by damage from an attack, flip a coin. If heads, this Pokémon is not Knocked Out, and its remaining HP becomes 10.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}{{e|Colorless}}
+|name=Mega Punch
+|jname=メガトンパンチ
+|jtrans=Megaton Punch
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Conkeldurr
+|species=Muscular
+|ndex=0534
+|height=4'7"
+|jheight=1.4
+|weight=191.8
+|jweight=87.0
+|dex=Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same.
+|jdex=おなじ せいぶんでも ローブシンが まぜた コンクリートの ほうが ずっと かたく じょうぶだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Noble Victories|Conkeldurr|64}} from the {{TCG|Noble Victories}} expansion.
+*{{a|Guts}} is an [[Ability]] in the [[Pokémon games]] that {{p|Conkeldurr}} can have.
+*{{m|Mega Punch}} is a [[move]] in the [[Pokémon games]] that {{p|Conkeldurr}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Meistagrif (Hüter des Firmaments 096)]]
+[[es:Conkeldurr (Guardianes Celestiales TCG Pocket)]]
+[[fr:Bétochef (Gardiens Astraux 096)]]
+[[it:Conkeldurr (Guardiani Astrali 96)]]
+[[ja:ローブシン (ポケポケ A3)]]
+[[zh:修建老匠（A3）]]

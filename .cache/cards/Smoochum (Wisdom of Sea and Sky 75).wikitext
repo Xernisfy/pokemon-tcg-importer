@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Smoochum
+|ja name=ムチュール
+|trans name=Muchul
+|species=Smoochum
+|type=Psychic
+|image=SmoochumWisdomofSeaandSky75.png
+|illustrator=Sumiyoshi Kizuki
+|hp=30
+|weakness=
+|retreat cost=0
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=075/161|pack=Ho-Oh (Bonus)|rarity=Diamond|rarity count=3}}
+}}
+
+'''Smoochum''' (Japanese: '''ムチュール''' ''Muchul'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|None}}
+|name=Shivery Wave
+|jname=そわそわウェーブ
+|jtrans=Fidget Wave
+|damage=20×
+|effect=This attack does 20 damage for each Energy attached to your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Smoochum
+|category=Kiss 
+|ndex=0238
+|height=1'4"
+|jheight=0.4
+|weight=13.2
+|jweight=6.0
+|dex=If its face gets even slightly dirty, Smoochum will bathe immediately. But if its body gets dirty, Smoochum doesn't really seem to care.
+|jdex=ちょっとでも 顔が 汚れると 水浴び。 体の 汚れは あまり 気にしていないみたい。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|CoroCoro|Smoochum|promo}}, an {{TCG|Unnumbered Promotional cards|unnumbered promotional card}} only released in Japan.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kussilla (Weisheit von Meer und Himmel 075)]]
+[[es:Smoochum (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Lippouti (Sagesse entre Ciel et Mer 075)]]
+[[it:Smoochum (La Via del Cielo e del Mare 75)]]
+[[ja:ムチュール (ポケポケ A4)]]
+[[zh:迷唇娃（A4）]]

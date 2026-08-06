@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Kirlia
+|ja name=キルリア
+|trans name=Kirlia
+|species=Kirlia
+|type=Psychic
+|image=KirliaGeneticApex131.png
+|illustrator=sowsow
+|hp=80
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Ralts
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=131/226|pack=Mewtwo|rarity=Diamond|rarity count=2}}
+}}
+
+'''Kirlia''' (Japanese: '''キルリア''' ''Kirlia'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Smack
+|jname=ひらてうち
+|jtrans=Smack
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Kirlia
+|species=Emotion
+|ndex=0281
+|height=2'7"
+|jheight=0.8
+|weight=44.5
+|jweight=20.2
+|dex=It has a psychic power that enables it to distort the space around it and see into the future.
+|jdex=サイコパワーを　操り まわりの　空間を　ねじ曲げることで 未来を　見通すことができる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Kirlia|81}} from the {{TCG|Cosmic Eclipse}} expansion.
+*'''Smack''' is an attack that first appeared on {{TCG ID|EX Dragon Frontiers|Kirlia δ|33|Kirlia}} from the {{TCG|EX Dragon Frontiers}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kirlia (Unschlagbare Gene 131)]]
+[[es:Kirlia (Genes Formidables TCG Pocket)]]
+[[fr:Kirlia (Puissance Génétique 131)]]
+[[it:Kirlia (Geni Supremi 131)]]
+[[ja:キルリア (ポケポケ A1)]]
+[[zh:奇鲁莉安（A1）]]

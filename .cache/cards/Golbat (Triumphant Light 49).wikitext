@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Golbat
+|ja name=ゴルバット
+|trans name=Golbat
+|species=Golbat
+|type=Darkness
+|image=GolbatTriumphantLight49.png
+|illustrator=Kyoko Umemoto
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GolbatTriumphantLight49.png|illustrator=Kyoko Umemoto|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GolbatDeluxePackex229.png|illustrator=Kyoko Umemoto|tab caption=Parallel}}
+|hp=80
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Zubat
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=049/075|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=228/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=229/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Golbat''' (Japanese: '''ゴルバット''' ''Golbat'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Bite
+|jname=かみつく
+|jtrans=Bite
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Golbat
+|species=Bat
+|ndex=0042
+|height=5'3"
+|jheight=1.6
+|weight=121.3
+|jweight=55.0
+|dex=It loves to drink other creatures' blood. It's said that if it finds others of its kind going hungry, it sometimes shares the blood it's gathered.
+|jdex=生き物の　血液が　好物｡ 腹ペコの　仲間に　吸った　血を 分け与えることも　あるという｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=GolbatTriumphantLight49.png
+|caption1=Standard card<br>Illus. [[Kyoko Umemoto]]
+|image2=GolbatDeluxePackex229.png
+|caption2=Parallel foil card<br>Illus. [[Kyoko Umemoto]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Plasma Storm|Golbat|54}} from the {{TCG|Plasma Storm}} expansion.
+*{{m|Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Golbat}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Golbat (Licht des Triumphs 049)]]
+[[es:Golbat (Luz Triunfal TCG Pocket)]]
+[[fr:Nosferalto (Lumière Triomphale 049)]]
+[[it:Golbat (Luce Trionfale 49)]]
+[[ja:ゴルバット (ポケポケ A2a)]]
+[[zh:大嘴蝠（A2a）]]

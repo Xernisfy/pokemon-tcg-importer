@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Maushold
+|ja name=イッカネズミ
+|trans name=Ikkanezumi
+|species=Maushold
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MausholdPaldeanWonders82.png|illustrator=Saya Tsuruta|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MausholdPaldeanWonders99.png|illustrator=Mizue|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Tandemaus
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=082/093}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Star|rarity count=1|number=099/093}}
+}}
+
+'''Maushold''' (Japanese: '''イッカネズミ''' ''Ikkanezumi'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Triple Gnawing
+|jname=トリプルかじる
+|jtrans=Triple Gnaw
+|damage=60
+|effect=Flip 3 coins. For each heads, discard a random Energy from your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Maushold
+|category=Family 
+|ndex=0925
+|height=1'
+|jheight=0.3
+|weight=6.2
+|jweight=2.8
+|dex=The little one just appeared one day. They all live together like a family, but the relationship between the three is still unclear.
+|jdex=いつの間にか 子どもが 増えていた。 家族のように 暮らすが 3匹の 関係は 解明されていない。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=MausholdPaldeanWonders82.png
+|caption1=Uncommon card<br>Illus. [[Saya Tsuruta]]
+|image2=MausholdPaldeanWonders99.png
+|caption2=Illustration rare card<br>Illus. [[Mizue]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration features {{form|Maushold|Family of Three}} {{p|Maushold}}, while its illustration rare artwork features both Family of Three and Family of Four Maushold.
+*Both of this card's illustrations were first featured on {{TCG ID|Paldea Evolved|Maushold|168}} from the {{TCG|Paldea Evolved}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Famieps (Wundervolles Paldea 082)]]
+[[es:Maushold (Encantos de Paldea TCG Pocket)]]
+[[fr:Famignol (Merveilles de Paldea 082)]]
+[[it:Maushold (Meraviglie di Paldea 82)]]
+[[ja:イッカネズミ (ポケポケ B2a)]]
+[[zh:一家鼠（B2a）]]

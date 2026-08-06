@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hitmontop
+|ja name=カポエラー
+|trans name=Kapoerer
+|species=Hitmontop
+|type=Fighting
+|image=HitmontopWisdomofSeaandSky102.png
+|illustrator=Hisao Nakamura
+|hp=80
+|weakness=Psychic
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=102/161|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Hitmontop''' (Japanese: '''カポエラー''' ''Kapoerer'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Piercing Spin
+|jname=つきぬけスピン
+|jtrans=Piercing Spin
+|damage=20
+|effect=This attack also does 20 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Hitmontop
+|category=Handstand 
+|ndex=0237
+|height=4'7"
+|jheight=1.4
+|weight=105.8
+|jweight=48.0
+|dex=It launches kicks while spinning. If it spins at high speed, it may bore its way into the ground.
+|jdex=くるくる 回って キックをはなつ。 高速で 回っていると そのまま 地面に 潜っていく。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Unseen Forces|Hitmontop|26}} from the {{TCG|EX Unseen Forces}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kapoera (Weisheit von Meer und Himmel 102)]]
+[[es:Hitmontop (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Kapoera (Sagesse entre Ciel et Mer 102)]]
+[[it:Hitmontop (La Via del Cielo e del Mare 102)]]
+[[ja:カポエラー (ポケポケ A4)]]
+[[zh:战舞郎（A4）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hitmonlee
+|ja name=サワムラー
+|trans name=Sawamular
+|species=Hitmonlee
+|type=Fighting
+|image=HitmonleeShiningRevelry40.png
+|illustrator=Tomokazu Komiya
+|hp=80
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=040/072|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Hitmonlee''' (Japanese: '''サワムラー''' ''Sawamular'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Kick
+|jname=キック
+|jtrans=Kick
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Hitmonlee
+|category=Kicking 
+|ndex=0106
+|height=4'11"
+|jheight=1.5
+|weight=109.8
+|jweight=49.8
+|dex=This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.
+|jdex=見事な　バランス感覚｡ どんな　姿勢でも　連続で キックを　放てる　すごい　やつ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Hitmonlee|73}} from the {{TCG|Team Up}} expansion.
+*'''Kick''' is an attack that first appeared on {{TCG ID|Team Rocket|Machop|59}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kicklee (Glänzendes Festival 040)]]
+[[es:Hitmonlee (Festival Brillante TCG Pocket)]]
+[[fr:Kicklee (Réjouissances Rayonnantes 040)]]
+[[it:Hitmonlee (Tripudio Splendente 40)]]
+[[ja:サワムラー (ポケポケ A2b)]]
+[[zh:飛腿郎（A2b）]]

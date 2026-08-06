@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Naganadel
+|ja name=アーゴヨン
+|trans name=Agoyon
+|species=Naganadel
+|type=Darkness
+|image=NaganadelExtradimensionalCrisis45.png
+|illustrator=Shin Nagasawa
+|hp=100
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Poipole
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=045/069|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Naganadel''' (Japanese: '''アーゴヨン''' ''Agoyon'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/UltraBeast/Pocket}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Electro House
+|jname=アシッドハウス
+|jtrans=Acid House
+|damage=40
+|effect=Your opponent's Active Pokémon is now Poisoned.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Naganadel
+|species=Poison Pin
+|ndex=0804
+|height=11'10"
+|jheight=3.6
+|weight=330.7
+|jweight=150.0
+|dex=It stores hundreds of liters of poisonous liquid inside its body. It is one of the organisms known as UBs.
+|jdex=体内に 数百リットルの 毒液を ためている。 ＵＢと 呼ばれる 生物の 一種。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Naganadel|108}} from the {{TCG|Lost Thunder}} expansion.
+*The '''Electro House''' attack is named after {{wp|electro house}}, a genre of music. In the Japanese version of this card, the attack is named アシッドハウス ''{{wp|Acid House}}'', which may have been chosen in reference to {{p|Naganadel}}'s {{t|Poison}} typing in the [[core series games]].
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Agoyon (Dimensionale Krise 045)]]
+[[es:Naganadel (Crisis Dimensional TCG Pocket)]]
+[[fr:Mandrillon (Crise Interdimensionnelle 045)]]
+[[it:Naganadel (Crisi Ultradimensionale 45)]]
+[[ja:アーゴヨン (ポケポケ A3a)]]
+[[zh:四颚针龙（A3a）]]

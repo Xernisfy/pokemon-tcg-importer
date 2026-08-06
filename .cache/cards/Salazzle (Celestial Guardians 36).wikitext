@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Salazzle
+|ja name=エンニュート
+|trans name=Ennewt
+|species=Salazzle
+|type=Fire
+|image=SalazzleCelestialGuardians36.png
+|illustrator=Naoki Saito
+|hp=90
+|weakness=Water
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Salandit
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=036/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Salazzle''' (Japanese: '''エンニュート''' ''Ennewt'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Heated Poison
+|jname=ヒートポイズン
+|jtrans=Heat Poison
+|damage=30
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}} and {{TCG|Burned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Salazzle
+|species=Toxic Lizard
+|ndex=0758
+|height=3'11"
+|jheight=1.2
+|weight=48.9
+|jweight=22.2
+|dex=Salazzle makes its opponents light-headed with poisonous gas, then captivates them with alluring movements to turn them into loyal servants. 
+|jdex=毒ガスで クラクラにした 相手を 妖艶な 身のこなしで 誘惑し 忠実な しもべに してしまう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Dragon Majesty|Salazzle|14}} from the {{TCG|Dragon Majesty}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Amfira (Hüter des Firmaments 036)]]
+[[es:Salazzle (Guardianes Celestiales TCG Pocket)]]
+[[fr:Malamandre (Gardiens Astraux 036)]]
+[[it:Salazzle (Guardiani Astrali 36)]]
+[[ja:エンニュート (ポケポケ A3)]]
+[[zh:焰后蜥（A3）]]

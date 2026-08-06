@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Meditite
+|ja name=アサナン
+|trans name=Asanan
+|species=Meditite
+|type=Fighting
+|image=MedititeExtradimensionalCrisis28.png
+|illustrator=Yukiko Baba
+|hp=60
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=028/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Meditite''' (Japanese: '''アサナン''' ''Asanan'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Trip Over
+|jname=ころばす
+|jtrans=Fall Over
+|damage=10+
+|effect=Flip a coin. If heads, this attack does 20 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Meditite
+|species=Meditate
+|ndex=0307
+|height=2'
+|jheight=0.6
+|weight=24.7
+|jweight=11.2
+|dex=It never skips its daily yoga training. It heightens its inner strength through meditation.
+|jdex=毎日 ヨガの 修行を 欠かさない。 瞑想を することで 精神力を 高めている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Meditite|97}} from the {{TCG|Rebel Clash}} expansion.
+*'''Trip Over''' is an attack that first appeared on {{TCG ID|Asobikata|Diglett|promo}}, one of the {{TCG|Unnumbered Promotional cards}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Meditie (Dimensionale Krise 028)]]
+[[es:Meditite (Crisis Dimensional TCG Pocket)]]
+[[fr:Méditikka (Crise Interdimensionnelle 028)]]
+[[it:Meditite (Crisi Ultradimensionale 28)]]
+[[ja:アサナン (ポケポケ A3a)]]
+[[zh:玛沙那（A3a）]]

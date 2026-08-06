@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Poliwhirl
+|ja name=ニョロゾ
+|trans name=Nyorozo
+|species=Poliwhirl
+|type=Water
+|image=PoliwhirlSecludedSprings14.png
+|illustrator=Kanako Eo
+|hp=80
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Poliwag
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=014/071|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Poliwhirl''' (Japanese: '''ニョロゾ''' ''Nyorozo'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Colorless}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Poliwhirl
+|category=Tadpole
+|ndex=0061
+|height=3'3"
+|jheight=1
+|weight=44.1
+|jweight=20.0
+|dex=Staring at the swirl on its belly causes drowsiness. This trait of Poliwhirl's has been used in place of lullabies to get children to go to sleep.
+|jdex=お腹の　渦は　ずっと　見ていると 眠くなる｡　子守唄がわりに 子どもを　寝つかせるのにも　使う｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Furious Fists|Poliwhirl|16}} from the {{TCG|Furious Fists}} expansion.
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Quaputzi (Verborgene Quelle 014)]]
+[[es:Poliwhirl (Manantial Oculto TCG Pocket)]]
+[[fr:Têtarte (Source Secrète 014)]]
+[[it:Poliwhirl (Sorgenti Recondite 14)]]
+[[ja:ニョロゾ (ポケポケ A4a)]]
+[[zh:蚊香君（A4a）]]

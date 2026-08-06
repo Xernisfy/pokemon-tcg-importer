@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Piplup
+|ja name=ポッチャマ
+|trans name=Pochama
+|species=Piplup
+|type=Water
+|image=PiplupMegaShine18.png
+|illustrator=Shibuzoh.
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=018/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Piplup''' (Japanese: '''ポッチャマ''' ''Pochama'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Water Gun
+|jname=みずでっぽう
+|jtrans=Water Gun
+|damage=20
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Piplup
+|category=Penguin
+|ndex=0393
+|height=1'4"
+|jheight=0.4
+|weight=11.5
+|jweight=5.2
+|dex=It doesn’t like to be taken care of. It’s difficult to bond with since it won’t listen to its Trainer.
+|jdex=世話を　焼かれることが　嫌い｡ トレーナーの　指示を　聞かないので 仲良くなるのが　難しい｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ultra Prism|Piplup|32}} from the {{TCG|Ultra Prism}} expansion.
+*{{m|Water Gun}} is a [[move]] in the [[Pokémon games]] that {{p|Piplup}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Plinfa (Mega-Schillern 018)]]
+[[fr:Tiplouf (Méga-Rayonnement 018)]]
+[[it:Piplup (Mega Splendore 18)]]
+[[ja:ポッチャマ (ポケポケ B2b)]]
+[[zh:波加曼（B2b）]]

@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+| en name = Espeon {{TCGP Icon|ex}}
+| ja name = エーフィ{{TCGP Icon|ex}}
+| trans name = Eifie {{TCGP Icon|ex}}
+| species = Espeon
+| type = Psychic
+| image set = {{TCG Card Infobox/Tabbed Image/Pocket|image=EspeonexWisdomofSeaandSky83.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EspeonexWisdomofSeaandSky190.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EspeonexWisdomofSeaandSky205.png|illustrator=Taira Akitsu|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EspeonexFantasticalParade228.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+| hp = 140
+| weakness = Darkness
+| retreat cost = 1
+| illustrator = 
+| evo stage = Stage 1
+| prevo name = Eevee
+| expansions = {{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=083/161|pack=Lugia|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=190/161|pack=Lugia|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=205/161|pack=Lugia|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=160/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=228/155|pack=Any|rarity=Shiny|rarity count=2}}
+}}
+
+'''Espeon ex''' (Japanese: '''エーフィex''' ''Eifie ex'') is a {{ct|Psychic}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Psychic Healing
+|jname=サイコヒール
+|jtrans=Psycho Heal
+|effect=Once during your turn, if this Pokémon is in the Active Spot, you may heal 30 damage from 1 of your Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Super Psy Bolt
+|jname=ちょうねんりき
+|jtrans=Super Willpower
+|damage=80
+|effect=
+}}
+{{Cardtext/Pocket ex
+|type=Psychic
+|ndex=0196
+|name=Espeon
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=EspeonexWisdomofSeaandSky83.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=EspeonexWisdomofSeaandSky190.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=EspeonexWisdomofSeaandSky205.png
+|caption3=Special illustration rare card<br>Illus. [[Taira Akitsu]]
+|image4=EspeonexFantasticalParade228.png
+|caption4=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Espeon}}.
+*'''Super Psy Bolt''' is an attack that first appeared as '''Super Psy''' on {{TCG ID|Base Set|Kadabra|32}} from the {{TCG|Base Set}}.
+**Super Psy Bolt's Japanese name is derived from that of {{m|Confusion}}, a [[move]] in the [[Pokémon games]] that {{p|Espeon}} can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Psiana-ex (Weisheit von Meer und Himmel 083)]]
+[[es:Espeon ex (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Mentali-ex (Sagesse entre Ciel et Mer 083)]]
+[[it:Espeon-ex (La Via del Cielo e del Mare 83)]]
+[[ja:エーフィex (ポケポケ A4)]]
+[[zh:太阳伊布ex（A4）]]

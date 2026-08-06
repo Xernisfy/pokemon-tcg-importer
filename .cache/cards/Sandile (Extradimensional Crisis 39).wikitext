@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sandile
+|ja name=メグロコ
+|trans name=Meguroco
+|species=Sandile
+|type=Darkness
+|image=SandileExtradimensionalCrisis39.png
+|illustrator=Naoyo Kimura
+|hp=70
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=039/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Sandile''' (Japanese: '''メグロコ''' ''Meguroco'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Bite
+|jname=かみつく
+|jtrans=Bite
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Sandile
+|category=Desert Croc 
+|ndex=0551
+|height=2'4"
+|jheight=0.7
+|weight=33.5
+|jweight=15.2
+|dex=It submerges itself in sand and moves as if swimming. This wise behavior keeps its enemies from finding it and maintains its temperature.
+|jdex=砂の中に 潜り 泳ぐように 移動。 敵に みつからないためと 体温を 下げない 知恵 なのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Black & White|Sandile|63}} from the {{TCG|Black & White}} expansion; both cards have the Bite attack.
+*{{m|Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Sandile}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ganovil (Dimensionale Krise 039)]]
+[[es:Sandile (Crisis Dimensional TCG Pocket)]]
+[[fr:Mascaïman (Crise Interdimensionnelle 039)]]
+[[it:Sandile (Crisi Ultradimensionale 39)]]
+[[ja:メグロコ (ポケポケ A3a)]]
+[[zh:黑眼鳄（A3a）]]

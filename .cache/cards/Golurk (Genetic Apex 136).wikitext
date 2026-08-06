@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Golurk
+|ja name=ゴルーグ
+|trans name=Goloog
+|species=Golurk
+|type=Psychic
+|image=GolurkGeneticApex136.png
+|illustrator=match
+|hp=140
+|weakness=Darkness
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Golett
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=136/226|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Golurk''' (Japanese: '''ゴルーグ''' ''Goloog'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}{{e|Colorless}}{{e|Colorless}}
+|name=Double Lariat
+|jname=ダブルラリアット
+|jtrans=Double Lariat
+|damage=100×
+|effect=Flip 2 coins. This attack does 100 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Golurk
+|species=Automaton
+|ndex=0623
+|height=9'2"
+|jheight=2.8
+|weight=727.5
+|jweight=330.0
+|dex=Artillery platforms built into the walls of ancient castles served as perches from which Golurk could fire energy beams.
+|jdex=古代人の　お城の　壁には ゴルーグが　ビームを　撃つための 砲台の　ような　台座が　ある｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BW-P Promo|Golurk|46}}, one of the {{TCG|BW-P Promotional cards}} released only in Japan.
+*'''Double Lariat''' is an attack that first appeared on {{TCG ID|Neo Discovery|Ursaring|15}} from the {{TCG|Neo Discovery}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Golgantes (Unschlagbare Gene 136)]]
+[[es:Golurk (Genes Formidables TCG Pocket)]]
+[[fr:Golemastoc (Puissance Génétique 136)]]
+[[it:Golurk (Geni Supremi 136)]]
+[[ja:ゴルーグ (ポケポケ A1)]]
+[[zh:泥偶巨人（A1）]]

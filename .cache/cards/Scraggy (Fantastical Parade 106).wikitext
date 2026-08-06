@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Scraggy
+|ja name=ズルッグ
+|trans name=Zuruggu
+|species=Scraggy
+|type=Darkness
+|image=ScraggyFantasticalParade106.png
+|illustrator=Sekio
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=106/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Scraggy''' (Japanese: '''ズルッグ''' ''Zuruggu'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Headbutt
+|jname=ずつき
+|jtrans=Headbutt
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Scraggy
+|species=Shedding
+|ndex=0559
+|height=2'
+|jheight=0.6
+|weight=26.0
+|jweight=11.8
+|dex=It will abruptly headbutt anyone that makes eye contact with it. Its skull is extremely hard.
+|jdex=視線の 合った 相手に いきなり 頭突き攻撃を 仕掛ける。 とても 硬い 頭がい骨を 持つ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Shining Legends|Scraggy|50}} from the {{TCG|Shining Legends}} expansion.
+*{{m|Headbutt}} is a [[move]] in the [[Pokémon games]] that {{p|Scraggy}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zurrokex (Traumhafte Parade 106)]]
+[[fr:Baggiguane (Parade Onirique 106)]]
+[[it:Scraggy (Parata Fantasmagorica 106)]]
+[[ja:ズルッグ (ポケポケ B2)]]
+[[zh:滑滑小子（B2）]]

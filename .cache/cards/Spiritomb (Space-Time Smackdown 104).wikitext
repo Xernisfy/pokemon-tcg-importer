@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Spiritomb
+|ja name=ミカルゲ
+|trans name=Mikaruge
+|species=Spiritomb
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SpiritombSpace-TimeSmackdown104.png|illustrator=HYOGONOSUKE|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SpiritombSpace-TimeSmackdown172.png|illustrator=Shinji Kanda|tab caption=Illustration Rare}}
+|hp=80
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=104/155|pack=Palkia|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=172/155|pack=Palkia|rarity=Star|rarity count=1}}
+}}
+
+'''Spiritomb''' (Japanese: '''ミカルゲ''' ''Mikaruge'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Colorless}}
+|name=Swirling Disaster
+|jname=うずまくわざわい
+|jtrans=Swirling Disaster
+|damage=
+|effect=This attack does 10 damage to each of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Spiritomb
+|species=Forbidden
+|ndex=0442
+|height=3'3"
+|jheight=1.0
+|weight=238.1
+|jweight=108.0
+|dex=Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.
+|jdex=いつも 悪さばかり していたら 不思議な 術で 本体を 要石に 縛りつけられた。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=SpiritombSpace-TimeSmackdown104.png
+|caption1=Uncommon card<br>Illus. [[HYOGONOSUKE]]
+|image2=SpiritombSpace-TimeSmackdown172.png
+|caption2=Illustration rare card<br>Illus. [[Shinji Kanda]]
+}}
+
+==Trivia==
+*{{ga|Lucas}}—the male [[player character]] in {{game|Diamond and Pearl|s|Pokémon Diamond, Pearl}}, {{game|Platinum||Platinum}}, {{game|Brilliant Diamond and Shining Pearl|s|Brilliant Diamond, and Shining Pearl}}—can be seen in this card's illustration rare print.
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Team Up|Spiritomb|89}} from the {{TCG|Team Up}} expansion.
+*'''Swirling Disaster''' is an attack that first appeared on {{TCG ID|Astral Radiance|Absol|97}} from the {{TCG|Astral Radiance}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kryppuk (Kollision von Raum und Zeit 104)]]
+[[es:Spiritomb (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Spiritomb (Choc Spatio-Temporel 104)]]
+[[it:Spiritomb (Scontro Spaziotemporale 104)]]
+[[ja:ミカルゲ (ポケポケ A2)]]
+[[zh:花岩怪（A2）]]

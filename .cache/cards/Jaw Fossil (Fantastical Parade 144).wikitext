@@ -1,0 +1,48 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Jaw Fossil
+|ja name=アゴの化石
+|trans name=Jaw Fossil
+|subtype=Item
+|image=JawFossilFantasticalParade144.png
+|illustrator=Toyste Beach
+|hp=40
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=144/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Jaw Fossil''' (Japanese: '''アゴの化石''' ''Jaw Fossil'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Play this card as if it were a 40-HP Basic {{e|Colorless}} Pokémon.<br>At any time during your turn, you may discard this card from play.<br>This card can't retreat.
+}}
+
+==Trivia==
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Furious Fists|Jaw Fossil|94}} from the {{TCG|Furious Fists}} expansion.
+*[[Jaw Fossil]]s are [[fossil]]s in the [[Pokémon games]] which can be revived into {{p|Tyrunt}}.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=アゴの化石 ''Ago no Kaseki''
+|zh_yue=顎之化石 ''Ngohk jī Fasehk''
+|zh_cmn=顎之化石 ''È zhī Huàshí''
+|fr=Fossile Mâchoire
+|de=Kieferfossil
+|it=Fossilmascella
+|ko=턱화석 ''Teok Hwaseok''
+|pt_br=Fóssil de Mandíbula
+|es=Fósil Mandíbula
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+[[de:Kieferfossil (TCG Pocket)]]
+[[es:Fósil Mandíbula (TCG Pocket)]]
+[[fr:Fossile Mâchoire (Parade Onirique 144)]]
+[[it:Fossilmascella (Parata Fantasmagorica 144)]]
+[[ja:アゴの化石 (ポケポケ)]]
+[[zh:颚之化石（TCGP）]]

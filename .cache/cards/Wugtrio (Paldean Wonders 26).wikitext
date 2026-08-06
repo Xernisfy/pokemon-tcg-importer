@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wugtrio
+|ja name=ウミトリオ
+|trans name=Umitrio
+|species=Wugtrio
+|type=Water
+|image=WugtrioPaldeanWonders26.png
+|illustrator=Kouki Saitou
+|hp=90
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Wiglett
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=026/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Wugtrio''' (Japanese: '''ウミトリオ''' ''Umitrio'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Triple Whip
+|jname=さんれんのムチ
+|jtrans=Triple Whip
+|damage=30×
+|effect=Flip 3 coins. This attack does 30 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Wugtrio
+|category=Garden Eel
+|ndex=0961
+|height=3'11"
+|jheight=1.2
+|weight=11.9
+|jweight=5.4
+|dex=A variety of fish Pokémon, Wugtrio was once considered to be a regional form of Dugtrio.
+|jdex=魚ポケモンの　一種｡ ダグトリオの　リージョンフォームと 考えられていたことも　あった｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Paradox Rift|Wugtrio|53}} from the {{TCG|Paradox Rift}} expansion.
+*'''Triple Whip''' is an attack that first appeared on {{TCG ID|Battle Styles|Carnivine|9}} from the {{TCG|Battle Styles}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schligdri (Wundervolles Paldea 026)]]
+[[fr:Triopikeau (Merveilles de Paldea 026)]]
+[[it:Wugtrio (Meraviglie di Paldea 26)]]
+[[ja:ウミトリオ (ポケポケ B2a)]]
+[[zh:三海地鼠（B2a）]]

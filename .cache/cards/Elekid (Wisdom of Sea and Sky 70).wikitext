@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Elekid
+|ja name=エレキッド
+|trans name=Elekid
+|species=Elekid
+|type=Lightning
+|image=ElekidWisdomofSeaandSky70.png
+|illustrator=Miki Tanaka
+|hp=30
+|weakness=
+|retreat cost=0
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=070/161|pack=Lugia (Bonus)|rarity=Diamond|rarity count=3}}
+}}
+
+'''Elekid''' (Japanese: '''エレキッド''' ''Elekid'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|None}}
+|name=Zappy Shot
+|jname=ぴりぴりショット
+|jtrans=Tingling Shot
+|damage=
+|effect=This attack does 20 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex
+|type=Lightning
+|name=Elekid
+|species=Electric
+|ndex=0239
+|height=2'
+|jheight=0.6
+|weight=51.8
+|jweight=23.5
+|dex=When a storm approaches, this Pokémon gets restless. Once Elekid hears the sound of thunder, it gets full-on rowdy. 
+|jdex=嵐が 近づくと 落ち着きが なくなる。 雷の 音が 聞こえると たまらず 騒ぎだす。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Neo Genesis|Elekid|22}} from the {{TCG|Neo Genesis}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Elekid (Weisheit von Meer und Himmel 070)]]
+[[es:Elekid (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Élekid (Sagesse entre Ciel et Mer 070)]]
+[[it:Elekid (La Via del Cielo e del Mare 70)]]
+[[ja:エレキッド (ポケポケ A4)]]
+[[zh:电击怪（A4）]]

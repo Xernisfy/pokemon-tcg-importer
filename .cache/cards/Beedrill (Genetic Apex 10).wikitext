@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Beedrill
+|ja name=スピアー
+|trans name=Spear
+|species=Beedrill
+|type=Grass
+|image=BeedrillGeneticApex10.png
+|illustrator=You Iribi
+|hp=120
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Kakuna
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=010/226|pack=Mewtwo|rarity=Diamond|rarity count=3}}
+}}
+
+'''Beedrill''' (Japanese: '''スピアー''' ''Spear'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Sharp Sting
+|jname=するどいはり
+|jtrans=Sharp Needle
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Beedrill
+|species=Poison Bee
+|ndex=0015
+|height=3'3"
+|jheight=1
+|weight=65
+|jweight=29.5
+|dex=It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.
+|jdex=両手と　お尻にある　３本の　毒針で 相手を　刺して　刺して 刺しまくって　攻撃する｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Beedrill|5}} from the {{TCG|Team Up}} expansion.
+*'''Sharp Sting''' is an attack that first appeared on {{TCG ID|Crimson Invasion|Beedrill|3}} from the {{TCG|Crimson Invasion}} expansion.
+*This card's [[Pokédex]] entry comes from {{LGPE}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bibor (Unschlagbare Gene 010)]]
+[[es:Beedrill (Genes Formidables TCG Pocket)]]
+[[fr:Dardargnan (Puissance Génétique 010)]]
+[[it:Beedrill (Geni Supremi 10)]]
+[[ja:スピアー (ポケポケ A1)]]
+[[zh:大针蜂（A1）]]

@@ -1,0 +1,70 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Snubbull
+|ja name=ブルー
+|trans name=Bulu
+|species=Snubbull
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SnubbullFantasticalParade61.png|illustrator=Shibuzoh.|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SnubbullFantasticalParade168.png|illustrator=OKUBO|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=061/155|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=168/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Snubbull''' (Japanese: '''ブルー''' ''Bulu'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Sharp Fang
+|jname=するどいキバ
+|jtrans=Sharp Fang
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Snubbull
+|species=Fairy
+|ndex=0209
+|height=2'00"
+|jheight=0.6
+|weight=17.2
+|jweight=7.8
+|dex=Its growls make its opponents uneasy. This laid-back Pokémon tends to sleep half the day.
+|jdex=唸り声は 相手を 不安に させる。 普段は のんびり屋で １日の 半分は 寝ているよ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=SnubbullFantasticalParade61.png
+|caption1=Common card<br>Illus. [[Shibuzoh.]]
+|image2=SnubbullFantasticalParade168.png
+|caption2=Illustration rare card<br>Illus. [[OKUBO]]
+}}
+
+==Trivia==
+===Origin===
+*'''Sharp Fang'''{{'}}s Japanese name is that of the [[Razor Fang]], a [[held item]] in the [[Pokémon games]]. As an attack in the TCG, it first appeared on {{TCG ID|EX Hidden Legends|Golbat|36}} from the {{TCG|EX Hidden Legends}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Snubbull (Traumhafte Parade 061)]]
+[[fr:Snubbull (Parade Onirique 061)]]
+[[it:Snubbull (Parata Fantasmagorica 61)]]
+[[ja:ブルー (ポケポケ B2)]]
+[[zh:布鲁（B2）]]

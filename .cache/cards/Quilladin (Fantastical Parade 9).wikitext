@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Quilladin
+|ja name=ハリボーグ
+|trans name=Hariborg
+|species=Quilladin
+|type=Grass
+|image=QuilladinFantasticalParade9.png
+|illustrator=5ban Graphics
+|hp=90
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Chespin
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=009/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Quilladin''' (Japanese: '''ハリボーグ''' ''Hariborg'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=Needle Arm
+|jname=ニードルアーム
+|jtrans=Needle Arm
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Quilladin
+|species=Spiny Armor
+|ndex=651
+|height=2'04"
+|jheight=0.7
+|weight=63.9
+|jweight=29.0
+|dex=It can send a trailer flying with a tackle. It’s numb to pain, so even violent collisions don’t faze it.
+|jdex=体当たり いっぱつで トレーラーを ふっとばす。 激しく ぶつかっても 痛みに 鈍感なので 平気。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|XY|Quilladin|13}} from the {{TCG|XY}} expansion.
+*{{m|Needle Arm}} is a [[move]] in the [[Pokémon games]] that {{p|Quilladin}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Igastarnish (Traumhafte Parade 009)]]
+[[fr:Boguérisse (Parade Onirique 009)]]
+[[it:Quilladin (Parata Fantasmagorica 9)]]
+[[ja:ハリボーグ (ポケポケ B2)]]
+[[zh:胖胖哈力（B2）]]

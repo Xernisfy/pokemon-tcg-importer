@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gothorita
+|ja name=ゴチミル
+|trans name=Gothimiru
+|species=Gothorita
+|type=Psychic
+|image=GothoritaMegaRising113.png
+|illustrator=sowsow
+|hp=80
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Gothita
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Altaria|rarity=Diamond|rarity count=2|number=113/226}}
+}}
+
+'''Gothorita''' (Japanese: '''ゴチミル''' ''Gothimiru'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Slap
+|jname=ビンタ
+|jtrans=Face Slap
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Gothorita
+|species=Manipulate
+|ndex=0575
+|height=2'4"
+|jheight=0.7
+|weight=39.7
+|jweight=18.0
+|dex=Using its psychic power, it arranges pebbles to form the shapes of constellations. Some people believe this Pokémon came from outer space.
+|jdex=サイコパワーで 小石を 並べて 星座を 作る。 宇宙から 来たと 考える 人も いる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Gothorita|74}} from the {{TCG|Darkness Ablaze}} expansion.
+*'''Slap''' is an attack that first appeared on {{TCG ID|Gym Heroes|Sabrina's Mr. Mime|94}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hypnomorba (Mega-Aufstieg 113)]]
+[[es:Gothorita (Megaascenso TCG Pocket)]]
+[[fr:Mesmérella (Méga-Ascension 113)]]
+[[it:Gothorita (Mega Ascesa 113)]]
+[[ja:ゴチミル (ポケポケ B1)]]
+[[zh:哥德小童（B1）]]

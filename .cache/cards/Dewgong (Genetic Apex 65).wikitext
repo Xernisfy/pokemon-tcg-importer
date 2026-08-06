@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dewgong
+|ja name=ジュゴン
+|trans name=Jugon
+|species=Dewgong
+|type=Water
+|image=DewgongGeneticApex65.png
+|illustrator=Kanako Eo
+|hp=120
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Seel
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=065/226|pack=Pikachu|rarity=Diamond|rarity count=2}}
+}}
+
+'''Dewgong''' (Japanese: '''ジュゴン''' ''Jugon'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}
+|name=Surf
+|jname=なみのり
+|jtrans=Surfing
+|damage=90
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Dewgong
+|species=Sea Lion
+|ndex=0087
+|height=5'7"
+|jheight=1.7
+|weight=264.6
+|jweight=120.0
+|dex=It sunbathes on the beach after meals. The rise in its body temperature helps its digestion.
+|jdex=食事の　後は　砂浜で 日光浴を　している｡　体温を あげて　消化を　よく　するのだ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Supreme Victors|Dewgong|24}} from the {{TCG|Supreme Victors}} expansion.
+*{{m|Surf}} is a [[move]] in the [[Pokémon games]] that {{p|Dewgong}} can learn via [[TM]].
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Jugong (Unschlagbare Gene 065)]]
+[[es:Dewgong (Genes Formidables TCG Pocket)]]
+[[fr:Lamantine (Puissance Génétique 065)]]
+[[it:Dewgong (Geni Supremi 65)]]
+[[ja:ジュゴン (ポケポケ A1)]]
+[[zh:白海狮（A1）]]

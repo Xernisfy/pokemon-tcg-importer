@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Indeedee {{TCGP Icon|ex}}
+|ja name=イエッサン{{TCGP Icon|ex}}
+|trans name=Yessan {{TCGP Icon|ex}}
+|species=Indeedee
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=IndeedeeexMegaRising121.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=IndeedeeexMegaRising260.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=IndeedeeexMegaRising278.png|illustrator=Keisin|tab caption=Special Illustration Rare}}
+|hp=130
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=121/226|pack=Mega Altaria|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=260/226|pack=Mega Altaria|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=278/226|pack=Mega Altaria|rarity=Star|rarity count=2}}
+}}
+
+'''Indeedee ex''' (Japanese: '''イエッサンex''' ''Yessan ex'') is a {{ct|Psychic}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Watch Over
+|jname=こころくばり
+|jtrans=Heart Distribution
+|effect=Once during your turn, you may heal 20 damage from your Active Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Psychic
+|jname=サイコキネシス
+|jtrans=Psychokinesis
+|damage=30+
+|effect=This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Psychic
+|ndex=0876
+|name=Indeedee
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=IndeedeeexMegaRising121.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=IndeedeeexMegaRising260.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=IndeedeeexMegaRising278.png
+|caption3=Special illustration rare card<br>Illus. [[Keisin]]
+}}
+
+==Trivia==
+===Origin===
+*This card is based on {{TCG ID|Sword & Shield|Indeedee V|91}} from the [[Pokémon Trading Card Game]]'s {{TCG|Sword & Shield}} expansion.
+*'''Watch Over''' is an {{TCG|Ability}} that first appeared on {{TCG ID|Sword & Shield|Indeedee V|91}} from the {{TCG|Sword & Shield}} expansion.
+*{{m|Psychic}} is a [[move]] in the [[Pokémon games]] that {{p|Indeedee}} can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Servol-ex (Mega-Aufstieg 121)]]
+[[es:Indeedee ex (Megaascenso TCG Pocket)]]
+[[fr:Wimessir-ex (Méga-Ascension 121)]]
+[[it:Indeedee-ex (Mega Ascesa 121)]]
+[[ja:イエッサンex (ポケポケ B1)]]
+[[zh:爱管侍ex（B1）]]

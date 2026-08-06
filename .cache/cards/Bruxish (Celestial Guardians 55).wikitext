@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bruxish
+|ja name=ハギギシリ
+|trans name=Hagigishiri
+|species=Bruxish
+|type=Water
+|image=BruxishCelestialGuardians55.png
+|illustrator=Masakazu Fukuda
+|hp=80
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=055/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Bruxish''' (Japanese: '''ハギギシリ''' ''Hagigishiri'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Wave Splash
+|jname=スプラッシュ
+|jtrans=Splash
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Bruxish
+|species=Gnash Teeth
+|ndex=0779
+|height=2'11"
+|jheight=0.9
+|weight=41.9
+|jweight=19.0
+|dex=It grinds its teeth with great force to stimulate its brain. It fires the psychic energy created by this process from the protuberance on its head.
+|jdex=強く 歯ぎしり することで 脳を 刺激。 生みだした サイコパワーを 頭の 突起から 撃ち出す。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Burning Shadows|Bruxish|38}} from the {{TCG|Burning Shadows}} expansion.
+*'''Wave Splash''' is an attack that first appeared on {{TCG ID|Vending|Golduck|S3}} from {{TCG|Expansion Sheet 3}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knirfish (Hüter des Firmaments 055)]]
+[[es:Bruxish (Guardianes Celestiales TCG Pocket)]]
+[[fr:Denticrisse (Gardiens Astraux 055)]]
+[[it:Bruxish (Guardiani Astrali 55)]]
+[[ja:ハギギシリ (ポケポケ A3)]]
+[[zh:磨牙彩皮鱼（A3）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Snom
+|ja name=ユキハミ
+|trans name=Yukihami
+|species=Snom
+|type=Water
+|image=SnomGeneticApex92.png
+|illustrator=ryoma uratsuka
+|hp=50
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=092/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Snom''' (Japanese: '''ユキハミ''' ''Yukihami'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Colorless}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Snom
+|species=Worm
+|ndex=0872
+|height=1'
+|jheight=0.3
+|weight=8.4
+|jweight=3.8
+|dex=It eats snow that has accumulated on the ground. It prefers soft, freshly fallen snow, so it will eat its way up a mountain, aiming for the peak.
+|jdex=エサは　地面に　積もった　雪｡ 柔らかな　新雪を　好み 山頂　目指して　食べ進む｡
+}}
+
+==Trivia==
+This card is almost identical to {{TCG ID|Sword & Shield|Snom|63}} from the [[Pokémon Trading Card Game]]'s {{TCG|Sword & Shield}} expansion, except for the {{TCG|Weakness}} modifier.
+
+===Origin===
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Snomnom (Unschlagbare Gene 092)]]
+[[es:Snom (Genes Formidables TCG Pocket)]]
+[[fr:Frissonille (Puissance Génétique 092)]]
+[[it:Snom (Geni Supremi 92)]]
+[[ja:ユキハミ (ポケポケ A1)]]
+[[zh:雪吞虫（A1）]]

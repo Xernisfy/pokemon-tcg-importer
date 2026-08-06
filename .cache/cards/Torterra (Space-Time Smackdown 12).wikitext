@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Torterra
+|ja name=ドダイトス
+|trans name=Dodaitose
+|species=Torterra
+|type=Grass
+|image=TorterraSpace-TimeSmackdown12.png
+|illustrator=kawayoo
+|hp=160
+|weakness=Fire
+|retreat cost=4
+|evo stage=Stage 2
+|prevo name=Grotle
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Palkia|rarity=Diamond|rarity count=3|number=012/155}}
+}}
+
+'''Torterra''' (Japanese: '''ドダイトス''' ''Dodaitose'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}{{e|Colorless}}
+|name=Frenzy Plant
+|jname=ハードプラント
+|jtrans=Hard Plant
+|damage=150
+|effect=During your next turn, this Pokémon can't use Frenzy Plant.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Torterra
+|species=Continent
+|ndex=0389
+|height=7'3"
+|jheight=2.2
+|weight=683.4
+|jweight=310.0
+|dex=Ancient people imagined that beneath the ground dwelt a gigantic Torterra.
+|jdex=おおむかしの ひとびとは だいちの したには きょだいな ドダイトスが いると くうそう していた。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ultra Prism|Torterra|9}} from the {{TCG|Ultra Prism}} expansion.
+*{{m|Frenzy Plant}} is a [[move]] in the [[Pokémon games]] that {{p|Torterra}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Chelterrar (Kollision von Raum und Zeit 012)]]
+[[es:Torterra (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Torterra (Choc Spatio-Temporel 012)]]
+[[it:Torterra (Scontro Spaziotemporale 12)]]
+[[ja:ドダイトス (ポケポケ A2)]]
+[[zh:土台龟（A2）]]

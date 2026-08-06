@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Chesnaught
+|ja name=ブリガロン
+|trans name=Brigarron
+|species=Chesnaught
+|type=Grass
+|image=ChesnaughtFantasticalParade10.png
+|illustrator=5ban Graphics
+|hp=160
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Quilladin
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=010/155|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Chesnaught''' (Japanese: '''ブリガロン''' ''Brigarron'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}{{e|Colorless}}
+|name=Needle Lariat
+|jname=ニードルラリアット
+|jtrans=Needle Lariat
+|damage=80
+|effect=During your opponent's next turn, if this Pokémon is damaged by an attack, do 80 damage to the Attacking Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Chesnaught
+|species=Spiny Armor
+|ndex=0652
+|height=5'03"
+|jheight=1.6
+|weight=198.4
+|jweight=90.0
+|dex=Its gentle disposition would have it avoid conflict, but it gives opponents a thrashing with its thorned fists when the situation calls for it.
+|jdex=争いを 避ける 穏やかな 性格だが いざとなると トゲの こぶしで 相手を 叩きのめす。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Kalos Starter Set|Chesnaught|5}} from the {{TCG|Kalos Starter Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Brigaron (Traumhafte Parade 010)]]
+[[fr:Blindépique (Parade Onirique 010)]]
+[[it:Chesnaught (Parata Fantasmagorica 10)]]
+[[ja:ブリガロン (ポケポケ B2)]]
+[[zh:布里卡隆（B2）]]

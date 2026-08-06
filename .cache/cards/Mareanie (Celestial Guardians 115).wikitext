@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mareanie
+|ja name=ヒドイデ
+|trans name=Hidoide
+|species=Mareanie
+|type=Darkness
+|image=MareanieCelestialGuardians115.png
+|illustrator=Saya Tsuruta
+|hp=70
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=115/155|pack=Lunala|rarity=Diamond|rarity count=1}}
+}}
+
+'''Mareanie''' (Japanese: '''ヒドイデ ''' ''Hidoide'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Pierce
+|jname=つきさす
+|jtrans=Cleave
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Mareanie
+|species=Brutal Star
+|ndex=0747
+|height=1'4"
+|jheight=0.4
+|weight=17.6
+|jweight=8.0
+|dex=This Pokémon wanders the seaside looking for food. It often gets electric shocks from broken Pincurchin spines that it tries to eat. 
+|jdex=エサを 探し 海辺を うろつく。 折れた バチンウニの トゲを 食べようとして よく 痺れている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Mareanie|96}} from the {{TCG|Unified Minds}} expansion.
+*'''Pierce''' is an attack that first appeared on {{TCG ID|EX Sandstorm|Kabuto|39}} and {{TCG ID|EX Sandstorm|Anorith|27}} from the {{TCG|EX Sandstorm}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Garstella (Hüter des Firmaments 115)]]
+[[es:Mareanie (Guardianes Celestiales TCG Pocket)]]
+[[fr:Vorastérie (Gardiens Astraux 115)]]
+[[it:Mareanie (Guardiani Astrali 115)]]
+[[ja:ヒドイデ (ポケポケ A3)]]
+[[zh:好坏星（A3）]]

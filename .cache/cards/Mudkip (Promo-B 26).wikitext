@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mudkip
+|ja name=ミズゴロウ
+|trans name=Mizugorou
+|species=Mudkip
+|type=Water
+|image=MudkipPromo-B26.png
+|illustrator=Shigenori Negishi
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=026/P-B|pack=Vol. 4}}
+}}
+'''Mudkip''' (Japanese: '''ミズゴロウ''' ''Mizugorou'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-B}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Surprise Attack
+|jname=ふいをつく
+|jtrans=Surprise Attack
+|damage=40
+|effect=Flip a coin. If tails, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Mudkip
+|species=Mud Fish
+|ndex=0258
+|height=1'4"
+|jheight=0.4
+|weight=16.8
+|jweight=7.6
+|dex=When it uses its large tail fin, it picks up speed rapidly in the water. It is strong in spite of its small size.
+|jdex=おおきな おびれで みずを かけば ぐんぐん スピードが あがる。 ちいさい からだでも ちからもち。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-B Vol. 4 packs; these were made available as part of the [[Mega Medicham ex Drop Event]], which ran from February 12 to 22, 2026.
+
+==Trivia==
+===Origin===
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+*This card's illustration was first featured on {{TCG ID|Celestial Storm|Mudkip|32}} from the {{TCG|Celestial Storm}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hydropi (PROMO-B 026)]]
+[[fr:Gobou (Promo-B 026)]]
+[[it:Mudkip (Promo-B 26)]]
+[[ja:ミズゴロウ (ポケポケ P-B)]]

@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Maractus
+|ja name=マラカッチ
+|trans name=Maracacchi
+|species=Maractus
+|type=Grass
+|image=MaractusMegaRising19.png
+|illustrator=Shimaris Yukichi
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=019/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Maractus''' (Japanese: '''マラカッチ''' ''Maracacchi'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Dazzle Dance
+|jname=げんわくダンス
+|jtrans=Dazzling Dance
+|damage=40
+|effect=Your opponent's Pokémon is now {{TCG|Confused}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Maractus
+|category=Cactus
+|ndex=0556
+|height=3'03"
+|jheight=1.0
+|weight=61.7
+|jweight=28.0
+|dex=Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.
+|jdex=かんそうした　とちで　くらす。からだを　リズミカルに　うごかすと　マラカスにような　おとを　かなでる。
+}}
+
+==Trivia==
+===Origin===
+*'''Dazzle Dance''' is an attack that first appeared on {{TCG ID|EX Ruby & Sapphire|Kirlia|35}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Maracamba (Mega-Aufstieg 019)]]
+[[es:Maractus (Megaascenso TCG Pocket)]]
+[[fr:Maracachi (Méga-Ascension 019)]]
+[[it:Maractus (Mega Ascesa 19)]]
+[[ja:マラカッチ (ポケポケ B1)]]
+[[zh:沙铃仙人掌（B1）]]

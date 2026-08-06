@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Shinx
+|ja name=コリンク
+|trans name=Kolink
+|species=Shinx
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ShinxSpace-TimeSmackdown58.png|illustrator=Shibuzoh.|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ShinxSpace-TimeSmackdown163.png|illustrator=Yuu Nishida|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=058/155|pack=Dialga|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=163/155|pack=Dialga|rarity=Star|rarity count=1}}
+}}
+
+'''Shinx''' (Japanese: '''コリンク''' ''Kolink'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Hide
+|jname=かくれる
+|jtrans=Hide
+|damage=
+|effect=Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Shinx
+|species=Flash
+|ndex=0403
+|height=1'8"
+|jheight=0.5
+|weight=20.9
+|jweight=9.5
+|dex=The extension and contraction of its muscles generates electricity. Its fur glows when it's in trouble.
+|jdex=筋肉が 伸び縮み することで 電気が 発生。 ピンチになると 体毛が まぶしく 光る。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=ShinxSpace-TimeSmackdown58.png
+|caption1=Common card<br>Illus. [[Shibuzoh.]]
+|image2=ShinxSpace-TimeSmackdown163.png
+|caption2=Illustration rare card<br>Illus. [[Yuu Nishida]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Ultra Prism|Shinx|45}} from the {{TCG|Ultra Prism}} expansion.
+*'''Hide''' is an attack that first appeared on {{TCG ID|Vending|Horsea|S3}} from {{TCG|Expansion Sheet 3}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sheinux (Kollision von Raum und Zeit 058)]]
+[[es:Shinx (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Lixy (Choc Spatio-Temporel 058)]]
+[[it:Shinx (Scontro Spaziotemporale 58)]]
+[[ja:コリンク (ポケポケ A2)]]
+[[zh:小猫怪（A2）]]

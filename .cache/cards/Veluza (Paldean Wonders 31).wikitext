@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Veluza
+|ja name=ミガルーサ
+|trans name=Migalusa
+|species=Veluza
+|type=Water
+|image=VeluzaPaldeanWonders31.png
+|illustrator=Oswaldo KATO
+|hp=100
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=031/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Veluza''' (Japanese: '''ミガルーサ''' ''Migalusa'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Shedding Spiral
+|jname=ダイエットスクリュー
+|jtrans=Diet Screw
+|damage=90
+|effect=If you have no cards in your deck, this attack can be used for 1 {{e|Water}} Energy.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Veluza
+|category=Jettison
+|ndex=0976
+|height=8'2"
+|jheight=2.5
+|weight=198.4
+|jweight=90.0
+|dex=Veluza has excellent regenerative capabilities. It sheds spare flesh from its body to boost its agility, then charges at its prey.
+|jdex=高い 再生能力を 持つ。 体の 贅肉を 捨てて 身軽になり 獲物に 突撃。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Paradox Rift|Veluza|54}} from the {{TCG|Paradox Rift}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Agiluza (Wundervolles Paldea 031)]]
+[[fr:Délestin (Merveilles de Paldea 031)]]
+[[it:Veluza (Meraviglie di Paldea 31)]]
+[[ja:ミガルーサ (ポケポケ B2a)]]
+[[zh:轻身鳕（B2a）]]

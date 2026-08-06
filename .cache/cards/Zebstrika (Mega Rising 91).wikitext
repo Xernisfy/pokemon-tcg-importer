@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Zebstrika
+|ja name=ゼブライカ
+|trans name=Zebraika
+|species=Zebstrika
+|type=Lightning
+|image=ZebstrikaMegaRising91.png
+|illustrator=Shin Nagasawa
+|hp=100
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Blitzle
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=091/226|pack=Mega Blaziken|rarity=Diamond|rarity count=2}}
+}}
+
+'''Zebstrika''' (Japanese: '''ゼブライカ''' ''Zebraika'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}{{e|Lightning}}
+|name=Electric Ball
+|jname=ライトニングボール
+|jtrans=Lightning Ball
+|damage=90
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Zebstrika
+|category=Thunderbolt
+|ndex=0523
+|height=5'3"
+|jheight=1.6
+|weight=175.3
+|jweight=79.5
+|dex=They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.
+|jdex=稲妻のような 瞬発力。ゼブライカが 全速力で 走ると 雷鳴が 響きわたる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Zebstrika|45}} from the {{TCG|Team Up}} expansion.
+*'''Electric Ball''' is an attack that first appeared on {{TCG ID|Noble Victories|Eelektrik|40}} from {{TCG|Noble Victories}}.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zebritz (Mega-Aufstieg 091)]]
+[[es:Zebstrika (Megaascenso TCG Pocket)]]
+[[fr:Zéblitz (Méga-Ascension 091)]]
+[[it:Zebstrika (Mega Ascesa 91)]]
+[[ja:ゼブライカ (ポケポケ B1)]]
+[[zh:雷电斑马（B1）]]

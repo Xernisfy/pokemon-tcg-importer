@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Galarian Zigzagoon
+|ja name=ガラルジグザグマ
+|trans name=Galarian Jiguzaguma
+|species=Zigzagoon
+|type=Darkness
+|image=GalarianZigzagoonFantasticalParade98.png
+|illustrator=kirisAki
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=098/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Galarian Zigzagoon''' (Japanese: '''ガラルジグザグマ''' ''Galarian Jiguzaguma'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Dig Claws
+|jname=ツメをたてる
+|jtrans=Dig Into with Claws
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Zigzagoon
+|category=Tiny Raccoon
+|ndex=0263
+|height=1'4"
+|jheight=0.4
+|weight=38.6
+|jweight=17.5
+|dex=Thought to be the oldest form of Zigzagoon, it moves in zigzags and wreaks havoc upon its surroundings.
+|jdex=この姿が いちばん 古い ジグザグマの 姿 らしい。 ジグザグ動いて あたりを 荒らす。
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Galarian form]] of {{p|Zigzagoon}}.
+*This card's illustration was first featured on {{TCG ID|Sword & Shield|Galarian Zigzagoon|117}} from the {{TCG|Sword & Shield}} expansion.
+*'''Dig Claws''' is an attack that first appeared on {{TCG ID|Secret Wonders|Growlithe|89}} from the {{TCG|Secret Wonders}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Galar-Zigzachs (Traumhafte Parade 098)]]
+[[fr:Zigzaton de Galar (Parade Onirique 098)]]
+[[it:Zigzagoon di Galar (Parata Fantasmagorica 98)]]
+[[ja:ガラルジグザグマ (ポケポケ B2)]]
+[[zh:伽勒尔 蛇纹熊（B2）]]

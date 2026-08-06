@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Starly
+|ja name=ムックル
+|trans name=Mukkuru
+|species=Starly
+|type=Colorless
+|image=StarlyTriumphantLight66.png
+|illustrator=Apios
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=066/075|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Starly''' (Japanese: '''ムックル''' ''Mukkuru'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Glide
+|jname=かっくう
+|jtrans=Gliding
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Starly
+|species=Starling
+|ndex=0396
+|height=1'
+|jheight=0.3
+|weight=4.4
+|jweight=2.0
+|dex=They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying.
+|jdex=虫ポケモンを 狙って 野山を 大勢の 群れで 飛びまわる。 鳴き声が とても やかましい。
+}}
+
+==Trivia==
+===Origin===
+*'''Glide''' is an attack that first appeared on {{TCG ID|EX Delta Species|Swellow|32}} from the {{TCG|EX Delta Species}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Staralili (Licht des Triumphs 066)]]
+[[es:Starly (Luz Triunfal TCG Pocket)]]
+[[fr:Étourmi (Lumière Triomphale 066)]]
+[[it:Starly (Luce Trionfale 66)]]
+[[ja:ムックル (ポケポケ A2a)]]
+[[zh:姆克兒（A2a）]]

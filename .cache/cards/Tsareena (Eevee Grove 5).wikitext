@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tsareena
+|ja name=アマージョ
+|trans name=Amajo
+|species=Tsareena
+|type=Grass
+|image=TsareenaEeveeGrove5.png
+|illustrator=Naoki Saito
+|hp=140
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Steenee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=005/069}}
+}}
+
+'''Tsareena''' (Japanese: '''アマージョ''' ''Amajo'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Kick Down
+|jname=けおとす
+|jtrans=Kick Down
+|damage=50
+|effect=Your opponent reveals a random card from their hand and shuffles it into their deck.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Tsareena
+|species=Fruit
+|ndex=0763
+|height=3'11"
+|jheight=1.2
+|weight=47.2
+|jweight=21.4
+|dex=This Pokémon is proud and aggressive. However, it is said that a Tsareena will instantly become calm if someone touches the crown on its calyx.
+|jdex=気位が 高く 攻撃的だが ヘタの 冠に 触られると たちまち 大人しくなるという。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|SM Promo|Tsareena|26}}, one of the {{TCG|SM Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Fruyal (Evoli-Hain 005)]]
+[[es:Tsareena (Arboleda de Eevee TCG Pocket)]]
+[[fr:Sucreine (La Clairière d'Évoli 005)]]
+[[it:Tsareena (Il Bosco di Eevee 5)]]
+[[ja:アマージョ (ポケポケ A3b)]]
+[[zh:甜冷美后（A3b）]]

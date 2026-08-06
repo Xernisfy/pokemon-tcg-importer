@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ursaring
+|ja name=リングマ
+|trans name=Ringuma
+|species=Ursaring
+|type=Colorless
+|image=UrsaringWisdomofSeaandSky146.png
+|illustrator=Kouki Saitou
+|hp=120
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Teddiursa
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Ho-Oh|rarity=Diamond|rarity count=2|number=146/161}}
+}}
+
+'''Ursaring''' (Japanese: '''リングマ''' ''Ringuma'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Swing Around
+|jname=ふりまわす
+|jtrans=Wield
+|damage=60+
+|effect=Flip 2 coins. This attack does 20 more damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Ursaring
+|category=Hibernator 
+|ndex=0217
+|height=5'11"
+|jheight=1.8
+|weight=277.3
+|jweight=125.8
+|dex=It usually wears a hardened expression, but when it's licking up honey—which it loves—the joy it feels will cause it to break into a wide grin.
+|jdex=不敵な 面構えだが 大好きな 蜜を 舐めるときは 嬉しくて 口もとが 緩みきってしまう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unleashed|Ursaring|27}} from the {{TCG|Unleashed}} expansion.
+*'''Swing Around''' is an attack that first appeared on {{TCG ID|Unleashed|Onix|57}} from the {{TCG|Unleashed}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ursaring (Weisheit von Meer und Himmel 146)]]
+[[es:Ursaring (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Ursaring (Sagesse entre Ciel et Mer 146)]]
+[[it:Ursaring (La Via del Cielo e del Mare 146)]]
+[[ja:リングマ (ポケポケ A4)]]
+[[zh:圈圈熊（A4）]]

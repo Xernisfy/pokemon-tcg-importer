@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Latios {{TCGP Icon|Mega ex}}
+|ja name=メガラティオス {{TCGP Icon|Mega ex}}
+|trans name=Mega Latios {{TCGP Icon|Mega ex}}
+|species=Latios
+|type=Dragon
+|image=MegaLatiosexPromo-B24.png
+|illustrator=PLANETA CG Works
+|hp=180
+|weakness=
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=024/P-B|pack=Vol. 3}}
+}}
+
+'''Mega Latios ex''' (Japanese: '''メガラティオスex''' ''Mega Latios ex'') is a {{ct|Dragon}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-B}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Mega Species/Pocket|Latios}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Water}}{{e|Water}}{{e|Psychic}}
+|name=Sonic Impulse
+|jname=ソニックインパルス
+|jtrans=Sonic Impulse
+|damage=160
+|effect=Discard all Energy from this Pokémon.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Dragon
+|ndex=0381
+|name=Latios
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Latios
+|species=Eon
+|ndex=0381
+|height=7'7"
+|jheight=2.3
+|weight=154.3
+|jweight=70.0
+|dex=It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.
+|jdex=高い 知能を 持ち 人間の 言葉を 理解する。 争いを 嫌う 優しい ポケモンだ。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-B Vol. 3 packs; these were made available as part of the [[Mega Latios ex Drop Event]], which ran from January 17 to February 3, 2026.
+
+==Trivia==
+===Origin===
+*This card features [[Mega]] {{p|Latios}}.
+*This card's [[Pokédex]] entry comes from {{g|HeartGold and SoulSilver}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Latios-ex (PROMO-B 024)]]
+[[es:Mega-Latios ex (Promo-B 24 TCG Pocket)]]
+[[fr:Méga-Latios-ex (Promo-B 024)]]
+[[it:Mega Latios-ex (Promo-B 24)]]
+[[ja:メガラティオスex (ポケポケ P-B)]]

@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Raichu
+|ja name=ライチュウ
+|trans name=Raichu
+|species=Raichu
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RaichuMegaShine23.png|illustrator=Megumi Mizutani|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RaichuMegaShine97.png|illustrator=MAHOU|tab caption=Shiny Rare}}
+|hp=100
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Pikachu
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=023/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=097/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Raichu''' (Japanese: '''ライチュウ''' ''Raichu'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Thunder
+|jname=かみなり
+|jtrans=Lightning
+|damage=90
+|effect=This Pokémon also does 30 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Raichu
+|species=Mouse
+|ndex=0026
+|height=2'7"
+|jheight=0.8
+|weight=66.1
+|jweight=30.0
+|dex=If the electric pouches in its cheeks become fully charged, both ears will stand straight up.
+|jdex=頬の 電気袋に 溜まった 電気が 最大量になると 両耳は まっすぐ 伸びる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=RaichuMegaShine23.png
+|caption1=Uncommon card<br>Illus. [[Megumi Mizutani]]
+|image2=RaichuMegaShine97.png
+|caption2=Shiny rare card<br>Illus. [[MAHOU]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Silver Tempest|Raichu|50}} from the {{TCG|Silver Tempest}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Raichu}}.
+*{{m|Thunder}} is a [[move]] in the [[Pokémon games]] that {{p|Raichu}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Raichu (Mega-Schillern 023)]]
+[[fr:Raichu (Méga-Rayonnement 023)]]
+[[it:Raichu (Mega Splendore 23)]]
+[[ja:ライチュウ (ポケポケ B2b)]]
+[[zh:雷丘（B2b）]]

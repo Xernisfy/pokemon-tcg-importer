@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Miltank
+|ja name=ミルタンク
+|trans name=Miltank
+|species=Miltank
+|type=Colorless
+|image=MiltankMegaRising187.png
+|illustrator=saino misaki
+|hp=100
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=187/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Miltank''' (Japanese: '''ミルタンク''' ''Miltank'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Body Slam
+|jname=のしかかり
+|jtrans=Lean On
+|damage=40
+|effect=Flip a coin. If heads, your opponent's Active Pokémon is now {{TCG|Paralyzed}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Miltank
+|category=Milk Cow
+|ndex=0241
+|height=3'11"
+|jheight=1.2
+|weight=166.4
+|jweight=75.5
+|dex=This Pokémon needs to be milked every day, or else it will fall ill. The flavor of Miltank milk changes with the seasons.
+|jdex=毎日 ミルクを 搾らないと 具合が 悪くなる。 ミルクの 味は 季節によって 変わるぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Astral Radiance|Miltank|126}} from the {{TCG|Astral Radiance}} expansion.
+*{{m|Body Slam}} is a [[move]] in the [[Pokémon games]] that {{p|Miltank}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Miltank (Mega-Aufstieg 187)]]
+[[es:Miltank (Megaascenso TCG Pocket)]]
+[[fr:Écrémeuh (Méga-Ascension 187)]]
+[[it:Miltank (Mega Ascesa 187)]]
+[[ja:ミルタンク (ポケポケ B1)]]
+[[zh:大奶罐（B1）]]

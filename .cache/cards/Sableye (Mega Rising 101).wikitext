@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sableye
+|ja name=ヤミラミ
+|trans name=Yamirami
+|species=Sableye
+|type=Psychic
+|image=SableyeMegaRising101.png
+|illustrator=Hitoshi Ariga
+|hp=80
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=101/226|pack=Mega Altaria|rarity=Diamond|rarity count=1}}
+}}
+
+'''Sableye''' (Japanese: '''ヤミラミ''' ''Yamirami'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Dirty Throw
+|jname=ダーティスロー
+|jtrans=Dirty Throw
+|damage=70
+|effect=Discard a card from your hand. If you can't, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Sableye
+|category=Darkness
+|ndex=0302
+|height=1'8"
+|jheight=0.5
+|weight=24.3
+|jweight=11.0
+|dex=Materials from gems it has eaten float to the surface of its body and can form an infinite number of patterns among individuals. 
+|jdex=体の 表面に 食った 宝石の 成分が 浮きだす。 その パターンは 無限大だ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ancient Origins|Sableye|44}} from the {{TCG|Ancient Origins}} expansion.
+*'''Dirty Throw''' is an attack that first appeared on {{TCG ID|Cosmic Eclipse|Absol|133}} from the {{TCG|Cosmic Eclipse}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zobiris (Mega-Aufstieg 101)]]
+[[es:Sableye (Megaascenso TCG Pocket)]]
+[[fr:Ténéfix (Méga-Ascension 101)]]
+[[it:Sableye (Mega Ascesa 101)]]
+[[ja:ヤミラミ (ポケポケ B1)]]
+[[zh:勾魂眼（B1）]]

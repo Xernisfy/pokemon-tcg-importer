@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lickilicky
+|ja name=ベロベルト
+|trans name=Berobelt
+|species=Lickilicky
+|type=Colorless
+|image=LickilickySecludedSprings58.png
+|illustrator=Mina Nakai
+|hp=130
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Lickitung
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=058/071|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Lickilicky''' (Japanese: '''ベロベルト''' ''Berobelt'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Stretch Tongue
+|jname=のびるベロ
+|jtrans=Stretch Tongue
+|damage=
+|effect=This attack does 60 damage to one of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Lickilicky
+|category=Licking 
+|ndex=0463
+|height=5'7"
+|jheight=1.7
+|weight=308.6
+|jweight=140.0
+|dex=Lickilicky's strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky's tongue can stretch so far.
+|jdex=体の 何倍もの 長さまで 伸びる 不思議な ベロを もつ。 その 不思議は 未解明のまま。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Battle Styles|Lickilicky|114}} from the {{TCG|Battle Styles}} expansion.
+*'''Stretch Tongue''' is an attack that first appeared on {{TCG ID|P Promo|Kecleon|1}}, one of the {{TCG|P Promotional cards}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schlurplek (Verborgene Quelle 058)]]
+[[es:Lickilicky (Manantial Oculto TCG Pocket)]]
+[[fr:Coudlangue (Source Secrète 058)]]
+[[it:Lickilicky (Sorgenti Recondite 58)]]
+[[ja:ベロベルト (ポケポケ A4a)]]
+[[zh:大舌舔（A4a）]]

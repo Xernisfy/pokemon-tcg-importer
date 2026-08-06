@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cascoon
+|ja name=マユルド
+|trans name=Mayuld
+|species=Cascoon
+|type=Grass
+|image=CascoonMegaRising6.png
+|illustrator=GOSSAN
+|hp=80
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Wurmple
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=006/226|pack=Mega Blaziken|rarity=Diamond|rarity count=1}}
+}}
+
+'''Cascoon''' (Japanese: '''マユルド''' ''Mayuld'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Harden
+|jname=かたくなる
+|jtrans=Stiffen
+|damage=
+|effect=During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 40 or less.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Cascoon
+|category=Cocoon
+|ndex=0268
+|height=2'4"
+|jheight=0.7
+|weight=25.4
+|jweight=11.5
+|dex=It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.
+|jdex=マユに こもっている あいだに 受けた 攻撃は 進化しても 忘れずに かならず 仕返しする。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Origin|Cascoon|9}} from the {{TCG|Lost Origin}} expansion; both cards have the Harden attack.
+*{{m|Harden}} is a [[move]] in the [[Pokémon games]] that {{p|Cascoon}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Panekon (Mega-Aufstieg 006)]]
+[[es:Cascoon (Megaascenso TCG Pocket)]]
+[[fr:Blindalys (Méga-Ascension 006)]]
+[[it:Cascoon (Mega Ascesa 6)]]
+[[ja:マユルド (ポケポケ B1)]]
+[[zh:盾甲茧（B1）]]

@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Donphan
+|ja name=ドンファン
+|trans name=Donfan
+|species=Donphan
+|type=Fighting
+|image=DonphanSecludedSprings44.png
+|illustrator=Kagemaru Himeno
+|hp=120
+|weakness=Grass
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Phanpy
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=044/071|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Donphan''' (Japanese: '''ドンファン''' ''Donfan'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Ability/Pocket
+|type=Fighting
+|name=Exoskeleton
+|jname=かたいからだ
+|jtrans=Hard Body
+|effect=This Pokémon takes −20 damage from attacks.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Land Crush
+|jname=ランドクラッシュ
+|jtrans=Land Crush
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Donphan
+|category=Armor
+|ndex=0232
+|height=6'7"
+|jheight=2.0
+|weight=93.7
+|jweight=42.5
+|dex=Donphan is covered in tough hide, so even being hit by a car won’t faze this Pokémon. However, it is extremely susceptible to rain.
+|jdex=硬い 皮膚に 覆われているので 車と ぶつかっても へっちゃら。 ただし 雨には めっぽう 弱い。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Ruby & Sapphire|Donphan|17}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*'''Exoskeleton''' is an {{TCG|Ability}} that first appeared as a {{TCG|Poké-BODY}} on {{TCG ID|Expedition|Metapod|87}} from the {{TCG|Expedition Base Set}}.
+*'''Land Crush''' is an attack that first appeared as '''Fissure''' on {{TCG ID|Gym Heroes|Brock's Golem|20}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Donphan (Verborgene Quelle 044)]]
+[[fr:Donphan (Source Secrète 044)]]
+[[it:Donphan (Sorgenti Recondite 44)]]
+[[ja:ドンファン (ポケポケ A4a)]]
+[[zh:顿甲（A4a）]]

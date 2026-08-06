@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Whitney
+|ja name=アカネ
+|trans name=Akane
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WhitneySecludedSprings69.png|illustrator=Yuu Nishida|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WhitneySecludedSprings83.png|illustrator=Yuu Nishida|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=069/071}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Star|rarity count=2|number=083/071}}
+}}
+
+'''Whitney''' (Japanese: '''アカネ''' ''Akane'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Heal 60 damage from 1 of your {{TCGP|Miltank}}, and it recovers from being {{TCG|Asleep}}, {{TCG|Paralyzed}}, and {{TCG|Confused}}.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=WhitneySecludedSprings69.png
+|caption1=Uncommon card<br>Illus. [[Yuu Nishida]]
+|image2=WhitneySecludedSprings83.png
+|caption2=Super rare card<br>Illus. [[Yuu Nishida]]
+}}
+
+==Trivia==
+* {{TCG|Whitney}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Whitney]] is a [[Gym Leader]] in {{game5|Gold|Silver|Crystal|HeartGold|SoulSilver}}.
+**{{p|Miltank}}, supported by this card, is Whitney's signature Pokémon. She uses one in all games she appears in.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=アカネ ''Akane''
+|zh_yue=小茜 ''Síu Sin''
+|zh_cmn=小茜 ''Xiǎo Qiàn''
+|fr=Blanche
+|de=Bianka
+|it=Chiara
+|ko=꼭두 ''Kkokdu''
+|pt_br=Whitney
+|es=Blanca
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bianka (TCG Pocket)]]
+[[es:Blanca (TCG Pocket)]]
+[[fr:Blanche (Source Secrète 069)]]
+[[it:Chiara (Sorgenti Recondite 69)]]
+[[ja:アカネ (ポケポケ)]]
+[[zh:小茜（TCGP）]]

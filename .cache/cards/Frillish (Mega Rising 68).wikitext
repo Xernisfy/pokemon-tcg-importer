@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Frillish
+|ja name=プルリル
+|trans name=Pururill
+|species=Frillish
+|type=Water
+|image=FrillishMegaRising68.png
+|illustrator=Apios
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=068/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+}}
+
+'''Frillish''' (Japanese: '''プルリル''' ''Pururill'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Water Gun
+|jname=みずでっぽう
+|jtrans=Water Gun
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Frillish
+|species=Floating
+|ndex=0592
+|height=3'11"
+|jheight=1.2
+|weight=72.8
+|jweight=33.0
+|dex=Legend has it that the residents of a sunken ancient city changed into these Pokémon.
+|jdex=海底に 沈んだ 古代都市の 住民が ポケモンに なったと いう 言い伝えが 残されている。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Water Gun}} is a [[move]] in the [[Pokémon games]] that {{p|Frillish}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Quabbel (Mega-Aufstieg 068)]]
+[[es:Frillish (Megaascenso TCG Pocket)]]
+[[fr:Viskuse (Méga-Ascension 068)]]
+[[it:Frillish (Mega Ascesa 68)]]
+[[ja:プルリル (ポケポケ B1)]]
+[[zh:轻飘飘（B1）]]

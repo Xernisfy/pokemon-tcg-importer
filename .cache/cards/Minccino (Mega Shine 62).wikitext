@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Minccino
+|ja name=チラーミィ
+|trans name=Chillarmy
+|species=Minccino
+|type=Colorless
+|image=MinccinoMegaShine62.png
+|illustrator=kirisAki
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=062/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Minccino''' (Japanese: '''チラーミィ''' ''Chillarmy'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Play Rough
+|jname=じゃれつく
+|jtrans=Frolic
+|damage=10+
+|effect=Flip a coin. If heads, this attack does 20 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Minccino
+|category=Chinchilla
+|ndex=0572
+|height=1'4"
+|jheight=0.4
+|weight=12.8
+|jweight=5.8
+|dex=These Pokémon like things neat and tidy. They are always sweeping and dusting their habitat, using their tails as brooms.
+|jdex=きれい好きな　性格の　ポケモン｡ 尻尾を　ほうきがわりに　いつも 棲み処の　ほこりを　払っている｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fates Collide|Minccino|86}} from the {{TCG|Fates Collide}} expansion.
+*{{m|Play Rough}} is a [[move]] in the [[Pokémon games]] that {{p|Minccino}} can learn via [[TM]] or [[TR]].
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Picochilla (Mega-Schillern 062)]]
+[[fr:Chinchidou (Méga-Rayonnement 062)]]
+[[it:Minccino (Mega Splendore 62)]]
+[[ja:チラーミィ (ポケポケ B2b)]]
+[[zh:泡沫栗鼠（B2b）]]

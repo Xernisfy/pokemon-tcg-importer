@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Luxray
+|ja name=レントラー
+|trans name=Rentorar
+|species=Luxray
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LuxrayMegaRising88.png|illustrator=Ryota Murayama|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LuxrayMegaRising237.png|illustrator=GIDORA|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LuxrayPromo-B4.png|illustrator=Hasuno|tab caption=Promo}}
+|hp=130
+|weakness=Lightning
+|retreat cost=0
+|evo stage=Stage 2
+|prevo name=Luxio
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=088/226|pack=Mega Blaziken|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=237/226|pack=Mega Blaziken|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=004/P-B|pack=Vol. 1}}
+}}
+
+'''Luxray''' (Japanese: '''レントラー''' ''Rentorar'') is a {{ct|Lightning}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}
+|name=Flash Impact
+|jname=フラッシュインパクト
+|jtrans=Flash Impact
+|damage=110
+|effect=This attack also does 20 damage to 1 of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Luxray
+|category=Gleam Eyes
+|ndex=0405
+|height=4'7"
+|jheight=1.4
+|weight=92.6
+|jweight=42.0
+|dex=Luxray's ability to see through objects comes in handy when it's scouting for danger. 
+|jdex=レントラーの とうし のうりょくは きけんな ものを はっけんする とき とても やくに たつのだ。
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} print of this card was one of five cards that could be pulled from Promo-B Vol. 1 packs; these were made available as part of the [[Mega Pidgeot ex Drop Event]], which ran from November 18 to 28, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=LuxrayMegaRising88.png
+|caption1=Rare card<br>Illus. [[Ryota Murayama]]
+|image2=LuxrayMegaRising237.png
+|caption2=Illustration rare card<br>Illus. [[GIDORA]]
+|image3=LuxrayPromo-B4.png
+|caption3=Promo card<br>Illus. [[Hasuno]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Crown Zenith|Luxray|44}} from the {{TCG|Crown Zenith}} expansion.
+*This card's {{TCGP|Promo-B}} illustration was first featured on {{TCG ID|Rebel Clash|Luxray|62}} from the {{TCG|Rebel Clash}} expansion.
+*'''Flash Impact''' is an attack that first appeared on {{TCG ID|Rising Rivals|Luxray GL LV.X|109}} from the {{TCG|Rising Rivals}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Luxtra (Mega-Aufstieg 088)]]
+[[es:Luxray (Megaascenso TCG Pocket)]]
+[[fr:Luxray (Méga-Ascension 088)]]
+[[it:Luxray (Mega Ascesa 88)]]
+[[ja:レントラー (ポケポケ B1)]]
+[[zh:伦琴猫（B1）]]

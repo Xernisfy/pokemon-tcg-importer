@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Magnemite
+|ja name=コイル
+|trans name=Coil
+|species=Magnemite
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MagnemiteTriumphantLight53.png|illustrator=OKACHEKE|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MagnemiteTriumphantLight80.png|illustrator=Yukihiro Tada|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=053/075|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=080/075|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Magnemite''' (Japanese: '''コイル''' ''Coil'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Magnemite
+|species=Magnet
+|ndex=0081
+|height=1'
+|jheight=0.3
+|weight=13.2
+|jweight=6.0
+|dex=The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.
+|jdex=左右にある　ユニットから　だす 電磁波で　重力を さえぎって　空に　浮かぶのだ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=MagnemiteTriumphantLight53.png
+|caption1=Common card<br>Illus. [[OKACHEKE]]
+|image2=MagnemiteTriumphantLight80.png
+|caption2=Illustration rare card<br>Illus. [[Yukihiro Tada]]
+}}
+
+==Trivia==
+Both prints of this card feature the [[Fuego Ironworks]] in the background, as depicted in {{game|Diamond and Pearl|s|Pokémon Diamond, Pearl}}, {{game|Platinum||Platinum}}, {{game|Brilliant Diamond and Shining Pearl|s|Brilliant Diamond, and Shining Pearl}}. This card is also featured in the {{TCGP|Triumphant Light}} expansion's "Magnezone of Fuego Ironworks" [[Triumphant Light (TCG Pocket)#Themed Collections|Themed Collection]].
+
+===Origin===
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Magnemite}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Magnetilo (Licht des Triumphs 053)]]
+[[es:Magnemite (Luz Triunfal TCG Pocket)]]
+[[fr:Magnéti (Lumière Triomphale 053)]]
+[[it:Magnemite (Luce Trionfale 53)]]
+[[ja:コイル (ポケポケ A2a)]]
+[[zh:小磁怪（A2a）]]

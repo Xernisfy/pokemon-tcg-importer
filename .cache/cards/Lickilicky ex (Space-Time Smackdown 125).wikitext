@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lickilicky {{TCGP Icon|ex}}
+|ja name=ベロベルト{{TCGP Icon|ex}}
+|trans name=Berobelt {{TCGP Icon|ex}}
+|species=Lickilicky
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LickilickyexSpace-TimeSmackdown125.png|illustrator=PLANETA Igarashi|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LickilickyexSpace-TimeSmackdown189.png|illustrator=PLANETA Tsuji|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LickilickyexSpace-TimeSmackdown203.png|illustrator=Jerky|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LickilickyexWisdomofSeaandSky239.png|illustrator=PLANETA Tsuji|tab caption=Shiny Super Rare}}
+|hp=160
+|weakness=Fighting
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Lickitung
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=125/155|pack=Palkia|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=189/155|pack=Palkia|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=203/155|pack=Palkia|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=239/161|pack=Ho-Oh|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=284/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Lickilicky ex''' (Japanese: '''ベロベルトex''' ''Berobelt ex'') is a {{ct|Colorless}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Licking Fury
+|jname=ベロベロラッシュ
+|jtrans=Licking Rush
+|damage=100+
+|effect=Flip a coin until you get tails. This attack does 40 more damage for each heads.
+}}
+{{Cardtext/Pocket ex
+|type=Colorless
+|ndex=0463
+|name=Lickilicky
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=LickilickyexSpace-TimeSmackdown125.png
+|caption1=Double rare card<br>Illus. [[PLANETA Igarashi]]
+|image2=LickilickyexSpace-TimeSmackdown189.png
+|caption2=Super rare card<br>Illus. [[PLANETA Tsuji]]
+|image4=LickilickyexSpace-TimeSmackdown203.png
+|caption4=Special illustration rare card<br>Illus. [[Jerky]]
+|image5=LickilickyexWisdomofSeaandSky239.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA Tsuji]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare print features a {{Shiny}} {{p|Lickilicky}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schlurplek-ex (Kollision von Raum und Zeit 125)]]
+[[es:Lickilicky ex (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Coudlangue-ex (Choc Spatio-Temporel 125)]]
+[[it:Lickilicky-ex (Scontro Spaziotemporale 125)]]
+[[ja:ベロベルトex (ポケポケ A2)]]
+[[zh:大舌舔ex（A2）]]

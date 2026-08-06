@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Onix
+|ja name=イワーク
+|trans name=Iwark
+|species=Onix
+|type=Fighting
+|image=OnixWisdomofSeaandSky92.png
+|illustrator=KEIICHIRO ITO
+|hp=100
+|weakness=Grass
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=092/161|pack=Ho-Oh|rarity=Diamond|rarity count=1}}
+}}
+
+'''Onix''' (Japanese: '''イワーク''' ''Iwark'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Headbutt
+|jname=ずつき
+|jtrans=Headbutt
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Onix
+|category=Rock Snake 
+|ndex=0095
+|height=28'10"
+|jheight=8.8
+|weight=463
+|jweight=210.0
+|dex=As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid.
+|jdex=地中を 掘り進みながら いろんな 硬いものを 取り込み 頑丈な 体をつくる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fusion Strike|Onix|138}} from the {{TCG|Fusion Strike}} expansion.
+*{{m|Headbutt}} is a [[move]] in the [[Pokémon games]] that {{p|Onix}} can learn via [[TM]] or [[Move Tutor]].
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Onix (Weisheit von Meer und Himmel 092)]]
+[[es:Onix (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Onix (Sagesse entre Ciel et Mer 092)]]
+[[it:Onix (La Via del Cielo e del Mare 92)]]
+[[ja:イワーク (ポケポケ A4)]]
+[[zh:大岩蛇（A4）]]

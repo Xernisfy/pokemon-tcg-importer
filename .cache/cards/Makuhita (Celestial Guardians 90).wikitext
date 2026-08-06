@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Makuhita
+|ja name=マクノシタ
+|trans name=Makunoshita
+|species=Makuhita
+|type=Fighting
+|image=MakuhitaCelestialGuardians90.png
+|illustrator=Mina Nakai
+|hp=70
+|weakness=Psychic
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=090/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Makuhita''' (Japanese: '''マクノシタ''' ''Makunoshita'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Slap Push
+|jname=はりて
+|jtrans=Slap Push
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Makuhita
+|species=Guts
+|ndex=0296
+|height=3'3"
+|jheight=1.0
+|weight=190.5
+|jweight=86.4
+|dex=It grows stronger by enduring harsh training. It is a gutsy Pokémon that can withstand any attack. 
+|jdex=厳しい 稽古を 繰り返して 強くなる。 どんな 攻撃にも 耐える 根性の ポケモン。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Makuhita|67}} from the {{TCG|Sun & Moon}} expansion.
+*'''Slap Push''' is an attack that first appeared on {{TCG ID|EX Ruby & Sapphire|Makuhita|56}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Makuhita (Hüter des Firmaments 090)]]
+[[es:Makuhita (Guardianes Celestiales TCG Pocket)]]
+[[fr:Makuhita (Gardiens Astraux 090)]]
+[[it:Makuhita (Guardiani Astrali 90)]]
+[[ja:マクノシタ (ポケポケ A3)]]
+[[zh:幕下力士（A3）]]

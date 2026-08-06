@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Genesect
+|ja name=ゲノセクト 
+|trans name=Genesect
+|species=Genesect
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GenesectCrimsonBlaze54.png|illustrator=kawayoo|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GenesectPromo-B23.png|illustrator=Anesaki Dynamic|tab caption=Promo}}
+|hp=110
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=054/069|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=023/P-B|pack=Vol. 3}}
+}}
+
+'''Genesect''' (Japanese: '''ゲノセクト''' ''Genesect'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Metal Blast
+|jname=メタルブラスト
+|jtrans=Metal Blast
+|damage=10+
+|effect=This attack does 20 more damage for each {{e|Metal}} Energy attached to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Genesect
+|species=Paleozoic
+|ndex=0649
+|height=4'11"
+|jheight=1.5
+|weight=181.9
+|jweight=82.5
+|dex=This ancient bug Pokémon was altered by Team Plasma. They upgraded the cannon on its back.
+|jdex=プラズマ団によって 改造された 古代の むしポケモン。背中の 大砲が パワーアップした。
+}}
+
+==Release information==
+This card's Promo print was one of five cards that could be pulled from Promo-B Vol. 3 packs; these were made available as part of the [[Mega Latios ex Drop Event]], which ran from January 17 to February 3, 2026.
+
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=GenesectCrimsonBlaze54.png
+|caption1=Rare card<br>Illus. [[kawayoo]]
+|image2=GenesectPromo-B23.png
+|caption2={{TCGP|Promo-B}} card<br>Illus. [[Anesaki Dynamic]]
+}}
+
+==Trivia==
+===Origin===
+*This card's rare print illustration was first featured on {{TCG ID|Vivid Voltage|Genesect|16}} from the {{TCG|Vivid Voltage}} expansion and the promo print illustration was first featured on {{TCG ID|Unbroken Bonds|Genesect|127}} from the {{TCG|Unbroken Bonds}} expansion.
+*'''Metal Blast''' is an attack that first appeared on {{TCG ID|Diamond & Pearl|Magnezone|8}} from {{TCG|Diamond & Pearl}}.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Genesect (Feuerrote Flammen 054)]]
+[[fr:Genesect (Embrasement Écarlate 054)]]
+[[it:Genesect (Fiamme Cremisi 54)]]
+[[ja:ゲノセクト (ポケポケ B1a)]]
+[[zh:盖诺赛克特（B1a）]]

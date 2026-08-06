@@ -1,0 +1,70 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Persian
+|ja name=アローラペルシアン
+|trans name=Alolan Persian
+|species=Persian
+|type=Darkness
+|image=AlolanPersianCelestialGuardians109.png
+|illustrator=kirisAki
+|hp=100
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Alolan Meowth
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=109/155|pack=Solgaleo|rarity=Diamond|rarity count=3}}
+}}
+
+'''Alolan Persian''' (Japanese: '''アローラペルシアン''' ''Alolan Persian'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Ability/Pocket
+|type=Darkness
+|name=Fur Coat
+|jname=ファーコート
+|jtrans=Fur Coat
+|effect=This Pokémon takes −20 damage from attacks.
+}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}
+|name=Claw Slash
+|jname=ツメできりさく
+|jtrans=Claw Slash
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Persian
+|species=Classy Cat 
+|ndex=053 
+|height=3'0" 
+|jheight=1.1 
+|weight=72.8
+|jweight=33.0 
+|dex=The round face of Alolan Persian is considered to be a symbol of prosperity in the Alola region, so these Pokémon are very well cared for.
+|jdex=アローラ地方では まるい 顔は 富の 象徴と 考えて ペルシアンを 大切に あつかう。
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Persian}}.
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Alolan Persian|79}} from the {{TCG|Sun & Moon}} expansion.
+*{{a|Fur Coat}} is an [[Ability]] in the [[Pokémon games]] that Alolan Persian can have.
+*'''Claw Slash''' is an attack that first appeared on {{TCG ID|XY Promo|Sableye|92}}, one of the {{TCG|XY Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Snobilikat (Hüter des Firmaments 109)]]
+[[es:Persian de Alola (Guardianes Celestiales TCG Pocket)]]
+[[fr:Persian d'Alola (Gardiens Astraux 109)]]
+[[it:Persian di Alola (Guardiani Astrali 109)]]
+[[ja:アローラペルシアン (ポケポケ A3)]]
+[[zh:阿罗拉 猫老大（A3）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Whimsicott
+|ja name=エルフーン
+|trans name=Elfuun
+|species=Whimsicott
+|type=Grass
+|image=WhimsicottGeneticApex28.png
+|illustrator=Atsuko Nishida
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Cottonee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=028/226}}
+}}
+
+'''Whimsicott''' (Japanese: '''エルフーン''' ''Elfuun'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Rolling Tackle
+|jname=ころがりタックル
+|jtrans=Rolling Tackle
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Whimsicott
+|species=Windveiled
+|ndex=0547
+|height=2'4"
+|jheight=0.7
+|weight=14.6
+|jweight=6.6
+|dex=It scatters cotton all over the place as a prank. If it gets wet, it'll become too heavy to move and have no choice but to answer for its mischief.
+|jdex=綿を　まき散らし　イタズラする｡ 水を　かけると　重くなって 動けなくなり　観念するぞ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ancient Origins|Whimsicott|56}} from the {{TCG|Ancient Origins}} expansion.
+**Both cards have the '''Rolling Tackle''' attack, which first appeared on {{TCG ID|Team Rocket|Dark Electrode|34}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Elfun (Unschlagbare Gene 028)]]
+[[es:Whimsicott (Genes Formidables TCG Pocket)]]
+[[fr:Farfaduvet (Puissance Génétique 028)]]
+[[it:Whimsicott (Geni Supremi 28)]]
+[[ja:エルフーン (ポケポケ A1)]]
+[[zh:风妖精（A1）]]

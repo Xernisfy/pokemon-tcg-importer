@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Frost Rotom
+|ja name=フロストロトム
+|trans name=Frost Rotom
+|species=Rotom
+|type=Water
+|image=FrostRotomSpace-TimeSmackdown48.png
+|illustrator=MAHOU
+|hp=80
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=048/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Frost Rotom''' (Japanese: '''フロストロトム''' ''Frost Rotom'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Blizzard
+|jname=ふぶき
+|jtrans=Blizzard
+|damage=30
+|effect=This attack also does 10 damage to each of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Rotom
+|species=Plasma
+|ndex=0479
+|height=1'
+|jheight=0.3
+|weight=0.7
+|jweight=0.3
+|dex=This Rotom has entered a refrigerator. It leaps around gleefully after it uses cold air to freeze the area around it.
+|jdex=冷蔵庫に 入った 姿。 冷気で あたりを 凍てつかせ 愉快そうに 跳ねまわっている。
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Rotom}} in its {{form|Rotom|Frost Rotom}} form.
+*This card's illustration was first featured on {{TCG ID|Ultra Prism|Frost Rotom|41}} from the {{TCG|Ultra Prism}} expansion.
+*{{m|Blizzard}} is a [[move]] in the [[Pokémon games]] that {{p|Rotom|Frost Rotom}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Frost-Rotom (Kollision von Raum und Zeit 048)]]
+[[es:Rotom Frío (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Motisma Froid (Choc Spatio-Temporel 048)]]
+[[it:Rotom Gelo (Scontro Spaziotemporale 48)]]
+[[ja:フロストロトム (ポケポケ A2)]]
+[[zh:结冰洛托姆（A2）]]

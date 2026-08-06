@@ -1,0 +1,79 @@
+{{TCG Card Infobox/Pokémon/Pocket
+| en name = Sylveon {{TCGP Icon|ex}}
+| ja name = ニンフィア{{TCGP Icon|ex}}
+| trans name = Nymphia {{TCGP Icon|ex}}
+| species = Sylveon
+| type = Psychic
+| image set = {{TCG Card Infobox/Tabbed Image/Pocket|image=SylveonexEeveeGrove34.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SylveonexEeveeGrove81.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SylveonexEeveeGrove89.png|illustrator=Yuu Nishida|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SylveonexFantasticalParade229.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+| hp = 140
+| weakness = Metal
+| retreat cost = 1
+| illustrator = 
+| evo stage = Stage 1
+| prevo name = Eevee
+| expansions = {{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=034/069|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=081/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=089/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=177/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=229/155|pack=Any|rarity=Shiny|rarity count=2}}
+}}
+
+'''Sylveon ex''' (Japanese: '''ニンフィアex''' ''Nymphia ex'') is a {{ct|Psychic}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Happy Ribbon
+|jname=ハッピーリボン
+|jtrans=Happy Ribbon
+|effect=Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Fairy Wind
+|jname=ようせいのかぜ
+|jtrans=Fairy Wind
+|damage=70
+}}
+{{Cardtext/Pocket ex
+|type=Psychic
+|ndex=0700
+|name=Sylveon
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=SylveonexEeveeGrove34.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=SylveonexEeveeGrove81.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=SylveonexEeveeGrove89.png
+|caption3=Special illustration rare card<br>Illus. [[Yuu Nishida]]
+|image4=SylveonexFantasticalParade229.png
+|caption4=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Sylveon}}.
+*{{m|Fairy Wind}} is a [[move]] in the [[Pokémon games]] that {{p|Sylveon}} can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Feelinara-ex (Evoli-Hain 034)]]
+[[es:Sylveon ex (Arboleda de Eevee TCG Pocket)]]
+[[fr:Nymphali-ex (La Clairière d'Évoli 034)]]
+[[it:Sylveon-ex (Il Bosco di Eevee 34)]]
+[[ja:ニンフィアex (ポケポケ A3b)]]
+[[zh:仙子伊布ex（A3b）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Zebstrika
+|ja name=ゼブライカ
+|trans name=Zebraika
+|species=Zebstrika
+|type=Lightning
+|image=ZebstrikaExtradimensionalCrisis17.png
+|illustrator=Hajime Kusajima
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Blitzle
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=017/069}}
+}}
+
+'''Zebstrika''' (Japanese: '''ゼブライカ''' ''Zebraika'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Head Bolt
+|jname=ヘッドボルト
+|jtrans=Head Volt
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Zebstrika
+|species=Thunderbolt
+|ndex=0523
+|height=5'3"
+|jheight=1.6
+|weight=175.3
+|jweight=79.5
+|dex=When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions.
+|jdex=激しい　気性の　持ち主｡ 荒ぶると　たてがみから　雷を 四方八方に　放電する｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BREAKpoint|Zebstrika|49}} from the {{TCG|BREAKpoint}} expansion.
+*'''Head Bolt''' is an attack that first appeared on {{TCG ID|Arceus|Manectric|44}} from the {{TCG|Platinum: Arceus|Arceus}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Omega Ruby}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zebritz (Dimensionale Krise 017)]]
+[[es:Zebstrika (Crisis Dimensional TCG Pocket)]]
+[[fr:Zéblitz (Crise Interdimensionnelle 017)]]
+[[it:Zebstrika (Crisi Ultradimensionale 17)]]
+[[ja:ゼブライカ (ポケポケ A3a)]]
+[[zh:雷电斑马（A3a）]]

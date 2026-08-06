@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Luxio
+|ja name=ルクシオ
+|trans name=Luxio
+|species=Luxio
+|type=Lightning
+|image=LuxioMegaRising87.png
+|illustrator=NC Empire
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Shinx
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=087/226|pack=Mega Blaziken|rarity=Diamond|rarity count=2}}
+}}
+
+'''Luxio''' (Japanese: '''ルクシオ''' ''Luxio'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Bite
+|jname=かみつく
+|jtrans=Bite
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Luxio
+|category=Spark
+|ndex=0404
+|height=2'11"
+|jheight=0.9
+|weight=67.2
+|jweight=30.5
+|dex=By gathering their tails together, they collectively generate powerful electricity from their claws.
+|jdex=仲間と 尻尾を つなげると より 強力な 電撃を ツメから 出すことが できる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Shining Fates|Luxio|32}} from the {{TCG|Shining Fates}} expansion.
+*{{m|Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Luxio}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Luxio (Mega-Aufstieg 087)]]
+[[es:Luxio (Megaascenso TCG Pocket)]]
+[[fr:Luxio (Méga-Ascension 087)]]
+[[it:Luxio (Mega Ascesa 87)]]
+[[ja:ルクシオ (ポケポケ B1)]]
+[[zh:勒克猫（B1）]]

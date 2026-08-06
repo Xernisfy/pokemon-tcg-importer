@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Purrloin
+|ja name=チョロネコ
+|trans name=Choroneko
+|species=Purrloin
+|type=Darkness
+|image=PurrloinEeveeGrove45.png
+|illustrator=Kouki Saitou
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=045/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Purrloin''' (Japanese: '''チョロネコ''' ''Choroneko'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Playful Knockdown
+|jname=じゃれおとす
+|jtrans=Playful Knockdown
+|effect=Discard all {{TCGP|Pokémon Tool}}s from your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Purrloin
+|category=Devious 
+|ndex=0509
+|height=1'4"
+|jheight=0.4
+|weight=22.3
+|jweight=10.1
+|dex=Opponents that get drawn in by its adorable behavior come away with stinging scratches from its claws and stinging pride from its laughter.
+|jdex=愛くるしい しぐさで 油断させ 寄ってきた 相手を いきなり ツメで ひっかいて 笑っている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Phantom Forces|Purrloin|56}} from the {{TCG|Phantom Forces}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Felilou (Evoli-Hain 045)]]
+[[es:Purrloin (Arboleda de Eevee TCG Pocket)]]
+[[fr:Chacripan (La Clairière d'Évoli 045)]]
+[[it:Purrloin (Il Bosco di Eevee 45)]]
+[[ja:チョロネコ (ポケポケ A3b)]]
+[[zh:扒手猫（A3b）]]

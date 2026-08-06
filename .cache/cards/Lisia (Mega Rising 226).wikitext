@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Lisia
+|ja name=ルチア
+|trans name=Lutia
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LisiaMegaRising226.png|illustrator=Cona Nitanda|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LisiaMegaRising271.png|illustrator=Cona Nitanda|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Altaria|rarity=Diamond|rarity count=2|number=226/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Altaria|rarity=Star|rarity count=2|number=271/226}}
+}}
+
+'''Lisia''' (Japanese: '''ルチア''' ''Litia'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Put 2 random Basic Pokémon with 50&nbsp;HP or less from your deck into your hand.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=LisiaMegaRising226.png
+|caption1=Uncommon card<br>Illus. [[Cona Nitanda]]
+|image2=LisiaMegaRising271.png
+|caption2=Super rare card<br>Illus. [[Cona Nitanda]]
+}}
+
+==Trivia==
+* {{TCG|Lisia}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Lisia]] is a [[Pokémon Coordinator]] in [[Pokémon Omega Ruby and Alpha Sapphire]].
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=ルチア ''Lutia''
+|zh_yue=琉琪亞 ''Làuhkèih'a''
+|zh_cmn=琉琪亞 ''Liúqíyǎ''
+|fr=Atalante
+|de=Xenia
+|it=Orthilla
+|ko=루티아 ''Lutia''
+|pt_br=Elisia
+|es=Ariana
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Xenia (TCG Pocket)]]
+[[es:Ariana (TCG Pocket)]]
+[[fr:Atalante (Méga-Ascension 226)]]
+[[it:Orthilla (Mega Ascesa 226)]]
+[[ja:ルチア (ポケポケ)]]
+[[zh:琉琪亚（TCGP）]]

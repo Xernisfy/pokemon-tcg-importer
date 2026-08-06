@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sunflora
+|ja name=キマワリ
+|trans name=Kimawari
+|species=Sunflora
+|type=Grass
+|image=SunfloraWisdomofSeaandSky17.png
+|illustrator=Yumi
+|hp=90
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Sunkern
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=017/161|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Sunflora''' (Japanese: '''キマワリ''' ''Kimawari'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Solar Beam
+|jname=ソーラービーム
+|jtrans=Solar Beam
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Sunflora
+|species=Sun
+|ndex=0192
+|height=2'7"
+|jheight=0.8
+|weight=18.7
+|jweight=8.5
+|dex=In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets. 
+|jdex=ひるまは むやみやたらと げんきに うごきまわるが ひが しずむと ばったり うごかなくなる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Sunflora|8}} from the {{TCG|Cosmic Eclipse}} expansion.
+*{{m|Solar Beam}} is a [[move]] in the [[Pokémon games]] that {{p|Sunflora}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sonnflora (Weisheit von Meer und Himmel 017)]]
+[[es:Sunflora (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Héliatronc (Sagesse entre Ciel et Mer 017)]]
+[[it:Sunflora (La Via del Cielo e del Mare 17)]]
+[[ja:キマワリ (ポケポケ A4)]]
+[[zh:向日花怪（A4）]]

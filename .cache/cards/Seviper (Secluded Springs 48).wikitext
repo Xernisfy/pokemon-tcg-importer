@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Seviper
+|ja name=ハブネーク
+|trans name=Habunake
+|species=Seviper
+|type=Darkness
+|image=SeviperSecludedSprings48.png
+|illustrator=Sumiyoshi Kizuki
+|hp=80
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=048/071|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Seviper''' (Japanese: '''ハブネーク''' ''Habunake'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}
+|name=Fateful Fang
+|jname=いんねんのキバ
+|jtrans=Fateful Fang
+|damage=40+
+|effect=If your opponent's Active Pokémon is {{TCGP|Zangoose}}, this attack does 40 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Seviper
+|category=Fang Snake
+|ndex=0336
+|height=8'10"
+|jheight=2.7
+|weight=115.7
+|jweight=52.5
+|dex=Constant polishing makes the edge of the blade on its tail extremely sharp. It's Zangoose's archrival.
+|jdex=尻尾の 刀は いつも 岩で 研いでいるので 切れ味 ばつぐん。ザングースとは 因縁の あいだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Platinum|Seviper|61}} from the {{TCG|Platinum}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Vipitis (Verborgene Quelle 048)]]
+[[es:Seviper (Manantial Oculto TCG Pocket)]]
+[[fr:Séviper (Source Secrète 048)]]
+[[it:Seviper (Sorgenti Recondite 48)]]
+[[ja:ハブネーク (ポケポケ A4a)]]
+[[zh:饭匙蛇（A4a）]]

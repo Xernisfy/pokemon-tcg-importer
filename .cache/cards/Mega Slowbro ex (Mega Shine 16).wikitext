@@ -1,0 +1,85 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Slowbro {{TCGP Icon|Mega ex}}
+|ja name=メガヤドラン{{TCGP Icon|Mega ex}}
+|trans name=Mega Yadoran {{TCGP Icon|Mega ex}}
+|species=Slowbro
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaSlowbroexMegaShine16.png|illustrator=PLANETA Yamashita|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaSlowbroexMegaShine77.png|illustrator=PLANETA Yamashita|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaSlowbroexMegaShine83.png|illustrator=USGMEN|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaSlowbroexMegaShine112.png|illustrator=PLANETA Yamashita|tab caption=Shiny Super Rare}}
+|hp=200
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Slowpoke
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=016/069|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=077/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=083/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=112/069|pack=Any|rarity=Shiny|rarity count=2}}
+}}
+
+'''Mega Slowbro ex''' (Japanese: '''メガヤドランex''' ''Mega Yadoran ex'') is a {{ct|Water}} Stage 1 {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Laundry-Go-Round
+|jname=ランドリーゴーランド
+|jtrans=Laundry Go Round
+|damage=90
+|effect=Flip 3 coins. This attack also does 20 damage for each heads to each of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Water
+|ndex=0080
+|name=Slowbro
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Slowbro
+|category=Hermit Crab
+|ndex=0080
+|height=6'7"
+|jheight=2.0
+|weight=264.6
+|jweight=120.0
+|dex=When bathed in the energy of Mega Evolution, Shellder converts into impregnable armor. There is virtually no change in Slowpoke.
+|jdex=メガシンカの エネルギーを 浴びた シェルダーは 鉄壁の 鎧。 ヤドンには とくに 変化ナシ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=MegaSlowbroexMegaShine16.png
+|caption1=Double rare card<br>Illus. [[PLANETA Yamashita]]
+|image2=MegaSlowbroexMegaShine77.png
+|caption2=Super rare card<br>Illus. [[PLANETA Yamashita]]
+|image3=MegaSlowbroexMegaShine83.png
+|caption3=Special illustration rare card<br>Illus. [[USGMEN]]
+|image4=MegaSlowbroexMegaShine112.png
+|caption4=Shiny super rare card<br>Illus. [[PLANETA Yamashita]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{me|Slowbro}}.
+*This card's shiny super rare illustration features a {{Shiny}} Mega Slowbro.
+*This card's [[Pokédex]] entry comes from {{g|Legends Z-A}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Lahmus-ex (Mega-Schillern 016)]]
+[[fr:Méga-Flagadoss-ex (Méga-Rayonnement 016)]]
+[[it:Mega Slowbro-ex (Mega Splendore 16)]]
+[[ja:メガヤドランex (ポケポケ B2b)]]
+[[zh:超级呆壳兽ex（B2b）]]

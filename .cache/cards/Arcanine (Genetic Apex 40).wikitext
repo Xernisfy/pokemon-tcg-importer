@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Arcanine
+|ja name=ウインディ
+|trans name=Windie
+|species=Arcanine
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArcanineGeneticApex40.png|illustrator=kodama|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArcanineExtradimensionalCrisis90.png|illustrator=Saya Tsuruta|tab caption=Shiny Rare}}
+|hp=130
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Growlithe
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=040/226|pack=Pikachu|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=090/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Arcanine''' (Japanese: '''ウインディ''' ''Windie'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Colorless}}
+|name=Heat Tackle
+|jname=ヒートタックル
+|jtrans=Heat Tackle
+|damage=100
+|effect=This Pokémon also does 20 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Arcanine
+|species=Legendary
+|ndex=0059
+|height=6'3"
+|jheight=1.9
+|weight=341.7
+|jweight=155.0
+|dex=An ancient picture scroll shows that people were captivated by its movement as it ran through prairies.
+|jdex=草原を　駆け抜ける　様子は 人々の　心を　虜にしたと 昔の　絵巻に　記されていた｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=ArcanineGeneticApex40.png
+|caption1=Rare card<br>Illus. [[kodama]]
+|image2=ArcanineExtradimensionalCrisis90.png
+|caption2=Shiny rare card<br>Illus. [[Saya Tsuruta]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Sun & Moon|Arcanine|22}} from the {{TCG|Sun & Moon}} expansion.
+*This card's shiny rare print features a {{Shiny}} {{p|Arcanine}}.
+*'''Heat Tackle''' is an attack that first appeared on {{TCG ID|Gym Challenge|Blaine's Arcanine|1}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Arkani (Unschlagbare Gene 040)]]
+[[es:Arcanine (Genes Formidables TCG Pocket)]]
+[[fr:Arcanin (Puissance Génétique 040)]]
+[[it:Arcanine (Geni Supremi 40)]]
+[[ja:ウインディ (ポケポケ A1)]]
+[[zh:风速狗（A1）]]

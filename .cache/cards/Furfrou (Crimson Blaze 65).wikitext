@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Furfrou
+|ja name=トリミアン
+|trans name=Trimmien
+|species=Furfrou
+|type=Colorless
+|image=FurfrouCrimsonBlaze65.png
+|illustrator=Kazumasa Yasukuni
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=065/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Furfrou''' (Japanese: '''トリミアン''' ''Trimmien'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Fur Coat
+|jname=ファーコート
+|jtrans=Fur Coat
+|effect=This Pokémon takes –20 damage from attacks.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Furfrou
+|species=Poodle
+|ndex=0676
+|height=3'11"
+|jheight=1.2
+|weight=61.7
+|jweight=28.0
+|dex=Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.
+|jdex=放っておくと 体毛は どんどん 伸び続けるが 信頼した 者にしか カットは 許さない。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration features the Kabuki Trim of {{p|Furfrou}}.
+*{{a|Fur Coat}} is an [[Ability]] in the [[Pokémon games]] that {{p|Furfrou}} can have.
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Furfrou}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Coiffwaff (Feuerrote Flammen 065)]]
+[[fr:Couafarel (Embrasement Écarlate 065)]]
+[[it:Furfrou (Fiamme Cremisi 65)]]
+[[ja:トリミアン (ポケポケ B1a)]]
+[[zh:多丽米亚（B1a）]]

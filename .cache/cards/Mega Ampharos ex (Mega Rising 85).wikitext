@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Ampharos {{TCGP Icon|Mega ex}}
+|ja name=メガデンリュウ{{TCGP Icon|Mega ex}}
+|trans name=Mega Denryu {{TCGP Icon|Mega ex}}
+|species=Ampharos
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaAmpharosexMegaRising85.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaAmpharosexMegaRising258.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaAmpharosexMegaRising277.png|illustrator=Amelicart|tab caption=Special Illustration Rare}}
+|hp=210
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Flaaffy
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=085/226|pack=Mega Altaria|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=258/226|pack=Mega Altaria|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=277/226|pack=Mega Altaria|rarity=Star|rarity count=2}}
+}}
+
+'''Mega Ampharos ex''' (Japanese: '''メガデンリュウex''' ''Mega Denryu ex'') is a {{ct|Lightning}} Stage 2 {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Mega Species/Pocket|Ampharos}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}{{e|Colorless}}
+|name=Lightning Lancer
+|jname=ライトニングランサー
+|jtrans=Lightning Lancer
+|damage=100
+|effect=1 of your opponent's Benched Pokémon is chosen at random 3 times. For each time a Pokémon was chosen, also do 20 damage to it.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Lightning
+|ndex=0181
+|name=Ampharos
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Ampharos
+|category=Light
+|ndex=0181
+|height=4'7"
+|jheight=1.4
+|weight=135.6
+|jweight=61.5
+|dex=The tail's tip shines brightly and can be seen from far away. It acts as a beacon for lost people.
+|jdex=尻尾の 先が 光り輝く。 光は はるか 遠くまで 届き 迷った者の 道標となる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=MegaAmpharosexMegaRising85.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=MegaAmpharosexMegaRising258.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=MegaAmpharosexMegaRising277.png
+|caption3=Special illustration rare card<br>Illus. [[Amelicart]]
+}}
+
+==Trivia==
+===Origin===
+*This card features [[Mega]] {{p|Ampharos}}.
+*This card's [[Pokédex]] entry comes from {{g|Y}}. It refers to Ampharos and has not been previously used for Mega Ampharos.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Ampharos-ex (Mega-Aufstieg 085)]]
+[[es:Mega-Ampharos ex (Megaascenso TCG Pocket)]]
+[[fr:Méga-Pharamp-ex (Méga-Ascension 085)]]
+[[it:Mega Ampharos-ex (Mega Ascesa 85)]]
+[[ja:メガデンリュウex (ポケポケ B1)]]
+[[zh:超级电龙ex（B1）]]

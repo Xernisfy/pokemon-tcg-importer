@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Volbeat
+|ja name=バルビート
+|trans name=Barubeat
+|species=Volbeat
+|type=Grass
+|image=VolbeatMegaShine3.png
+|illustrator=Kouki Saitou
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=003/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Volbeat''' (Japanese: '''バルビート''' ''Barubeat'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Confuse Ray
+|jname=あやしいひかり
+|jtrans=Eerie Light
+|damage=10
+|effect=Your opponent's Active Pokémon is now {{TCG|Confused}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Volbeat
+|category=Firefly
+|ndex=0313
+|height=2'4"
+|jheight=0.7
+|weight=39
+|jweight=17.7
+|dex=It flashes the light on its rear to communicate with other Volbeat. It loves the sweet aroma given off by Illumise.
+|jdex=お尻の　光を　点滅させて 仲間と　会話する｡　イルミーゼの 出す　甘い　香りが　大好き｡
+}}
+
+==Trivia==
+===Origin===
+*This card’s illustration was first featured on {{TCG ID|EX Emerald|Volbeat|42}} from the {{TCG|EX Emerald}} expansion.
+**Both cards have the {{m|Confuse Ray}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Volbeat}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Volbeat (Mega-Schillern 003)]]
+[[fr:Muciole (Méga-Rayonnement 003)]]
+[[it:Volbeat (Mega Splendore 3)]]
+[[ja:バルビート (ポケポケ B2b)]]
+[[zh:电萤虫（B2b）]]

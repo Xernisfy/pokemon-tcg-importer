@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Druddigon
+|ja name=クリムガン
+|trans name=Crimgan
+|species=Druddigon
+|type=Dragon
+|image=DruddigonMegaShine57.png
+|illustrator=kawayoo
+|hp=100
+|weakness=
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=057/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Druddigon''' (Japanese: '''クリムガン''' ''Crimgan'') is a {{ct|Dragon}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Clutch
+|jname=わしづかみ
+|jtrans=Firm Clutch
+|damage=40
+|effect=During your opponent's next turn, the Defending Pokémon can't retreat.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Druddigon
+|category=Cave
+|ndex=0621
+|height=5'3"
+|jheight=1.6
+|weight=306.4
+|jweight=139.0
+|dex=Druddigon are vicious and cunning. They take up residence in nests dug out by other Pokémon, treating the stolen nests as their own lairs.
+|jdex=凶暴で　ずる賢い｡ ほかの　ポケモンが　掘った 巣穴を　奪って　すみかにする｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Steam Siege|Druddigon|83}} from the {{TCG|Steam Siege}} expansion.
+*'''Clutch''' is an attack that first appeared on {{TCG ID|Gym Heroes|Lt. Surge's Fearow|7}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Shardrago (Mega-Schillern 057)]]
+[[fr:Drakkarmin (Méga-Rayonnement 057)]]
+[[it:Druddigon (Mega Splendore 57)]]
+[[ja:クリムガン (ポケポケ B2b)]]
+[[zh:赤面龙（B2b）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Poliwag
+|ja name=ニョロモ
+|trans name=Nyoromo
+|species=Poliwag
+|type=Water
+|image=PoliwagPromo-A103.png
+|illustrator=MAHOU
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=103/P-A|pack=Vol. 12}}
+}}
+
+'''Poliwag''' (Japanese: '''ニョロモ''' ''Nyoromo'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Colorless}}
+|name=Surprise Attack
+|jname=ふいをつく
+|jtrans=Surprise Attack
+|damage=40
+|effect=Flip a coins. If tails, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Poliwag
+|species=Tadpole
+|ndex=0060
+|height=2'00"
+|jheight=0.6
+|weight=27.3
+|jweight=12.4
+|dex=For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon's innards showing through the skin.
+|jdex=歩くよりも　泳ぐほうが　得意。 お腹の　渦巻き模様は 透けて　見える　内臓の　一部だ。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 12 packs; these were made available as part of the [[Zoroark Drop Event]], which ran from September 3 to 13, 2025.
+
+==Trivia==
+===Origin===
+* This card's illustration was first featured on {{TCG ID|Furious Fists|Poliwag|15}} from the {{TCG|Furious Fists}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Quapsel (PROMO-A 103)]]
+[[es:Poliwag (Promo-A 103 TCG Pocket)]]
+[[fr:Ptitard (Promo-A 103)]]
+[[it:Poliwag (Promo-A 103)]]
+[[ja:ニョロモ (ポケポケ P-A)]]
+[[zh:蚊香蝌蚪（P-A）]]

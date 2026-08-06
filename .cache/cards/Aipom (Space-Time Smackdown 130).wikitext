@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Aipom
+|ja name=エイパム
+|trans name=Eipam
+|species=Aipom
+|type=Colorless
+|image=AipomSpace-TimeSmackdown130.png
+|illustrator=Miki Tanaka
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=130/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Aipom''' (Japanese: '''エイパム''' ''Eipam'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Tail Jab
+|jname=しっぽパンチ
+|jtrans=Tail Punch
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Aipom
+|species=Long Tail
+|ndex=0190
+|height=2'7"
+|jheight=0.8
+|weight=25.4
+|jweight=11.5
+|dex=As it did more and more with its tail, its hands became clumsy. It makes its nest high in the treetops.
+|jdex=シッポで いろんなことを していたら 手先は 不器用に なってしまった。 高い 木の上に 巣を 作る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Aipom|169}} from the {{TCG|Cosmic Eclipse}} expansion.
+*'''Tail Jab''' is a move that first appeared in {{TCG ID|Steam Siege|Aipom|90}} from the {{TCG|Steam Siege}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Griffel (Kollision von Raum und Zeit 130)]]
+[[es:Aipom (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Capumain (Choc Spatio-Temporel 130)]]
+[[it:Aipom (Scontro Spaziotemporale 130)]]
+[[ja:エイパム (ポケポケ A2)]]
+[[zh:长尾怪手（A2）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Grimmsnarl
+|ja name=オーロンゲ
+|trans name=Ohlonge
+|species=Grimmsnarl
+|type=Darkness
+|image=GrimmsnarlMegaRising165.png
+|illustrator=DOM
+|hp=160
+|weakness=Grass
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Morgrem
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=165/226|pack=Mega Altaria|rarity=Diamond|rarity count=3}}
+}}
+
+'''Grimmsnarl''' (Japanese: '''オーロンゲ''' ''Ohlonge'') is a {{ct|Darkness}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Darkness}}
+|name=Wrack Down
+|jname=たたきつぶす
+|jtrans=Smash Up
+|damage=100
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Grimmsnarl
+|category=Bulk Up
+|ndex=0861
+|height=4'11"
+|jheight=1.5
+|weight=134.5
+|jweight=61.0
+|dex=It lives deep within the forest. Even after evolving into this splendid form, it hasn't given up on its petty misdeeds and pranks.
+|jdex=森の 奥深くに 暮らしている。 立派に 進化しても くだらない 悪さと 悪戯は やめないのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Brilliant Stars|Grimmsnarl|94}} from the {{TCG|Brilliant Stars}} expansion.
+*'''Wrack Down''' is an attack that first appeared on {{TCG ID|Platinum|Giratina|10}} from the {{TCG|Platinum}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Olangaar (Mega-Aufstieg 165)]]
+[[es:Grimmsnarl (Megaascenso TCG Pocket)]]
+[[fr:Angoliath (Méga-Ascension 165)]]
+[[it:Grimmsnarl (Mega Ascesa 165)]]
+[[ja:オーロンゲ (ポケポケ B1)]]
+[[zh:长毛巨魔（B1）]]

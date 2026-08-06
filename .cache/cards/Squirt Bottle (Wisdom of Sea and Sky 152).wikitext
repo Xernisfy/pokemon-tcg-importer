@@ -1,0 +1,46 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Squirt Bottle
+|ja name=ゼニガメじょうろ
+|trans name=Zenigame Watering Can
+|subtype=Item
+|image=SquirtBottleWisdomofSeaandSky152.png
+|illustrator=AYUMI ODASHIMA
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=152/161|pack=Lugia|rarity=Diamond|rarity count=2}}
+}}
+
+'''Squirt Bottle''' (Japanese: '''ゼニガメじょうろ''' ''Zenigame Watering Can'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Discard a {{e|Fire}} Energy from your opponent's Active Pokémon.
+}}
+
+==Trivia==
+===Origin===
+*The [[Squirt Bottle]] is a [[Key Item]] in the [[Pokémon games]]. It is a [[watering can]] shaped like a {{p|Squirtle}}.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=ゼニガメじょうろ ''Zenigame Jōro''
+|zh_yue=傑尼龜噴壺 ''Gihtnèihgwāi Panwú''
+|zh_cmn=傑尼龜噴壺 ''Jiéníguī Pēnhú''
+|fr=Carapuce à O
+|de=Schiggykanne
+|it=Annaffiatoio
+|ko=꼬부기물뿌리개 ''Kkobugi Mulppurigae''
+|pt_br=Regador Squirtle
+|es=Squirgadera
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schiggykanne (TCG Pocket)]]
+[[es:Squirgadera (TCG Pocket)]]
+[[fr:Carapuce à O (Sagesse entre Ciel et Mer 152)]]
+[[it:Annaffiatoio (La Via del Cielo e del Mare 152)]]
+[[ja:ゼニガメじょうろ (ポケポケ)]]
+[[zh:杰尼龟喷壶（TCGP）]]

@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Marlon
+|ja name=シズイ
+|trans name=Shizui
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MarlonMegaRising221.png|illustrator=Hideki Ishikawa|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MarlonMegaRising266.png|illustrator=Hideki Ishikawa|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Diamond|rarity count=2|number=221/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Star|rarity count=2|number=266/226}}
+}}
+
+'''Marlon''' (Japanese: '''シズイ''' ''Shizui'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Heal 70 damage from 1 of your {{TCGP|Carracosta}} or {{TCGP|Jellicent}}.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=MarlonMegaRising221.png
+|caption1=Uncommon card<br>Illus. [[Hideki Ishikawa]]
+|image2=MarlonMegaRising266.png
+|caption2=Super rare card<br>Illus. [[Hideki Ishikawa]]
+}}
+
+==Trivia==
+===Origin===
+*[[Marlon]] is the [[Gym Leader]] of the [[Humilau Gym]].
+*{{p|Carracosta}} and {{p|Jellicent}} are Pokémon that Marlon uses in Pokémon {{2v2|Black|White|2}}.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=シズイ ''Shizui''
+|zh_yue=西子伊 ''Sāijíyī''
+|zh_cmn=西子伊 ''Xīzǐyī''
+|fr=Amana
+|de=Benson
+|it=Ciprian
+|ko=시즈 ''Sijeu''
+|pt_br=Marlon
+|es=Ciprián
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Benson (TCG Pocket)]]
+[[es:Ciprián (TCG Pocket)]]
+[[fr:Amana (Méga-Ascension 221)]]
+[[it:Ciprian (Mega Ascesa 221)]]
+[[ja:シズイ (ポケポケ)]]
+[[zh:西子伊（TCGP）]]

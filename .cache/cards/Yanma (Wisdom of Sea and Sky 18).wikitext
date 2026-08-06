@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Yanma
+|ja name=ヤンヤンマ
+|trans name=Yanyanma
+|species=Yanma
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=YanmaWisdomofSeaandSky18.png|illustrator=Tomokazu Komiya|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=YanmaWisdomofSeaandSky212.png|illustrator=MAHOU|tab caption=Shiny Rare}}
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=018/161}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Ho-Oh|rarity=Shiny|rarity count=1|number=212/161}}
+}}
+
+'''Yanma''' (Japanese: '''ヤンヤンマ''' ''Yanyanma'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=U-turn
+|jname=とんぼがえり
+|jtrans=Round-trip
+|damage=20
+|effect=Switch this Pokémon with 1 of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Yanma
+|category=Clear Wing
+|ndex=0193
+|height=3'11"
+|jheight=1.2
+|weight=83.8
+|jweight=38.0
+|dex=Its eyes can see 360 degrees without moving its head. It won't miss prey—even those behind it.
+|jdex=顔を 動かさずに ３６０度 すべてを 見渡す 目を 持つので 真後ろの 獲物も 見逃さない。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=YanmaWisdomofSeaandSky18.png
+|caption1=Rare card<br>Illus. [[Tomokazu Komiya]]
+|image2=YanmaWisdomofSeaandSky212.png
+|caption2=Shiny rare card<br>Illus. [[MAHOU]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|EX Team Rocket Returns|Yanma|28}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Yanma}}.
+*{{m|U-turn}} is a [[move]] in the [[Pokémon games]] that {{p|Yanma}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Yanma (Weisheit von Meer und Himmel 018)]]
+[[es:Yanma (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Yanma (Sagesse entre Ciel et Mer 018)]]
+[[it:Yanma (La Via del Cielo e del Mare 18)]]
+[[ja:ヤンヤンマ (ポケポケ A4)]]
+[[zh:蜻蜻蜓（A4）]]

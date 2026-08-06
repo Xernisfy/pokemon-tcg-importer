@@ -1,0 +1,85 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Raichu
+|ja name=ライチュウ
+|trans name=Raichu
+|species=Raichu
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RaichuTriumphantLight26.png|illustrator=Nisota Niso|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RaichuPromo-A44.png|illustrator=Kazumasa Yasukuni|tab caption=Promo}}
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Pikachu
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=026/075|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=044/P-A|pack=Vol. 5}}
+}}
+
+'''Raichu''' (Japanese: '''ライチュウ''' ''Raichu'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Ability/Pocket
+|type=Lightning
+|name=Resilience Link
+|jname=ガードリンク
+|jtrans=Guard Link
+|effect=If you have {{TCGP|Arceus}} or {{DL|Arceus (TCG Pocket)|Arceus ex}} in play, this Pokémon takes −30 damage from attacks.
+}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Spark
+|jname=スパーク
+|jtrans=Spark
+|damage=40
+|effect=This attack also does 20 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Raichu
+|species=Mouse
+|ndex=0026
+|height=2'7"
+|jheight=0.8
+|weight=66.1
+|jweight=30.0
+|dex=Its tail discharges electricity into the ground, protecting it from getting shocked.
+|jdex=尻尾が　アースの　役目をはたして 電気を　地面に　逃がすので 自分自身は　しびれたりしない｡
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of five cards that could be pulled from Promo-A Vol. 5 packs; these were made available as part of the [[Gible Drop Event]], which ran from March 3 to 17, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=RaichuTriumphantLight26.png
+|caption1=Rare card<br>Illus. [[Nisota Niso]]
+|image2=RaichuPromo-A44.png
+|caption2=Promo card<br>Illus. [[Kazumasa Yasukuni]]
+}}
+
+==Trivia==
+*Raichu is one of eight Pokémon in the {{TCGP|Triumphant Light}} expansion to feature a {{TCGP|Link Ability}} that is active or usable while {{TCGP|Arceus|Arceus or Arceus ex}} is in play. All of these cards, along with {{TCG ID|Triumphant Light|Arceus|70}} and {{TCG ID|Triumphant Light|Arceus ex|71}} from the same expansion, have a special pattern behind the card text to symbolise their connection to Arceus and are part of the [[Triumphant Light (TCG Pocket)#Themed Collections|Themed Collection]] "Pokémon with Abilities that "Link" with Arceus".
+*This card's set number in the {{TCGP|Triumphant Light}} expansion is 026, which is also {{p|Raichu}}'s [[National Pokédex]] [[List of Pokémon by National Pokédex number|number]].
+
+===Origin===
+*{{m|Spark}} is a [[move]] in the [[Pokémon games]] that {{p|Raichu}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Raichu (Licht des Triumphs 026)]]
+[[es:Raichu (Luz Triunfal TCG Pocket)]]
+[[fr:Raichu (Lumière Triomphale 026)]]
+[[it:Raichu (Luce Trionfale 26)]]
+[[ja:ライチュウ (ポケポケ A2a)]]
+[[zh:雷丘（A2a）]]

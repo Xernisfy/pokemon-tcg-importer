@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Combee
+|ja name=ミツハニー
+|trans name=Mitsuhoney
+|species=Combee
+|type=Grass
+|image=CombeeTriumphantLight4.png
+|illustrator=Akira Komayama
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=004/075|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Combee''' (Japanese: '''ミツハニー''' ''Mitsuhoney'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Bug Bite
+|jname=むしくい
+|jtrans=Bug Bite
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Combee
+|species=Tiny Bee
+|ndex=0415
+|height=1'
+|jheight=0.3
+|weight=12.1
+|jweight=5.5
+|dex=At night, Combee sleep in a group of about a hundred, packed closely together in a lump.
+|jdex=夜に なると １００匹 ほどの ミツハニーが 寄り添い合って 大きな かたまりで 眠る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Combee|31}} from the {{TCG|Lost Thunder}} expansion.
+*{{m|Bug Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Combee}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wadribie (Licht des Triumphs 004)]]
+[[es:Combee (Luz Triunfal TCG Pocket)]]
+[[fr:Apitrini (Lumière Triomphale 004)]]
+[[it:Combee (Luce Trionfale 4)]]
+[[ja:ミツハニー (ポケポケ A2a)]]
+[[zh:三蜜蜂（A2a）]]

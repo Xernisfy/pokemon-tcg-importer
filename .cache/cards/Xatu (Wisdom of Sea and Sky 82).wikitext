@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Xatu
+|ja name=ネイティオ
+|trans name=Natio
+|species=Xatu
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=XatuWisdomofSeaandSky82.png|illustrator=Hajime Kusajima|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=XatuWisdomofSeaandSky174.png|illustrator=Masako Tomii|tab caption=Illustration Rare}}
+|hp=80
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Natu
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lugia|rarity=Diamond|rarity count=3|number=082/161}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lugia|rarity=Star|rarity count=1|number=174/161}}
+}}
+
+'''Xatu''' (Japanese: '''ネイティオ''' ''Natio'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Life Drain
+|jname=ライフダウン
+|jtrans=Life Down
+|damage=
+|effect=Flip a coin. If heads, your opponent's Active Pokémon's remaining HP is now 10.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Xatu
+|category=Mystic 
+|ndex=0178
+|height=4'11"
+|jheight=1.5
+|weight=33.1
+|jweight=15.0
+|dex=They say that it stays still and quiet because it is seeing both the past and future at the same time.
+|jdex=ほとんど 動かず 鳴きもせず じっとするのは 過去と 未来を 見ているからだと 信じられている。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=XatuWisdomofSeaandSky82.png
+|caption1=Rare card<br>Illus. [[Hajime Kusajima]]
+|image2=XatuWisdomofSeaandSky174.png
+|caption2=Illustration rare card<br>Illus. [[Masako Tomii]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Roaring Skies|Xatu|29}} from the {{TCG|Roaring Skies}} expansion.
+*'''Life Drain''' is an attack that first appeared on {{TCG ID|Gym Challenge|Sabrina's Kadabra|58}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Xatu (Weisheit von Meer und Himmel 082)]]
+[[es:Xatu (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Xatu (Sagesse entre Ciel et Mer 082)]]
+[[it:Xatu (La Via del Cielo e del Mare 82)]]
+[[ja:ネイティオ (ポケポケ A4)]]
+[[zh:天然鸟（A4）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lilligant
+|ja name=ドレディア
+|trans name=Dredear
+|species=Lilligant
+|type=Grass
+|image=LilligantGeneticApex30.png
+|illustrator=You Iribi
+|hp=100
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Petilil
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=030/226|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Lilligant''' (Japanese: '''ドレディア''' ''Dredear'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Leaf Supply
+|jname=リーフサプライ
+|jtrans=Leaf Supply
+|damage=50
+|effect=Take a {{e|Grass}} Energy from your Energy Zone and attach it to 1 of your Benched {{e|Grass}} Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Lilligant
+|species=Flowering
+|ndex=0549
+|height=3'7"
+|jheight=1.1
+|weight=35.9
+|jweight=16.3
+|dex=The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult.
+|jdex=頭の　花飾りから　発する 香りを　かぐと　リラックスできるが 手入れが　とても　難しい｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Guardians Rising|Lilligant|5}} from the {{TCG|Guardians Rising}} expansion.
+*'''Leaf Supply''' is an attack that first appeared on {{TCG ID|Arceus|Sceptile|31}} from the {{TCG|Platinum: Arceus|Arceus}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dressella (Unschlagbare Gene 030)]]
+[[es:Lilligant (Genes Formidables TCG Pocket)]]
+[[fr:Fragilady (Puissance Génétique 030)]]
+[[it:Lilligant (Geni Supremi 30)]]
+[[ja:ドレディア (ポケポケ A1)]]
+[[zh:裙儿小姐（A1）]]

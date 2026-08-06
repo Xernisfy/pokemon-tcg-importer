@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pangoro
+|ja name=ゴロンダ
+|trans name=Goronda
+|species=Pangoro
+|type=Darkness
+|image=PangoroMegaRising158.png
+|illustrator=Uta
+|hp=120
+|weakness=Grass
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Pancham
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Diamond|rarity count=3|number=158/226}}
+}}
+
+'''Pangoro''' (Japanese: '''ゴロンダ''' ''Goronda'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Overdrive Smash
+|jname=オーバースマッシュ
+|jtrans=Over Smash
+|damage=30
+|effect=During your next turn, this Pokémon's Overdrive Smash attack does +30 damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Pangoro
+|species=Daunting
+|ndex=0675
+|height=6'11"
+|jheight=2.1
+|weight=299.8
+|jweight=136.0
+|dex=Using its leaf, Pangoro can predict the moves of its opponents. It strikes with punches that can turn a dump truck into scrap with just one hit.
+|jdex=葉っぱで 相手の 動きを 読む。 大型 ダンプカーを 一撃で スクラップにする パンチを もつ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Crown Zenith|Pangoro|80}} from the {{TCG|Crown Zenith}} expansion.
+*'''Overdrive Smash''' is an attack that first appeared on {{TCG ID|BW Promo|Genesect|86}}, one of the {{TCG|BW Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pandagro (Mega-Aufstieg 158)]]
+[[es:Pangoro (Megaascenso TCG Pocket)]]
+[[fr:Pandarbare (Méga-Ascension 158)]]
+[[it:Pangoro (Mega Ascesa 158)]]
+[[ja:ゴロンダ (ポケポケ B1)]]
+[[zh:流氓熊猫（B1）]]

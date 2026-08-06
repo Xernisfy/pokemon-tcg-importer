@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Slurpuff
+|ja name=ペロリーム
+|trans name=Peroream
+|species=Slurpuff
+|type=Psychic
+|image=SlurpuffMegaRising118.png
+|illustrator=Mizue
+|hp=110
+|weakness=Metal
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Swirlix
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Altaria|rarity=Diamond|rarity count=2|number=118/226}}
+}}
+
+'''Slurpuff''' (Japanese: '''ペロリーム''' ''Peroream'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Draining Kiss
+|jname=ドレインキッス
+|jtrans=Drain Kiss
+|damage=50
+|effect=Heal 30 damage from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Slurpuff
+|species=Meringue
+|ndex=0685
+|height=2'7"
+|jheight=0.8
+|weight=11
+|jweight=5.0
+|dex=Slurpuff's fur contains a lot of air, making it soft to the touch and lighter than it looks.
+|jdex=体毛に たくさん 空気を 含んでいるので 触り心地は 柔らかく 見た目より 軽い。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Silver Tempest|Slurpuff|84}} from the {{TCG|Silver Tempest}} expansion; both cards have the Draining Kiss attack.
+*{{m|Draining Kiss}} is a [[move]] in the [[Pokémon games]] that {{p|Slurpuff}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sabbaione (Mega-Aufstieg 118)]]
+[[es:Slurpuff (Megaascenso TCG Pocket)]]
+[[fr:Cupcanaille (Méga-Ascension 118)]]
+[[it:Slurpuff (Mega Ascesa 118)]]
+[[ja:ペロリーム (ポケポケ B1)]]
+[[zh:胖甜妮（B1）]]

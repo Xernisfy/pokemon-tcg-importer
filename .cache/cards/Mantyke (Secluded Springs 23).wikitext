@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mantyke
+|ja name=タマンタ
+|trans name=Tamanta
+|species=Mantyke
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MantykeSecludedSprings23.png|illustrator=Shibuzoh.|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MantykeFantasticalParade210.png|illustrator=Taiga Kasai|tab caption=Shiny Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MantykeSecludedSprings105.png|illustrator=PLANETA Tsuji|tab caption=Ultra Rare}}
+|hp=30
+|weakness=
+|retreat cost=0
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=023/071|pack=Any (Bonus)|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=105/071|pack=Any|rarity=Crown|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=210/155|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Mantyke''' (Japanese: '''タマンタ''' ''Tamanta'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|None}}
+|name=Splashy Toss
+|jname=ざぶざぶトス
+|jtrans=Splashing Toss
+|effect=Take a {{e|Water}} Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Mantyke
+|category=Kite
+|ndex=0458
+|height=3'3"
+|jheight=1.0
+|weight=143.3
+|jweight=65.0
+|dex=It's highly friendly and easily tamed. Tours that take people swimming with Mantyke are a super-popular beach activity.
+|jdex=とても 人懐っこく よく懐く。 タマンタとの ふれあい ツアーは 大人気の ビーチアクティビティ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=MantykeSecludedSprings23.png
+|caption1=Rare card<br>Illus. [[Shibuzoh.]]
+|image2=MantykeSecludedSprings105.png
+|caption2=Ultra rare card<br>Illus. [[PLANETA Tsuji]]
+|image3=MantykeFantasticalParade210.png
+|caption3=Shiny rare card<br>Illus. [[Taiga Kasai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+*This card's {{TCGP|Fantastical Parade}} print features a {{Shiny}} {{p|Mantyke}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mantirps (Verborgene Quelle 023)]]
+[[es:Mantyke (Manantial Oculto TCG Pocket)]]
+[[fr:Babimanta (Source Secrète 023)]]
+[[it:Mantyke (Sorgenti Recondite 23)]]
+[[ja:タマンタ (ポケポケ A4a)]]
+[[zh:小球飞鱼（A4a）]]

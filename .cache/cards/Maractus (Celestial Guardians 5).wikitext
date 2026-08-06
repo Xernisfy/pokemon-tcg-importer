@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Maractus
+|ja name=マラカッチ
+|trans name=Maracacchi
+|species=Maractus
+|type=Grass
+|image=MaractusCelestialGuardians5.png
+|illustrator=Kagemaru Himeno
+|hp=90
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=005/155|pack=Lunala|rarity=Diamond|rarity count=1}}
+}}
+
+'''Maractus''' (Japanese: '''マラカッチ''' ''Maracacchi'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Sting
+|jname=チクチクさす
+|jtrans=Stinging Stab
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Maractus
+|species=Cactus
+|ndex=0556
+|height=3'3"
+|jheight=1.0
+|weight=61.7
+|jweight=28.0
+|dex=With noises that could be mistaken for the rattles of maracas, it creates an upbeat rhythm, startling bird Pokémon and making them fly off in a hurry.
+|jdex=マラカスの ような 音を だす。 陽気な リズムに 鳥ポケモンは 驚き 慌て 飛び去っていく。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Black & White|Maractus|11}} from the {{TCG|Black & White}} expansion.
+*'''Sting''' is an attack that first appeared on {{TCG ID|Gym Challenge|Koga's Weedle|82}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Maracamba (Hüter des Firmaments 005)]]
+[[es:Maractus (Guardianes Celestiales TCG Pocket)]]
+[[fr:Maracachi (Gardiens Astraux 005)]]
+[[it:Maractus (Guardiani Astrali 5)]]
+[[ja:マラカッチ (ポケポケ A3)]]
+[[zh:沙铃仙人掌（A3）]]

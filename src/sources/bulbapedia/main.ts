@@ -1,4 +1,4 @@
-import { ensureDirSync } from "@std/fs";
+import { ensureDir } from "@std/fs";
 import { cardsCachePath, setsCachePath } from "../../lib.ts";
 import { useCache } from "../../main.ts";
 import { Card, CardSet } from "../../types.ts";
@@ -8,8 +8,8 @@ import { getCardMetadata, getSetMetadata } from "./lib.ts";
 
 export async function bulbapedia() {
   if (useCache) {
-    ensureDirSync(setsCachePath);
-    ensureDirSync(cardsCachePath);
+    await ensureDir(setsCachePath);
+    await ensureDir(cardsCachePath);
   }
   const sets: [CardSet, Card[]][] = [];
   const errors: string[] = [];

@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Snorlax {{TCGP Icon|ex}}
+|ja name=カビゴン{{TCGP Icon|ex}}
+|trans name=Kabigon {{TCGP Icon|ex}}
+|species=Snorlax
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SnorlaxexEeveeGrove57.png|illustrator=PLANETA Tsuji|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SnorlaxexEeveeGrove84.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SnorlaxexEeveeGrove91.png|illustrator=Mékayu|tab caption=Special Illustration Rare}}
+|hp=160
+|weakness=Fighting
+|retreat cost=4
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=057/069|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=084/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=091/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=288/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Snorlax ex''' (Japanese: '''カイリューex''' ''Kairyu ex'') is a {{ct|Colorless}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Full-Mouth Manner
+|jname=ほおばりぐせ
+|jtrans=Full-Mouth Manner
+|effect=At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Flop-Down Punch
+|jname=たおれこみパンチ
+|jtrans=Flop Down Punch
+|damage=130
+|effect=This Pokémon is now Asleep.
+}}
+{{Cardtext/Pocket ex
+|type=Colorless
+|ndex=0143
+|name=Snorlax
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=SnorlaxexEeveeGrove57.png
+|caption1=Double rare card<br>Illus. [[PLANETA Tsuji]]
+|image2=SnorlaxexEeveeGrove84.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=SnorlaxexEeveeGrove91.png
+|caption3=Special illustration rare card<br>Illus. [[Mékayu]]
+}}
+
+==Trivia==
+===Origin===
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Relaxo-ex (Evoli-Hain 057)]]
+[[es:Snorlax ex (Arboleda de Eevee TCG Pocket)]]
+[[fr:Ronflex-ex (La Clairière d'Évoli 057)]]
+[[it:Snorlax-ex (Il Bosco di Eevee 57)]]
+[[ja:カビゴンex (ポケポケ A3b)]]
+[[zh:卡比兽ex（A3b）]]

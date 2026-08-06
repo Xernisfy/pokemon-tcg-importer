@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dragonite {{TCGP Icon|ex}}
+|ja name=カイリュー{{TCGP Icon|ex}}
+|trans name=Kairyu {{TCGP Icon|ex}}
+|species=Dragonite
+|type=Dragon
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DragoniteexEeveeGrove53.png|illustrator=PLANETA Igarashi|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DragoniteexEeveeGrove82.png|illustrator=PLANETA Mochizuki|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DragoniteexEeveeGrove90.png|illustrator=Mori Yuu|tab caption=Special Illustration Rare}}
+|hp=180
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Dragonair
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=053/069|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=082/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=090/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=271/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Dragonite ex''' (Japanese: '''カイリューex''' ''Kairyu ex'') is a {{ct|Dragon}} Stage 2 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Water}}{{e|Lightning}}{{e|Colorless}}
+|name=Giga Impact
+|jname=ギガインパクト
+|jtrans=Giga Impact
+|damage=180
+|effect=During your next turn, this Pokémon can't attack.
+}}
+{{Cardtext/Pocket ex
+|type=Dragon
+|ndex=0149
+|name=Dragonite
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Dragon
+|image1=DragoniteexEeveeGrove53.png
+|caption1=Double rare print<br>Illus. [[PLANETA Igarashi]]
+|image2=DragoniteexEeveeGrove82.png
+|caption2=Super rare print<br>Illus. [[PLANETA Mochizuki]]
+|image3=DragoniteexEeveeGrove90.png
+|caption3=Special illustration rare print<br>Illus. [[Mori Yuu]]
+}}
+
+==Trivia==
+===Origin===
+*{{m|Giga Impact}} is a [[move]] in the [[Pokémon games]] that {{p|Dragonite}} can learn via [[TM]] or [[Move Tutor]].
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dragoran-ex (Evoli-Hain 053)]]
+[[es:Dragonite ex (Arboleda de Eevee TCG Pocket)]]
+[[fr:Dracolosse-ex (La Clairière d'Évoli 053)]]
+[[it:Dragonite-ex (Il Bosco di Eevee 53)]]
+[[ja:カイリューex (ポケポケ A3b)]]
+[[zh:快龙ex（A3b）]]

@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Celebi {{TCGP Icon|ex}}
+|ja name=セレビィ{{TCGP Icon|ex}}
+|trans name=Celebi {{TCGP Icon|ex}}
+|species=Celebi
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CelebiexMythicalIsland3.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CelebiexMythicalIsland75.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CelebiexMythicalIsland85.png|illustrator=kantaro|tab caption=Immersive}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CelebiexExtradimensionalCrisis99.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=130
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=003/068|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=075/068|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=085/068|pack=Any|rarity=Star|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=099/069|pack=Any|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=024/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Celebi ex''' (Japanese: '''セレビィex''' ''Celebi ex'') is a {{ct|Grass}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Powerful Bloom
+|jname=パワフルブルーム
+|jtrans=Powerful Bloom
+|damage=50×
+|effect=Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage for each heads.
+}}
+{{Cardtext/Pocket ex
+|type=Grass
+|ndex=0251
+|name=Celebi
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=CelebiexMythicalIsland3.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=CelebiexMythicalIsland75.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image4=CelebiexMythicalIsland85.png
+|caption4={{TCGP|Immersive card}}<br>Illus. [[kantaro]]
+|image5=CelebiexExtradimensionalCrisis99.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+This card's immersive illustration includes {{p|Mankey}}, {{p|Mew}}, {{p|Chatot}}, {{p|Joltik}}, {{p|Floette}}, {{p|Shiinotic}}, and {{p|Cramorant}}.
+
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Celebi}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Celebi-ex (Mysteriöse Insel 003)]]
+[[es:Celebi ex (La Isla Singular TCG Pocket)]]
+[[fr:Celebi-ex (L'Île Fabuleuse 003)]]
+[[it:Celebi-ex (L'Isola Misteriosa 3)]]
+[[ja:セレビィex (ポケポケ A1a)]]
+[[zh:时拉比ex（A1a）]]

@@ -1,0 +1,57 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Calem
+|ja name=カルム
+|trans name=Calme
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CalemMegaShine68.png|illustrator=Ryuta Fuse|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CalemMegaShine82.png|illustrator=Ryuta Fuse|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=068/069}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Star|rarity count=2|number=082/069}}
+}}
+
+'''Calem''' (Japanese: '''カルム''' ''Calme'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Draw a card for each {{TCGP|Mega Evolution Pokémon ex}} in play ''(both yours and your opponent's)''.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=CalemMegaShine68.png
+|caption1=Uncommon card<br>Illus. [[Ryuta Fuse]]
+|image2=CalemMegaShine82.png
+|caption2=Super rare card<br>Illus. [[Ryuta Fuse]]
+}}
+
+==Trivia==
+This card's effect is similar to {{TCG|Jett}} from the physical {{PTCG}}, though this card draws for every Mega Evolution Pokémon ex in play, rather than just the opponent's.
+===Origin===
+*{{ga|Calem}} is the male [[player character]] in {{g|X and Y}}.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=カルム ''Calme''
+|zh_yue=卡魯穆 ''Kālóuhmuhk''
+|zh_cmn=卡魯穆 ''Kǎlǔmù''
+|fr=Kalem
+|de=Kalem
+|it=Calem
+|ko=칼름 ''Calme''
+|pt_br=Calem
+|es=Kalm
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kalem (TCG Pocket)]]
+[[fr:Kalem (Méga-Rayonnement 068)]]
+[[it:Calem (Mega Splendore 68)]]
+[[ja:カルム (ポケポケ)]]

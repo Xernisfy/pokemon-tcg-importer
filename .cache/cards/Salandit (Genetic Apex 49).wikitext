@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Salandit
+|ja name=ヤトウモリ
+|trans name=Yatoumori
+|species=Salandit
+|type=Fire
+|image=SalanditGeneticApex49.png
+|illustrator=Kyoko Umemoto
+|hp=60
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=049/226|pack=Mewtwo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Salandit''' (Japanese: '''ヤトウモリ''' ''Yatoumori'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Scratch
+|jname=ひっかく
+|jtrans=Scratch
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Salandit
+|species=Toxic Lizard
+|ndex=0757
+|height=2'
+|jheight=0.6
+|weight=10.6
+|jweight=4.8
+|dex=It taunts its prey and lures them into narrow, rocky areas where it then sprays them with toxic gas to make them dizzy and take them down.
+|jdex=獲物を　挑発して　狭い 岩場に　誘い込み　フラフラになる 毒ガスを　吹きかけ　仕留めるのだ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Salandit|33}} from the {{TCG|Unified Minds}} expansion.
+*{{m|Scratch}} is a [[move]] in the [[Pokémon games]] that {{p|Salandit}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Molunk (Unschlagbare Gene 049)]]
+[[es:Salandit (Genes Formidables TCG Pocket)]]
+[[fr:Tritox (Puissance Génétique 049)]]
+[[it:Salandit (Geni Supremi 49)]]
+[[ja:ヤトウモリ (ポケポケ A1)]]
+[[zh:夜盗火蜥（A1）]]

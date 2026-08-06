@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Oricorio
+|ja name=オドリドリ
+|trans name=Odoridori
+|species=Oricorio
+|type=Psychic
+|image=OricorioCelestialGuardians76.png
+|illustrator=Jerky
+|hp=70
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=076/155|pack=Solgaleo|rarity=Diamond|rarity count=2}}
+}}
+
+'''Oricorio''' (Japanese: '''オドリドリ''' ''Odoridori'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Dazzle Dance
+|jname=げんわくダンス
+|jtrans=Dazzling Dance
+|damage=40
+|effect=Your opponent's Active Pokémon is now {{TCG|Confused}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Oricorio
+|species=Dancing
+|ndex=0741
+|height=2'
+|jheight=0.6
+|weight=7.5
+|jweight=3.4
+|dex=This form of Oricorio has sipped pink nectar. It elevates its mind with the gentle steps of its dance, then unleashes its psychic energy.
+|jdex=うすもものミツを 吸った 姿。 緩やかな ステップで 精神を 高め サイコパワーを 放つ。
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Oricorio}} in its {{form|Oricorio|Pa'u Style}}.
+*'''Dazzle Dance''' is an attack that first appeared on {{TCG ID|EX Ruby & Sapphire|Kirlia|35}} from {{TCG|EX Ruby & Sapphire}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Choreogel (Hüter des Firmaments 076)]]
+[[es:Oricorio (Guardianes Celestiales 76 TCG Pocket)]]
+[[fr:Plumeline (Gardiens Astraux 076)]]
+[[it:Oricorio (Guardiani Astrali 76)]]
+[[ja:オドリドリ (ポケポケ A3 076)]]
+[[zh:花舞鸟（A3 076）]]

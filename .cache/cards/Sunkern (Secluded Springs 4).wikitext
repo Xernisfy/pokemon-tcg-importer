@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sunkern
+|ja name=ヒマナッツ
+|trans name=Himanuts
+|species=Sunkern
+|type=Grass
+|image=SunkernSecludedSprings4.png
+|illustrator=Toshinao Aoki
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=004/071|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Sunkern''' (Japanese: '''ヒマナッツ''' ''Himanuts'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Sunkern
+|category=Seed
+|ndex=0191
+|height=1'
+|jheight=0.3
+|weight=4
+|jweight=1.8
+|dex=It suddenly falls out of the sky in the morning. Knowing it’s weak, it simply feeds until it evolves. 
+|jdex=ある あさ とつぜん ふってくる。よわいのを しっており しんかまで ひたすら えいようを ためこむ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Skyridge|Sunkern|106}} from the {{TCG|Skyridge}} expansion.
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Sunkern}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sonnkern (Verborgene Quelle 004)]]
+[[es:Sunkern (Manantial Oculto TCG Pocket)]]
+[[fr:Tournegrin (Source Secrète 004)]]
+[[it:Sunkern (Sorgenti Recondite 4)]]
+[[ja:ヒマナッツ (ポケポケ A4a)]]
+[[zh:向日种子（A4a）]]

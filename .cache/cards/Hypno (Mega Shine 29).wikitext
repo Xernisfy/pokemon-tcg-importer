@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hypno
+|ja name=スリーパー
+|trans name=Sleeper
+|species=Hypno
+|type=Psychic
+|image=HypnoMegaShine29.png
+|illustrator=OOYAMA
+|hp=100
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Drowzee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=029/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Hypno''' (Japanese: '''スリーパー''' ''Sleeper'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}{{e|Colorless}}
+|name=Hypnoblast
+|jname=さいみんはどう
+|jtrans=Hypnotic Pulse
+|damage=60
+|effect=Your opponent's Active Pokémon is now {{TCG|Asleep}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Hypno
+|species=Hypnosis
+|ndex=0097
+|height=5'3"
+|jheight=1.6
+|weight=166.7
+|jweight=75.6
+|dex=Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.
+|jdex=どんなときでも 持っている 振り子を 決まったリズムで 揺らしている。 近寄ると なぜか 眠くなる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Hypno|60}} from the {{TCG|Sun & Moon}} expansion; both cards have the Hypnoblast attack.
+*'''Hypnoblast''' is an attack that first appeared on {{TCG ID|Gym Challenge|Rocket's Mewtwo|14}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hypno (Mega-Schillern 029)]]
+[[fr:Hypnomade (Méga-Rayonnement 029)]]
+[[it:Hypno (Mega Splendore 29)]]
+[[ja:スリーパー (ポケポケ B2b)]]
+[[zh:引梦貘人（B2b）]]

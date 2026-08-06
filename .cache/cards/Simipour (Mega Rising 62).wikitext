@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Simipour
+|ja name=ヒヤッキー
+|trans name=Hiyakkie
+|species=Simipour
+|type=Water
+|image=SimipourMegaRising62.png
+|illustrator=Shigenori Negishi
+|hp=100
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Panpour
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=062/226|pack=Mega Altaria|rarity=Diamond|rarity count=1}}
+}}
+
+'''Simipour''' (Japanese: '''ヒヤッキー''' ''Hiyakkie'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Fury Swipes
+|jname=みだれひっかき
+|jtrans=Fury Swipes
+|damage=40×
+|effect=Flip 3 coins. This attack does 40 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Simipour
+|category=Geyser
+|ndex=0516
+|height=3'3"
+|jheight=1.0
+|weight=63.9
+|jweight=29.0
+|dex=It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail.
+|jdex=水が きれいな 場所を 好む。頭に ためこんだ 水が減ると 尻尾から 吸いあげて 補給。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Simipour|42}} from the {{TCG|Darkness Ablaze}} expansion.
+*{{m|Fury Swipes}} is a [[move]] in the [[Pokémon games]] that {{p|Simipour}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sodachita (Mega-Aufstieg 062)]]
+[[es:Simipour (Megaascenso TCG Pocket)]]
+[[fr:Flotoutan (Méga-Ascension 062)]]
+[[it:Simipour (Mega Ascesa 62)]]
+[[ja:ヒヤッキー (ポケポケ B1)]]
+[[zh:冷水猿（B1）]]

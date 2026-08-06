@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Magmortar
+|ja name=ブーバーン
+|trans name=Booburn
+|species=Magmortar
+|type=Fire
+|image=MagmortarSpace-TimeSmackdown24.png
+|illustrator=KEIICHIRO ITO
+|hp=130
+|weakness=Water
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Magmar
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=024/155|pack=Palkia|rarity=Diamond|rarity count=3}}
+}}
+
+'''Magmortar''' (Japanese: '''ブーバーン''' ''Booburn'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Fire}}{{e|Fire}}
+|name=Bursting Inferno
+|jname=バーストインフェルノ
+|jtrans=Burst Inferno
+|damage=100
+|effect=Your opponent's Active Pokémon is now {{TCG|Burned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Magmortar
+|species=Blast
+|ndex=0467
+|height=5'3"
+|jheight=1.6
+|weight=149.9
+|jweight=68.0
+|dex=When Magmortar inhales deeply, the fire burning in its belly intensifies, rising in temperature to over 3,600 degrees Fahrenheit.
+|jdex=大きく 息を 吸いこむと 腹の 中の 炎が 勢いを 増して 摂氏2000度に 達する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Magmortar|22}} from the {{TCG|Unified Minds}} expansion.
+*'''Bursting Inferno''' is an attack that first appeared on {{TCG ID|EX Power Keepers|Charizard|6}} from the {{TCG|EX Power Keepers}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Magbrant (Kollision von Raum und Zeit 024)]]
+[[es:Magmortar (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Maganon (Choc Spatio-Temporel 024)]]
+[[it:Magmortar (Scontro Spaziotemporale 24)]]
+[[ja:ブーバーン (ポケポケ A2)]]
+[[zh:鸭嘴炎兽（A2）]]

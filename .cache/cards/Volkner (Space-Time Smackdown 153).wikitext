@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Volkner
+|ja name=デンジ
+|trans name=Denzi
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VolknerSpace-TimeSmackdown153.png|illustrator=GIDORA|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VolknerSpace-TimeSmackdown193.png|illustrator=GIDORA|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Dialga|rarity=Diamond|rarity count=2|number=153/155}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Dialga|rarity=Star|rarity count=2|number=193/155}}
+}}
+
+'''Volkner''' (Japanese: '''デンジ''' ''Denzi'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Choose 1 of your {{TCGP|Electivire}} or {{TCGP|Luxray}}. Attach 2 {{e|lightning}} Energy from your discard pile to that Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=VolknerSpace-TimeSmackdown153.png
+|caption1=Uncommon card<br>Illus. [[GIDORA]]
+|image2=VolknerSpace-TimeSmackdown193.png
+|caption2=Super rare card<br>Illus. [[GIDORA]]
+}}
+
+==Trivia==
+* {{TCG|Volkner}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Volkner]] is the [[Gym Leader]] of the [[Sunyshore Gym]].
+*[[Luxray]] is a Pokémon that Volkner uses in Pokémon {{3v2|Diamond|Pearl|Platinum}}, {{2v2|Black|White|2}} and {{pkmn|Brilliant Diamond and Shining Pearl}}.
+*[[Electivire]] is a Pokémon that Volkner uses in Pokémon {{pkmn|Platinum}}, {{2v2|Black|White|2}} and {{pkmn|Brilliant Diamond and Shining Pearl}}.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=デンジ ''Denzi''
+|zh_yue=電次 ''Dihnchi''
+|zh_cmn=電次<!-- / 电次--> ''Diàncì''
+|fr=Tanguy
+|de=Volkner
+|it=Corrado
+|ko=전진 ''Jeonjin''
+|pt_br=Volkner
+|es=Lectro
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Volkner (TCG Pocket)]]
+[[es:Lectro (TCG Pocket)]]
+[[fr:Tanguy (Choc Spatio-Temporel 153)]]
+[[it:Corrado (Scontro Spaziotemporale 153)]]
+[[ja:デンジ (ポケポケ)]]
+[[zh:电次（TCGP）]]

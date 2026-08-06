@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Blitzle
+|ja name=シママ
+|trans name=Shimama
+|species=Blitzle
+|type=Lightning
+|image=BlitzleMegaRising90.png
+|illustrator=Akira Komayama
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=090/226|pack=Mega Blaziken|rarity=Diamond|rarity count=1}}
+}}
+
+'''Blitzle''' (Japanese: '''シママ''' ''Shimama'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Tiny Charge
+|jname=プチでんき
+|jtrans=Mini Electricity
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Blitzle
+|category=Electrified
+|ndex=0522
+|height=2'7"
+|jheight=0.8
+|weight=65.7
+|jweight=29.8
+|dex=Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.
+|jdex=放電すると たてがみが 光る。たてがみが 輝く 回数や リズムで 仲間と 会話している。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Blitzle|44}} from the {{TCG|Team Up}} expansion.
+*'''Tiny Charge''' is an attack that first appeared on {{TCG ID|Vivid Voltage|Tynamo|57}} from the {{TCG|Vivid Voltage}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Elezeba (Mega-Aufstieg 090)]]
+[[es:Blitzle (Megaascenso TCG Pocket)]]
+[[fr:Zébibron (Méga-Ascension 090)]]
+[[it:Blitzle (Mega Ascesa 90)]]
+[[ja:シママ (ポケポケ B1)]]
+[[zh:斑斑马（B1）]]

@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lycanroc
+|ja name=ルガルガン
+|trans name=Lugarugan
+|species=Lycanroc
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LycanrocCelestialGuardians100.png|illustrator=Atsushi Furusawa|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LycanrocPromo-A68.png|illustrator=Ryuta Fuse|tab caption=Promo}}
+|hp=100
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Rockruff
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=100/155|pack=Solgaleo|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=068/P-A}}
+}}
+
+'''Lycanroc''' (Japanese: '''ルガルガン''' ''Lugarugan'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Crunch
+|jname=かみくだく
+|jtrans=Crunch
+|damage=80
+|effect=Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Lycanroc
+|species=Wolf
+|ndex=0745
+|height=3'7"
+|jheight=1.1
+|weight=55.1
+|jweight=25.0
+|dex=Lycanroc attacks its prey with its sharp claws and fangs. It loyally obeys the instructions of a Trainer it trusts.
+|jdex=鋭い ツメや キバで 獲物を 襲う。 信頼する トレーナーの 指示には 忠実に 従う。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available via special wonder picks during the Solgaleo [[Wonder Pick Event (Solgaleo)|Wonder Pick Event]], which ran from May 9 to 19, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=LycanrocCelestialGuardians100.png
+|caption1=Rare card<br>Illus. [[Atsushi Furusawa]]
+|image2=LycanrocPromo-A68.png
+|caption2=Promo card<br>Illus. [[Ryuta Fuse]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Lycanroc}} in its {{form|Lycanroc|Midday Form}}.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Champion's Path|Lycanroc|30}} from the {{TCG|Champion's Path}} expansion.
+*{{m|Crunch}} is a [[move]] in the [[Pokémon games]] that {{p|Lycanroc}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wolwerock (Hüter des Firmaments 100)]]
+[[es:Lycanroc (Guardianes Celestiales 100 TCG Pocket)]]
+[[fr:Lougaroc (Gardiens Astraux 100)]]
+[[it:Lycanroc (Guardiani Astrali 100)]]
+[[ja:ルガルガン (ポケポケ A3 100)]]
+[[zh:鬃岩狼人（A3 100）]]

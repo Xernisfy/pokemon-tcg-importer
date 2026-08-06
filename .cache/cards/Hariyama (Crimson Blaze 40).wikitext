@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hariyama
+|ja name=ハリテヤマ
+|trans name=Hariteyama
+|species=Hariyama
+|type=Fighting
+|image=HariyamaCrimsonBlaze40.png
+|illustrator=Naoyo Kimura
+|hp=120
+|weakness=Psychic
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Makuhita
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=040/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Hariyama''' (Japanese: '''ハリテヤマ''' ''Hariteyama'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}
+|name=Megaton Slap Push
+|jname=メガトンはりて
+|jtrans=Megaton Slap
+|damage=90
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Hariyama
+|species=Arm Thrust
+|ndex=0297
+|height=7'07"
+|jheight=2.3
+|weight=559.5
+|jweight=253.8
+|dex=It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch.
+|jdex=りょうあしで　じめんを　ふみならして　パワーを　ためる。はりて　いっぱつで　10トン　トラックを　ふっとばす。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Ruby & Sapphire|Hariyama|8}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*'''Megaton Slap Push''' is an attack that first appeared on {{TCG ID|Sun & Moon|Hariyama|68}} from the {{TCG|Sun & Moon}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hariyama (Feuerrote Flammen 040)]]
+[[fr:Hariyama (Embrasement Écarlate 040)]]
+[[it:Hariyama (Fiamme Cremisi 40)]]
+[[ja:ハリテヤマ (ポケポケ B1a)]]
+[[zh:铁掌力士（B1a）]]

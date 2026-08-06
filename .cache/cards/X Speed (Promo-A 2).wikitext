@@ -1,0 +1,52 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=X Speed
+|ja name=スピーダー
+|trans name=Speeder
+|subtype=Item
+|image=XSpeedPromo-A2.png
+|illustrator=Toyste Beach
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=002/P-A}}
+}}
+
+'''X Speed''' (Japanese: '''スピーダー''' ''Speeder'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=During this turn, the Retreat Cost of your Active Pokémon is 1 less.
+}}
+
+==Release information==
+X Speed cards were first made available to purchase from the in-game {{TCGP|shop}} on October 30, 2024 worldwide (September 26, 2024 in New Zealand) for 2 Shop Tickets each. One copy of X Speed is also awarded to players who complete the {{TCGP|Mission|mission}} "08: Play an Item card!" in the {{DL|Mission (TCG Pocket)|Battle Guide}}.
+
+==Trivia==
+* {{TCGP|Leaf}} has a more potent version of this card's effect, but as a {{TCGP|Supporter card}} instead of an Item card.
+* This card's effect is similar to {{TCG|Air Balloon}} in the [[Pokémon Trading Card Game]], but this card is an Item card rather than a {{TCG|Pokémon Tool}} card (so only applies for one turn rather than perpetually) and reduces the Pokémon's Retreat Cost by 1 instead of 2.
+
+===Origin===
+* [[X Speed]] is an item in the [[Pokémon games]] that temporarily boosts a Pokémon's {{Stat|Speed}} stat when used during battle. This card depicts an X Speed as it appears in the majority of [[core series]] games.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=スピーダー ''Speeder''
+|zh_yue=速度強化 ''Chūkdouh Kèuhngfa''
+|zh_cmn=速度強化<!-- / 速度强化--> ''Sùdù Qiánghuà''
+|fr=Vitesse +
+|de=X-Initiative
+|it=Velocità X
+|ko=스피드업 ''Speed-Up''
+|pt_br=Velocidade X
+|es=Velocidad X
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:X-Initiative (TCG Pocket)]]
+[[es:Velocidad X (TCG Pocket)]]
+[[fr:Vitesse + (Promo-A 002)]]
+[[it:Velocità X (Promo-A 2)]]
+[[ja:スピーダー (ポケポケ)]]
+[[zh:速度强化（TCGP）]]

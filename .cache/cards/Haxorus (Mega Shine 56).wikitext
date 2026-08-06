@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Haxorus
+|ja name=オノノクス
+|trans name=Ononokus
+|species=Haxorus
+|type=Dragon
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HaxorusMegaShine56.png|illustrator=Anesaki Dynamic|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HaxorusMegaShine110.png|illustrator=Nisota Niso|tab caption=Shiny Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HaxorusPromo-B45.png|illustrator=Uta|tab caption=Promo}}
+|hp=150
+|weakness=
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Fraxure
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=056/069|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=110/069|pack=Any|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=045/P-B|pack=Vol. 6}}
+}}
+
+'''Haxorus''' (Japanese: '''オノノクス''' ''Ononokus'') is a {{ct|Dragon}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Fighting}}{{e|Metal}}{{e|Colorless}}
+|name=Frenzied Blade
+|jname=きょうらんのやいば
+|jtrans=Blade's Frenzy
+|damage=50+
+|effect=This attack does 20 more damage for each Benched Pokémon ''(both yours and your opponent's)''.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Haxorus
+|category=Axe Jaw
+|ndex=0612
+|height=5'11"
+|jheight=1.8
+|weight=232.6
+|jweight=105.5
+|dex=It overwhelms enemies with its prized tusks, which are sharp enough to cut through a metal transmission tower in one strike.
+|jdex=自慢の　キバで　敵を　圧倒｡ 鉄塔を　一刀のもとに 切り捨てる　切れ味を　誇る｡
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} card was one of five that could be pulled from Promo-B Vol. 6 packs; these were made available as part of the [[Slowpoke Drop Event]], which ran from April 9 to 19, 2026.
+
+===Gallery===
+{{TCGGallery
+|type=Dragon
+|image1=HaxorusMegaShine56.png
+|caption1=Rare card<br>Illus. [[Anesaki Dynamic]]
+|image2=HaxorusMegaShine110.png
+|caption2=Shiny rare card<br>Illus. [[Nisota Niso]]
+|image3=HaxorusPromo-B45.png
+|caption3=Promo card<br>Illus. [[Uta]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Unified Minds|Haxorus|156}} from the {{TCG|Unified Minds}} expansion.
+*This card's {{TCGP|Promo-B}} illustration was first featured on {{TCG ID|Brilliant Stars|Haxorus|112}} from the {{TCG|Brilliant Stars}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Haxorus}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Maxax (Mega-Schillern 056)]]
+[[fr:Tranchodon (Méga-Rayonnement 056)]]
+[[it:Haxorus (Mega Splendore 56)]]
+[[ja:オノノクス (ポケポケ B2b)]]
+[[zh:双斧战龙（B2b）]]

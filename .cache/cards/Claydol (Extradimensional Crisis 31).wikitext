@@ -1,0 +1,69 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Claydol
+|ja name=ネンドール
+|trans name=Nendoll
+|species=Claydol
+|type=Fighting
+|image=ClaydolExtradimensionalCrisis31.png
+|illustrator=Satoshi Shirai
+|hp=100
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Baltoy
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=031/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Claydol''' (Japanese: '''ネンドール''' ''Nendoll'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Ability/Pocket
+|type=Fighting
+|name=Heal Block
+|jname=かいふくふうじ
+|jtrans=Restore Seal
+|effect=Pokémon ''(both yours and your opponent's)'' can't be healed.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Power Beam
+|jname=パワービーム
+|jtrans=Power Beam
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Claydol
+|category=Clay Doll 
+|ndex=0344
+|height=4'11"
+|jheight=1.5
+|weight=238.1
+|jweight=108.0
+|dex=This mysterious Pokémon started life as an ancient clay figurine made over 20,000 years ago.
+|jdex=２万年前の 古代人が つくった 泥人形から 生まれたらしい 謎の ポケモン。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ancient Origins|Claydol|33}} from the {{TCG|Ancient Origins}} expansion.
+*{{m|Heal Block}} is a [[move]] in the [[Pokémon games]] that {{p|Claydol}} can learn.
+*'''Power Beam''' is an attack that first appeared on {{TCG ID|Double Crisis|Team Magma's Claydol|11}} from the {{TCG|Double Crisis}} special set.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lepumentas (Dimensionale Krise 031)]]
+[[es:Claydol (Crisis Dimensional TCG Pocket)]]
+[[fr:Kaorine (Crise Interdimensionnelle 031)]]
+[[it:Claydol (Crisi Ultradimensionale 31)]]
+[[ja:ネンドール (ポケポケ A3a)]]
+[[zh:念力土偶（A3a）]]

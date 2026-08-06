@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Origin Forme Palkia
+|ja name=オリジンパルキア
+|trans name=Origin Palkia
+|species=Palkia
+|type=Water
+|image=OriginFormePalkiaTriumphantLight23.png
+|illustrator=toriyufu
+|hp=120
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=023/075|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Origin Forme Palkia''' (Japanese: '''オリジンパルキア''' ''Origin Palkia'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}
+|name=Zone Smash
+|jname=ゾーンブレイク
+|jtrans=Zone Break
+|damage=60+
+|effect=Flip a coin. If heads, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Palkia
+|species=Spatial
+|ndex=0484
+|height=20'8"
+|jheight=6.3
+|weight=1455.1
+|jweight=660.0
+|dex=It soars across the sky in a form that greatly resembles the creator of all things. Perhaps this imitation of appearance is Palkia's strategy for gaining Arceus's powers.
+|jdex=天翔ける姿 万物を 創りし 存在を 想起す。 姿を 模すこと すなわち その力を 我がものとする術と 推察。
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Palkia}} in its {{form|Palkia|Origin Forme}}.
+*This card's [[Pokédex]] entry comes from {{g|Legends: Arceus}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ur-Palkia (Licht des Triumphs 023)]]
+[[es:Palkia Origen (Luz Triunfal TCG Pocket)]]
+[[fr:Palkia Forme Originelle (Lumière Triomphale 023)]]
+[[it:Palkia Forma Originale (Luce Trionfale 23)]]
+[[ja:オリジンパルキア (ポケポケ A2a)]]
+[[zh:起源帕路奇亞（A2a）]]

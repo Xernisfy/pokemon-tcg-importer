@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pidgeotto
+|ja name=ピジョン
+|trans name=Pigeon
+|species=Pidgeotto
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PidgeottoGeneticApex187.png|illustrator=Scav|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PidgeottoExtradimensionalCrisis96.png|illustrator=Misa Tsutsui|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Pidgey
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=187/226|pack=Mewtwo|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=096/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Pidgeotto''' (Japanese: '''ピジョン''' ''Pigeon'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Gust
+|jname=かぜおこし
+|jtrans=Stir Up Wind
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Pidgeotto
+|species=Bird
+|ndex=0017
+|height=3'7"
+|jheight=1.1
+|weight=66.1
+|jweight=30.0
+|dex=The claws on its feet are well developed. It can carry prey such as an Exeggcute to its nest over 60 miles away.
+|jdex=足の　ツメが　発達している｡ エサの　タマタマを　つかんで １００キロ先の　巣まで　運ぶ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=PidgeottoGeneticApex187.png
+|caption1=Common card<br>Illus. [[Scav]]
+|image2=PidgeottoExtradimensionalCrisis96.png
+|caption2=Shiny rare card<br>Illus. [[Misa Tsutsui]]
+}}
+
+==Trivia==
+The standard print of this card is part of a narrative illustration with {{TCG ID|Genetic Apex|Pidgey|186}} and {{TCG ID|Genetic Apex|Pidgeot|188}} from the same set. In this illustration, a Pidgeotto has flown down to perch on the same tree branch as the two Pidgey from the previous card. All three cards are illustrated by [[Scav]] and form the {{TCGP|Genetic Apex}} expansion's "Pidgey Squad" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]].
+
+===Origin===
+*This card's shiny rare print features a {{Shiny}} {{p|Pidgeotto}}.
+*{{m|Gust}} is a [[move]] in the [[Pokémon games]] that {{p|Pidgeotto}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tauboga (Unschlagbare Gene 187)]]
+[[es:Pidgeotto (Genes Formidables TCG Pocket)]]
+[[fr:Roucoups (Puissance Génétique 187)]]
+[[it:Pidgeotto (Geni Supremi 187)]]
+[[ja:ピジョン (ポケポケ A1)]]
+[[zh:比比鸟（A1）]]

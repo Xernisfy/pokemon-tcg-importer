@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Poliwag
+|ja name=ニョロモ
+|trans name=Nyoromo
+|species=Poliwag
+|type=Water
+|image=PoliwagWisdomofSeaandSky38.png
+|illustrator=Asako Ito
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=038/161|pack=Lugia|rarity=Diamond|rarity count=1}}
+}}
+
+'''Poliwag''' (Japanese: '''ニョロモ''' ''Nyoromo'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Water Gun
+|jname=みずでっぽう
+|jtrans=Water Gun
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Poliwag
+|species=Tadpole
+|ndex=0060
+|height=2'
+|jheight=0.6
+|weight=27.3
+|jweight=12.4
+|dex=For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon's innards showing through the skin.
+|jdex=歩くよりも　泳ぐほうが　得意｡ お腹の　渦巻き模様は 透けて　見える　内臓の　一部だ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Poliwag|30}} from the {{TCG|Sun & Moon}} expansion.
+**Both cards have the {{m|Water Gun}} attack; this a [[move]] in the [[Pokémon games]] that {{p|Poliwag}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Quapsel (Weisheit von Meer und Himmel 038)]]
+[[es:Poliwag (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Ptitard (Sagesse entre Ciel et Mer 038)]]
+[[it:Poliwag (La Via del Cielo e del Mare 38)]]
+[[ja:ニョロモ (ポケポケ A4)]]
+[[zh:蚊香蝌蚪（A4）]]

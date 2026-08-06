@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ferrothorn
+|ja name=ナットレイ
+|trans name=Nutrey
+|species=Ferrothorn
+|type=Metal
+|image=FerrothornExtradimensionalCrisis52.png
+|illustrator=Masakazu Fukuda
+|hp=110
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Ferroseed
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=052/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Ferrothorn''' (Japanese: '''ナットレイ''' ''Nutrey'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Ability/Pocket
+|type=Metal
+|name=Steel Spikes
+|jname=はがねのトゲ
+|jtrans=Steel Spikes
+|effect=If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Colorless}}
+|name=Spinning Attack
+|jname=かいてんアタック
+|jtrans=Spinning Attack
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Ferrothorn
+|category=Thorn Pod 
+|ndex=0598
+|height=3'3"
+|jheight=1
+|weight=242.5
+|jweight=110.0
+|dex=This Pokémon scrapes its spikes across rocks, and then uses the tips of its feelers to absorb the nutrients it finds within the stone.
+|jdex=トゲで 岩盤に キズを つけると 触手の 先端を あてて 栄養を 吸収する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Emerging Powers|Ferrothorn|73}} from the {{TCG|Emerging Powers}} expansion.
+*'''Spinning Attack''' is an attack that first appeared on {{TCG ID|Vending|Staryu|S3}} from {{TCG|Expansion Sheet 3}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tentantel (Dimensionale Krise 052)]]
+[[es:Ferrothorn (Crisis Dimensional TCG Pocket)]]
+[[fr:Noacier (Crise Interdimensionnelle 052)]]
+[[it:Ferrothorn (Crisi Ultradimensionale 52)]]
+[[ja:ナットレイ (ポケポケ A3a)]]
+[[zh:坚果哑铃（A3a）]]

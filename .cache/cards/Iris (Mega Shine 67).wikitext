@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Iris
+|ja name=アイリス
+|trans name=Iris
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=IrisMegaShine67.png|illustrator=Susumu Maeya|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=IrisMegaShine81.png|illustrator=Susumu Maeya|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=067/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=081/069|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Iris''' (Japanese: '''アイリス''' ''Iris'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=During this turn, if your opponent's Active Pokémon is Knocked Out by damage from an attack used by your {{TCGP|Haxorus}}, you get 1 more point.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=IrisMegaShine67.png
+|caption1=Uncommon card<br>Illus. [[Susumu Maeya]]
+|image2=IrisMegaShine81.png
+|caption2=Super rare card<br>Illus. [[Susumu Maeya]]
+}}
+
+==Trivia==
+* A card named {{TCG|Iris}} also exists in the [[Pokémon Trading Card Game]], but with a different effect.
+===Origin===
+*[[Iris]] is the Pokémon League Champion in {{B2W2}}.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=アイリス ''Iris''
+|zh_yue=艾莉絲 ''Ngaaihleihsī''
+|zh_cmn=艾莉絲 ''Àilìsī''
+|fr=Iris
+|de=Lilia
+|it=Iris
+|ko=아이리스 ''Iris''
+|pt_br=Iris
+|es=Iris
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lilia (TCG Pocket)]]
+[[fr:Iris (Méga-Rayonnement 067)]]
+[[it:Iris (Mega Splendore 67)]]
+[[ja:アイリス (ポケポケ)]]
+[[zh:艾莉丝（TCGP）]]

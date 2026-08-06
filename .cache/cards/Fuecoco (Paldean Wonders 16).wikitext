@@ -1,0 +1,70 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Fuecoco
+|ja name=ホゲータ
+|trans name=Hogator
+|species=Fuecoco
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FuecocoPaldeanWonders16.png|illustrator=Akira Komayama|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FuecocoPaldeanWonders94.png|illustrator=Shimaris Yukichi|tab caption=Illustration Rare}}
+|hp=70
+|weakness=Water
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=016/093|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=094/093|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Fuecoco''' (Japanese: '''ホゲータ''' ''Hogator'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Colorless}}
+|name=Cheerful Singing
+|jname=ようきにうたう
+|jtrans=Sing Happily
+|damage=
+|effect=Put 1 random {{TCG|Basic Pokémon}} from your deck onto your Bench.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Fuecoco
+|category=Fire Croc 
+|ndex=0909
+|height=1'4"
+|jheight=0.4
+|weight=21.6
+|jweight=9.8
+|dex=Its flame sac is small, so energy is always leaking out. This energy is released from the dent atop Fuecoco's head and flickers to and fro.
+|jdex=炎袋が 小さく あふれ出た エネルギーが 頭の くぼみから 放出され ゆらゆら 揺れる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=FuecocoPaldeanWonders16.png
+|caption1=Common card<br>Illus. [[Akira Komayama]]
+|image2=FuecocoPaldeanWonders94.png
+|caption2=Illustration rare card<br>Illus. [[Shimaris Yukichi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Scarlet & Violet|Fuecoco|36}} from the {{TCG|Scarlet & Violet}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Krokel (Wundervolles Paldea 016)]]
+[[fr:Chochodile (Merveilles de Paldea 016)]]
+[[it:Fuecoco (Meraviglie di Paldea 16)]]
+[[ja:ホゲータ (ポケポケ B2a)]]
+[[zh:呆火鳄（B2a）]]

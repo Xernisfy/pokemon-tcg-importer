@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Croagunk
+|ja name=グレッグル
+|trans name=Gureggru
+|species=Croagunk
+|type=Darkness
+|image=CroagunkTriumphantLight51.png
+|illustrator=SATOSHI NAKAI
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=051/075|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Croagunk''' (Japanese: '''グレッグル''' ''Gureggru'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Beat
+|jname=たたく
+|jtrans=Strike
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Croagunk
+|species=Toxic Mouth
+|ndex=0453
+|height=2'4"
+|jheight=0.7
+|weight=50.7
+|jweight=23.0
+|dex=Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab.
+|jdex=毒袋を ふくらませて 鳴らし 辺りに 不気味な 音を 響かせ 相手が ひるむと どくづきをする。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ultra Prism|Croagunk|56}} from the {{TCG|Ultra Prism}} expansion.
+*'''Beat''' is an attack that first appeared on {{TCG ID|VS|Falkner's Farfetch'd|3}} and {{TCG|VS|Karen's Magmar|88}}, both from the {{TCG|Pokémon VS}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Glibunkel (Licht des Triumphs 051)]]
+[[es:Croagunk (Luz Triunfal TCG Pocket)]]
+[[fr:Cradopaud (Lumière Triomphale 051)]]
+[[it:Croagunk (Luce Trionfale 51)]]
+[[ja:グレッグル (ポケポケ A2a)]]
+[[zh:不良蛙（A2a）]]

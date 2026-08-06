@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Burmy
+|ja name=ミノムッチ
+|trans name=Minomucchi
+|species=Burmy
+|type=Grass
+|image=BurmyTriumphantLight2.png
+|illustrator=miki kudo
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=002/075|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Burmy''' (Japanese: '''ミノムッチ''' ''Minomucchi'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Burmy
+|species=Bagworm
+|ndex=0412
+|height=8"
+|jheight=0.2
+|weight=7.5
+|jweight=3.4
+|dex=To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.
+|jdex=つめたい こがらしを ふせぐため こえだや おちばを ざいりょうに ミノを つくり からだを おおう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration features Burmy in its Plant Cloak, Sandy Cloak, and Trash Cloak {{form|Burmy|forms}}.
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Brilliant Diamond}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Burmy (Licht des Triumphs 002)]]
+[[es:Burmy (Luz Triunfal TCG Pocket)]]
+[[fr:Cheniti (Lumière Triomphale 002)]]
+[[it:Burmy (Luce Trionfale 2)]]
+[[ja:ミノムッチ (ポケポケ A2a)]]
+[[zh:结草儿（A2a）]]

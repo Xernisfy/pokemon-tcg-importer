@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sliggoo
+|ja name=ヌメイル
+|trans name=Numeil
+|species=Sliggoo
+|type=Dragon
+|image=SliggooMegaRising178.png
+|illustrator=Atsuko Nishida
+|hp=90
+|weakness=
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Goomy
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=178/226|pack=Mega Altaria|rarity=Diamond|rarity count=2}}
+}}
+
+'''Sliggoo''' (Japanese: '''ヌメイル''' ''Numeil'') is a {{ct|Dragon}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Water}}{{e|Psychic}}
+|name=Gentle Slap
+|jname=ひっぱたく
+|jtrans=Slap
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Sliggoo
+|category=Soft Tissue
+|ndex=0705
+|height=2'7"
+|jheight=0.8
+|weight=38.6
+|jweight=17.5
+|dex=When Sliggoo senses danger, the mucus coating its entire body becomes more concentrated— it'll dissolve anything.
+|jdex=危険を 感じると 全身を 覆う 粘液の 濃度が 上がり なんでも 溶かすようになるのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Forbidden Light|Sliggoo|93}} from the {{TCG|Forbidden Light}} expansion.
+*'''Gentle Slap''' is an attack that first appeared on {{TCG ID|EX Team Rocket Returns|Psyduck|70}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Viscargot (Mega-Aufstieg 178)]]
+[[es:Sliggoo (Megaascenso TCG Pocket)]]
+[[fr:Colimucus (Méga-Ascension 178)]]
+[[it:Sliggoo (Mega Ascesa 178)]]
+[[ja:ヌメイル (ポケポケ B1)]]
+[[zh:黏美儿（B1）]]

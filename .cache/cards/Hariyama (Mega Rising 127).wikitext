@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hariyama
+|ja name=ハリテヤマ
+|trans name=Hariteyama
+|species=Hariyama
+|type=Fighting
+|image=HariyamaMegaRising127.png
+|illustrator=Scav
+|hp=130
+|weakness=Psychic
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Makuhita
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=127/226|pack=Mega Blaziken|rarity=Diamond|rarity count=2}}
+}}
+
+'''Hariyama''' (Japanese: '''ハリテヤマ''' ''Hariteyama'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Slapping Knockdown
+|jname=はりておとし
+|jtrans=
+|damage=110
+|effect=Before doing damage, discard all [[Pokémon Tool card (TCG Pocket)|Pokémon Tools]] from your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Hariyama
+|category=Arm Thrust
+|ndex=0297
+|height=7'7"
+|jheight=2.3
+|weight=559.5
+|jweight=253.8
+|dex=It stomps on the ground to build power. It can send a 10-ton truck flying with a straight-arm punch.
+|jdex=りょうあしで　じめんを　ふみならして　パワーを　ためる。はりて　いっぱつで　10トン　トラックを　ふっとばす。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Origin|Hariyama|98}} from the {{TCG|Lost Origin}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hariyama (Mega-Aufstieg 127)]]
+[[es:Hariyama (Megaascenso TCG Pocket)]]
+[[fr:Hariyama (Méga-Ascension 127)]]
+[[it:Hariyama (Mega Ascesa 127)]]
+[[ja:ハリテヤマ (ポケポケ B1)]]
+[[zh:铁掌力士（B1）]]

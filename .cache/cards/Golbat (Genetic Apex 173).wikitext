@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Golbat
+|ja name=ゴルバット
+|trans name=Golbat
+|species=Golbat
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GolbatGeneticApex173.png|illustrator=Masakazu Fukuda|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GolbatGeneticApex242.png|illustrator=Tomokazu Komiya|tab caption=Illustration Rare}}
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Zubat
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=173/226|pack=Mewtwo|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=242/226|pack=Mewtwo|rarity=Star|rarity count=1}}
+}}
+
+'''Golbat''' (Japanese: '''ゴルバット''' ''Golbat'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Colorless}}
+|name=Wing Attack
+|jname=つばさでうつ
+|jtrans=Wing Strike
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Golbat
+|species=Bat
+|ndex=0042
+|height=5'3"
+|jheight=1.6
+|weight=121.3
+|jweight=55.0
+|dex=It loves to drink other creatures' blood. It's said that if it finds others of its kind going hungry, it sometimes shares the blood it's gathered.
+|jdex=生き物の　血液が　好物｡ 腹ペコの　仲間に　吸った　血を 分け与えることも　あるという｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=GolbatGeneticApex173.png
+|caption1=Uncommon card<br>Illus. [[Masakazu Fukuda]]
+|image2=GolbatGeneticApex242.png
+|caption2=Illustration rare card<br>Illus. [[Tomokazu Komiya]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Sun & Moon|Golbat|55}} from the {{TCG|Sun & Moon}} expansion.
+*{{m|Wing Attack}} is a [[move]] in the [[Pokémon games]] that {{p|Golbat}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Golbat (Unschlagbare Gene 173)]]
+[[es:Golbat (Genes Formidables TCG Pocket)]]
+[[fr:Nosferalto (Puissance Génétique 173)]]
+[[it:Golbat (Geni Supremi 173)]]
+[[ja:ゴルバット (ポケポケ A1)]]
+[[zh:大嘴蝠（A1）]]

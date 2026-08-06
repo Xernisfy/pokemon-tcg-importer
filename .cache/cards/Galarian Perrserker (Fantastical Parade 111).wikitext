@@ -1,0 +1,79 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Galarian Perrserker
+|ja name=ガラルニャイキング
+|trans name=Galarian Nyaiking
+|species=Perrserker
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GalarianPerrserkerFantasticalParade111.png|illustrator=Shigenori Negishi|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GalarianPerrserkerFantasticalParade177.png|illustrator=MINAMINAMI Take|tab caption=Illustration Rare}}
+|hp=100
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Galarian Meowth
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=111/155|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=177/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Galarian Perrserker''' (Japanese: '''ガラルニャイキング''' ''Galarian Nyaiking'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Ability
+|type=Metal
+|name=Dig Up
+|jname=つかみとる
+|jtrans=Grasp
+|effect=Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put 2 random {{TCGP|Pokémon Tool card}}s from your discard pile into your hand.
+}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}
+|name=Metal Claw
+|jname=メタルクロー
+|jtrans=Metal Claw
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Perrserker
+|species=Viking
+|ndex=0863
+|height=2'7"
+|jheight=0.8
+|weight=61.7
+|jweight=28.0
+|dex=After many battles, it evolved dangerous claws that come together to form daggers when extended.
+|jdex=戦いに 明け暮れて 進化した 結果 伸ばすと 短剣に 変わる 物騒な ツメを 手に入れた。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=GalarianPerrserkerFantasticalParade111.png
+|caption1=Rare card<br>Illus. [[Shigenori Negishi]]
+|image2=GalarianPerrserkerFantasticalParade177.png
+|caption2=Illustration rare card<br>Illus. [[MINAMINAMI Take]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Fusion Strike|Galarian Perrserker|181}} from the {{TCG|Fusion Strike}} expansion.
+*'''Dig Up''' is an Ability that first appeared as a [[Pokémon Power (TCG)|Poké-Power]] on {{TCG ID|EX Dragon Frontiers|Quagsire δ|21}} from the {{TCG|EX Dragon Frontiers}} expansion.
+*{{m|Metal Claw}} is a [[move]] in the Pokémon games that Perrserker can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Galar-Mauzinger (Traumhafte Parade 111)]]
+[[fr:Berserkatt de Galar (Parade Onirique 177)]]
+[[it:Perrserker di Galar (Parata Fantasmagorica 111)]]
+[[zh:伽勒尔 喵头目（B2）]]

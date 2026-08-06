@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cottonee
+|ja name=モンメン
+|trans name=Monmen
+|species=Cottonee
+|type=Grass
+|image=CottoneeGeneticApex27.png
+|illustrator=Kanako Eo
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=027/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Cottonee''' (Japanese: '''モンメン''' ''Monmen'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Attach
+|jname=くっつく
+|jtrans=Attach
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Cottonee
+|species=Cotton Puff
+|ndex=0546
+|height=1'
+|jheight=0.3
+|weight=1.3
+|jweight=0.6
+|dex=It shoots cotton from its body to protect itself. If it gets caught up in hurricane-strength winds, it can get sent to the other side of the Earth.
+|jdex=綿を　飛ばして　身を　守る｡ 台風の　風に　流され 地球の　裏側に　いくことも｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ancient Origins|Cottonee|55}} from the {{TCG|Ancient Origins}} expansion.
+*'''Attach''' is an attack that first appeared on {{TCG ID|Steam Siege|Joltik|41}} from the {{TCG|Steam Siege}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Waumboll (Unschlagbare Gene 027)]]
+[[es:Cottonee (Genes Formidables TCG Pocket)]]
+[[fr:Doudouvet (Puissance Génétique 027)]]
+[[it:Cottonee (Geni Supremi 27)]]
+[[ja:モンメン (ポケポケ A1)]]
+[[zh:木棉球（A1）]]

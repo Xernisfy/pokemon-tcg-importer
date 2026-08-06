@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bouffalant
+|ja name=バッフロン
+|trans name=Buffron
+|species=Bouffalant
+|type=Colorless
+|image=BouffalantWisdomofSeaandSky150.png
+|illustrator=nagimiso
+|hp=100
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=150/161|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Bouffalant''' (Japanese: '''バッフロン''' ''Buffron'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Continuous Headbutt
+|jname=れんぞくずつき
+|jtrans=Continuous Headbutt
+|damage=70×
+|effect=Flip a coin until you get tails. This attack does 70 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Bouffalant
+|category=Bash Buffalo
+|ndex=0626
+|height=5'3"
+|jheight=1.6
+|weight=208.6
+|jweight=94.6
+|dex=These Pokémon can crush a car with no more than a headbutt. Bouffalant with more hair on their heads hold higher positions within the herd.
+|jdex=頭突きだけで 車を 潰す。 頭の 毛が 大きいほど 群れでの 地位が 上がるのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Battle Styles|Bouffalant|118}} from the {{TCG|Battle Styles}} expansion.
+*'''Continuous Headbutt''' is an attack that first appeared on {{TCG ID|EX Ruby & Sapphire|Linoone|38}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bisofank (Weisheit von Meer und Himmel 150)]]
+[[es:Bouffalant (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Frison (Sagesse entre Ciel et Mer 150)]]
+[[it:Bouffalant (La Via del Cielo e del Mare 150)]]
+[[ja:バッフロン (ポケポケ A4)]]
+[[zh:爆炸头水牛（A4）]]

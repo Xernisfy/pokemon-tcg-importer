@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Porygon
+|ja name=ポリゴン
+|trans name=Porygon
+|species=Porygon
+|type=Colorless
+|image=PorygonSpace-TimeSmackdown127.png
+|illustrator=Shin Nagasawa
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=127/155|pack=Palkia|rarity=Diamond|rarity count=1}}
+}}
+
+'''Porygon''' (Japanese: '''ポリゴン''' ''Porygon'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Beam
+|jname=ビーム
+|jtrans=Beam
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Porygon
+|species=Virtual
+|ndex=0137
+|height=2'7"
+|jheight=0.8
+|weight=80.5
+|jweight=36.5
+|dex=State-of-the-art technology was used to create Porygon. It was the first artificial Pokémon to be created via computer programming.
+|jdex=最高の　科学力を　使い 世界で　はじめて　プログラムにより 作られた　人工の　ポケモン｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Burning Shadows|Porygon|103}} from the {{TCG|Burning Shadows}} expansion; both cards have the Beam attack.
+*'''Beam''' is an attack that first appeared on {{TCG ID|Burning Shadows|Porygon|103}} and {{TCG ID|Burning Shadows|Porygon2|104}}, both from the {{TCG|Burning Shadows}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Porygon (Kollision von Raum und Zeit 127)]]
+[[es:Porygon (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Porygon (Choc Spatio-Temporel 127)]]
+[[it:Porygon (Scontro Spaziotemporale 127)]]
+[[ja:ポリゴン (ポケポケ A2)]]
+[[zh:多边兽（A2）]]

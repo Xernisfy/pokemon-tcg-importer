@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Turtonator
+|ja name=バクガメス
+|trans name=Bakugames
+|species=Turtonator
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TurtonatorCelestialGuardians37.png|illustrator=Shin Nagasawa|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TurtonatorCelestialGuardians161.png|illustrator=akagi|tab caption=Illustration Rare}}
+|hp=120
+|weakness=Water
+|retreat cost=4
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lunala|rarity=Diamond|rarity count=3|number=037/155}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lunala|rarity=Star|rarity count=1|number=161/155}}
+}}
+
+'''Turtonator''' (Japanese: '''バクガメス''' ''Bakugames'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Colorless}}
+|name=Fire Spin
+|jname=ほのおのうず
+|jtrans=Flame Swirl
+|damage=90
+|effect=Discard a {{e|Fire}} Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Turtonator
+|species=Blast Turtle
+|ndex=0776
+|height=6'7"
+|jheight=2.0
+|weight=467.4
+|jweight=212.0
+|dex=Explosive substances coat the shell on its back. Enemies that dare attack it will be blown away by an immense detonation.
+|jdex=爆薬で コーティングされた 甲羅を 背負う。 攻撃してきた 敵を 大爆発で 返り討ち。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=TurtonatorCelestialGuardians37.png
+|caption1=Rare card<br>Illus. [[Shin Nagasawa]]
+|image2=TurtonatorCelestialGuardians161.png
+|caption2=Illustration rare card<br>Illus. {{OBP|akagi|illustrator}}
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Guardians Rising|Turtonator|17}} from the {{TCG|Guardians Rising}} expansion.
+*{{m|Fire Spin}} is a [[move]] in the [[Pokémon games]] that {{p|Turtonator}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tortunator (Hüter des Firmaments 037)]]
+[[es:Turtonator (Guardianes Celestiales TCG Pocket)]]
+[[fr:Boumata (Gardiens Astraux 037)]]
+[[it:Turtonator (Guardiani Astrali 37)]]
+[[ja:バクガメス (ポケポケ A3)]]
+[[zh:爆焰龟兽（A3）]]

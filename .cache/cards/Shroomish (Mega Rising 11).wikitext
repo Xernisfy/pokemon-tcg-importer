@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Shroomish
+|ja name=キノココ
+|trans name=Kinococo
+|species=Shroomish
+|type=Grass
+|image=ShroomishMegaRising11.png
+|illustrator=Naoyo Kimura
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=011/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Shroomish''' (Japanese: '''キノココ''' ''Kinococo'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Shroomish
+|category=Mushroom
+|ndex=0285
+|height=1'4"
+|jheight=0.4
+|weight=9.9
+|jweight=4.5
+|dex=If it senses danger, it scatters spores from the top of its head to protect itself.
+|jdex=危険を 感じると 頭の てっぺんから 毒の 胞子を ばらまき 身を 守る ポケモン。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fusion Strike|Shroomish|4}} from the {{TCG|Fusion Strike}} expansion; both cards have the Tackle attack.
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Shroomish}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knilz (Mega-Aufstieg 011)]]
+[[es:Shroomish (Megaascenso TCG Pocket)]]
+[[fr:Balignon (Méga-Ascension 011)]]
+[[it:Shroomish (Mega Ascesa 11)]]
+[[ja:キノココ (ポケポケ B1)]]
+[[zh:蘑蘑菇（B1）]]

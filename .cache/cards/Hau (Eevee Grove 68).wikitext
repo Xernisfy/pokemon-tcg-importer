@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Hau
+|ja name=ハウ
+|trans name=Hau
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HauEeveeGrove68.png|illustrator=Yuu Nishida|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HauEeveeGrove85.png|illustrator=Yuu Nishida|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=068/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=085/069|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Hau''' (Japanese: '''ハウ''' ''Hau'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=During this turn, attacks by your {{TCG ID|Celestial Guardians|Decidueye ex|12|Decidueye '''''<big>ex</big>''''' }}, {{TCG ID|Celestial Guardians|Incineroar ex|33|Incineroar '''''<big>ex</big>'''''}}, or {{TCG ID|Eevee Grove|Primarina ex|24|Primarina '''''<big>ex</big>'''''}} do +30 damage to your opponent's Active Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=HauEeveeGrove68.png
+|caption1=Uncommon card<br>Illus. [[Yuu Nishida]]
+|image2=HauEeveeGrove85.png
+|caption2=Super rare card<br>Illus. [[Yuu Nishida]]
+}}
+
+==Trivia==
+* {{TCG|Hau}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Hau]] is a [[rival]] of the {{player}} in Generation {{gen|VII}}. [[Iki Town]] is featured in the standard print's illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=ハウ ''Hau''
+|zh_yue=哈烏 ''Hāwū''
+|zh_cmn=哈烏 ''Hāwū''
+|fr=Tili
+|de=Tali
+|it=Hau
+|ko=하우 ''Hau''
+|pt_br=Hibi
+|es=Tilo
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tali (TCG Pocket)]]
+[[es:Tilo (TCG Pocket)]]
+[[fr:Tili (La Clairière d'Évoli 068)]]
+[[it:Hau (Il Bosco di Eevee 68)]]
+[[ja:ハウ (ポケポケ)]]
+[[zh:哈乌（TCGP）]]

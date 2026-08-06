@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Sophocles
+|ja name=マーマネ
+|trans name=Mamane
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SophoclesCelestialGuardians153.png|illustrator=Akira Komayama|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SophoclesCelestialGuardians195.png|illustrator=Akira Komayama|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=153/155|pack=Solgaleo|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=195/155|pack=Solgaleo|rarity=Star|rarity count=2}}
+}}
+
+'''Sophocles''' (Japanese: '''マーマネ''' ''Mamane'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=During this turn, attacks used by your {{TCGP|Golem|Alolan Golem}}, {{TCGP|Vikavolt}}, or {{TCGP|Togedemaru}} do +30 damage to your opponent's Active Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=SophoclesCelestialGuardians153.png
+|caption1=Uncommon card<br>Illus. [[Akira Komayama]]
+|image2=SophoclesCelestialGuardians195.png
+|caption2=Super rare card<br>Illus. [[Akira Komayama]]
+}}
+
+==Trivia==
+* {{TCG|Sophocles}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Sophocles]] is the [[Trial Captain|captain]] of [[Ula'ula Island]]'s [[Hokulani Observatory]], which is featured in the illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=マーマネ ''Mamane''
+|zh_yue=馬瑪內 ''Máhmáhnoih''
+|zh_cmn=馬瑪內<!-- / 马玛内--> ''Mǎmǎnèi''
+|fr=Chrys
+|de=Chrys
+|it=Chrys
+|ko=마마네 ''Mamane''
+|pt_br=Chris
+|es=Chris
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Chrys (TCG Pocket)]]
+[[es:Chris (TCG Pocket)]]
+[[fr:Chrys (Gardiens Astraux 153)]]
+[[it:Chrys (Guardiani Astrali 153)]]
+[[ja:マーマネ (ポケポケ)]]
+[[zh:马玛内（TCGP）]]

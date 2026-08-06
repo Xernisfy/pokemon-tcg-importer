@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Houndoom
+|ja name=ヘルガー
+|trans name=Hellgar
+|species=Houndoom
+|type=Fire
+|image=HoundoomCrimsonBlaze16.png
+|illustrator=Midori Harada
+|hp=90
+|weakness=Water
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Houndour
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=016/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Houndoom''' (Japanese: '''ヘルガー''' ''Hellgar'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Sharp Fang
+|jname=するどいキバ
+|jtrans=Razor Fang
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Houndoom
+|species=Dark
+|ndex=0229
+|height=4'7"
+|jheight=1.4
+|weight=77.2
+|jweight=35.0
+|dex=Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests.
+|jdex=不気味な 遠吠えを 聞いた ポケモンは 震え 一目散に 自分の 巣に 戻る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Unseen Forces|Houndoom|7}} from the {{TCG|EX Unseen Forces}} expansion.
+*'''Sharp Fang'''{{'}}s Japanese name is that of the [[Razor Fang]], a [[held item]] in the [[Pokémon games]]. As an attack in the TCG, it first appeared on {{TCG ID|EX Hidden Legends|Golbat|36}} from the {{TCG|EX Hidden Legends}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hundemon (Feuerrote Flammen 016)]]
+[[fr:Démolosse (Embrasement Écarlate 016)]]
+[[it:Houndoom (Fiamme Cremisi 16)]]
+[[ja:ヘルガー (ポケポケ B1a)]]
+[[zh:黑鲁加（B1a）]]

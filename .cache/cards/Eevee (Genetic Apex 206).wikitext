@@ -1,0 +1,92 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Eevee
+|ja name=イーブイ
+|trans name=Eievui
+|species=Eevee
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EeveeGeneticApex206.png|illustrator=Atsuko Nishida|tab caption=Common (206/226)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EeveeGeneticApex207.png|illustrator=Hasuno|tab caption=Common (207/226)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EeveeGeneticApex208.png|illustrator=Sekio|tab caption=Common (208/226)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EeveeGeneticApex248.png|illustrator=sowsow|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EeveePromo-A92.png|illustrator=nisimono|tab caption=Promo}}
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=206/226|pack=Charizard|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=207/226|pack=Mewtwo|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=208/226|pack=Pikachu|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=248/226|pack=Pikachu|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=092/P-A}}
+}}
+
+'''Eevee''' (Japanese: '''イーブイ''' ''Eievui'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Eevee
+|species=Evolution
+|ndex=0133
+|height=1'
+|jheight=0.3
+|weight=14.3
+|jweight=6.5
+|dex=Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.
+|jdex=環境の　変化に　すぐさま 合わせられるよう　いくつもの 進化の　可能性を　秘めている｡
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available as part of the [[Mission (TCG Pocket)#Eevee Mass Outbreak Event Missions| Eevee Mass Outbreak Event]] missions, which ran from July 21 to 30, 2025, and was awarded to players who collected 3 Eevee cards during the mission period.
+
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=EeveeGeneticApex206.png
+|caption1=Common card (206/226)<br>Illus. [[Atsuko Nishida]]
+|image2=EeveeGeneticApex207.png
+|caption2=Common card (207/226)<br>Illus. [[Hasuno]]
+|image3=EeveeGeneticApex208.png
+|caption3=Common card (208/226)<br>Illus. [[Sekio]]
+|image4=EeveeGeneticApex248.png
+|caption4=Illustration rare card<br>Illus. [[sowsow]]
+|image5=EeveePromo-A92.png
+|caption5=Promo card<br>Illus. [[nisimono]]
+}}
+
+==Trivia==
+The illustration rare print of this card features a [[Water Stone]], a [[Thunder Stone]], and a [[Fire Stone]]—which are used to evolve Eevee into {{p|Vaporeon}}, {{p|Jolteon}}, and {{p|Flareon}} respectively—as well as a [[Poké Toy]].
+
+===Origin===
+*This card's standard illustrations are pulled from a variety of cards across the [[Pokémon Trading Card Game]]:
+**The 206/226 print's illustration was first featured on {{TCG ID|Ultra Prism|Eevee|104}} from the {{TCG|Ultra Prism}} expansion;
+**The 207/226 print's illustration was first featured on {{TCG ID|Cosmic Eclipse|Eevee|167}} from the {{TCG|Cosmic Eclipse}} expansion;
+**The 208/226 print's illustration was first featured on {{TCG ID|Lost Thunder|Eevee|155}} from the {{TCG|Lost Thunder}} expansion.
+*Both this card and the Cosmic Eclipse print have the {{m|Tackle}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Eevee}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Evoli (Unschlagbare Gene 206)]]
+[[es:Eevee (Genes Formidables TCG Pocket)]]
+[[fr:Évoli (Puissance Génétique 206)]]
+[[it:Eevee (Geni Supremi 206)]]
+[[ja:イーブイ (ポケポケ A1)]]
+[[zh:伊布（A1）]]

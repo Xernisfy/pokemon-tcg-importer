@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Machamp
+|ja name=カイリキー
+|trans name=Kairiky
+|species=Machamp
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image= MachampShiningRevelry39.png|illustrator=Kouki Saitou|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MachampPromo-A55.png|illustrator=Masakazu Fukuda|tab caption=Promo}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MachampCelestialGuardians225.png|illustrator=Shin Nagasawa|tab caption=Shiny Rare}}
+|hp=150
+|weakness=Psychic
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Machoke
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=039/072|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=055/P-A|pack=Vol. 6}}
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=225/155|pack=Solgaleo|rarity=Shiny|rarity count=1}}
+}}
+'''Machamp''' (Japanese: '''カイリキー''' ''Kairiky'') is a {{ct|Fighting}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Power Press
+|jname=パワープレス
+|jtrans=Power Press
+|damage=70+
+|effect=If this Pokémon has at least 2 extra {{e|Fighting}} Energy attached, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Machamp
+|category=Superpower 
+|ndex=0068
+|height=5'3"
+|jheight=1.6
+|weight=286.6
+|jweight=130.0
+|dex=It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.
+|jdex=４本の腕を　すばやく　動かし あらゆる　角度から　休むことなく パンチや　チョップを　叩きこむ｡
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of five cards that could be pulled from Promo-A Vol. 6 packs; these were made available as part of the [[Pawmot Drop Event]], which ran from April 7 to 17, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=MachampShiningRevelry39.png
+|caption1=Rare card<br>Illus. [[Kouki Saitou]]
+|image2=MachampPromo-A55.png
+|caption2=Promo card<br>Illus. [[Masakazu Fukuda]]
+|image3=MachampCelestialGuardians225.png
+|caption3=Shiny rare card<br>Illus. [[Shin Nagasawa]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Shining Revelry}} illustration was first featured on {{TCG ID|Plasma Blast|Machamp|50}} from the {{TCG|Plasma Blast}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Stormfront|Machamp|20}} from the {{TCG|Stormfront}} expansion.
+*'''Power Press''' is an attack that first appeared on {{TCG ID|Sword & Shield|Sandaconda|110}} from the {{TCG|Sword & Shield}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Machomei (Glänzendes Festival 039)]]
+[[es:Machamp (Festival Brillante TCG Pocket)]]
+[[fr:Mackogneur (Réjouissances Rayonnantes 039)]]
+[[it:Machamp (Tripudio Splendente 39)]]
+[[ja:カイリキー (ポケポケ A2b)]]
+[[zh:怪力（A2b）]]

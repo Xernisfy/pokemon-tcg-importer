@@ -1,0 +1,48 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Mesagoza
+|ja name=テーブルシティ
+|trans name=Table City
+|subtype=Stadium
+|image=MesagozaPaldeanWonders93.png
+|illustrator=Oswaldo KATO
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=093/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Mesagoza''' (Japanese: '''テーブルシティ''' ''Table City'') is a {{TCGP|Stadium card}} in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Stadium
+|rule=SV Stadium
+|effect=Once during each player's turn, that player may flip a coin. If heads, that player puts a random Pokémon from their deck into their hand.
+}}
+
+==Trivia==
+This card's effect is similar to the {{TCG|Mesagoza}} card in the [[Pokémon Trading Card Game]], but the Pokémon card selected is random, rather than the player's choice.
+
+===Origin===
+* [[Mesagoza]] is a location in [[Paldea]].
+* This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Mesagoza|178}} from the {{TCG|Scarlet & Violet}} expansion.
+
+==In other languages==
+{{langtable|color={{TCG Stadium color}}|bordercolor={{TCG Stadium color dark}}
+|ja=テーブルシティ ''Table City''
+|zh_yue=桌台市 ''Cheuktòih Síh''
+|zh_cmn=桌台市 ''Zhuōtái Shì''
+|fr=Mesaledo
+|de=Mesalona City
+|it=Mesapoli
+|ko=테이블시티 ''Table City''
+|pt_br=Mesaledo
+|es=Ciudad Meseta
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mesalona City (TCG Pocket)]]
+[[fr:Mesaledo (Merveilles de Paldea 093)]]
+[[it:Mesapoli (Meraviglie di Paldea 93)]]
+[[ja:テーブルシティ (ポケポケ)]]
+[[zh:桌台市（TCGP）]]

@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Growlithe
+|ja name=ガーディ
+|trans name=Gardie
+|species=Growlithe
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GrowlitheMegaRising28.png|illustrator=Narumi Sato|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GrowlitheMegaRising230.png|illustrator=Yuu Nishida|tab caption=Illustration Rare}}
+|hp=70
+|weakness=Water
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=028/226|pack=Mega Blaziken|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=230/226|pack=Mega Blaziken|rarity=Star|rarity count=1}}
+}}
+
+'''Growlithe''' (Japanese: '''ガーディ''' ''Gardie'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Dig Claws
+|jname=ツメをたてる
+|jtrans=Dig Into with Claws
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Growlithe
+|category=Puppy
+|ndex=0058
+|height=1'
+|jheight=0.3
+|weight=5.5
+|jweight=2.5
+|dex=It's very friendly and faithful to people. It will try to repel enemies by barking and biting. 
+|jdex=人懐こく 誠実な 性格。敵には ほえて かみつき 追い払おうとする。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=GrowlitheMegaRising28.png
+|caption1=Common card<br>Illus. [[Narumi Sato]]
+|image2=GrowlitheMegaRising230.png
+|caption2=Illustration rare card<br>Illus. [[Yuu Nishida]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fusion Strike|Growlithe|32}} from the {{TCG|Fusion Strike}} expansion.
+*'''Dig Claws''' is an attack that first appeared on {{TCG ID|Secret Wonders|Growlithe|89}} from the {{TCG|Secret Wonders}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Fukano (Mega-Aufstieg 028)]]
+[[es:Growlithe (Megaascenso TCG Pocket)]]
+[[fr:Caninos (Méga-Ascension 028)]]
+[[it:Growlithe (Mega Ascesa 28)]]
+[[ja:ガーディ (ポケポケ B1)]]
+[[zh:卡蒂狗（B1）]]

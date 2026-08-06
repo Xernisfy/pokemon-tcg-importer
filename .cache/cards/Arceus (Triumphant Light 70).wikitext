@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Arceus
+|ja name=アルセウス
+|trans name=Arceus
+|species=Arceus
+|type=Colorless
+|image=ArceusTriumphantLight70.png
+|illustrator=Nurikabe
+|hp=120
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=070/075|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Arceus''' (Japanese: '''アルセウス''' ''Arceus'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Power Blast
+|jname=パワーブラスト
+|jtrans=Power Blast
+|damage=100
+|effect=Discard a random Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Arceus
+|species=Alpha
+|ndex=0493
+|height=10'6"
+|jheight=3.2
+|weight=705.5
+|jweight=320.0
+|dex=According to the legends of Sinnoh, this Pokémon emerged from an egg and shaped all there is in this world.
+|jdex=タマゴから 姿を 現して 世界の すべてを 生み出したと シンオウ神話に 語られている。
+}}
+
+==Trivia==
+This card features a special pattern behind its card text, which is shared with {{TCG ID|Triumphant Light|Arceus ex|71}} and eight other Pokémon in the {{TCGP|Triumphant Light}} expansion, all eight of which have a {{TCGP|Link Ability}} that is active or usable while any Arceus card is in play. All cards are also part of the "Pokémon with Abilities that "Link" with Arceus" [[Triumphant Light (TCG Pocket)#Themed Collections|Themed Collection]].
+
+===Origin===
+*'''Power Blast''' is an attack that first appeared on {{TCG ID|Movie VS Pack|Butler's Salamence|11}} from the {{TCG|Movie Commemoration VS Pack}}.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Arceus (Licht des Triumphs 070)]]
+[[es:Arceus (Luz Triunfal TCG Pocket)]]
+[[fr:Arceus (Lumière Triomphale 070)]]
+[[it:Arceus (Luce Trionfale 70)]]
+[[ja:アルセウス (ポケポケ A2a)]]
+[[zh:阿爾宙斯（A2a）]]

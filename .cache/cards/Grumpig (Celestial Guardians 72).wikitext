@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Grumpig
+|ja name=ブーピッグ
+|trans name=Boopig
+|species=Grumpig
+|type=Psychic
+|image=GrumpigCelestialGuardians72.png
+|illustrator=Yukiko Baba
+|hp=110
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Spoink
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=072/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Grumpig''' (Japanese: '''ブーピッグ''' ''Boopig'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}{{e|Colorless}}
+|name=Zen Headbutt
+|jname=しねんのずつき
+|jtrans=Thought Headbutt
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Grumpig
+|species=Manipulate
+|ndex=0326
+|height=2'11"
+|jheight=0.9
+|weight=157.6
+|jweight=71.5
+|dex=It can perform odd dance steps to influence foes. Its style of dancing became hugely popular overseas.
+|jdex=相手を 操るときの 不思議な ステップは 昔 外国で 大流行したことが ある。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Triumphant|Grumpig|23}} from the {{TCG|Triumphant}} expansion.
+*{{m|Zen Headbutt}} is a [[move]] in the [[Pokémon games]] that {{p|Grumpig}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Groink (Hüter des Firmaments 072)]]
+[[es:Grumpig (Guardianes Celestiales TCG Pocket)]]
+[[fr:Groret (Gardiens Astraux 072)]]
+[[it:Grumpig (Guardiani Astrali 72)]]
+[[ja:ブーピッグ (ポケポケ A3)]]
+[[zh:噗噗猪（A3）]]

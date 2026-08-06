@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Slowking
+|ja name=ヤドキング
+|trans name=Yadoking
+|species=Slowking
+|type=Psychic
+|image=SlowkingWisdomofSeaandSky74.png
+|illustrator=Kagemaru Himeno
+|hp=110
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Slowpoke
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=074/161|pack=Lugia|rarity=Diamond|rarity count=2}}
+}}
+
+'''Slowking''' (Japanese: '''ヤドキング''' ''Yadoking'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Psychic
+|jname=サイコキネシス
+|jtrans=Psychokinesis
+|damage=10+
+|effect=This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Slowking
+|category=Royal 
+|ndex=0199
+|height=6'7"
+|jheight=2
+|weight=175.3
+|jweight=79.5
+|dex=When its head was bitten, toxins entered Slowpoke's head and unlocked an extraordinary power.
+|jdex=かまれたとき あたまに しみこんだ どくそに よって ただならない のうりょくに めざめた ヤドン。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Delta Species|Slowking|28}} from the {{TCG|EX Delta Species}} expansion.
+*{{m|Psychic}} is a [[move]] in the [[Pokémon games]] that {{p|Slowking}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Laschoking (Weisheit von Meer und Himmel 074)]]
+[[es:Slowking (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Roigada (Sagesse entre Ciel et Mer 074)]]
+[[it:Slowking (La Via del Cielo e del Mare 74)]]
+[[ja:ヤドキング (ポケポケ A4)]]
+[[zh:呆呆王（A4）]]

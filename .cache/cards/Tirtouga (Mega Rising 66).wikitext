@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tirtouga
+|ja name=プロトーガ
+|trans name=Protoga
+|species=Tirtouga
+|type=Water
+|image=TirtougaMegaRising66.png
+|illustrator=HYOGONOSUKE
+|hp=90
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Cover Fossil
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Diamond|rarity count=2|number=066/226}}
+}}
+
+'''Tirtouga''' (Japanese: '''プロトーガ''' ''Protoga'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Shell Attack
+|jname=こうらアタック
+|jtrans=Shell Attack
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Tirtouga
+|species=Prototurtle
+|ndex=0564
+|height=2'04"
+|jheight=0.7
+|weight=36.4
+|jweight=16.5
+|dex=Tirtouga is considered to be the ancestor of many turtle Pokémon. It was restored to life from a fossil.
+|jdex=多くの かめポケモンの 先祖と 考えられている ポケモン。 化石から 復元された。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Tirtouga|44}} from the {{TCG|Unified Minds}} expansion; both cards have the Shell Attack attack.
+*'''Shell Attack''' is an attack that first appeared on {{TCG ID|Team Rocket|Squirtle|68}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Galapaflos (Mega-Aufstieg 066)]]
+[[es:Tirtouga (Megaascenso TCG Pocket)]]
+[[fr:Carapagos (Méga-Ascension 066)]]
+[[it:Tirtouga (Mega Ascesa 66)]]
+[[ja:プロトーガ (ポケポケ B1)]]
+[[zh:原盖海龟（B1）]]

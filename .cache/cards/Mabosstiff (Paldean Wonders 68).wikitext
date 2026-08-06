@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mabosstiff
+|ja name=マフィティフ
+|trans name=Mafitiff
+|species=Mabosstiff
+|type=Darkness
+|image=MabosstiffPaldeanWonders68.png
+|illustrator=KIYOTAKA OSHIYAMA
+|hp=120
+|weakness=Grass
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Maschiff
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=068/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Mabosstiff''' (Japanese: '''マフィティフ''' ''Mafitiff'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Colorless}}
+|name=Wild Tackle
+|jname=ワイルドタックル
+|jtrans=Wild Tackle
+|damage=110
+|effect=This Pokémon also does 20 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Mabosstiff
+|category=Boss
+|ndex=0943
+|height=3'7"
+|jheight=1.1
+|weight=134.5
+|jweight=61.0
+|dex=Mabosstiff loves playing with children. Though usually gentle, it takes on an intimidating look when protecting its family.
+|jdex=子どもと 遊ぶことが 大好き。 普段は 温厚だが 家族を 守るとき 形相が 変わる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Mabosstiff|137}} from the {{TCG|Scarlet & Violet}} expansion.
+**Both cards have the '''Wild Tackle''' attack, which first appeared on {{TCG ID|Boundaries Crossed|Stoutland|122}} from the {{TCG|Boundaries Crossed}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mastifioso (Wundervolles Paldea 068)]]
+[[fr:Dogrino (Merveilles de Paldea 068)]]
+[[it:Mabosstiff (Meraviglie di Paldea 68)]]
+[[ja:マフィティフ (ポケポケ B2a)]]
+[[zh:獒教父（B2a）]]

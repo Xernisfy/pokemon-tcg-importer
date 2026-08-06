@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lombre
+|ja name=ハスブレロ
+|trans name=Hasubrero
+|species=Lombre
+|type=Water
+|image=LombreMegaRising54.png
+|illustrator=miki kudo
+|hp=90
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Lotad
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Altaria|rarity=Diamond|rarity count=2|number=054/226}}
+}}
+
+'''Lombre''' (Japanese: '''ハスブレロ''' ''Hasubrero'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Gentle Slap
+|jname=ひっぱたく
+|jtrans=Slap
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Lombre
+|species=Jolly
+|ndex=0271
+|height=3'11"
+|jheight=1.2
+|weight=71.6
+|jweight=32.5
+|dex=It lives at the water's edge where it is sunny. It sleeps on a bed of water grass by day and becomes active at night.
+|jdex=日当たりの 良い 水辺に 住む。昼間は 水草の ベッドで 眠り 日が 暮れると 動き出す。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Evolving Skies|Lombre|33}} from the {{TCG|Evolving Skies}} expansion.
+*'''Gentle Slap''' is an attack that first appeared on {{TCG ID|EX Team Rocket Returns|Psyduck|70}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lombrero (Mega-Aufstieg 054)]]
+[[es:Lombre (Megaascenso TCG Pocket)]]
+[[fr:Lombre (Méga-Ascension 054)]]
+[[it:Lombre (Mega Ascesa 54)]]
+[[ja:ハスブレロ (ポケポケ B1)]]
+[[zh:莲帽小童（B1）]]

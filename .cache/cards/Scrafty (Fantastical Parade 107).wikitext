@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Scrafty
+|ja name=ズルズキン
+|trans name=Zuruzukin
+|species=Scrafty
+|type=Darkness
+|image=ScraftyFantasticalParade107.png
+|illustrator=Kagemaru Himeno
+|hp=110
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Scraggy
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=107/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Scrafty''' (Japanese: '''ズルズキン''' ''Zuruzukin'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=Crush the Weak
+|jname=よわきをくじく
+|jtrans=Break the Timid
+|damage=50+
+|effect=If this Pokémon has more Energy attached than your opponent's Active Pokémon, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Scrafty
+|species=Hoodlum
+|ndex=0560
+|height=3'7"
+|jheight=1.1
+|weight=66.1
+|jweight=30.0
+|dex=This Pokémon may be rude, but it takes very good care of its family, its friends, and its turf.
+|jdex=粗暴だが 自分の 家族や 群れの 仲間や 縄張りを とっても 大切にしている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Dark Explorers|Scrafty|68}} from the {{TCG|Dark Explorers}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Irokex (Traumhafte Parade 107)]]
+[[fr:Baggaïd (Parade Onirique 107)]]
+[[it:Scrafty (Parata Fantasmagorica 107)]]
+[[ja:ズルズキン (ポケポケ B2)]]
+[[zh:头巾混混（B2）]]

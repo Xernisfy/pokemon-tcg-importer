@@ -1,0 +1,66 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Lyra
+|ja name=コトネ
+|trans name=Kotone
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LyraWisdomofSeaandSky157.png|illustrator=yuu|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LyraDeluxePackex333.png|illustrator=yuu|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LyraWisdomofSeaandSky197.png|illustrator=yuu|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=157/161|pack=Lugia|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=197/161|pack=Lugia|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=332/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=333/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Lyra''' (Japanese: '''コトネ''' ''Kotone'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Switch your Active Pokémon that has damage on it with 1 of your Benched Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=LyraWisdomofSeaandSky157.png
+|caption1=Standard card<br>Illus. [[yuu]]
+|image2=LyraWisdomofSeaandSky197.png
+|caption2=Super rare card<br>Illus. [[yuu]]
+|image3=LyraDeluxePackex333.png
+|caption3=Parallel foil card<br>Illus. [[yuu]]
+}}
+
+==Trivia==
+* This card's effect is similar to {{TCG|Switch}} in the [[Pokémon Trading Card Game]], but this card is a {{TCGP|Supporter card}} rather than an {{TCGP|Item card}} and can only switch out a Pokémon with damage on it.
+
+===Origin===
+*{{ga|Lyra}} is the female [[player character]] in {{game|HeartGold and SoulSilver|s}}. Her house in [[New Bark Town]] is depicted in this card's illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=コトネ ''Kotone''
+|zh_yue=琴音 ''Kàhmyām''
+|zh_cmn=琴音 ''Qínyīn''
+|fr=Célesta
+|de=Lyra
+|it=Cetra
+|ko=금선 ''Geumseon''
+|pt_br=Lyra
+|es=Lira
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lyra (TCG Pocket)]]
+[[es:Lira (TCG Pocket)]]
+[[fr:Célesta (Sagesse entre Ciel et Mer 157)]]
+[[it:Cetra (La Via del Cielo e del Mare 157)]]
+[[ja:コトネ (ポケポケ)]]
+[[zh:琴音（TCGP）]]

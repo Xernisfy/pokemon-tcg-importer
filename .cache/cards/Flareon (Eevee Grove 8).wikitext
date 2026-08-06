@@ -1,0 +1,85 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Flareon
+|ja name=ブースター
+|trans name=Booster
+|species=Flareon
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FlareonEeveeGrove8.png|illustrator=Eri Yamaki|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FlareonDeluxePackex65.png|illustrator=Eri Yamaki|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FlareonEeveeGrove71.png|illustrator=Teeziro|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FlareonWisdomofSeaandSky213.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=110
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Eevee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=008/069|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=071/069|pack=Any|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=213/161|pack=Ho-Oh|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=064/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=065/353|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Flareon''' (Japanese: '''ブースター''' ''Booster'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}
+|name=Assisting Heater
+|jname=アシストヒーター
+|jtrans=Assist Heater
+|damage=40
+|effect=Take a {{e|Fire}} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Flareon
+|species=Flame
+|ndex=0136
+|height=2'11"
+|jheight=0.9
+|weight=55.1
+|jweight=25.0
+|dex=Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees Fahrenheit.
+|jdex=吸いこんだ　空気を　体内の 炎袋に　送りこみ １７００度の　炎にして　吹く｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=FlareonEeveeGrove8.png
+|caption1=Standard card<br>Illus. [[Eri Yamaki]]
+|image2=FlareonEeveeGrove71.png
+|caption2=Illustration rare card<br>Illus. [[Teeziro]]
+|image4=FlareonWisdomofSeaandSky213.png
+|caption4=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+|image5=FlareonDeluxePackex65.png
+|caption5=Parallel foil card<br>Illus. [[Eri Yamaki]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Vivid Voltage|Flareon|26}} from the {{TCG|Vivid Voltage}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Flareon}}.
+*'''Assisting Heater''' is an attack that first appeared on {{TCG ID|Lost Thunder|Moltres|38}} from the {{TCG|Lost Thunder}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flamara (Evoli-Hain 008)]]
+[[es:Flareon (Arboleda de Eevee TCG Pocket)]]
+[[fr:Pyroli (La Clairière d'Évoli 008)]]
+[[it:Flareon (Il Bosco di Eevee 8)]]
+[[ja:ブースター (ポケポケ A3b)]]
+[[zh:火伊布（A3b）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Swoobat
+|ja name=ココロモリ
+|trans name=Kokoromori
+|species=Swoobat
+|type=Psychic
+|image=SwoobatEeveeGrove30.png
+|illustrator=Shigenori Negishi
+|hp=100
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Woobat
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=030/069}}
+}}
+
+'''Swoobat''' (Japanese: '''ココロモリ''' ''Kokoromori'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Psyshot
+|jname=サイコショット
+|jtrans=Psychoshot
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Swoobat
+|category=Courting
+|ndex=0528
+|height=2'11"
+|jheight=0.9
+|weight=23.1
+|jweight=10.5
+|dex=Emitting powerful sound waves tires it out. Afterward, it won't be able to fly for a little while.
+|jdex=超強力な 音波を 放ったあとは 疲れて しばらく 飛べなくなるよ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Emerging Powers|Swoobat|37}} from the {{TCG|Emerging Powers}} expansion.
+*'''Psyshot''' is an attack that first appeared on {{TCG ID|Gym Challenge|Sabrina's Kadabra|58}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Fletiamo (Evoli-Hain 030)]]
+[[es:Swoobat (Arboleda de Eevee TCG Pocket)]]
+[[fr:Rhinolove (La Clairière d'Évoli 030)]]
+[[it:Swoobat (Il Bosco di Eevee 30)]]
+[[ja:ココロモリ (ポケポケ A3b)]]
+[[zh:心蝙蝠（A3b）]]

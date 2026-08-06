@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tapu Lele
+|ja name=カプ・テテフ
+|trans name=Kapu-Tetefu
+|species=Tapu Lele
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TapuLeleCelestialGuardians84.png|illustrator=Misa Tsutsui|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TapuLeleCelestialGuardians170.png|illustrator=OKACHEKE|tab caption=Illustration Rare}}
+|hp=90
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lunala|rarity=Diamond|rarity count=3|number=084/155}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lunala|rarity=Star|rarity count=1|number=170/155}}
+}}
+
+'''Tapu Lele''' (Japanese: '''カプ・テテフ''' ''Kapu-Tetefu'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Energy Arrow
+|jname=エナジーアロー
+|jtrans=Energy Arrow
+|damage=
+|effect=This attack does 20 damage to 1 of your opponent's Pokémon for each Energy attached to that Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Tapu Lele
+|species=Land Spirit
+|ndex=0786
+|height=3'11"
+|jheight=1.2
+|weight=41
+|jweight=18.6
+|dex=It heals the wounds of people and Pokémon by sprinkling them with its sparkling scales. This guardian deity is worshiped on Akala. 
+|jdex=かがやく りんぷんを ふりまいて ひとや ポケモンの きずを いやす。 アーカラで まつられる まもりがみだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=TapuLeleCelestialGuardians84.png
+|caption1=Rare card<br>Illus. [[Misa Tsutsui]]
+|image2=TapuLeleCelestialGuardians170.png
+|caption2=Illustration rare card<br>Illus. [[OKACHEKE]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|SM-P Promo|Tapu Lele|152}}, one of the {{TCG|SM-P Promotional cards}} released only in Japan.
+*'''Energy Arrow''' is an attack that first appeared on {{TCG ID|Unified Minds|Latias|153}} from the {{TCG|Unified Minds}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kapu-Fala (Hüter des Firmaments 084)]]
+[[es:Tapu Lele (Guardianes Celestiales TCG Pocket)]]
+[[fr:Tokopiyon (Gardiens Astraux 084)]]
+[[it:Tapu Lele (Guardiani Astrali 84)]]
+[[ja:カプ・テテフ (ポケポケ A3)]]
+[[zh:卡璞・蝶蝶（A3）]]

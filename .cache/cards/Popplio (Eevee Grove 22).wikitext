@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Popplio
+|ja name=アシマリ
+|trans name=Ashimari
+|species=Popplio
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PopplioEeveeGrove22.png|illustrator=match|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PopplioDeluxePackex117.png|illustrator=match|tab caption=Parallel}}
+|hp=70
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=022/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=116/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=117/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Popplio''' (Japanese: '''アシマリ''' ''Ashimari'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Watering
+|jname=みずまき
+|jtrans=Sprinkling
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Popplio
+|category=Sea Lion 
+|ndex=0728
+|height=1'4"
+|jheight=0.4
+|weight=16.5
+|jweight=7.5
+|dex=The balloons it inflates with its nose grow larger and larger as it practices day by day.
+|jdex=鼻で 膨らませる バルーンは 日々 練習を 重ねることで 少しずつ 大きく なっていく。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=PopplioEeveeGrove22.png
+|caption1=Standard card<br>Illus. [[match]]
+|image2=PopplioDeluxePackex117.png
+|caption2=Parallel foil card<br>Illus. [[match]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|SM Promo|Popplio|3}}, one of the {{TCG|SM Black Star Promos}}.
+*'''Watering''' is an attack that first appeared on {{TCG ID|HeartGold & SoulSilver|Wooper|88}} from {{TCG|HeartGold & SoulSilver}}.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Robball (Evoli-Hain 022)]]
+[[es:Popplio (Arboleda de Eevee TCG Pocket)]]
+[[fr:Otaquin (La Clairière d'Évoli 022)]]
+[[it:Popplio (Il Bosco di Eevee 22)]]
+[[ja:アシマリ (ポケポケ A3b)]]
+[[zh:球球海狮（A3b）]]

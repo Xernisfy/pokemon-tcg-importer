@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Golett
+|ja name=ゴビット
+|trans name=Gobit
+|species=Golett
+|type=Psychic
+|image=GolettGeneticApex135.png
+|illustrator=Kyoko Umemoto
+|hp=90
+|weakness=Darkness
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=135/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Golett''' (Japanese: '''ゴビット''' ''Gobit'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}{{e|Colorless}}
+|name=Mega Punch
+|jname=メガトンパンチ
+|jtrans=Megaton Punch
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Golett
+|species=Automaton
+|ndex=0622
+|height=3'3"
+|jheight=1
+|weight=202.8
+|jweight=92.0
+|dex=They were sculpted from clay in ancient times. No one knows why, but some of them are driven to continually line up boulders.
+|jdex=粘土から　生み出された　古代の ポケモン｡　なぜか　大岩を 並べ続ける　ものも　いる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Shining Legends|Golett|43}} from the {{TCG|Shining Legends}} expansion.
+**Both cards have the {{m|Mega Punch}} attack, this is a [[move]] in the [[Pokémon games]] that {{p|Golett}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Golbit (Unschlagbare Gene 135)]]
+[[es:Golett (Genes Formidables TCG Pocket)]]
+[[fr:Gringolem (Puissance Génétique 135)]]
+[[it:Golett (Geni Supremi 135)]]
+[[ja:ゴビット (ポケポケ A1)]]
+[[zh:泥偶小人（A1）]]

@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mismagius
+|ja name=ムウマージ
+|trans name=Mumargi
+|species=Mismagius
+|type=Psychic
+|image=MismagiusSecludedSprings33.png
+|illustrator=tono
+|hp=100
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Misdreavus
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=033/071|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Mismagius''' (Japanese: '''ムウマージ''' ''Mumargi'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Cursed Prose
+|jname=のろいのことだま
+|jtrans=Cursed Prose
+|damage=
+|effect=At the end of your opponent's next turn, do 90 damage to the Defending Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Mismagius
+|category=Magical
+|ndex=0429
+|height=2'11"
+|jheight=0.9
+|weight=9.7
+|jweight=4.4
+|dex=Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.
+|jdex=呪文のような 鳴き声だが まれに 相手を 幸せにする 効果も 秘めているという。
+}}
+
+==Trivia==
+===Origin===
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Traunmagil (Verborgene Quelle 033)]]
+[[es:Mismagius (Manantial Oculto TCG Pocket)]]
+[[fr:Magirêve (Source Secrète 033)]]
+[[it:Mismagius (Sorgenti Recondite 33)]]
+[[ja:ムウマージ (ポケポケ A4a)]]
+[[zh:梦妖魔（A4a）]]

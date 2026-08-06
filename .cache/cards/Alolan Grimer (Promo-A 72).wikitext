@@ -1,0 +1,64 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Grimer
+|ja name=アローラベトベター
+|trans name=Alolan Betbeter
+|species=Grimer
+|type=Darkness
+|image=AlolanGrimerPromo-A72.png
+|illustrator=Naoki Saito
+|hp=70
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=072/P-A|pack=Vol. 8}}
+}}
+
+'''Alolan Grimer''' (Japanese: '''アローラベトベター''' ''Alolan Betbeter'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Poison Gas
+|jname=どくガス
+|jtrans=Poison Gas
+|damage=
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Grimer
+|species=Sludge
+|ndex=0088
+|height=2'4"
+|jheight=0.7
+|weight=92.6
+|jweight=42.0
+|dex=There are a hundred or so of them living in Alola's waste-disposal site. They're all hard workers who eat a lot of trash.
+|jdex=アローラの ゴミ処分場 には １００匹前後が 棲んでいる。 みな たくさん ゴミを 食う 働きもの。
+}}
+
+==Release information==
+This card was one of five that could be pulled from Promo-A Vol. 8 packs; these were made available as part of the [[Alolan Ninetales Drop Event]], which ran from May 16 to 26, 2025.
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Grimer}}.
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Alolan Grimer|57}} from the {{TCG|Sun & Moon}} expansion.
+* {{m|Poison Gas}} is a [[move]] in the [[Pokémon games]] that Alolan Grimer can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Sleima (PROMO-A 072)]]
+[[es:Grimer de Alola (Promo-A 72 TCG Pocket)]]
+[[fr:Tadmorv d'Alola (Promo-A 072)]]
+[[it:Grimer di Alola (Promo-A 72)]]
+[[ja:アローラベトベター (ポケポケ P-A)]]
+[[zh:阿罗拉 臭泥（P-A）]]

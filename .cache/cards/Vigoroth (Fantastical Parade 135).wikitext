@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Vigoroth
+|ja name=ヤルキモノ
+|trans name=Yarukimono
+|species=Vigoroth
+|type=Colorless
+|image=VigorothFantasticalParade135.png
+|illustrator=Kagemaru Himeno
+|hp=100
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Slakoth
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=135/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Vigoroth''' (Japanese: '''ヤルキモノ''' ''Yarukimono'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Best Punch
+|jname=ぜんりょくパンチ
+|jtrans=Full-Force Punch
+|damage=90
+|effect=Flip a coin. If tails, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Vigoroth
+|species=Wild Monkey
+|ndex=0288
+|height=4'7"
+|jheight=1.4
+|weight=102.5
+|jweight=46.5
+|dex=It is always hungry because it won't stop rampaging. Even while it is eating, it can't keep still.
+|jdex=いつも 暴れているので すぐに お腹が 空いてしまうが 食事の ときも じっとして いられない。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Ruby & Sapphire|Vigoroth|47}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*'''Best Punch''' is an attack that first appeared on {{TCG ID|Vivid Voltage|Riolu|90}} from the {{TCG|Vivid Voltage}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Muntier (Traumhafte Parade 135)]]
+[[fr:Vigoroth (Parade Onirique 135)]]
+[[it:Vigoroth (Parata Fantasmagorica 135)]]
+[[ja:ヤルキモノ (ポケポケ B2)]]
+[[zh:过动猿（B2）]]

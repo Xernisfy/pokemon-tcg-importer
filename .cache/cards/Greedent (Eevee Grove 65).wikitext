@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Greedent
+|ja name=ヨクバリス
+|trans name=Yokubarisu
+|species=Greedent
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GreedentEeveeGrove65.png|illustrator=kirisAki|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GreedentPromo-A91.png|illustrator=HYOGONOSUKE|tab caption=Promo}}
+|hp=120
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Skwovet
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=065/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=091/P-A}}
+}}
+
+'''Greedent''' (Japanese: '''ヨクバリス''' ''Yokubarisu'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Enhanced Fang
+|jname=きょうかまえば
+|jtrans=Enhanced Fang
+|damage=50+
+|effect=If this Pokémon has a {{TCGP|Pokémon Tool card|Pokémon Tool}} attached, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Greedent
+|category=Greedy 
+|ndex=0820
+|height=2'
+|jheight=0.6
+|weight=13.2
+|jweight=6.0
+|dex=This Pokémon makes off with heaps of fallen berries by wrapping them in its tail, which is roughly twice the length of its body.
+|jdex=体の 約2倍の 長さの 尻尾で 木から 落とした 木の実を ごっそり 包んで 持ち去るぞ。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available via special wonder picks during the Silvally [[Wonder Pick Event (Silvally)|Wonder Pick Event]], which ran from July 11 to 21, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=GreedentEeveeGrove65.png
+|caption1=Uncommon card<br>Illus. [[kirisAki]]
+|image2=GreedentPromo-A91.png
+|caption2=Promo card<br>Illus. [[HYOGONOSUKE]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Eevee Grove}} illustration was first featured on {{TCG ID|Rebel Clash|Greedent|152}} from the {{TCG|Rebel Clash}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Chilling Reign|Greedent|128}} from the {{TCG|Chilling Reign}} expansion.
+*'''Enhanced Fang''' is an attack that first appeared on {{TCG ID|Burning Shadows|Alolan Raticate|82}} from the {{TCG|Burning Shadows}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schlaraffel (Evoli-Hain 065)]]
+[[es:Greedent (Arboleda de Eevee TCG Pocket)]]
+[[fr:Rongrigou (La Clairière d'Évoli 065)]]
+[[it:Greedent (Il Bosco di Eevee 65)]]
+[[ja:ヨクバリス (ポケポケ A3b)]]
+[[zh:藏饱栗鼠（A3b）]]

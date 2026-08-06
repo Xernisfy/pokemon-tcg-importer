@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Charizard
+|ja name=リザードン
+|trans name=Lizardon
+|species=Charizard
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharizardCrimsonBlaze13.png|illustrator=DOM|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharizardCrimsonBlaze91.png|illustrator=Taiga Kasai|tab caption=Shiny Rare}}
+|hp=150
+|weakness=Water
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Charmeleon
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=013/069|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=091/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Charizard''' (Japanese: '''リザードン''' ''Lizardon'') is a {{ct|Fire}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Fire}}{{e|Colorless}}
+|name=Inferno Onrush
+|jname=もうかのとっしん
+|jtrans=Charge of Raging Flames
+|damage=150
+|effect=This Pokémon also does 30 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Charizard
+|species=Flame
+|ndex=0006
+|height=5'7"
+|jheight=1.7
+|weight=199.5
+|jweight=90.5
+|dex=Its wings can carry this Pokémon close to an altitude of 4,600 feet. It blows out fire at very high temperatures.
+|jdex=地上 １４００メートルまで 羽を 使って 飛ぶことができる。 高熱の 炎を 吐く。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=CharizardCrimsonBlaze13.png
+|caption1=Rare card<br>Illus. [[DOM]]
+|image2=CharizardCrimsonBlaze91.png
+|caption2=Shiny rare card<br>Illus. [[Taiga Kasai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare illustration features a {{Shiny}} {{p|Charizard}}.
+*'''Inferno Onrush''' is an attack that first appeared on {{TCG ID|Secret Wonders|Arcanine|22}} from the {{TCG|Secret Wonders}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Glurak (Feuerrote Flammen 013)]]
+[[fr:Dracaufeu (Embrasement Écarlate 013)]]
+[[it:Charizard (Fiamme Cremisi 13)]]
+[[ja:リザードン (ポケポケ B1a)]]
+[[zh:喷火龙（B1a）]]

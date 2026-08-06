@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Litten
+|ja name=ニャビー
+|trans name=Nyabby
+|species=Litten
+|type=Fire
+|image=LittenEeveeGrove11.png
+|illustrator=0313
+|hp=70
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=011/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Litten''' (Japanese: '''ニャビー''' ''Nyabby'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}
+|name=Flare
+|jname=ほのお
+|jtrans=Flame
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Litten
+|category=Fire Cat 
+|ndex=0725
+|height=1'4"
+|jheight=0.4
+|weight=9.5
+|jweight=4.3
+|dex=If you try too hard to get close to it, it won't open up to you. Even if you do grow close, giving it too much affection is still a no-no.
+|jdex=しつこく 付きまとわれると 心を 開かなくなる。 懐いてきても 過剰な スキンシップは 禁物。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unbroken Bonds|Litten|26}} from the {{TCG|Unbroken Bonds}} expansion.
+*'''Flare''' is an attack that first appeared on {{TCG ID|Base Set|Growlithe|28}} from the {{TCG|Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flamiau (Evoli-Hain 011)]]
+[[es:Litten (Arboleda de Eevee TCG Pocket)]]
+[[fr:Flamiaou (La Clairière d'Évoli 011)]]
+[[it:Litten (Il Bosco di Eevee 11)]]
+[[ja:ニャビー (ポケポケ A3b)]]
+[[zh:火斑喵（A3b）]]

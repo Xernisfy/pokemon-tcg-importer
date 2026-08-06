@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Jynx
+|ja name=ルージュラ
+|trans name=Rougela
+|species=Jynx
+|type=Psychic
+|image=JynxWisdomofSeaandSky76.png
+|illustrator=Midori Harada
+|hp=80
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=076/161|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Jynx''' (Japanese: '''ルージュラ''' ''Rougela'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Attract Smack
+|jname=メロメロアタック
+|jtrans=Attract Attack
+|damage=30
+|effect=Flip a coin. If heads, your opponent's Active Pokémon is now {{TCG|Paralyzed}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Jynx
+|category=Human Shape 
+|ndex=0124
+|height=4'7"
+|jheight=1.4
+|weight=89.5
+|jweight=40.6
+|dex=Its strange cries sound like human language. There are some musicians who compose songs for Jynx to sing.
+|jdex=人間の 言葉のような 不思議な 鳴き声。 ルージュラに 歌わせる 曲を 作る 音楽家もいる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|HeartGold & SoulSilver|Jynx|69}} from the {{TCG|HeartGold & SoulSilver}} expansion.
+*'''Attract Smack''' is an attack that first appeared on {{TCG ID|Boundaries Crossed|Togepi|110}} from the {{TCG|Boundaries Crossed}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rossana (Weisheit von Meer und Himmel 076)]]
+[[es:Jynx (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Lippoutou (Sagesse entre Ciel et Mer 076)]]
+[[it:Jynx (La Via del Cielo e del Mare 76)]]
+[[ja:ルージュラ (ポケポケ A4)]]
+[[zh:迷唇姐（A4）]]

@@ -1,0 +1,742 @@
+{{TCGPocketExpansionPrevNext | prev = Mythical Island | next = Triumphant Light}}
+{{TCGPocketExpansionInfobox
+|setname=Space-Time Smackdown
+|jasetname=時空の激闘
+|jasettrans=Intense Fight of Space and Time
+|setlogo=A2 Set Logo EN.png
+|cards=207 (155 + 52 secret cards)
+|release=January 30, 2025
+|collections=24 (18 + 6 secret)
+|dex missions=16 (15 + 1 secret)
+|deck missions=28
+|decks=14
+|battles=25
+}}
+'''Space-Time Smackdown''' (Japanese: '''{{j|時空の激闘}}''' ''Intense Fight of Space and Time'') is the second main expansion of cards in [[Pokémon Trading Card Game Pocket]].
+
+== Information ==
+'''Space-Time Smackdown''' is the second main expansion released through [[Pokémon Trading Card Game Pocket]]. The expansion focuses heavily on [[Generation IV]], with many of its cards featuring Pokémon, characters, and locations from the [[Sinnoh]] region. It also sees the introduction of {{TCG|Pokémon Tool}} cards to the game, as well as the {{TCG|Burned}} and {{TCG|Confused}} {{TCG|Special Condition}}s. Its two booster packs are themed around {{p|Dialga}} and {{p|Palkia}}, the [[game mascot]]s and featured [[Legendary Pokémon]] of {{game|Diamond and Pearl|s}}—and their remakes, {{g|Brilliant Diamond and Shining Pearl}}—respectively.
+
+Its Japanese name is an amalgamation of the first and final Pokémon Card Game DP expansions in Japan, {{TCG|Space-Time Creation}} ('''{{j|時空の創造}}''') and {{TCG|Intense Fight in the Destroyed Sky}} ('''{{j|破空の激闘}}'''), which were released internationally as {{TCG|Diamond & Pearl}} and {{TCG|Stormfront}}.
+
+Several of the [[#Themed Collections|Themed Collections]] made available alongside Space-Time Smackdown also reference elements of Sinnoh and the Generation IV games:
+* '''Legends of [[Newmoon Island]] and [[Fullmoon Island]]''' feature the islands' inhabitants, {{p|Darkrai}} and {{p|Cresselia}} respectively;
+* '''Giants Unleashed''' features {{p|Regigigas}} and the [[legendary giants]], all of which feature artwork which may depict [[Snowpoint Temple]];
+* '''Battle with Champion Cynthia''' features [[Cynthia]] and the five Generation IV Pokémon on her champion battle team;
+* '''Ecosystem of Stark Mountain''' features {{p|Heatran}} and other Pokémon that can be found in [[Stark Mountain]], all of which feature artwork depicting it;
+* '''New Discoveries of the Sinnoh Region''' features 21 Pokémon that evolve from Pokémon introduced prior to Generation IV;
+* '''Team Galactic, Assemble!''' features [[Cyrus]] and other [[Team Galactic]] members alongside some of their commonly used Pokémon.
+
+Additionally, two further Themed Collections make reference to {{game|Platinum}}, a follow-up and [[upper version]] to Diamond and Pearl:
+* '''Unknown Distortion World''' features {{p|Giratina}} in its Origin Forme alongside [[lake guardians]] {{p|Uxie}}, {{p|Mesprit}}, and {{p|Azelf}}, refering their expanded story role in Platinum and the introduction of Giratina's Origin Forme;
+* '''Mischievous Shapeshifters''' features {{p|Rotom}} in its various forms, which were first introduced in Platinum following Rotom's introduction in Diamond and Pearl.
+
+== Card list ==
+{{TCG Set List/header|tablecol=09D|bordercol=D5B|cellcol=9DF|textcol=FFF}}
+{{TCG Set List/header/packs|Dialga|Palkia|cellcol=9DF|setcode=A2}}
+|-
+| 001/155 || {{TCG ID|Space-Time Smackdown|Oddish|1}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 002/155 || {{TCG ID|Space-Time Smackdown|Gloom|2}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 003/155 || {{TCG ID|Space-Time Smackdown|Bellossom|3}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 004/155 || {{TCG ID|Space-Time Smackdown|Tangela|4}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 005/155 || {{TCG ID|Space-Time Smackdown|Tangrowth|5}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||
+|-
+| 006/155 || {{TCG ID|Space-Time Smackdown|Yanma|6}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 007/155 || {{TCG ID|Space-Time Smackdown|Yanmega ex|7|Yanmega}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} ||
+|-
+| 008/155 || {{TCG ID|Space-Time Smackdown|Roselia|8}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 009/155 || {{TCG ID|Space-Time Smackdown|Roserade|9}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 010/155 || {{TCG ID|Space-Time Smackdown|Turtwig|10}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 011/155 || {{TCG ID|Space-Time Smackdown|Grotle|11}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 012/155 || {{TCG ID|Space-Time Smackdown|Torterra|12}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 013/155 || {{TCG ID|Space-Time Smackdown|Kricketot|13}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 014/155 || {{TCG ID|Space-Time Smackdown|Kricketune|14}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 015/155 || {{TCG ID|Space-Time Smackdown|Burmy|15}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 016/155 || {{TCG ID|Space-Time Smackdown|Wormadam|16}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 017/155 || {{TCG ID|Space-Time Smackdown|Combee|17}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 018/155 || {{TCG ID|Space-Time Smackdown|Vespiquen|18}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||
+|-
+| 019/155 || {{TCG ID|Space-Time Smackdown|Carnivine|19}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 020/155 || {{TCG ID|Space-Time Smackdown|Leafeon|20}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||
+|-
+| 021/155 || {{TCG ID|Space-Time Smackdown|Mow Rotom|21}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 022/155 || {{TCG ID|Space-Time Smackdown|Shaymin|22}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||
+|-
+| 023/155 || {{TCG ID|Space-Time Smackdown|Magmar|23}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 024/155 || {{TCG ID|Space-Time Smackdown|Magmortar|24}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 025/155 || {{TCG ID|Space-Time Smackdown|Slugma|25}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 026/155 || {{TCG ID|Space-Time Smackdown|Magcargo|26}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 027/155 || {{TCG ID|Space-Time Smackdown|Chimchar|27}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 028/155 || {{TCG ID|Space-Time Smackdown|Monferno|28}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 029/155 || {{TCG ID|Space-Time Smackdown|Infernape ex|29|Infernape}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|4}} ||  || {{Yes}}
+|-
+| 030/155 || {{TCG ID|Space-Time Smackdown|Heat Rotom|30}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 031/155 || {{TCG ID|Space-Time Smackdown|Swinub|31}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 032/155 || {{TCG ID|Space-Time Smackdown|Piloswine|32}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||
+|-
+| 033/155 || {{TCG ID|Space-Time Smackdown|Mamoswine|33}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||
+|-
+| 034/155 || {{TCG ID|Space-Time Smackdown|Regice|34}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 035/155 || {{TCG ID|Space-Time Smackdown|Piplup|35}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 036/155 || {{TCG ID|Space-Time Smackdown|Prinplup|36}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 037/155 || {{TCG ID|Space-Time Smackdown|Empoleon|37}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 038/155 || {{TCG ID|Space-Time Smackdown|Buizel|38}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 039/155 || {{TCG ID|Space-Time Smackdown|Floatzel|39}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 040/155 || {{TCG ID|Space-Time Smackdown|Shellos|40}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 041/155 || {{TCG ID|Space-Time Smackdown|Gastrodon|41}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 042/155 || {{TCG ID|Space-Time Smackdown|Finneon|42}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 043/155 || {{TCG ID|Space-Time Smackdown|Lumineon|43}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 044/155 || {{TCG ID|Space-Time Smackdown|Snover|44}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 045/155 || {{TCG ID|Space-Time Smackdown|Abomasnow|45}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 046/155 || {{TCG ID|Space-Time Smackdown|Glaceon|46}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 047/155 || {{TCG ID|Space-Time Smackdown|Wash Rotom|47}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 048/155 || {{TCG ID|Space-Time Smackdown|Frost Rotom|48}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 049/155 || {{TCG ID|Space-Time Smackdown|Palkia ex|49|Palkia}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}} ||  || {{Yes}}
+|-
+| 050/155 || {{TCG ID|Space-Time Smackdown|Manaphy|50}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 051/155 || {{TCG ID|Space-Time Smackdown|Magnemite|51}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 052/155 || {{TCG ID|Space-Time Smackdown|Magneton|52}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 053/155 || {{TCG ID|Space-Time Smackdown|Magnezone|53}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || {{Yes}}
+|-
+| 054/155 || {{TCG ID|Space-Time Smackdown|Voltorb|54}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 055/155 || {{TCG ID|Space-Time Smackdown|Electrode|55}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 056/155 || {{TCG ID|Space-Time Smackdown|Electabuzz|56}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 057/155 || {{TCG ID|Space-Time Smackdown|Electivire|57}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||
+|-
+| 058/155 || {{TCG ID|Space-Time Smackdown|Shinx|58}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 059/155 || {{TCG ID|Space-Time Smackdown|Luxio|59}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||
+|-
+| 060/155 || {{TCG ID|Space-Time Smackdown|Luxray|60}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||
+|-
+| 061/155 || {{TCG ID|Space-Time Smackdown|Pachirisu ex|61|Pachirisu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} ||
+|-
+| 062/155 || {{TCG ID|Space-Time Smackdown|Rotom|62}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 063/155 || {{TCG ID|Space-Time Smackdown|Togepi|63}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 064/155 || {{TCG ID|Space-Time Smackdown|Togetic|64}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 065/155 || {{TCG ID|Space-Time Smackdown|Togekiss|65}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || {{Yes}}
+|-
+| 066/155 || {{TCG ID|Space-Time Smackdown|Misdreavus|66}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 067/155 || {{TCG ID|Space-Time Smackdown|Mismagius ex|67|Mismagius}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|4}} ||  || {{Yes}}
+|-
+| 068/155 || {{TCG ID|Space-Time Smackdown|Ralts|68}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 069/155 || {{TCG ID|Space-Time Smackdown|Kirlia|69}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 070/155 || {{TCG ID|Space-Time Smackdown|Duskull|70}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 071/155 || {{TCG ID|Space-Time Smackdown|Dusclops|71}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||
+|-
+| 072/155 || {{TCG ID|Space-Time Smackdown|Dusknoir|72}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||
+|-
+| 073/155 || {{TCG ID|Space-Time Smackdown|Drifloon|73}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 074/155 || {{TCG ID|Space-Time Smackdown|Drifblim|74}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||
+|-
+| 075/155 || {{TCG ID|Space-Time Smackdown|Uxie|75}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 076/155 || {{TCG ID|Space-Time Smackdown|Mesprit|76}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || {{Yes}}
+|-
+| 077/155 || {{TCG ID|Space-Time Smackdown|Azelf|77}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 078/155 || {{TCG ID|Space-Time Smackdown|Giratina|78}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 079/155 || {{TCG ID|Space-Time Smackdown|Cresselia|79}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 080/155 || {{TCG ID|Space-Time Smackdown|Rhyhorn|80}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 081/155 || {{TCG ID|Space-Time Smackdown|Rhydon|81}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 082/155 || {{TCG ID|Space-Time Smackdown|Rhyperior|82}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 083/155 || {{TCG ID|Space-Time Smackdown|Gligar|83}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 084/155 || {{TCG ID|Space-Time Smackdown|Gliscor|84}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||
+|-
+| 085/155 || {{TCG ID|Space-Time Smackdown|Hitmontop|85}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 086/155 || {{TCG ID|Space-Time Smackdown|Nosepass|86}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 087/155 || {{TCG ID|Space-Time Smackdown|Regirock|87}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 088/155 || {{TCG ID|Space-Time Smackdown|Cranidos|88}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||
+|-
+| 089/155 || {{TCG ID|Space-Time Smackdown|Rampardos|89}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||
+|-
+| 090/155 || {{TCG ID|Space-Time Smackdown|Wormadam|90}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 091/155 || {{TCG ID|Space-Time Smackdown|Riolu|91}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 092/155 || {{TCG ID|Space-Time Smackdown|Lucario|92}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||
+|-
+| 093/155 || {{TCG ID|Space-Time Smackdown|Hippopotas|93}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 094/155 || {{TCG ID|Space-Time Smackdown|Hippowdon|94}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 095/155 || {{TCG ID|Space-Time Smackdown|Gallade ex|95|Gallade}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} ||
+|-
+| 096/155 || {{TCG ID|Space-Time Smackdown|Murkrow|96}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 097/155 || {{TCG ID|Space-Time Smackdown|Honchkrow|97}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||
+|-
+| 098/155 || {{TCG ID|Space-Time Smackdown|Sneasel|98}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 099/155 || {{TCG ID|Space-Time Smackdown|Weavile ex|99|Weavile}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|4}} ||  || {{Yes}}
+|-
+| 100/155 || {{TCG ID|Space-Time Smackdown|Poochyena|100}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 101/155 || {{TCG ID|Space-Time Smackdown|Mightyena|101}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 102/155 || {{TCG ID|Space-Time Smackdown|Stunky|102}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 103/155 || {{TCG ID|Space-Time Smackdown|Skuntank|103}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||
+|-
+| 104/155 || {{TCG ID|Space-Time Smackdown|Spiritomb|104}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 105/155 || {{TCG ID|Space-Time Smackdown|Skorupi|105}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 106/155 || {{TCG ID|Space-Time Smackdown|Drapion|106}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 107/155 || {{TCG ID|Space-Time Smackdown|Croagunk|107}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 108/155 || {{TCG ID|Space-Time Smackdown|Toxicroak|108}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||
+|-
+| 109/155 || {{TCG ID|Space-Time Smackdown|Darkrai|109}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||
+|-
+| 110/155 || {{TCG ID|Space-Time Smackdown|Darkrai ex|110|Darkrai}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} ||
+|-
+| 111/155 || {{TCG ID|Space-Time Smackdown|Skarmory|111}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 112/155 || {{TCG ID|Space-Time Smackdown|Registeel|112}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||
+|-
+| 113/155 || {{TCG ID|Space-Time Smackdown|Shieldon|113}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 114/155 || {{TCG ID|Space-Time Smackdown|Bastiodon|114}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 115/155 || {{TCG ID|Space-Time Smackdown|Wormadam|115}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 116/155 || {{TCG ID|Space-Time Smackdown|Bronzor|116}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 117/155 || {{TCG ID|Space-Time Smackdown|Bronzong|117}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||
+|-
+| 118/155 || {{TCG ID|Space-Time Smackdown|Probopass|118}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 119/155 || {{TCG ID|Space-Time Smackdown|Dialga ex|119|Dialga}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} ||
+|-
+| 120/155 || {{TCG ID|Space-Time Smackdown|Heatran|120}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||
+|-
+| 121/155 || {{TCG ID|Space-Time Smackdown|Gible|121}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 122/155 || {{TCG ID|Space-Time Smackdown|Gabite|122}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 123/155 || {{TCG ID|Space-Time Smackdown|Garchomp|123}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 124/155 || {{TCG ID|Space-Time Smackdown|Lickitung|124}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 125/155 || {{TCG ID|Space-Time Smackdown|Lickilicky ex|125|Lickilicky}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|4}} ||  || {{Yes}}
+|-
+| 126/155 || {{TCG ID|Space-Time Smackdown|Eevee|126}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 127/155 || {{TCG ID|Space-Time Smackdown|Porygon|127}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 128/155 || {{TCG ID|Space-Time Smackdown|Porygon2|128}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 129/155 || {{TCG ID|Space-Time Smackdown|Porygon-Z|129}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}}
+|-
+| 130/155 || {{TCG ID|Space-Time Smackdown|Aipom|130}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 131/155 || {{TCG ID|Space-Time Smackdown|Ambipom|131}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 132/155 || {{TCG ID|Space-Time Smackdown|Starly|132}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 133/155 || {{TCG ID|Space-Time Smackdown|Staravia|133}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 134/155 || {{TCG ID|Space-Time Smackdown|Staraptor|134}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 135/155 || {{TCG ID|Space-Time Smackdown|Bidoof|135}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 136/155 || {{TCG ID|Space-Time Smackdown|Bibarel|136}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 137/155 || {{TCG ID|Space-Time Smackdown|Buneary|137}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 138/155 || {{TCG ID|Space-Time Smackdown|Lopunny|138}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 139/155 || {{TCG ID|Space-Time Smackdown|Glameow|139}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 140/155 || {{TCG ID|Space-Time Smackdown|Purugly|140}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 141/155 || {{TCG ID|Space-Time Smackdown|Chatot|141}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 142/155 || {{TCG ID|Space-Time Smackdown|Fan Rotom|142}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 143/155 || {{TCG ID|Space-Time Smackdown|Regigigas|143}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || {{Yes}}
+|-
+| 144/155 || {{TCG ID|Space-Time Smackdown|Skull Fossil|144}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||
+|-
+| 145/155 || {{TCG ID|Space-Time Smackdown|Armor Fossil|145}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}}
+|-
+| 146/155 || {{TCG ID|Space-Time Smackdown|Pokémon Communication|146}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||
+|-
+| 147/155 || {{TCG ID|Space-Time Smackdown|Giant Cape|147}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||
+|-
+| 148/155 || {{TCG ID|Space-Time Smackdown|Rocky Helmet|148}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 149/155 || {{TCG ID|Space-Time Smackdown|Lum Berry|149}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 150/155 || {{TCG ID|Space-Time Smackdown|Cyrus|150}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 151/155 || {{TCG ID|Space-Time Smackdown|Team Galactic Grunt|151}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||
+|-
+| 152/155 || {{TCG ID|Space-Time Smackdown|Cynthia|152}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 153/155 || {{TCG ID|Space-Time Smackdown|Volkner|153}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||
+|-
+| 154/155 || {{TCG ID|Space-Time Smackdown|Dawn|154}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||
+|-
+| 155/155 || {{TCG ID|Space-Time Smackdown|Mars|155}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}}
+|-
+| 156/155 || {{TCG ID|Space-Time Smackdown|Tangrowth|156}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||
+|-
+| 157/155 || {{TCG ID|Space-Time Smackdown|Combee|157}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||
+|-
+| 158/155 || {{TCG ID|Space-Time Smackdown|Carnivine|158}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 159/155 || {{TCG ID|Space-Time Smackdown|Shaymin|159}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||
+|-
+| 160/155 || {{TCG ID|Space-Time Smackdown|Mamoswine|160}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||
+|-
+| 161/155 || {{TCG ID|Space-Time Smackdown|Gastrodon|161}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 162/155 || {{TCG ID|Space-Time Smackdown|Manaphy|162}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 163/155 || {{TCG ID|Space-Time Smackdown|Shinx|163}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||
+|-
+| 164/155 || {{TCG ID|Space-Time Smackdown|Rotom|164}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 165/155 || {{TCG ID|Space-Time Smackdown|Drifloon|165}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||
+|-
+| 166/155 || {{TCG ID|Space-Time Smackdown|Mesprit|166}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||
+|-
+| 167/155 || {{TCG ID|Space-Time Smackdown|Giratina|167}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 168/155 || {{TCG ID|Space-Time Smackdown|Cresselia|168}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 169/155 || {{TCG ID|Space-Time Smackdown|Rhyperior|169}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 170/155 || {{TCG ID|Space-Time Smackdown|Lucario|170}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||
+|-
+| 171/155 || {{TCG ID|Space-Time Smackdown|Hippopotas|171}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 172/155 || {{TCG ID|Space-Time Smackdown|Spiritomb|172}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 173/155 || {{TCG ID|Space-Time Smackdown|Croagunk|173}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||
+|-
+| 174/155 || {{TCG ID|Space-Time Smackdown|Heatran|174}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||
+|-
+| 175/155 || {{TCG ID|Space-Time Smackdown|Garchomp|175}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 176/155 || {{TCG ID|Space-Time Smackdown|Staraptor|176}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 177/155 || {{TCG ID|Space-Time Smackdown|Bidoof|177}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||
+|-
+| 178/155 || {{TCG ID|Space-Time Smackdown|Glameow|178}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}}
+|-
+| 179/155 || {{TCG ID|Space-Time Smackdown|Regigigas|179}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||
+|-
+| 180/155 || {{TCG ID|Space-Time Smackdown|Yanmega ex|180|Yanmega}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||
+|-
+| 181/155 || {{TCG ID|Space-Time Smackdown|Infernape ex|181|Infernape}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 182/155 || {{TCG ID|Space-Time Smackdown|Palkia ex|182|Palkia}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 183/155 || {{TCG ID|Space-Time Smackdown|Pachirisu ex|183|Pachirisu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||
+|-
+| 184/155 || {{TCG ID|Space-Time Smackdown|Mismagius ex|184|Mismagius}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 185/155 || {{TCG ID|Space-Time Smackdown|Gallade ex|185|Gallade}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||
+|-
+| 186/155 || {{TCG ID|Space-Time Smackdown|Weavile ex|186|Weavile}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 187/155 || {{TCG ID|Space-Time Smackdown|Darkrai ex|187|Darkrai}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||
+|-
+| 188/155 || {{TCG ID|Space-Time Smackdown|Dialga ex|188|Dialga}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||
+|-
+| 189/155 || {{TCG ID|Space-Time Smackdown|Lickilicky ex|189|Lickilicky}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 190/155 || {{TCG ID|Space-Time Smackdown|Cyrus|190}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 191/155 || {{TCG ID|Space-Time Smackdown|Team Galactic Grunt|191}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||
+|-
+| 192/155 || {{TCG ID|Space-Time Smackdown|Cynthia|192}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 193/155 || {{TCG ID|Space-Time Smackdown|Volkner|193}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||
+|-
+| 194/155 || {{TCG ID|Space-Time Smackdown|Dawn|194}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||
+|-
+| 195/155 || {{TCG ID|Space-Time Smackdown|Mars|195}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 196/155 || {{TCG ID|Space-Time Smackdown|Yanmega ex|196|Yanmega}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||
+|-
+| 197/155 || {{TCG ID|Space-Time Smackdown|Infernape ex|197|Infernape}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 198/155 || {{TCG ID|Space-Time Smackdown|Pachirisu ex|198|Pachirisu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||
+|-
+| 199/155 || {{TCG ID|Space-Time Smackdown|Mismagius ex|199|Mismagius}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 200/155 || {{TCG ID|Space-Time Smackdown|Gallade ex|200|Gallade}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||
+|-
+| 201/155 || {{TCG ID|Space-Time Smackdown|Weavile ex|201|Weavile}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 202/155 || {{TCG ID|Space-Time Smackdown|Darkrai ex|202|Darkrai}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||
+|-
+| 203/155 || {{TCG ID|Space-Time Smackdown|Lickilicky ex|203|Lickilicky}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}}
+|-
+| 204/155 || {{TCG ID|Space-Time Smackdown|Palkia ex|204|Palkia}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|3}} ||  || {{Yes}}
+|-
+| 205/155 || {{TCG ID|Space-Time Smackdown|Dialga ex|205|Dialga}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|3}} || {{Yes}} ||
+|-
+| 206/155 || {{TCG ID|Space-Time Smackdown|Palkia ex|206|Palkia}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Crown}} || {{Yes}} || {{Yes}}
+|-
+| 207/155 || {{TCG ID|Space-Time Smackdown|Dialga ex|207|Dialga}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Crown}} || {{Yes}} || {{Yes}}
+|}
+
+== Missions ==
+=== Dex Missions ===
+Space-Time Smackdown has 15 regular {{DL|Mission (TCG Pocket)|Dex Missions}} and one hidden Dex Mission:
+
+{{TCGPocketMission/Header|reward=yes|bordercol=D5B|tablecol=09D|textcol=FFF}}
+{{TCGPocketMission/Entry|mission=Register 10 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 20 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 30 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 40 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 50 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 60 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 70 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 80 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 90 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 100 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 110 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 120 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 130 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 140 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 150 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown)|num=10}}}}
+|-
+! colspan="2" style="color:#FFF" | Secret Mission
+{{TCGPocketMission/Entry|mission=Register 155 cards in the card dex|reward={{TCGPocketItem|Dialga|Space-Time Smackdown: Dialga (profile icon)|type=Profile Icon}}<br>{{TCGPocketItem|Palkia|Space-Time Smackdown: Palkia (profile icon)|type=Profile Icon}}|lastitem=yes}}
+|}
+Completing the secret mission requires players to collect all of the cards within the main set; namely, those with any Diamond rarity ({{rar/TCGP|Diamond|1}} to {{rar/TCGP|Diamond|4}}).
+
+=== Deck Missions ===
+Space-Time Smackdown has 14 [[deck]]s and 28 {{DL|Mission (TCG Pocket)|Deck Missions}}. Each deck has two missions:
+
+{{TCGPocketMission/Header|reward=yes|bordercol=D5B|tablecol=09D|textcol=FFF}}
+{{TCGPocketMission/Entry|mission=Collect the highlight card(s) for [deck name]|reward={{TCGPocketItem|Rental Deck|[deck name] rental deck}}}}
+{{TCGPocketMission/Entry|mission=Collect cards for [deck name]|reward={{TCGPocketItem|Theme Deck List|[deck name] theme deck list}}|lastitem=yes}}
+|}
+
+The 14 available decks related to Space-Time Smackdown are: 
+{{TCGPocketExpansionDeck/Header|bordercol=D5B|tablecol=09D|textcol=FFF}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Yanmega ex Deck|Space-Time Smackdown}}|{{e|Grass}}|{{TCG ID|Space-Time Smackdown|Yanmega ex|7}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Palkia ex Deck|Space-Time Smackdown}}|{{e|Water}}|{{TCG ID|Space-Time Smackdown|Palkia ex|49}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Volkner Deck|Space-Time Smackdown}}|{{e|Lightning}}|{{TCG ID|Space-Time Smackdown|Volkner|153}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Supreme Blast Deck|Space-Time Smackdown}}|{{e|Psychic}}|{{TCG ID|Space-Time Smackdown|Mesprit|76}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Lickilicky ex Deck|Space-Time Smackdown}}|{{e|Colorless}}{{e|Psychic}}|{{TCG ID|Space-Time Smackdown|Lickilicky ex|125}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Weavile ex Deck|Space-Time Smackdown}}|{{e|Darkness}}|{{TCG ID|Space-Time Smackdown|Weavile ex|99}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Team Galactic Grunt Deck|Space-Time Smackdown}}|{{e|Darkness}}|{{TCG ID|Space-Time Smackdown|Team Galactic Grunt|151}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Infernape ex Deck|Space-Time Smackdown}}|{{e|Fire}}|{{TCG ID|Space-Time Smackdown|Infernape ex|29}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Cynthia Deck|Space-Time Smackdown}}|{{e|Dragon}}{{e|Water}}{{e|Fighting}}|{{TCG ID|Space-Time Smackdown|Cynthia|152}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Pachirisu ex Deck|Space-Time Smackdown}}|{{e|Lightning}}|{{TCG ID|Space-Time Smackdown|Pachirisu ex|61}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mismagius ex Deck|Space-Time Smackdown}}|{{e|Psychic}}|{{TCG ID|Space-Time Smackdown|Mismagius ex|67}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Gallade ex Deck|Space-Time Smackdown}}|{{e|Fighting}}|{{TCG ID|Space-Time Smackdown|Gallade ex|95}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Darkrai ex Deck|Space-Time Smackdown}}|{{e|Darkness}}|{{TCG ID|Space-Time Smackdown|Darkrai ex|110}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Dialga ex Deck|Space-Time Smackdown}}|{{e|Metal}}|{{TCG ID|Space-Time Smackdown|Dialga ex|119}}|lastitem=yes}}
+|}
+
+=== Themed Collections ===
+Space-Time Smackdown has 18 regular {{DL|Mission (TCG Pocket)|Themed Collections}} and 6 hidden Themed Collections.
+
+One hidden Themed Collection, '''Garden of Smiling Flowers 2''', was added to the game on June 26, 2025, five months after the set was first released.
+
+{{TCGPocketCollection/Header|bordercol=D5B|tablecol=09D|textcol=FFF}}
+{{TCGPocketCollection/Entry|collection=Myths of Sinnoh Resurrected
+|cards={{TCG ID|Space-Time Smackdown|Palkia ex|49}} (#049, #182, #204, #206)<br>{{TCG ID|Space-Time Smackdown|Uxie|75}} (#075)<br>{{TCG ID|Space-Time Smackdown|Mesprit|76}} (#076 or #166)<br>{{TCG ID|Space-Time Smackdown|Azelf|77}} (#077)<br>{{TCG ID|Space-Time Smackdown|Giratina|78}} (#078 or #167)<br>{{TCG ID|Space-Time Smackdown|Dialga ex|119}} (#119, #188, #205, #207)
+|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown) ×22}}
+}}
+{{TCGPocketCollection/Entry|collection=Unknown Distortion World
+|cards={{TCG ID|Space-Time Smackdown|Uxie|75}} (#075)<br>{{TCG ID|Space-Time Smackdown|Mesprit|76}} (#076)<br>{{TCG ID|Space-Time Smackdown|Azelf|77}} (#077)<br>{{TCG ID|Space-Time Smackdown|Giratina|78}} (#078 or #167)
+|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown) ×6}}
+}}
+{{TCGPocketCollection/Entry|collection=Legends of Newmoon Island and Fullmoon Island
+|cards={{TCG ID|Space-Time Smackdown|Cresselia|79}} (#079)<br>{{TCG ID|Space-Time Smackdown|Darkrai|109}} (#109)
+|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown) ×5}}
+}}
+{{TCGPocketCollection/Entry|collection=Giants Unleashed
+|cards={{TCG ID|Space-Time Smackdown|Regice|34}} (#034)<br>{{TCG ID|Space-Time Smackdown|Regirock|87}} (#087)<br>{{TCG ID|Space-Time Smackdown|Registeel|112}} (#112)<br>{{TCG ID|Space-Time Smackdown|Regigigas|143}} (#143 or #179)
+|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown) ×4}}
+}}
+{{TCGPocketCollection/Entry|collection=Garden of Smiling Flowers
+|cards={{TCG ID|Space-Time Smackdown|Tangela|4}} (#004)<br>{{TCG ID|Space-Time Smackdown|Shaymin|22}} (#022 or #159)<br>{{TCG ID|Space-Time Smackdown|Togepi|63}} (#063)<br>{{TCG ID|Space-Time Smackdown|Buneary|137}} (#137)
+|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown) ×4}}
+}}
+{{TCGPocketCollection/Entry|collection=Manaphy Travelogue
+|cards={{TCG ID|Space-Time Smackdown|Buizel|38}} (#038)<br>{{TCG ID|Space-Time Smackdown|Shellos|40}} (#040)<br>{{TCG ID|Space-Time Smackdown|Lumineon|43}} (#043)<br>{{TCG ID|Space-Time Smackdown|Manaphy|50}} (#050 or #162)<br>{{TCG ID|Space-Time Smackdown|Staravia|133}} (#133)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown) ×2}}
+}}
+{{TCGPocketCollection/Entry|collection=Ecosystem of Stark Mountain
+|cards={{TCG ID|Space-Time Smackdown|Magcargo|26}} (#026)<br>{{TCG ID|Space-Time Smackdown|Rhydon|81}} (#081)<br>{{TCG ID|Space-Time Smackdown|Skarmory|111}} (#111)<br>{{TCG ID|Space-Time Smackdown|Heatran|120}} (#120 or #174)
+|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown) ×4}}
+}}
+{{TCGPocketCollection/Entry|collection=Spiritomb of Hallowed Tower
+|cards={{TCG ID|Space-Time Smackdown|Murkrow|96}} (#096)<br>{{TCG ID|Space-Time Smackdown|Honchkrow|97}} (#097)<br>{{TCG ID|Space-Time Smackdown|Sneasel|98}} (#098)<br>{{TCG ID|Space-Time Smackdown|Weavile ex|99}} (#099, #186, #201)<br>{{TCG ID|Space-Time Smackdown|Stunky|102}} (#102)<br>{{TCG ID|Space-Time Smackdown|Skuntank|103}} (#103)<br>{{TCG ID|Space-Time Smackdown|Skorupi|105}} (#105)<br>{{TCG ID|Space-Time Smackdown|Drapion|106}} (#106)<br>{{TCG ID|Space-Time Smackdown|Croagunk|107}} (#107 or #173)<br>{{TCG ID|Space-Time Smackdown|Toxicroak|108}} (#108)<br>{{TCG ID|Space-Time Smackdown|Spiritomb|172}} (#172)
+|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown) ×16}}
+}}
+{{TCGPocketCollection/Entry|collection=Battle with Champion Cynthia
+|cards={{TCG ID|Space-Time Smackdown|Cynthia|152}} (#152 or #192)<br>{{TCG ID|Space-Time Smackdown|Garchomp|123}} (#123 or #175)<br>and 2 in any combination of:<br>{{TCG ID|Space-Time Smackdown|Roserade|9}} (#009)<br>{{TCG ID|Space-Time Smackdown|Gastrodon|41}} (#041 or #161)<br>{{TCG ID|Space-Time Smackdown|Lucario|92}} (#092 or #170)<br>{{TCG ID|Space-Time Smackdown|Spiritomb|104}} (#104 or #172)
+|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown) ×4}}
+}}
+{{TCGPocketCollection/Entry|collection=A Variety of Pokémon Abilities
+|cards=5 in any combination of:<br>{{TCG ID|Space-Time Smackdown|Shaymin|22}} (#022 or #159)<br>{{TCG ID|Space-Time Smackdown|Piloswine|32}} (#032)<br>{{TCG ID|Space-Time Smackdown|Mamoswine|33}} (#033 or #160)<br>{{TCG ID|Space-Time Smackdown|Regice|34}} (#034)<br>{{TCG ID|Space-Time Smackdown|Dusknoir|72}} (#072)<br>{{TCG ID|Space-Time Smackdown|Giratina|78}} (#078 or #167)<br>{{TCG ID|Space-Time Smackdown|Regirock|87}} (#087)<br>{{TCG ID|Space-Time Smackdown|Lucario|92}} (#092 or #170)<br>{{TCG ID|Space-Time Smackdown|Darkrai ex|110}} (#110, #187, #202)<br>{{TCG ID|Space-Time Smackdown|Bastiodon|114}} (#114)<br>{{TCG ID|Space-Time Smackdown|Garchomp|123}} (#123 or #175)
+|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown) ×4}}
+}}
+{{TCGPocketCollection/Entry|collection=Slightly Scary Pokémon
+|cards=4 in any combination of:<br>{{TCG ID|Space-Time Smackdown|Misdreavus|66}} (#066)<br>{{TCG ID|Space-Time Smackdown|Mismagius ex|67}} (#067, #185, #199)<br>{{TCG ID|Space-Time Smackdown|Duskull|70}} (#070)<br>{{TCG ID|Space-Time Smackdown|Dusclops|71}} (#071)<br>{{TCG ID|Space-Time Smackdown|Dusknoir|72}} (#072)<br>{{TCG ID|Space-Time Smackdown|Drifloon|73}} (#073 or #165)<br>{{TCG ID|Space-Time Smackdown|Drifblim|74}} (#074)<br>{{TCG ID|Space-Time Smackdown|Darkrai ex|110}} (#110, #187, #202)
+|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown) ×9}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon Grown Large
+|cards=5 in any combination of:<br>{{TCG ID|Space-Time Smackdown|Tangrowth|5}} (#005 or 156)<br>{{TCG ID|Space-Time Smackdown|Torterra|12}} (#012)<br>{{TCG ID|Space-Time Smackdown|Magmortar|24}} (#024)<br>{{TCG ID|Space-Time Smackdown|Mamoswine|33}} (#033 or #160)<br>{{TCG ID|Space-Time Smackdown|Abomasnow|45}} (#045)<br>{{TCG ID|Space-Time Smackdown|Magnezone|53}} (#053)<br>{{TCG ID|Space-Time Smackdown|Electivire|57}} (#057)<br>{{TCG ID|Space-Time Smackdown|Dusknoir|72}} (#072)<br>{{TCG ID|Space-Time Smackdown|Rhyperior|82}} (#082 or #169)<br>{{TCG ID|Space-Time Smackdown|Rampardos|89}} (#089)<br>{{TCG ID|Space-Time Smackdown|Hippowdon|94}} (#094)<br>{{TCG ID|Space-Time Smackdown|Bastiodon|114}} (#114)<br>{{TCG ID|Space-Time Smackdown|Bronzong|117}} (#117)<br>{{TCG ID|Space-Time Smackdown|Probopass|118}} (#118)<br>{{TCG ID|Space-Time Smackdown|Lickilicky ex|125}} (#125, #189, #203)
+|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown) ×4}}
+}}
+{{TCGPocketCollection/Entry|collection=New Discoveries of the Sinnoh Region
+|cards=10 in any combination of:<br>{{TCG ID|Space-Time Smackdown|Tangrowth|5}} (#005 or 156)<br>{{TCG ID|Space-Time Smackdown|Yanmega ex|7}} (#007, #180, #196)<br>{{TCG ID|Space-Time Smackdown|Roserade|9}} (#009)<br>{{TCG ID|Space-Time Smackdown|Leafeon|20}} (#020)<br>{{TCG ID|Space-Time Smackdown|Magmortar|24}} (#024)<br>{{TCG ID|Space-Time Smackdown|Mamoswine|33}} (#033 or #160)<br>{{TCG ID|Space-Time Smackdown|Glaceon|46}} (#046)<br>{{TCG ID|Space-Time Smackdown|Magnezone|53}} (#053)<br>{{TCG ID|Space-Time Smackdown|Electivire|57}} (#057)<br>{{TCG ID|Space-Time Smackdown|Togekiss|65}} (#065)<br>{{TCG ID|Space-Time Smackdown|Mismagius ex|67}} (#067, #185, #199)<br>{{TCG ID|Space-Time Smackdown|Dusknoir|72}} (#072)<br>{{TCG ID|Space-Time Smackdown|Rhyperior|82}} (#082 or #169)<br>{{TCG ID|Space-Time Smackdown|Gliscor|84}} (#084)<br>{{TCG ID|Space-Time Smackdown|Gallade ex|95}} (#095, #185, #200)<br>{{TCG ID|Space-Time Smackdown|Honchkrow|97}} (#097)<br>{{TCG ID|Space-Time Smackdown|Weavile ex|99}} (#099, #186, #201)<br>{{TCG ID|Space-Time Smackdown|Probopass|118}} (#118)<br>{{TCG ID|Space-Time Smackdown|Lickilicky ex|125}} (#125, #189, #203)<br>{{TCG ID|Space-Time Smackdown|Porygon-Z|129}} (#129)<br>{{TCG ID|Space-Time Smackdown|Ambipom|131}} (#118)
+|reward={{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown) ×12}}
+}}
+{{TCGPocketCollection/Entry|collection=Mischievous Shapeshifters
+|cards={{TCG ID|Space-Time Smackdown|Mow Rotom|21}} (#021)<br>{{TCG ID|Space-Time Smackdown|Heat Rotom|30}} (#030)<br>{{TCG ID|Space-Time Smackdown|Wash Rotom|47}} (#047)<br>{{TCG ID|Space-Time Smackdown|Frost Rotom|48}} (#048)<br>{{TCG ID|Space-Time Smackdown|Rotom|62}} (#062 or #164)<br>{{TCG ID|Space-Time Smackdown|Fan Rotom|142}} (#142)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown) ×2}}
+}}
+{{TCGPocketCollection/Entry|collection=Team Galactic, Assemble!
+|cards={{TCG ID|Space-Time Smackdown|Stunky|102}} (#102)<br>{{TCG ID|Space-Time Smackdown|Croagunk|107}} (#107 or #173)<br>{{TCG ID|Space-Time Smackdown|Glameow|139}} (#139 or #178)<br>{{TCG ID|Space-Time Smackdown|Cyrus|150}} (#150 or #190)<br>{{TCG ID|Space-Time Smackdown|Team Galactic Grunt|151}} (#151 or #191)<br>{{TCG ID|Space-Time Smackdown|Mars|155}} (#155 or #195)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A2|Emblem Ticket (Space-Time Smackdown) ×2}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Turtwig cards
+|cards={{TCG ID|Space-Time Smackdown|Turtwig|10}} (#010) ×3
+|reward={{TCGPocketItem|Turtwig|Turtwig (profile icon)|type=Profile Icon}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Chimchar cards
+|cards={{TCG ID|Space-Time Smackdown|Chimchar|27}} (#027) ×3
+|reward={{TCGPocketItem|Chimchar|Chimchar (profile icon)|type=Profile Icon}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Piplup cards
+|cards={{TCG ID|Space-Time Smackdown|Piplup|35}} (#035) ×3
+|reward={{TCGPocketItem|Piplup|Piplup (profile icon)|type=Profile Icon}}
+}}
+|-
+! colspan="3" style="color:#FFF" | Secret Missions
+{{TCGPocketCollection/Entry|collection=Space-Time Smackdown Museum 1
+|cards={{TCG ID|Space-Time Smackdown|Tangrowth|156}} (#156)<br>{{TCG ID|Space-Time Smackdown|Combee|157}} (#157)<br>{{TCG ID|Space-Time Smackdown|Shaymin|159}} (#159)<br>{{TCG ID|Space-Time Smackdown|Mamoswine|160}} (#160)<br>{{TCG ID|Space-Time Smackdown|Shinx|163}} (#163)<br>{{TCG ID|Space-Time Smackdown|Drifloon|165}} (#165)<br>{{TCG ID|Space-Time Smackdown|Mesprit|166}} (#166)<br>{{TCG ID|Space-Time Smackdown|Lucario|170}} (#170)<br>{{TCG ID|Space-Time Smackdown|Croagunk|173}} (#173)<br>{{TCG ID|Space-Time Smackdown|Heatran|174}} (#174)<br>{{TCG ID|Space-Time Smackdown|Bidoof|177}} (#177)<br>{{TCG ID|Space-Time Smackdown|Regigigas|179}} (#179)
+|reward={{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Space-Time Smackdown Museum 2
+|cards={{TCG ID|Space-Time Smackdown|Carnivine|158}} (#158)<br>{{TCG ID|Space-Time Smackdown|Gastrodon|161}} (#161)<br>{{TCG ID|Space-Time Smackdown|Manaphy|162}} (#162)<br>{{TCG ID|Space-Time Smackdown|Rotom|164}} (#164)<br>{{TCG ID|Space-Time Smackdown|Giratina|167}} (#167)<br>{{TCG ID|Space-Time Smackdown|Cresselia|168}} (#168)<br>{{TCG ID|Space-Time Smackdown|Rhyperior|169}} (#169)<br>{{TCG ID|Space-Time Smackdown|Hippopotas|171}} (#171)<br>{{TCG ID|Space-Time Smackdown|Spiritomb|172}} (#172)<br>{{TCG ID|Space-Time Smackdown|Garchomp|175}} (#175)<br>{{TCG ID|Space-Time Smackdown|Staraptor|176}} (#176)<br>{{TCG ID|Space-Time Smackdown|Glameow|178}} (#178)
+|reward={{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Space-Time Smackdown Museum 3
+|cards={{TCG ID|Space-Time Smackdown|Yanmega ex|196}} (#196)<br>{{TCG ID|Space-Time Smackdown|Pachirisu ex|198}} (#198)<br>{{TCG ID|Space-Time Smackdown|Gallade ex|200}} (#200)<br>{{TCG ID|Space-Time Smackdown|Darkrai ex|202}} (#202)
+|reward={{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Space-Time Smackdown Museum 4
+|cards={{TCG ID|Space-Time Smackdown|Infernape ex|197}} (#197)<br>{{TCG ID|Space-Time Smackdown|Mismagius ex|199}} (#199)<br>{{TCG ID|Space-Time Smackdown|Weavile ex|201}} (#201)<br>{{TCG ID|Space-Time Smackdown|Lickilicky ex|203}} (#203)
+|reward={{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Champion of the Sinnoh Region
+|cards={{TCG ID|Space-Time Smackdown|Gastrodon|161}} (#161)<br>{{TCG ID|Space-Time Smackdown|Lucario|170}} (#170)<br>{{TCG ID|Space-Time Smackdown|Spiritomb|172}} (#172)<br>{{TCG ID|Space-Time Smackdown|Garchomp|175}} (#175)<br>{{TCG ID|Space-Time Smackdown|Cynthia|192}} (#192)
+|reward={{TCGPocketItem|Garchomp|Garchomp (emblem)|type=Emblem}}
+}}
+{{TCGPocketCollection/Entry|collection=Garden of Smiling Flowers 2<br>''<small>(available since June 26, 2025)</small>''
+|cards={{TCG ID|Space-Time Smackdown|Tangela|4}} (#004)<br>{{TCG ID|Space-Time Smackdown|Shaymin|22}} (#022 or #159)<br>{{TCG ID|Space-Time Smackdown|Togepi|63}} (#063)<br>{{TCG ID|Space-Time Smackdown|Buneary|137}} (#137)
+|reward={{TCGPocketItem|Cover Garden of Smiling Flowers|Garden of Smiling Flowers (cover)}}
+|lastitem=yes
+}}
+|}
+
+== Offering rates ==
+The following tables outline the offering rates for each Space-Time Smackdown booster pack.
+
+Regular packs have a 99.95% chance of appearing. Rare packs have a 0.05% chance of appearing.
+
+=== Space-Time Smackdown: Dialga ===
+While all {{rar/TCGP|Crown}} cards can be found in regular packs, the only one that can be pulled from a rare pack is {{TCG ID|Space-Time Smackdown|Dialga ex|207}}.
+{{TCGPocketRates/Header|tablecol=09D|bordercol=D5B|cellcol=9DF}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 2.173% || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 2.647% || 1.764% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.357% || 1.428% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.333% || 1.332% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.214% || 0.857% || 3.846%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.041% || 0.166% || 3.846%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.888% || 3.846%
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.020% || 0.080% || style="border-bottom-right-radius:5px" | 3.846%
+|}
+
+=== Space-Time Smackdown: Palkia ===
+While all {{rar/TCGP|Crown}} cards can be found in regular packs, the only one that can be pulled from a rare pack is {{TCG ID|Space-Time Smackdown|Palkia ex|206}}.
+{{TCGPocketRates/Header|tablecol=09D|bordercol=D5B|cellcol=9DF}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 2.272% || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 2.500% || 1.666% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.357% || 1.428% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.333% || 1.332% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.214% || 0.857% || 3.846%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.041% || 0.166% || 3.846%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.888% || 3.846%
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.020% || 0.080% || style="border-bottom-right-radius:5px" | 3.846%
+|}
+
+== Solo battles ==
+{{main|List of Space-Time Smackdown solo battles in Pokémon TCG Pocket}}
+
+== Gallery ==
+The pack artworks for the Space-Time Smackdown expansion were illustrated by [[PLANETA]].<ref>[https://pla-neta.co.jp/works/illust/3252/ Pokémon Trading Card Game Pocket拡張パック「時空の激闘」 - PLANETA｜プラネッタ]</ref><ref>[https://x.com/PLANETACoLtd/status/1902201229868183793 X post on @PLANETACoLtd], March 18, 2025</ref>
+
+=== Key artwork ===
+{{TCGMerchGallery
+|background=09D
+|border=D5B
+|image1=A2 Key Art.png
+|size1=400px
+|caption1=Key artwork
+}}
+
+=== Pack artwork ===
+{{TCGMerchGallery
+|background=09D
+|border=D5B
+|image1=A2 Booster Dialga EN.png
+|caption1=Dialga booster pack (front)
+|image2=A2 Booster Palkia EN.png
+|caption2=Palkia booster pack (front)
+|image5=A2 Booster Dialga EN back.png
+|caption5=Dialga booster pack (back)
+|image6=A2 Booster Palkia EN back.png
+|caption6=Palkia booster pack (back)
+}}
+
+=== Pack logos ===
+{{TCGMerchGallery
+|background=09D
+|border=D5B
+|image1=A2 Logo Dialga EN.png
+|caption1=English Dialga logo
+|image2=A2 Logo Palkia EN.png
+|caption2=English Palkia logo
+|image5=A2 Logo Dialga JA.png
+|caption5=Japanese Dialga logo
+|image6=A2 Logo Palkia JA.png
+|caption6=Japanese Palkia logo
+}}
+
+=== Accessories ===
+{{TCGMerchGallery
+|background=09D
+|border=D5B
+|image1=TCGP Cover Space-Time Smackdown Dialga.png
+|caption1=Dialga binder cover
+|image2=TCGP Cover Space-Time Smackdown Palkia.png
+|caption2=Palkia binder cover
+|image5=TCGP Profile Icon Dialga.png
+|caption5=Dialga profile icon
+|image6=TCGP Profile Icon Palkia.png
+|caption6=Palkia profile icon
+}}
+
+== In other languages ==
+{{Langtable|color=09D|bordercolor=D5B|textcolor=FFF
+|ja=時空の激闘 ''Jikū no Gekitō''
+|zh_yue=時空激鬥 ''Sìhhūng Gīkdau''
+|zh_cmn=時空激鬥 ''Shíkōng Jīdòu''
+|fr=Choc Spatio-Temporel
+|de=Kollision von Raum und Zeit
+|it=Scontro Spaziotemporale
+|ko=시공의 격투 ''Sigong-ui Gyeoktu''
+|pt_br=Embate do Tempo e Espaço
+|es=Pugna Espaciotemporal
+}}
+
+==References==
+{{reflist}}
+
+== Related articles ==
+{{TCGPocketNavigation}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kollision von Raum und Zeit (TCG Pocket)]]
+[[es:Pugna Espaciotemporal (TCG Pocket)]]
+[[fr:Choc Spatio-Temporel]]
+[[it:Scontro Spaziotemporale (GCC Pocket)]]
+[[ja:時空の激闘]]
+[[zh:時空激鬥（TCGP）]]

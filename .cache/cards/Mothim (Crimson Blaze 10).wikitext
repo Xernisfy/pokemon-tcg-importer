@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mothim
+|ja name=ガーメイル
+|trans name=Gamale
+|species=Mothim
+|type=Grass
+|image=MothimCrimsonBlaze10.png
+|illustrator=saino misaki
+|hp=100
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Burmy
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=010/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Mothim''' (Japanese: '''ガーメイル''' ''Gamale'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Cutting Wind
+|jname=カッターウインド
+|jtrans=Cutter Wind
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Mothim
+|species=Moth
+|ndex=0414
+|height=2'11"
+|jheight=0.9
+|weight=51.4
+|jweight=23.3
+|dex=It flutters around at night and steals honey from the Combee hive.
+|jdex=夜中 活発に 飛び回り 眠っている ミツハニーの 巣から ミツを 奪って 逃げる。
+}}
+
+==Trivia==
+===Origin===
+*'''Cutting Wind''' is an attack that first appeared on {{TCG ID|Southern Islands|Pidgeot|2}} from the {{TCG|Southern Islands}} expansion as '''Slicing Wind'''.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Moterpel (Feuerrote Flammen 010)]]
+[[es:Mothim (Fuego Carmesí TCG Pocket)]]
+[[fr:Papilord (Embrasement Écarlate 010)]]
+[[it:Mothim (Fiamme Cremisi 10)]]
+[[ja:ガーメイル (ポケポケ B1a)]]
+[[zh:绅士蛾（B1a）]]

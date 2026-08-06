@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Aurorus
+|ja name=アマルルガ
+|trans name=Amaruruga
+|species=Aurorus
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AurorusFantasticalParade42.png|illustrator=Suwama Chiaki|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AurorusFantasticalParade163.png|illustrator=sui|tab caption=Illustration Rare}}
+|hp=150
+|weakness=Metal
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Amaura
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=042/155|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=163/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Aurorus''' (Japanese: '''アマルルガ''' ''Amaruruga'') is a {{ct|Water}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Hail Prison
+|jname=ヘイルプリズン
+|jtrans=Hail Prison
+|damage=90
+|effect=Discard 2 {{e|Water}} Energy from this Pokémon. Your opponent's Active Pokémon is now {{TCG|Paralyzed}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Aurorus
+|species=Tundra
+|ndex=0699
+|height=8'10"
+|jheight=2.7
+|weight=496
+|jweight=225.0
+|dex=When gripped by rage, Aurorus will emanate freezing air, covering everything around it in ice.
+|jdex=激しい 怒りに かられると 猛烈な 冷気を 噴き出して あたり一面を 氷漬けにする。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=AurorusFantasticalParade42.png
+|caption1=Rare card<br>Illus. [[Suwama Chiaki]]
+|image2=AurorusFantasticalParade163.png
+|caption2=Illustration rare card<br>Illus. [[sui]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Forbidden Light|Aurorus|28}} from the {{TCG|Forbidden Light}} expansion.
+*'''Hail Prison''' is an attack that first appeared on {{TCG ID|Unbroken Bonds|Kyurem|50}} from the {{TCG|Unbroken Bonds}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Amagarga (Traumhafte Parade 042)]]
+[[fr:Dragmara (Parade Onirique 042)]]
+[[it:Aurorus (Parata Fantasmagorica 42)]]
+[[ja:アマルルガ (ポケポケ B2)]]
+[[zh:冰雪巨龙（B2）]]

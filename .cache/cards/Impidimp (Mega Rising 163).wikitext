@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Impidimp
+|ja name=ベロバー
+|trans name=Beroba
+|species=Impidimp
+|type=Darkness
+|image=ImpidimpMegaRising163.png
+|illustrator=Rianti Hidayat
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=163/226|pack=Mega Altaria|rarity=Diamond|rarity count=1}}
+}}
+
+'''Impidimp''' (Japanese: '''ベロバー''' ''Beroba'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Bite
+|jname=かみつく
+|jtrans=Bite
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Impidimp
+|category=Wily
+|ndex=0859
+|height=1'4"
+|jheight=0.4
+|weight=12.1
+|jweight=5.5
+|dex=They live in groups, pestering and playing pranks on each other to polish their troublemaking skills.
+|jdex=群れを 作って 暮らし おたがいに 悪戯や 嫌がらせを 仕掛けて その腕を 磨いているぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Brilliant Stars|Impidimp|92}} from the {{TCG|Brilliant Stars}} expansion; both cards have the Bite attack.
+*{{m|Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Impidimp}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bähmon (Mega-Aufstieg 163)]]
+[[es:Impidimp (Megaascenso TCG Pocket)]]
+[[fr:Grimalin (Méga-Ascension 163)]]
+[[it:Impidimp (Mega Ascesa 163)]]
+[[ja:ベロバー (ポケポケ B1)]]
+[[zh:捣蛋小妖（B1）]]

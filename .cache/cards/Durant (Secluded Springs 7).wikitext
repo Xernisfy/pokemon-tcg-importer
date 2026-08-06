@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Durant
+|ja name=アイアント
+|trans name=Aiant
+|species=Durant
+|type=Grass
+|image=DurantSecludedSprings7.png
+|illustrator=Midori Harada
+|hp=70
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=007/071|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Durant''' (Japanese: '''アイアント''' ''Aiant'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Mountain Munch
+|jname=やまかじり
+|jtrans=Mountain Gnaw
+|damage=40
+|effect=Discard the top card of your opponent's deck.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Durant
+|category=Iron Ant
+|ndex=0632
+|height=1'
+|jheight=0.3
+|weight=72.8
+|jweight=33.0
+|dex=They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.
+|jdex=鋼の よろいを 身にまとう。天敵の クイタランの 攻撃を 集団で 防ぎ 反撃する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Flashfire|Durant|61}} from the {{TCG|Flashfire}} expansion.
+*'''Mountain Munch''' is an attack that first appeared on {{TCG ID|Furious Fists|Trapinch|53}} from the {{TCG|Furious Fists}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Black}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Fermicula (Verborgene Quelle 007)]]
+[[es:Durant (Manantial Oculto TCG Pocket)]]
+[[fr:Fermite (Source Secrète 007)]]
+[[it:Durant (Sorgenti Recondite 7)]]
+[[ja:アイアント (ポケポケ A4a)]]
+[[zh:铁蚁（A4a）]]

@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Marowak {{TCGP Icon|ex}}
+|ja name=ガラガラ{{TCGP Icon|ex}}
+|trans name=Garagara {{TCGP Icon|ex}}
+|species=Marowak
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MarowakexGeneticApex153.png|illustrator=PLANETA Mochizuki|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MarowakexGeneticApex264.png|illustrator=PLANETA Mochizuki|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MarowakexCelestialGuardians236.png|illustrator=PLANETA Mochizuki|tab caption=Shiny Super Rare}}
+|hp=140
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Cubone
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=153/226|pack=Mewtwo|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=264/226|pack=Mewtwo|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=236/155|pack=Lunala|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=196/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Marowak ex''' (Japanese: '''ガラガラex''' ''Garagara ex'') is a {{ct|Fighting}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Bonemerang
+|jname=ホネブーメラン
+|jtrans=Bone Boomerang
+|damage=80×
+|effect=Flip 2 coins. This attack does 80 damage for each heads.
+}}
+{{Cardtext/Pocket ex
+|type=Fighting
+|ndex=0105
+|name=Marowak
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=MarowakexGeneticApex153.png
+|caption1=Double rare card<br>Illus. [[PLANETA Mochizuki]]
+|image2=MarowakexGeneticApex264.png
+|caption2=Super rare card<br>Illus. [[PLANETA Mochizuki]]
+|image3=MarowakexCelestialGuardians236.png
+|caption3=Shiny super rare card<br>Illus. [[PLANETA Mochizuki]]
+}}
+
+==Trivia==
+When starting the game, if a player chooses a {{TCGP|Genetic Apex}}: Mewtwo pack to open as their first pack, it will always contain the double rare version of this card.
+
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Marowak}}.
+*{{m|Bonemerang}} is a [[move]] in the [[Pokémon games]] that {{p|Marowak}} can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knogga-ex (Unschlagbare Gene 153)]]
+[[es:Marowak ex (Genes Formidables TCG Pocket)]]
+[[fr:Ossatueur-ex (Puissance Génétique 153)]]
+[[it:Marowak-ex (Geni Supremi 153)]]
+[[ja:ガラガラex (ポケポケ A1)]]
+[[zh:嘎啦嘎啦ex（A1）]]

@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Spoink
+|ja name=バネブー
+|trans name=Baneboo
+|species=Spoink
+|type=Psychic
+|image=SpoinkMegaShine31.png
+|illustrator=MAHOU
+|hp=60
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=031/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Spoink''' (Japanese: '''バネブー''' ''Baneboo'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Psyshot
+|jname=サイコショット
+|jtrans=Psychoshot
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Spoink
+|species=Bounce
+|ndex=0325
+|height=2'4"
+|jheight=0.7
+|weight=67.5
+|jweight=30.6
+|dex=Using its tail like a spring, it keeps its heart beating by bouncing constantly. If it stops, it dies.
+|jdex=しっぽを　バネがわりに　して とびはねることで　しんぞうを うごかしているので　とまると　しぬ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Celestial Storm|Spoink|59}} from the {{TCG|Celestial Storm}} expansion.
+*'''Psyshot''' is an attack that first appeared on {{TCG ID|Gym Challenge|Sabrina's Kadabra|58}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Spoink (Mega-Schillern 031)]]
+[[fr:Spoink (Méga-Rayonnement 031)]]
+[[it:Spoink (Mega Splendore 31)]]
+[[ja:バネブー (ポケポケ B2b)]]
+[[zh:跳跳猪（B2b）]]

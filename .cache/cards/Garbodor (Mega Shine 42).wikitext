@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Garbodor
+|ja name=ダストダス
+|trans name=Dustdas
+|species=Garbodor
+|type=Darkness
+|image=GarbodorMegaShine42.png
+|illustrator=sui
+|hp=120
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Trubbish
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=042/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Garbodor''' (Japanese: '''ダストダス''' ''Dustdas'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=Sludge Whirlpool
+|jname=ヘドロのうず
+|jtrans=Swirl in the Sludge
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Garbodor
+|category=Trash Heap
+|ndex=0569
+|height=6'3"
+|jheight=1.9
+|weight=236.6
+|jweight=107.3
+|dex=The toxic liquid it launches from its right arm is so virulent that it can kill a weakened creature instantly.
+|jdex=右腕から　出す　毒液は 弱った　生物が　浴びれば 即死するほど　危険な　シロモノ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fusion Strike|Garbodor|169}} from the {{TCG|Fusion Strike}} expansion.
+**Both cards feature the '''Sludge Whirlpool''' attack, which first appeared on {{TCG ID|Gym Challenge|Koga's Muk|26}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Deponitox (Mega-Schillern 042)]]
+[[fr:Miasmax (Méga-Rayonnement 042)]]
+[[it:Garbodor (Mega Splendore 42)]]
+[[ja:ダストダス (ポケポケ B2b)]]
+[[zh:灰尘山（B2b）]]

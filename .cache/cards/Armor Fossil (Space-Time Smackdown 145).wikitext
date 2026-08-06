@@ -1,0 +1,51 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Armor Fossil
+|ja name=たての化石
+|trans name=Shield Fossil
+|subtype=Item
+|image=ArmorFossilSpace-TimeSmackdown145.png
+|illustrator=Toyste Beach
+|hp=40
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=145/155|pack=Palkia|rarity=Diamond|rarity count=1}}
+}}
+
+'''Armor Fossil''' (Japanese: '''たての化石''' ''Shield Fossil'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Play this card as if it were a 40-HP Basic {{e|Colorless}} Pokémon.<br>At any time during your turn, you may discard this card from play.<br>This card can't retreat.
+}}
+
+==Trivia==
+* This card's effect is similar to that of the {{TCG|Unidentified Fossil}} card in the [[Pokémon Trading Card Game]], but has 40 HP instead of 60 HP and only {{TCGP|Shieldon}} can evolve from.
+** {{TCG|Armor Fossil}} also exists in the Pokémon Trading Card Game, but has 50 HP and also has a {{TCG|Poké-Body}}.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Steam Siege|Armor Fossil Shieldon|98}} from the {{TCG|Steam Siege}} expansion.
+*[[Armor Fossil]]s are [[fossil]]s in the [[Pokémon games]] which can be revived into {{p|Shieldon}}.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=たての化石 ''Tate no Kaseki''
+|zh_yue=盾甲化石 ''Téuhngaap Fasehk''
+|zh_cmn=盾甲化石 ''Dùnjiǎ Huàshí''
+|fr=Fossile Armure
+|de=Panzerfossil
+|it=Fossilscudo
+|ko=방패의화석 ''Bangpaeui Hwaseok''
+|pt_br=Fóssil Armadura
+|es=Fósil Coraza
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Panzerfossil (TCG Pocket)]]
+[[es:Fósil Coraza (TCG Pocket)]]
+[[fr:Fossile Armure (Choc Spatio-Temporel 145)]]
+[[it:Fossilscudo (Scontro Spaziotemporale 145)]]
+[[ja:たての化石 (ポケポケ)]]
+[[zh:盾甲化石（TCGP）]]

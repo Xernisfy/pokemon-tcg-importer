@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Drampa
+|ja name=ジジーロン
+|trans name=Jijilong
+|species=Drampa
+|type=Dragon
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DrampaCelestialGuardians124.png|illustrator=Anesaki Dynamic|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DrampaCelestialGuardians176.png|illustrator=Shinji Kanda|tab caption=Illustration Rare}}
+|hp=100
+|weakness=
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=124/155|pack=Solgaleo|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=176/155|pack=Solgaleo|rarity=Star|rarity count=1}}
+}}
+
+'''Drampa''' (Japanese: '''ジジーロン''' ''Jijilong'') is a {{ct|Dragon}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Berserk
+|jname=ぎゃくじょう
+|jtrans=Frenzy
+|damage=20+
+|effect=If your Benched Pokémon have damage on them, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Drampa
+|category=Placid 
+|ndex=0780
+|height=9'10"
+|jheight=3
+|weight=407.9
+|jweight=185.0
+|dex=The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.
+|jdex=標高３０００メートルを 超える 山で 暮らす。 まれに 街へ やって来て 子どもたちと 遊ぶ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Dragon
+|image1=DrampaCelestialGuardians124.png
+|caption1=Rare card<br>Illus. [[Anesaki Dynamic]]
+|image2=DrampaCelestialGuardians176.png
+|caption2=Illustration rare card<br>Illus. [[Shinji Kanda]]
+}}
+
+==Trivia==
+===Origin===
+*{{a|Berserk}} is an [[Ability]] in the [[Pokémon games]] that {{p|Drampa}} can learn. As an attack in the TCG, it first appeared on {{TCG ID|Guardians Rising|Drampa-GX|115}} from {{TCG|Guardians Rising}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sen-Long (Hüter des Firmaments 124)]]
+[[es:Drampa (Guardianes Celestiales TCG Pocket)]]
+[[fr:Draïeul (Gardiens Astraux 124)]]
+[[it:Drampa (Guardiani Astrali 124)]]
+[[ja:ジジーロン (ポケポケ A3)]]
+[[zh:老翁龙（A3）]]

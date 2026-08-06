@@ -1,0 +1,78 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mew
+|ja name=ミュウ
+|trans name=Mew
+|species=Mew
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MewMegaShine30.png|illustrator=Atsuko Nishida|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MewMegaShine85.png|illustrator=Ryota Murayama|tab caption=Immersive (085/069)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MewMegaShine86.png|illustrator=Ryota Murayama|tab caption=Immersive (086/069)}}
+|hp=50
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=030/069|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=085/069|pack=Any|rarity=Star|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=086/069|pack=Any|rarity=Star|rarity count=3}}
+}}
+
+'''Mew''' (Japanese: '''ミュウ''' ''Mew'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Miraculous Memory
+|jname=ミラクルメモリー
+|jtrans=Miracle Memory
+|effect=1 attack from among the Pokémon in your opponent's hand and deck is chosen at random, and you use the chosen attack as this attack.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Mew
+|species=New Species
+|ndex=0151
+|height=1'4"
+|jheight=0.4
+|weight=8.8
+|jweight=4.0
+|dex=Its DNA is said to contain the genetic codes of all Pokémon, so it can use all kinds of techniques.
+|jdex=遺伝子には　すべての　ポケモンの 情報が　含まれているので あらゆる　技が　使えるという｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=MewMegaShine30.png
+|caption1=Rare card<br>Illus. [[Atsuko Nishida]]
+|image2=MewMegaShine85.png
+|caption2={{TCGP|Immersive card}} (085/069)<br>Illus. [[Ryota Murayama]]
+|image3=MewMegaShine86.png
+|caption3=Immersive card (086/069)<br>Illus. [[Ryota Murayama]]
+}}
+
+==Trivia==
+*This card's {{TCGP|immersive card|immersive}} illustration includes {{p|Zorua}}, {{p|Pineco}}, {{p|Slowpoke}}, {{p|Dragonair}}, {{p|Ponyta}}, and {{p|Pikachu}}.
+*This card's shiny immersive print is the first card of a {{Shiny}} Pokémon to have a [[rarity]] symbol other than {{Rar/TCGP|Shiny|1}} (excluding Promo cards).
+*This is the first card to have multiple immersive prints in the same set.
+
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Hidden Fates|Mew|32}} from the {{TCG|Hidden Fates}} expanison.
+*This card's 086/069 print features {{Shiny}} {{p|Mew}}, {{p|Zorua}}, {{p|Pineco}}, {{p|Slowpoke}}, {{p|Dragonair}}, {{p|Ponyta}}, and {{p|Pikachu}}.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mew (Mega-Schillern 030)]]
+[[fr:Mew (Méga-Rayonnement 030)]]
+[[it:Mew (Mega Splendore 30)]]
+[[ja:ミュウ (ポケポケ B2b)]]
+[[zh:梦幻（B2b）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Litten
+|ja name=ニャビー
+|trans name=Nyabby
+|species=Litten
+|type=Fire
+|image=LittenCelestialGuardians31.png
+|illustrator=sui
+|hp=60
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=031/155|pack=Lunala|rarity=Diamond|rarity count=1}}
+}}
+
+'''Litten''' (Japanese: '''ニャビー''' ''Nyabby'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Scratch
+|jname=ひっかく
+|jtrans=Scratch
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Litten
+|category=Fire Cat 
+|ndex=0725
+|height=1'4"
+|jheight=0.4
+|weight=9.5
+|jweight=4.3
+|dex=If you try too hard to get close to it, it won't open up to you. Even if you do grow close, giving it too much affection is still a no-no.
+|jdex=しつこく 付きまとわれると 心を 開かなくなる。 懐いてきても 過剰な スキンシップは 禁物。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Litten|20}} from the {{TCG|Team Up}} expansion.
+*{{m|Scratch}} is a [[move]] in the [[Pokémon games]] that {{p|Litten}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flamiau (Hüter des Firmaments 031)]]
+[[es:Litten (Guardianes Celestiales 31 TCG Pocket)]]
+[[fr:Flamiaou (Gardiens Astraux 031)]]
+[[it:Litten (Guardiani Astrali 31)]]
+[[ja:ニャビー (ポケポケ A3 031)]]
+[[zh:火斑喵（A3 031）]]

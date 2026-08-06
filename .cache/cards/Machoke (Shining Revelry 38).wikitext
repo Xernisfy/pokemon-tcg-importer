@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Machoke
+|ja name=ゴーリキー
+|trans name=Goriky
+|species=Machoke
+|type=Fighting
+|image=MachokeShiningRevelry38.png
+|illustrator=Kouki Saitou
+|hp=100
+|weakness=Psychic
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Machop
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=038/072|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Machoke''' (Japanese: '''ゴーリキー''' ''Goriky'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Pummel
+|jname=ぶんなぐる
+|jtrans=Wallop
+|damage=30+
+|effect=Flip a coin. If heads, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Machoke
+|category=Superpower 
+|ndex=0067
+|height=4'11"
+|jheight=1.5
+|weight=155.4
+|jweight=70.5
+|dex=Its muscular body is so powerful, it must wear a power-save belt to be able to regulate its motions.
+|jdex=すごく　強靭な　肉体なので パワーセーブ　ベルトを　つけて 強さを　制御している｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Guardians Rising|Machoke|64}} from the {{TCG|Guardians Rising}} expansion.
+*'''Pummel''' is an attack that first appeared on {{TCG ID|Noble Victories|Timburr|62}} and {{TCG ID|Noble Victories|Gurdurr|63}}, both from the {{TCG|Noble Victories}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Maschock (Glänzendes Festival 038)]]
+[[es:Machoke (Festival Brillante TCG Pocket)]]
+[[fr:Machopeur (Réjouissances Rayonnantes 038)]]
+[[it:Machoke (Tripudio Splendente 38)]]
+[[ja:ゴーリキー (ポケポケ A2b)]]
+[[zh:豪力（A2b）]]

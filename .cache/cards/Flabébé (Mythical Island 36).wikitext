@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Flabébé
+|ja name=フラベベ
+|trans name=Flabebe
+|species=Flabébé
+|type=Psychic
+|image=FlabébéMythicalIsland36.png
+|illustrator=Cona Nitanda
+|hp=40
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=036/068|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Flabébé''' (Japanese: '''フラベベ''' ''Flabebe'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Hypnotic Gaze
+|jname=みつめる
+|jtrans=Gaze
+|damage=
+|effect=Your opponent's Active Pokémon is now {{TCG|Asleep}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Flabébé
+|species=Single Bloom
+|ndex=0669
+|height=4"
+|jheight=0.1
+|weight=0.2
+|jweight=0.1
+|dex=This Pokémon can draw forth the power hidden within blooming wild flowers. It is particularly fond of red flowers.
+|jdex=野に咲く　花の　秘めた　力を 引き出す　能力を　持っている｡ とくに　赤い花が　好き｡
+}}
+
+==Trivia==
+===Origin===
+*'''Hypnotic Gaze''' is an attack that first appeared on {{TCG ID|Gym Challenge|Brock's Vulpix|37}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flabébé (Mysteriöse Insel 036)]]
+[[es:Flabébé (La Isla Singular TCG Pocket)]]
+[[fr:Flabébé (L'Île Fabuleuse 036)]]
+[[it:Flabébé (L'Isola Misteriosa 36)]]
+[[ja:フラベベ (ポケポケ A1a)]]
+[[zh:花蓓蓓（A1a）]]

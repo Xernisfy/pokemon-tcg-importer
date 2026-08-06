@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pansage
+|ja name=ヤナップ
+|trans name=Yanappu
+|species=Pansage
+|type=Grass
+|image=PansageMegaRising13.png
+|illustrator=Jerky
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=013/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+}}
+
+'''Pansage''' (Japanese: '''ヤナップ''' ''Yanappu'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Beat
+|jname=たたく
+|jtrans=Strike
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Pansage
+|category=Grass Monkey
+|ndex=0511
+|height=2'
+|jheight=0.6
+|weight=23.1
+|jweight=10.5
+|dex=It's good at finding berries and gathers them from all over. It's kind enough to share them with friends.
+|jdex=木の実を 探すのが 上手で あちこちで 集めて 仲間に 分け与える 優しさを 持つ。
+}}
+
+==Trivia==
+===Origin===
+*'''Beat''' is an attack that first appeared on {{TCG ID|VS|Falkner's Farfetch'd|3}} and {{TCG ID|VS|Karen's Magmar|88}}, both from the {{TCG|Pokémon VS}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Vegimak (Mega-Aufstieg 013)]]
+[[es:Pansage (Megaascenso TCG Pocket)]]
+[[fr:Feuillajou (Méga-Ascension 013)]]
+[[it:Pansage (Mega Ascesa 13)]]
+[[ja:ヤナップ (ポケポケ B1)]]
+[[zh:花椰猴（B1）]]

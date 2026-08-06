@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Galarian Mr. Rime
+|ja name=ガラルバリコオル
+|trans name=Galarian Barrikohru
+|species=Mr. Rime
+|type=Water
+|image=GalarianMrRimeFantasticalParade31.png
+|illustrator=Naoki Saito
+|hp=110
+|weakness=Metal
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Galarian Mr. Mime
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=031/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Galarian Mr. Rime''' (Japanese: '''ガラルバリコオル''' ''Galarian Barrikohru'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}
+|name=Triple Spin
+|jname=トリプルスピン
+|jtrans=Triple Spin
+|damage=60×
+|effect=Flip 3 coins. This attack does 60 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Mr. Rime
+|category=Comedian
+|ndex=866
+|height=4'11"
+|jheight=1.5
+|weight=128.3
+|jweight=58.2
+|dex=Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly.
+|jdex=ユーモラスな 動きで みんなの 人気者。 お腹の 模様から サイコパワーを 放出する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Galarian Mr. Rime|36}} from the {{TCG|Darkness Ablaze}} expansion.
+*'''Triple Spin''' is an attack that first appeared on {{TCG ID|Aquapolis|Hitmontop|82}} from the {{TCG|Aquapolis}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Galar-Pantifrost (Traumhafte Parade 031)]]
+[[fr:M. Glaquette de Galar (Parade Onirique 031)]]
+[[it:Mr. Rime di Galar (Parata Fantasmagorica 31)]]
+[[ja:ガラルバリコオル (ポケポケ B2)]]
+[[zh:伽勒尔 踏冰人偶（B2）]]

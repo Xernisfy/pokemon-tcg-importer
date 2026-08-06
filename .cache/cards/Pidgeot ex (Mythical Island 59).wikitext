@@ -1,0 +1,69 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pidgeot {{TCGP Icon|ex}}
+|ja name=ピジョット{{TCGP Icon|ex}}
+|trans name=Pigeot {{TCGP Icon|ex}}
+|species=Pidgeot
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PidgeotexMythicalIsland59.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PidgeotexMythicalIsland79.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PidgeotexExtradimensionalCrisis102.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=170
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Pidgeotto
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=059/068|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=079/068|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=102/069|pack=Any|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=276/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Pidgeot ex''' (Japanese: '''ピジョットex''' ''Pigeot ex'') is a {{ct|Colorless}} Stage 2 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Scattering Cyclone
+|jname=けちらしサイクロン
+|jtrans=Scattering Cyclone
+|damage=80+
+|effect=This attack does 20 more damage for each of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Colorless
+|ndex=0018
+|name=Pidgeot
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=PidgeotexMythicalIsland59.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=PidgeotexMythicalIsland79.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=PidgeotexExtradimensionalCrisis102.png
+|caption3=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare print features a {{Shiny}} {{p|Pidgeot}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tauboss-ex (Mysteriöse Insel 059)]]
+[[es:Pidgeot ex (La Isla Singular TCG Pocket)]]
+[[fr:Roucarnage-ex (L'Île Fabuleuse 059)]]
+[[it:Pidgeot-ex (L'Isola Misteriosa 59)]]
+[[ja:ピジョットex (ポケポケ A1a)]]
+[[zh:大比鸟ex（A1a）]]

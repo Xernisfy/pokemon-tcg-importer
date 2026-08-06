@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mewtwo
+|ja name=ミュウツー
+|trans name=Mewtwo
+|species=Mewtwo
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MewtwoGeneticApex128.png|illustrator=kawayoo|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MewtwoPromo-A10.png|illustrator=Krgc|tab caption=Promo}}
+|hp=120
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=128/226|pack=Mewtwo|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=010/P-A}}
+}}
+
+'''Mewtwo''' (Japanese: '''ミュウツー''' ''Mewtwo'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}{{e|Colorless}}{{e|Colorless}}
+|name=Power Blast
+|jname=パワーブラスト
+|jtrans=Power Blast
+|damage=120
+|effect=Discard 2 {{e|Psychic}} Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Mewtwo
+|species=Genetic
+|ndex=0150
+|height=6'7"
+|jheight=2
+|weight=269
+|jweight=122.0
+|dex=It was created by a scientist after years of horrific gene-splicing and DNA-engineering experiments.
+|jdex=１人の　科学者が　何年も 恐ろしい　遺伝子　研究を 続けた　結果　誕生した｡
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available from December 1 to 31, 2024 as a login reward from the monthly [[Mission (TCG Pocket)#Premium Missions|Premium Missions]].
+
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=MewtwoGeneticApex128.png
+|caption1=Rare card<br>Illus. [[kawayoo]]
+|image2=MewtwoPromo-A10.png
+|caption2=Promo card<br>Illus. [[Krgc]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Genetic Apex}} illustration was first featured on {{TCG ID|SM Promo|Mewtwo|214}}, one of the {{TCG|SM Black Star Promos}}.
+*'''Power Blast''' is an attack that first appeared on {{TCG ID|Movie VS Pack|Butler's Salamence|11}} from the {{TCG|Movie Commemoration VS Pack}}.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mewtu (Unschlagbare Gene 128)]]
+[[es:Mewtwo (Genes Formidables TCG Pocket)]]
+[[fr:Mewtwo (Puissance Génétique 128)]]
+[[it:Mewtwo (Geni Supremi 128)]]
+[[ja:ミュウツー (ポケポケ A1)]]
+[[zh:超梦（A1）]]

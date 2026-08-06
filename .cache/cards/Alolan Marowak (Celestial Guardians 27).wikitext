@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Marowak
+|ja name=アローラガラガラ
+|trans name=Alolan Garagara
+|species=Marowak
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanMarowakCelestialGuardians27.png|illustrator=miki kudo|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanMarowakCelestialGuardians160.png|illustrator=Gemi|tab caption=Illustration Rare}}
+|hp=110
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Cubone
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=027/155|pack=Lunala|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=160/155|pack=Lunala|rarity=Star|rarity count=1}}
+}}
+
+'''Alolan Marowak''' (Japanese: '''アローラガラガラ''' ''Alolan Garagara'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Colorless}}
+|name=Burning Bonemerang
+|jname=もえるホネブーメラン
+|jtrans=Burning Bone Boomerang
+|damage=70×
+|effect=Flip 2 coins. This attack does 70 damage for each heads. If at least 1 of them is heads, your opponent's Active Pokémon is now {{TCG|Burned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Marowak
+|category=Bone Keeper 
+|ndex=0105
+|height=3'3"
+|jheight=1
+|weight=75
+|jweight=34.0
+|dex=This Pokémon sets the bone it holds on fire and dances through the night as a way to mourn its fallen allies.
+|jdex=手にした 骨に 炎を 灯し 仲間を 弔う 踊りを 夜通し 踊りつづける。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=AlolanMarowakCelestialGuardians27.png
+|caption1=Uncommon card<br>Illus. [[miki kudo]]
+|image2=AlolanMarowakCelestialGuardians160.png
+|caption2=Illustration rare card<br>Illus. [[Gemi]]
+}}
+
+==Trivia==
+This card's standard illustration depicts the three dancing Alolan Marowak from [[Kiawe]]'s [[trial]] at [[Wela Volcano Park]] in [[Pokémon Sun and Moon|Pokémon Sun, Moon]], [[Pokémon Ultra Sun and Ultra Moon|Ultra Sun, and Ultra Moon]].
+
+===Origin===
+*This card features the [[Alolan form]] of {{p|Marowak}}.
+*This card's standard illustration was first featured on {{TCG ID|Team Up|Alolan Marowak|64}} from the {{TCG|Team Up}} expansion.
+*'''Burning Bonemarang''' is an attack that first appeared on {{TCG ID|Crimson Invasion|Alolan Marowak|12}} from the {{TCG|Crimson Invasion}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Knogga (Hüter des Firmaments 027)]]
+[[es:Marowak de Alola (Guardianes Celestiales TCG Pocket)]]
+[[fr:Ossatueur d'Alola (Gardiens Astraux 027)]]
+[[it:Marowak di Alola (Guardiani Astrali 27)]]
+[[ja:アローラガラガラ (ポケポケ A3)]]
+[[zh:阿罗拉 嘎啦嘎啦（A3）]]

@@ -1,0 +1,79 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Garchomp
+|ja name=ガブリアス
+|trans name=Gaburias
+|species=Garchomp
+|type=Dragon
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GarchompSpace-TimeSmackdown123.png|illustrator=Atsushi Furusawa|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GarchompSpace-TimeSmackdown175.png|illustrator=MINAMINAMI Take|tab caption=Illustration Rare}}
+|hp=140
+|weakness=
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Gabite
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=123/155|pack=Palkia|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=175/155|pack=Palkia|rarity=Star|rarity count=1}}
+}}
+
+'''Garchomp''' (Japanese: '''ガブリアス''' ''Gaburias'') is a {{ct|Dragon}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Ability/Pocket
+|type=Dragon
+|name=Reckless Shearing
+|jname=あらけずり
+|jtrans=Roughhewn
+|effect=You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw a card.
+}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Water}}{{e|Fighting}}
+|name=Dragon Claw
+|jname=ドラゴンクロー
+|jtrans=Dragon Claw
+|damage=100
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Garchomp
+|species=Mach
+|ndex=0445
+|height=6'3"
+|jheight=1.9
+|weight=209.4
+|jweight=95.0
+|dex=It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.
+|jdex=こうそくで　かけぬけると　つばさは　くうきの　やいばを　うみだし　まわりのきは　せつだん　されている。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Dragon
+|image1=GarchompSpace-TimeSmackdown123.png
+|caption1=Rare card<br>Illus. [[Atsushi Furusawa]]
+|image2=GarchompSpace-TimeSmackdown175.png
+|caption2=Illustration rare card<br>Illus. [[MINAMINAMI Take]]
+}}
+
+==Trivia==
+===Origin===
+*{{m|Dragon Claw}} is a [[move]] in the [[Pokémon games]] that {{p|Garchomp}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knakrack (Kollision von Raum und Zeit 123)]]
+[[es:Garchomp (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Carchacrok (Choc Spatio-Temporel 123)]]
+[[it:Garchomp (Scontro Spaziotemporale 123)]]
+[[ja:ガブリアス (ポケポケ A2)]]
+[[zh:烈咬陆鲨（A2）]]

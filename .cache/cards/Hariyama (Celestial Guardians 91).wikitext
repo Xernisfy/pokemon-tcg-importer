@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hariyama
+|ja name=ハリテヤマ
+|trans name=Hariteyama
+|species=Hariyama
+|type=Fighting
+|image=HariyamaCelestialGuardians91.png
+|illustrator=Miki Tanaka
+|hp=120
+|weakness=Psychic
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Makuhita
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=091/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Hariyama''' (Japanese: '''ハリテヤマ''' ''Hariteyama'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}
+|name=Push Out
+|jname=おしだし
+|jtrans=Oshidashi
+|damage=50
+|effect=Switch out your opponent's Active Pokémon to the Bench. ''(Your opponent chooses the new Active Pokémon.)''
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Hariyama
+|species=Arm Thrust
+|ndex=0297
+|height=7'7"
+|jheight=2.3
+|weight=559.5
+|jweight=253.8
+|dex=It loves challenging others to tests of strength. It has the power to stop a train with a slap.
+|jdex=力くらべが 大好き。 走ってくる 列車を 張り手で 止めてしまう パワーを 持つ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Hariyama|68}} from the {{TCG|Sun & Moon}} expansion; both cards have the Push Out attack.
+*'''Push Out''' is an attack that first appeared on {{TCG ID|Arceus|Hariyama|20}} from the {{TCG|Arceus}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hariyama (Hüter des Firmaments 091)]]
+[[es:Hariyama (Guardianes Celestiales TCG Pocket)]]
+[[fr:Hariyama (Gardiens Astraux 091)]]
+[[it:Hariyama (Guardiani Astrali 91)]]
+[[ja:ハリテヤマ (ポケポケ A3)]]
+[[zh:铁掌力士（A3）]]

@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bastiodon
+|ja name=トリデプス
+|trans name=Torideps
+|species=Bastiodon
+|type=Metal
+|image=BastiodonSpace-TimeSmackdown114.png
+|illustrator=Kagemaru Himeno
+|hp=160
+|weakness=Fire
+|retreat cost=4
+|evo stage=Stage 2
+|prevo name=Shieldon
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=114/155|pack=Palkia|rarity=Diamond|rarity count=3}}
+}}
+
+'''Bastiodon''' (Japanese: '''トリデプス''' ''Torideps'') is a {{ct|Metal}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Ability/Pocket
+|type=Metal
+|name=Guarded Grill
+|jname=がんめんガード
+|jtrans=Rocky Face Guard
+|effect=If any damage is done to this Pokémon by attacks, flip a coin. If heads, this Pokémon takes −100 damage from that attack.
+}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Colorless}}
+|name=Headbang
+|jname=ヘッドバング
+|jtrans=Headbang
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Bastiodon
+|species=Shield
+|ndex=0411
+|height=4'3"
+|jheight=1.3
+|weight=329.6
+|jweight=149.5
+|dex=The bones of its face are huge and hard, so they were mistaken for its spine until after this Pokémon was successfully restored.
+|jdex=顔の骨が でかくて 硬いので 復元が 成功するまで 背骨と 勘違い されていた。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Platinum|Bastiodon|20}} from the {{TCG|Platinum}} expansion.
+*'''Headbang''' is an attack that first appeared on {{TCG ID|Ultra Prism|Type: Null|115}} from the {{TCG|Ultra Prism}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bollterus (Kollision von Raum und Zeit 114)]]
+[[es:Bastiodon (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Bastiodon (Choc Spatio-Temporel 114)]]
+[[it:Bastiodon (Scontro Spaziotemporale 114)]]
+[[ja:トリデプス (ポケポケ A2)]]
+[[zh:护城龙（A2）]]

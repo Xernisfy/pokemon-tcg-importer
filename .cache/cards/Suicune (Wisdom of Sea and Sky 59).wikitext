@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Suicune
+|ja name=スイクン
+|trans name=Suicune
+|species=Suicune
+|type=Water
+|image=SuicuneWisdomofSeaandSky59.png
+|illustrator=Anesaki Dynamic
+|hp=100
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=059/161|pack=Lugia|rarity=Diamond|rarity count=3}}
+}}
+
+'''Suicune''' (Japanese: '''スイクン''' ''Suicune'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}{{e|Colorless}}
+|name=Cure Stream
+|jname=キュアストリーム
+|jtrans=Cure Stream
+|damage=70
+|effect=During your opponent's next turn, attacks used by the Defending Pokémon's attacks do –20 damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Suicune
+|species=Aurora
+|ndex=0245
+|height=6'7"
+|jheight=2.0
+|weight=412.3
+|jweight=187.0
+|dex=	It races around the world to purify fouled water. It dashes away with the north wind.
+|jdex=世界中を 駆け巡り 汚れた 水を 清めている。北風と ともに 走り去る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Suicune|59}} from the {{TCG|Lost Thunder}} expansion.
+*'''Cure Stream''' is an attack that first appeared on {{TCG ID|Secret Wonders|Suicune|19}} from the {{TCG|Secret Wonders}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Brilliant Diamond and Shining Pearl}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Suicune (Weisheit von Meer und Himmel 059)]]
+[[es:Suicune (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Suicune (Sagesse entre Ciel et Mer 059)]]
+[[it:Suicune (La Via del Cielo e del Mare 59)]]
+[[ja:マンタイン (ポケポケ A4)]]
+[[zh:水君（A4）]]

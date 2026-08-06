@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sandygast
+|ja name=スナバァ
+|trans name=Sunaba
+|species=Sandygast
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SandygastCelestialGuardians81.png|illustrator=Akira Komayama|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SandygastCelestialGuardians169.png|illustrator=Yukihiro Tada|tab caption=Illustration Rare}}
+|hp=80
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=081/155|pack=Lunala|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=169/155|pack=Lunala|rarity=Star|rarity count=1}}
+}}
+
+'''Sandygast''' (Japanese: '''スナバァ''' ''Sunaba'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Vibration
+|jname=しんどう
+|jtrans=Vibration
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Sandygast
+|species=Sand Heap
+|ndex=0769
+|height=1'8"
+|jheight=0.5
+|weight=154.3
+|jweight=70.0
+|dex=If it loses its shovel, it will stick something else—like a branch—in its head to make do until it finds another shovel.
+|jdex=スコップを なくすと 木の枝などを 代わりに 挿し 新たな スコップが 見つかるまで 気を 紛らわす。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=SandygastCelestialGuardians81.png
+|caption1=Common card<br>Illus. [[Akira Komayama]]
+|image2=SandygastCelestialGuardians169.png
+|caption2=Illustration rare card<br>Illus. [[Yukihiro Tada]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Sun & Moon|Sandygast|74}} from the {{TCG|Sun & Moon}} expansion.
+*'''Vibration''' is an attack that first appeared on {{TCG ID|Noble Victories|Tympole|22}} from {{TCG|Noble Victories}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sankabuh (Hüter des Firmaments 081)]]
+[[es:Sandygast (Guardianes Celestiales TCG Pocket)]]
+[[fr:Bacabouh (Gardiens Astraux 081)]]
+[[it:Sandygast (Guardiani Astrali 81)]]
+[[ja:スナバァ (ポケポケ A3)]]
+[[zh:沙丘娃（A3）]]

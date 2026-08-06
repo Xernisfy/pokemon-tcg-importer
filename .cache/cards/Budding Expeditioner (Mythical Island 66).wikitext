@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Budding Expeditioner
+|ja name=かけだし調査員
+|trans name=Novice Researcher
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BuddingExpeditionerMythicalIsland66.png|illustrator=Yuu Nishida|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BuddingExpeditionerMythicalIsland80.png|illustrator=Yuu Nishida|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=066/068|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=080/068|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Budding Expeditioner''' (Japanese: '''かけだし調査員''' ''Novice Researcher'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Put your {{DL|Mew (TCG Pocket)|Mew ex|Mew '''''<big>ex</big>'''''}} in the Active Spot into your hand.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=BuddingExpeditionerMythicalIsland66.png
+|caption1=Uncommon card<br>Illus. [[Yuu Nishida]]
+|image2=BuddingExpeditionerMythicalIsland80.png
+|caption2=Rare card<br>Illus. [[Yuu Nishida]]
+}}
+
+==Trivia==
+===Origin===
+This character is original to TCG Pocket, but they seem to be an example of someone who searches for {{p|Mew}}, only for it to disappear or teleport away upon being approached. This is demonstrated by the special illustration rare of {{TCG ID|Mythical Island|Mew ex|83}} depicting Mew sitting in the rubble right behind where the Budding Expeditioner is standing.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=かけだし調査員 ''Kakedashi Chōsain''
+|zh_yue=新手調查員 ''Sānsáu Diuhchàhyùhn''
+|zh_cmn=新手調查員 ''Xīnshǒu Diàocháyuán''
+|fr=Jeune Explorateur
+|de=Abenteurer-Neuling
+|it=Esploratore in Erba
+|ko=신출내기 조사원 ''Sinchul-naegi Josawon''
+|pt_br=Expedicionário Principiante
+|es=Explorador Novel
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Abenteurer-Neuling (TCG Pocket)]]
+[[es:Explorador Novel (TCG Pocket)]]
+[[fr:Jeune Explorateur (L'Île Fabuleuse 066)]]
+[[it:Esploratore in Erba (L'Isola Misteriosa 66)]]
+[[ja:かけだし調査員]]
+[[zh:新手调查员（TCGP）]]

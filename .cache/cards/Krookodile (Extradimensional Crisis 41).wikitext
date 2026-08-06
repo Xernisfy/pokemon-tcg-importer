@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Krookodile
+|ja name=ワルビアル
+|trans name=Waruvial
+|species=Krookodile
+|type=Darkness
+|image=KrookodileExtradimensionalCrisis41.png
+|illustrator=Naoki Saito
+|hp=140
+|weakness=Grass
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Krokorok
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=041/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Krookodile''' (Japanese: '''ワルビアル''' ''Waruvial'') is a {{ct|Darkness}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Colorless}}
+|name=Poaching Fangs
+|jname=ひっこぬきファング
+|jtrans=Poaching Fangs
+|damage=90
+|effect=Flip 3 coins. For each heads, a card is chosen at random from your opponent's hand. Your opponent reveals that card and shuffles it into their deck.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Krookodile
+|category=Intimidation 
+|ndex=0553
+|height=4'11"
+|jheight=1.5
+|weight=212.3
+|jweight=96.3
+|dex=After clamping down with its powerful jaws, it twists its body around to rip its prey in half.
+|jdex=強力な あごで 噛みつくと そのまま 思い切り 体を ひねり 獲物を 切断する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Emerging Powers|Krookodile|62}} from the {{TCG|Emerging Powers}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rabigator (Dimensionale Krise 041)]]
+[[es:Krookodile (Crisis Dimensional TCG Pocket)]]
+[[fr:Crocorible (Crise Interdimensionnelle 041)]]
+[[it:Krookodile (Crisi Ultradimensionale 41)]]
+[[ja:ワルビアル (ポケポケ A3a)]]
+[[zh:流氓鳄（A3a）]]

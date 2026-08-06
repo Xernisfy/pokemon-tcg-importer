@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Breloom
+|ja name=キノガッサ
+|trans name=Kinogassa
+|species=Breloom
+|type=Grass
+|image=BreloomMegaRising12.png
+|illustrator=Mizue
+|hp=100
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Shroomish
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=012/226|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Breloom''' (Japanese: '''キノガッサ''' ''Kinogassa'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Seed Bomb
+|jname=タネばくだん
+|jtrans=Seed Bomb
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Breloom
+|category=Mushroom
+|ndex=0286
+|height=3'11"
+|jheight=1.2
+|weight=86.4
+|jweight=39.2
+|dex=The seeds on its tail are made of toxic spores. It knocks out foes with quick, virtually invisible punches.
+|jdex=尻尾の タネは 毒の 胞子で できている。 動きが 見えないほど 素早い パンチで 敵を 倒す。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Shining Legends|Breloom|5}} from the {{TCG|Shining Legends}} expansion.
+*{{m|Seed Bomb}} is a [[move]] in the [[Pokémon games]] that {{p|Breloom}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kapilz (Mega-Aufstieg 012)]]
+[[es:Breloom (Megaascenso TCG Pocket)]]
+[[fr:Chapignon (Méga-Ascension 012)]]
+[[it:Breloom (Mega Ascesa 12)]]
+[[ja:キノガッサ (ポケポケ B1)]]
+[[zh:斗笠菇（B1）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Misdreavus
+|ja name=ムウマ
+|trans name=Muma
+|species=Misdreavus
+|type=Psychic
+|image=MisdreavusMegaRising99.png
+|illustrator=HYOGONOSUKE
+|hp=60
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=099/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Misdreavus''' (Japanese: '''ムウマ''' ''Muma'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Double Spin
+|jname=ダブルスピン
+|jtrans=Double Spin
+|damage=20×
+|effect=Flip 2 coins. This attack does 20 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Misdreavus
+|category=Screech
+|ndex=0200
+|height=2'4"
+|jheight=0.7
+|weight=2.2
+|jweight=1.0
+|dex=It loves to bite and yank people's hair from behind without warning, just to see their shocked reactions.
+|jdex=いきなり後ろ髪にかみつき、ひっぱっては、人のおどろく姿を見てよろこんでいる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Silver Tempest|Misdreavus|63}} from the {{TCG|Silver Tempest}} expansion.
+*'''Double Spin''' is an attack that first appeared on {{TCG ID|Gym Heroes|Lt. Surge's Voltorb|84}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Traunfugil (Mega-Aufstieg 099)]]
+[[es:Misdreavus (Megaascenso TCG Pocket)]]
+[[fr:Feuforêve (Méga-Ascension 099)]]
+[[it:Misdreavus (Mega Ascesa 99)]]
+[[ja:ムウマ (ポケポケ B1)]]
+[[zh:梦妖（B1）]]

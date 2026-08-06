@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tapu Bulu
+|ja name=カプ・ブルル
+|trans name=Kapu-Bulul
+|species=Tapu Bulu
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TapuBuluCelestialGuardians24.png|illustrator=Satoshi Shirai|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TapuBuluCelestialGuardians159.png|illustrator=OKACHEKE|tab caption=Illustration Rare}}
+|hp=120
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Solgaleo|rarity=Diamond|rarity count=3|number=024/155}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Solgaleo|rarity=Star|rarity count=1|number=159/155}}
+}}
+
+'''Tapu Bulu''' (Japanese: '''カプ・ブルル''' ''Kapu-Bulul'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=Stuck-In Tackle
+|jname=めりこみタックル
+|jtrans=Stuck-In Tackle
+|damage=100
+|effect=Flip a coin. If tails, this Pokémon also does 20 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Tapu Bulu
+|species=Land Spirit
+|ndex=0787
+|height=6'3"
+|jheight=1.9
+|weight=100.3
+|jweight=45.5
+|dex=Although it's called a guardian deity, it's violent enough to crush anyone it sees as an enemy.
+|jdex=守り神と 呼ばれるが 敵と 見なした 者は 徹底的に 叩き潰す 激しさを 持っている。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=TapuBuluCelestialGuardians24.png
+|caption1=Rare card<br>Illus. [[Satoshi Shirai]]
+|image2=TapuBuluCelestialGuardians159.png
+|caption2=Illustration rare card<br>Illus. [[OKACHEKE]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Lost Thunder|Tapu Bulu|37}} from the {{TCG|Lost Thunder}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kapu-Toro (Hüter des Firmaments 024)]]
+[[es:Tapu Bulu (Guardianes Celestiales TCG Pocket)]]
+[[fr:Tokotoro (Gardiens Astraux 024)]]
+[[it:Tapu Bulu (Guardiani Astrali 24)]]
+[[ja:カプ・ブルル (ポケポケ A3)]]
+[[zh:卡璞・哞哞（A3）]]

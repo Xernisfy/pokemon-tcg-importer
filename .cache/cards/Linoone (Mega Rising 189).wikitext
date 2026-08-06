@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Linoone
+|ja name=マッスグマ
+|trans name=Massuguma
+|species=Linoone
+|type=Colorless
+|image=LinooneMegaRising189.png
+|illustrator=match
+|hp=100
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Zigzagoon
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=189/226}}
+}}
+
+'''Linoone''' (Japanese: '''マッスグマ''' ''Massuguma'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Jet Headbutt
+|jname=ジェットヘッド
+|jtrans=Jet Head
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Linoone
+|species=Rushing
+|ndex=0264
+|height=1'8"
+|jheight=0.5
+|weight=71.6
+|jweight=32.5
+|dex=It uses its explosive speed and razor-sharp claws to bring down prey. Running along winding paths is not its strong suit.
+|jdex=抜群の 瞬発力と するどいツメで 獲物を しとめる。 曲がった 道を 走るのは 下手。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Primal Clash|Linoone|112}} from the {{TCG|Primal Clash}} expansion.
+*'''Jet Headbutt''' is an attack that first appeared on {{TCG ID|Dragons Exalted|Garchomp|91}} from the {{TCG|Dragons Exalted}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Geradaks (Mega-Aufstieg 189)]]
+[[es:Linoone (Megaascenso TCG Pocket)]]
+[[fr:Linéon (Méga-Ascension 189)]]
+[[it:Linoone (Mega Ascesa 189)]]
+[[ja:マッスグマ (ポケポケ B1)]]
+[[zh:直冲熊（B1）]]

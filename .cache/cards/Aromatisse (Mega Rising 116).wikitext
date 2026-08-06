@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Aromatisse
+|ja name=フレフワン
+|trans name=Frefuwan
+|species=Aromatisse
+|type=Psychic
+|image=AromatisseMegaRising116.png
+|illustrator=kirisAki
+|hp=90
+|weakness=Metal
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Spritzee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=116/226}}
+}}
+
+'''Aromatisse''' (Japanese: '''フレフワン''' ''Frefuwan'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Confounding Cologne
+|jname=フラフラパフューム
+|jtrans=Dizzy Perfume
+|damage=40
+|effect=Your opponent's Active Pokémon is now {{TCG|Confused}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Aromatisse
+|species=Fragrance
+|ndex=0683
+|height=2'7"
+|jheight=0.8
+|weight=34.2
+|jweight=15.5
+|dex=The scents Aromatisse can produce range from sweet smells that bolster allies to foul smells that sap an opponent's will to fight.
+|jdex=敵の 戦う 気持ちを なくす 悪臭や 味方を 助ける 香しい 香りを つくりだす。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BREAKpoint|Aromatisse|85}} from the {{TCG|BREAKpoint}} expansion.
+*'''Confounding Cologne''' is an attack that first appeared on {{TCG ID|Obsidian Flames|Oinkologne|183}} from the {{TCG|Obsidian Flames}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Parfinesse (Mega-Aufstieg 116)]]
+[[es:Aromatisse (Megaascenso TCG Pocket)]]
+[[fr:Cocotine (Méga-Ascension 116)]]
+[[it:Aromatisse (Mega Ascesa 116)]]
+[[ja:フレフワン (ポケポケ B1)]]
+[[zh:芳香精（B1）]]

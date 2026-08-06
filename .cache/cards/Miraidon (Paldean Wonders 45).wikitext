@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Miraidon
+|ja name=ミライドン
+|trans name=Miraidon
+|species=Miraidon
+|type=Lightning
+|image=MiraidonPaldeanWonders45.png
+|illustrator=Kouki Saitou
+|hp=120
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=045/093|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Miraidon''' (Japanese: '''ミライドン''' ''Miraidon'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}{{e|Lightning}}
+|name=Lightning Laser
+|jname=ライトニングレーザー
+|jtrans=Lightning Laser
+|damage=60
+|effect=This attack also does 30 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Miraidon
+|category=Paradox
+|ndex=1008
+|height=11'6"
+|jheight=3.5
+|weight=529.1
+|jweight=240.0
+|dex=This seems to be the Iron Serpent mentioned in an old book. The Iron Serpent is said to have turned the land to ash with its lightning.
+|jdex=古い 書物に 名が ある テツノオロチらしい。 雷で 大地を 灰に 変えたという。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Miraidon|80}} from the {{TCG|Scarlet & Violet}} expansion, as was its '''Lightning Laser''' attack.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Miraidon (Wundervolles Paldea 045)]]
+[[fr:Miraidon (Merveilles de Paldea 045)]]
+[[it:Miraidon (Meraviglie di Paldea 45)]]
+[[ja:ミライドン (ポケポケ B2a)]]
+[[zh:密勒顿（B2a）]]

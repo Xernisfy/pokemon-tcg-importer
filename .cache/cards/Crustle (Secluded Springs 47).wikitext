@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Crustle
+|ja name=イワパレス
+|trans name=Iwapalace
+|species=Crustle
+|type=Fighting
+|image=CrustleSecludedSprings47.png
+|illustrator=Naoki Saito
+|hp=140
+|weakness=Grass
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Dwebble
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=047/071|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Crustle''' (Japanese: '''イワパレス''' ''Iwapalace'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Stone Edge
+|jname=ストーンエッジ
+|jtrans=Stone Edge
+|damage=100+
+|effect=Flip a coin. If heads, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Crustle
+|category=Stone Home
+|ndex=0558
+|height=4'7"
+|jheight=1.4
+|weight=440.9
+|jweight=200.0
+|dex=This highly territorial Pokémon prefers dry climates. It won't come out of its boulder on rainy days.
+|jdex=かんそうした ばしょを このみ あめのひは いわから でない。 なわばりいしきが つよいぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Legendary Treasures|Crustle|14}} from the {{TCG|Legendary Treasures}} expansion.
+*{{m|Stone Edge}} is a [[move]] in the [[Pokémon games]] that Crustle can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Castellith (Verborgene Quelle 047)]]
+[[es:Crustle (Manantial Oculto TCG Pocket)]]
+[[fr:Crabaraque (Source Secrète 047)]]
+[[it:Crustle (Sorgenti Recondite 47)]]
+[[ja:イワパレス (ポケポケ A4a)]]
+[[zh:岩殿居蟹（A4a）]]

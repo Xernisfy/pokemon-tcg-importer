@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Slowbro
+|ja name=ヤドラン
+|trans name=Yadoran
+|species=Slowbro
+|type=Psychic
+|image=SlowbroGeneticApex119.png
+|illustrator=Kagemaru Himeno
+|hp=130
+|weakness=Darkness
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Slowpoke
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=119/226|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Slowbro''' (Japanese: '''ヤドラン''' ''Yadoran'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}{{e|Colorless}}
+|name=Super Psy Bolt
+|jname=ちょうねんりき
+|jtrans=Super Willpower
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Slowbro
+|species=Hermit Crab
+|ndex=0080
+|height=5'3"
+|jheight=1.6
+|weight=173.1
+|jweight=78.5
+|dex=When a Slowpoke went hunting in the sea, its tail was bitten by a Shellder. That made it evolve into Slowbro.
+|jdex=ヤドンが　海へ　エサを 取りにいったとき　シェルダーに 尻尾を　かまれ　ヤドランになった｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fossil|Slowbro|43}} from the {{TCG|Fossil}} expansion.
+*'''Super Psy Bolt''' is an attack that first appeared as '''Super Psy''' on {{TCG ID|Base Set|Kadabra|32}} from the {{TCG|Base Set}}.
+**Super Psy Bolt's Japanese name is derived from that of {{m|Confusion}}, a [[move]] in the [[Pokémon games]] that {{p|Slowbro}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lahmus (Unschlagbare Gene 119)]]
+[[es:Slowbro (Genes Formidables TCG Pocket)]]
+[[fr:Flagadoss (Puissance Génétique 119)]]
+[[it:Slowbro (Geni Supremi 119)]]
+[[ja:ヤドラン (ポケポケ A1)]]
+[[zh:呆壳兽（A1）]]

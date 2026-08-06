@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Milcery
+|ja name=マホミル
+|trans name=Mahomil
+|species=Milcery
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MilceryEeveeGrove36.png|illustrator=Mina Nakai|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MilceryDeluxePackex186.png|illustrator=Mina Nakai|tab caption=Parallel}}
+|hp=50
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=036/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=185/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=186/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Milcery''' (Japanese: '''マホミル''' ''Mahomil'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}
+|name=Sweets Relay
+|jname=スイーツリレー
+|jtrans=Sweets Relay
+|damage=10+
+|effect=If 1 of your Pokémon used {{cat|TCG Pocket cards with Sweets Relay|Sweets Relay}} during your last turn, this attack does 20 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Milcery
+|category=Cream 
+|ndex=0868
+|height=8"
+|jheight=0.2
+|weight=0.7
+|jweight=0.3
+|dex=This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream.
+|jdex=クリームで できた 体を もつ。 空気中の 甘い 香りの 成分が 集まって 生まれた。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=MilceryEeveeGrove36.png
+|caption1=Standard card<br>Illus. [[Mina Nakai]]
+|image2=MilceryDeluxePackex186.png
+|caption2=Parallel foil card<br>Illus. [[Mina Nakai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Milcery|86}} from the {{TCG|Rebel Clash}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hokumil (Evoli-Hain 036)]]
+[[es:Milcery (Arboleda de Eevee TCG Pocket)]]
+[[fr:Crèmy (La Clairière d'Évoli 036)]]
+[[it:Milcery (Il Bosco di Eevee 36)]]
+[[ja:マホミル (ポケポケ A3b)]]
+[[zh:小仙奶（A3b）]]

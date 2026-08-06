@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Electivire
+|ja name=エレキブル
+|trans name=Elekible
+|species=Electivire
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ElectivireSpace-TimeSmackdown57.png|illustrator=kawayoo|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ElectivirePromo-A36.png|illustrator=Sumiyoshi Kizuki|tab caption=Promo}}
+|hp=120
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Electabuzz
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=057/155|pack=Dialga|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=036/P-A|pack=Vol. 4}}
+}}
+
+'''Electivire''' (Japanese: '''エレキブル''' ''Elekible'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Exciting Voltage
+|jname=エキサイトボルト
+|jtrans=Excite Volt
+|damage=40+
+|effect=If this Pokémon has at least 2 extra {{e|Lightning}} Energy attached, this attack does 80 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Electivire
+|species=Thunderbolt
+|ndex=0466
+|height=5'11"
+|jheight=1.8
+|weight=305.6
+|jweight=138.6
+|dex=The amount of electrical energy this Pokémon produces is proportional to the rate of its pulse. The voltage jumps while Electivire is battling.
+|jdex=発電量は 心拍数と 比例する。 戦いになると 一気に ボルテージが 上がるのだ。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of five cards that could be pulled from Promo-A Vol. 4 packs; these were made available as part of the [[Cresselia ex Drop Event]], which ran from February 3 to 18, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=ElectivireSpace-TimeSmackdown57.png
+|caption1=Rare card<br>Illus. [[kawayoo]]
+|image2=ElectivirePromo-A36.png
+|caption2=Promo card<br>Illus. [[Sumiyoshi Kizuki]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Space-Time Smackdown}} illustration was first featured on {{TCG ID|Burning Shadows|Electivire|43}} from the {{TCG|Burning Shadows}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Everyone's Exciting Battle|Electivire|18}} from the {{TCG|Everyone's Exciting Battle}} collection, which was only released in Japan.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Elevoltek (Kollision von Raum und Zeit 057)]]
+[[es:Electivire (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Élekable (Choc Spatio-Temporel 057)]]
+[[it:Electivire (Scontro Spaziotemporale 57)]]
+[[ja:エレキブル (ポケポケ A2)]]
+[[zh:电击魔兽（A2）]]

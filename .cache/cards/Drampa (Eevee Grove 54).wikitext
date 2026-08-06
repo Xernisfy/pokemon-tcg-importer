@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Drampa
+|ja name=ジジーロン
+|trans name=Jijilong
+|species=Drampa
+|type=Dragon
+|image=DrampaEeveeGrove54.png
+|illustrator=Sanosuke Sakuma
+|hp=100
+|weakness=
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=054/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Drampa''' (Japanese: '''ジジーロン''' ''Jijilong'') is a {{ct|Dragon}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Dragon Breath
+|jname=りゅうのいぶき
+|jtrans=Dragon Breath
+|damage=70
+|effect=Flip a coin. If tails, this attack does nothing. If heads, your opponent's Active Pokémon is now {{TCG|Paralyzed}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Drampa
+|category=Placid 
+|ndex=0780
+|height=9'10"
+|jheight=3
+|weight=407.9
+|jweight=185.0
+|dex=The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.
+|jdex=標高３０００メートルを 超える 山で 暮らす。 まれに 街へ やって来て 子どもたちと 遊ぶ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Dragon Majesty|Drampa|51}} from the {{TCG|Dragon Majesty}} expansion.
+*{{m|Dragon Breath}} is a [[move]] in the [[Pokémon games]] that {{p|Drampa}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sen-Long (Evoli-Hain 054)]]
+[[es:Drampa (Arboleda de Eevee TCG Pocket)]]
+[[fr:Draïeul (La Clairière d'Évoli 054)]]
+[[it:Drampa (Il Bosco di Eevee 54)]]
+[[ja:ジジーロン (ポケポケ A3b)]]
+[[zh:老翁龙（A3b）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lilligant
+|ja name=ドレディア
+|trans name=Dredear
+|species=Lilligant
+|type=Grass
+|image=LilligantExtradimensionalCrisis2.png
+|illustrator=Kagemaru Himeno
+|hp=110
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Petilil
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=002/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Lilligant''' (Japanese: '''ドレディア''' ''Dredear'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Cut
+|jname=いあいぎり
+|jtrans=Iai Cut
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Lilligant
+|category=Flowering 
+|ndex=0549
+|height=3'7"
+|jheight=1.1
+|weight=35.9
+|jweight=16.3
+|dex=The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult.
+|jdex=頭の　花飾りから　発する 香りを　かぐと　リラックスできるが 手入れが　とても　難しい｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Evolving Skies|Lilligant|10}} from the {{TCG|Evolving Skies}} expansion.
+*{{m|Cut}} is a [[move]] in the [[Pokémon games]] that {{p|Lilligant}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dressella (Dimensionale Krise 002)]]
+[[es:Lilligant (Crisis Dimensional TCG Pocket)]]
+[[fr:Fragilady (Crise Interdimensionnelle 002)]]
+[[it:Lilligant (Crisi Ultradimensionale 2)]]
+[[ja:ドレディア (ポケポケ A3a)]]
+[[zh:裙儿小姐（A3a）]]

@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rhyperior
+|ja name=ドサイドン
+|trans name=Dosidon
+|species=Rhyperior
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RhyperiorSpace-TimeSmackdown82.png|illustrator=Naoki Saito|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RhyperiorSpace-TimeSmackdown169.png|illustrator=Taiga Kayama|tab caption=Illustration Rare}}
+|hp=160
+|weakness=Grass
+|retreat cost=4
+|evo stage=Stage 2
+|prevo name=Rhydon
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=082/155|pack=Palkia|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=169/155|pack=Palkia|rarity=Star|rarity count=1}}
+}}
+
+'''Rhyperior''' (Japanese: '''ドサイドン''' ''Dosidon'') is a {{ct|Fighting}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Mountain Swing
+|jname=マウンテンスイング
+|jtrans=Mountain Swing
+|damage=150
+|effect=Discard the top 3 cards of your deck.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Rhyperior
+|species=Drill
+|ndex=0464
+|height=7'1"
+|jheight=2.4
+|weight=623.5
+|jweight=282.8
+|dex=It can load up to three projectiles per arm into the holes in its hands. What launches out of those holes could be either rocks or Roggenrola.
+|jdex=手の 穴に 岩や ダンゴロを 詰めて 発射。 装填できる 数は 片腕に つき ３つ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=RhyperiorSpace-TimeSmackdown82.png
+|caption1=Rare card<br>Illus. [[Naoki Saito]]
+|image2=RhyperiorSpace-TimeSmackdown169.png
+|caption2=Illustration rare card<br>Illus. [[Taiga Kayama]]
+}}
+
+==Trivia==
+*This card's illustration rare print features {{p|Rhyperior}} and {{p|Geodude}} as well as two [[Worker]]s inside the [[Oreburgh Mine]].
+===Origin===
+*This card's illustration was first featured on {{TCG ID|XY|Rhyperior|62}} from the {{TCG|XY}} expansion.
+*'''Mountain Swing''' is an attack that first appeared on {{TCG ID|Darkness Ablaze|Tyranitar|88}} from the {{TCG|Darkness Ablaze}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rihornior (Kollision von Raum und Zeit 082)]]
+[[es:Rhyperior (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Rhinastoc (Choc Spatio-Temporel 082)]]
+[[it:Rhyperior (Scontro Spaziotemporale 82)]]
+[[ja:ドサイドン (ポケポケ A2)]]
+[[zh:超甲狂犀（A2）]]

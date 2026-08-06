@@ -1,0 +1,84 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Latios
+|ja name=ラティオス
+|trans name=Latios
+|species=Latios
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LatiosSecludedSprings37.png|illustrator=rika|illustrator link=rika (illustrator)|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LatiosSecludedSprings75.png|illustrator=kodama|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LatiosFantasticalParade217.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=110
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=037/071|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=075/071|pack=Any|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=217/155|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Latios''' (Japanese: '''ラティオス''' ''Latios'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Fantastical Floating
+|jname=むげんフロート
+|jtrans=Infinite Float
+|effect=If you have {{TCGP|Latias}} in play, this Pokémon has no Retreat Cost.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}{{e|Psychic}}
+|name=Luster Purge
+|jname=ラスターパージ
+|jtrans=Luster Purge
+|damage=120
+|effect=Discard all Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Latios
+|category=Eon
+|ndex=0381
+|height=6'7"
+|jheight=2.0
+|weight=132.3
+|jweight=60.0
+|dex=It understands human speech and is highly intelligent. It is a tender Pokémon that dislikes fighting.
+|jdex=高い 知能を 持ち 人間の 言葉を 理解する。 争いを 嫌う 優しい ポケモンだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=LatiosSecludedSprings37.png
+|caption1=Rare card<br>Illus. {{OBP|rika|illustrator}}
+|image2=LatiosSecludedSprings75.png
+|caption2=Illustration rare card<br>Illus. [[kodama]]
+|image3=LatiosFantasticalParade217.png
+|caption3=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*'''Fantastical Floating'''{{'}}s Japanese name, '''むげんフロート''' ''Mugen Furōto'' is a reference to Latios's [[Pokémon category]], '''むげんポケモン''' ''Mugen Pokémon'' (the Eon Pokémon).
+*{{m|Luster Purge}} is {{p|Latios}}'s [[signature move]] in the [[Pokémon games]].
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+*This card's {{TCGP|Fantastical Parade}} print features a {{Shiny}} {{p|Latios}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+[[de:Latios (Verborgene Quelle 037)]]
+[[es:Latios (Manantial Oculto TCG Pocket)]]
+[[fr:Latios (Source Secrète 037)]]
+[[it:Latios (Sorgenti Recondite 37)]]
+[[ja:ラティオス (ポケポケ A4a)]]
+[[zh:拉帝欧斯（A4a）]]

@@ -1,0 +1,89 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Milotic
+|ja name=ミロカロス
+|trans name=Milokaross
+|species=Milotic
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MiloticSecludedSprings22.png|illustrator=AKIRA EGAWA|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MiloticSecludedSprings72.png|illustrator=YASHIRO Nanaco|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MiloticPromo-A104.png|illustrator=Hajime Kusajima|tab caption=Promo}}
+|hp=120
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Feebas
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=022/071|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=072/071|pack=Any|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=104/P-A}}
+}}
+
+'''Milotic''' (Japanese: '''ミロカロス''' ''Milokaross'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Healing Ripples
+|jname=いやしのはもん
+|jtrans=Healing Ripple
+|effect=Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may heal 60 damage from 1 of your {{e|Water}} Pokémon.
+}}
+
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Aqua Edge
+|jname=アクアエッジ
+|jtrans=Aqua Edge
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Milotic
+|category=Tender
+|ndex=0350
+|height=20'4"
+|jheight=6.2
+|weight=357.1
+|jweight=162.0
+|dex=Milotic has provided inspiration to many artists. It has even been referred to as the most beautiful Pokémon of all.
+|jdex=もっとも　美しい　ポケモンとも　呼ばれ　多くの　芸術家に　インスピレーションを　与えてきた。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 12 packs; these were made available as part of the [[Zoroark Drop Event]], which ran from September 3 to 13, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=MiloticSecludedSprings22.png
+|caption1=Rare card<br>Illus. [[AKIRA EGAWA]]
+|image2=MiloticSecludedSprings72.png
+|caption2=Illustration rare card<br>Illus. [[YASHIRO Nanaco]]
+|image3=MiloticPromo-A104.png
+|caption3=Promo card<br>Illus. [[Hajime Kusajima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration from the {{TCGP|Secluded Springs}} expansion was first featured on {{TCG ID|Darkness Ablaze|Milotic|39}} from the {{TCG|Darkness Ablaze}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Supreme Victors|Milotic|70}} from the {{TCG|Supreme Victors}} expansion.
+*'''Aqua Edge''' is an attack that first appeared on {{TCG ID|Kalos Starter Set|Greninja|14}} from the {{TCG|Kalos Starter Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Milotic (Verborgene Quelle 022)]]
+[[es:Milotic (Manantial Oculto TCG Pocket)]]
+[[fr:Milobellus (Source Secrète 022)]]
+[[it:Milotic (Sorgenti Recondite 22)]]
+[[ja:ミロカロス (ポケポケ A4a)]]
+[[zh:美纳斯（A4a）]]

@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Farfetch'd
+|ja name=カモネギ
+|trans name=Kamonegi
+|species=Farfetch'd
+|type=Colorless
+|image=Farfetch'dSecludedSprings56.png
+|illustrator=Midori Harada
+|hp=70
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=056/071|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Farfetch'd''' (Japanese: '''カモネギ''' ''Kamonegi'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Leek Slam
+|jname=ネギでぶったたく
+|jtrans=Leek Pummel
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Farfetch'd
+|category=Wild Duck
+|ndex=0083
+|height=2'7"
+|jheight=0.8
+|weight=33.1
+|jweight=15.0
+|dex=The stalk this Pokémon carries in its wings serves as a sword to cut down opponents. In a dire situation, the stalk can also serve as food.
+|jdex=羽で　もつ　茎を　刀のように 操り　敵を　切り捨てる｡ いざと　いうときは　エサに　する｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Skyridge|Farfetch'd|55}} from the {{TCG|Skyridge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Porenta (Verborgene Quelle 056)]]
+[[es:Farfetch'd (Manantial Oculto TCG Pocket)]]
+[[fr:Canarticho (Source Secrète 056)]]
+[[it:Farfetch'd (Sorgenti Recondite 56)]]
+[[ja:カモネギ (ポケポケ A4a)]]
+[[zh:大葱鸭（A4a）]]

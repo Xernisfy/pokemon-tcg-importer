@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Qwilfish
+|ja name=ハリーセン
+|trans name=Harysen
+|species=Qwilfish
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=QwilfishWisdomofSeaandSky53.png|illustrator=Shin Nagasawa|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=QwilfishWisdomofSeaandSky168.png|illustrator=June|tab caption=Illustration Rare}}
+|hp=80
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=053/161|pack=Lugia|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=168/161|pack=Lugia|rarity=Star|rarity count=1}}
+}}
+
+'''Qwilfish''' (Japanese: '''ハリーセン''' ''Harysen'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Poison Sting
+|jname=どくばり
+|jtrans=Poison Needle
+|damage=20
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Qwilfish
+|species=Balloon
+|ndex=0211
+|height=1'8"
+|jheight=0.5
+|weight=8.6
+|jweight=3.9
+|dex=Be cautious if this Pokémon starts sucking in water—it will soon attack by scattering the toxic spikes that grow all over its body.
+|jdex=水を 飲みこみはじめたら 危険。 全身に 生えている 毒針を まき散らし 襲いかかってくる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=QwilfishWisdomofSeaandSky53.png
+|caption1=Uncommon card<br>Illus. [[Shin Nagasawa]]
+|image2=QwilfishWisdomofSeaandSky168.png
+|caption2=Illustration rare card<br>Illus. [[June]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Shining Legends|Qwilfish|21}} from the {{TCG|Shining Legends}} expansion; both cards have the {{m|Poison Sting}} attack.
+*{{m|Poison Sting}} is a [[move]] in the [[Pokémon games]] that {{p|Qwilfish}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Baldorfish (Weisheit von Meer und Himmel 053)]]
+[[es:Qwilfish (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Qwilfish (Sagesse entre Ciel et Mer 053)]]
+[[it:Qwilfish (La Via del Cielo e del Mare 53)]]
+[[ja:ハリーセン (ポケポケ A4)]]
+[[zh:千针鱼（A4）]]

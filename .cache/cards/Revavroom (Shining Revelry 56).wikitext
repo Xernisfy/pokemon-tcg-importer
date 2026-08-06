@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Revavroom
+|ja name=ブロロローム
+|trans name=Burororoom
+|species=Revavroom
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RevavroomShiningRevelry56.png|illustrator=Souichirou Gunjima|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RevavroomShiningRevelry106.png|illustrator=nagimiso|tab caption=Shiny Rare}}
+|hp=110
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Varoom
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=056/072|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=106/072|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Revavroom''' (Japanese: '''ブロロローム''' ''Burororoom'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Colorless}}
+|name=Spinning Drift
+|jname=スピンドリフト
+|jtrans=Spin Drift
+|damage=70
+|effect=Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Revavroom
+|category=Multi-Cyl 
+|ndex=0966
+|height=5'11"
+|jheight=1.8
+|weight=264.6
+|jweight=120.0
+|dex=It creates a gas out of poison and minerals from rocks. It then detonates the gas in its cylinders—now numbering eight—to generate energy.
+|jdex=毒素と 岩の 成分を 混ぜた ガスを ８つに 増えた シリンダーで 爆発させ エネルギーを 作る。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=RevavroomShiningRevelry56.png
+|caption1=Uncommon card<br>Illus. [[Souichirou Gunjima]]
+|image2=RevavroomShiningRevelry106.png
+|caption2=Shiny rare card<br>Illus. [[nagimiso]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare print features a {{Shiny}} {{p|Revavroom}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knattatox (Glänzendes Festival 056)]]
+[[es:Revavroom (Festival Brillante TCG Pocket)]]
+[[fr:Vrombotor (Réjouissances Rayonnantes 056)]]
+[[it:Revavroom (Tripudio Splendente 56)]]
+[[ja:ブロロローム (ポケポケ A2b)]]
+[[zh:普隆隆姆（A2b）]]

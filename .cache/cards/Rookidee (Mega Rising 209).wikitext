@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rookidee
+|ja name=ココガラ
+|trans name=Kokogara
+|species=Rookidee
+|type=Colorless
+|image=RookideeMegaRising209.png
+|illustrator=OKACHEKE
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Blaziken|rarity=Diamond|rarity count=1|number=209/226}}
+}}
+
+'''Rookidee''' (Japanese: '''ココガラ''' ''Kokogara'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Flap
+|jname=はばたく
+|jtrans=Flap
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Rookidee
+|species=Tiny Bird
+|ndex=0821
+|height=8"
+|jheight=0.2
+|weight=4
+|jweight=1.8
+|dex=The females are fussier than the males. If another creature dirties a female Rookidee's wings, it'll peck the offender relentlessly in a burning rage.
+|jdex=メスは オスより 神経質。 羽を 汚されると 烈火のごとく 怒り くちばしで つつきまくる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fusion Strike|Rookidee|219}} from the {{TCG|Fusion Strike}} expansion.
+*'''Flap''' is an attack that first appeared on {{TCG ID|Majestic Dawn|Starly|75}} from the {{TCG|Majestic Dawn}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Meikro (Mega-Aufstieg 209)]]
+[[es:Rookidee (Megaascenso TCG Pocket)]]
+[[fr:Minisange (Méga-Ascension 209)]]
+[[it:Rookidee (Mega Ascesa 209)]]
+[[ja:ココガラ (ポケポケ B1)]]
+[[zh:稚山雀（B1）]]

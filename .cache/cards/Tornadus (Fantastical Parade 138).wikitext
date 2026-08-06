@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tornadus
+|ja name=トルネロス
+|trans name=Tornelos
+|species=Tornadus
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TornadusFantasticalParade138.png|illustrator=Masakazu Fukuda|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TornadusPromo-B30.png|illustrator=Shigenori Negishi|tab caption=Promo}}
+|hp=90
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=138/155|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=030/P-B}}
+}}
+
+'''Tornadus''' (Japanese: '''トルネロス''' ''Tornelos'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Blow Through
+|jname=ふきぬける
+|jtrans=Sweep Through
+|damage=40+
+|effect=If a {{TCGP|Stadium card|Stadium}} is in play, this attack does 40 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Tornadus
+|category=Cyclone
+|ndex=0641
+|height=4'11"
+|jheight=1.5
+|weight=138.9
+|jweight=63.0
+|dex=Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.
+|jdex=トルネロスの 尻尾から 噴き出した エネルギーが 大嵐を 起こす。 民家を 吹き飛ばす パワー。
+}}
+
+==Release information==
+This card's Promo print was one of five cards that could be pulled from Promo-B Vol. 4 packs; these were made available as part of the [[Mega Medicham ex Drop Event]], which ran from February 12 to 22, 2026.
+
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=TornadusFantasticalParade138.png
+|caption1=Rare card<br>Illus. [[Masakazu Fukuda]]
+|image2=TornadusPromo-B30.png
+|caption2=Promo card<br>Illus. [[Shigenori Negishi]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Tornadus}} in its {{form|Tornadus|Incarnate Forme}}.
+*This card's standard illustration was first featured on {{TCG ID|Vivid Voltage|Tornadus|142}} from the {{TCG|Vivid Voltage}} expansion.
+*This card's {{TCGP|Promo-B}} illustration was first featured on {{TCG ID|Brilliant Stars|Tornadus|126}} from the {{TCG|Brilliant Stars}} expansion.
+*'''Blow Through''' is an attack that first appeared on {{TCG ID|Dark Explorers|Tornadus-EX|90}} from the {{TCG|Dark Explorers}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Boreos (Traumhafte Parade 138)]]
+[[fr:Boréas (Parade Onirique 138)]]
+[[it:Tornadus (Parata Fantasmagorica 138)]]
+[[ja:トルネロス (ポケポケ B2)]]
+[[zh:龙卷云（B2）]]

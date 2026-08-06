@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Regirock
+|ja name=レジロック
+|trans name=Regirock
+|species=Regirock
+|type=Fighting
+|image=RegirockSpace-TimeSmackdown87.png
+|illustrator=Tomokazu Komiya
+|hp=120
+|weakness=Grass
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=087/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Regirock''' (Japanese: '''レジロック''' ''Regirock'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Ability/Pocket
+|type=Fighting
+|name=Exoskeleton
+|jname=かたいからだ
+|jtrans=Hard Body
+|effect=This Pokémon takes −20 damage from attacks.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Boulder Crush
+|jname=ロックスマッシュ
+|jtrans=Rock Smash
+|damage=100
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Regirock
+|species=Rock Peak
+|ndex=0377
+|height=5'7"
+|jheight=1.7
+|weight=507.1
+|jweight=230.0
+|dex=Every bit of Regirock's body is made of stone. As parts of its body erode, this Pokémon sticks rocks to itself to repair what's been lost.
+|jdex=体の あらゆる 部分が 岩で できている。 体が 割れても 自分で 岩を つけて 治す。
+}}
+
+==Trivia==
+===Origin===
+*'''Exoskeleton''' is an {{TCG|Ability}} that first appeared on {{TCG ID|Roaring Skies|Shelgon|56}} from the {{TCG|Roaring Skies}} expansion.
+*'''Boulder Crush''' is an attack that first appeared on {{TCG ID|Emerging Powers|Terrakion|63}} from the {{TCG|Emerging Powers}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Regirock (Kollision von Raum und Zeit 087)]]
+[[es:Regirock (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Regirock (Choc Spatio-Temporel 087)]]
+[[it:Regirock (Scontro Spaziotemporale 87)]]
+[[ja:レジロック (ポケポケ A2)]]
+[[zh:雷吉洛克（A2）]]

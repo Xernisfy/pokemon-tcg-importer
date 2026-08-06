@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Heliolisk
+|ja name=エレザード
+|trans name=Elezard
+|species=Heliolisk
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HelioliskCrimsonBlaze29.png|illustrator=kawayoo|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HelioliskPromo-B18.png|illustrator=Sumiyoshi Kizuki|tab caption=Promo}}
+|hp=100
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Helioptile
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=029/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=018/P-B}}
+}}
+
+'''Heliolisk''' (Japanese: '''エレザード''' ''Elezard'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Thunderbolt
+|jname=１０まんボルト
+|jtrans=100,000 Volts
+|damage=120
+|effect=Discard all Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Heliolisk
+|species=Generator
+|ndex=0695
+|height=3'3"
+|jheight=1.0
+|weight=46.3
+|jweight=21.0
+|dex=One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.
+|jdex=襟巻を 広げて 太陽光を 浴びると 大都会で 使われる 電気を 1匹で 発電する。
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} print of this card was available via special wonder picks during the Goomy [[Wonder Pick Event (Goomy)|Wonder Pick Event]], which ran from January 9 to 19, 2026.
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=HelioliskCrimsonBlaze29.png
+|caption1=Uncommon card<br>Illus. [[kawayoo]]
+|image2=HelioliskPromo-B18.png
+|caption2=Promo card<br>Illus. [[Sumiyoshi Kizuki]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|XY Promo|Heliolisk|47}}, one of the {{TCG|XY Black Star Promos}}. 
+*This card's {{TCGP|Promo-B}} illustration was first featured on {{TCG ID|Team Up|Heliolisk|50}} from the {{TCG|Team Up}} expansion.
+*{{m|Thunderbolt}} is a [[move]] in the [[Pokémon games]] that {{p|Heliolisk}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Elezard (Feuerrote Flammen 029)]]
+[[es:Heliolisk (Fuego Carmesí TCG Pocket)]]
+[[fr:Iguolta (Embrasement Écarlate 029)]]
+[[it:Heliolisk (Fiamme Cremisi 29)]]
+[[ja:エレザード (ポケポケ B1a)]]
+[[zh:光电伞蜥（B1a）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Purrloin
+|ja name=チョロネコ
+|trans name=Choroneko
+|species=Purrloin
+|type=Darkness
+|image=PurrloinMythicalIsland51.png
+|illustrator=Kagemaru Himeno
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=051/068|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Purrloin''' (Japanese: '''チョロネコ''' ''Choroneko'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Scratch
+|jname=ひっかく
+|jtrans=Scratch
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Purrloin
+|species=Devious
+|ndex=0509
+|height=1'4"
+|jheight=0.4
+|weight=22.3
+|jweight=10.1
+|dex=It steals things from people just to amuse itself with their frustration. A rivalry exists between this Pokémon and Nickit.
+|jdex=困った 姿を 見るために ひとの ものを 盗み出す。 クスネとは ライバルなのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Black & White|Purrloin|66}} from the {{TCG|Black & White}} expansion.
+**Both cards have the {{m|Scratch}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Purrloin}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Felilou (Mysteriöse Insel 051)]]
+[[es:Purrloin (La Isla Singular TCG Pocket)]]
+[[fr:Chacripan (L'Île Fabuleuse 051)]]
+[[it:Purrloin (L'Isola Misteriosa 51)]]
+[[ja:チョロネコ (ポケポケ A1a)]]
+[[zh:扒手猫（A1a）]]

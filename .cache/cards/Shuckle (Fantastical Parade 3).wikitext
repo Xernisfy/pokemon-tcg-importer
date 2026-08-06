@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Shuckle
+|ja name=ツボツボ
+|trans name=Tsubotsubo
+|species=Shuckle
+|type=Grass
+|image=ShuckleFantasticalParade3.png
+|illustrator=Yuriko Akase
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=003/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Shuckle''' (Japanese: '''ツボツボ''' ''Tsubotsubo'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Guard Press
+|jname=ガードプレス
+|jtrans=Guard Press
+|damage=40
+|effect=During your opponent's next turn, this Pokémon takes −20 damage from attacks.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Shuckle
+|species=Mold
+|ndex=0213
+|height=2'
+|jheight=0.6
+|weight=45.2
+|jweight=20.5
+|dex=The berries stored in its vaselike shell eventually become a thick, pulpy juice. 
+|jdex=ツボのような 甲羅の 中に ためこんだ 木の実は いつの間にか ドロドロの ジュースに 変わる。
+}}
+
+==Trivia==
+===Origin===
+*'''Guard Press''' is an attack that first appeared on {{TCG ID|Unleashed|Steelix|24}} from the {{TCG|Unleashed}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pottrott (Traumhafte Parade 003)]]
+[[fr:Caratroc (Parade Onirique 003)]]
+[[it:Shuckle (Parata Fantasmagorica 3)]]
+[[ja:ツボツボ (ポケポケ B2)]]
+[[zh:壶壶（B2）]]

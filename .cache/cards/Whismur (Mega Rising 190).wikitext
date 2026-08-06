@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Whismur
+|ja name=ゴニョニョ
+|trans name=Gonyonyo
+|species=Whismur
+|type=Colorless
+|image=WhismurMegaRising190.png
+|illustrator=Tika Matsuno
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=190/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+}}
+
+'''Whismur''' (Japanese: '''ゴニョニョ''' ''Gonyonyo'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Pound
+|jname=はたく
+|jtrans=Pound
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Whismur
+|category=Whisper
+|ndex=0293
+|height=2'
+|jheight=0.6
+|weight=35.9
+|jweight=16.3
+|dex=When Whismur cries, the sound of its own voice startles it, making the Pokémon cry even louder. It cries until its exhausted, then it falls asleep.
+|jdex=鳴きはじめると 自分の 声に 驚いて さらに 激しく 鳴く。 鳴き疲れると 眠ってしまう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Vivid Voltage|Whismur|135}} from the {{TCG|Vivid Voltage}} expansion.
+*{{m|Pound}} is a [[move]] in the [[Pokémon games]] that {{p|Whismur}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flurmel (Mega-Aufstieg 190)]]
+[[es:Whismur (Megaascenso TCG Pocket)]]
+[[fr:Chuchmur (Méga-Ascension 190)]]
+[[it:Whismur (Mega Ascesa 190)]]
+[[ja:ゴニョニョ (ポケポケ B1)]]
+[[zh:咕妞妞（B1）]]

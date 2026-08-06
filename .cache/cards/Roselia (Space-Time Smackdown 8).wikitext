@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Roselia
+|ja name=ロゼリア
+|trans name=Roselia
+|species=Roselia
+|type=Grass
+|image=RoseliaSpace-TimeSmackdown8.png
+|illustrator=kirisAki
+|hp=70
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=008/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Roselia''' (Japanese: '''ロゼリア''' ''Roselia'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Sting
+|jname=チクチクさす
+|jtrans=Stinging Stab
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Roselia
+|species=Thorn
+|ndex=0315
+|height=1'
+|jheight=0.3
+|weight=4.4
+|jweight=2.0
+|dex=Its flowers give off a relaxing fragrance. The stronger its aroma, the healthier the Roselia is.
+|jdex=花の 香りを かぐと 気持ちが リラックスする。 香りの 強い ロゼリアは 元気な 証拠。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Wild Blaze|Roselia|8}} from the {{TCG|Flashfire}} expansion.
+*'''Sting''' is an attack that first appeared on {{TCG ID|Gym Challenge|Koga's Weedle|82}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Roselia (Kollision von Raum und Zeit 008)]]
+[[es:Roselia (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Rosélia (Choc Spatio-Temporel 008)]]
+[[it:Roselia (Scontro Spaziotemporale 8)]]
+[[ja:ロゼリア (ポケポケ A2)]]
+[[zh:毒蔷薇（A2）]]

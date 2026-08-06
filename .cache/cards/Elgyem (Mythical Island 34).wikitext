@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Elgyem
+|ja name=リグレー
+|trans name=Ligray
+|species=Elgyem
+|type=Psychic
+|image=ElgyemMythicalIsland34.png
+|illustrator=Kouki Saitou
+|hp=60
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=034/068|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Elgyem''' (Japanese: '''リグレー''' ''Ligray'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Headbutt
+|jname=ずつき
+|jtrans=Headbutt
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Elgyem
+|species=Cerebral
+|ndex=0605
+|height=1'8"
+|jheight=0.5
+|weight=19.8
+|jweight=9.0
+|dex=If this Pokémon stands near a TV, strange scenery will appear on the screen. That scenery is said to be from its home.
+|jdex=テレビのそばに いると モニターに 奇妙な 景色が 映る。 リグレーの 故郷だと いわれる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Plasma Storm|Elgyem|68}} from the {{TCG|Plasma Storm}} expansion.
+*{{m|Headbutt}} is a [[move]] in the [[Pokémon games]] that {{p|Elgyem}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pygraulon (Mysteriöse Insel 034)]]
+[[es:Elgyem (La Isla Singular TCG Pocket)]]
+[[fr:Lewsor (L'Île Fabuleuse 034)]]
+[[it:Elgyem (L'Isola Misteriosa 34)]]
+[[ja:リグレー (ポケポケ A1a)]]
+[[zh:小灰怪（A1a）]]

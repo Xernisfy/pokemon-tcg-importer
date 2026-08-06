@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Masquerain
+|ja name=アメモース
+|trans name=Amemoth
+|species=Masquerain
+|type=Grass
+|image=MasquerainCelestialGuardians4.png
+|illustrator=Kanako Eo
+|hp=90
+|weakness=Fire
+|retreat cost=0
+|evo stage=Stage 1
+|prevo name=Surskit
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=004/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Masquerain''' (Japanese: '''アメモース''' ''Amemoth'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Bug Buzz
+|jname=むしのさざめき
+|jtrans=Insect Noise
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Masquerain
+|category=Eyeball 
+|ndex=0284
+|height=2'7"
+|jheight=0.8
+|weight=7.9
+|jweight=3.6
+|dex=It flaps its four wings to hover and fly freely in any direction—to and fro and sideways.
+|jdex=4枚の　羽で　浮かび上がり　前後　左右　自由自在に　飛び回る　ことが　できる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Primal Clash|Masquerain|14}} from the {{TCG|Primal Clash}} expansion.
+*{{m|Bug Buzz}} is a [[move]] in the [[Pokémon games]] that {{p|Masquerain}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Maskeregen (Hüter des Firmaments 004)]]
+[[es:Masquerain (Guardianes Celestiales TCG Pocket)]]
+[[fr:Maskadra (Gardiens Astraux 004)]]
+[[it:Masquerain (Guardiani Astrali 4)]]
+[[ja:アメモース (ポケポケ A3)]]
+[[zh:雨翅蛾（A3）]]

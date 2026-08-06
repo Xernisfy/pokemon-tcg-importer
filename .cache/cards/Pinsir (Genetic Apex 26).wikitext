@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pinsir
+|ja name=カイロス
+|trans name=Kailios
+|species=Pinsir
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PinsirGeneticApex26.png|illustrator=Eri Yamaki|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PinsirGeneticApex229.png|illustrator=Scav|tab caption=Illustration Rare}}
+|hp=90
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=026/226|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=229/226|pack=Charizard|rarity=Star|rarity count=1}}
+}}
+
+'''Pinsir''' (Japanese: '''カイロス''' ''Kailios'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Double Horn
+|jname=ダブルホーン
+|jtrans=Double Horn
+|damage=50×
+|effect=Flip 2 coins. This attack does 50 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Pinsir
+|species=Stag Beetle
+|ndex=0127
+|height=4'11"
+|jheight=1.5
+|weight=121.3
+|jweight=55.0
+|dex=These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender.
+|jdex=ツノで　互いを　格付けする｡ 太く　立派な　ツノを　持つ カイロスほど　異性に　人気｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=PinsirGeneticApex26.png
+|caption1=Uncommon card<br>Illus. [[Eri Yamaki]]
+|image2=PinsirGeneticApex229.png
+|caption2=Illustration rare card<br>Illus. [[Scav]]
+}}
+
+==Trivia==
+This card is one of several featured in the {{TCGP|Genetic Apex}} expansion's "Safari Zone" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]], all of which can be found in the [[Kanto Safari Zone]] in Generations {{gen|I}} and {{gen|III}}.
+
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Team Up|Pinsir|9}} from the {{TCG|Team Up}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pinsir (Unschlagbare Gene 026)]]
+[[es:Pinsir (Genes Formidables TCG Pocket)]]
+[[fr:Scarabrute (Puissance Génétique 026)]]
+[[it:Pinsir (Geni Supremi 26)]]
+[[ja:カイロス (ポケポケ A1)]]
+[[zh:凯罗斯（A1）]]

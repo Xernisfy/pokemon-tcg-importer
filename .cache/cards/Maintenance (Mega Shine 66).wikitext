@@ -1,0 +1,45 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Maintenance
+|ja name=メンテナンス
+|trans name=Maintenance
+|subtype=Item
+|image=MaintenanceMegaShine66.png
+|illustrator=Toyste Beach
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=066/069}}
+}}
+
+'''Maintenance''' (Japanese: '''メンテナンス''' ''Maintenance'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Shuffle 2 cards from your hand into your deck. Draw a card, If you can't shuffle in 2 cards, you can't use this card.
+}}
+
+==Trivia==
+*This card's effect is identical to that of the {{TCG|Furious Fists}} print of the {{TCG|Maintenance}} card from the [[Pokémon Trading Card Game]].
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Furious Fists|Maintenance|96}} from the {{TCG|Furious Fists}} expansion.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=メンテナンス ''Maintenance''
+|zh_yue=維護 ''Wàihwuh''
+|zh_cmn=維護 ''Wéihù''
+|fr=Entretien
+|de=Wartung
+|it=Manutenzione
+|ko=메인터넌스 ''Maintenance''
+|pt_br=Manutenção
+|es=Mantenimiento
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wartung (TCG Pocket)]]
+[[fr:Entretien (Méga-Rayonnement 066)]]
+[[it:Manutenzione (Mega Splendore 66)]]
+[[ja:メンテナンス (ポケポケ)]]

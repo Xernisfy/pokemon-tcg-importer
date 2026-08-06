@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Corviknight
+|ja name=アーマーガア
+|trans name=Armorga
+|species=Corviknight
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CorviknightMegaRising175.png|illustrator=Ryuta Fuse|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CorviknightMegaRising246.png|illustrator=hncl|tab caption=Illustration Rare}}
+|hp=140
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Corvisquire
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=175/226|pack=Mega Blaziken|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=246/226|pack=Mega Blaziken|rarity=Star|rarity count=1}}
+}}
+
+'''Corviknight''' (Japanese: '''アーマーガア''' ''Armorga'') is a {{ct|Metal}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Colorless}}
+|name=Iron Wings
+|jname=くろがねのつばさ
+|jtrans=Iron Wing
+|damage=100
+|effect=Discard 2 {{e|Metal}} Energy from this Pokémon. During your opponent's next turn, this Pokémon takes −50 damage from attacks.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Corviknight
+|category=Raven
+|ndex=0823
+|height=7'3"
+|jheight=2.2
+|weight=165.3
+|jweight=75.0
+|dex=Although its wings have partly turned to steel and become heavy as a result, this Pokémon flies through the skies with ease.
+|jdex=羽の 一部が 鋼に 変化。 重たい 翼を ものともせずに 大空を ゆうゆうと 飛びまわる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=CorviknightMegaRising175.png
+|caption1=Rare card<br>Illus. [[Ryuta Fuse]]
+|image2=CorviknightMegaRising246.png
+|caption2=Illustration rare card<br>Illus. [[hncl]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Fusion Strike|Corviknight|190}} from the {{TCG|Fusion Strike}} expansion.
+*'''Iron Wings''' is an attack that first appeared on {{TCG ID|Sword & Shield|Corviknight|135}} from the {{TCG|Sword & Shield}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Krarmor (Mega-Aufstieg 175)]]
+[[es:Corviknight (Megaascenso TCG Pocket)]]
+[[fr:Corvaillus (Méga-Ascension 175)]]
+[[it:Corviknight (Mega Ascesa 175)]]
+[[ja:アーマーガア (ポケポケ B1)]]
+[[zh:钢铠鸦（B1）]]

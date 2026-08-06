@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Serena
+|ja name=セレナ
+|trans name=Serena
+|subtype=Supporter
+|illustrator=En Morikura
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SerenaCrimsonBlaze69.png|illustrator=En Morikura|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SerenaCrimsonBlaze82.png|illustrator=En Morikura|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=069/069}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Star|rarity count=2|number=082/069}}
+}}
+
+'''Serena''' (Japanese: '''セレナ''' ''Serena'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Put a random {{TCGP|Mega Evolution Pokémon ex}} from your deck into your hand.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=SerenaCrimsonBlaze69.png
+|caption1=Uncommon card<br>Illus. [[En Morikura]]
+|image2=SerenaCrimsonBlaze82.png
+|caption2=Super rare card<br>Illus. [[En Morikura]]
+}}
+
+==Trivia==
+* {{TCG|Serena}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+===Origin===
+*{{ga|Serena}} is the female [[player character]] in {{g|X and Y}}.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=セレナ ''Serena''
+|zh_yue=莎莉娜 ''Sāleihnàh''
+|zh_cmn=莎莉娜 ''Shālìnà''
+|fr=Serena
+|de=Serena
+|it=Serena
+|ko=세레나 ''Serena''
+|pt_br=Serena
+|es=Serena
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Serena (TCG Pocket)]]
+[[fr:Serena (Embrasement Écarlate 069)]]
+[[it:Serena (Fiamme Cremisi 69)]]
+[[ja:セレナ (ポケポケ)]]
+[[zh:莎莉娜（TCGP）]]

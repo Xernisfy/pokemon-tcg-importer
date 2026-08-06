@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Comfey
+|ja name=キュワワー
+|trans name=Cuwawa
+|species=Comfey
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ComfeyCelestialGuardians80.png|illustrator=Sanosuke Sakuma|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ComfeyCelestialGuardians168.png|illustrator=mashu|tab caption=Illustration Rare}}
+|hp=70
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=080/155|pack=Solgaleo|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=168/155|pack=Solgaleo|rarity=Star|rarity count=1}}
+}}
+
+'''Comfey''' (Japanese: '''キュワワー''' ''Cuwawa'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Flower Shield
+|jname=フラワーガード
+|jtrans=Flower Guard
+|effect=Each of your Pokémon that has any {{e|Psychic}} Energy attached recovers from all {{TCG|Special Condition}}s and can't be affected by any Special Conditions.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Spinning Attack
+|jname=かいてんアタック
+|jtrans=Spinning Attack
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Comfey
+|species=Posy Picker
+|ndex=0764
+|height=4"
+|jheight=0.1
+|weight=0.7
+|jweight=0.3
+|dex=Comfey picks flowers with its vine and decorates itself with them. For some reason, flowers won't wither once they're attached to a Comfey.
+|jdex=ツルを 使って 花を 摘み 自分を 飾る。 体に ついた 花は なぜか 枯れない。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=ComfeyCelestialGuardians80.png
+|caption1=Rare card<br>Illus. [[Sanosuke Sakuma]]
+|image2=ComfeyCelestialGuardians168.png
+|caption2=Illustration rare card<br>Illus. [[mashu]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Guardians Rising|Comfey|93}} from the {{TCG|Guardians Rising}} expansion.
+*{{m|Flower Shield}} is a [[move]] in the [[Pokémon games]] that {{p|Comfey}} can learn.
+*'''Spinning Attack''' is an attack that first appeared on {{TCG ID|Vending|Staryu|S3}} from {{TCG|Expansion Sheet 3}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Curelei (Hüter des Firmaments 080)]]
+[[es:Comfey (Guardianes Celestiales TCG Pocket)]]
+[[fr:Guérilande (Gardiens Astraux 080)]]
+[[it:Comfey (Guardiani Astrali 80)]]
+[[ja:キュワワー (ポケポケ A3)]]
+[[zh:花疗环环（A3）]]

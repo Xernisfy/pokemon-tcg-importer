@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Heatmor
+|ja name=クイタラン
+|trans name=Kuitaran
+|species=Heatmor
+|type=Fire
+|image=HeatmorWisdomofSeaandSky37.png
+|illustrator=match
+|hp=90
+|weakness=Water
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=037/161|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Heatmor''' (Japanese: '''クイタラン''' ''Kuitaran'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Roasting Heat
+|jname=あぶりやき
+|jtrans=Cooking Heat
+|damage=30+
+|effect=If your opponent's Active Pokémon is {{TCG|Burned}}, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Heatmor
+|category=Anteater
+|ndex=0631
+|height=4'8"
+|jheight=1.4
+|weight=127.9
+|jweight=58.0
+|dex=There's a hole in its tail that allows it to draw in the air it needs to keep its fire burning. If the hole gets blocked, this Pokémon will fall ill.
+|jdex=しっぽの 穴から 空気を 取りこみ 炎を 燃やす。 穴を 塞がれると 具合が 悪くなる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BREAKpoint|Heatmor|15}} from the {{TCG|BREAKpoint}} expansion.
+*'''Roasting Heat''' is an attack that first appeared on {{TCG ID|Aquapolis|Ninetales|H19}} from the {{TCG|Aquapolis}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Furnifraß (Weisheit von Meer und Himmel 037)]]
+[[es:Heatmor (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Aflamanoir (Sagesse entre Ciel et Mer 037)]]
+[[it:Heatmor (La Via del Cielo e del Mare 37)]]
+[[ja:クイタラン (ポケポケ A4)]]
+[[zh:熔蚁兽（A4）]]

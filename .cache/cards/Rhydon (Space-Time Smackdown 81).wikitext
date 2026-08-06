@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rhydon
+|ja name=サイドン
+|trans name=Sidon
+|species=Rhydon
+|type=Fighting
+|image=RhydonSpace-TimeSmackdown81.png
+|illustrator=Oswaldo KATO
+|hp=110
+|weakness=Grass
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Rhyhorn
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=081/155|pack=Palkia|rarity=Diamond|rarity count=2}}
+}}
+
+'''Rhydon''' (Japanese: '''サイドン''' ''Sidon'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Wrack Down
+|jname=たたきつぶす
+|jtrans=Wrecking Smash
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Rhydon
+|species=Drill
+|ndex=0112
+|height=6'3"
+|jheight=1.9
+|weight=264.6
+|jweight=120.0
+|dex=It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.
+|jdex=進化して　後ろ足だけで 立つようになった｡　ツノで　突くと 岩石にも　穴を　開けてしまう｡
+}}
+
+==Trivia==
+*This card is one of several featured in the {{TCGP|Space-Time Smackdown}} expansion's "Ecosystem of Stark Mountain" [[Space-Time Smackdown (TCG Pocket)#Themed Collections|Themed Collection]]. All of the featured standard cards are illustrated by [[Oswaldo KATO]] and feature {{p|Heatran}}'s [[footprint]]s in the background; all four Pokémon are also featured in {{TCG ID|Space-Time Smackdown|Heatran|174}}'s illustration rare print. The name of the collection implies that all of their illustrations are set in [[Stark Mountain]], where {{p|Heatran}} and {{p|Rhydon}} can be found in {{game|Diamond and Pearl|s|Pokémon Diamond, Pearl}}, {{game|Platinum||Platinum}}, {{game|Brilliant Diamond and Shining Pearl|s|Brilliant Diamond, and Shining Pearl}}.
+
+===Origin===
+*'''Wrack Down''' is an attack that first appeared on {{TCG ID|Platinum|Giratina|10}} from the {{TCG|Platinum}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rizeros (Kollision von Raum und Zeit 081)]]
+[[es:Rhydon (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Rhinoféros (Choc Spatio-Temporel 081)]]
+[[it:Rhydon (Scontro Spaziotemporale 81)]]
+[[ja:サイドン (ポケポケ A2)]]
+[[zh:钻角犀兽（A2）]]

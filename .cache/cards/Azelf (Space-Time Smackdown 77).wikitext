@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Azelf
+|ja name=アグノム
+|trans name=Agnome
+|species=Azelf
+|type=Psychic
+|image=AzelfSpace-TimeSmackdown77.png
+|illustrator=AKIRA EGAWA
+|hp=70
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=077/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Azelf''' (Japanese: '''アグノム''' ''Agnome'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Psychic Arrow
+|jname=サイコアロー
+|jtrans=Psycho Arrow
+|damage=
+|effect=This attack does 20 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Azelf
+|species=Willpower
+|ndex=0482
+|height=1'
+|jheight=0.3
+|weight=0.7
+|jweight=0.3
+|dex=Known as "The Being of Willpower." It sleeps at the bottom of a lake to keep the world in balance.
+|jdex=意思の神と 呼ばれている。 湖の 底で 眠り続け 世界の バランスを とっている。
+}}
+
+==Trivia==
+===Origin===
+*'''Psychic Arrow''' is an attack that first appeared on {{TCG ID|Silver Tempest|Beheeyem|80}} from the {{TCG|Silver Tempest}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tobutz (Kollision von Raum und Zeit 077)]]
+[[es:Azelf (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Créfadet (Choc Spatio-Temporel 077)]]
+[[it:Azelf (Scontro Spaziotemporale 77)]]
+[[ja:アグノム (ポケポケ A2)]]
+[[zh:亚克诺姆（A2）]]

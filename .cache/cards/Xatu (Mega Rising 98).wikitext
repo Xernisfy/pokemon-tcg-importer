@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Xatu
+|ja name=ネイティオ
+|trans name=Natio
+|species=Xatu
+|type=Psychic
+|image=XatuMegaRising98.png
+|illustrator=Masakazu Fukuda
+|hp=100
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Natu
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=098/226}}
+}}
+
+'''Xatu''' (Japanese: '''ネイティオ''' ''Natio'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}{{e|Colorless}}
+|name=Zen Headbutt
+|jname=しねんのずつき
+|jtrans=Thought Headbutt
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Xatu
+|species=Mystic
+|ndex=0178
+|height=4'11"
+|jheight=1.5
+|weight=33.1
+|jweight=15.0
+|dex=This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.
+|jdex=過去と 未来を 見通せる。 毎日 太陽の 動きを 見続けている 不思議な ポケモン。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Unseen Forces|Xatu|49}} from the {{TCG|EX Unseen Forces}} expansion.
+*{{m|Zen Headbutt}} is a [[move]] in the [[Pokémon games]] that {{p|Xatu}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Xatu (Mega-Aufstieg 098)]]
+[[es:Xatu (Megaascenso TCG Pocket)]]
+[[fr:Xatu (Méga-Ascension 098)]]
+[[it:Xatu (Mega Ascesa 98)]]
+[[ja:ネイティオ (ポケポケ B1)]]
+[[zh:天然鸟（B1）]]

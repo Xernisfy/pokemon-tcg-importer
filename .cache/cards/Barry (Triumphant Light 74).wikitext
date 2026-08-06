@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Barry
+|ja name=ジュン
+|trans name=Jun
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BarryTriumphantLight74.png|illustrator=Hideki Ishikawa|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BarryTriumphantLight89.png|illustrator=Hideki Ishikawa|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=074/075|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=089/075|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Barry''' (Japanese: '''ジュン''' ''Jun'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=During this turn, attacks used by your {{TCGP|Snorlax}}, {{TCGP|Heracross}}, and {{TCGP|Staraptor}} cost 2 less {{e|Colorless}} Energy.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=BarryTriumphantLight74.png
+|caption1=Uncommon card<br>Illus. [[Hideki Ishikawa]]
+|image2=BarryTriumphantLight89.png
+|caption2=Super rare card<br>Illus. [[Hideki Ishikawa]]
+}}
+
+==Trivia==
+* {{TCG|Barry}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*{{ga|Barry}} is a [[rival]] character in {{game|Diamond and Pearl|s|Pokémon Diamond, Pearl}}, {{v2|Platinum}}, {{pkmn|Brilliant Diamond and Shining Pearl|Brilliant Diamond, and Shining Pearl}}. Barry uses {{p|Snorlax}}, {{p|Heracross}}, and {{p|Staraptor}} in his late-game and post-game teams in these games.
+** The standard print of this card—along with the {{TCG ID|Triumphant Light|Heracross|1}}, {{TCG ID|Triumphant Light|Snorlax|63}}, and {{TCG ID|Triumphant Light|Staraptor|68}} cards from {{TCGP|Triumphant Light}}—also make up the expansion's "Barry, the Rival" [[Triumphant Light (TCG Pocket)#Themed Collections|Themed Collection]].
+*The interior of the [[Sinnoh]] {{si|Pokémon League}}'s lobby—where players battle Barry for the final time before taking on the [[Elite Four#Sinnoh Elite Four|Elite Four]]—is featured in the regular print's illustration, as depicted in {{pkmn|Brilliant Diamond and Shining Pearl}}.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=ジュン ''Jun''
+|zh_yue=阿馴 ''A Sèuhn''
+|zh_cmn=阿馴 ''Ā Xún''
+|fr=René
+|de=Barry
+|it=Barry
+|ko=용식 ''Yongsik''
+|pt_br=Barry
+|es=Israel
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Barry (TCG Pocket)]]
+[[es:Israel (TCG Pocket)]]
+[[fr:René (Lumière Triomphale 074)]]
+[[it:Barry (Luce Trionfale 74)]]
+[[ja:ジュン (ポケポケ)]]
+[[zh:阿馴（TCGP）]]

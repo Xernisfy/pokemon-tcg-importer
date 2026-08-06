@@ -1,0 +1,45 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Steel Apron
+|ja name=鋼鉄のまえかけ
+|trans name=Steel Apron
+|subtype=Pokémon Tool
+|image=SteelApronWisdomofSeaandSky153.png
+|illustrator=Studio Bora Inc.
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=153/161|pack=Ho-Oh|rarity=Diamond|rarity count=2}}
+}}
+
+'''Steel Apron''' (Japanese: '''鋼鉄のまえかけ''' ''Steel Apron'') is a {{TCGP|Pokémon Tool}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Tool
+|rule=Pocket Tool
+|effect=The {{e|Metal}} Pokémon this card is attached to takes −10 damage from attacks from your opponent's Pokémon, recovers from all Special Conditions, and can't be affected by any Special Conditions.
+}}
+
+==Trivia==
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Pokémon Tool color}}|bordercolor={{TCG Pokémon Tool color dark}}|textcolor=FFF
+|ja=鋼鉄のまえかけ ''Kōtetsu no Maekake''
+|zh_yue=鋼鐵前掛 ''Gongtit Chìhngwa''
+|zh_cmn=鋼鐵前掛 ''Gāngtiě Qiánguà''
+|fr=Tablier d'Acier
+|de=Stählerne Schürze
+|it=Corazza Metallica
+|ko=강철 앞치마 ''Gangcheol Apchima''
+|pt_br=Avental de Aço
+|es=Peto de Acero
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Stählerne Schürze (TCG Pocket)]]
+[[es:Peto de Acero (TCG Pocket)]]
+[[fr:Tablier d'Acier (Sagesse entre Ciel et Mer 153)]]
+[[it:Corazza Metallica (La Via del Cielo e del Mare 153)]]
+[[ja:鋼鉄のまえかけ]]
+[[zh:钢铁前挂（TCGP）]]

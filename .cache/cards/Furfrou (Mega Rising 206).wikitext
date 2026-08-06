@@ -1,0 +1,87 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Furfrou
+|ja name=トリミアン
+|trans name=Trimmien
+|species=Furfrou
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FurfrouMegaRising206.png|illustrator=Teeziro|tab caption=Uncommon (206/226)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FurfrouMegaRising207.png|illustrator=Tika Matsuno|tab caption=Uncommon (207/226)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FurfrouMegaRising208.png|illustrator=kawayoo|tab caption=Uncommon (208/226)}}
+|hp=80
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Blaziken|rarity=Diamond|rarity count=2|number=206/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Altaria|rarity=Diamond|rarity count=2|number=207/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Diamond|rarity count=2|number=208/226}}
+}}
+
+'''Furfrou''' (Japanese: '''トリミアン''' ''Trimmien'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Fur Coat
+|jname=ファーコート
+|jtrans=Fur Coat
+|effect=This Pokémon takes –20 damage from attacks.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Sharp Fang
+|jname=するどいキバ
+|jtrans=Razor Fang
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Furfrou
+|species=Poodle
+|ndex=0676
+|height=3'11"
+|jheight=1.2
+|weight=61.7
+|jweight=28.0
+|dex=Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.
+|jdex=放っておくと 体毛は どんどん 伸び続けるが 信頼した 者にしか カットは 許さない。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=FurfrouMegaRising206.png
+|caption1=Uncommon card (206/226)<br>Illus. [[Teeziro]]
+|image2=FurfrouMegaRising207.png
+|caption2=Uncommon card (207/226)<br>Illus. [[Tika Matsuno]]
+|image3=FurfrouMegaRising208.png
+|caption3=Uncommon card (208/226)<br>Illus. [[kawayoo]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustrations feature various forms of {{p|Furfrou}}:
+**The 206/226 illustration features the Natural Form of Furfrou.
+**The 207/226 illustration features the Heart Trim of Furfrou.
+**The 208/226 illustration features the Pharaoh Trim of Furfrou.
+*{{a|Fur Coat}} is an [[Ability]] in the [[Pokémon games]] that {{p|Furfrou}} can have.
+*'''Sharp Fang'''{{'}}s Japanese name is that of the [[Razor Fang]], a [[held item]] in the [[Pokémon games]]. As an attack in the TCG, it first appeared on {{TCG ID|EX Hidden Legends|Golbat|36}} from the {{TCG|EX Hidden Legends}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Coiffwaff (Mega-Aufstieg 206)]]
+[[es:Furfrou (Megaascenso TCG Pocket)]]
+[[fr:Couafarel (Méga-Ascension 206)]]
+[[it:Furfrou (Mega Ascesa 206)]]
+[[ja:トリミアン (ポケポケ B1)]]
+[[zh:多丽米亚（B1）]]

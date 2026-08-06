@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Fletchling
+|ja name=ヤヤコマ
+|trans name=Yayakoma
+|species=Fletchling
+|type=Colorless
+|image=FletchlingCelestialGuardians131.png
+|illustrator=5ban Graphics
+|hp=50
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=131/155|pack=Solgaleo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Fletchling''' (Japanese: '''ヤヤコマ ''' ''Yayakoma'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Flap
+|jname=はばたく
+|jtrans=Flap
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Fletchling
+|species=Tiny Robin
+|ndex=0661
+|height=1'
+|jheight=0.3
+|weight=3.7
+|jweight=1.7
+|dex=This Pokémon is normally calm, but once it enters battle, its hormonal balance changes and it becomes aggressive.
+|jdex=普段は　穏やかな　気性だが 戦いになると　ホルモンバランスが 変わり　攻撃的になる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|XY|Fletchling|113}} from the {{TCG|XY}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dartiri (Hüter des Firmaments 131)]]
+[[es:Fletchling (Guardianes Celestiales TCG Pocket)]]
+[[fr:Passerouge (Gardiens Astraux 131)]]
+[[it:Fletchling (Guardiani Astrali 131)]]
+[[ja:ヤヤコマ (ポケポケ A3)]]
+[[zh:小箭雀（A3）]]

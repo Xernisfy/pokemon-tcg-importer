@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Finneon
+|ja name=ケイコウオ
+|trans name=Keikouo
+|species=Finneon
+|type=Water
+|image=FinneonMythicalIsland20.png
+|illustrator=sui
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=020/068|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Finneon''' (Japanese: '''ケイコウオ''' ''Keikouo'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Water Gun
+|jname=みずでっぽう
+|jtrans=Water Gun
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Finneon
+|species=Wing Fish
+|ndex=0456
+|height=1'4"
+|jheight=0.4
+|weight=15.4
+|jweight=7.0
+|dex=The line running down its side can store sunlight. It shines vividly at night.
+|jdex=体の 横側にある ラインは 太陽の光を 溜めておける。 夜になると 鮮やかに 輝く。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Finneon|39}} from the {{TCG|Unified Minds}} expansion.
+*{{m|Water Gun}} is a [[move]] in the [[Pokémon games]] that {{p|Finneon}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Finneon (Mysteriöse Insel 020)]]
+[[es:Finneon (La Isla Singular TCG Pocket)]]
+[[fr:Écayon (L'Île Fabuleuse 020)]]
+[[it:Finneon (L'Isola Misteriosa 20)]]
+[[ja:ケイコウオ (ポケポケ A1a)]]
+[[zh:荧光鱼（A1a）]]

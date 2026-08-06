@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Poochyena
+|ja name=ポチエナ
+|trans name=Pochiena
+|species=Poochyena
+|type=Darkness
+|image=PoochyenaSpace-TimeSmackdown100.png
+|illustrator=Midori Harada
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=100/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Poochyena''' (Japanese: '''ポチエナ''' ''Pochiena'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Bite
+|jname=かみつく
+|jtrans=Bite
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Poochyena
+|species=Bite
+|ndex=0261
+|height=1'8"
+|jheight=0.5
+|weight=30
+|jweight=13.6
+|dex=A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.
+|jdex=しつこい 性格の ポケモン。 目をつけた 獲物が ヘトヘトに 疲れるまで 追いかけ回す。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Power Keepers|Poochyena|58}} from the {{TCG|EX Power Keepers}} expansion.
+*{{m|Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Poochyena}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Fiffyen (Kollision von Raum und Zeit 100)]]
+[[es:Poochyena (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Medhyèna (Choc Spatio-Temporel 100)]]
+[[it:Poochyena (Scontro Spaziotemporale 100)]]
+[[ja:ポチエナ (ポケポケ A2)]]
+[[zh:土狼犬（A2）]]

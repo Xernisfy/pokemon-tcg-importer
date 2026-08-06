@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Regigigas
+|ja name=レジギガス
+|trans name=Regigigas
+|species=Regigigas
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RegigigasSpace-TimeSmackdown143.png|illustrator=Tomokazu Komiya|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RegigigasSpace-TimeSmackdown179.png|illustrator=Tetsu Kayama|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RegigigasPromo-A115.png|illustrator=Ryuta Fuse|tab caption=Promo}}
+|hp=140
+|weakness=Fighting
+|retreat cost=4
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=143/155|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=179/155|pack=Dialga|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=115/P-A|pack=Vol. 13}}
+}}
+
+'''Regigigas''' (Japanese: '''レジギガス''' ''Regigigas'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Raging Hammer
+|jname=レイジングハンマー
+|jtrans=Raging Hammer
+|damage=50+
+|effect=This attack does more damage equal to the damage this Pokémon has on it.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Regigigas
+|species=Colossal
+|ndex=0486
+|height=12'2"
+|jheight=3.7
+|weight=925.9
+|jweight=420.0
+|dex=It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.
+|jdex=特殊な 氷山や 岩石 マグマから 自分の 姿に 似た ポケモンを つくったと 言われる。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of five cards that could be pulled from Promo-A Vol. 13 packs; these were made available as part of the [[Raichu ex Drop Event]], which ran from October 6 to 16, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=RegigigasSpace-TimeSmackdown143.png
+|caption1=Rare card<br>Illus. [[Tomokazu Komiya]]
+|image2=RegigigasSpace-TimeSmackdown179.png
+|caption2=Illustration rare card<br>Illus. [[Tetsu Kayama]]
+|image3=RegigigasPromo-A115.png
+|caption3=Promo card<br>Illus. [[Ryuta Fuse]]
+}}
+
+==Trivia==
+*The illustration rare print of this card features the exterior of [[Snowpoint Temple]], where {{p|Regigigas}} can be found in {{game|Diamond and Pearl|s|Pokémon Diamond, Pearl}}, {{game|Platinum||Platinum}}, {{game|Brilliant Diamond and Shining Pearl|s|Brilliant Diamond, and Shining Pearl}}. It can be only be fought as long as {{P|Regirock}}, {{p|Regice}}, and {{p|Registeel}}—also featured in the illustration—are in the player's [[party]]. All four Pokémon are included in the {{TCGP|Space-Time Smackdown}} expansion with artwork by [[Tomokazu Komiya]] and, together, form the "Giants Unleashed" [[Space-Time Smackdown (TCG Pocket)#Themed Collections|Themed Collection]].
+
+===Origin===
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|SM Promo|Regigigas|243}}, one of the {{TCG|SM Black Star Promos}}.
+*'''Raging Hammer''' is an attack that first appeared on {{TCG ID|Next Destinies|Regigigas-EX|82}} from the {{TCG|Next Destinies}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Regigigas (Kollision von Raum und Zeit 143)]]
+[[es:Regigigas (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Regigigas (Choc Spatio-Temporel 143)]]
+[[it:Regigigas (Scontro Spaziotemporale 143)]]
+[[ja:レジギガス (ポケポケ A2)]]
+[[zh:雷吉奇卡斯（A2）]]

@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rowlet
+|ja name=モクロー
+|trans name=Mokuroh
+|species=Rowlet
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RowletCelestialGuardians10.png|illustrator=Saya Tsuruta|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RowletDeluxePackex39.png|illustrator=Saya Tsuruta|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RowletMegaRising290.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=010/155|pack=Lunala|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=038/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=039/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=290/226|pack=Mega Blaziken|rarity=Shiny|rarity count=1}}
+}}
+
+'''Rowlet''' (Japanese: '''モクロー''' ''Mokuroh'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Skill Dive
+|jname=ちょくげきひこう
+|jtrans=Direct Hit Flight
+|damage=
+|effect=This attack does 10 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Rowlet
+|category=Grass Quill 
+|ndex=0722
+|height=1'
+|jheight=0.3
+|weight=3.3
+|jweight=1.5
+|dex=It sends its feathers, which are as sharp as blades, flying in attack. Its legs are strong, so its kicks are also formidable.
+|jdex=刃物の ように 鋭い 羽を 飛ばして 攻撃。 足の力も 強く キックも 侮れないのだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=RowletCelestialGuardians10.png
+|caption1=Standard card<br>Illus. [[Saya Tsuruta]]
+|image2=RowletDeluxePackex39.png
+|caption2=Parallel foil card<br>Illus. [[Saya Tsuruta]]
+|image3=RowletMegaRising290.png
+|caption3=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+This card is almost identical to {{TCG ID|Cosmic Eclipse|Rowlet|18}} from the {{TCG|Cosmic Eclipse}} expansion, except for the {{TCG|Weakness}} modifier; the standard illustration and Pokédex entry are also the same.
+
+===Origin===
+*'''Skill Dive''' is an attack that first appeared on {{TCG ID|EX Team Rocket Returns|Dark Crobat|3}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Rowlet}}.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bauz (Hüter des Firmaments 010)]]
+[[es:Rowlet (Guardianes Celestiales 10 TCG Pocket)]]
+[[fr:Brindibou (Gardiens Astraux 010)]]
+[[it:Rowlet (Guardiani Astrali 10)]]
+[[ja:モクロー (ポケポケ A3 010)]]
+[[zh:木木枭（A3 010）]]

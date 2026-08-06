@@ -1,0 +1,558 @@
+{{TCGPocketExpansionPrevNext | prev = Triumphant Light | next = Celestial Guardians}}
+{{TCGPocketExpansionInfobox
+|setname=Shining Revelry
+|jasetname=シャイニングハイ
+|jasettrans=Shining High
+|setlogo=A2b Set Logo EN.png
+|release=March 27, 2025
+|cards=111 (72 + 39 secret)
+|collections=40 (32 + 8 secret)
+|dex missions=11 (10 + 1 secret)
+|deck missions=18
+|decks=9
+|battles=18
+}}
+'''Shining Revelry''' (Japanese: '''シャイニングハイ''' ''Shining High'') is the third themed booster pack, and fifth expansion overall, in [[Pokémon Trading Card Game Pocket]].
+
+== Information ==
+'''Shining Revelry''' is the third themed booster pack released through [[Pokémon Trading Card Game Pocket]]. The expansion focuses on [[Shiny Pokémon]] and marks the first appearance of Pokémon and characters from [[Generation IX]] in the game.
+
+Unlike previous Pokémon TCG Pocket booster packs, which each include five {{TCGP|Pokémon ex}} to collect, Shining Revelry includes nine instead (one of each type, excluding {{TCG|Dragon}}). This is due to the fact that, alongside the expansion, nine {{TCGP|ex Starter Decks}} were temporarily made available between March 28 and April 27, 2025, each relating to a different {{TCG|type}}, and each with a lead Pokémon ex. These are based on several real-world [[Pokémon Trading Card Game]] "Start Deck" products seen in Japan, such as the {{TCG|V Starter Decks}} and {{TCG|ex Start Decks}}. Players were able to redeem a Deck Ticket—of which only one was made available—for an ex Starter Deck, and would immediately receive all 20 cards in that deck as well as its theme deck list.
+
+Several connected Pokémon within Shining Revelry featured artwork by the same artist. While this was more commonplace in expansions up to and including the EX Series, it has since been seen less often, primarily reserved for special expansions such as {{TCG|151}}. The following all feature artwork by the same artist and are all part of [[#Themed Collections|Themed Collections]]:
+
+* {{TCG ID|Shining Revelry|Sprigatito|5}}, {{TCG ID|Shining Revelry|Floragato|6}}, and {{TCG ID|Shining Revelry|Meowscarada|7}} were all illustrated by [[mashu]] and are in the '''Sprigatito's Green Sprouting''' collection;
+* {{TCG ID|Shining Revelry|Magmar|11}} and {{TCG ID|Shining Revelry|Magmortar|12}} were both illustrated by [[Miki Tanaka]] and are in the '''Magmar's Evolution''' collection;
+* {{TCG ID|Shining Revelry|Dondozo|20}} and {{TCG ID|Shining Revelry|Tatsugiri|21}} form a combined illustration by [[Tomowaka]] and are in the '''Henchman and Boss?''' collection;
+* {{TCG ID|Shining Revelry|Pawmi|26}}, {{TCG ID|Shining Revelry|Pawmo|27}}, and {{TCG ID|Shining Revelry|Pawmot|28}} were all illustrated by [[Saboteri]] and are in the '''Extra Electrifying''' collection;
+* {{TCG ID|Shining Revelry|Abra|29}}, {{TCG ID|Shining Revelry|Kadabra|30}}, and {{TCG ID|Shining Revelry|Alakazam|31}} were all illustrated by [[Mousho]] and are in the '''Bewitching World''' collection;
+* {{TCG ID|Shining Revelry|Gimmighoul|36}} and {{TCG ID|Shining Revelry|Gholdengo|57}} were both illustrated by [[HYOGONOSUKE]] and are in the '''Pile of Coins''' collection;
+* {{TCG ID|Shining Revelry|Machoke|38}} and {{TCG ID|Shining Revelry|Machamp|39}} both feature previous artwork by [[Kouki Saitou]] and are in the '''1,000 Punches''' collection alongside {{TCG ID|Shining Revelry|Machop|37}};
+* {{TCG ID|Shining Revelry|Hitmonlee|40}} and {{TCG ID|Shining Revelry|Hitmonchan|41}} both feature previous artwork by [[Tomokazu Komiya]] originating from the {{TCG|Team Up}} expansion and are in the '''Punching & Kicking''' collection;
+* {{TCG ID|Shining Revelry|Ekans|45}} and {{TCG ID|Shining Revelry|Arbok|46}} both feature previous artwork by [[Midori Harada]] originating from the {{TCG|EX Sandstorm}} expansion and are in the '''Intimidating Patterns''' collection;
+* {{TCG ID|Shining Revelry|Shroodle|50}} and {{TCG ID|Shining Revelry|Grafaiai|51}} were both illustrated by [[Krgc]] and are in the '''Deep Forest Poison Patterns''' collection;
+* {{TCG ID|Shining Revelry|Tinkatink|52}} and {{TCG ID|Shining Revelry|Tinkatuff|53}} were both illustrated by [[miki kudo]] and are in the '''Huge Hammer''' collection alongside {{TCG ID|Shining Revelry|Tinkaton ex|54}};
+* {{TCG ID|Shining Revelry|Varoom|55}} and {{TCG ID|Shining Revelry|Revavroom|56}} were both illustrated by [[Souichirou Gunjima]] and are in the '''Menacing Motor Noise''' collection.
+
+== Card list ==
+{{TCG Set List/header|tablecol=9CD|bordercol=578|cellcol=EF7}}
+|-
+| 001/072 || {{TCG ID|Shining Revelry|Weedle|1}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 002/072 || {{TCG ID|Shining Revelry|Kakuna|2}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 003/072 || {{TCG ID|Shining Revelry|Beedrill ex|3|Beedrill}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 004/072 || {{TCG ID|Shining Revelry|Pinsir|4}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 005/072 || {{TCG ID|Shining Revelry|Sprigatito|5}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 006/072 || {{TCG ID|Shining Revelry|Floragato|6}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 007/072 || {{TCG ID|Shining Revelry|Meowscarada|7}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 008/072 || {{TCG ID|Shining Revelry|Charmander|8}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 009/072 || {{TCG ID|Shining Revelry|Charmeleon|9}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 010/072 || {{TCG ID|Shining Revelry|Charizard ex|10|Charizard}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 011/072 || {{TCG ID|Shining Revelry|Magmar|11}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 012/072 || {{TCG ID|Shining Revelry|Magmortar|12}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 013/072 || {{TCG ID|Shining Revelry|Paldean Tauros|13}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 014/072 || {{TCG ID|Shining Revelry|Tentacool|14}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 015/072 || {{TCG ID|Shining Revelry|Tentacruel|15}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 016/072 || {{TCG ID|Shining Revelry|Buizel|16}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 017/072 || {{TCG ID|Shining Revelry|Floatzel|17}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 018/072 || {{TCG ID|Shining Revelry|Wiglett|18}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 019/072 || {{TCG ID|Shining Revelry|Wugtrio ex|19|Wugtrio}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 020/072 || {{TCG ID|Shining Revelry|Dondozo|20}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 021/072 || {{TCG ID|Shining Revelry|Tatsugiri|21}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 022/072 || {{TCG ID|Shining Revelry|Pikachu ex|22|Pikachu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 023/072 || {{TCG ID|Shining Revelry|Voltorb|23}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 024/072 || {{TCG ID|Shining Revelry|Electrode|24}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 025/072 || {{TCG ID|Shining Revelry|Pachirisu|25}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 026/072 || {{TCG ID|Shining Revelry|Pawmi|26}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 027/072 || {{TCG ID|Shining Revelry|Pawmo|27}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 028/072 || {{TCG ID|Shining Revelry|Pawmot|28}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 029/072 || {{TCG ID|Shining Revelry|Abra|29}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 030/072 || {{TCG ID|Shining Revelry|Kadabra|30}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 031/072 || {{TCG ID|Shining Revelry|Alakazam|31}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 032/072 || {{TCG ID|Shining Revelry|Mr. Mime|32}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 033/072 || {{TCG ID|Shining Revelry|Drifloon|33}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 034/072 || {{TCG ID|Shining Revelry|Drifblim|34}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 035/072 || {{TCG ID|Shining Revelry|Giratina ex|35|Giratina}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 036/072 || {{TCG ID|Shining Revelry|Gimmighoul|36}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 037/072 || {{TCG ID|Shining Revelry|Machop|37}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 038/072 || {{TCG ID|Shining Revelry|Machoke|38}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 039/072 || {{TCG ID|Shining Revelry|Machamp|39}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 040/072 || {{TCG ID|Shining Revelry|Hitmonlee|40}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 041/072 || {{TCG ID|Shining Revelry|Hitmonchan|41}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 042/072 || {{TCG ID|Shining Revelry|Riolu|42}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 043/072 || {{TCG ID|Shining Revelry|Lucario ex|43|Lucario}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 044/072 || {{TCG ID|Shining Revelry|Flamigo|44}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 045/072 || {{TCG ID|Shining Revelry|Ekans|45}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 046/072 || {{TCG ID|Shining Revelry|Arbok|46}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 047/072 || {{TCG ID|Shining Revelry|Paldean Wooper|47}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 048/072 || {{TCG ID|Shining Revelry|Paldean Clodsire ex|48|Paldean Clodsire}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 049/072 || {{TCG ID|Shining Revelry|Spiritomb|49}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 050/072 || {{TCG ID|Shining Revelry|Shroodle|50}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 051/072 || {{TCG ID|Shining Revelry|Grafaiai|51}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 052/072 || {{TCG ID|Shining Revelry|Tinkatink|52}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 053/072 || {{TCG ID|Shining Revelry|Tinkatuff|53}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 054/072 || {{TCG ID|Shining Revelry|Tinkaton ex|54|Tinkaton}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 055/072 || {{TCG ID|Shining Revelry|Varoom|55}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 056/072 || {{TCG ID|Shining Revelry|Revavroom|56}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 057/072 || {{TCG ID|Shining Revelry|Gholdengo|57}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 058/072 || {{TCG ID|Shining Revelry|Rattata|58}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 059/072 || {{TCG ID|Shining Revelry|Raticate|59}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 060/072 || {{TCG ID|Shining Revelry|Jigglypuff|60}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 061/072 || {{TCG ID|Shining Revelry|Wigglytuff|61}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 062/072 || {{TCG ID|Shining Revelry|Lickitung|62}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 063/072 || {{TCG ID|Shining Revelry|Lickilicky|63}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 064/072 || {{TCG ID|Shining Revelry|Bidoof|64}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 065/072 || {{TCG ID|Shining Revelry|Bibarel ex|65|Bibarel}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 066/072 || {{TCG ID|Shining Revelry|Buneary|66}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 067/072 || {{TCG ID|Shining Revelry|Lopunny|67}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 068/072 || {{TCG ID|Shining Revelry|Cyclizar|68}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 069/072 || {{TCG ID|Shining Revelry|Iono|69}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 070/072 || {{TCG ID|Shining Revelry|Pokémon Center Lady|70}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 071/072 || {{TCG ID|Shining Revelry|Red|71}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 072/072 || {{TCG ID|Shining Revelry|Team Rocket Grunt|72}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 073/072 || {{TCG ID|Shining Revelry|Meowscarada|73}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}}
+|-
+| 074/072 || {{TCG ID|Shining Revelry|Buizel|74}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}}
+|-
+| 075/072 || {{TCG ID|Shining Revelry|Tatsugiri|75}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}}
+|-
+| 076/072 || {{TCG ID|Shining Revelry|Grafaiai|76}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|1}}
+|-
+| 077/072 || {{TCG ID|Shining Revelry|Gholdengo|77}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|1}}
+|-
+| 078/072 || {{TCG ID|Shining Revelry|Wigglytuff|78}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}}
+|-
+| 079/072 || {{TCG ID|Shining Revelry|Beedrill ex|79|Beedrill}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}}
+|-
+| 080/072 || {{TCG ID|Shining Revelry|Charizard ex|80|Charizard}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|2}}
+|-
+| 081/072 || {{TCG ID|Shining Revelry|Wugtrio ex|81|Wugtrio}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}}
+|-
+| 082/072 || {{TCG ID|Shining Revelry|Pikachu ex|82|Pikachu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}}
+|-
+| 083/072 || {{TCG ID|Shining Revelry|Giratina ex|83|Giratina}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|2}}
+|-
+| 084/072 || {{TCG ID|Shining Revelry|Lucario ex|84|Lucario}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}}
+|-
+| 085/072 || {{TCG ID|Shining Revelry|Paldean Clodsire ex|85|Paldean Clodsire}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|2}}
+|-
+| 086/072 || {{TCG ID|Shining Revelry|Tinkaton ex|86|Tinkaton}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}}
+|-
+| 087/072 || {{TCG ID|Shining Revelry|Bibarel ex|87|Bibarel}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|2}}
+|-
+| 088/072 || {{TCG ID|Shining Revelry|Iono|88}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 089/072 || {{TCG ID|Shining Revelry|Pokémon Center Lady|89}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 090/072 || {{TCG ID|Shining Revelry|Red|90}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 091/072 || {{TCG ID|Shining Revelry|Team Rocket Grunt|91}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 092/072 || {{TCG ID|Shining Revelry|Pikachu ex|92|Pikachu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}}
+|-
+| 093/072 || {{TCG ID|Shining Revelry|Paldean Clodsire ex|93|Paldean Clodsire}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|2}}
+|-
+| 094/072 || {{TCG ID|Shining Revelry|Tinkaton ex|94|Tinkaton}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}}
+|-
+| 095/072 || {{TCG ID|Shining Revelry|Bibarel ex|95|Bibarel}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|2}}
+|-
+| 096/072 || {{TCG ID|Shining Revelry|Giratina ex|96|Giratina}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|3}}
+|-
+| 097/072 || {{TCG ID|Shining Revelry|Weedle|97}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 098/072 || {{TCG ID|Shining Revelry|Kakuna|98}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 099/072 || {{TCG ID|Shining Revelry|Charmander|99}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 100/072 || {{TCG ID|Shining Revelry|Charmeleon|100}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 101/072 || {{TCG ID|Shining Revelry|Wiglett|101}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 102/072 || {{TCG ID|Shining Revelry|Dondozo|102}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 103/072 || {{TCG ID|Shining Revelry|Pachirisu|103}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 104/072 || {{TCG ID|Shining Revelry|Riolu|104}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 105/072 || {{TCG ID|Shining Revelry|Varoom|105}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 106/072 || {{TCG ID|Shining Revelry|Revavroom|106}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 107/072 || {{TCG ID|Shining Revelry|Beedrill ex|107|Beedrill}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 108/072 || {{TCG ID|Shining Revelry|Charizard ex|108|Charizard}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 109/072 || {{TCG ID|Shining Revelry|Wugtrio ex|109|Wugtrio}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 110/072 || {{TCG ID|Shining Revelry|Lucario ex|110|Lucario}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 111/072 || {{TCG ID|Shining Revelry|Poké Ball|111}} || {{TCG Icon|Item}} || {{Rar/TCGP|Crown|1}}
+|}
+
+== Missions ==
+=== Dex Missions ===
+Shining Revelry has 10 regular {{DL|Mission (TCG Pocket)|Dex Missions}} and one hidden Dex Mission:
+
+{{TCGPocketMission/Header|reward=yes|bordercol=578|tablecol=9CD}}
+{{TCGPocketMission/Entry|mission=Register 5 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 10 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 15 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 20 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 25 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 30 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 35 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 40 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 50 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 60 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry)|num=5}}}}
+|-
+! colspan="2" | Secret Mission
+{{TCGPocketMission/Entry|mission=Register all {{Rar/TCGP|Diamond|1}} – {{Rar/TCGP|Diamond|4}} cards in the card dex|reward={{TCGPocketItem|Shiny Charizard|Shining Revelry: Shiny Charizard (profile icon)|type=Profile Icon}}|lastitem=yes}}
+|}
+
+=== Deck Missions ===
+Shining Revelry has nine [[deck]]s and 18 {{DL|Mission (TCG Pocket)|Deck Missions}}. Each deck has two missions:
+
+{{TCGPocketMission/Header|reward=yes|bordercol=578|tablecol=9CD}}
+{{TCGPocketMission/Entry|mission=Collect the highlight card(s) for [deck name]|reward={{TCGPocketItem|Rental Deck|[deck name] rental deck}}}}
+{{TCGPocketMission/Entry|mission=Collect cards for [deck name]|reward={{TCGPocketItem|Theme Deck List|[deck name] theme deck list}}|lastitem=yes}}
+|}
+
+The nine available decks related to Shining Revelry are: 
+
+{{TCGPocketExpansionDeck/Header|bordercol=578|tablecol=9CD}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Beedrill ex Deck|Shining Revelry}}|{{e|Grass}}|{{TCG ID|Shining Revelry|Beedrill ex|3}}, {{TCG ID|Shining Revelry|Meowscarada|7}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Charizard ex Deck|Shining Revelry}}|{{e|Fire}}|{{TCG ID|Shining Revelry|Charizard ex|10}}, {{TCG ID|Shining Revelry|Magmortar|12}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Wugtrio ex Deck|Shining Revelry}}|{{e|Water}}|{{TCG ID|Shining Revelry|Wugtrio ex|19}}, {{TCG ID|Shining Revelry|Dondozo|20}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Pikachu ex Deck|Shining Revelry}}|{{e|Lightning}}|{{TCG ID|Shining Revelry|Pikachu ex|22}}, {{TCG ID|Shining Revelry|Pawmot|28}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Giratina ex Deck|Shining Revelry}}|{{e|Psychic}}|{{TCG ID|Shining Revelry|Giratina ex|35}}, {{TCG ID|Shining Revelry|Alakazam|31}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Lucario ex Deck|Shining Revelry}}|{{e|Fighting}}|{{TCG ID|Shining Revelry|Lucario ex|43}}, {{TCG ID|Shining Revelry|Machamp|39}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Paldean Clodsire ex Deck|Shining Revelry}}|{{e|Darkness}}|{{TCG ID|Shining Revelry|Paldean Clodsire ex|48}}, {{TCG ID|Shining Revelry|Grafaiai|51}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Tinkaton ex Deck|Shining Revelry}}|{{e|Metal}}|{{TCG ID|Shining Revelry|Tinkaton ex|54}}, {{TCG ID|Shining Revelry|Gholdengo|57}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Bibarel ex Deck|Shining Revelry}}|{{e|Colorless}}|{{TCG ID|Shining Revelry|Bibarel ex|65}}, {{TCG ID|Shining Revelry|Wigglytuff|61}}|lastitem=yes}}
+|}
+
+=== Themed Collections ===
+Shining Revelry has 32 regular {{DL|Mission (TCG Pocket)|Themed Collections}} and eight hidden Themed Collections:
+
+{{TCGPocketCollection/Header|bordercol=578|tablecol=9CD}}
+{{TCGPocketCollection/Entry|collection=Burning Desire
+|cards={{TCG ID|Shining Revelry|Charmander|8}} (#008 or #099)<br>{{TCG ID|Shining Revelry|Charmeleon|9}} (#009 or #100)<br>{{TCG ID|Shining Revelry|Charizard ex|10}} (#010, #080, #108)
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×3}}
+}}
+{{TCGPocketCollection/Entry|collection=Magmar's Evolution
+|cards={{TCG ID|Shining Revelry|Magmar|11}} (#011)<br>{{TCG ID|Shining Revelry|Magmortar|12}} (#012)
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect Paldean Tauros
+|cards={{TCG ID|Shining Revelry|Paldean Tauros|13}} (#013) ×2
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Beach Peekaboo
+|cards={{TCG ID|Shining Revelry|Wiglett|18}} (#018 or #101)<br>{{TCG ID|Shining Revelry|Wugtrio ex|19}} (#019 or #109)
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×3}}
+}}
+{{TCGPocketCollection/Entry|collection=Henchman and Boss?
+|cards={{TCG ID|Shining Revelry|Dondozo|20}} (#020 or #102)<br>{{TCG ID|Shining Revelry|Tatsugiri|21}} (#021 or #075)
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Tangle of Tentacles
+|cards={{TCG ID|Shining Revelry|Tentacool|14}} (#014)<br>{{TCG ID|Shining Revelry|Tentacruel|15}} (#015)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Bobbing in the Waves
+|cards={{TCG ID|Shining Revelry|Buizel|16}} (#016 or #074)<br>{{TCG ID|Shining Revelry|Floatzel|17}} (#017)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Shadows of the Distortion World
+|cards={{TCG ID|Shining Revelry|Giratina ex|35}} (#035, #083, #096) ×2
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Bewitching World
+|cards={{TCG ID|Shining Revelry|Abra|29}} (#029)<br>{{TCG ID|Shining Revelry|Kadabra|30}} (#030)<br>{{TCG ID|Shining Revelry|Alakazam|31}} (#031)
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×2}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect Mr. Mime
+|cards={{TCG ID|Shining Revelry|Mr. Mime|32}} (#032) ×2
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=As the Wind Blows
+|cards={{TCG ID|Shining Revelry|Drifloon|33}} (#033)<br>{{TCG ID|Shining Revelry|Drifblim|34}} (#034)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Needling Frenzy
+|cards={{TCG ID|Shining Revelry|Weedle|1}} (#001 or #097)<br>{{TCG ID|Shining Revelry|Kakuna|2}} (#002 or #098)<br>{{TCG ID|Shining Revelry|Beedrill ex|3}} (#003, #079, #107)
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×3}}
+}}
+{{TCGPocketCollection/Entry|collection=Sprigatito's Green Sprouting
+|cards={{TCG ID|Shining Revelry|Sprigatito|5}} (#005)<br>{{TCG ID|Shining Revelry|Floragato|6}} (#006)<br>{{TCG ID|Shining Revelry|Meowscarada|7}} (#007 or #073)
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×2}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect Pinsir
+|cards={{TCG ID|Shining Revelry|Pinsir|4}} (#004) ×2
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Huge Hammer
+|cards={{TCG ID|Shining Revelry|Tinkatink|52}} (#052)<br>{{TCG ID|Shining Revelry|Tinkatuff|53}} (#053)<br>{{TCG ID|Shining Revelry|Tinkaton ex|54}} (#054, #086, #094)
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×3}}
+}}
+{{TCGPocketCollection/Entry|collection=Pile of Coins
+|cards={{TCG ID|Shining Revelry|Gimmighoul|36}} (#036)<br>{{TCG ID|Shining Revelry|Gholdengo|57}} (#057 or #77)
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Menacing Motor Noise
+|cards={{TCG ID|Shining Revelry|Varoom|55}} (#055 or #105)<br>{{TCG ID|Shining Revelry|Revavroom|56}} (#056 or #106)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Aura Masters
+|cards={{TCG ID|Shining Revelry|Riolu|42}} (#042 or #104)<br>{{TCG ID|Shining Revelry|Lucario ex|43}} (#043, #084, #110)
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×3}}
+}}
+{{TCGPocketCollection/Entry|collection=1,000 Punches
+|cards={{TCG ID|Shining Revelry|Machop|37}} (#037)<br>{{TCG ID|Shining Revelry|Machoke|38}} (#038)<br>{{TCG ID|Shining Revelry|Machamp|39}} (#039)
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Punching & Kicking
+|cards={{TCG ID|Shining Revelry|Hitmonlee|40}} (#040)<br>{{TCG ID|Shining Revelry|Hitmonchan|41}} (#041)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect Flamigo
+|cards={{TCG ID|Shining Revelry|Flamigo|44}} (#044) ×2
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Electric Cheeks
+|cards={{TCG ID|Shining Revelry|Pikachu ex|22}} (#022, #082, #092) ×2
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×3}}
+}}
+{{TCGPocketCollection/Entry|collection=Extra Electrifying
+|cards={{TCG ID|Shining Revelry|Pawmi|26}} (#026)<br>{{TCG ID|Shining Revelry|Pawmo|27}} (#027)<br>{{TCG ID|Shining Revelry|Pawmot|28}} (#028)
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×2}}
+}}
+{{TCGPocketCollection/Entry|collection=Exploding All Over the Place
+|cards={{TCG ID|Shining Revelry|Voltorb|23}} (#023)<br>{{TCG ID|Shining Revelry|Electrode|24}} (#024)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Dangerous Poison Spikes
+|cards={{TCG ID|Shining Revelry|Paldean Wooper|47}} (#047)<br>{{TCG ID|Shining Revelry|Paldean Clodsire ex|48}} (#048, #085, #093)
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×3}}
+}}
+{{TCGPocketCollection/Entry|collection=Deep Forest Poison Patterns
+|cards={{TCG ID|Shining Revelry|Shroodle|50}} (#050)<br>{{TCG ID|Shining Revelry|Grafaiai|51}} (#051 or #076)
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Intimidating Patterns
+|cards={{TCG ID|Shining Revelry|Ekans|45}} (#045)<br>{{TCG ID|Shining Revelry|Arbok|46}} (#046)
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect Spiritomb
+|cards={{TCG ID|Shining Revelry|Spiritomb|49}} (#049) ×2
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Diligent Nest-Building
+|cards={{TCG ID|Shining Revelry|Bidoof|64}} (#064)<br>{{TCG ID|Shining Revelry|Bibarel ex|65}} (#065, #087, #095)
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×3}}
+}}
+{{TCGPocketCollection/Entry|collection=Expanding Body
+|cards={{TCG ID|Shining Revelry|Jigglypuff|60}} (#060)<br>{{TCG ID|Shining Revelry|Wigglytuff|61}} (#061)
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Shiny Museum 1
+|cards=1 of the following:<br>{{TCG ID|Shining Revelry|Weedle|97}} (#097)<br>{{TCG ID|Shining Revelry|Kakuna|98}} (#098)<br>{{TCG ID|Shining Revelry|Charmander|99}} (#099)<br>{{TCG ID|Shining Revelry|Charmeleon|100}} (#100)<br>{{TCG ID|Shining Revelry|Wiglett|101}} (#101)<br>{{TCG ID|Shining Revelry|Dondozo|102}} (#102)<br>{{TCG ID|Shining Revelry|Pachirisu|103}} (#103)<br>{{TCG ID|Shining Revelry|Riolu|104}} (#104)<br>{{TCG ID|Shining Revelry|Varoom|105}} (#105)<br>{{TCG ID|Shining Revelry|Revavroom|106}} (#106)
+|reward={{TCGPocketItem|Emblem Ticket A2b|Emblem Ticket (Shining Revelry) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Sprigatito cards
+|cards={{TCG ID|Shining Revelry|Sprigatito|5}} (#005) ×3
+|reward={{TCGPocketItem|Sprigatito|Sprigatito (profile icon)|type=Profile Icon}}
+}}
+|-
+! colspan="3" | Secret Missions
+{{TCGPocketCollection/Entry|collection=Shiny Museum 2
+|cards=2 of the following:<br>{{TCG ID|Shining Revelry|Weedle|97}} (#097)<br>{{TCG ID|Shining Revelry|Kakuna|98}} (#098)<br>{{TCG ID|Shining Revelry|Charmander|99}} (#099)<br>{{TCG ID|Shining Revelry|Charmeleon|100}} (#100)<br>{{TCG ID|Shining Revelry|Wiglett|101}} (#101)<br>{{TCG ID|Shining Revelry|Dondozo|102}} (#102)<br>{{TCG ID|Shining Revelry|Pachirisu|103}} (#103)<br>{{TCG ID|Shining Revelry|Riolu|104}} (#104)<br>{{TCG ID|Shining Revelry|Varoom|105}} (#105)<br>{{TCG ID|Shining Revelry|Revavroom|106}} (#106)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Shiny Museum 3
+|cards=3 of the following:<br>{{TCG ID|Shining Revelry|Weedle|97}} (#097)<br>{{TCG ID|Shining Revelry|Kakuna|98}} (#098)<br>{{TCG ID|Shining Revelry|Charmander|99}} (#099)<br>{{TCG ID|Shining Revelry|Charmeleon|100}} (#100)<br>{{TCG ID|Shining Revelry|Wiglett|101}} (#101)<br>{{TCG ID|Shining Revelry|Dondozo|102}} (#102)<br>{{TCG ID|Shining Revelry|Pachirisu|103}} (#103)<br>{{TCG ID|Shining Revelry|Riolu|104}} (#104)<br>{{TCG ID|Shining Revelry|Varoom|105}} (#105)<br>{{TCG ID|Shining Revelry|Revavroom|106}} (#106)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Shiny Museum 4
+|cards=1 of the following:<br>{{TCG ID|Shining Revelry|Beedrill ex|107}} (#107)<br>{{TCG ID|Shining Revelry|Charizard ex|108}} (#108)<br>{{TCG ID|Shining Revelry|Wugtrio ex|109}} (#109)<br>{{TCG ID|Shining Revelry|Lucario ex|110}} (#110)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Shiny Museum 5
+|cards=2 of the following:<br>{{TCG ID|Shining Revelry|Beedrill ex|107}} (#107)<br>{{TCG ID|Shining Revelry|Charizard ex|108}} (#108)<br>{{TCG ID|Shining Revelry|Wugtrio ex|109}} (#109)<br>{{TCG ID|Shining Revelry|Lucario ex|110}} (#110)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Shiny Museum 6
+|cards=3 of the following:<br>{{TCG ID|Shining Revelry|Beedrill ex|107}} (#107)<br>{{TCG ID|Shining Revelry|Charizard ex|108}} (#108)<br>{{TCG ID|Shining Revelry|Wugtrio ex|109}} (#109)<br>{{TCG ID|Shining Revelry|Lucario ex|110}} (#110)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Shining Revelry Museum 1
+|cards={{TCG ID|Shining Revelry|Meowscarada|7}} (#073)<br>{{TCG ID|Shining Revelry|Buizel|16}} (#074)<br>{{TCG ID|Shining Revelry|Tatsugiri|21}} (#075)<br>{{TCG ID|Shining Revelry|Grafaiai|51}} (#076)<br>{{TCG ID|Shining Revelry|Gholdengo|57}} (#077)<br>{{TCG ID|Shining Revelry|Wigglytuff|61}} (#078)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Shining Revelry Museum 2
+|cards={{TCG ID|Shining Revelry|Pikachu ex|92}} (#092)<br>{{TCG ID|Shining Revelry|Paldean Clodsire ex|93}} (#093)<br>{{TCG ID|Shining Revelry|Tinkaton ex|94}} (#094)<br>{{TCG ID|Shining Revelry|Bibarel ex|95}} (#095)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Gimmighoul Collection
+|cards={{TCG ID|Shining Revelry|Gimmighoul|36}} (#036) ×99
+|reward={{TCGPocketItem|Gholdengo|Gholdengo (emblem)|type=Emblem}}
+|lastitem=yes
+}}
+|}
+
+== Offering rates ==
+The following table outlines the offering rates for the Shining Revelry booster pack.
+
+Regular packs have a 99.95% chance of appearing. Rare packs have a 0.05% chance of appearing.
+
+{{TCGPocketRates/Header|tablecol=9CD|bordercol=578|cellcol=EF7}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 3.125% || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 4.045% || 2.545% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.550% || 2.201% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.185% || 0.740% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.428% || 1.714% || 2.564%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.029% || 0.117% || 2.564%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.888% || 2.564%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|1}} || — || 0.071% || 0.285% || 2.564%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|2}} || — || 0.083% || 0.333% || 2.564%
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.040% || 0.160% || style="border-bottom-right-radius:5px" | 2.564%
+|}
+
+== Solo battles ==
+{{main|List of Shining Revelry solo battles in Pokémon TCG Pocket}}
+
+== Gallery ==
+=== Key artwork ===
+{{TCGMerchGallery
+|background=EF7
+|border=578
+|image1=A2b Key Art.png
+|size1=400px
+|caption1=Key artwork
+}}
+
+=== Pack artwork ===
+{{TCGMerchGallery
+|background=EF7
+|border=578
+|image1=A2b Booster EN.png
+|caption1=Booster pack (front)
+|image5=A2b Booster EN back.png
+|caption5=Booster pack (back)
+}}
+
+=== Pack logo ===
+{{TCGMerchGallery
+|background=EF7
+|border=578
+|image1=A2b Pack Logo EN.png
+|caption1=English logo
+|image5=A2b Logo JA.png
+|caption5=Japanese logo
+}}
+
+== In other languages ==
+{{Langtable|color=EF7|bordercolor=578
+|ja=シャイニングハイ ''Shining High''
+|zh_yue=嗨放異彩  ''Hāaifongyihchói''
+|zh_cmn=嗨放異彩 ''Hāifàngyìcǎi''
+|fr=Réjouissances Rayonnantes
+|de=Glänzendes Festival
+|it=Tripudio Splendente
+|ko=샤이닝 하이 ''Shining High''
+|pt_br=Festival Brilhante
+|es=Festival Brillante
+}}
+
+== Related articles ==
+{{TCGPocketNavigation}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Glänzendes Festival (TCG Pocket)]]
+[[es:Festival Brillante (TCG Pocket)]]
+[[fr:Réjouissances Rayonnantes]]
+[[it:Tripudio Splendente (GCC Pocket)]]
+[[ja:シャイニングハイ]]
+[[zh:嗨放異彩（TCGP）]]

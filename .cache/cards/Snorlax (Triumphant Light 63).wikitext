@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Snorlax
+|ja name=カビゴン
+|trans name=Kabigon
+|species=Snorlax
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SnorlaxTriumphantLight63.png|illustrator=burari|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SnorlaxPromo-A49.png|illustrator=okayamatakatoshi|tab caption=Promo}}
+|hp=140
+|weakness=Fighting
+|retreat cost=4
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=063/075|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=049/P-A}}
+}}
+
+'''Snorlax''' (Japanese: '''カビゴン''' ''Kabigon'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Collapse
+|jname=たおれこむ
+|jtrans=Collapse
+|damage=100
+|effect=This Pokémon is now {{TCG|Asleep}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Snorlax
+|species=Sleeping
+|ndex=0143
+|height=6'11"
+|jheight=2.1
+|weight=1014.1
+|jweight=460.0
+|dex=It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.
+|jdex=１日に　食べ物を　４００キロ 食べないと　気がすまない｡ 食べ終わると　眠ってしまう｡
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available via special wonder picks during the Manaphy [[Wonder Pick Event (Manaphy)|Wonder Pick Event]], which ran from March 10 to 24, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=SnorlaxTriumphantLight63.png
+|caption1=Uncommon card<br>Illus. [[burari]]
+|image2=SnorlaxPromo-A49.png
+|caption2=Promo card<br>Illus. [[okayamatakatoshi]]
+}}
+
+==Trivia==
+===Origin===
+*'''Collapse''' is an attack that first appeared on {{TCG ID|Gym Heroes|Rocket's Snorlax|33}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Relaxo (Licht des Triumphs 063)]]
+[[es:Snorlax (Luz Triunfal TCG Pocket)]]
+[[fr:Ronflex (Lumière Triomphale 063)]]
+[[it:Snorlax (Luce Trionfale 63)]]
+[[ja:カビゴン (ポケポケ A2a)]]
+[[zh:卡比獸（A2a）]]

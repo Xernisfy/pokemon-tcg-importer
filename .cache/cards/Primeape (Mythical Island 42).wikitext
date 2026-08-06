@@ -1,0 +1,63 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Primeape
+|ja name=オコリザル
+|trans name=Okorizaru
+|species=Primeape
+|type=Fighting
+|image=PrimeapeMythicalIsland42.png
+|illustrator=Taiga Kayama
+|hp=80
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Mankey
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=042/068|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Primeape''' (Japanese: '''オコリザル''' ''Okorizaru'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Punch
+|jname=パンチ
+|jtrans=Punch
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Primeape
+|species=Pig Monkey
+|ndex=0057
+|height=3'3"
+|jheight=1.0
+|weight=70.5
+|jweight=32.0
+|dex=It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.
+|jdex=だれかの 視線を 感じただけで 猛烈に 怒りだす。 そして 目が合った ものを 追いかけるのだ。
+}}
+
+==Trivia==
+[[File:TCGP Cover Tree of Repose.png|thumb|left|"Tree of Repose" binder cover]]
+This card's illustration is part of a {{TCG|combined illustration}} along with {{TCG ID|Mythical Island|Chewtle|22}}, {{TCG ID|Mythical Island|Dedenne|30}}, and {{TCG ID|Mythical Island|Pidgeotto|58}} from the same expansion. Together, these cards form the {{TCGP|Mythical Island}} expansion's "Tree of Repose" [[Mythical Island (TCG Pocket)#Themed Collections|Themed Collection]], the completion reward for which is the "Tree of Repose" binder cover, showcasing the full illustration.
+
+===Origin===
+*'''Punch''' is an attack that first appeared on {{TCG ID|Team Rocket|Machop|59}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rasaff (Mysteriöse Insel 042)]]
+[[es:Primeape (La Isla Singular TCG Pocket)]]
+[[fr:Colossinge (L'Île Fabuleuse 042)]]
+[[it:Primeape (L'Isola Misteriosa 42)]]
+[[ja:オコリザル (ポケポケ A1a)]]
+[[zh:火暴猴（A1a）]]

@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Vivillon
+|ja name=ビビヨン
+|trans name=Viviyon
+|species=Vivillon
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VivillonFantasticalParade13.png|illustrator=miki kudo|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VivillonFantasticalParade158.png|illustrator=mingo|tab caption=Illustration Rare}}
+|hp=130
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Spewpa
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=013/155|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=158/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Vivillon''' (Japanese: '''ビビヨン''' ''Viviyon'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Vivid Powder
+|jname=ビビッドパウダー
+|jtrans=Vivid Powder
+|damage=60
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}} and {{TCG|Asleep}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Vivillon
+|species=Scale
+|ndex=0666
+|height=3'11"
+|jheight=1.2
+|weight=37.5
+|jweight=17.0
+|dex=This Pokémon was born in a land where flowers bloom. It scatters colorful, toxic scales from its wings during battle.
+|jdex=花咲く 土地で 生まれた。 色鮮やかな 毒の りんぷんを 翅から 散らして 戦う。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=VivillonFantasticalParade13.png
+|caption1=Uncommon card<br>Illus. [[miki kudo]]
+|image2=VivillonFantasticalParade158.png
+|caption2=Illustration rare card<br>Illus. [[mingo]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{form|Vivillon|Meadow Pattern}} {{p|Vivillon}}.
+*This card's standard illustration was first featured on {{TCG ID|Battle Styles|Vivillon|13}} from the {{TCG|Battle Styles}} expansion.
+*'''Vivid Powder''' is an attack that first appeared on {{TCG ID|Forbidden Light|Vivillon|8}} from the {{TCG|Forbidden Light}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Vivillon (Traumhafte Parade 013)]]
+[[fr:Prismillon (Parade Onirique 013)]]
+[[it:Vivillon (Parata Fantasmagorica 13)]]
+[[ja:ビビヨン (ポケポケ B2)]]
+[[zh:彩粉蝶（B2）]]

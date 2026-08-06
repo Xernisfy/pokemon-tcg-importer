@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Magby
+|ja name=ブビィ
+|trans name=Buby
+|species=Magby
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MagbyWisdomofSeaandSky32.png|illustrator=Yukiko Baba|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MagbyWisdomofSeaandSky166.png|illustrator=Makura Tami|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MagbyFantasticalParade206.png|illustrator=MAHOU|tab caption=Shiny Rare}}
+|hp=30
+|weakness=
+|retreat cost=0
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=032/161|pack=Ho-Oh (Bonus)|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=166/161|pack=Ho-Oh (Bonus)|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=206/155|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Magby''' (Japanese: '''ブビィ''' ''Buby'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|None}}
+|name=Toasty Toss
+|jname=ぽかぽかトス
+|jtrans=Toasty Toss
+|damage=
+|effect=Take a {{e|Fire}} Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Magby
+|category=Live Coal
+|ndex=0240
+|height=2'4"
+|jheight=0.7
+|weight=47.2
+|jweight=21.4
+|dex=This Pokémon is still small and timid. Whenever Magby gets excited or surprised, flames leak from its mouth and its nose. 
+|jdex=まだまだ ちいさく おくびょう。 こうふんしたり びっくりすると はなや くちから ひがもれる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=MagbyWisdomofSeaandSky32.png
+|caption1=Rare card<br>Illus. [[Yukiko Baba]]
+|image2=MagbyWisdomofSeaandSky166.png
+|caption2=Illustration rare card<br>Illus. [[Makura Tami]]
+|image3=MagbyFantasticalParade206.png
+|caption3=Shiny rare card<br>Illus. [[MAHOU]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|EX Team Rocket Returns|Magby|24}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+*This card's {{TCGP|Fantastical Parade}} print features a {{Shiny}} {{p|Magby}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Magby (Weisheit von Meer und Himmel 032)]]
+[[es:Magby (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Magby (Sagesse entre Ciel et Mer 032)]]
+[[it:Magby (La Via del Cielo e del Mare 32)]]
+[[ja:ブビィ (ポケポケ A4)]]
+[[zh:鸭嘴宝宝（A4）]]

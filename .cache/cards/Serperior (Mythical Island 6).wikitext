@@ -1,0 +1,86 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Serperior
+|ja name=ジャローダ
+|trans name=Jalorda
+|species=Serperior
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SerperiorMythicalIsland6.png|illustrator=Yoshioka|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SerperiorDeluxePackex37.png|illustrator=Yoshioka|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SerperiorMythicalIsland70.png|illustrator=rika|illustrator link=rika (illustrator)|tab caption=Illustration Rare}}
+|hp=110
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Servine
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=006/068|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=070/068|pack=Any|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=036/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=037/353|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Serperior''' (Japanese: '''ジャローダ''' ''Jalorda'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Ability/Pocket
+|type=Grass
+|name=Jungle Totem
+|jname=みつりんのぬし
+|jtrans=Jungle Guardian Spirit
+|effect=Each {{e|Grass}} Energy attached to your {{e|Grass}} Pokémon provides 2 {{e|Grass}} Energy. This effect doesn't stack.
+}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Solar Beam
+|jname=ソーラービーム
+|jtrans=Solar Beam
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Serperior
+|species=Regal
+|ndex=0497
+|height=10'10"
+|jheight=3.3
+|weight=138.9
+|jweight=63.0
+|dex=It only gives its all against strong opponents who are not fazed by the glare from Serperior's noble eyes.
+|jdex=ジャローダの　けだかい　ひとみで　いすくめられても　へいきな　つよい　あいてにだけ　ほんきを　だす。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=SerperiorMythicalIsland6.png
+|caption1=Standard card<br>Illus. [[Yoshioka]]
+|image2=SerperiorMythicalIsland70.png
+|caption2=Illustration rare card<br>Illus. [[rika (illustrator)|rika]]
+|image3=SerperiorDeluxePackex37.png
+|caption3=Parallel foil card<br>Illus. [[Yoshioka]]
+}}
+
+==Trivia==
+===Origin===
+*'''Jungle Totem''' is an {{TCG|Ability}} that first appeared on {{TCG ID|Shining Legends|Venusaur|3}} from the {{TCG|Shining Legends}} expansion.
+*{{m|Solar Beam}} is a [[move]] in the [[Pokémon games]] that {{p|Serperior}} can learn via [[TM]].
+*This card's [[Pokédex]] entry comes from {{g|Omega Ruby}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Serpiroyal (Mysteriöse Insel 006)]]
+[[es:Serperior (La Isla Singular TCG Pocket)]]
+[[fr:Majaspic (L'Île Fabuleuse 006)]]
+[[it:Serperior (L'Isola Misteriosa 6)]]
+[[ja:ジャローダ (ポケポケ A1a)]]
+[[zh:君主蛇（A1a）]]

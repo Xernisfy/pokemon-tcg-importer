@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Team Rocket Grunt
+|ja name=ロケット団のしたっぱ
+|trans name=Rocket Gang Underling
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TeamRocketGruntShiningRevelry72.png|illustrator=kantaro|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TeamRocketGruntShiningRevelry91.png|illustrator=kantaro|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=072/072}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Star|rarity count=2|number=091/072}}
+}}
+
+'''Team Rocket Grunt''' (Japanese: '''ロケット団のしたっぱ''' ''Rocket Gang Underling'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=TeamRocketGruntShiningRevelry72.png
+|caption1=Uncommon card<br>Illus. [[kantaro]]
+|image2=TeamRocketGruntShiningRevelry91.png
+|caption2=Super rare card<br>Illus. [[kantaro]]
+}}
+
+==Trivia==
+* This card's effect is similar to the effects of {{TCG|Crushing Hammer}} and {{TCG|Energy Removal 2}} in the [[Pokémon Trading Card Game]], but this is a {{TCGP|Supporter card}} (rather than an {{TCGP|Item card}}) that applies the same effect until it gets tails, and does not choose which Energy is discarded.
+** {{TCG|Minion of Team Rocket}}—a card whose Japanese name matches the Team Rocket Grunts in the Generation I games, although has a different name to this card—also exists in the Pokémon Trading Card Game, but has a different effect.
+
+===Origin===
+*[[Team Rocket Grunt (Trainer class)|Team Rocket Grunt]]s are members of [[Team Rocket]]. Male and female grunts, as depicted in {{game|FireRed and LeafGreen|s}}, are depicted in this card's illustrations.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=ロケット団のしたっぱ ''Rocket-dan no Shitappa''
+|zh_yue=火箭隊手下 ''Fójin Déui Sáuhah''
+|zh_cmn=火箭隊手下 ''Huǒjiàn Duì Shǒuxià''
+|fr=Sbire de la Team Rocket
+|de=Rüpel von Team Rocket
+|it=Recluta del Team Rocket
+|ko=로켓단의 조무래기 ''Rocket-dan-ui Jomuraegi''
+|pt_br=Recruta da Equipe Rocket
+|es=Recluta del Equipo Rocket
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rüpel von Team Rocket (TCG Pocket)]]
+[[es:Recluta del Team Rocket (TCG Pocket)]]
+[[fr:Sbire de la Team Rocket (Réjouissances Rayonnantes 072)]]
+[[it:Recluta del Team Rocket (Tripudio Splendente 72)]]
+[[ja:ロケット団のしたっぱ (ポケポケ)]]
+[[zh:火箭隊手下（TCGP）]]

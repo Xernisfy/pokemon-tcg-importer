@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Espeon
+|ja name=エーフィ
+|trans name=Eifie
+|species=Espeon
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EspeonEeveeGrove28.png|illustrator=Ryota Murayama|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EspeonEeveeGrove75.png|illustrator=rika|illustrator link=rika (illustrator)||tab caption=Illustration Rare}}
+|hp=100
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Eevee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=028/069|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=075/069|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Espeon''' (Japanese: '''エーフィ''' ''Eifie'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Energy Crush
+|jname=エナジークラッシュ
+|jtrans=Energy Crush
+|damage=20×
+|effect=This attack does 20 damage for each Energy attached to all of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Espeon
+|category=Sun 
+|ndex=0196
+|height=2'11"
+|jheight=0.9
+|weight=58.4
+|jweight=26.5
+|dex=The tip of its forked tail quivers when it is predicting its opponent's next move.
+|jdex=相手の 動きを 予知するとき ふたまたに なっている 尻尾の 先は 微妙に 揺れている。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=EspeonEeveeGrove28.png
+|caption1=Rare card<br>Illus. [[Ryota Murayama]]
+|image2=EspeonEeveeGrove75.png
+|caption2=Illustration rare card<br>Illus. {{OBP|rika|illustrator}}
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Lost Thunder|Espeon|89}} from the {{TCG|Lost Thunder}} expansion.
+*'''Energy Crush''' is an attack that first appeared on {{TCG ID|EX Sandstorm|Espeon|16}} from the {{TCG|EX Sandstorm}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Psiana (Evoli-Hain 028)]]
+[[es:Espeon (Arboleda de Eevee TCG Pocket)]]
+[[fr:Mentali (La Clairière d'Évoli 028)]]
+[[it:Espeon (Il Bosco di Eevee 28)]]
+[[ja:エーフィ (ポケポケ A3b)]]
+[[zh:太阳伊布（A3b）]]

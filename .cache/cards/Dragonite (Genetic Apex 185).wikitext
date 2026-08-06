@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dragonite
+|ja name=カイリュー
+|trans name=Kairyu
+|species=Dragonite
+|type=Dragon
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DragoniteGeneticApex185.png|illustrator=Hiroyuki Yamamoto|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DragoniteGeneticApex244.png|illustrator=Gemi|tab caption=Illustration Rare}}
+|hp=160
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Dragonair
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=185/226|pack=Mewtwo|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=244/226|pack=Mewtwo|rarity=Star|rarity count=1}}
+}}
+
+'''Dragonite''' (Japanese: '''カイリュー''' ''Kairyu'') is a {{ct|Dragon}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Water}}{{e|Lightning}}{{e|Colorless}}{{e|Colorless}}
+|name=Draco Meteor
+|jname=りゅうせいぐん
+|jtrans=Meteor Shower
+|effect=1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 50 damage to it.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Dragonite
+|species=Dragon
+|ndex=0149
+|height=7'3"
+|jheight=2.2
+|weight=463
+|jweight=210.0
+|dex=It is said that somewhere in the ocean lies an island where these gather. Only they live there.
+|jdex=広い　海の　どこかには カイリューだけが　集まって　暮らす 島が　あるらしい｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Dragon
+|image1=DragoniteGeneticApex185.png
+|caption1=Rare card<br>Illus. [[Hiroyuki Yamamoto]]
+|image2=DragoniteGeneticApex244.png
+|caption2=Illustration rare card<br>Illus. [[Gemi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Sun & Moon|Dragonite|96}} from the {{TCG|Sun & Moon}} expansion.
+*{{m|Draco Meteor}} is a [[move]] in the [[Pokémon games]] that {{p|Dragonite}} can learn via [[TM]] or [[Move Tutor]].
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dragoran (Unschlagbare Gene 185)]]
+[[es:Dragonite (Genes Formidables TCG Pocket)]]
+[[fr:Dracolosse (Puissance Génétique 185)]]
+[[it:Dragonite (Geni Supremi 185)]]
+[[ja:カイリュー (ポケポケ A1)]]
+[[zh:快龙（A1）]]

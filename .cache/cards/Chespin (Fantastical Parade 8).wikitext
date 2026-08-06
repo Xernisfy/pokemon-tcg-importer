@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Chespin
+|ja name=ハリマロン
+|trans name=Harimaron
+|species=Chespin
+|type=Grass
+|image=ChespinFantasticalParade8.png
+|illustrator=5ban Graphics
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=008/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Chespin''' (Japanese: '''ハリマロン''' ''Harimaron'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Vine Whip
+|jname=つるのムチ
+|jtrans=Vine Whip
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Chespin
+|species=Spiny Nut
+|ndex=0650
+|height=1'04"
+|jheight=0.4
+|weight=19.8
+|jweight=9.0
+|dex=Eating lots of berries makes the bark shell that covers Chespin’s head and body grow sturdier.
+|jdex=エサの 木の実を たくさん 食べると 頭と 体を 覆う 樹皮の 殻が 頑丈に 育つのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|XY|Chespin|12}} from the {{TCG|XY}} expansion.
+*{{m|Vine Whip}} is a [[move]] in the [[Pokémon games]] that {{p|Chespin}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Igamaro (Traumhafte Parade 008)]]
+[[fr:Marisson (Parade Onirique 008)]]
+[[it:Chespin (Parata Fantasmagorica 8)]]
+[[ja:ハリマロン (ポケポケ B2)]]
+[[zh:哈力栗（B2）]]

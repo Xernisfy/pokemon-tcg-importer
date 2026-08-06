@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Raboot
+|ja name=ラビフット
+|trans name=Rabbifuto
+|species=Raboot
+|type=Fire
+|image=RabootFantasticalParade25.png
+|illustrator=Mizue
+|hp=80
+|weakness=Water
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Scorbunny
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=025/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Raboot''' (Japanese: '''ラビフット''' ''Rabbifuto'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Kick
+|jname=キック
+|jtrans=Kick
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Raboot
+|species=Rabbit
+|ndex=0814
+|height=2'
+|jheight=0.6
+|weight=19.8
+|jweight=9.0
+|dex=While it prides itself on its varied kicking moves, it can also deliver powerful headbutts once its flames have heated up its forehead.
+|jdex=多彩な キック技が 自慢だが 炎で 熱くなった 額で 繰り出す 頭突きも 強力。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sword & Shield|Raboot|32}} from the {{TCG|Sword & Shield}} expansion.
+*'''Kick''' is an attack that first appeared on {{TCG ID|Team Rocket|Machop|59}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kickerlo (Traumhafte Parade 025)]]
+[[fr:Lapyro (Parade Onirique 025)]]
+[[it:Raboot (Parata Fantasmagorica 25)]]
+[[ja:ラビフット (ポケポケ B2)]]
+[[zh:腾蹴小将（B2）]]

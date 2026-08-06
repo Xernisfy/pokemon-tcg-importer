@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Venusaur {{TCGP Icon|Mega ex}}
+|ja name=メガフシギバナ{{TCGP Icon|Mega ex}}
+|trans name=Mega Fushigibana {{TCGP Icon|Mega ex}}
+|species=Venusaur
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaVenusaurexCrimsonBlaze4.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaVenusaurexCrimsonBlaze76.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaVenusaurexCrimsonBlaze83.png|illustrator=Mori Yuu|tab caption=Special Illustration Rare}}
+|hp=240
+|weakness=Fire
+|retreat cost=4
+|evo stage=Stage 2
+|prevo name=Ivysaur
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=004/069|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=076/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=083/069|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Mega Venusaur ex''' (Japanese: '''メガフシギバナex''' ''Mega Fushigibana ex'') is a {{ct|Grass}} Stage 2 {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Mega Species/Pocket|Venusaur}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}{{e|Colorless}}
+|name=Critical Bloom
+|jname=クライシスブルーム
+|jtrans=Crisis Bloom
+|damage=120
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}} and {{TCG|Asleep}}.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Grass
+|ndex=0003
+|name=Venusaur
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Venusaur
+|category=Seed
+|ndex=0003
+|height=7'10"
+|jheight=2.4
+|weight=342.8
+|jweight=155.5
+|dex=In order to support its flower, which has grown larger due to Mega Evolution, its back and legs have become stronger. 
+|jdex=メガシンカして さらに 大きく 成長した 花を 支えるため 足腰も たくましく なったのだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=MegaVenusaurexCrimsonBlaze4.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=MegaVenusaurexCrimsonBlaze76.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=MegaVenusaurexCrimsonBlaze83.png
+|caption3=Special illustration rare card<br>Illus. [[Mori Yuu]]
+}}
+
+==Trivia==
+===Origin===
+*This card features [[Mega]] {{p|Venusaur}}.
+*This card's [[Pokédex]] entry comes from {{LGPE}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Bisaflor-ex (Feuerrote Flammen 004)]]
+[[es:Mega-Venusaur ex (Fuego Carmesí TCG Pocket)]]
+[[fr:Méga-Florizarre-ex (Embrasement Écarlate 004)]]
+[[it:Mega Venusaur-ex (Fiamme Cremisi 4)]]
+[[ja:メガフシギバナex (ポケポケ B1a)]]
+[[zh:超级妙蛙花ex（B1a）]]

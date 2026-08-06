@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Shuppet
+|ja name=カゲボウズ
+|trans name=Kagebouzu
+|species=Shuppet
+|type=Psychic
+|image=ShuppetCelestialGuardians74.png
+|illustrator=Kyoko Umemoto
+|hp=60
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=074/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Shuppet''' (Japanese: '''カゲボウズ''' ''Kagebouzu'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Will-O-Wisp
+|jname=おにび
+|jtrans=Will-o'-the-Wisp
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Shuppet
+|species=Puppet
+|ndex=0353
+|height=2'
+|jheight=0.6
+|weight=5.1
+|jweight=2.3
+|dex=It loves to feed on feelings like envy and malice. Its upright horn catches the emotions of people.
+|jdex=恨みや 妬みの 感情が 大好物。 ピンと立った ツノが 人間の 気持ちを キャッチする。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Platinum|Shuppet|92}} from the {{TCG|Platinum}} expansion.
+*{{m|Will-O-Wisp}} is a [[move]] in the [[Pokémon games]] that {{p|Shuppet}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Shuppet (Hüter des Firmaments 074)]]
+[[es:Shuppet (Guardianes Celestiales TCG Pocket)]]
+[[fr:Polichombr (Gardiens Astraux 074)]]
+[[it:Shuppet (Guardiani Astrali 74)]]
+[[ja:カゲボウズ (ポケポケ A3)]]
+[[zh:怨影娃娃（A3）]]

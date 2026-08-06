@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Seadra
+|ja name=シードラ
+|trans name=Seadra
+|species=Seadra
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SeadraWisdomofSeaandSky42.png|illustrator=sui|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SeadraDeluxePackex91.png|illustrator=sui|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SeadraFantasticalParade209.png|illustrator=Taiga Kasai|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Horsea
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=042/161|pack=Lugia|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=090/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=091/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=209/155|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Seadra''' (Japanese: '''シードラ''' ''Seadra'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Razor Fin
+|jname=ひれカッター
+|jtrans=Fin Cutter
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Seadra
+|species=Dragon
+|ndex=0117
+|height=3'11"
+|jheight=1.2
+|weight=55.1
+|jweight=25.0
+|dex=It's the males that raise the offspring. While Seadra are raising young, the spines on their backs secrete thicker and stronger poison.
+|jdex=オスが　子どもを　育てる｡ 子育て中は　背中の　トゲの　毒素が 強く　濃くなるのだ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=SeadraWisdomofSeaandSky42.png
+|caption1=Standard card<br>Illus. [[sui]]
+|image2=SeadraDeluxePackex91.png
+|caption2=Parallel foil card<br>Illus. [[sui]]
+|image3=SeadraFantasticalParade209.png
+|caption3=Shiny rare card<br>Illus. [[Taiga Kasai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Origin|Seadra|36}} from the {{TCG|Lost Origin}} expansion.
+*'''Razor Fin''' is an attack that first appeared on {{TCG ID|EX Team Magma vs Team Aqua|Team Aqua's Carvanha|48}} from the {{TCG|EX Team Magma vs Team Aqua}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+*This card's {{TCGP|Fantastical Parade}} print features a {{Shiny}} {{p|Seadra}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Seemon (Weisheit von Meer und Himmel 042)]]
+[[es:Seadra (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Hypocéan (Sagesse entre Ciel et Mer 042)]]
+[[it:Seadra (La Via del Cielo e del Mare 42)]]
+[[ja:シードラ (ポケポケ A4)]]
+[[zh:海刺龙（A4）]]

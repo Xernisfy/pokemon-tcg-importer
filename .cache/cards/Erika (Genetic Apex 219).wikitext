@@ -1,0 +1,66 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Erika
+|ja name=エリカ
+|trans name=Erika
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ErikaGeneticApex219.png|illustrator=kirisAki|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ErikaDeluxePackex329.png|illustrator=kirisAki|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ErikaGeneticApex266.png|illustrator=saino misaki|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=219/226|pack=Charizard|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=266/226|pack=Charizard|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=328/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=329/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Erika''' (Japanese: '''エリカ''' ''Erika'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Heal 50 damage from 1 of your {{e|Grass}} Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=ErikaGeneticApex219.png
+|caption1=Uncommon card<br>Illus. [[kirisAki]]
+|image2=ErikaGeneticApex266.png
+|caption2=Super rare card<br>Illus. [[saino misaki]]
+|image3=ErikaDeluxePackex329.png
+|caption3=Uncommon card<br>Illus. [[kirisAki]]
+}}
+
+==Trivia==
+* {{TCG|Erika}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Erika]] is a [[Gym Leader]] in [[Kanto]]. The interior of the [[Celadon Gym]], as depicted in {{game|FireRed and LeafGreen|s}}, is featured in the regular print's illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=エリカ ''Erika''
+|zh_yue=莉佳 ''Leihgāai''
+|zh_cmn=莉佳 ''Lìjiā''
+|fr=Erika
+|de=Erika
+|it=Erika
+|ko=민화 ''Minhwa''
+|pt_br=Érica
+|es=Erika
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Erika (TCG Pocket)]]
+[[es:Erika (TCG Pocket)]]
+[[fr:Erika (Puissance Génétique 219)]]
+[[it:Erika (Geni Supremi 219)]]
+[[ja:エリカ (ポケポケ)]]
+[[zh:莉佳（TCGP）]]

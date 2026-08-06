@@ -1,0 +1,66 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Whimsicott {{TCGP Icon|ex}}
+|ja name=エルフーン{{TCGP Icon|ex}}
+|trans name=Elfuun {{TCGP Icon|ex}}
+|species=Whimsicott
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WhimsicottexMegaRising16.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WhimsicottexMegaRising252.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WhimsicottexMegaRising273.png|illustrator=Kanami Ogata|tab caption=Special Illustration Rare}}
+|hp=140
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Cottonee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=016/226|pack=Mega Altaria|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=252/226|pack=Mega Altaria|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=273/226|pack=Mega Altaria|rarity=Star|rarity count=2}}
+}}
+
+'''Whimsicott ex''' (Japanese: '''エルフーンex''' ''Elfuun ex'') is a {{ct|Grass}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Grass Knot
+|jname=くさむすび
+|jtrans=Grass Knot
+|damage=40+
+|effect=This attack does 30 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost.
+}}
+{{Cardtext/Pocket ex
+|type=Grass
+|ndex=0547
+|name=Whimsicott
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=WhimsicottexMegaRising16.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=WhimsicottexMegaRising252.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=WhimsicottexMegaRising273.png
+|caption3=Special illustration rare card<br>Illus. [[Kanami Ogata]]
+}}
+
+==Trivia==
+===Origin===
+*{{m|Grass Knot}} is a [[move]] in the [[Pokémon games]] that {{p|Whimsicott}} can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Elfun-ex (Mega-Aufstieg 016)]]
+[[es:Whimsicott ex (Megaascenso TCG Pocket)]]
+[[fr:Farfaduvet-ex (Méga-Ascension 016)]]
+[[it:Whimsicott-ex (Mega Ascesa 16)]]
+[[ja:エルフーンex (ポケポケ B1)]]
+[[zh:风妖精ex（B1）]]

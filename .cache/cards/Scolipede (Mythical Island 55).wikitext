@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Scolipede
+|ja name=ペンドラー
+|trans name=Pendror
+|species=Scolipede
+|type=Darkness
+|image=ScolipedeMythicalIsland55.png
+|illustrator=5ban Graphics
+|hp=140
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Whirlipede
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=055/068|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Scolipede''' (Japanese: '''ペンドラー''' ''Pendror'') is a {{ct|Darkness}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}
+|name=Venoshock
+|jname=ベノムショック
+|jtrans=Venom Shock
+|damage=70+
+|effect=If your opponent's Active Pokémon is {{TCG|Poisoned}}, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Scolipede
+|species=Megapede
+|ndex=0545
+|height=8'2"
+|jheight=2.5
+|weight=442
+|jweight=200.5
+|dex=Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claw's toxic spikes.
+|jdex=首のツメで 獲物を つかむと そのまま 地面に 叩きつけ 毒のトゲを 突きたてるぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Boundaries Crossed|Scolipede|74}} from the {{TCG|Boundaries Crossed}} expansion.
+**Both cards have the {{m|Venoshock}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Scolipede}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Cerapendra (Mysteriöse Insel 055)]]
+[[es:Scolipede (La Isla Singular TCG Pocket)]]
+[[fr:Brutapode (L'Île Fabuleuse 055)]]
+[[it:Scolipede (L'Isola Misteriosa 55)]]
+[[ja:ペンドラー (ポケポケ A1a)]]
+[[zh:蜈蚣王（A1a）]]

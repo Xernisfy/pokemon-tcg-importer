@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Machamp
+|ja name=カイリキー
+|trans name=Kairiky
+|species=Machamp
+|type=Fighting
+|image=MachampFantasticalParade81.png
+|illustrator=Shin Nagasawa
+|hp=150
+|weakness=Psychic
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Machoke
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=081/155}}
+}}
+
+'''Machamp''' (Japanese: '''カイリキー''' ''Kairiky'') is a {{ct|Fighting}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Knocking Hammer
+|jname=ノックハンマー
+|jtrans=Knock Hammer
+|damage=80
+|effect=Discard the top card of your opponent's deck.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Machamp
+|species=Superpower
+|ndex=0068
+|height=5'3"
+|jheight=1.6
+|weight=286.6
+|jweight=130.0
+|dex=With four arms that react more quickly than it can think, it can execute many punches at once.
+|jdex=４本の 腕は 考えるより 早く 反射的に 動き 何発もの パンチを 繰りだせる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Triumphant|Machamp|26}} from the {{TCG|Triumphant}} expansion.
+*'''Knocking Hammer''' is an attack that first appeared on {{TCG ID|Fusion Strike|Pangoro|174}} from the {{TCG|Fusion Strike}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Machomei (Traumhafte Parade 081)]]
+[[fr:Mackogneur (Parade Onirique 081)]]
+[[it:Machamp (Parata Fantasmagorica 81)]]
+[[ja:カイリキー (ポケポケ B2)]]
+[[zh:怪力（B2）]]

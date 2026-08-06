@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Marshtomp
+|ja name=ヌマクロー
+|trans name=Numacraw
+|species=Marshtomp
+|type=Water
+|image=MarshtompFantasticalParade34.png
+|illustrator=sui
+|hp=90
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Mudkip
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=034/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Marshtomp''' (Japanese: '''ヌマクロー''' ''Numacraw'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Surf
+|jname=なみのり
+|jtrans=Surfing
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Marshtomp
+|species=Mud Fish
+|ndex=0259
+|height=2'4"
+|jheight=0.7
+|weight=61.7
+|jweight=28.0
+|dex=It is at its best when on muddy ground that offers poor footing. It quickly overwhelms opponents that are bogged down and unable to move.
+|jdex=ドロドロの 足場で 本領を 発揮する。 身動きの とれない 相手を 一気に 追い込むぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Primal Clash|Marshtomp|34}} from the {{TCG|Primal Clash}} expansion.
+*{{m|Surf}} is a [[move]] in the [[Pokémon games]] that {{p|Marshtomp}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Moorabbel (Traumhafte Parade 034)]]
+[[fr:Flobio (Parade Onirique 034)]]
+[[it:Marshtomp (Parata Fantasmagorica 34)]]
+[[ja:ヌマクロー (ポケポケ B2)]]
+[[zh:沼跃鱼（B2）]]

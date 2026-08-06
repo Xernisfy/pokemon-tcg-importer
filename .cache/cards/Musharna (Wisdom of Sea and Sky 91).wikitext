@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Musharna
+|ja name=ムシャーナ
+|trans name=Musharna
+|species=Musharna
+|type=Psychic
+|image=MusharnaWisdomofSeaandSky91.png
+|illustrator=MAHOU
+|hp=110
+|weakness=Darkness
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Munna
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=091/161|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Musharna''' (Japanese: '''ムシャーナ''' ''Musharna'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Dream Dance
+|jname=ゆめみのまい
+|jtrans=Dream Dance
+|damage=60
+|effect=Both Active Pokémon are now {{TCG|Asleep}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Musharna
+|category=Drowsing 
+|ndex=0518
+|height=3'7"
+|jheight=1.1
+|weight=133.4
+|jweight=60.5
+|dex=When dark mists emanate from its body, don't get too near. If you do, your nightmares will become reality.
+|jdex=出てる 煙が 黒っぽいときは 近づかないほうが いいよ。 悪夢が 現実に なるぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sword & Shield|Musharna|88}} from the {{TCG|Sword & Shield}} expansion.
+*'''Dream Dance''' is an attack that first appeared on {{TCG ID|Gym Heroes|Erika's Gloom|46}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Somnivora (Weisheit von Meer und Himmel 091)]]
+[[es:Musharna (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Mushana (Sagesse entre Ciel et Mer 091)]]
+[[it:Musharna (La Via del Cielo e del Mare 91)]]
+[[ja:ムシャーナ (ポケポケ A4)]]
+[[zh:梦梦蚀（A4）]]

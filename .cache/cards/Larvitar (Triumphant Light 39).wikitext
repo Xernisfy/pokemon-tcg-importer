@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Larvitar
+|ja name=ヨーギラス
+|trans name=Yogiras
+|species=Larvitar
+|type=Fighting
+|image=LarvitarTriumphantLight39.png
+|illustrator=Yukiko Baba
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=039/075|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Larvitar''' (Japanese: '''ヨーギラス''' ''Yogiras'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}
+|name=Corkscrew Punch
+|jname=どつく
+|jtrans=Raging Strike
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Larvitar
+|species=Rock Skin
+|ndex=0246
+|height=2'
+|jheight=0.6
+|weight=158.7
+|jweight=72.0
+|dex=Born deep underground, this Pokémon becomes a pupa after eating enough dirt to make a mountain.
+|jdex=地面 深くで 生まれ 山ほどの 土を 食べ終わると 体を つくるため サナギになる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Expedition|Larvitar|116}} from the {{TCG|Expedition Base Set}}.
+*'''Corkscrew Punch''' is an attack that first appeared on {{TCG ID|Vending|Machop|S2}} from {{TCG|Expansion Sheet 2}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Larvitar (Licht des Triumphs 039)]]
+[[es:Larvitar (Luz Triunfal TCG Pocket)]]
+[[fr:Embrylex (Lumière Triomphale 039)]]
+[[it:Larvitar (Luce Trionfale 39)]]
+[[ja:ヨーギラス (ポケポケ A2a)]]
+[[zh:幼基拉斯（A2a）]]

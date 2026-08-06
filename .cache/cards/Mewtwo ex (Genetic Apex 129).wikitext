@@ -1,0 +1,95 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mewtwo {{TCGP Icon|ex}}
+|ja name=ミュウツー{{TCGP Icon|ex}}
+|trans name=Mewtwo {{TCGP Icon|ex}}
+|species=Mewtwo
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MewtwoexGeneticApex129.png|illustrator=PLANETA Mochizuki|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MewtwoexGeneticApex262.png|illustrator=PLANETA Mochizuki|tab caption=Super Rare (A1)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MewtwoexDeluxePackex365.png|illustrator=5ban Graphics|tab caption=Super Rare (A4b)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MewtwoexGeneticApex282.png|illustrator=Nurikabe|tab caption=Immersive}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MewtwoexGeneticApex286.png|illustrator=PLANETA Mochizuki|tab caption=Ultra Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MewtwoexPromo-A50.png|illustrator=PLANETA Mochizuki|tab caption=Promo}}
+|hp=150
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=129/226|pack=Mewtwo|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=262/226|pack=Mewtwo|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=282/226|pack=Mewtwo|rarity=Star|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=286/226|pack=Any|rarity=Crown}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=050/P-A}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=158/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=365/353|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Mewtwo ex''' (Japanese: '''ミュウツーex''' ''Mewtwo ex'') is a {{ct|Psychic}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Psychic Sphere
+|jname=ねんどうだん
+|jtrans=Psychokinetic Projectile
+|damage=50
+|effect=
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}{{e|Colorless}}{{e|Colorless}}
+|name=Psydrive
+|jname=サイコドライブ
+|jtrans=Psycho Drive
+|damage=150
+|effect=Discard 2 {{e|Psychic}} Energy from this Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Psychic
+|ndex=0150
+|name=Mewtwo
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available from March 27 to April 30, 2025 as part of the "Poké Gold (paid) ×115 + Promo Card (Mewtwo ex)" {{TCGP|shop}} bundle, which could be purchased using real-world currency.
+
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=MewtwoexGeneticApex129.png
+|caption1=Double rare card<br>Illus. [[PLANETA Mochizuki]]
+|image2=MewtwoexGeneticApex262.png
+|caption2=Super rare card<br>({{TCGP|Genetic Apex}})<br>Illus. [[PLANETA Mochizuki]]
+|image3=MewtwoexGeneticApex282.png
+|caption3={{TCGP|Immersive card}}<br>Illus. [[Nurikabe]]
+|image4=MewtwoexGeneticApex286.png
+|caption4=Ultra rare card<br>Illus. [[PLANETA Mochizuki]]
+|image5=MewtwoexPromo-A50.png
+|caption5=Promo card<br>Illus. [[PLANETA Mochizuki]]
+|image6=MewtwoexDeluxePackex365.png
+|caption6=Super rare card<br>({{TCGP|Deluxe Pack: ex}})<br>Illus. [[5ban Graphics]]
+}}
+
+==Trivia==
+This card's immersive illustration features {{p|Mewtwo}} breaking out of captivity from a laboratory; this laboratory bears a strong resemblance to an area in the basement of the {{ka|Pokémon Mansion}}, as depicted in {{LGPE}}. {{p|Mew}} can briefly be seen in the glass of the broken enclosure.
+
+===Origin===
+*This card's {{TCGP|Promo-A}} print features a {{Shiny}} {{p|Mewtwo}}.
+*'''Psychic Sphere''' is an attack that first appeared on {{TCG ID|Latias Half Deck|Latias|14}} from the {{TCG|XY Trainer Kit: Latias & Latios}}.
+*'''Psydrive''' is an attack that first appeared on {{TCG ID|Next Destinies|Mewtwo-EX|54}} from the {{TCG|Next Destinies}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mewtu-ex (Unschlagbare Gene 129)]]
+[[es:Mewtwo ex (Genes Formidables TCG Pocket)]]
+[[fr:Mewtwo-ex (Puissance Génétique 129)]]
+[[it:Mewtwo-ex (Geni Supremi 129)]]
+[[ja:ミュウツーex (ポケポケ A1)]]
+[[zh:超梦ex（A1）]]

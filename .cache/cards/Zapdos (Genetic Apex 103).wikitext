@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Zapdos
+|ja name=サンダー
+|trans name=Thunder
+|species=Zapdos
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ZapdosGeneticApex103.png|illustrator=Hitoshi Ariga|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ZapdosMegaRising302.png|illustrator=Taiga Kasai|tab caption=Shiny Rare}}
+|hp=100
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Pikachu|rarity=Diamond|rarity count=3|number=103/226}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=302/226|pack=Mega Gyarados|rarity=Shiny|rarity count=1}}
+}}
+
+'''Zapdos''' (Japanese: '''サンダー''' ''Thunder'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}{{e|Colorless}}
+|name=Raging Thunder
+|jname=らくらい
+|jtrans=Lightning Bolt
+|damage=100
+|effect=This attack also does 30 damage to 1 of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Zapdos
+|species=Electric
+|ndex=0145
+|height=5'3"
+|jheight=1.6
+|weight=116
+|jweight=52.6
+|dex=This Pokémon has complete control over electricity. There are tales of Zapdos nesting in the dark depths of pitch-black thunderclouds.
+|jdex=電気を　自在に　操る｡ 真っ黒な　雷雲の　中に 巣があると　言い伝えられている｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=ZapdosGeneticApex103.png
+|caption1=Standard card<br>Illus. [[Hitoshi Ariga]]
+|image2=ZapdosMegaRising302.png
+|caption2=Shiny rare card<br>Illus. [[Taiga Kasai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Genetic Apex}} illustration was first featured on {{TCG ID|SM Promo|Zapdos|145}}, one of the {{TCG|SM Black Star Promos}}.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Zapdos}}.
+*'''Raging Thunder''' is an attack that first appeared on {{TCG ID|Vending|Zapdos|S2}} from {{TCG|Expansion Sheet 2}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zapdos (Unschlagbare Gene 103)]]
+[[es:Zapdos (Genes Formidables TCG Pocket)]]
+[[fr:Électhor (Puissance Génétique 103)]]
+[[it:Zapdos (Geni Supremi 103)]]
+[[ja:サンダー (ポケポケ A1)]]
+[[zh:闪电鸟（A1）]]

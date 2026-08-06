@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Galvantula
+|ja name=デンチュラ
+|trans name=Dentula
+|species=Galvantula
+|type=Lightning
+|image=GalvantulaMegaRising93.png
+|illustrator=Yumi
+|hp=80
+|weakness=Fighting
+|retreat cost=0
+|evo stage=Stage 1
+|prevo name=Joltik
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=093/226}}
+}}
+
+'''Galvantula''' (Japanese: '''デンチュラ''' ''Dentula'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Electro Ball
+|jname=エレキボール
+|jtrans=Elecball
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Galvantula
+|species=EleSpider
+|ndex=0596
+|height=2'7"
+|jheight=0.8
+|weight=31.5
+|jweight=14.3
+|dex=It lays traps of electrified threads near the nests of bird Pokémon, aiming to snare chicks that are not yet good at flying.
+|jdex=飛ぶのが ヘタな ヒナを 狙い 鳥ポケモンの 巣の 近くに 電気の 糸で 罠を 張るぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Galvantula|62}} from the {{TCG|Unified Minds}} expansion.
+*{{m|Electro Ball}} is a [[move]] in the [[Pokémon games]] that {{p|Galvantula}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Voltula (Mega-Aufstieg 093)]]
+[[es:Galvantula (Megaascenso TCG Pocket)]]
+[[fr:Mygavolt (Méga-Ascension 093)]]
+[[it:Galvantula (Mega Ascesa 93)]]
+[[ja:デンチュラ (ポケポケ B1)]]
+[[zh:电蜘蛛（B1）]]

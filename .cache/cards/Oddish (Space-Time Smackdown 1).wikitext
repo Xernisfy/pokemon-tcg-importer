@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Oddish
+|ja name=ナゾノクサ
+|trans name=Nazonokusa
+|species=Oddish
+|type=Grass
+|image=OddishSpace-TimeSmackdown1.png
+|illustrator=Asako Ito
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=001/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Oddish''' (Japanese: '''ナゾノクサ''' ''Nazonokusa'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Blot
+|jname=ちょっとすいとる
+|jtrans=Slight Absorb
+|damage=10
+|effect=Heal 10 damage from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Oddish
+|species=Weed
+|ndex=0043
+|height=1'8"
+|jheight=0.5
+|weight=11.9
+|jweight=5.4
+|dex=If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.
+|jdex=月の光を　浴びて　動きだす｡ 夜のあいだに　タネを　あちこちに ばらまくため　歩きまわる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unbroken Bonds|Oddish|6}} from the {{TCG|Unbroken Bonds}} expansion.
+*'''Blot''' is an attack that first appeared on {{TCG ID|Gym Heroes|Erika's Oddish|78}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Myrapla (Kollision von Raum und Zeit 001)]]
+[[es:Oddish (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Mystherbe (Choc Spatio-Temporel 001)]]
+[[it:Oddish (Scontro Spaziotemporale 1)]]
+[[ja:ナゾノクサ (ポケポケ A2)]]
+[[zh:走路草（A2）]]

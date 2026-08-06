@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+| en name = Pichu
+| ja name = ピチュー
+| trans name = Pichu
+| species = Pichu
+| type = Lightning
+| image set = {{TCG Card Infobox/Tabbed Image/Pocket|image=PichuWisdomofSeaandSky66.png|illustrator=Kariya|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PichuWisdomofSeaandSky171.png|illustrator=Kanami Ogata|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PichuFantasticalParade213.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+| hp = 30
+| weakness = 
+| retreat cost = 0
+| illustrator = 
+| evo stage = Basic
+| expansions = {{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=066/161|pack=Lugia (Bonus)|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=171/161|pack=Lugia (Bonus)|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=213/155|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Pichu''' (Japanese: '''ピチュー''' ''Pichu'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|None}}
+|name=Crackly Toss
+|jname=ぱちぱちトス
+|jtrans=Crackling Toss
+|damage=
+|effect=Take a {{e|Lightning}} Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Pichu
+|category=Tiny Mouse 
+|ndex=0172
+|height=1'
+|jheight=0.3
+|weight=4.4
+|jweight=2.0
+|dex=It is unskilled at storing electric power. Any kind of shock causes it to discharge energy spontaneously.
+|jdex=電気を 溜めこむのが 下手。 なんらかの ショックを 受けると すぐに 放電 してしまう。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=PichuWisdomofSeaandSky66.png
+|caption1=Rare card<br>Illus. [[Kariya]]
+|image2=PichuWisdomofSeaandSky171.png
+|caption2=Illustration rare card<br>Illus. [[Kanami Ogata]]
+|image3=PichuFantasticalParade213.png
+|caption3=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+*This card's {{TCGP|Fantastical Parade}} print features a {{Shiny}} {{p|Pichu}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pichu (Weisheit von Meer und Himmel 066)]]
+[[es:Pichu (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Pichu (Sagesse entre Ciel et Mer 066)]]
+[[it:Pichu (La Via del Cielo e del Mare 66)]]
+[[ja:ピチュー (ポケポケ A4)]]
+[[zh:皮丘（A4）]]

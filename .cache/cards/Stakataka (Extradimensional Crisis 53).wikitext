@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Stakataka
+|ja name=ツンデツンデ
+|trans name=Tundetunde
+|species=Stakataka
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=StakatakaExtradimensionalCrisis53.png|illustrator=Anesaki Dynamic|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=StakatakaPromo-A80.png|illustrator=Shin Nagasawa|tab caption=Promo}}
+|hp=110
+|weakness=Fire
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=053/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=080/P-A|pack=Vol. 9}}
+}}
+
+'''Stakataka''' (Japanese: '''ツンデツンデ''' ''Tundetunde'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/UltraBeast/Pocket}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Colorless}}
+|name=Brass Rock
+|jname=ブラスロック
+|jtrans=Brass Rock
+|damage=40
+|effect=During your opponent's next turn, this Pokémon takes −20 damage from attacks.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Stakataka
+|species=Rampart
+|ndex=0805
+|height=18'1"
+|jheight=5.5
+|weight=1807.8
+|jweight=820.0
+|dex=It appeared from an Ultra Wormhole. Each one appears to be made up of many life-forms stacked one on top of each other.
+|jdex=ウルトラホールから 出現した。 複数の 生命が 積み上がり １匹を 形成している ようだ。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of seven cards that could be pulled from Promo-A Vol. 9 packs; these were made available as part of the [[Ultra Beast Drop Event]], which ran from June 4 to 14, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=StakatakaExtradimensionalCrisis53.png
+|caption1=Uncommon card<br>Illus. [[Anesaki Dynamic]]
+|image2=StakatakaPromo-A80.png
+|caption2=Promo card<br>Illus. [[Shin Nagasawa]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|SM Promo|Stakataka|209}}, one of the {{TCG|SM Black Star Promos|Sun & Moon Black Star Promos}}.
+*The '''Brass Rock''' attack is named after [https://jazzrocksoul.com/articles/genres/brass-rock/ brass rock], a genre of music. The name may have been chosen in reference to {{p|Stakataka}}'s {{2t|Rock|Steel}} typing in the [[core series games]].
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Muramura (Dimensionale Krise 053)]]
+[[es:Stakataka (Crisis Dimensional TCG Pocket)]]
+[[fr:Ama-Ama (Crise Interdimensionnelle 053)]]
+[[it:Stakataka (Crisi Ultradimensionale 53)]]
+[[ja:ツンデツンデ (ポケポケ A3a)]]
+[[zh:垒磊石（A3a）]]

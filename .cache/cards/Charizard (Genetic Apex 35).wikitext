@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Charizard
+|ja name=リザードン
+|trans name=Lizardon
+|species=Charizard
+|type=Fire
+|image=CharizardGeneticApex35.png
+|illustrator=takuyoa
+|hp=150
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Charmeleon
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=035/226|pack=Charizard|rarity=Diamond|rarity count=3}}
+}}
+
+'''Charizard''' (Japanese: '''リザードン''' ''Lizardon'') is a {{ct|Fire}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Colorless}}{{e|Colorless}}
+|name=Fire Spin
+|jname=ほのおのうず
+|jtrans=Flame Swirl
+|damage=150
+|effect=Discard 2 {{e|Fire}} Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Charizard
+|species=Flame
+|ndex=0006
+|height=5'7"
+|jheight=1.7
+|weight=199.5
+|jweight=90.5
+|dex=It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.
+|jdex=岩石も　焼けるような 灼熱の　炎を　吐いて 山火事を　起こすことが　ある｡
+}}
+
+==Trivia==
+===Origin===
+*{{m|Fire Spin}} is a [[move]] in the [[Pokémon games]] that {{p|Charizard}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Glurak (Unschlagbare Gene 035)]]
+[[es:Charizard (Genes Formidables TCG Pocket)]]
+[[fr:Dracaufeu (Puissance Génétique 035)]]
+[[it:Charizard (Geni Supremi 35)]]
+[[ja:リザードン (ポケポケ A1)]]
+[[zh:喷火龙（A1）]]

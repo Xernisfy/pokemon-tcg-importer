@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Magnemite
+|ja name=コイル
+|trans name=Coil
+|species=Magnemite
+|type=Lightning
+|image=MagnemiteCrimsonBlaze24.png
+|illustrator=Hajime Kusajima
+|hp=50
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=024/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Magnemite''' (Japanese: '''コイル''' ''Coil'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Electro Ball
+|jname=エレキボール
+|jtrans=Elecball
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Magnemite
+|species=Magnet
+|ndex=0081
+|height=1'
+|jheight=0.3
+|weight=13.2
+|jweight=6.0
+|dex=The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float.
+|jdex=左右にある ユニットから だす 電磁波で 重力を さえぎって 空に 浮かぶのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Power Keepers|Magnemite|54}} from the {{TCG|EX Power Keepers}} expansion.
+*{{m|Electro Ball}} is a [[move]] in the [[Pokémon games]] that {{p|Magnemite}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Magnetilo (Feuerrote Flammen 024)]]
+[[fr:Magnéti (Embrasement Écarlate 024)]]
+[[it:Magnemite (Fiamme Cremisi 24)]]
+[[ja:コイル (ポケポケ B1a)]]
+[[zh:小磁怪（B1a）]]

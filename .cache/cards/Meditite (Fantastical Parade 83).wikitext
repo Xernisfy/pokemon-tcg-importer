@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Meditite
+|ja name=アサナン
+|trans name=Asanan
+|species=Meditite
+|type=Fighting
+|image=MedititeFantasticalParade83.png
+|illustrator=sui
+|hp=60
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=083/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Meditite''' (Japanese: '''アサナン''' ''Asanan'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}
+|name=Smack
+|jname=ひらてうち
+|jtrans=Smack
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Meditite
+|species=Meditate
+|ndex=0307
+|height=2'
+|jheight=0.6
+|weight=24.7
+|jweight=11.2
+|dex=It meditates to heighten its inner energy and to float in the air. It eats one berry a day.
+|jdex=瞑想で 精神エネルギーを 高めて 空中に 浮かぶ。 １日に １個 木の実を 食べる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Primal Clash|Meditite|79}} from the {{TCG|Primal Clash}} expansion; both cards have the Smack attack.
+*'''Smack''' is an attack that first appeared on {{TCG ID|EX Dragon Frontiers|Kirlia δ|33|Kirlia}} from the {{TCG|EX Dragon Frontiers}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Meditie (Traumhafte Parade 083)]]
+[[fr:Méditikka (Parade Onirique 083)]]
+[[it:Meditite (Parata Fantasmagorica 83)]]
+[[ja:アサナン (ポケポケ B2)]]
+[[zh:玛沙那（B2）]]

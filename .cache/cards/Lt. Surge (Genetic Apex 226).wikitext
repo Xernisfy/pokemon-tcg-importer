@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Lt. Surge
+|ja name=マチス
+|trans name=Matisse
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LtSurgeGeneticApex226.png|illustrator=nagimiso|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LtSurgeGeneticApex273.png|illustrator=nagimiso|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=226/226|pack=Pikachu|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=273/226|pack=Pikachu|rarity=Star|rarity count=2}}
+}}
+
+'''Lt. Surge''' (Japanese: '''マチス''' ''Matisse'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Move all {{e|Lightning}} Energy from your Benched Pokémon to your {{TCGP|Raichu}}, {{TCGP|Electrode}}, or {{TCGP|Electabuzz}} in the Active Spot.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=LtSurgeGeneticApex226.png
+|caption1=Uncommon card<br>Illus. [[nagimiso]]
+|image2=LtSurgeGeneticApex273.png
+|caption2=Super rare card<br>Illus. [[nagimiso]]
+}}
+
+==Trivia==
+* {{TCG|Lt. Surge}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Lt. Surge]] is a [[Gym Leader]] in [[Kanto]]. The interior of the [[Vermilion Gym]], as depicted in {{game|FireRed and LeafGreen|s}}, is featured in the regular print's illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=マチス ''Matisse''
+|zh_yue=馬志士 ''Máhjisih''
+|zh_cmn=馬志士<!-- / 马志士--> ''Măzhìshì''
+|fr=Major Bob
+|de=Major Bob
+|it=Lt. Surge
+|ko=마티스 ''Matisse''
+|pt_br=Ten. Surge
+|es=Teniente Surge
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Major Bob (TCG Pocket)]]
+[[es:Teniente Surge (TCG Pocket)]]
+[[fr:Major Bob (Puissance Génétique 226)]]
+[[it:Lt. Surge (Geni Supremi 226)]]
+[[ja:マチス (ポケポケ)]]
+[[zh:馬志士（TCGP）]]

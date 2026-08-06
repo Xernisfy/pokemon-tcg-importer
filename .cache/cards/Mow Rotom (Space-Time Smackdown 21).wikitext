@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mow Rotom
+|ja name=カットロトム
+|trans name=Cut Rotom
+|species=Rotom
+|type=Grass
+|image=MowRotomSpace-TimeSmackdown21.png
+|illustrator=kawayoo
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=021/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Mow Rotom''' (Japanese: '''カットロトム''' ''Cut Rotom'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Energy Cutoff
+|jname=エナジーカット
+|jtrans=Energy Cut
+|damage=30
+|effect=Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Rotom
+|species=Plasma
+|ndex=0479
+|height=1'
+|jheight=0.3
+|weight=0.7
+|jweight=0.3
+|dex=The lawn mower is one of the household appliances that led to the development of the Rotom Dex.
+|jdex=ロトム図鑑が 誕生する きっかけとなった 家電製品の ひとつが 芝刈り機なのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Rotom}} in its {{form|Rotom|Mow Rotom}} form.
+*This card's illustration was first featured on {{TCG ID|Ultra Prism|Mow Rotom|14}} from the {{TCG|Ultra Prism}} expansion.
+*'''Energy Cutoff''' is a move that first appeared on {{TCG ID|XY|Furfrou|114}} from the {{TCG|XY}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schneid-Rotom (Kollision von Raum und Zeit 021)]]
+[[es:Rotom Corte (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Motisma Tonte (Choc Spatio-Temporel 021)]]
+[[it:Rotom Taglio (Scontro Spaziotemporale 21)]]
+[[ja:カットロトム (ポケポケ A2)]]
+[[zh:切割洛托姆（A2）]]

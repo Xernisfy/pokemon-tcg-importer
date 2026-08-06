@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Purrloin
+|ja name=チョロネコ
+|trans name=Choroneko
+|species=Purrloin
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PurrloinFantasticalParade104.png|illustrator=sowsow|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PurrloinFantasticalParade174.png|illustrator=Yoriyuki Ikegami|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=104/155|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=174/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Purrloin''' (Japanese: '''チョロネコ''' ''Choroneko'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Whiny Voice
+|jname=あまえごえ
+|jtrans=Coquettish Voice
+|damage=
+|effect=Flip a coin. If heads, look at a random card from your opponent's hand and shuffle it into their deck.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Purrloin
+|species=Devious
+|ndex=0509
+|height=1'4"
+|jheight=0.4
+|weight=22.3
+|jweight=10.1
+|dex=Opponents that get drawn in by its adorable behavior come away with stinging scratches from its claws and stinging pride from its laughter.
+|jdex=愛くるしい しぐさで 油断させ 寄ってきた 相手を いきなり ツメで ひっかいて 笑っている。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=PurrloinFantasticalParade104.png
+|caption1=Common card<br>Illus. [[sowsow]]
+|image2=PurrloinFantasticalParade174.png
+|caption2=Illustration rare card<br>Illus. [[Yoriyuki Ikegami]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Darkness Ablaze|Purrloin|106}} from the {{TCG|Darkness Ablaze}} expansion.
+*'''Whiny Voice''' is an attack that first appeared on {{TCG ID|BREAKthrough|Zorua|90}} from the {{TCG|BREAKthrough}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Felilou (Traumhafte Parade 104)]]
+[[fr:Chacripan (Parade Onirique 104)]]
+[[it:Purrloin (Parata Fantasmagorica 104)]]
+[[ja:チョロネコ (ポケポケ B2)]]
+[[zh:扒手猫（B2）]]

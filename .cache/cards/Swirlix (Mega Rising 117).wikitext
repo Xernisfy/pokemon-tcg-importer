@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Swirlix
+|ja name=ペロッパフ
+|trans name=Peroppafu
+|species=Swirlix
+|type=Psychic
+|image=SwirlixMegaRising117.png
+|illustrator=Kurata So
+|hp=60
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=117/226|pack=Mega Altaria|rarity=Diamond|rarity count=1}}
+}}
+
+'''Swirlix''' (Japanese: '''ペロッパフ''' ''Peroppafu'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Cotton Guard
+|jname=コットンガード
+|jtrans=Cotton Guard
+|damage=10
+|effect=During your opponent's next turn, this Pokémon takes -20 damage from attacks.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Swirlix
+|category=Cotton Candy
+|ndex=0684
+|height=1'4"
+|jheight=0.4
+|weight=7.7
+|jweight=3.5
+|dex=The sweet smell of cotton candy perfumes Swirlix's fluffy fur. This Pokémon spits out sticky string to tangle up its enemies. 
+|jdex=ふわふわの 体毛は 綿飴の ように 甘い におい。 べたつく 糸を 出して 敵を 絡めとる。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Cotton Guard}} is a [[move]] in the [[Pokémon games]] that {{p|Swirlix}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flauschling (Mega-Aufstieg 117)]]
+[[es:Swirlix (Megaascenso TCG Pocket)]]
+[[fr:Sucroquin (Méga-Ascension 117)]]
+[[it:Swirlix (Mega Ascesa 117)]]
+[[ja:ペロッパフ (ポケポケ B1)]]
+[[zh:绵绵泡芙（B1）]]

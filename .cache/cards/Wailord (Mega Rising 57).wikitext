@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wailord
+|ja name=ホエルオー
+|trans name=Whaloh
+|species=Wailord
+|type=Water
+|image=WailordMegaRising57.png
+|illustrator=KIYOTAKA OSHIYAMA
+|hp=200
+|weakness=Lightning
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Wailmer
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Diamond|rarity count=3|number=057/226}}
+}}
+
+'''Wailord''' (Japanese: '''ホエルオー''' ''Whaloh'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Whale Pump
+|jname=ホエールポンプ
+|jtrans=Whale Pump
+|damage=60+
+|effect=This attack does 10 more damage for each {{e|Water}} Energy attached to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Wailord
+|species=Float Whale
+|ndex=0321
+|height=47'7"
+|jheight=14.5
+|weight=877.4
+|jweight=398.0
+|dex=The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.
+|jdex=一番 大きい ポケモン。 息つぎせずに 3000メートルの 深さまで 潜ることが できる。 
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Crown Zenith|Wailord|32}} from the {{TCG|Crown Zenith}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wailord (Mega-Aufstieg 057)]]
+[[es:Wailord (Megaascenso TCG Pocket)]]
+[[fr:Wailord (Méga-Ascension 057)]]
+[[it:Wailord (Mega Ascesa 57)]]
+[[ja:ホエルオー (ポケポケ B1)]]
+[[zh:吼鲸王（B1）]]

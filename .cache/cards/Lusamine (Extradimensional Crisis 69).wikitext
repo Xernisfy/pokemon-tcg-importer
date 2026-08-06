@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Lusamine
+|ja name=ルザミーネ
+|trans name=Lusamine
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LusamineExtradimensionalCrisis69.png|illustrator=Taira Akitsu|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LusamineDeluxePackex351.png|illustrator=Taira Akitsu|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LusamineExtradimensionalCrisis83.png|illustrator=Taira Akitsu|tab caption=Super Rare (A3a)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LusamineDeluxePackex375.png|illustrator=Taira Akitsu|tab caption=Super Rare (A4b)}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=069/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=083/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=350/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=351/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=375/353|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Lusamine''' (Japanese: '''ルザミーネ''' ''Lusamine'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=You can use this card only if your opponent has gotten at least 1 point.
+
+Choose 1 of your {{TCGP|Ultra Beast}}s. Attach 2 random Energy from your discard pile to that Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=LusamineExtradimensionalCrisis69.png
+|caption1=Standard card<br>Illus. [[Taira Akitsu]]
+|image2=LusamineExtradimensionalCrisis83.png
+|caption2=Super rare card<br>({{TCGP|Extradimensional Crisis}})<br>Illus. [[Taira Akitsu]]
+|image4=LusamineDeluxePackex351.png
+|caption4=Parallel foil card<br>Illus. [[Taira Akitsu]]
+|image5=LusamineDeluxePackex375.png
+|caption5=Super rare print<br>({{TCGP|Deluxe Pack: ex}})<br>Illus. [[Taira Akitsu]]
+}}
+
+==Trivia==
+* {{TCG|Lusamine}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Lusamine]] is the head of the [[Aether Foundation]]. The interior of [[Aether Paradise]] is featured in the standard illustration. The merged form of Lusamine with {{p|Nihilego}} is featured in the {{TCGP|Deluxe Pack: ex}} Super rare card's illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=ルザミーネ ''Lusamine''
+|zh_yue=露莎米奈 ''Louhsāmáihnoih''
+|zh_cmn=露莎米奈 ''Lùshāmǐnài''
+|fr=Elsa-Mina
+|de=Samantha
+|it=Samina
+|ko=루자미네 ''Lusamine''
+|pt_br=Samina
+|es=Samina
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Samantha (TCG Pocket)]]
+[[es:Samina (TCG Pocket)]]
+[[fr:Elsa-Mina (Crise Interdimensionnelle 069)]]
+[[it:Samina (Crisi Ultradimensionale 69)]]
+[[ja:ルザミーネ (ポケポケ)]]
+[[zh:露莎米奈（TCGP）]]

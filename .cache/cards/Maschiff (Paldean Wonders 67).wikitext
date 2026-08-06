@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Maschiff
+|ja name=オラチフ
+|trans name=Orachifu
+|species=Maschiff
+|type=Darkness
+|image=MaschiffPaldeanWonders67.png
+|illustrator=KEIICHIRO ITO
+|hp=70
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=067/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Maschiff''' (Japanese: '''オラチフ''' ''Orachifu'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}
+|name=Bite
+|jname=かみつく
+|jtrans=Bite
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Maschiff
+|category=Rascal
+|ndex=0942
+|height=1'8"
+|jheight=0.5
+|weight=35.3
+|jweight=16.0
+|dex=Its well-developed jaw and fangs are strong enough to crunch through boulders, and its thick fat makes for an excellent defense.
+|jdex=発達した あごと キバは 岩を 噛み砕く 力強さ。 厚い 脂肪は 防御力 抜群。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Maschiff|136}} from the {{TCG|Scarlet & Violet}} expansion.
+*{{m|Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Maschiff}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mobtiff (Wundervolles Paldea 067)]]
+[[fr:Grondogue (Merveilles de Paldea 067)]]
+[[it:Maschiff (Meraviglie di Paldea 67)]]
+[[ja:オラチフ (ポケポケ B2a)]]
+[[zh:偶叫獒（B2a）]]

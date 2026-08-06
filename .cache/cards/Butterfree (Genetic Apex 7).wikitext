@@ -1,0 +1,85 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Butterfree
+|ja name=バタフリー
+|trans name=Butterfree
+|species=Butterfree
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ButterfreeGeneticApex7.png|illustrator=Shin Nagasawa|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ButterfreePromo-A13.png|illustrator=miki kudo|tab caption=Promo}}
+|illustrator=Shin Nagasawa
+|hp=120
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Metapod
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=007/226|pack=Pikachu|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=013/P-A|pack=Vol. 1}}
+}}
+
+'''Butterfree''' (Japanese: '''バタフリー''' ''Butterfree'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Ability/Pocket
+|type=Grass
+|name=Powder Heal
+|jname=パウダーヒール
+|jtrans=Powder Heal
+|effect=Once during your turn, you may heal 20 damage from each of your Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}{{e|Colorless}}
+|name=Gust
+|jname=かぜおこし
+|jtrans=Stir Up Wind
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Butterfree
+|species=Butterfly
+|ndex=0012
+|height=3'7"
+|jheight=1.1
+|weight=70.5
+|jweight=32.0
+|dex=In battle, it flaps its wings at great speed to release highly toxic dust into the air.
+|jdex=こまかく　速く　羽ばたいたら 猛毒の　りんぷんが 風に　のって　飛んでくるぞ｡
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of five cards that could be pulled from Promo-A Vol. 1 packs; these were made available as part of the [[Lapras ex Drop Event]], which ran from November 5 to 18, 2024.
+
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=ButterfreeGeneticApex7.png
+|caption1=Rare card<br>Illus. [[Shin Nagasawa]]
+|image2=ButterfreePromo-A13.png
+|caption2=Promo card<br>Illus. [[miki kudo]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Genetic Apex}} illustration was first featured on {{TCG ID|Burning Shadows|Butterfree|3}} from the {{TCG|Burning Shadows}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Generations|Butterfree|5}} from the {{TCG|Generations}} expansion.
+**Both this card and the Generations print have the {{m|Gust}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Butterfree}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Smettbo (Unschlagbare Gene 007)]]
+[[es:Butterfree (Genes Formidables TCG Pocket)]]
+[[fr:Papilusion (Puissance Génétique 007)]]
+[[it:Butterfree (Geni Supremi 7)]]
+[[ja:バタフリー (ポケポケ A1)]]
+[[zh:巴大蝶（A1）]]

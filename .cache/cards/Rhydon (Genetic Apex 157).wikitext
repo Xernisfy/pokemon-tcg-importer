@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rhydon
+|ja name=サイドン
+|trans name=Sidon
+|species=Rhydon
+|type=Fighting
+|image=RhydonGeneticApex157.png
+|illustrator=Masakazu Fukuda
+|hp=120
+|weakness=Grass
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Rhyhorn
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=157/226|pack=Mewtwo|rarity=Diamond|rarity count=2}}
+}}
+
+'''Rhydon''' (Japanese: '''サイドン''' ''Sidon'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Horn Drill
+|jname=つのドリル
+|jtrans=Horn Drill
+|damage=100
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Rhydon
+|species=Drill
+|ndex=0112
+|height=6'3"
+|jheight=1.9
+|weight=264.6
+|jweight=120.0
+|dex=It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.
+|jdex=進化して　後ろ足だけで 立つようになった｡　ツノで　突くと 岩石にも　穴を　開けてしまう｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Supreme Victors|Rhydon|80}} from the {{TCG|Supreme Victors}} expansion.
+*{{m|Horn Drill}} is a [[move]] in the [[Pokémon games]] that {{p|Rhydon}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rizeros (Unschlagbare Gene 157)]]
+[[es:Rhydon (Genes Formidables TCG Pocket)]]
+[[fr:Rhinoféros (Puissance Génétique 157)]]
+[[it:Rhydon (Geni Supremi 157)]]
+[[ja:サイドン (ポケポケ A1)]]
+[[zh:钻角犀兽（A1）]]

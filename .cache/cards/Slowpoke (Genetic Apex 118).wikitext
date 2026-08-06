@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Slowpoke
+|ja name=ヤドン
+|trans name=Yadon
+|species=Slowpoke
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SlowpokeGeneticApex118.png|illustrator=Miki Tanaka|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SlowpokeGeneticApex237.png|illustrator=Miki Tanaka|tab caption=Illustration Rare}}
+|hp=70
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=118/226|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=237/226|pack=Charizard|rarity=Star|rarity count=1}}
+}}
+
+'''Slowpoke''' (Japanese: '''ヤドン''' ''Yadon'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Tail Whap
+|jname=しっぽではたく
+|jtrans=Tail Strike
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Slowpoke
+|species=Dopey
+|ndex=0079
+|height=3'11"
+|jheight=1.2
+|weight=79.4
+|jweight=36.0
+|dex=It is incredibly slow and dopey. It takes five seconds for it to feel pain when under attack.
+|jdex=動きが　のろく　間抜け｡ 叩かれても　５秒　たってから 痛さを　感じるほどだ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=SlowpokeGeneticApex118.png
+|caption1=Common card<br>Illus. [[Miki Tanaka]]
+|image2=SlowpokeGeneticApex237.png
+|caption2=Illustration rare card<br>Illus. [[Miki Tanaka]]
+}}
+
+==Trivia==
+This card is one of several featured in the {{TCGP|Genetic Apex}} expansion's "Safari Zone" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]], all of which can be found in the [[Kanto Safari Zone]] in Generations {{gen|I}} and {{gen|III}}.
+
+===Origin===
+*This card's standard illustration, by [[Miki Tanaka]], was first featured on {{TCG ID|Fossil|Slowpoke|55}} from the {{TCG|Fossil}} expansion. The illustration rare print, which features new artwork by Tanaka, offers a wider view of the original artwork.
+*'''Tail Whap''' is an attack that first appeared on {{TCG ID|Aquapolis|Wooper|66}} from the {{TCG|Aquapolis}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flegmon (Unschlagbare Gene 118)]]
+[[es:Slowpoke (Genes Formidables TCG Pocket)]]
+[[fr:Ramoloss (Puissance Génétique 118)]]
+[[it:Slowpoke (Geni Supremi 118)]]
+[[ja:ヤドン (ポケポケ A1)]]
+[[zh:呆呆兽（A1）]]

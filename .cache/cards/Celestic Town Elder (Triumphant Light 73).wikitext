@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Celestic Town Elder
+|ja name=カンナギタウンの長老
+|trans name=Kannagi Town Elder
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CelesticTownElderTriumphantLight73.png|illustrator=Yuu Nishida|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CelesticTownElderTriumphantLight88.png|illustrator=Yuu Nishida|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=073/075|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=088/075|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Celestic Town Elder''' (Japanese: '''カンナギタウンの長老''' ''Kannagi Town Elder'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Put 1 random Basic Pokémon from your discard pile into your hand.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=CelesticTownElderTriumphantLight73.png
+|caption1=Uncommon card<br>Illus. [[Yuu Nishida]]
+|image2=CelesticTownElderTriumphantLight88.png
+|caption2=Super rare card<br>Illus. [[Yuu Nishida]]
+}}
+
+==Trivia==
+* {{TCGP|Fishing Net}} has a similar effect, but is an {{TCGP|Item card}} instead of a {{TCGP|Supporter card}} and can only add Basic {{e|Water}} Pokémon.
+* This card's effect is similar to {{TCG|Pokémon Rescue}} in the [[Pokémon Trading Card Game]], but this card is a Supporter card rather than an Item card, and this card can only add a Basic Pokémon chosen at random (rather than a specifically chosen Pokémon of any [[Evolution]] stage).
+
+===Origin===
+*The [[Celestic Town]] Elder is the [[Cynthia's grandmother|grandmother]] of [[Cynthia]], [[Champion]] of the [[Sinnoh League]].
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=カンナギタウンの長老 ''Kannagi Town no Chōrō''
+|zh_yue=神和鎮長老 ''Sānwoh Jan Jéunglóuh''
+|zh_cmn=神和鎮長老 ''Shénhé Zhèn Zhǎnglǎo''
+|fr=Doyenne de Célestia
+|de=Älteste von Elyses
+|it=Anziana di Memoride
+|ko=봉신마을의 장로 ''Bongshin Maeul-ui Jangno''
+|pt_br=Anciã da Cidade Celestic
+|es=Anciana de Pueblo Caelestis
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Älteste von Elyses (TCG Pocket)]]
+[[es:Anciana de Pueblo Caelestis (TCG Pocket)]]
+[[fr:Doyenne de Célestia (Lumière Triomphale 073)]]
+[[it:Anziana di Memoride (Luce Trionfale 73)]]
+[[ja:カンナギタウンの長老 (ポケポケ)]]
+[[zh:神和鎮長老（TCGP）]]

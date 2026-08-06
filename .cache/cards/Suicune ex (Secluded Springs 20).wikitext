@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Suicune {{TCGP Icon|ex}}
+|ja name=スイクン{{TCGP Icon|ex}}
+|trans name=Suicune {{TCGP Icon|ex}}
+|species=Suicune
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SuicuneexSecludedSprings20.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SuicuneexSecludedSprings80.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SuicuneexSecludedSprings90.png|illustrator=mele|tab caption=Immersive}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SuicuneexPaldeanWonders127.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=140
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=020/071|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=080/071|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=090/071|pack=Any|rarity=Star|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=127/093|pack=Any|rarity=Shiny|rarity count=2}}
+}}
+
+'''Suicune ex''' (Japanese: '''スイクンex''' ''Suicune ex'') is a {{ct|Water}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Legendary Pulse
+|jname=でんせつのこどう
+|jtrans=Legendary Pulse
+|effect=At the end of your turn, if this Pokémon is in the Active Spot, draw a card.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Crystal Waltz
+|jname=クリスタルワルツ
+|jtrans=Crystal Waltz
+|damage=20×
+|effect=This attack does 20 damage for each Benched Pokémon ''(both yours and your opponent's).''
+}}
+{{Cardtext/Pocket ex
+|type=Water
+|ndex=0245
+|name=Suicune
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=SuicuneexSecludedSprings20.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=SuicuneexSecludedSprings80.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image4=SuicuneexSecludedSprings90.png
+|caption4={{TCGP|Immersive card}}<br>Illus. [[mele]]
+|image5=SuicuneexPaldeanWonders127.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+*In addition to {{p|Suicune}}, this card's immersive illustration features {{p|Poliwrath}}, {{p|Tentacool}}, {{p|Tentacruel}}, {{p|Slowpoke}}, {{p|Shellder}}, {{p|Krabby}}, {{p|Kingler}}, {{p|Magikarp}}, {{p|Dragonair}}, {{p|Totodile}}, {{p|Marill}}, {{p|Jumpluff}}, {{p|Quagsire}}, {{p|Phanpy}}, {{p|Crawdaunt}}, {{p|Milotic}}, {{p|Bidoof}}, {{p|Buizel}}, {{p|Swanna}}, {{p|Tynamo}}, {{p|Eelektrik}}, {{p|Drednaw}}, and {{p|Flamigo}}.
+*The effects of this card's Ability and attack are similar to those of {{TCG ID|Evolving Skies|Suicune V|31}} from the [[Pokémon Trading Card Game]].
+
+===Origin===
+This card's shiny super rare illustration features a {{Shiny}} {{p|Suicune}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Suicune-ex (Verborgene Quelle 020)]]
+[[es:Suicune ex (Manantial Oculto TCG Pocket)]]
+[[fr:Suicune-ex (Source Secrète 020)]]
+[[it:Suicune-ex (Sorgenti Recondite 20)]]
+[[ja:スイクンex (ポケポケ A4a)]]
+[[zh:水君ex（A4a）]]

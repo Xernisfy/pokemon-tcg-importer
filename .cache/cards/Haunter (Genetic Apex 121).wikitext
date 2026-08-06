@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Haunter
+|ja name=ゴースト
+|trans name=Ghost
+|species=Haunter
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HaunterGeneticApex121.png|illustrator=Nisota Niso|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HaunterDeluxePackex154.png|illustrator=Nisota Niso|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HaunterCelestialGuardians221.png|illustrator=kurumitsu|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Gastly
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=121/226|pack=Mewtwo|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=221/155|pack=Lunala|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=153/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=154/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Haunter''' (Japanese: '''ゴースト''' ''Ghost'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Will-O-Wisp
+|jname=おにび
+|jtrans=Will-o'-the-Wisp
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Haunter
+|species=Gas
+|ndex=0093
+|height=5'3"
+|jheight=1.6
+|weight=0.2
+|jweight=0.1
+|dex=It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.
+|jdex=暗闇にまぎれ　ガスの手を　伸ばし 人の肩を　叩くのが　好き｡ 触られると　震えが　止まらない｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=HaunterGeneticApex121.png
+|caption1=Standard card<br>Illus. [[Nisota Niso]]
+|image2=HaunterCelestialGuardians221.png
+|caption2=Shiny rare card<br>Illus. [[kurumitsu]]
+|image4=HaunterDeluxePackex154.png
+|caption4=Parallel foil card<br>Illus. [[Nisota Niso]]
+}}
+
+==Trivia==
+Haunter is one of seven Pokémon in the {{TCGP|Genetic Apex}} expansion featured in the "Touring the Kanto Region" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]], in which all of the cards show various elements of the [[Kanto]] region. This card's illustration features the [[Pokémon Tower]] in [[Lavender Town]], as depicted in {{game|FireRed and LeafGreen|s}}.
+
+===Origin===
+*This card's shiny rare illustration features a {{Shiny}} {{p|Haunter}}.
+*{{m|Will-O-Wisp}} is a [[move]] in the [[Pokémon games]] that {{p|Haunter}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alpollo (Unschlagbare Gene 121)]]
+[[es:Haunter (Genes Formidables TCG Pocket)]]
+[[fr:Spectrum (Puissance Génétique 121)]]
+[[it:Haunter (Geni Supremi 121)]]
+[[ja:ゴースト (ポケポケ A1)]]
+[[zh:鬼斯通（A1）]]

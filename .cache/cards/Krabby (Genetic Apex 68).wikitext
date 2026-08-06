@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Krabby
+|ja name=クラブ
+|trans name=Crab
+|species=Krabby
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KrabbyGeneticApex68.png|illustrator=Tomokazu Komiya|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KrabbySecludedSprings95.png|illustrator=Shigenori Negishi|tab caption=Shiny Rare}}
+|hp=70
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=068/226|pack=Mewtwo|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=095/071|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Krabby''' (Japanese: '''クラブ''' ''Crab'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Vise Grip
+|jname=はさむ
+|jtrans=Clamp
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Krabby
+|species=River Crab
+|ndex=0098
+|height=1'4"
+|jheight=0.4
+|weight=14.3
+|jweight=6.5
+|dex=It can be found near the sea. The large pincers grow back if they are torn out of their sockets.
+|jdex=海の　近くで　見つかる｡ 大きな　ハサミは　もぎとっても あとから　また　生えてくる｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=KrabbyGeneticApex68.png
+|caption1=Common card<br>Illus. [[Tomokazu Komiya]]
+|image2=KrabbySecludedSprings95.png
+|caption2=Shiny rare card<br>Illus. [[Shigenori Negishi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare print features a {{Shiny}} {{p|Krabby}}.
+*This card's illustration was first featured on {{TCG ID|EX Crystal Guardians|Krabby|54}} from the {{TCG|EX Crystal Guardians}} expansion.
+*{{m|Vise Grip}} is a [[move]] in the [[Pokémon games]] that {{p|Krabby}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Krabby (Unschlagbare Gene 068)]]
+[[es:Krabby (Genes Formidables TCG Pocket)]]
+[[fr:Krabby (Puissance Génétique 068)]]
+[[it:Krabby (Geni Supremi 68)]]
+[[ja:クラブ (ポケポケ A1)]]
+[[zh:大钳蟹（A1）]]

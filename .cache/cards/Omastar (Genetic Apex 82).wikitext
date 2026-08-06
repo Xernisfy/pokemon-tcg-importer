@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Omastar
+|ja name=オムスター
+|trans name=Omstar
+|species=Omastar
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OmastarGeneticApex82.png|illustrator=kirisAki|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OmastarFantasticalParade212.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=140
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Omanyte
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=082/226|pack=Pikachu|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Shiny|rarity count=1|number=212/155}}
+}}
+
+'''Omastar''' (Japanese: '''オムスター''' ''Omstar'') is a {{ct|Water}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}{{e|Colorless}}
+|name=Ancient Whirlpool
+|jname=こだいのうずしお
+|jtrans=Ancient Whirl Tide
+|damage=70
+|effect=During your opponent's next turn, the Defending Pokémon can't attack.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Omastar
+|species=Spiral
+|ndex=0139
+|height=3'3"
+|jheight=1
+|weight=77.2
+|jweight=35.0
+|dex=Weighed down by a large and heavy shell, Omastar couldn't move very fast. Some say it went extinct because it was unable to catch food.
+|jdex=大きく　重い　殻のせいで 動きが　鈍くなり　獲物を　獲れずに 絶滅した　という｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=OmastarGeneticApex82.png
+|caption1=Rare card<br>Illus. [[kirisAki]]
+|image3=OmastarFantasticalParade212.png
+|caption3=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Omastar|76}} from the {{TCG|Team Up}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+*This card's {{TCGP|Fantastical Parade}} print features a {{Shiny}} {{p|Omastar}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Amoroso (Unschlagbare Gene 082)]]
+[[es:Omastar (Genes Formidables TCG Pocket)]]
+[[fr:Amonistar (Puissance Génétique 082)]]
+[[it:Omastar (Geni Supremi 82)]]
+[[ja:オムスター (ポケポケ A1)]]
+[[zh:多刺菊石兽（A1）]]

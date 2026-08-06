@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Kartana
+|ja name=カミツルギ
+|trans name=Kamiturugi
+|species=Kartana
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KartanaExtradimensionalCrisis8.png|illustrator=nagimiso|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KartanaDeluxePackex48.png|illustrator=nagimiso|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KartanaPromo-A75.png|illustrator=Hasuno|tab caption=Promo}}
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=008/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=075/P-A|pack=Vol. 9}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=047/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=048/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Kartana''' (Japanese: '''カミツルギ''' ''Kamiturugi'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/UltraBeast/Pocket}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Thrash Metal
+|jname=デスラッシュ
+|jtrans=Deathrash
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Kartana
+|species=Drawn Sword
+|ndex=0798
+|height=1'
+|jheight=0.3
+|weight=0.2
+|jweight=0.1
+|dex=This Ultra Beast's body, which is as thin as paper, is like a sharpened sword.
+|jdex=紙の ように 薄い 身体から 研がれた 刀に 似た 鋭さを 感じる ウルトラビーストだ。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} card was one of seven cards that could be pulled from Promo-A Vol. 9 packs; these were made available as part of the [[Ultra Beast Drop Event]], which ran from June 4 to 14, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=KartanaExtradimensionalCrisis8.png
+|caption1=Standard card<br>Illus. [[nagimiso]]
+|image2=KartanaPromo-A75.png
+|caption2=Promo card<br>Illus. [[Hasuno]]
+|image3=KartanaDeluxePackex48.png
+|caption3=Parallel foil card<br>Illus. [[nagimiso]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Celestial Storm|Kartana|101}} from the {{TCG|Celestial Storm}} expansion.
+*The '''Thrash Metal''' attack is named after {{wp|thrash metal}}, a genre of music. The name may have been chosen in reference to {{p|Kartana}}'s {{t|Steel}} [[type]] in the [[core series games]]. Its Japanese attack name is デスラッシュ ''{{wp|Deathrash}}'', which contains スラッシュ ''Slash'', a possible reference to Kartana's UB designation of "UB04 Slash" in the Japanese version of the core series games.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Katagami (Dimensionale Krise 008)]]
+[[es:Kartana (Crisis Dimensional TCG Pocket)]]
+[[fr:Katagami (Crise Interdimensionnelle 008)]]
+[[it:Kartana (Crisi Ultradimensionale 8)]]
+[[ja:カミツルギ (ポケポケ A3a)]]
+[[zh:纸御剑（A3a）]]

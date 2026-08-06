@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cubone
+|ja name=カラカラ
+|trans name=Karakara
+|species=Cubone
+|type=Fighting
+|image=CuboneFantasticalParade82.png
+|illustrator=Mizue
+|hp=70
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=082/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Cubone''' (Japanese: '''カラカラ''' ''Karakara'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}
+|name=Headbutt
+|jname=ずつき
+|jtrans=Headbutt
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Cubone
+|category=Lonely
+|ndex=0104
+|height=1'4"
+|jheight=0.4
+|weight=14.3
+|jweight=6.5
+|dex=This Pokémon wears the skull of its deceased mother. Sometimes Cubone's dreams make it cry, but each tear Cubone sheds makes it stronger.
+|jdex=死んだ 母親の 骨を 被る。 夢を 見て 泣くことも あるけど 涙を 流すたびに 強くなる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unbroken Bonds|Cubone|90}} from the {{TCG|Unbroken Bonds}} expansion.
+*{{m|Headbutt}} is a [[move]] in the [[Pokémon games]] that {{p|Cubone}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tragosso (Traumhafte Parade 082)]]
+[[fr:Osselait (Parade Onirique 082)]]
+[[it:Cubone (Parata Fantasmagorica 82)]]
+[[ja:カラカラ (ポケポケ B2)]]
+[[zh:卡拉卡拉（B2）]]

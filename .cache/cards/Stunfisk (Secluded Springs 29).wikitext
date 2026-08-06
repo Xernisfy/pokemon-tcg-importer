@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Stunfisk
+|ja name=マッギョ
+|trans name=Maggyo
+|species=Stunfisk
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=StunfiskSecludedSprings29.png|illustrator=Naoki Saito|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=StunfiskSecludedSprings73.png|illustrator=Akira Komayama|tab caption=Illustration Rare}}
+|hp=90
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=029/071|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=073/071|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Stunfisk''' (Japanese: '''マッギョ''' ''Maggyo'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}
+|name=Static Shock
+|jname=バチバチ
+|jtrans=Electric Crackling
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Stunfisk
+|category=Trap
+|ndex=0618
+|height=2'4"
+|jheight=0.7
+|weight=24.3
+|jweight=11.0
+|dex=Thanks to bacteria that lived in the mud flats with it, this Pokémon developed the organs it uses to generate electricity.
+|jdex=干潟が すみか。 泥に 棲む 細菌に よって 電気を つくる 器官が 発達した。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=StunfiskSecludedSprings29.png
+|caption1=Common card<br>Illus. [[Naoki Saito]]
+|image2=StunfiskSecludedSprings73.png
+|caption2=Illustration rare card<br>Illus. [[Akira Komayama]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|BREAKthrough|Stunfisk|56}} from the {{TCG|BREAKthrough}} expansion.
+*'''Static Shock''' is an attack that first appeared on {{TCG ID|Secret Wonders|Mareep|94}} from the {{TCG|Secret Wonders}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flunschlik (Verborgene Quelle 029)]]
+[[es:Stunfisk (Manantial Oculto TCG Pocket)]]
+[[fr:Limonde (Source Secrète 029)]]
+[[it:Stunfisk (Sorgenti Recondite 29)]]
+[[ja:マッギョ (ポケポケ A4a)]]
+[[zh:泥巴鱼（A4a）]]

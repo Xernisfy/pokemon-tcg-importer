@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Victreebel
+|ja name=ウツボット
+|trans name=Utsubot
+|species=Victreebel
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VictreebelGeneticApex20.png|illustrator=Sumiyoshi Kizuki|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VictreebelMegaRising289.png|illustrator=MAHOU|tab caption=Shiny Rare}}
+|hp=140
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Weepinbell
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Charizard|rarity=Diamond|rarity count=3|number=020/226}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=289/226|pack=Mega Altaria|rarity=Shiny|rarity count=1}}
+}}
+
+'''Victreebel''' (Japanese: '''ウツボット''' ''Utsubot'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Ability/Pocket
+|type=Grass
+|name=Fragrance Trap
+|jname=かおりのわな
+|jtrans=Fragrance Trap
+|effect=If this Pokémon is in the Active Spot, once during your turn, you may switch in 1 of your opponent's Benched Basic Pokémon to the Active Spot.
+}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Vine Whip
+|jname=つるのムチ
+|jtrans=Vine Whip
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Victreebel
+|species=Flycatcher
+|ndex=0071
+|height=5'7"
+|jheight=1.7
+|weight=34.2
+|jweight=15.5
+|dex=Said to live in huge colonies deep in jungles, although no one has ever returned from there.
+|jdex=ジャングルの　奥地に　ウツボット ばかり　いる　地帯が　あって 行ったら　２度と　帰ってこれない｡
+}}
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=VictreebelGeneticApex20.png
+|caption1=Standard card<br>Illus. [[Sumiyoshi Kizuki]]
+|image2=VictreebelMegaRising289.png
+|caption2=Shiny rare card<br>Illus. [[MAHOU]]
+}}
+==Trivia==
+===Origin===
+*This card's {{TCGP|Genetic Apex}} illustration was first featured on {{TCG ID|EX Legend Maker|Victreebel|13}} from the {{TCG|EX Legend Maker}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Victreebel}}.
+*'''Fragrance Trap''' is an {{TCG|Ability}} that first appeared as a {{TCG|Pokémon Power}} on {{TCG ID|Gym Heroes|Erika's Victreebel|26}} from the {{TCG|Gym Heroes}} expansion. It has only ever been featured on {{TCG|Victreebel}} cards.
+*{{m|Vine Whip}} is a [[move]] in the [[Pokémon games]] that {{p|Victreebel}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sarzenia (Unschlagbare Gene 020)]]
+[[es:Victreebel (Genes Formidables TCG Pocket)]]
+[[fr:Empiflor (Puissance Génétique 020)]]
+[[it:Victreebel (Geni Supremi 20)]]
+[[ja:ウツボット (ポケポケ A1)]]
+[[zh:大食花（A1）]]

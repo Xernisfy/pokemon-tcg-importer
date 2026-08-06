@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Charmander
+|ja name=ヒトカゲ
+|trans name=Hitokage
+|species=Charmander
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharmanderMegaShine7.png|illustrator=Masakazu Fukuda|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharmanderMegaShine91.png|illustrator=whomor Inc.|tab caption=Shiny Rare}}
+|hp=70
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=007/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=091/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Charmander''' (Japanese: '''ヒトカゲ''' ''Hitokage'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}
+|name=Flame Tail
+|jname=ほのおのしっぽ
+|jtrans=Flame Tail
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Charmander
+|category=Lizard
+|ndex=0004
+|height=2'
+|jheight=0.6
+|weight=18.7
+|jweight=8.5
+|dex=If Charmander is healthy, the flame on the tip of its tail will burn vigorously and won’t go out even if it gets a bit wet.
+|jdex=尻尾の　先の　炎は 元気なら　少しくらい　濡れても 消えることなく　燃え盛る｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=CharmanderMegaShine7.png
+|caption1=Common card<br>Illus. [[Masakazu Fukuda]]
+|image2=CharmanderMegaShine91.png
+|caption2=Shiny rare card<br>Illus. [[whomor Inc.]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Burning Shadows|Charmander|18a}}, a {{TCG|Yellow A Alternate cards|Yellow A Alternate}} promotional card with the {{TCG|Burning Shadows}} expansion symbol.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Charmander}}.
+*'''Flame Tail''' is an attack that first appeared on {{TCG ID|Base Set|Ponyta|60}} from the {{TCG|Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Glumanda (Mega-Schillern 007)]]
+[[fr:Salamèche (Méga-Rayonnement 007)]]
+[[it:Charmander (Mega Splendore 7)]]
+[[ja:ヒトカゲ (ポケポケ B2b)]]
+[[zh:小火龙（B2b）]]

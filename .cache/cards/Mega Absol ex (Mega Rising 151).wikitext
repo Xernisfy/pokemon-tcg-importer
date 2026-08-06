@@ -1,0 +1,87 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Absol {{TCGP Icon|Mega ex}}
+|ja name=メガアブソル{{TCGP Icon|Mega ex}}
+|trans name=Mega Absol {{TCGP Icon|Mega ex}}
+|species=Absol
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaAbsolexMegaRising151.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaAbsolexMegaRising262.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaAbsolexMegaRising280.png|illustrator=kawayoo|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaAbsolexPromo-B9.png|illustrator=PLANETA CG Works|tab caption=Promo}}
+|hp=170
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=151/226|pack=Mega Gyarados|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=262/226|pack=Mega Gyarados|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=280/226|pack=Mega Gyarados|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=009/P-B}}
+}}
+
+'''Mega Absol ex''' (Japanese: '''メガアブソルex''' ''Mega Absol ex'') is a {{ct|Darkness}} Basic {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Mega Species/Pocket|Absol}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=Darkness Claw
+|jname=ダークネスクロー
+|jtrans=Darkness Claw
+|damage=80
+|effect=Your opponent reveals their hand. Choose a {{TCGP|Supporter card}} you find there and discard it.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Darkness
+|ndex=0359
+|name=Absol
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Absol
+|category=Disaster
+|ndex=0359
+|height=3'11"
+|jheight=1.2
+|weight=108.0
+|jweight=49.0
+|dex=As the energy of Mega Evolution fills it, its fur bristles. What you see on its back are not true wings, and this Pokémon isn't able to fly.
+|jdex=メガシンカの エネルギーが みなぎり 全身の 体毛が 逆立つ。 翼では ないので 飛べは しない。
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} print of this card was available from December 1 to 31, 2025 as a login reward from the monthly {{DL|Mission (TCG Pocket)|Premium Missions}}.
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=MegaAbsolexMegaRising151.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=MegaAbsolexMegaRising262.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image4=MegaAbsolexMegaRising280.png
+|caption4=Special illustration rare card<br>Illus. [[kawayoo]]
+|image5=MegaAbsolexPromo-B9.png
+|caption5={{TCGP|Promo-B}} card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card features [[Mega]] {{p|Absol}}.
+*This card's [[Pokédex]] entry comes from {{g|Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Absol-ex (Mega-Aufstieg 151)]]
+[[es:Mega-Absol ex (Megaascenso TCG Pocket)]]
+[[fr:Méga-Absol-ex (Méga-Ascension 151)]]
+[[it:Mega Absol-ex (Mega Ascesa 151)]]
+[[ja:メガアブソルex (ポケポケ B1)]]
+[[zh:超级阿勃梭鲁ex（B1）]]

@@ -1,0 +1,63 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Floatzel
+|ja name=フローゼル
+|trans name=Floazel
+|species=Floatzel
+|type=Water
+|image=FloatzelPromo-A53.png
+|illustrator=Shin Nagasawa
+|hp=100
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Buizel
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=053/P-A|pack=Vol. 6}}
+}}
+
+'''Floatzel''' (Japanese: '''フローゼル''' ''Floazel'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Attack the Wound
+|jname=きずにうちこむ
+|jtrans=Wound Strike
+|damage=10+
+|effect=If your opponent's Active Pokémon has damage on it, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Floatzel
+|category=Sea Weasel 
+|ndex=0419
+|height=3'7"
+|jheight=1.1
+|weight=73.9
+|jweight=33.5
+|dex=With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives.
+|jdex=浮き袋を ふくらませると 人を 背中に 乗せることが できる。 浮き袋を しぼませて 潜る。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 6 packs; these were made available as part of the [[Pawmot Drop Event]], which ran from April 7 to 17, 2025.
+
+==Trivia==
+===Origin===
+*'''Attack the Wound''' is an attack that first appeared on {{TCG ID|Sword & Shield|Morpeko|78}} from the {{TCG|Sword & Shield}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bojelin (PROMO-A 053)]]
+[[es:Floatzel (Promo-A 53 TCG Pocket)]]
+[[fr:Mustéflott (Promo-A 053)]]
+[[it:Floatzel (Promo-A 53)]]
+[[ja:フローゼル (ポケポケ P-A)]]
+[[zh:浮潛鼬（P-A）]]

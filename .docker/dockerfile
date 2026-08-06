@@ -1,4 +1,4 @@
-FROM denoland/deno:alpine-2.6.9
+FROM denoland/deno:alpine
 
 LABEL org.opencontainers.image.source=https://github.com/Xernisfy/pokemon-tcg-importer
 
@@ -6,12 +6,4 @@ WORKDIR /app
 
 COPY . .
 
-CMD [ \
-  "deno", \
-  "run", \
-  "--allow-read", \
-  "--allow-write", \
-  "--allow-net=bulbapedia.bulbagarden.net:443,raw.githubusercontent.com:443", \
-  "src/main.ts", \
-  "bulbapedia" \
-]
+CMD ["deno", "task", "bulbapedia"]

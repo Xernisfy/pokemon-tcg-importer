@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mankey
+|ja name=マンキー
+|trans name=Mankey
+|species=Mankey
+|type=Fighting
+|image=MankeyMythicalIsland41.png
+|illustrator=Akira Komayama
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MankeyMythicalIsland41.png|illustrator=Akira Komayama|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MankeyWisdomofSeaandSky221.png|illustrator=MAHOU|tab caption=Shiny Rare}}
+|hp=50
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=041/068|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=221/161|pack=Ho-Oh|rarity=Shiny|rarity count=1}}
+}}
+
+'''Mankey''' (Japanese: '''マンキー''' ''Mankey'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Focus Fist
+|jname=きあいづき
+|jtrans=Fighting Spirit Jab
+|damage=50
+|effect=Flip a coin. If tails, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Mankey
+|species=Pig Monkey
+|ndex=0056
+|height=1'8"
+|jheight=0.5
+|weight=61.7
+|jweight=28.0
+|dex=It lives in groups in the treetops. If it loses sight of its group, it becomes infuriated by its loneliness.
+|jdex=木の上で 群れをつくって 暮らす。 群れから はぐれた マンキーは 寂しくて すぐに 怒りだす。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=MankeyMythicalIsland41.png
+|caption1=Common card<br>Illus. [[Akira Komayama]]
+|image2=MankeyWisdomofSeaandSky221.png
+|caption2=Shiny rare card<br>Illus. [[MAHOU]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Mankey|71}} from the {{TCG|Team Up}} expansion.
+*This card's shiny rare print features a {{Shiny}} {{p|Mankey}}.
+*'''Focus Fist''' is an attack that first appeared as '''Mega Peck''' on {{TCG ID|Gym Challenge|Blaine's Dodrio|32}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Menki (Mysteriöse Insel 041)]]
+[[es:Mankey (La Isla Singular TCG Pocket)]]
+[[fr:Férosinge (L'Île Fabuleuse 041)]]
+[[it:Mankey (L'Isola Misteriosa 41)]]
+[[ja:マンキー (ポケポケ A1a)]]
+[[zh:猴怪（A1a）]]

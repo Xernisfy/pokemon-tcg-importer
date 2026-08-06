@@ -1,0 +1,83 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Primarina {{TCGP Icon|ex}}
+|ja name=アシレーヌ {{TCGP Icon|ex}}
+|trans name=Ashirene {{TCGP Icon|ex}}
+|species=Primarina
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PrimarinaexEeveeGrove24.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PrimarinaexEeveeGrove80.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PrimarinaexEeveeGrove88.png|illustrator=DOM|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PrimarinaexMegaRising320.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=180
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Brionne
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=024/069|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=080/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=088/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=120/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=320/226|pack=Mega Altaria|rarity=Shiny|rarity count=2}}
+}}
+
+'''Primarina ex''' (Japanese: '''アシレーヌex''' ''Ashirene ex'') is a {{ct|Water}} Stage 2 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Hydro Pump
+|jname=ハイドロポンプ
+|jtrans=Hydro Pump
+|damage=40+
+|effect=If this Pokémon has at least 1 extra {{e|Water}} Energy attached, this attack does 40 more damage.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}
+|name=Sparkling Aria
+|jname=うたかたのアリア
+|jtrans=Bubble Aria
+|damage=100
+|effect=Heal 20 damage from this Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Water
+|ndex=0730
+|name=Primarina
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=PrimarinaexEeveeGrove24.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=PrimarinaexEeveeGrove80.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image4=PrimarinaexEeveeGrove88.png
+|caption4=Special illustration rare card<br>Illus. [[DOM]]
+|image5=PrimarinaexMegaRising320.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Primarina}}.
+*{{m|Hydro Pump}} and {{m|Sparkling Aria}} are both [[move]]s in the [[Pokémon games]] that {{p|Primarina}} can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Primarene-ex (Evoli-Hain 024)]]
+[[es:Primarina ex (Arboleda de Eevee TCG Pocket)]]
+[[fr:Oratoria-ex (La Clairière d'Évoli 024)]]
+[[it:Primarina-ex (Il Bosco di Eevee 24)]]
+[[ja:アシレーヌex (ポケポケ A3b)]]
+[[zh:西狮海壬ex（A3b）]]

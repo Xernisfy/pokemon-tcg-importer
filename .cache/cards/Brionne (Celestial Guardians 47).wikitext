@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Brionne
+|ja name=オシャマリ
+|trans name=Osyamari
+|species=Brionne
+|type=Water
+|image=BrionneCelestialGuardians47.png
+|illustrator=Saya Tsuruta
+|hp=80
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Popplio
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=047/155|pack=Lunala|rarity=Diamond|rarity count=2}}
+}}
+
+'''Brionne''' (Japanese: '''オシャマリ''' ''Osyamari'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Wave Splash
+|jname=スプラッシュ
+|jtrans=Splash
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Brionne
+|species=Pop Star
+|ndex=0729
+|height=2'00"
+|jheight=0.6
+|weight=38.6
+|jweight=17.5
+|dex=It gets excited when it sees a dance it doesn't know. This hard worker practices diligently until it can learn that dance. 
+|jdex=知らないダンスを 見ると 興奮。 踊れるように なるまで 懸命に 練習する 努力家 だよ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Brionne|40}} from the {{TCG|Sun & Moon}} expansion; both cards have the Wave Splash attack.
+*'''Wave Splash''' is an attack that first appeared on {{TCG ID|Vending|Golduck|S3}} from {{TCG|Expansion Sheet 3}}.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Marikeck (Hüter des Firmaments 047)]]
+[[es:Brionne (Guardianes Celestiales TCG Pocket)]]
+[[fr:Otarlette (Gardiens Astraux 047)]]
+[[it:Brionne (Guardiani Astrali 47)]]
+[[ja:オシャマリ (ポケポケ A3)]]
+[[zh:花漾海狮（A3）]]

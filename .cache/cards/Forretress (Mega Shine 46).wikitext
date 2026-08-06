@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Forretress
+|ja name=フォレトス
+|trans name=Foretos
+|species=Forretress
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ForretressMegaShine46.png|illustrator=Lee HyunJung|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ForretressMegaShine104.png|illustrator=Taiga Kasai|tab caption=Shiny Rare}}
+|hp=100
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Pineco
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=046/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=104/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Forretress''' (Japanese: '''フォレトス''' ''Foretos'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Metal}}
+|name=Enormous Explosion
+|jname=とくだいばくはつ
+|jtrans=
+|damage=100
+|effect=This Pokémon also does 100 damage to itself and 50 damage to all Benched Pokémon ''(both yours and your opponent's)''.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Forretress
+|category=Bagworm
+|ndex=0205
+|height=3'11"
+|jheight=1.2
+|weight=277.3
+|jweight=125.8
+|dex=Its entire body is shielded by a steel-hard shell. What lurks inside this shell is a total mystery.
+|jdex=鋼鉄のように　硬い　殻で 全身を　覆っている｡ 中の　正体は　不明｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=ForretressMegaShine46.png
+|caption1=Uncommon card<br>Illus. [[Lee HyunJung]]
+|image2=ForretressMegaShine104.png
+|caption2=Shiny rare card<br>Illus. [[Taiga Kasai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Forretress|139}} from the {{TCG|Scarlet & Violet}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Forretress}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Forstellka (Mega-Schillern 046)]]
+[[fr:Foretress (Méga-Rayonnement 046)]]
+[[it:Forretress (Mega Splendore 46)]]
+[[ja:フォレトス (ポケポケ B2b)]]
+[[zh:佛烈托斯（B2b）]]

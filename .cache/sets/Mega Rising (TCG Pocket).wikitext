@@ -1,0 +1,1043 @@
+{{TCGPocketExpansionPrevNext | prev = Deluxe Pack: ex | next = Crimson Blaze}}
+{{TCGPocketExpansionInfobox
+|setname=Mega Rising
+|jasetname=メガライジング
+|jasettrans=Mega Rising
+|setlogo=B1 Set Logo EN.png
+|release=October 30, 2025
+|cards= 331 (226 + 105 secret cards)
+|collections= 33 (23 + 10 secret)
+|dex missions= 16 (15 + 1 secret)
+|deck missions= 22
+|decks=11
+|battles=
+}}
+'''Mega Rising''' (Japanese: '''メガライジング''') is the twelfth expansion of cards in [[Pokémon Trading Card Game Pocket]].
+
+== Information ==
+'''Mega Rising''' is the twelfth expansion released through [[Pokémon Trading Card Game Pocket]], the first expansion of Series B, and the fifth main expansion. It introduces {{TCGP|Mega Evolution Pokémon ex}}, a more powerful but risky variant of {{TCGP|Pokémon ex}} worth 3 points when Knocked Out.
+
+The expansion's three booster packs focus on three Mega Evolution Pokémon: Mega {{p|Gyarados}}, Mega {{p|Blaziken}}, and Mega {{p|Altaria}}.
+
+Mega Rising was released on October 30, 2025, on the game's first anniversary. It was inadvertedly revealed on October 15, 2025 via an update to the Japanese and Chinese How to Play guides on the official website.<ref>[https://bulbagarden.net/threads/mega-rising-the-next-expansion-for-pokemon-tcg-pocket-inadvertently-revealed-in-update-to-japanese-official-website.308731/ Mega Rising, the next expansion for Pokémon TCG Pocket, inadvertently revealed in update to Japanese official website | Bulbagarden]</ref>
+
+== Card list ==
+{{TCG Set List/header|tablecol=C08EEA|bordercol=3FA9D0|cellcol=E66F80}}
+{{TCG Set List/header/packs|Mega Gyarados|Mega Blaziken|Mega Altaria|setcode=B1|cellcol=E66F80}}
+|-
+| 001/226 || {{TCG ID|Mega Rising|Pinsir|1}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 002/226 || {{TCG ID|Mega Rising|Mega Pinsir ex|2|Mega Pinsir}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}} ||  || {{Yes}} || 
+|-
+| 003/226 || {{TCG ID|Mega Rising|Wurmple|3}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 004/226 || {{TCG ID|Mega Rising|Silcoon|4}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 005/226 || {{TCG ID|Mega Rising|Beautifly|5}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}} || 
+|-
+| 006/226 || {{TCG ID|Mega Rising|Cascoon|6}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 007/226 || {{TCG ID|Mega Rising|Dustox|7}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}} || 
+|-
+| 008/226 || {{TCG ID|Mega Rising|Seedot|8}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 009/226 || {{TCG ID|Mega Rising|Nuzleaf|9}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}} || 
+|-
+| 010/226 || {{TCG ID|Mega Rising|Shiftry|10}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}} || 
+|-
+| 011/226 || {{TCG ID|Mega Rising|Shroomish|11}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 012/226 || {{TCG ID|Mega Rising|Breloom|12}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 013/226 || {{TCG ID|Mega Rising|Pansage|13}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 014/226 || {{TCG ID|Mega Rising|Simisage|14}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 015/226 || {{TCG ID|Mega Rising|Cottonee|15}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 016/226 || {{TCG ID|Mega Rising|Whimsicott ex|16|Whimsicott}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}} ||  ||  || {{Yes}}
+|-
+| 017/226 || {{TCG ID|Mega Rising|Petilil|17}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 018/226 || {{TCG ID|Mega Rising|Lilligant|18}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}} ||  ||  || {{Yes}}
+|-
+| 019/226 || {{TCG ID|Mega Rising|Maractus|19}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 020/226 || {{TCG ID|Mega Rising|Virizion|20}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}} ||  ||  || {{Yes}}
+|-
+| 021/226 || {{TCG ID|Mega Rising|Skiddo|21}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 022/226 || {{TCG ID|Mega Rising|Gogoat|22}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 023/226 || {{TCG ID|Mega Rising|Phantump|23}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 024/226 || {{TCG ID|Mega Rising|Trevenant|24}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 025/226 || {{TCG ID|Mega Rising|Grookey|25}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 026/226 || {{TCG ID|Mega Rising|Thwackey|26}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} ||  ||  || {{Yes}}
+|-
+| 027/226 || {{TCG ID|Mega Rising|Rillaboom|27}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}} ||  ||  || {{Yes}}
+|-
+| 028/226 || {{TCG ID|Mega Rising|Growlithe|28}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 029/226 || {{TCG ID|Mega Rising|Arcanine|29}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}} || 
+|-
+| 030/226 || {{TCG ID|Mega Rising|Ponyta|30}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 031/226 || {{TCG ID|Mega Rising|Rapidash ex|31|Rapidash}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|4}} ||  || {{Yes}} || 
+|-
+| 032/226 || {{TCG ID|Mega Rising|Ho-Oh|32}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}} || 
+|-
+| 033/226 || {{TCG ID|Mega Rising|Torchic|33}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 034/226 || {{TCG ID|Mega Rising|Combusken|34}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}} || 
+|-
+| 035/226 || {{TCG ID|Mega Rising|Blaziken|35}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}} || 
+|-
+| 036/226 || {{TCG ID|Mega Rising|Mega Blaziken ex|36|Mega Blaziken}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|4}} ||  || {{Yes}} || 
+|-
+| 037/226 || {{TCG ID|Mega Rising|Pansear|37}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 038/226 || {{TCG ID|Mega Rising|Simisear|38}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 039/226 || {{TCG ID|Mega Rising|Darumaka|39}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 040/226 || {{TCG ID|Mega Rising|Darmanitan|40}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||  || 
+|-
+| 041/226 || {{TCG ID|Mega Rising|Litwick|41}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 042/226 || {{TCG ID|Mega Rising|Lampent|42}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}} ||  ||  || {{Yes}}
+|-
+| 043/226 || {{TCG ID|Mega Rising|Chandelure|43}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}} ||  ||  || {{Yes}}
+|-
+| 044/226 || {{TCG ID|Mega Rising|Heatmor|44}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 045/226 || {{TCG ID|Mega Rising|Litleo|45}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 046/226 || {{TCG ID|Mega Rising|Pyroar|46}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}} || 
+|-
+| 047/226 || {{TCG ID|Mega Rising|Turtonator|47}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||  || 
+|-
+| 048/226 || {{TCG ID|Mega Rising|Psyduck|48}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 049/226 || {{TCG ID|Mega Rising|Golduck|49}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 050/226 || {{TCG ID|Mega Rising|Magikarp|50}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 051/226 || {{TCG ID|Mega Rising|Gyarados|51}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||  || 
+|-
+| 052/226 || {{TCG ID|Mega Rising|Mega Gyarados ex|52|Mega Gyarados}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} ||  || 
+|-
+| 053/226 || {{TCG ID|Mega Rising|Lotad|53}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 054/226 || {{TCG ID|Mega Rising|Lombre|54}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} ||  ||  || {{Yes}}
+|-
+| 055/226 || {{TCG ID|Mega Rising|Ludicolo|55}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}} ||  ||  || {{Yes}}
+|-
+| 056/226 || {{TCG ID|Mega Rising|Wailmer|56}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 057/226 || {{TCG ID|Mega Rising|Wailord|57}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||  || 
+|-
+| 058/226 || {{TCG ID|Mega Rising|Corphish|58}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 059/226 || {{TCG ID|Mega Rising|Crawdaunt|59}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 060/226 || {{TCG ID|Mega Rising|Luvdisc|60}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 061/226 || {{TCG ID|Mega Rising|Panpour|61}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 062/226 || {{TCG ID|Mega Rising|Simipour|62}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 063/226 || {{TCG ID|Mega Rising|Tympole|63}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 064/226 || {{TCG ID|Mega Rising|Palpitoad|64}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 065/226 || {{TCG ID|Mega Rising|Seismitoad|65}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 066/226 || {{TCG ID|Mega Rising|Tirtouga|66}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||  || 
+|-
+| 067/226 || {{TCG ID|Mega Rising|Carracosta|67}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||  || 
+|-
+| 068/226 || {{TCG ID|Mega Rising|Frillish|68}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 069/226 || {{TCG ID|Mega Rising|Jellicent|69}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||  || 
+|-
+| 070/226 || {{TCG ID|Mega Rising|Keldeo|70}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}} || 
+|-
+| 071/226 || {{TCG ID|Mega Rising|Froakie|71}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 072/226 || {{TCG ID|Mega Rising|Frogadier|72}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||  || 
+|-
+| 073/226 || {{TCG ID|Mega Rising|Greninja ex|73|Greninja}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} ||  || 
+|-
+| 074/226 || {{TCG ID|Mega Rising|Bergmite|74}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 075/226 || {{TCG ID|Mega Rising|Avalugg|75}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||  || 
+|-
+| 076/226 || {{TCG ID|Mega Rising|Chewtle|76}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 077/226 || {{TCG ID|Mega Rising|Drednaw|77}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||  || 
+|-
+| 078/226 || {{TCG ID|Mega Rising|Arrokuda|78}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 079/226 || {{TCG ID|Mega Rising|Barraskewda|79}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||  || 
+|-
+| 080/226 || {{TCG ID|Mega Rising|Eiscue|80}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}} ||  ||  || {{Yes}}
+|-
+| 081/226 || {{TCG ID|Mega Rising|Jolteon ex|81|Jolteon}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} ||  || 
+|-
+| 082/226 || {{TCG ID|Mega Rising|Mareep|82}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 083/226 || {{TCG ID|Mega Rising|Flaaffy|83}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}} ||  ||  || {{Yes}}
+|-
+| 084/226 || {{TCG ID|Mega Rising|Ampharos|84}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}} ||  ||  || {{Yes}}
+|-
+| 085/226 || {{TCG ID|Mega Rising|Mega Ampharos ex|85|Mega Ampharos}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|4}} ||  ||  || {{Yes}}
+|-
+| 086/226 || {{TCG ID|Mega Rising|Shinx|86}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 087/226 || {{TCG ID|Mega Rising|Luxio|87}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}} || 
+|-
+| 088/226 || {{TCG ID|Mega Rising|Luxray|88}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}} || 
+|-
+| 089/226 || {{TCG ID|Mega Rising|Pachirisu|89}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 090/226 || {{TCG ID|Mega Rising|Blitzle|90}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 091/226 || {{TCG ID|Mega Rising|Zebstrika|91}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}} || 
+|-
+| 092/226 || {{TCG ID|Mega Rising|Joltik|92}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 093/226 || {{TCG ID|Mega Rising|Galvantula|93}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 094/226 || {{TCG ID|Mega Rising|Dedenne|94}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 095/226 || {{TCG ID|Mega Rising|Yamper|95}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 096/226 || {{TCG ID|Mega Rising|Boltund|96}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}} ||  ||  || {{Yes}}
+|-
+| 097/226 || {{TCG ID|Mega Rising|Natu|97}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 098/226 || {{TCG ID|Mega Rising|Xatu|98}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 099/226 || {{TCG ID|Mega Rising|Misdreavus|99}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 100/226 || {{TCG ID|Mega Rising|Mismagius|100}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 101/226 || {{TCG ID|Mega Rising|Sableye|101}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 102/226 || {{TCG ID|Mega Rising|Mega Altaria ex|102|Mega Altaria}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|4}} ||  ||  || {{Yes}}
+|-
+| 103/226 || {{TCG ID|Mega Rising|Duskull|103}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 104/226 || {{TCG ID|Mega Rising|Dusclops|104}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}} || 
+|-
+| 105/226 || {{TCG ID|Mega Rising|Dusknoir|105}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}} || 
+|-
+| 106/226 || {{TCG ID|Mega Rising|Jirachi|106}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} ||  ||  || {{Yes}}
+|-
+| 107/226 || {{TCG ID|Mega Rising|Drifloon|107}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 108/226 || {{TCG ID|Mega Rising|Drifblim|108}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} ||  ||  || {{Yes}}
+|-
+| 109/226 || {{TCG ID|Mega Rising|Chingling|109}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 110/226 || {{TCG ID|Mega Rising|Yamask|110}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 111/226 || {{TCG ID|Mega Rising|Cofagrigus|111}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||  || 
+|-
+| 112/226 || {{TCG ID|Mega Rising|Gothita|112}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 113/226 || {{TCG ID|Mega Rising|Gothorita|113}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} ||  ||  || {{Yes}}
+|-
+| 114/226 || {{TCG ID|Mega Rising|Gothitelle|114}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} ||  ||  || {{Yes}}
+|-
+| 115/226 || {{TCG ID|Mega Rising|Spritzee|115}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 116/226 || {{TCG ID|Mega Rising|Aromatisse|116}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 117/226 || {{TCG ID|Mega Rising|Swirlix|117}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 118/226 || {{TCG ID|Mega Rising|Slurpuff|118}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} ||  ||  || {{Yes}}
+|-
+| 119/226 || {{TCG ID|Mega Rising|Carbink|119}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 120/226 || {{TCG ID|Mega Rising|Klefki|120}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||  || 
+|-
+| 121/226 || {{TCG ID|Mega Rising|Indeedee ex|121|Indeedee}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|4}} ||  ||  || {{Yes}}
+|-
+| 122/226 || {{TCG ID|Mega Rising|Sandshrew|122}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 123/226 || {{TCG ID|Mega Rising|Sandslash|123}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 124/226 || {{TCG ID|Mega Rising|Hitmonchan ex|124|Hitmonchan}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}} ||  || {{Yes}} || 
+|-
+| 125/226 || {{TCG ID|Mega Rising|Sudowoodo|125}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 126/226 || {{TCG ID|Mega Rising|Makuhita|126}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 127/226 || {{TCG ID|Mega Rising|Hariyama|127}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}} || 
+|-
+| 128/226 || {{TCG ID|Mega Rising|Hippopotas|128}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 129/226 || {{TCG ID|Mega Rising|Hippowdon|129}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||  || 
+|-
+| 130/226 || {{TCG ID|Mega Rising|Sandile|130}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 131/226 || {{TCG ID|Mega Rising|Krokorok|131}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||  || 
+|-
+| 132/226 || {{TCG ID|Mega Rising|Krookodile|132}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||  || 
+|-
+| 133/226 || {{TCG ID|Mega Rising|Archen|133}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}} || 
+|-
+| 134/226 || {{TCG ID|Mega Rising|Archeops|134}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}} || 
+|-
+| 135/226 || {{TCG ID|Mega Rising|Golett|135}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 136/226 || {{TCG ID|Mega Rising|Golurk|136}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}} || 
+|-
+| 137/226 || {{TCG ID|Mega Rising|Terrakion|137}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||  || 
+|-
+| 138/226 || {{TCG ID|Mega Rising|Pancham|138}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 139/226 || {{TCG ID|Mega Rising|Crabrawler|139}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 140/226 || {{TCG ID|Mega Rising|Crabominable|140}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}} || 
+|-
+| 141/226 || {{TCG ID|Mega Rising|Stufful|141}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 142/226 || {{TCG ID|Mega Rising|Bewear|142}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}} || 
+|-
+| 143/226 || {{TCG ID|Mega Rising|Sandygast|143}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 144/226 || {{TCG ID|Mega Rising|Palossand|144}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 145/226 || {{TCG ID|Mega Rising|Rolycoly|145}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 146/226 || {{TCG ID|Mega Rising|Carkol|146}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||  || 
+|-
+| 147/226 || {{TCG ID|Mega Rising|Coalossal|147}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||  || 
+|-
+| 148/226 || {{TCG ID|Mega Rising|Murkrow|148}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 149/226 || {{TCG ID|Mega Rising|Honchkrow|149}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||  || 
+|-
+| 150/226 || {{TCG ID|Mega Rising|Absol|150}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||  || 
+|-
+| 151/226 || {{TCG ID|Mega Rising|Mega Absol ex|151|Mega Absol}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} ||  || 
+|-
+| 152/226 || {{TCG ID|Mega Rising|Skorupi|152}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 153/226 || {{TCG ID|Mega Rising|Drapion|153}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||  || 
+|-
+| 154/226 || {{TCG ID|Mega Rising|Darkrai|154}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}} ||  ||  || {{Yes}}
+|-
+| 155/226 || {{TCG ID|Mega Rising|Deino|155}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 156/226 || {{TCG ID|Mega Rising|Zweilous|156}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||  || 
+|-
+| 157/226 || {{TCG ID|Mega Rising|Hydreigon|157}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||  || 
+|-
+| 158/226 || {{TCG ID|Mega Rising|Pangoro|158}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||  || 
+|-
+| 159/226 || {{TCG ID|Mega Rising|Skrelp|159}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 160/226 || {{TCG ID|Mega Rising|Dragalge ex|160|Dragalge}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|4}} ||  || {{Yes}} || 
+|-
+| 161/226 || {{TCG ID|Mega Rising|Mareanie|161}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 162/226 || {{TCG ID|Mega Rising|Toxapex|162}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 163/226 || {{TCG ID|Mega Rising|Impidimp|163}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 164/226 || {{TCG ID|Mega Rising|Morgrem|164}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}} ||  ||  || {{Yes}}
+|-
+| 165/226 || {{TCG ID|Mega Rising|Grimmsnarl|165}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}} ||  ||  || {{Yes}}
+|-
+| 166/226 || {{TCG ID|Mega Rising|Ferroseed|166}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 167/226 || {{TCG ID|Mega Rising|Ferrothorn|167}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 168/226 || {{TCG ID|Mega Rising|Durant|168}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 169/226 || {{TCG ID|Mega Rising|Cobalion|169}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}} || 
+|-
+| 170/226 || {{TCG ID|Mega Rising|Honedge|170}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 171/226 || {{TCG ID|Mega Rising|Doublade|171}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}} || 
+|-
+| 172/226 || {{TCG ID|Mega Rising|Aegislash|172}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}} || 
+|-
+| 173/226 || {{TCG ID|Mega Rising|Meltan|173}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 174/226 || {{TCG ID|Mega Rising|Melmetal ex|174|Melmetal}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} ||  || 
+|-
+| 175/226 || {{TCG ID|Mega Rising|Corviknight|175}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}} ||  || {{Yes}} || 
+|-
+| 176/226 || {{TCG ID|Mega Rising|Druddigon|176}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 177/226 || {{TCG ID|Mega Rising|Goomy|177}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 178/226 || {{TCG ID|Mega Rising|Sliggoo|178}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|2}} ||  ||  || {{Yes}}
+|-
+| 179/226 || {{TCG ID|Mega Rising|Goodra|179}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|3}} ||  ||  || {{Yes}}
+|-
+| 180/226 || {{TCG ID|Mega Rising|Pidgey|180}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 181/226 || {{TCG ID|Mega Rising|Pidgeotto|181}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 182/226 || {{TCG ID|Mega Rising|Pidgeot|182}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 183/226 || {{TCG ID|Mega Rising|Tauros ex|183|Tauros}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|4}} ||  ||  || {{Yes}}
+|-
+| 184/226 || {{TCG ID|Mega Rising|Eevee|184}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 185/226 || {{TCG ID|Mega Rising|Aipom|185}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 186/226 || {{TCG ID|Mega Rising|Ambipom|186}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} ||  ||  || {{Yes}}
+|-
+| 187/226 || {{TCG ID|Mega Rising|Miltank|187}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 188/226 || {{TCG ID|Mega Rising|Zigzagoon|188}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 189/226 || {{TCG ID|Mega Rising|Linoone|189}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 190/226 || {{TCG ID|Mega Rising|Whismur|190}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 191/226 || {{TCG ID|Mega Rising|Loudred|191}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 192/226 || {{TCG ID|Mega Rising|Exploud|192}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||  || 
+|-
+| 193/226 || {{TCG ID|Mega Rising|Skitty|193}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 194/226 || {{TCG ID|Mega Rising|Delcatty|194}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} ||  || 
+|-
+| 195/226 || {{TCG ID|Mega Rising|Spinda|195}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 196/226 || {{TCG ID|Mega Rising|Swablu|196}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 197/226 || {{TCG ID|Mega Rising|Altaria|197}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}} ||  ||  || {{Yes}}
+|-
+| 198/226 || {{TCG ID|Mega Rising|Chatot|198}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 199/226 || {{TCG ID|Mega Rising|Patrat|199}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 200/226 || {{TCG ID|Mega Rising|Watchog|200}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 201/226 || {{TCG ID|Mega Rising|Lillipup|201}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 202/226 || {{TCG ID|Mega Rising|Herdier|202}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} ||  ||  || {{Yes}}
+|-
+| 203/226 || {{TCG ID|Mega Rising|Stoutland|203}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}} ||  ||  || {{Yes}}
+|-
+| 204/226 || {{TCG ID|Mega Rising|Rufflet|204}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 205/226 || {{TCG ID|Mega Rising|Braviary|205}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}} || 
+|-
+| 206/226 || {{TCG ID|Mega Rising|Furfrou|206}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}} || 
+|-
+| 207/226 || {{TCG ID|Mega Rising|Furfrou|207}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} ||  ||  || {{Yes}}
+|-
+| 208/226 || {{TCG ID|Mega Rising|Furfrou|208}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||  || 
+|-
+| 209/226 || {{TCG ID|Mega Rising|Rookidee|209}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 210/226 || {{TCG ID|Mega Rising|Corvisquire|210}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}} || 
+|-
+| 211/226 || {{TCG ID|Mega Rising|Wooloo|211}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} ||  ||  || {{Yes}}
+|-
+| 212/226 || {{TCG ID|Mega Rising|Dubwool|212}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} ||  ||  || {{Yes}}
+|-
+| 213/226 || {{TCG ID|Mega Rising|Prank Spinner|213}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}} || 
+|-
+| 214/226 || {{TCG ID|Mega Rising|Plume Fossil|214}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|1}} ||  || {{Yes}} || 
+|-
+| 215/226 || {{TCG ID|Mega Rising|Hitting Hammer|215}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||  || 
+|-
+| 216/226 || {{TCG ID|Mega Rising|Cover Fossil|216}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} ||  || 
+|-
+| 217/226 || {{TCG ID|Mega Rising|Flame Patch|217}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}} || 
+|-
+| 218/226 || {{TCG ID|Mega Rising|Sitrus Berry|218}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}} ||  ||  || {{Yes}}
+|-
+| 219/226 || {{TCG ID|Mega Rising|Heavy Helmet|219}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||  || 
+|-
+| 220/226 || {{TCG ID|Mega Rising|Lucky Mittens|220}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}} ||  ||  || {{Yes}}
+|-
+| 221/226 || {{TCG ID|Mega Rising|Marlon|221}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||  || 
+|-
+| 222/226 || {{TCG ID|Mega Rising|Hala|222}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}} || 
+|-
+| 223/226 || {{TCG ID|Mega Rising|May|223}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} ||  || {{Yes}} || 
+|-
+| 224/226 || {{TCG ID|Mega Rising|Fantina|224}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} ||  ||  || {{Yes}}
+|-
+| 225/226 || {{TCG ID|Mega Rising|Copycat|225}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} ||  || 
+|-
+| 226/226 || {{TCG ID|Mega Rising|Lisia|226}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} ||  ||  || {{Yes}}
+|-
+| 227/226 || {{TCG ID|Mega Rising|Beautifly|227}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}} || 
+|-
+| 228/226 || {{TCG ID|Mega Rising|Skiddo|228}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}} ||  ||  || {{Yes}}
+|-
+| 229/226 || {{TCG ID|Mega Rising|Rillaboom|229}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}} ||  ||  || {{Yes}}
+|-
+| 230/226 || {{TCG ID|Mega Rising|Growlithe|230}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}} || 
+|-
+| 231/226 || {{TCG ID|Mega Rising|Chandelure|231}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|1}} ||  ||  || {{Yes}}
+|-
+| 232/226 || {{TCG ID|Mega Rising|Magikarp|232}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||  || 
+|-
+| 233/226 || {{TCG ID|Mega Rising|Ludicolo|233}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}} ||  ||  || {{Yes}}
+|-
+| 234/226 || {{TCG ID|Mega Rising|Jellicent|234}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||  || 
+|-
+| 235/226 || {{TCG ID|Mega Rising|Keldeo|235}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}} || 
+|-
+| 236/226 || {{TCG ID|Mega Rising|Eiscue|236}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}} ||  ||  || {{Yes}}
+|-
+| 237/226 || {{TCG ID|Mega Rising|Luxray|237}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}} || 
+|-
+| 238/226 || {{TCG ID|Mega Rising|Cofagrigus|238}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||  || 
+|-
+| 239/226 || {{TCG ID|Mega Rising|Gothita|239}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}} ||  ||  || {{Yes}}
+|-
+| 240/226 || {{TCG ID|Mega Rising|Makuhita|240}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}} || 
+|-
+| 241/226 || {{TCG ID|Mega Rising|Hippowdon|241}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||  || 
+|-
+| 242/226 || {{TCG ID|Mega Rising|Archeops|242}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}} || 
+|-
+| 243/226 || {{TCG ID|Mega Rising|Pancham|243}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||  || 
+|-
+| 244/226 || {{TCG ID|Mega Rising|Honchkrow|244}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||  || 
+|-
+| 245/226 || {{TCG ID|Mega Rising|Hydreigon|245}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||  || 
+|-
+| 246/226 || {{TCG ID|Mega Rising|Corviknight|246}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}} || 
+|-
+| 247/226 || {{TCG ID|Mega Rising|Goomy|247}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Star|1}} ||  ||  || {{Yes}}
+|-
+| 248/226 || {{TCG ID|Mega Rising|Delcatty|248}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}} || {{Yes}} ||  || 
+|-
+| 249/226 || {{TCG ID|Mega Rising|Stoutland|249}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}} ||  ||  || {{Yes}}
+|-
+| 250/226 || {{TCG ID|Mega Rising|Rufflet|250}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}} ||  || {{Yes}} || 
+|-
+| 251/226 || {{TCG ID|Mega Rising|Mega Pinsir ex|251|Mega Pinsir}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}} || 
+|-
+| 252/226 || {{TCG ID|Mega Rising|Whimsicott ex|252|Whimsicott}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}} ||  ||  || {{Yes}}
+|-
+| 253/226 || {{TCG ID|Mega Rising|Rapidash ex|253|Rapidash}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}} || 
+|-
+| 254/226 || {{TCG ID|Mega Rising|Mega Blaziken ex|254|Mega Blaziken}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}} || 
+|-
+| 255/226 || {{TCG ID|Mega Rising|Mega Gyarados ex|255|Mega Gyarados}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||  || 
+|-
+| 256/226 || {{TCG ID|Mega Rising|Greninja ex|256|Greninja}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||  || 
+|-
+| 257/226 || {{TCG ID|Mega Rising|Jolteon ex|257|Jolteon}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||  || 
+|-
+| 258/226 || {{TCG ID|Mega Rising|Mega Ampharos ex|258|Mega Ampharos}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}} ||  ||  || {{Yes}}
+|-
+| 259/226 || {{TCG ID|Mega Rising|Mega Altaria ex|259|Mega Altaria}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|2}} ||  ||  || {{Yes}}
+|-
+| 260/226 || {{TCG ID|Mega Rising|Indeedee ex|260|Indeedee}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|2}} ||  ||  || {{Yes}}
+|-
+| 261/226 || {{TCG ID|Mega Rising|Hitmonchan ex|261|Hitmonchan}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}} || 
+|-
+| 262/226 || {{TCG ID|Mega Rising|Mega Absol ex|262|Mega Absol}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||  || 
+|-
+| 263/226 || {{TCG ID|Mega Rising|Dragalge ex|263|Dragalge}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}} || 
+|-
+| 264/226 || {{TCG ID|Mega Rising|Melmetal ex|264|Melmetal}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||  || 
+|-
+| 265/226 || {{TCG ID|Mega Rising|Tauros ex|265|Tauros}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|2}} ||  ||  || {{Yes}}
+|-
+| 266/226 || {{TCG ID|Mega Rising|Marlon|266}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||  || 
+|-
+| 267/226 || {{TCG ID|Mega Rising|Hala|267}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}} || 
+|-
+| 268/226 || {{TCG ID|Mega Rising|May|268}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}} || 
+|-
+| 269/226 || {{TCG ID|Mega Rising|Fantina|269}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} ||  ||  || {{Yes}}
+|-
+| 270/226 || {{TCG ID|Mega Rising|Copycat|270}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||  || 
+|-
+| 271/226 || {{TCG ID|Mega Rising|Lisia|271}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} ||  ||  || {{Yes}}
+|-
+| 272/226 || {{TCG ID|Mega Rising|Mega Pinsir ex|272|Mega Pinsir}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}} || 
+|-
+| 273/226 || {{TCG ID|Mega Rising|Whimsicott ex|273|Whimsicott}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}} ||  ||  || {{Yes}}
+|-
+| 274/226 || {{TCG ID|Mega Rising|Rapidash ex|274|Rapidash}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}} || 
+|-
+| 275/226 || {{TCG ID|Mega Rising|Greninja ex|275|Greninja}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||  || 
+|-
+| 276/226 || {{TCG ID|Mega Rising|Jolteon ex|276|Jolteon}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||  || 
+|-
+| 277/226 || {{TCG ID|Mega Rising|Mega Ampharos ex|277|Mega Ampharos}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}} ||  ||  || {{Yes}}
+|-
+| 278/226 || {{TCG ID|Mega Rising|Indeedee ex|278|Indeedee}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|2}} ||  ||  || {{Yes}}
+|-
+| 279/226 || {{TCG ID|Mega Rising|Hitmonchan ex|279|Hitmonchan}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}} || 
+|-
+| 280/226 || {{TCG ID|Mega Rising|Mega Absol ex|280|Mega Absol}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||  || 
+|-
+| 281/226 || {{TCG ID|Mega Rising|Dragalge ex|281|Dragalge}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|2}} ||  || {{Yes}} || 
+|-
+| 282/226 || {{TCG ID|Mega Rising|Melmetal ex|282|Melmetal}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}} || {{Yes}} ||  || 
+|-
+| 283/226 || {{TCG ID|Mega Rising|Tauros ex|283|Tauros}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|2}} ||  ||  || {{Yes}}
+|-
+| 284/226 || {{TCG ID|Mega Rising|Mega Blaziken ex|284|Mega Blaziken}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|3}} ||  || {{Yes}} || 
+|-
+| 285/226 || {{TCG ID|Mega Rising|Mega Gyarados ex|285|Mega Gyarados}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|3}} || {{Yes}} ||  || 
+|-
+| 286/226 || {{TCG ID|Mega Rising|Mega Altaria ex|286|Mega Altaria}}{{TCGP Icon|Mega ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|3}} ||  ||  || {{Yes}}
+|-
+| 287/226 || {{TCG ID|Mega Rising|Bellsprout|287}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}} ||  ||  || {{Yes}}
+|-
+| 288/226 || {{TCG ID|Mega Rising|Weepinbell|288}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}} ||  ||  || {{Yes}}
+|-
+| 289/226 || {{TCG ID|Mega Rising|Victreebel|289}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}} ||  ||  || {{Yes}}
+|-
+| 290/226 || {{TCG ID|Mega Rising|Rowlet|290}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}} || 
+|-
+| 291/226 || {{TCG ID|Mega Rising|Dartrix|291}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}} || 
+|-
+| 292/226 || {{TCG ID|Mega Rising|Moltres|292}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}} || 
+|-
+| 293/226 || {{TCG ID|Mega Rising|Litten|293}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} ||  || 
+|-
+| 294/226 || {{TCG ID|Mega Rising|Torracat|294}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} ||  || 
+|-
+| 295/226 || {{TCG ID|Mega Rising|Poliwag|295}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} ||  || 
+|-
+| 296/226 || {{TCG ID|Mega Rising|Poliwhirl|296}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} ||  || 
+|-
+| 297/226 || {{TCG ID|Mega Rising|Poliwrath|297}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} ||  || 
+|-
+| 298/226 || {{TCG ID|Mega Rising|Articuno|298}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}} ||  ||  || {{Yes}}
+|-
+| 299/226 || {{TCG ID|Mega Rising|Manaphy|299}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}} || 
+|-
+| 300/226 || {{TCG ID|Mega Rising|Popplio|300}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}} ||  ||  || {{Yes}}
+|-
+| 301/226 || {{TCG ID|Mega Rising|Brionne|301}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}} ||  ||  || {{Yes}}
+|-
+| 302/226 || {{TCG ID|Mega Rising|Zapdos|302}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} ||  || 
+|-
+| 303/226 || {{TCG ID|Mega Rising|Oricorio|303}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} ||  || 
+|-
+| 304/226 || {{TCG ID|Mega Rising|Zeraora|304}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Shiny|1}} ||  ||  || {{Yes}}
+|-
+| 305/226 || {{TCG ID|Mega Rising|Drowzee|305}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} ||  || 
+|-
+| 306/226 || {{TCG ID|Mega Rising|Hypno|306}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} ||  || 
+|-
+| 307/226 || {{TCG ID|Mega Rising|Geodude|307}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}} || 
+|-
+| 308/226 || {{TCG ID|Mega Rising|Graveler|308}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}} || 
+|-
+| 309/226 || {{TCG ID|Mega Rising|Golem|309}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}} || 
+|-
+| 310/226 || {{TCG ID|Mega Rising|Rockruff|310}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} ||  || 
+|-
+| 311/226 || {{TCG ID|Mega Rising|Alolan Diglett|311}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}} || 
+|-
+| 312/226 || {{TCG ID|Mega Rising|Meowth|312}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|1}} ||  ||  || {{Yes}}
+|-
+| 313/226 || {{TCG ID|Mega Rising|Persian|313}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|1}} ||  ||  || {{Yes}}
+|-
+| 314/226 || {{TCG ID|Mega Rising|Doduo|314}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}} || 
+|-
+| 315/226 || {{TCG ID|Mega Rising|Dodrio|315}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|1}} ||  || {{Yes}} || 
+|-
+| 316/226 || {{TCG ID|Mega Rising|Bidoof|316}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|1}} ||  ||  || {{Yes}}
+|-
+| 317/226 || {{TCG ID|Mega Rising|Decidueye ex|317|Decidueye}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|2}} ||  || {{Yes}} || 
+|-
+| 318/226 || {{TCG ID|Mega Rising|Incineroar ex|318|Incineroar}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|2}} || {{Yes}} ||  || 
+|-
+| 319/226 || {{TCG ID|Mega Rising|Palkia ex|319|Palkia}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|2}} ||  || {{Yes}} || 
+|-
+| 320/226 || {{TCG ID|Mega Rising|Primarina ex|320|Primarina}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|2}} ||  ||  || {{Yes}}
+|-
+| 321/226 || {{TCG ID|Mega Rising|Pikachu ex|321|Pikachu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Shiny|2}} || {{Yes}} ||  || 
+|-
+| 322/226 || {{TCG ID|Mega Rising|Tapu Koko ex|322|Tapu Koko}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Shiny|2}} ||  || {{Yes}} || 
+|-
+| 323/226 || {{TCG ID|Mega Rising|Lycanroc ex|323|Lycanroc}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|2}} || {{Yes}} ||  || 
+|-
+| 324/226 || {{TCG ID|Mega Rising|Passimian ex|324|Passimian}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|2}} ||  ||  || {{Yes}}
+|-
+| 325/226 || {{TCG ID|Mega Rising|Alolan Dugtrio ex|325|Alolan Dugtrio}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Shiny|2}} ||  || {{Yes}} || 
+|-
+| 326/226 || {{TCG ID|Mega Rising|Dialga ex|326|Dialga}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Shiny|2}} ||  ||  || {{Yes}}
+|-
+| 327/226 || {{TCG ID|Mega Rising|Bibarel ex|327|Bibarel}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|2}} ||  ||  || {{Yes}}
+|-
+| 328/226 || {{TCG ID|Mega Rising|Arceus ex|328|Arceus}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|2}} || {{Yes}} ||  || 
+|-
+| 329/226 || {{TCG ID|Mega Rising|Lilligant|329}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Crown|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 330/226 || {{TCG ID|Mega Rising|Klefki|330}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Crown|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|-
+| 331/226 || {{TCG ID|Mega Rising|Flame Patch|331}} || {{TCG Icon|Item}} || {{Rar/TCGP|Crown|1}} || {{Yes}} || {{Yes}} || {{Yes}}
+|}
+
+== Missions ==
+=== Dex Missions ===
+Mega Rising has 15 regular {{DL|Mission (TCG Pocket)|Dex Missions}} and 1 hidden Dex Mission:
+{{TCGPocketMission/Header|reward=yes|tablecol=3FA9D0|bordercol=C08EEA|textcol=FFF}}
+{{TCGPocketMission/Entry|mission=Register 10 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 20 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 30 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 40 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 50 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 60 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 70 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 80 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 90 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising)|num=20}}}}
+{{TCGPocketMission/Entry|mission=Register 100 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising)|num=20}}}}
+{{TCGPocketMission/Entry|mission=Register 120 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising)|num=20}}}}
+{{TCGPocketMission/Entry|mission=Register 140 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising)|num=20}}}}
+{{TCGPocketMission/Entry|mission=Register 160 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising)|num=20}}}}
+{{TCGPocketMission/Entry|mission=Register 180 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising)|num=20}}}}
+{{TCGPocketMission/Entry|mission=Register 200 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising)|num=20}}}}
+|-
+! colspan="2" style="color:#FFF" | Secret Mission
+{{TCGPocketMission/Entry|mission=Register all {{Rar/TCGP|Diamond|1}} – {{Rar/TCGP|Diamond|4}} cards in the card dex|reward={{TCGPocketItem|Mega Rising Mega Gyarados|Mega Rising: Mega Gyarados (profile icon)|type=Profile Icon}}<br>{{TCGPocketItem|Mega Rising Mega Blaziken|Mega Rising: Mega Blaziken (profile icon)|type=Profile Icon}}<br>{{TCGPocketItem|Mega Rising Mega Altaria|Mega Rising: Mega Altaria (profile icon)|type=Profile Icon}}|lastitem=yes}}
+|}
+
+=== Deck Missions ===
+Mega Rising has 11 [[deck]]s and 22 {{DL|Mission (TCG Pocket)|Deck Missions}}. Each deck has two missions:
+
+{{TCGPocketMission/Header|reward=yes|tablecol=3FA9D0|bordercol=C08EEA|textcol=FFF}}
+{{TCGPocketMission/Entry|mission=Collect the highlight card(s) for [deck name]|reward={{TCGPocketItem|Rental Deck|[deck name] rental deck}}}}
+{{TCGPocketMission/Entry|mission=Collect cards for [deck name]|reward={{TCGPocketItem|Theme Deck List|[deck name] theme deck list}}|lastitem=yes}}
+|}
+
+The 11 available decks related to Mega Rising are: 
+{{TCGPocketExpansionDeck/Header|tablecol=3FA9D0|bordercol=C08EEA|textcol=FFF}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Pinsir ex Deck|Mega Rising}}|{{e|Grass}}|{{TCG ID|Mega Rising|Mega Pinsir ex|2}}, {{TCG ID|Mega Rising|Shiftry|10}}, {{TCG ID|Mega Rising|Lilligant|18}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Blaziken ex Deck|Mega Rising}}|{{e|Fire}}|{{TCG ID|Mega Rising|Mega Blaziken ex|36}}, {{TCG ID|Mega Rising|Pyroar|46}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Gyarados ex Deck|Mega Rising}}|{{e|Water}}|{{TCG ID|Mega Rising|Mega Gyarados ex|52}}, {{TCG ID|Mega Rising|Jellicent|69}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Ampharos ex Deck|Mega Rising}}|{{e|Lightning}}|{{TCG ID|Mega Rising|Mega Ampharos ex|85}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Altaria ex Deck|Mega Rising}}|{{e|Psychic}}|{{TCG ID|Mega Rising|Mega Altaria ex|102}}, {{TCG ID|Mega Rising|Jirachi|106}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Hitmonchan ex Deck|Mega Rising}}|{{e|Fighting}}|{{TCG ID|Mega Rising|Hitmonchan ex|124}}, {{TCG ID|Mega Rising|Archeops|134}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Absol ex Deck|Mega Rising}}|{{e|Darkness}}|{{TCG ID|Mega Rising|Mega Absol ex|151}}, {{TCG ID|Mega Rising|Hydreigon|157}}, {{TCG ID|Mega Rising|Pangoro|158}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Melmetal ex Deck|Mega Rising}}|{{e|Metal}}|{{TCG ID|Mega Rising|Melmetal ex|174}}, {{TCG ID|Mega Rising|Aegislash|172}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Marlon Deck|Mega Rising}}|{{e|Water}}|{{TCG ID|Mega Rising|Marlon|221}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Fantina Deck|Mega Rising}}|{{e|Psychic}}|{{TCG ID|Mega Rising|Fantina|224}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Hala Deck|Mega Rising}}|{{e|Fighting}}|{{TCG ID|Mega Rising|Hala|222}}|lastitem=yes}}
+|}
+
+=== Themed Collections ===
+Mega Rising has 23 regular {{DL|Mission (TCG Pocket)|Themed Collections}} and 10 hidden Themed Collections.
+
+{{TCGPocketCollection/Header|tablecol=3FA9D0|bordercol=C08EEA|textcol=FFF}}
+{{TCGPocketCollection/Entry|collection=A Journey of Evolution That Fires Up Your Fighting Spirit
+|cards={{TCG ID|Mega Rising|Mega Blaziken ex|36}} (#036 or #254 or #284)<br>{{TCG ID|Mega Rising|May|223}} (#223 or #268)<br>{{TCG ID|Mega Rising|Torchic|33}} (#033)<br>{{TCG ID|Mega Rising|Combusken|34}} (#034)<br>{{TCG ID|Mega Rising|Blaziken|35}} (#035) 
+|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising) ×22}}
+}}
+{{TCGPocketCollection/Entry|collection=An Immense Power That Rampages through the Ocean
+|cards={{TCG ID|Mega Rising|Mega Gyarados ex|52}} (#052 or #255 or #285)<br>{{TCG ID|Mega Rising|Murkrow|148}} (#148)<br>{{TCG ID|Mega Rising|Wailmer|56}} (#056)<br>{{TCG ID|Mega Rising|Frillish|68}} (#068)<br>{{TCG ID|Mega Rising|Chewtle|76}} (#076) 
+|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising) ×11}}
+}}
+{{TCGPocketCollection/Entry|collection=Bodies of Tightly Packed Fluff
+|cards={{TCG ID|Mega Rising|Mega Altaria ex|102}} (#102 or #259 or #286)<br>{{TCG ID|Mega Rising|Mareep|82}} (#082)<br>{{TCG ID|Mega Rising|Cottonee|15}} (#015)<br>{{TCG ID|Mega Rising|Swirlix|117}} (#117)<br>{{TCG ID|Mega Rising|Wooloo|211}} (#211) 
+|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising) ×11}}
+}}
+{{TCGPocketCollection/Entry|collection=Rhythmic Connections
+|cards={{TCG ID|Mega Rising|Ludicolo|233}} (#233)<br>{{TCG ID|Mega Rising|Palpitoad|64}} (#064)<br>{{TCG ID|Mega Rising|Maractus|19}} (#019)<br>{{TCG ID|Mega Rising|Chatot|198}} (#198) 
+|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising) ×12}}
+}}
+{{TCGPocketCollection/Entry|collection=A Trio of Forest Friends
+|cards={{TCG ID|Mega Rising|Pansage|13}} (#013)<br>{{TCG ID|Mega Rising|Pansear|37}} (#037)<br>{{TCG ID|Mega Rising|Panpour|61}} (#061) 
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=The Gallant Swords of Justice
+|cards={{TCG ID|Mega Rising|Keldeo|70}} (#070 or #235)<br>{{TCG ID|Mega Rising|Cobalion|169}} (#169)<br>{{TCG ID|Mega Rising|Terrakion|137}} (#137)<br>{{TCG ID|Mega Rising|Virizion|20}} (#020) 
+|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising) ×22}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon That Evolve from Fossils
+|cards={{TCG ID|Mega Rising|Cover Fossil|216}} (#216)<br>{{TCG ID|Mega Rising|Tirtouga|66}} (#066)<br>{{TCG ID|Mega Rising|Carracosta|67}} (#067)<br>{{TCG ID|Mega Rising|Plume Fossil|214}} (#214)<br>{{TCG ID|Mega Rising|Archen|133}} (#133)<br>{{TCG ID|Mega Rising|Archeops|134}} (#134 or #242)
+|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising) ×14}}
+}}
+{{TCGPocketCollection/Entry|collection=Smallest Meets Largest
+|cards={{TCG ID|Mega Rising|Joltik|92}} (#092)<br>{{TCG ID|Mega Rising|Wailord|57}} (#057)
+|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Category: Puppy Pokémon
+|cards={{TCG ID|Mega Rising|Growlithe|28}} (#028 or #230)<br>{{TCG ID|Mega Rising|Lillipup|201}} (#201)<br>{{TCG ID|Mega Rising|Yamper|95}} (#095)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising) ×13}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Nice...Hat?
+|cards={{TCG ID|Mega Rising|Ludicolo|55}} (#055 or #233)<br>{{TCG ID|Mega Rising|Breloom|12}} (#012)<br>{{TCG ID|Mega Rising|Honchkrow|149}} (#149 or #244)<br>{{TCG ID|Mega Rising|Mismagius|100}} (#100)
+|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising) ×3}}
+}}
+{{TCGPocketCollection/Entry|collection=Taking Flight in Different Forms
+|cards={{TCG ID|Mega Rising|Wurmple|3}} (#003)<br>{{TCG ID|Mega Rising|Silcoon|4}} (#004)<br>{{TCG ID|Mega Rising|Beautifly|5}} (#005 or #227)<br>{{TCG ID|Mega Rising|Cascoon|6}} (#006)<br>{{TCG ID|Mega Rising|Dustox|7}} (#007)
+|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising) ×2}}
+}}
+{{TCGPocketCollection/Entry|collection=One-Eyed Stares
+|cards={{TCG ID|Mega Rising|Trevenant|24}} (#024)<br>{{TCG ID|Mega Rising|Dusknoir|105}} (#105)<br>{{TCG ID|Mega Rising|Meltan|173}} (#173)<br>{{TCG ID|Mega Rising|Rolycoly|145}} (#145)
+|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising) ×7}}
+}}
+{{TCGPocketCollection/Entry|collection=Sudowoodo Blending In
+|cards={{TCG ID|Mega Rising|Trevenant|24}} (#024) ×5<br>{{TCG ID|Mega Rising|Sudowoodo|125}} (#125)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Warning: May Be Prickly
+|cards={{TCG ID|Mega Rising|Wurmple|3}} (#003)<br>{{TCG ID|Mega Rising|Skorupi|152}} (#152)<br>{{TCG ID|Mega Rising|Ferroseed|166}} (#166)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Manes That Blaze and Shock
+|cards={{TCG ID|Mega Rising|Ponyta|30}} (#030)<br>{{TCG ID|Mega Rising|Blitzle|90}} (#090)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=A Couple of Arm-Crossers
+|cards={{TCG ID|Mega Rising|Krokorok|131}} (#131)<br>{{TCG ID|Mega Rising|Pancham|138}} (#138 or #243)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Distinctive Eyes
+|cards={{TCG ID|Mega Rising|Spinda|195}} (#195)<br>{{TCG ID|Mega Rising|Sableye|101}} (#101)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=The Kahuna Stands Strong
+|cards={{TCG ID|Mega Rising|Hala|222}} (#222 or #267)<br>{{TCG ID|Mega Rising|Hariyama|127}} (#127)<br>{{TCG ID|Mega Rising|Crabominable|140}} (#140)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising) ×1}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=A Bigger Splash Than the Sea
+|cards={{TCG ID|Mega Rising|Marlon|221}} (#221 or #266)<br>{{TCG ID|Mega Rising|Carracosta|67}} (#067)<br>{{TCG ID|Mega Rising|Jellicent|69}} (#069 or #234)
+|reward={{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising) ×12}}
+}}
+{{TCGPocketCollection/Entry|collection=The Alluring, Soulful Dancer
+|cards={{TCG ID|Mega Rising|Fantina|224}} (#224 or #269)<br>{{TCG ID|Mega Rising|Drifblim|108}} (#108)<br>{{TCG ID|Mega Rising|Mismagius|100}} (#100)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Emblem Ticket B1|Emblem Ticket (Mega Rising) ×2}}<br>{{TCGPocketItem|Shop Ticket|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 1 Mega Evolution Pokémon ex Card
+|cards=One of:<br>{{TCG ID|Mega Rising|Mega Pinsir ex|2}} (#002 or #251 or #272)<br>{{TCG ID|Mega Rising|Mega Blaziken ex|36}} (#036 or #254 or #284)<br>{{TCG ID|Mega Rising|Mega Gyarados ex|52}} (#052 or #255 or #285)<br>{{TCG ID|Mega Rising|Mega Ampharos ex|85}} (#085 or #258 or #277)<br>{{TCG ID|Mega Rising|Mega Altaria ex|102}} (#102 or #259 or #286)<br>{{TCG ID|Mega Rising|Mega Absol ex|151}} (#151 or #262 or #280)
+|reward={{TCGPocketItem|Backdrop Mega Evolution Pokémon ex|Mega Evolution Pokémon ex (backdrop)}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Mega Evolution Pokémon ex Card
+|cards=3 in any combination of:<br>{{TCG ID|Mega Rising|Mega Pinsir ex|2}} (#002 or #251 or #272)<br>{{TCG ID|Mega Rising|Mega Blaziken ex|36}} (#036 or #254 or #284)<br>{{TCG ID|Mega Rising|Mega Gyarados ex|52}} (#052 or #255 or #285)<br>{{TCG ID|Mega Rising|Mega Ampharos ex|85}} (#085 or #258 or #277)<br>{{TCG ID|Mega Rising|Mega Altaria ex|102}} (#102 or #259 or #286)<br>{{TCG ID|Mega Rising|Mega Absol ex|151}} (#151 or #262 or #280)
+|reward={{TCGPocketItem|Cover Mega Evolution Pokémon ex|Mega Evolution Pokémon ex (cover)}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Froakie cards
+|cards={{TCG ID|Mega Rising|Froakie|71}} (#071) ×3
+|reward={{TCGPocketItem|Froakie|Froakie (profile icon)|type=Profile Icon}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Yamper cards
+|cards={{TCG ID|Mega Rising|Yamper|95}} (#095) ×3
+|reward={{TCGPocketItem|Yamper|Yamper (profile icon)|type=Profile Icon}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 5 Darkrai cards
+|cards={{TCG ID|Mega Rising|Darkrai|154}} (#154) ×5
+|reward={{TCGPocketItem|Darkrai|Darkrai (profile icon)|type=Profile Icon}}
+}}
+|-
+! colspan="3" style="color:#FFF" | Secret Missions
+{{TCGPocketCollection/Entry|collection=Mega Rising Museum 1
+|cards={{TCG ID|Mega Rising|Beautifly|227}} (#227)<br>{{TCG ID|Mega Rising|Growlithe|230}} (#230)<br>{{TCG ID|Mega Rising|Keldeo|235}} (#235)<br>{{TCG ID|Mega Rising|Luxray|237}} (#237)<br>{{TCG ID|Mega Rising|Makuhita|240}} (#240)<br>{{TCG ID|Mega Rising|Archeops|242}} (#242)<br>{{TCG ID|Mega Rising|Corviknight|246}} (#246)<br>{{TCG ID|Mega Rising|Rufflet|250}} (#250)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Mega Rising Museum 2
+|cards={{TCG ID|Mega Rising|Magikarp|232}} (#232)<br>{{TCG ID|Mega Rising|Jellicent|234}} (#234)<br>{{TCG ID|Mega Rising|Cofagrigus|238}} (#238)<br>{{TCG ID|Mega Rising|Hippowdon|241}} (#241)<br>{{TCG ID|Mega Rising|Pancham|243}} (#243)<br>{{TCG ID|Mega Rising|Honchkrow|244}} (#244)<br>{{TCG ID|Mega Rising|Hydreigon|245}} (#245)<br>{{TCG ID|Mega Rising|Delcatty|248}} (#248)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Mega Rising Museum 3
+|cards={{TCG ID|Mega Rising|Skiddo|228}} (#228)<br>{{TCG ID|Mega Rising|Rillaboom|229}} (#229)<br>{{TCG ID|Mega Rising|Chandelure|231}} (#231)<br>{{TCG ID|Mega Rising|Ludicolo|233}} (#233)<br>{{TCG ID|Mega Rising|Eiscue|236}} (#236)<br>{{TCG ID|Mega Rising|Gothita|239}} (#239)<br>{{TCG ID|Mega Rising|Goomy|247}} (#247)<br>{{TCG ID|Mega Rising|Stoutland|249}} (#249)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Mega Rising Museum 4
+|cards={{TCG ID|Mega Rising|Mega Pinsir ex|272}} (#272)<br>{{TCG ID|Mega Rising|Rapidash ex|274}} (#274)<br>{{TCG ID|Mega Rising|Hitmonchan ex|279}} (#279)<br>{{TCG ID|Mega Rising|Dragalge ex|281}} (#281)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Mega Rising Museum 5
+|cards={{TCG ID|Mega Rising|Greninja ex|275}} (#275)<br>{{TCG ID|Mega Rising|Jolteon ex|276}} (#276)<br>{{TCG ID|Mega Rising|Mega Absol ex|280}} (#280)<br>{{TCG ID|Mega Rising|Melmetal ex|282}} (#282)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Mega Rising Museum 6
+|cards={{TCG ID|Mega Rising|Whimsicott ex|273}} (#273)<br>{{TCG ID|Mega Rising|Mega Ampharos ex|277}} (#277)<br>{{TCG ID|Mega Rising|Indeedee ex|278}} (#278)<br>{{TCG ID|Mega Rising|Tauros ex|283}} (#283)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=A Multitude of Mega Evolution Pokémon!
+|cards={{TCG ID|Mega Rising|Mega Pinsir ex|2}} (#002 or #251 or #272)<br>{{TCG ID|Mega Rising|Mega Blaziken ex|36}} (#036 or #254 or #284)<br>{{TCG ID|Mega Rising|Mega Gyarados ex|52}} (#052 or #255 or #285)<br>{{TCG ID|Mega Rising|Mega Ampharos ex|85}} (#085 or #258 or #277)<br>{{TCG ID|Mega Rising|Mega Altaria ex|102}} (#102 or #259 or #286)<br>{{TCG ID|Mega Rising|Mega Absol ex|151}} (#151 or #262 or #280)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=A Swarm of Bug Pokémon!
+|cards={{TCG ID|Mega Rising|Pinsir|1}} (#001)<br>{{TCG ID|Mega Rising|Mega Pinsir ex|2}} (#002)<br>{{TCG ID|Mega Rising|Wurmple|3}} (#003)<br>{{TCG ID|Mega Rising|Silcoon|4}} (#004)<br>{{TCG ID|Mega Rising|Beautifly|5}} (#005)<br>{{TCG ID|Mega Rising|Cascoon|6}} (#006)<br>{{TCG ID|Mega Rising|Dustox|7}} (#007)<br>{{TCG ID|Mega Rising|Joltik|92}} (#092)<br>{{TCG ID|Mega Rising|Galvantula|93}} (#093)<br>{{TCG ID|Mega Rising|Skorupi|152}} (#152)<br>{{TCG ID|Mega Rising|Durant|168}} (#168)<br>{{TCG ID|Mega Rising|Beautifly|227}} (#227)<br>{{TCG ID|Mega Rising|Mega Pinsir ex|251}} (#251)<br>{{TCG ID|Mega Rising|Mega Pinsir ex|272}} (#272)
+|reward={{TCGPocketItem|Mega Pinsir|Mega Pinsir (emblem)|type=Emblem}}|lastitem=yes}}
+|}
+
+== Offering rates ==
+The following tables outline the offering rates for each Mega Rising booster pack.
+
+The probability of each type of pack appearing is as follows:
+* Regular pack - 94.711%
+* Regular pack + 1 card - 5.238%
+* Rare pack - 0.050%
+
+In regular packs with a bonus card, the card inclusion rates for the first five cards are the same as those for regular packs without a bonus card.
+
+=== Mega Rising: Mega Gyarados ===
+While all {{rar/TCGP|Crown}} cards can be found in regular packs, the only one that can be pulled from a rare pack is {{TCG ID|Mega Rising|Klefki|330}}.
+
+{{Rar/TCGP|Shiny|1}} and {{Rar/TCGP|Shiny|2}} rarity cards are only available as bonus cards.
+
+{{TCGPocketRates/Header|tablecol=3FA9D0|bordercol=C08EEA|cellcol=E66F80|bonuscard=yes}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 2.040% || — || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 2.727% || 1.818% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.333% || 1.333% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.333% || 1.333% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.321% || 1.285% || — || 4.761%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.045% || 0.181% || — || 4.761%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.889% || — || 4.761%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|1}} || — || — || — || 6.818% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|2}} || — || — || — || 7.955% || —
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.013% || 0.053% || — || style="border-bottom-right-radius:5px" | 4.761%
+|}
+
+=== Mega Rising: Mega Blaziken ===
+While all {{rar/TCGP|Crown}} cards can be found in regular packs, the only one that can be pulled from a rare pack is {{TCG ID|Mega Rising|Flame Patch|331}}.
+
+{{Rar/TCGP|Shiny|1}} and {{Rar/TCGP|Shiny|2}} rarity cards are only available as bonus cards.
+
+{{TCGPocketRates/Header|tablecol=3FA9D0|bordercol=C08EEA|cellcol=E66F80|bonuscard=yes}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 2.040% || — || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 2.727% || 1.818% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.333% || 1.333% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.333% || 1.333% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.321% || 1.285% || — || 4.761%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.045% || 0.181% || — || 4.761%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.889% || — || 4.761%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|1}} || — || — || — || 6.818% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|2}} || — || — || — || 7.955% || —
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.013% || 0.053% || — || style="border-bottom-right-radius:5px" | 4.761%
+|}
+
+=== Mega Rising: Mega Altaria ===
+While all {{rar/TCGP|Crown}} cards can be found in regular packs, the only one that can be pulled from a rare pack is {{TCG ID|Mega Rising|Lilligant|329}}.
+
+{{Rar/TCGP|Shiny|1}} and {{Rar/TCGP|Shiny|2}} rarity cards are only available as bonus cards.
+
+{{TCGPocketRates/Header|tablecol=3FA9D0|bordercol=C08EEA|cellcol=E66F80|bonuscard=yes}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 2.040% || — || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 2.727% || 1.818% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.333% || 1.333% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.333% || 1.333% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.321% || 1.285% || — || 4.761%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.045% || 0.181% || — || 4.761%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.889% || — || 4.761%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|1}} || — || — || — || 6.818% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|2}} || — || — || — || 7.955% || —
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.013% || 0.053% || — || style="border-bottom-right-radius:5px" | 4.761%
+|}
+
+
+== Solo battles ==
+{{main|List of Mega Rising solo battles in Pokémon TCG Pocket}}
+
+== Gallery ==
+<!--The pack artworks for the Mega Rising expansion were illustrated by [[PLANETA]].<ref></ref>-->
+
+=== Key artwork ===
+{{TCGMerchGallery
+|background=3FA9D0
+|border=C08EEA
+|image1=B1 Key Art.png
+|size1=400px
+|caption1=Key artwork
+}}
+
+=== Pack artwork ===
+{{TCGMerchGallery
+|background=3FA9D0
+|border=C08EEA
+|image1=B1 Booster Mega Gyarados EN.png
+|caption1=English Mega Gyarados pack
+|image2=B1 Booster Mega Blaziken EN.png
+|caption2=English Mega Blaziken pack
+|image3=B1 Booster Mega Altaria EN.png
+|caption3=English Mega Altaria pack
+}}
+
+=== Pack logos ===
+{{TCGMerchGallery
+|background=3FA9D0
+|border=C08EEA
+|image1=B1 Logo Mega Gyarados EN.png
+|caption1=English Mega Gyarados logo
+|image2=B1 Logo Mega Blaziken EN.png
+|caption2=English Mega Blaziken logo
+|image3=B1 Logo Mega Altaria EN.png
+|caption3=English Mega Altaria logo
+|image5=B1 Logo Mega Gyarados JA.png
+|caption5=Japanese Mega Gyarados logo
+|image6=B1 Logo Mega Blaziken JA.png
+|caption6=Japanese Mega Blaziken logo
+|image7=B1 Logo Mega Altaria JA.png
+|caption7=Japanese Mega Altaria logo
+}}
+
+== In other languages ==
+{{Langtable|color=3FA9D0|bordercolor=C08EEA|textcolor=FFF
+|ja=メガライジング ''Mega Rising''
+|zh_yue=超級崛起 ''Chīukāp Gwahthéi''
+|zh_cmn=超級崛起 ''Chāojí Juéqǐ''
+|fr=Méga-Ascension
+|de=Mega-Aufstieg
+|it=Mega Ascesa
+|ko=메가라이징 ''Mega Rising''
+|pt_br=Mega Ascensão
+|es=Megaascenso
+}}
+
+== References ==
+{{reflist}}
+
+== Related articles ==
+{{TCGPocketNavigation}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Aufstieg (TCG Pocket)]]
+[[es:Megaascenso (TCG Pocket)]]
+[[fr:Méga-Ascension]]
+[[it:Mega Ascesa (GCC Pocket)]]
+[[ja:メガライジング]]
+[[zh:超級崛起（TCGP）]]

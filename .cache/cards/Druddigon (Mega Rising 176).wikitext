@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Druddigon
+|ja name=クリムガン 
+|trans name=Crimgan
+|species=Druddigon
+|type=Dragon
+|image=DruddigonMegaRising176.png
+|illustrator=hatachu
+|hp=110
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=176/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+}}
+
+'''Druddigon''' (Japanese: '''クリムガン ''' ''Crimgan'') is a {{ct|Dragon}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Fire}}{{e|Water}}{{e|Colorless}}{{e|Colorless}}
+|name=Giga Claw
+|jname=ギガクロー
+|jtrans=Giga Claw
+|damage=120
+|effect=Flip 2 coins. If both of them are tails, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Druddigon
+|species=Cave
+|ndex=0621
+|height=5'3"
+|jheight=1.6
+|weight=306.4
+|jweight=139.0
+|dex=Druddigon are vicious and cunning. They take up residence in nests dug out by other Pokémon, treating the stolen nests as their own lairs.
+|jdex=凶暴で ずる賢い。 ほかの ポケモンが 掘った 巣穴を 奪って すみかにする。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Druddigon|157}} from the {{TCG|Unified Minds}} expansion.
+*'''Giga Claw''' is an attack that first appeared on {{TCG ID|Steam Siege|Druddigon|83}} from {{TCG|Steam Siege}}.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Shardrago (Mega-Aufstieg 176)]]
+[[es:Druddigon (Megaascenso TCG Pocket)]]
+[[fr:Drakkarmin (Méga-Ascension 176)]]
+[[it:Druddigon (Mega Ascesa 176)]]
+[[ja:クリムガン (ポケポケ B1)]]
+[[zh:赤面龙（B1）]]

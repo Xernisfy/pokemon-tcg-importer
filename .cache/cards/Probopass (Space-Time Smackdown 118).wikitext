@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Probopass
+|ja name=ダイノーズ
+|trans name=Dainose
+|species=Probopass
+|type=Metal
+|image=ProbopassSpace-TimeSmackdown118.png
+|illustrator=MAHOU
+|hp=130
+|weakness=Fire
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Nosepass
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=118/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Probopass''' (Japanese: '''ダイノーズ''' ''Dainose'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Metal}}{{e|Colorless}}
+|name=Triple Nose
+|jname=トリプルノーズ
+|jtrans=Triple Nose
+|damage=30+
+|effect=Flip 3 coins. This attack does 50 more damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Probopass
+|species=Compass
+|ndex=0476
+|height=4'7"
+|jheight=1.4
+|weight=749.6
+|jweight=340.0
+|dex=Although it can control its units known as Mini-Noses, they sometimes get lost and don't come back.
+|jdex=チビノーズと 呼ばれる ユニットを 操るが たまに 迷子に なって 帰ってこないことも あるらしい。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Steam Siege|Probopass|55}} from the {{TCG|Steam Siege}} expansion.
+*'''Triple Nose''' is an attack that first appeared on {{TCG ID|POP Series 8|Probopass|4}} from the {{TCG|POP Series 8}} collection of cards.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Voluminas (Kollision von Raum und Zeit 118)]]
+[[es:Probopass (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Tarinorme (Choc Spatio-Temporel 118)]]
+[[it:Probopass (Scontro Spaziotemporale 118)]]
+[[ja:ダイノーズ (ポケポケ A2)]]
+[[zh:大朝北鼻（A2）]]

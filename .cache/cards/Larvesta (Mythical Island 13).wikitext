@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Larvesta
+|ja name=メラルバ
+|trans name=Merlarva
+|species=Larvesta
+|type=Fire
+|image=LarvestaMythicalIsland13.png
+|illustrator=kawayoo
+|hp=80
+|weakness=Water
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=013/068|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Larvesta''' (Japanese: '''メラルバ''' ''Merlarva'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}
+|name=Combustion
+|jname=かえん
+|jtrans=Blaze
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Larvesta
+|species=Torch
+|ndex=0636
+|height=3'7"
+|jheight=1.1
+|weight=63.5
+|jweight=28.8
+|dex=This Pokémon was called the Larva That Stole the Sun. The fire Larvesta spouts from its horns can cut right through a sheet of iron.
+|jdex=太陽を 盗んだ 幼虫と 呼ばれていた。 ツノから 噴き出す 炎は 鉄板も 焼き切る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Shining Legends|Larvesta|12}} from the {{TCG|Shining Legends}} expansion.
+*'''Combustion''' is an attack that first appeared on {{TCG ID|Neo Destiny|Slugma|82}} from the {{TCG|Neo Destiny}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ignivor (Mysteriöse Insel 013)]]
+[[es:Larvesta (La Isla Singular TCG Pocket)]]
+[[fr:Pyronille (L'Île Fabuleuse 013)]]
+[[it:Larvesta (L'Isola Misteriosa 13)]]
+[[ja:メラルバ (ポケポケ A1a)]]
+[[zh:燃烧虫（A1a）]]

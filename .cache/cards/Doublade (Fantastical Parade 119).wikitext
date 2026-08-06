@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Doublade
+|ja name=ニダンギル
+|trans name=Nidangill
+|species=Doublade
+|type=Metal
+|image=DoubladeFantasticalParade119.png
+|illustrator=Shin Nagasawa
+|hp=90
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Honedge
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=119/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Doublade''' (Japanese: '''ニダンギル''' ''Nidangill'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}
+|name=Dual Blades
+|jname=にだんきり
+|jtrans=Dual Slash
+|damage=40×
+|effect=Flip 2 coins. This attack does 40 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Doublade
+|category=Sword
+|ndex=0680
+|height=2'7"
+|jheight=0.8
+|weight=9.9
+|jweight=4.5
+|dex=The two swords employ a strategy of rapidly alternating between offense and defense to bring down their prey.
+|jdex=2本の 剣は 攻撃と 防御が 目まぐるしく 入れ替わる 戦法で 獲物を しとめる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Doublade|108}} from the {{TCG|Team Up}} expansion.
+*'''Dual Blades''' is an attack that first appeared on {{TCG ID|XY|Doublade|84}} from the {{TCG|XY}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Duokles (Traumhafte Parade 119)]]
+[[fr:Dimoclès (Parade Onirique 119)]]
+[[it:Doublade (Parata Fantasmagorica 119)]]
+[[ja:ニダンギル (ポケポケ B2)]]
+[[zh:双剑鞘（B2）]]

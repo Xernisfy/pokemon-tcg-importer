@@ -1,0 +1,432 @@
+{{TCGPocketExpansionPrevNext | prev = Mega Rising | next = Fantastical Parade}}
+{{TCGPocketExpansionInfobox
+|setname=Crimson Blaze
+|jasetname=紅蓮ブレイズ
+|jasettrans=Crimson Blaze
+|setlogo=B1a Set Logo EN.png
+|release=December 17, 2025
+|cards=103 (69 + 34 secret)
+|collections=16 (11 + 5 secret)
+|dex missions=11 (10 + 1 secret)
+|deck missions=12
+|decks=6
+|battles=
+}}
+'''Crimson Blaze''' (Japanese: '''{{j|紅蓮ブレイズ}}''' ''Crimson Blaze'') is the seventh themed booster pack, and the thirteenth expansion overall, in [[Pokémon Trading Card Game Pocket]].
+
+== Information ==
+'''Crimson Blaze''' is the seventh themed booster pack released through [[Pokémon Trading Card Game Pocket]]. The expansion continues to introduce {{TCGP|Mega Evolution Pokémon ex}} into the game, with a focus on the [[Mega Evolution]]s of the [[first partner Pokémon]] trio of the [[Kanto]] [[region]]. It also features various characters from {{g|X and Y}}, such as [[Serena]] and [[Clemont]], as Trainer cards.
+
+== Card list ==
+{{TCG Set List/header|tablecol=E77A04|bordercol=FFAB00|cellcol=DB2100}}
+|-
+| 001/069 || {{TCG ID|Crimson Blaze|Bulbasaur|1}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 002/069 || {{TCG ID|Crimson Blaze|Ivysaur|2}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 003/069 || {{TCG ID|Crimson Blaze|Venusaur|3}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 004/069 || {{TCG ID|Crimson Blaze|Mega Venusaur ex|4|Mega Venusaur}}{{Mega ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 005/069 || {{TCG ID|Crimson Blaze|Spinarak|5}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 006/069 || {{TCG ID|Crimson Blaze|Ariados|6}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 007/069 || {{TCG ID|Crimson Blaze|Sunkern|7}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 008/069 || {{TCG ID|Crimson Blaze|Sunflora|8}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 009/069 || {{TCG ID|Crimson Blaze|Burmy|9}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 010/069 || {{TCG ID|Crimson Blaze|Mothim|10}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 011/069 || {{TCG ID|Crimson Blaze|Charmander|11}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 012/069 || {{TCG ID|Crimson Blaze|Charmeleon|12}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 013/069 || {{TCG ID|Crimson Blaze|Charizard|13}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 014/069 || {{TCG ID|Crimson Blaze|Mega Charizard Y ex|14|Mega Charizard Y}}{{Mega ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 015/069 || {{TCG ID|Crimson Blaze|Houndour|15}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 016/069 || {{TCG ID|Crimson Blaze|Houndoom|16}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 017/069 || {{TCG ID|Crimson Blaze|Squirtle|17}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 018/069 || {{TCG ID|Crimson Blaze|Wartortle|18}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 019/069 || {{TCG ID|Crimson Blaze|Blastoise|19}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 020/069 || {{TCG ID|Crimson Blaze|Mega Blastoise ex|20|Mega Blastoise}}{{Mega ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 021/069 || {{TCG ID|Crimson Blaze|Basculin|21}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 022/069 || {{TCG ID|Crimson Blaze|Clauncher|22}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 023/069 || {{TCG ID|Crimson Blaze|Clawitzer|23}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 024/069 || {{TCG ID|Crimson Blaze|Magnemite|24}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 025/069 || {{TCG ID|Crimson Blaze|Magneton|25}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 026/069 || {{TCG ID|Crimson Blaze|Magnezone|26}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 027/069 || {{TCG ID|Crimson Blaze|Emolga|27}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 028/069 || {{TCG ID|Crimson Blaze|Helioptile|28}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 029/069 || {{TCG ID|Crimson Blaze|Heliolisk|29}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 030/069 || {{TCG ID|Crimson Blaze|Misdreavus|30}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 031/069 || {{TCG ID|Crimson Blaze|Mismagius|31}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 032/069 || {{TCG ID|Crimson Blaze|Solosis|32}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 033/069 || {{TCG ID|Crimson Blaze|Duosion|33}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 034/069 || {{TCG ID|Crimson Blaze|Reuniclus|34}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 035/069 || {{TCG ID|Crimson Blaze|Spritzee|35}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 036/069 || {{TCG ID|Crimson Blaze|Aromatisse|36}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 037/069 || {{TCG ID|Crimson Blaze|Xerneas|37}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 038/069 || {{TCG ID|Crimson Blaze|Onix|38}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 039/069 || {{TCG ID|Crimson Blaze|Makuhita|39}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 040/069 || {{TCG ID|Crimson Blaze|Hariyama|40}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 041/069 || {{TCG ID|Crimson Blaze|Nosepass|41}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 042/069 || {{TCG ID|Crimson Blaze|Mega Lopunny ex|42|Mega Lopunny}}{{Mega ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 043/069 || {{TCG ID|Crimson Blaze|Mienfoo|43}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 044/069 || {{TCG ID|Crimson Blaze|Mienshao|44}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 045/069 || {{TCG ID|Crimson Blaze|Grimer|45}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 046/069 || {{TCG ID|Crimson Blaze|Muk|46}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 047/069 || {{TCG ID|Crimson Blaze|Purrloin|47}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 048/069 || {{TCG ID|Crimson Blaze|Liepard|48}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 049/069 || {{TCG ID|Crimson Blaze|Trubbish|49}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 050/069 || {{TCG ID|Crimson Blaze|Garbodor|50}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 051/069 || {{TCG ID|Crimson Blaze|Steelix|51}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 052/069 || {{TCG ID|Crimson Blaze|Mega Steelix ex|52|Mega Steelix}}{{Mega ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 053/069 || {{TCG ID|Crimson Blaze|Probopass|53}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 054/069 || {{TCG ID|Crimson Blaze|Genesect|54}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 055/069 || {{TCG ID|Crimson Blaze|Ditto|55}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 056/069 || {{TCG ID|Crimson Blaze|Porygon|56}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 057/069 || {{TCG ID|Crimson Blaze|Porygon2|57}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 058/069 || {{TCG ID|Crimson Blaze|Porygon-Z|58}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 059/069 || {{TCG ID|Crimson Blaze|Starly|59}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 060/069 || {{TCG ID|Crimson Blaze|Staravia|60}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 061/069 || {{TCG ID|Crimson Blaze|Staraptor|61}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 062/069 || {{TCG ID|Crimson Blaze|Buneary|62}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 063/069 || {{TCG ID|Crimson Blaze|Lopunny|63}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 064/069 || {{TCG ID|Crimson Blaze|Bouffalant|64}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 065/069 || {{TCG ID|Crimson Blaze|Furfrou|65}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 066/069 || {{TCG ID|Crimson Blaze|Clemont's Backpack|66}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 067/069 || {{TCG ID|Crimson Blaze|Quick-Grow Extract|67}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 068/069 || {{TCG ID|Crimson Blaze|Clemont|68}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 069/069 || {{TCG ID|Crimson Blaze|Serena|69}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 070/069 || {{TCG ID|Crimson Blaze|Ariados|70}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}}
+|-
+| 071/069 || {{TCG ID|Crimson Blaze|Sunflora|71}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}}
+|-
+| 072/069 || {{TCG ID|Crimson Blaze|Reuniclus|72}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}}
+|-
+| 073/069 || {{TCG ID|Crimson Blaze|Xerneas|73}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}}
+|-
+| 074/069 || {{TCG ID|Crimson Blaze|Trubbish|74}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|1}}
+|-
+| 075/069 || {{TCG ID|Crimson Blaze|Buneary|75}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}}
+|-
+| 076/069 || {{TCG ID|Crimson Blaze|Mega Venusaur ex|76|Mega Venusaur}}{{Mega ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}}
+|-
+| 077/069 || {{TCG ID|Crimson Blaze|Mega Charizard Y ex|77|Mega Charizard Y}}{{Mega ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|2}}
+|-
+| 078/069 || {{TCG ID|Crimson Blaze|Mega Blastoise ex|78|Mega Blastoise}}{{Mega ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}}
+|-
+| 079/069 || {{TCG ID|Crimson Blaze|Mega Lopunny ex|79|Mega Lopunny}}{{Mega ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}}
+|-
+| 080/069 || {{TCG ID|Crimson Blaze|Mega Steelix ex|80|Mega Steelix}}{{Mega ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}}
+|-
+| 081/069 || {{TCG ID|Crimson Blaze|Clemont|81}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 082/069 || {{TCG ID|Crimson Blaze|Serena|82}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 083/069 || {{TCG ID|Crimson Blaze|Mega Venusaur ex|83|Mega Venusaur}}{{Mega ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}}
+|-
+| 084/069 || {{TCG ID|Crimson Blaze|Mega Blastoise ex|84|Mega Blastoise}}{{Mega ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}}
+|-
+| 085/069 || {{TCG ID|Crimson Blaze|Mega Lopunny ex|85|Mega Lopunny}}{{Mega ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}}
+|-
+| 086/069 || {{TCG ID|Crimson Blaze|Mega Steelix ex|86|Mega Steelix}}{{Mega ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}}
+|-
+| 087/069 || {{TCG ID|Crimson Blaze|Mega Charizard Y ex|87|Mega Charizard Y}}{{Mega ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|3}}
+|-
+| 088/069 || {{TCG ID|Crimson Blaze|Oddish|88}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 089/069 || {{TCG ID|Crimson Blaze|Gloom|89}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 090/069 || {{TCG ID|Crimson Blaze|Vileplume|90}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 091/069 || {{TCG ID|Crimson Blaze|Charizard|91}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 092/069 || {{TCG ID|Crimson Blaze|Shellder|92}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 093/069 || {{TCG ID|Crimson Blaze|Cloyster|93}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 094/069 || {{TCG ID|Crimson Blaze|Sandshrew|94}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 095/069 || {{TCG ID|Crimson Blaze|Sandslash|95}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 096/069 || {{TCG ID|Crimson Blaze|Type: Null|96}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 097/069 || {{TCG ID|Crimson Blaze|Silvally|97}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 098/069 || {{TCG ID|Crimson Blaze|Buzzwole ex|98|Buzzwole}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 099/069 || {{TCG ID|Crimson Blaze|Lunala ex|99|Lunala}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 100/069 || {{TCG ID|Crimson Blaze|Guzzlord ex|100|Guzzlord}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 101/069 || {{TCG ID|Crimson Blaze|Solgaleo ex|101|Solgaleo}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 102/069 || {{TCG ID|Crimson Blaze|Aegislash|102}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Crown|1}}
+|-
+| 103/069 || {{TCG ID|Crimson Blaze|Quick-Grow Extract|103}} || {{TCG Icon|Item}} || {{Rar/TCGP|Crown|1}}
+|}
+
+==Missions==
+
+=== Dex Missions ===
+Crimson Blaze has 10 regular {{DL|Mission (TCG Pocket)|Dex Missions}} and one hidden Dex Mission:
+{{TCGPocketMission/Header|reward=yes|tablecol=DB2100|bordercol=FFAB00|textcol=FFF}}
+{{TCGPocketMission/Entry|mission=Register 5 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 10 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 15 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 20 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 25 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 30 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 35 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 45 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 55 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 65 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze)|num=5}}}}
+|-
+! colspan="2" style="color:#FFF" | Secret Mission
+{{TCGPocketMission/Entry|mission=Register all {{Rar/TCGP|Diamond|1}} – {{Rar/TCGP|Diamond|4}} cards in the card dex|reward={{TCGPocketItem|Crimson Blaze Mega Charizard Y|Crimson Blaze: Mega Charizard Y (profile icon)|type=Profile Icon}}|lastitem=yes}}
+|}
+
+=== Deck Missions ===
+Crimson Blaze has 6 [[deck]]s and 12 {{DL|Mission (TCG Pocket)|Deck Missions}}. Each deck has two missions:
+
+{{TCGPocketMission/Header|reward=yes|tablecol=DB2100|bordercol=FFAB00|textcol=FFF}}
+{{TCGPocketMission/Entry|mission=Collect the highlight card(s) for [deck name]|reward={{TCGPocketItem|Rental Deck|[deck name] rental deck}}}}
+{{TCGPocketMission/Entry|mission=Collect cards for [deck name]|reward={{TCGPocketItem|Theme Deck List|[deck name] theme deck list}}|lastitem=yes}}
+|}
+
+The 6 available decks related to Crimson Blaze are: 
+{{TCGPocketExpansionDeck/Header|tablecol=DB2100|bordercol=FFAB00|textcol=FFF}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Venusaur ex Deck|Crimson Blaze}}|{{e|Grass}}|{{TCG ID|Crimson Blaze|Mega Venusaur ex|4}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Charizard Y ex Deck|Crimson Blaze}}|{{e|Fire}}|{{TCG ID|Crimson Blaze|Mega Charizard Y ex|14}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Blastoise ex Deck|Crimson Blaze}}|{{e|Water}}|{{TCG ID|Crimson Blaze|Mega Blastoise ex|20}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Clemont Deck|Crimson Blaze}}|{{e|Lightning}}|{{TCG ID|Crimson Blaze|Clemont|68}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Lopunny ex Deck|Crimson Blaze}}|{{e|Fighting}}|{{TCG ID|Crimson Blaze|Mega Lopunny ex|42}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mega Steelix ex Deck|Crimson Blaze}}|{{e|Metal}}|{{TCG ID|Crimson Blaze|Mega Steelix ex|52}}, {{TCG ID|Crimson Blaze|Genesect|54}}|lastitem=yes}}
+|}
+
+=== Themed Collections ===
+Crimson Blaze has 11 regular {{DL|Mission (TCG Pocket)|Themed Collections}} and 5 hidden Themed Collections.
+
+{{TCGPocketCollection/Header|tablecol=DB2100|bordercol=FFAB00|textcol=FFF}}
+{{TCGPocketCollection/Entry|collection=Crimson Ascension
+|cards={{TCG ID|Crimson Blaze|Charmander|11}} (#011)<br>{{TCG ID|Crimson Blaze|Charmeleon|12}} (#012)<br>{{TCG ID|Crimson Blaze|Charizard|13}} (#013)<br>{{TCG ID|Crimson Blaze|Mega Charizard Y ex|14}} (#014 or #077 or #087) 
+|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze) ×11}}
+}}
+{{TCGPocketCollection/Entry|collection=Mighty Water Blasts
+|cards={{TCG ID|Crimson Blaze|Wartortle|18}} (#018)<br>{{TCG ID|Crimson Blaze|Mega Blastoise ex|20}} (#020 or #078 or #084)<br>{{TCG ID|Crimson Blaze|Clauncher|22}} (#022)
+|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze) ×8}}
+}}
+{{TCGPocketCollection/Entry|collection=Overpowering Aromas
+|cards={{TCG ID|Crimson Blaze|Mega Venusaur ex|4}} (#004 or #076 or #083)<br>{{TCG ID|Crimson Blaze|Spinarak|5}} (#005)<br>{{TCG ID|Crimson Blaze|Mothim|10}} (#010)<br>{{TCG ID|Crimson Blaze|Spritzee|35}} (#035)
+|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze) ×8}}
+}}
+{{TCGPocketCollection/Entry|collection=Deposit Trash in Mouth
+|cards={{TCG ID|Crimson Blaze|Grimer|45}} (#045)<br>{{TCG ID|Crimson Blaze|Muk|46}} (#046)<br>{{TCG ID|Crimson Blaze|Trubbish|49}} (#049)<br>{{TCG ID|Crimson Blaze|Garbodor|50}} (#050)<br>{{TCG ID|Crimson Blaze|Trubbish|74}} (#074)
+|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze) ×6}}
+}}
+{{TCGPocketCollection/Entry|collection=Sunkern's Growth Diary
+|cards={{TCG ID|Crimson Blaze|Sunkern|7}} (#007)<br>{{TCG ID|Crimson Blaze|Sunflora|8}} (#008)
+|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Artificial Pokémon
+|cards={{TCG ID|Crimson Blaze|Genesect|54}} (#054)<br>{{TCG ID|Crimson Blaze|Porygon|56}} (#056)<br>{{TCG ID|Crimson Blaze|Porygon2|57}} (#057)<br>{{TCG ID|Crimson Blaze|Porygon-Z|58}} (#058)
+|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze) ×6}}
+}}
+{{TCGPocketCollection/Entry|collection=Magnetic Pokémon
+|cards={{TCG ID|Crimson Blaze|Magnemite|24}} (#024)<br>{{TCG ID|Crimson Blaze|Magneton|25}} (#025)<br>{{TCG ID|Crimson Blaze|Magnezone|26}} (#026)<br>{{TCG ID|Crimson Blaze|Nosepass|41}} (#041)<br>{{TCG ID|Crimson Blaze|Probopass|53}}
+|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze) ×4}}
+}}
+{{TCGPocketCollection/Entry|collection=A Flock of Starly
+|cards={{TCG ID|Crimson Blaze|Starly|59}} (#059) ×5
+|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Clemont the Inventor
+|cards={{TCG ID|Crimson Blaze|Magneton|25}} (#025)<br>{{TCG ID|Crimson Blaze|Emolga|27}} (#027)<br>{{TCG ID|Crimson Blaze|Heliolisk|29}} (#029)<br>{{TCG ID|Crimson Blaze|Clemont|68}} (#068 or #081)
+|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze) ×1}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon with Horns
+|cards={{TCG ID|Crimson Blaze|Ariados|6}} (#006 or #070)<br>{{TCG ID|Crimson Blaze|Houndoom|16}} (#016)<br>{{TCG ID|Crimson Blaze|Xerneas|37}} (#037 or #073)<br>{{TCG ID|Crimson Blaze|Bouffalant|64}} (#064)
+|reward={{TCGPocketItem|Emblem Ticket B1a|Emblem Ticket (Crimson Blaze) ×4}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Serena cards
+|cards={{TCG ID|Crimson Blaze|Serena|69}} (#069 or #082) ×3
+|reward={{TCGPocketItem|Serena|Serena (profile icon)|type=Profile Icon}}
+}}
+|-
+! colspan="3" style="color:#FFF" | Secret Missions
+{{TCGPocketCollection/Entry|collection=Crimson Blaze Museum 1
+|cards={{TCG ID|Crimson Blaze|Ariados|70}} (#070)<br>{{TCG ID|Crimson Blaze|Sunflora|71}} (#071)<br>{{TCG ID|Crimson Blaze|Reuniclus|72}} (#072)<br>{{TCG ID|Crimson Blaze|Xerneas|73}} (#073)<br>{{TCG ID|Crimson Blaze|Trubbish|74}} (#074)<br>{{TCG ID|Crimson Blaze|Buneary|75}} (#075)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Crimson Blaze Museum 2
+|cards={{TCG ID|Crimson Blaze|Mega Venusaur ex|83}} (#083)<br>{{TCG ID|Crimson Blaze|Mega Blastoise ex|84}} (#084)<br>{{TCG ID|Crimson Blaze|Mega Lopunny ex|85}} (#085)<br>{{TCG ID|Crimson Blaze|Mega Steelix ex|86}} (#086)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Mega Charizard Y ex Museum
+|cards={{TCG ID|Crimson Blaze|Mega Charizard Y ex|14}} (#014)<br>{{TCG ID|Crimson Blaze|Mega Charizard Y ex|77}} (#077)<br>{{TCG ID|Crimson Blaze|Mega Charizard Y ex|87}} (#087)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Mega Venusaur's Evolution
+|cards={{TCG ID|Crimson Blaze|Bulbasaur|1}} (#001)<br>{{TCG ID|Crimson Blaze|Ivysaur|2}} (#002)<br>{{TCG ID|Crimson Blaze|Venusaur|3}} (#003)<br>{{TCG ID|Crimson Blaze|Mega Venusaur ex|4}} (#004)<br>{{TCG ID|Crimson Blaze|Mega Venusaur ex|76}} (#076)<br>{{TCG ID|Crimson Blaze|Mega Venusaur ex|83}} (#083)
+|reward={{TCGPocketItem|Mega Venusaur|Mega Venusaur (emblem)|type=Emblem}}
+}}
+{{TCGPocketCollection/Entry|collection=A Multitude of Mega Evolution Pokémon!
+|cards={{TCG ID|Crimson Blaze|Mega Venusaur ex|4}} (#004 or #076 or #083)<br>{{TCG ID|Crimson Blaze|Mega Charizard Y ex|14}} (#014 or #077 or #087)<br>{{TCG ID|Crimson Blaze|Mega Blastoise ex|20}} (#020 or #078 or #084)<br>{{TCG ID|Crimson Blaze|Mega Lopunny ex|42}} (#042 or #079 or #085)<br>{{TCG ID|Crimson Blaze|Mega Steelix ex|52}} (#52 or #080 or #086)
+|reward={{TCGPocketItem|Mega Blastoise|Mega Blastoise (emblem)|type=Emblem}}|lastitem=yes}}
+|}
+
+
+== Offering rates ==
+The following table outlines the offering rates for each individual card in the Crimson Blaze booster pack.
+
+The probability of each type of pack appearing is as follows:
+* Regular pack - 94.711%
+* Regular pack + 1 card - 5.238%
+* Rare pack - 0.050%
+
+In regular packs with a bonus card, the card inclusion rates for the first five cards are the same as those for regular packs without a bonus card.
+
+{{Rar/TCGP|Shiny|1}} and {{Rar/TCGP|Shiny|2}} rarity cards are only available as bonus cards.
+
+{{TCGPocketRates/Header|tablecol=E77A04|bordercol=FFAB00|cellcol=DB2100|bonuscard=yes}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 3.125% || — || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 3.749% || 2.500% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.625% || 2.500% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.333% || 1.333% || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.428% || 1.714% || — || 5.000%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.045% || 0.181% || — || 5.000%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.889% || — || 5.000%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|1}} || — || — || — || 6.818% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|2}} || — || — || — || 7.955% || —
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.040% || 0.079% || — || style="border-bottom-right-radius:5px" | 5.000%
+|}
+
+== Solo battles ==
+{{main|List of Crimson Blaze solo battles in Pokémon TCG Pocket}}
+
+== Gallery ==
+=== Key artwork ===
+{{TCGMerchGallery
+|background=DB2100
+|border=FFAB00
+|image1=B1a Key Art.png
+|size1=400px
+|caption1=Key artwork
+}}
+
+=== Pack artwork ===
+{{TCGMerchGallery
+|background=DB2100
+|border=FFAB00
+|image1=B1a Booster EN.png
+|caption1=Booster pack
+}}
+
+=== Pack logo ===
+{{TCGMerchGallery
+|background=DB2100
+|border=FFAB00
+|image1=B1a Pack Logo EN.png
+|caption1=English logo
+|image5=B1a Logo JA.png
+|caption5=Japanese logo
+}}
+
+== In other languages ==
+{{Langtable|color=DB2100|bordercolor=FFAB00
+|ja=紅蓮ブレイズ ''Guren Blaze''
+|zh_yue=紅蓮烈焰 ''Hùhnglìhn Lihtyihm''
+|zh_cmn=紅蓮烈焰 ''Hónglián Lièyàn''
+|fr=Embrasement Écarlate
+|de=Feuerrote Flammen
+|it=Fiamme Cremisi
+|ko=홍련 블레이즈 ''Hongnyeon Blaze''
+|pt_br=Chama Carmesim
+|es=Fuego Carmesí
+}}
+
+== References ==
+{{reflist}}
+
+== Related articles ==
+{{TCGPocketNavigation}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Feuerrote Flammen (TCG Pocket)]]
+[[es:Fuego Carmesí (TCG Pocket)]]
+[[fr:Embrasement Écarlate]]
+[[it:Fiamme Cremisi (GCC Pocket)]]
+[[ja:紅蓮ブレイズ]]
+[[zh:紅蓮烈焰（TCGP）]]

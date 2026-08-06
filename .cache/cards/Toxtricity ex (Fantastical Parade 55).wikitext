@@ -1,0 +1,66 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Toxtricity {{TCGP Icon|ex}}
+|ja name=ストリンダー{{TCGP Icon|ex}}
+|trans name=Strinder {{TCGP Icon|ex}}
+|species=Toxtricity
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ToxtricityexFantasticalParade55.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ToxtricityexFantasticalParade184.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ToxtricityexFantasticalParade198.png|illustrator=akagi|tab caption=Special Illustration Rare}}
+|hp=150
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Toxel
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=055/155|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=184/155|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=198/155|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Toxtricity ex''' (Japanese: '''ストリンダーex''' ''Strinder ex'') is a {{ct|Lightning}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}{{e|Colorless}}
+|name=Damaging Spark
+|jname=ダメージスパーク
+|jtrans=Damage Spark
+|damage=90
+|effect=This attack also does 30 damage to each of your opponent's Benched Pokémon that has damage on it.
+}}
+{{Cardtext/Pocket ex
+|type=Lightning
+|ndex=0849L
+|name=Toxtricity
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=ToxtricityexFantasticalParade55.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=ToxtricityexFantasticalParade184.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=ToxtricityexFantasticalParade198.png
+|caption3=Special illustration rare card<br>Illus. [[akagi]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Toxtricity}} in its {{form|Toxtricity|Low Key Form}}.
+*'''Damaging Spark''' is an attack that first appeared on {{TCG ID|Vivid Voltage|Ampharos V|49}} from the {{TCG|Vivid Voltage}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Riffex-ex (Traumhafte Parade 055)]]
+[[fr:Salarsen-ex (Parade Onirique 055)]]
+[[it:Toxtricity-ex (Parata Fantasmagorica 55)]]
+[[ja:ストリンダーex (ポケポケ B2)]]
+[[zh:颤弦蝾螈ex（B2）]]

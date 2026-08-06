@@ -1,0 +1,63 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Audino
+|ja name=タブンネ
+|trans name=Tabunne
+|species=Audino
+|type=Colorless
+|image=AudinoPromo-A89.png
+|illustrator=MAHOU
+|hp=100
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=089/P-A|pack=Vol. 10}}
+}}
+
+'''Audino''' (Japanese: '''タブンネ''' ''Tabunne'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Drain Slap
+|jname=ドレインビンタ
+|jtrans=Drain Slap
+|damage=40
+|effect=Heal 10 damage from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Audino
+|category=Hearing 
+|ndex=0531
+|height=3'7"
+|jheight=1.1
+|weight=68.3
+|jweight=31.0
+|dex=This Pokémon has a kind heart. By touching with its feelers, Audino can gauge other creatures' feelings and physical conditions.
+|jdex=心優しい ポケモン。 触角を 押し当て 相手の 気持ちや 体調を 理解する。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 10 packs; these were made available as part of the [[Alcremie Drop Event]], which ran from July 2 to 12, 2025.
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Black & White|Audino|87}} from the {{TCG|Black & White}} expansion.
+*'''Drain Slap''' is an attack that first appeared on {{TCG ID|Dragons Exalted|Audino|108}} from the {{TCG|Dragons Exalted}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ohrdoch (PROMO-A 089)]]
+[[es:Audino (Promo-A 89 TCG Pocket)]]
+[[fr:Nanméouïe (Promo-A 089)]]
+[[it:Audino (Promo-A 89)]]
+[[ja:タブンネ (ポケポケ P-A)]]
+[[zh:差不多娃娃（P-A）]]

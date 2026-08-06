@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mareanie
+|ja name=ヒドイデ
+|trans name=Hidoide
+|species=Mareanie
+|type=Darkness
+|image=MareanieMegaRising161.png
+|illustrator=Aya Kusube
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=161/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Mareanie''' (Japanese: '''ヒドイデ''' ''Hidoide'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Poison Sting
+|jname=どくばり
+|jtrans=Poison Needle
+|damage=
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Mareanie
+|category=Brutal Star
+|ndex=0747
+|height=1'4"
+|jheight=0.4
+|weight=17.6
+|jweight=8.0
+|dex=It has excellent regenerative capabilities. Legs that a Mareanie has lost have a very bitter, astringent flavor—they're not suitable as food.
+|jdex=再生力が とても 強い。 ちぎれた 脚は 苦味と 渋味が 強く 食材には むかない。
+}}
+
+==Trivia==
+This card is almost identical to {{TCG ID|Silver Tempest|Mareanie|114}} from the [[Pokémon Trading Card Game]]'s {{TCG|Silver Tempest}} expansion, except for the {{TCG|Weakness}} modifier.
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Mareanie|68}} from the {{TCG|Lost Thunder}} expansion.
+*{{m|Poison Sting}} is a [[move]] in the [[Pokémon games]] that {{p|Mareanie}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Garstella (Mega-Aufstieg 161)]]
+[[es:Mareanie (Megaascenso TCG Pocket)]]
+[[fr:Vorastérie (Méga-Ascension 161)]]
+[[it:Mareanie (Mega Ascesa 161)]]
+[[ja:ヒドイデ (ポケポケ B1)]]
+[[zh:好坏星（B1）]]

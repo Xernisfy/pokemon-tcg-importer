@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Doublade
+|ja name=ニダンギル
+|trans name=Nidangill
+|species=Doublade
+|type=Metal
+|image=DoubladeMegaRising171.png
+|illustrator=Hajime Kusajima
+|hp=90
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Honedge
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=171/226|pack=Mega Blaziken|rarity=Diamond|rarity count=2}}
+}}
+
+'''Doublade''' (Japanese: '''ニダンギル''' ''Nidangill'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Colorless}}
+|name=Slash
+|jname=きりさく
+|jtrans=Slash
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Doublade
+|category=Sword
+|ndex=0680
+|height=2'7"
+|jheight=0.8
+|weight=9.9
+|jweight=4.5
+|dex=The two swords employ a strategy of rapidly alternating between offense and defense to bring down their prey.
+|jdex=2本の 剣は 攻撃と 防御が 目まぐるしく 入れ替わる 戦法で 獲物を しとめる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BREAKpoint|Doublade|61}} from the {{TCG|BREAKpoint}} expansion.
+*{{m|Slash}} is a [[move]] in the [[Pokémon games]] that {{p|Doublade}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Duokles (Mega-Aufstieg 171)]]
+[[es:Doublade (Megaascenso TCG Pocket)]]
+[[fr:Dimoclès (Méga-Ascension 171)]]
+[[it:Doublade (Mega Ascesa 171)]]
+[[ja:ニダンギル (ポケポケ B1)]]
+[[zh:双剑鞘（B1）]]

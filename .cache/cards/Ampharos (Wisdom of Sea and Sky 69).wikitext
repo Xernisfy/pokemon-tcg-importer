@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ampharos
+|ja name=デンリュウ
+|trans name=Denryu
+|species=Ampharos
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AmpharosWisdomofSeaandSky69.png|illustrator=Kouki Saitou|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AmpharosWisdomofSeaandSky172.png|illustrator=Whisker|tab caption=Illustration Rare}}
+|hp=150
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Flaaffy
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=069/161|pack=Lugia|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=172/161|pack=Lugia|rarity=Star|rarity count=1}}
+}}
+
+'''Ampharos''' (Japanese: '''デンリュウ''' ''Denryu'') is a {{ct|Lightning}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Thunder Punch
+|jname=かみなりパンチ
+|jtrans=Thunder Punch
+|damage=80+
+|effect=Flip a coin. If heads, this attack does 40 more damage. If tails, this Pokémon also does 20 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Ampharos
+|species=Light
+|ndex=0181
+|height=4'7"
+|jheight=1.4
+|weight=135.6
+|jweight=61.5
+|dex=The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon.
+|jdex=尻尾の 灯りは 遠くまで 届くので 昔より かがり火として 大事に されている。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=AmpharosWisdomofSeaandSky69.png
+|caption1=Rare card<br>Illus. [[Kouki Saitou]]
+|image2=AmpharosWisdomofSeaandSky172.png
+|caption2=Illustration rare card<br>Illus. [[Whisker]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Secret Wonders|Ampharos|1}} from the {{TCG|Secret Wonders}} expansion.
+*{{m|Thunder Punch}} is a [[move]] in the [[Pokémon games]] that {{p|Ampharos}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ampharos (Weisheit von Meer und Himmel 069)]]
+[[es:Ampharos (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Pharamp (Sagesse entre Ciel et Mer 069)]]
+[[it:Ampharos (La Via del Cielo e del Mare 69)]]
+[[ja:デンリュウ (ポケポケ A4)]]
+[[zh:电龙（A4）]]

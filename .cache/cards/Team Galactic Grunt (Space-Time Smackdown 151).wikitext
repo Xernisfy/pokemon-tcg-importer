@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Team Galactic Grunt
+|ja name=ギンガ団のしたっぱ
+|trans name=Team Galactic Underling
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TeamGalacticGruntSpace-TimeSmackdown151.png|illustrator=GOSSAN|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TeamGalacticGruntSpace-TimeSmackdown191.png|illustrator=GOSSAN|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Dialga|rarity=Diamond|rarity count=2|number=151/155}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Dialga|rarity=Star|rarity count=2|number=191/155}}
+}}
+
+'''Team Galactic Grunt''' (Japanese: '''ギンガ団のしたっぱ''' ''Team Galactic Underling'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Put 1 random {{TCGP|Glameow}}, {{TCGP|Stunky}}, or {{TCGP|Croagunk}} from your deck into your hand.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=TeamGalacticGruntSpace-TimeSmackdown151.png
+|caption1=Uncommon card<br>Illus. [[GOSSAN]]
+|image2=TeamGalacticGruntSpace-TimeSmackdown191.png
+|caption2=Super rare card<br>Illus. [[GOSSAN]]
+}}
+
+==Trivia==
+===Origin===
+* {{tc|Team Galactic Grunt}}s are [[grunt]] members of [[Team Galactic]]. Male and female grunts are depicted in this card's illustrations.
+* The uncommon print of this card shows two Team Galactic Grunts inside [[Team Galactic HQ]] in [[Veilstone City]].
+* The Pokémon affected by this card are the pre-[[Evolution]]s of the main Pokémon of the three Team Galactic {{tc|Commander}}s: [[Mars]], [[Jupiter]], and [[Saturn]].
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=ギンガ団のしたっぱ ''Ginga-dan no Shitappa''
+|zh_yue=銀河隊手下 ''Ngàhnhòh Déui Sáuhah''
+|zh_cmn=銀河隊手下<!-- / 银河队手下--> ''Yínhé Duì Shǒuxià''
+|fr=Sbire de la Team Galaxie
+|de=Rüpel von Team Galaktik
+|it=Recluta del Team Galassia
+|ko=갤럭시단의 조무래기 ''Galaxy-dan-ui Jomuraegi''
+|pt_br=Recruta da Equipe Galáctica
+|es=Recluta del Equipo Galaxia
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rüpel von Team Galaktik (TCG Pocket)]]
+[[es:Recluta del Equipo Galaxia (TCG Pocket)]]
+[[fr:Sbire de la Team Galaxie (Choc Spatio-Temporel 151)]]
+[[it:Recluta del Team Galassia (Scontro Spaziotemporale 151)]]
+[[ja:ギンガ団のしたっぱ (ポケポケ)]]
+[[zh:银河队手下（TCGP）]]

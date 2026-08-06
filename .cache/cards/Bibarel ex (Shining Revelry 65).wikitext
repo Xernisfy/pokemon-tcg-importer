@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bibarel {{TCGP Icon|ex}}
+|ja name=ビーダル{{TCGP Icon|ex}}
+|trans name=Beadaru {{TCGP Icon|ex}}
+|species=Bibarel
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BibarelexShiningRevelry65.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BibarelexShiningRevelry87.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BibarelexShiningRevelry95.png|illustrator=USGMEN|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BibarelexMegaRising327.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=160
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Bidoof
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=065/072|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=087/072|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=095/072|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=296/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=327/226|pack=Mega Altaria|rarity=Shiny|rarity count=2}}
+}}
+
+'''Bibarel ex''' (Japanese: '''ビーダルex''' ''Beadaru ex'') is a {{ct|Colorless}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Carefree Press
+|jname=のびのびプレス
+|jtrans=Carefree Press
+|damage=100
+|effect=Heal 30 damage from this Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Colorless
+|ndex=0400
+|name=Bibarel
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=BibarelexShiningRevelry65.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=BibarelexShiningRevelry87.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image4=BibarelexShiningRevelry95.png
+|caption4=Special illustration rare card<br>Illus. [[USGMEN]]
+|image5=BibarelexMegaRising327.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Bibarel}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bidifas-ex (Glänzendes Festival 065)]]
+[[es:Bibarel ex (Festival Brillante TCG Pocket)]]
+[[fr:Castorno-ex (Réjouissances Rayonnantes 065)]]
+[[it:Bibarel-ex (Tripudio Splendente 65)]]
+[[ja:ビーダルex (ポケポケ A2b)]]
+[[zh:大尾狸ex（A2b）]]

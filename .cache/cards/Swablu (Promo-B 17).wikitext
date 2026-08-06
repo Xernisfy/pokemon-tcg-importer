@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Swablu
+|ja name=チルット
+|trans name=Tyltto
+|species=Swablu
+|type=Colorless
+|image=SwabluPromo-B17.png
+|illustrator=Yukiko Baba
+|hp=50
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=017/P-B|pack=Vol. 2}}
+}}
+
+'''Swablu''' (Japanese: '''チルット''' ''Tyltto'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-B}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Find a Friend
+|jname=ともだちをさがす
+|jtrans=Look for Friends
+|damage=
+|effect=Put a random Pokémon from your deck into your hand.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Swablu
+|category=Cotton Bird
+|ndex=0333
+|height=1'04"
+|jheight=0.4
+|weight=2.6
+|jweight=1.2
+|dex=It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.
+|jdex=自分も まわりも きれいでないと 落ち着かない 性格。 汚れを 見つけると 羽で ふき取る。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-B Vol. 2 packs; these were made available as part of the [[Mareep Drop Event]], which ran from January 1 to 18, 2026.
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Dragon Majesty|Swablu|56}} from the {{TCG|Dragon Majesty}} expansion.
+*'''Find a Friend''' is an attack that first appeared on {{TCG ID|Great Encounters|Togepi|88}} from {{TCG|Great Encounters}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wablu (PROMO-B 017)]]
+[[es:Swablu (Promo-B 17 TCG Pocket)]]
+[[fr:Tylton (Promo-B 017)]]
+[[it:Swablu (Promo-B 17)]]
+[[ja:チルット (ポケポケ P-B)]]

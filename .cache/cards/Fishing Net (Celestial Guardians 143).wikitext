@@ -1,0 +1,48 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Fishing Net
+|ja name=おさかなネット
+|trans name=Fish Net
+|subtype=Item
+|image=FishingNetCelestialGuardians143.png
+|illustrator=Toyste Beach
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=143/155|pack=Lunala|rarity=Diamond|rarity count=2}}
+}}
+
+'''Fishing Net''' (Japanese: '''おさかなネット''' ''Fish Net'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Put a random Basic {{e|Water}} Pokémon from your discard pile into your hand.
+}}
+
+==Trivia==
+* {{TCGP|Celestic Town Elder}} has a similar effect, but is a {{TCGP|Supporter card}} instead of an {{TCGP|Item card}} and is not restricted to only {{e|Water}} Pokémon.
+* This card's effect is similar to {{TCG|Pokémon Rescue}} in the [[Pokémon Trading Card Game]], but this card can only add a Basic {{e|Water}} Pokémon chosen at random (rather than a specifically chosen Pokémon of any Evolution stage and type).
+
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=おさかなネット ''Osakana Net''
+|zh_yue=漁網 ''Yùhmóhng''
+|zh_cmn=漁網 ''Yúwǎng''
+|fr=Filet de Pêche
+|de=Fischernetz
+|it=Rete da Pesca
+|ko=물고기네트 ''Mulgogi Net''
+|pt_br=Rede de Pesca
+|es=Red de Pesca
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Fischernetz (TCG Pocket)]]
+[[es:Red de Pesca (TCG Pocket)]]
+[[fr:Filet de Pêche (Gardiens Astraux 143)]]
+[[it:Rete da Pesca (Guardiani Astrali 143)]]
+[[ja:おさかなネット]]
+[[zh:渔网（TCGP）]]

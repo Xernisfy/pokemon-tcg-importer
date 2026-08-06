@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Carkol
+|ja name=トロッゴン
+|trans name=Toroggon
+|species=Carkol
+|type=Fighting
+|image=CarkolMegaRising146.png
+|illustrator=Uta
+|hp=90
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Rolycoly
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=146/226|pack=Mega Gyarados|rarity=Diamond|rarity count=2}}
+}}
+
+'''Carkol''' (Japanese: '''トロッゴン''' ''Toroggon'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Heat Crash
+|jname=ヒートスタンプ
+|jtrans=Heat Stamp
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Carkol
+|category=Coal
+|ndex=0838
+|height=3'7"
+|jheight=1.1
+|weight=172
+|jweight=78.0
+|dex=Due to the coal tar created inside it, the heap of coal on Carkol's back never falls apart, even when the Pokémon rolls around at high speeds.
+|jdex=背中の 石炭の 山は 中で コールタールが 作られているため 高速で 走っても 崩れない。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Battle Styles|Carkol|79}} from the {{TCG|Battle Styles}} expansion.
+*{{m|Heat Crash}} is a [[move]] in the [[Pokémon games]] that {{p|Carkol}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wagong (Mega-Aufstieg 146)]]
+[[es:Carkol (Megaascenso TCG Pocket)]]
+[[fr:Wagomine (Méga-Ascension 146)]]
+[[it:Carkol (Mega Ascesa 146)]]
+[[ja:トロッゴン (ポケポケ B1)]]
+[[zh:大炭车（B1）]]

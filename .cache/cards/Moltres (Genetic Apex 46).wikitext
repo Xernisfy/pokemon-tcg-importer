@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Moltres
+|ja name=ファイヤー
+|trans name=Fire
+|species=Moltres
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket||image=MoltresGeneticApex46.png|illustrator=Hitoshi Ariga|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MoltresMegaRising292.png|illustrator=Taiga Kasai|tab caption=Shiny Rare}}
+|hp=100
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=046/226|pack=Charizard|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=292/226|pack=Mega Blaziken|rarity=Shiny|rarity count=1}}
+}}
+
+'''Moltres''' (Japanese: '''ファイヤー''' ''Fire'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}{{e|Colorless}}
+|name=Sky Attack
+|jname=ゴッドバード
+|jtrans=God Bird
+|damage=130
+|effect=Flip a coin. If tails, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Moltres
+|species=Flame
+|ndex=0146
+|height=6'7"
+|jheight=2
+|weight=132.3
+|jweight=60.0
+|dex=It's one of the legendary bird Pokémon. When Moltres flaps its flaming wings, they glimmer with a dazzling red glow.
+|jdex=羽ばたくと　翼の　炎が 赤く　美しく　きらめく 伝説の　鳥ポケモンの　１匹｡
+}}
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=MoltresGeneticApex46.png
+|caption1=Standard card<br>Illus. [[Hitoshi Ariga]]
+|image2=MoltresMegaRising292.png
+|caption2=Shiny rare card<br>Illus. [[Taiga Kasai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Genetic Apex}} illustration was first featured on {{TCG ID|SM Promo|Moltres|143}}, one of the {{TCG|SM Black Star Promos}}.
+**Both cards have {{m|Sky Attack}}; this is a [[move]] in the [[Pokémon games]] that {{p|Moltres}} can learn.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Moltres}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lavados (Unschlagbare Gene 046)]]
+[[es:Moltres (Genes Formidables TCG Pocket)]]
+[[fr:Sulfura (Puissance Génétique 046)]]
+[[it:Moltres (Geni Supremi 46)]]
+[[ja:ファイヤー (ポケポケ A1)]]
+[[zh:火焰鸟（A1）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ferroseed
+|ja name=テッシード
+|trans name=Tesseed
+|species=Ferroseed
+|type=Metal
+|image=FerroseedExtradimensionalCrisis51.png
+|illustrator=Midori Harada
+|hp=60
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=051/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Ferroseed''' (Japanese: '''テッシード''' ''Tesseed'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Colorless}}
+|name=Spike Sting
+|jname=トゲでさす
+|jtrans=Prick with Spines
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Ferroseed
+|category=Thorn Seed 
+|ndex=0597
+|height=2'
+|jheight=0.6
+|weight=41.4
+|jweight=18.8
+|dex=It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.
+|jdex=洞穴の 天井に 突きささり 岩の 鉄分を 吸いとる。 危険がせまると トゲを 撃ち出す。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Emerging Powers|Ferroseed|70}} from the {{TCG|Emerging Powers}} expansion.
+*'''Spike Sting''' is an attack that first appeared on {{TCG ID|Fusion Strike|Qwilfish|60}} from the {{TCG|Fusion Strike}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kastadur (Dimensionale Krise 051)]]
+[[es:Ferroseed (Crisis Dimensional TCG Pocket)]]
+[[fr:Grindur (Crise Interdimensionnelle 051)]]
+[[it:Ferroseed (Crisi Ultradimensionale 51)]]
+[[ja:テッシード (ポケポケ A3a)]]
+[[zh:种子铁球（A3a）]]

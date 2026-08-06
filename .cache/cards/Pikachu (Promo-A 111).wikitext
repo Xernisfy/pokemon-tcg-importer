@@ -1,0 +1,63 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pikachu
+|ja name=ピカチュウ
+|trans name=Pikachu
+|species=Pikachu
+|type=Lightning
+|image=PikachuPromo-A111.png
+|illustrator=sui
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=111/P-A|pack=Vol. 13}}
+}}
+
+'''Pikachu''' (Japanese: '''ピカチュウ''' ''Pikachu'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}
+|name=Quick Attack
+|jname=でんこうせっか
+|jtrans=Lightning Speed
+|damage=20+
+|effect=Flip a coin. If heads, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Pikachu
+|species=Mouse
+|ndex=0025
+|height=1'4"
+|jheight=0.4
+|weight=13.2
+|jweight=6.0
+|dex=When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.
+|jdex=両頬には　電気を　溜めこむ 袋がある｡　怒ると　溜めこんだ 電気を　一気に　放ってくる｡
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 13 packs; these were made available as part of the [[Raichu ex Drop Event]], which ran from October 6 to 16, 2025.
+
+==Trivia==
+===Origin===
+* This card's illustration was first featured on {{TCG ID|Arceus|Pikachu|71}} from the {{TCG|Arceus}} expansion.
+*{{m|Quick Attack}} is a [[move]] in the [[Pokémon games]] that {{p|Pikachu}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pikachu (PROMO-A 111)]]
+[[es:Pikachu (Promo-A 111 TCG Pocket)]]
+[[fr:Pikachu (Promo-A 111)]]
+[[it:Pikachu (Promo-A 111)]]
+[[ja:ピカチュウ (ポケポケ P-A 111)]]
+[[zh:皮卡丘（P-A）]]

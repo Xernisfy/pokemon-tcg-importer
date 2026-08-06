@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Blastoise
+|ja name=カメックス
+|trans name=Kamex
+|species=Blastoise
+|type=Water
+|image=BlastoiseCrimsonBlaze19.png
+|illustrator=Hitoshi Ariga
+|hp=150
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Wartortle
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=019/069|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Blastoise''' (Japanese: '''カメックス''' ''Kamex'') is a {{ct|Water}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Double Splash
+|jname=ダブルスプラッシュ
+|jtrans=Double Splash
+|damage=90
+|effect=If this Pokémon has at least 2 extra {{e|Water}} Energy attached, this attack also does 50 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Blastoise
+|species=Shellfish
+|ndex=0009
+|height=5'3"
+|jheight=1.6
+|weight=188.5
+|jweight=85.5
+|dex=The rocket cannons on its shell fire jets of water capable of punching holes through thick steel.
+|jdex=甲羅の ロケット砲 から 噴き出した ジェット水流は ぶ厚い 鉄板も つらぬく。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Blastoise|25}} from the {{TCG|Team Up}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Turtok (Feuerrote Flammen 019)]]
+[[es:Blastoise (Fuego Carmesí TCG Pocket)]]
+[[fr:Tortank (Embrasement Écarlate 019)]]
+[[it:Blastoise (Fiamme Cremisi 19)]]
+[[ja:カメックス (ポケポケ B1a)]]
+[[zh:水箭龟（B1a）]]

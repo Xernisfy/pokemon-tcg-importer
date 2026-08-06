@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pincurchin
+|ja name=バチンウニ
+|trans name=Bachinuni
+|species=Pincurchin
+|type=Lightning
+|image=PincurchinGeneticApex112.png
+|illustrator=Tika Matsuno
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=112/226|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Pincurchin''' (Japanese: '''バチンウニ''' ''Bachinuni'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Thunder Shock
+|jname=でんきショック
+|jtrans=Electric Shock
+|damage=30
+|effect=Flip a coin. If heads, your opponent's Active Pokémon is now {{TCG|Paralyzed}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Pincurchin
+|species=Sea Urchin
+|ndex=0871
+|height=1'
+|jheight=0.3
+|weight=2.2
+|jweight=1.0
+|dex=This Pokémon generates electricity when it digests food. It uses its five hard teeth to scrape seaweed off surfaces and eat it.
+|jdex=エサを　消化するときに　電気を 生みだす｡　５本の　硬い　歯で 海藻を　こそぎ落とし　食べる｡
+}}
+
+==Trivia==
+===Origin===
+*{{m|Thunder Shock}} is a [[move]] in the [[Pokémon games]] that {{p|Pincurchin}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Britzigel (Unschlagbare Gene 112)]]
+[[es:Pincurchin (Genes Formidables TCG Pocket)]]
+[[fr:Wattapik (Puissance Génétique 112)]]
+[[it:Pincurchin (Geni Supremi 112)]]
+[[ja:バチンウニ (ポケポケ A1)]]
+[[zh:啪嚓海胆（A1）]]

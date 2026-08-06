@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dragonair
+|ja name=ハクリュー
+|trans name=Hakuryu
+|species=Dragonair
+|type=Dragon
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DragonairMegaShine52.png|illustrator=Kouki Saitou|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DragonairMegaShine106.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=80
+|weakness=
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Dratini
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=052/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=106/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Dragonair''' (Japanese: '''ハクリュー''' ''Hakuryu'') is a {{ct|Dragon}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Colorless}}
+|name=Sky's Blessing
+|jname=てんくうのいのり
+|jtrans=Heaven's Prayer
+|damage=
+|effect=Take a {{e|Water}} and a {{e|Lightning}} Energy from your Energy Zone and attach them to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Dragonair
+|category=Dragon
+|ndex=0148
+|height=13'1"
+|jheight=4
+|weight=36.4
+|jweight=16.5
+|dex=It is called the divine Pokémon. When its entire body brightens slightly, the weather changes.
+|jdex=神聖な　ポケモンと　言われる｡ 全身が　ほのかに　光ると あたりの　天気が　様変わりする｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Dragon
+|image1=DragonairMegaShine52.png
+|caption1=Uncommon card<br>Illus. [[Kouki Saitou]]
+|image2=DragonairMegaShine106.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|T Promo|Dragonair|17}}, a {{TCG|T Promotional cards|T Promotional card}} only released in Japan.
+*This card's shiny rare print features a {{Shiny}} {{p|Dragonair}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dragonir (Mega-Schillern 052)]]
+[[fr:Draco (Méga-Rayonnement 052)]]
+[[it:Dragonair (Mega Splendore 52)]]
+[[ja:ハクリュー (ポケポケ B2b)]]
+[[zh:哈克龙（B2b）]]

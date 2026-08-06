@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Snorlax
+|ja name=カビゴン
+|trans name=Kabigon
+|species=Snorlax
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SnorlaxGeneticApex211.png|illustrator=Naoki Saito|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SnorlaxGeneticApex250.png|illustrator=HYOGONOSUKE|tab caption=Illustration Rare}}
+|hp=150
+|weakness=Fighting
+|retreat cost=4
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=211/226|pack=Pikachu|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=250/226|pack=Pikachu|rarity=Star|rarity count=1}}
+}}
+
+'''Snorlax''' (Japanese: '''カビゴン''' ''Kabigon'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Rollout
+|jname=ころがる
+|jtrans=Roll
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Snorlax
+|species=Sleeping
+|ndex=0143
+|height=6'11"
+|jheight=2.1
+|weight=1014.1
+|jweight=460.0
+|dex=It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.
+|jdex=１日に　食べ物を　４００キロ 食べないと　気がすまない｡ 食べ終わると　眠ってしまう｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=SnorlaxGeneticApex211.png
+|caption1=Rare card<br>Illus. [[Naoki Saito]]
+|image2=SnorlaxGeneticApex250.png
+|caption2=Illustration rare card<br>Illus. [[HYOGONOSUKE]]
+}}
+
+==Trivia==
+The illustration rare print of this card forms part of a narrative illustration with {{TCG ID|Genetic Apex|Oddish|11}}, {{TCG ID|Genetic Apex|Venonat|16}}, and {{TCG ID|Genetic Apex|Bellsprout|18}} from the same set. In each of those cards, the featured Pokémon can be seen near {{p|Snorlax}}; this card depicts the Snorlax blocking [[Kanto]] [[Kanto Route 11|Routes 11]] and [[Kanto Route 12|12]] in Generations {{gen|I}} and {{gen|III}}, while the other three Pokémon are stuck on one side of it. Together, these cards form the {{TCGP|Genetic Apex}} expansion's "A Big Snorlax Nuisance" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]].
+
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Kalos Starter Set|Snorlax|26}} from the {{TCG|Kalos Starter Set}}.
+*{{m|Rollout}} is a [[move]] in the [[Pokémon games]] that {{p|Snorlax}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Relaxo (Unschlagbare Gene 211)]]
+[[es:Snorlax (Genes Formidables TCG Pocket)]]
+[[fr:Ronflex (Puissance Génétique 211)]]
+[[it:Snorlax (Geni Supremi 211)]]
+[[ja:カビゴン (ポケポケ A1)]]
+[[zh:卡比兽（A1）]]

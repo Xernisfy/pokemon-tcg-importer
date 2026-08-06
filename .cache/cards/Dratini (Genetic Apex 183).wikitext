@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dratini
+|ja name=ミニリュウ
+|trans name=Miniryu
+|species=Dratini
+|type=Dragon
+|image=DratiniGeneticApex183.png
+|illustrator=Ayaka Yoshida
+|hp=70
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=183/226|pack=Mewtwo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Dratini''' (Japanese: '''ミニリュウ''' ''Miniryu'') is a {{ct|Dragon}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Water}}{{e|Lightning}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Dratini
+|species=Dragon
+|ndex=0147
+|height=5'11"
+|jheight=1.8
+|weight=7.3
+|jweight=3.3
+|dex=It sheds many layers of skin as it grows larger. During this process, it is protected by a rapid waterfall.
+|jdex=激しく　流れ落ちる　滝に 守られながら　脱皮を　繰り返し どんどん　大きくなる｡
+}}
+
+==Trivia==
+This card is one of several featured in the {{TCGP|Genetic Apex}} expansion's "Safari Zone" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]], all of which can be found in the [[Kanto Safari Zone]] in Generations {{gen|I}} and {{gen|III}}.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Dragon Majesty|Dratini|34}} from the {{TCG|Dragon Majesty}} expansion.
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dratini (Unschlagbare Gene 183)]]
+[[es:Dratini (Genes Formidables TCG Pocket)]]
+[[fr:Minidraco (Puissance Génétique 183)]]
+[[it:Dratini (Geni Supremi 183)]]
+[[ja:ミニリュウ (ポケポケ A1)]]
+[[zh:迷你龙（A1）]]

@@ -1,0 +1,79 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Revavroom
+|ja name=ブロロローム
+|trans name=Burororoom
+|species=Revavroom
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RevavroomMegaShine50.png|illustrator=DOM|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RevavroomMegaShine74.png|illustrator=Rianti Hidayat|tab caption=Illustration Rare}}
+|hp=110
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Varoom
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=050/069|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=074/069|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Revavroom''' (Japanese: '''ブロロローム''' ''Burororoom'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Ability/Pocket
+|type=Metal
+|name=Metal Transport
+|jname=メタルキャリー
+|jtrans=Metal Carry
+|effect=Once during your turn, you may switch your Active {{e|Metal}} Pokémon with 1 of your Benched Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Colorless}}
+|name=Outta-Control Dash
+|jname=あらくれダッシュ
+|jtrans=Wild Dash
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Revavroom
+|category=Multi-Cyl
+|ndex=0966
+|height=5'11"
+|jheight=1.8
+|weight=264.6
+|jweight=120.0
+|dex=Revavroom viciously threatens others with the sound of its exhaust. It sticks its tongue out from its cylindrical mouth and sprays toxic fluids.
+|jdex=排気音で　激しく　威嚇する｡ 円筒形の　口から　べろを　出して 毒液を　まき散らす｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=RevavroomMegaShine50.png
+|caption1=Rare card<br>Illus. [[DOM]]
+|image2=RevavroomMegaShine74.png
+|caption2=Illustration rare card<br>Illus. [[Rianti Hidayat]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|SVP Promo|Revavroom|8}}, one of the {{TCG|SVP Black Star Promos}}.
+*'''Outta-Control Dash''' is an attack that first appeared on {{TCG ID|Stellar Crown|Revavroom|109}} from the {{TCG|Stellar Crown}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knattatox (Mega-Schillern 050)]]
+[[fr:Vrombotor (Méga-Rayonnement 050)]]
+[[it:Revavroom (Mega Splendore 50)]]
+[[ja:ブロロローム (ポケポケ B2b)]]
+[[zh:普隆隆姆（B2b）]]

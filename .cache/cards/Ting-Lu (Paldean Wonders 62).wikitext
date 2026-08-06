@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ting-Lu
+|ja name=ディンルー
+|trans name=Dinlu
+|species=Ting-Lu
+|type=Fighting
+|image=Ting-LuPaldeanWonders62.png
+|illustrator=AKIRA EGAWA
+|hp=120
+|weakness=Grass
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=062/093|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Ting-Lu''' (Japanese: '''ディンルー''' ''Dinlu'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}
+|name=Arrogant Impact
+|jname=ごうまんインパクト
+|jtrans=Arrogant Impact
+|damage=130
+|effect=If this Pokémon's remaining HP is 60 or less, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Ting-Lu
+|category=Ruinous
+|ndex=1003
+|height=8'10"
+|jheight=2.7
+|weight=1542.6
+|jweight=699.7
+|dex=It slowly brings its exceedingly heavy head down upon the ground, splitting the earth open with huge fissures that run over 160 feet deep.
+|jdex=とても 重たい 頭を ゆっくり 振り下ろし 深さ５０メートルの 長大な 地割れを 引き起こす。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Paradox Rift|Ting-Lu|109}} from the {{TCG|Paradox Rift}} expansion, as was its '''Arrogant Impact''' attack.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dinglu (Wundervolles Paldea 062)]]
+[[fr:Dinglu (Merveilles de Paldea 062)]]
+[[it:Ting-Lu (Meraviglie di Paldea 62)]]
+[[ja:ディンルー (ポケポケ B2a)]]
+[[zh:古鼎鹿（B2a）]]

@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Luxray
+|ja name=レントラー
+|trans name=Rentorar
+|species=Luxray
+|type=Lightning
+|image=LuxrayExtradimensionalCrisis15.png
+|illustrator=Masakazu Fukuda
+|hp=130
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Luxio
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=015/069|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Luxray''' (Japanese: '''レントラー''' ''Rentorar'') is a {{ct|Lightning}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Ability/Pocket
+|type=Lightning
+|name=Intimidating Fang
+|jname=いかくのキバ
+|jtrans=Fang of Intimidation
+|effect=As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon do −20 damage.
+}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}{{e|Colorless}}
+|name=Electric Ball
+|jname=ライトニングボール
+|jtrans=Lightning Ball
+|damage=90
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Luxray
+|species=Gleam Eyes
+|ndex=0405
+|height=4'7"
+|jheight=1.4
+|weight=92.6
+|jweight=42.0
+|dex=It can see clearly through walls to track down its prey and seek its lost young.
+|jdex=壁の向こうも 見える 力で 逃げた 獲物を 追いつめるほかにも 迷子の 子どもを 捜したりする。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BREAKpoint|Luxray|46}} from the {{TCG|BREAKpoint}} expansion.
+*'''Intimidating Fang''' is an {{TCG|Ability}} that first appeared as a {{TCG|Poké-BODY}} on {{TCG ID|EX Ruby & Sapphire|Mightyena|10}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*'''Electric Ball''' is an attack that first appeared on {{TCG ID|Noble Victories|Eelektrik|40}} from {{TCG|Noble Victories}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Luxtra (Dimensionale Krise 015)]]
+[[es:Luxray (Crisis Dimensional TCG Pocket)]]
+[[fr:Luxray (Crise Interdimensionnelle 015)]]
+[[it:Luxray (Crisi Ultradimensionale 15)]]
+[[ja:レントラー (ポケポケ A3a)]]
+[[zh:伦琴猫（A3a）]]

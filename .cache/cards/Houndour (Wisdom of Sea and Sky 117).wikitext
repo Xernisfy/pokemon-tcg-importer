@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Houndour
+|ja name=デルビル
+|trans name=Delvil
+|species=Houndour
+|type=Darkness
+|image=HoundourWisdomofSeaandSky117.png
+|illustrator=Sumiyoshi Kizuki
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=117/161|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Houndour''' (Japanese: '''デルビル''' ''Delvil'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=Bite
+|jname=かみつく
+|jtrans=Bite
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Houndour
+|species=Dark
+|ndex=0228
+|height=2'
+|jheight=0.6
+|weight=23.8
+|jweight=10.8
+|dex=It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.
+|jdex=様々な 鳴き声を 使い分け 仲間と コミュニケーションしながら 狩りを おこなう 賢さを持つ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Legends Awakened|Houndour|103}} from the {{TCG|Legends Awakened}} expansion.
+*{{m|Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Houndour}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hunduster (Weisheit von Meer und Himmel 117)]]
+[[es:Houndour (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Malosse (Sagesse entre Ciel et Mer 117)]]
+[[it:Houndour (La Via del Cielo e del Mare 117)]]
+[[ja:デルビル (ポケポケ A4)]]
+[[zh:戴鲁比（A4）]]

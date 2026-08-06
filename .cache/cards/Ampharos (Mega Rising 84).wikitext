@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ampharos
+|ja name=デンリュウ
+|trans name=Denryu
+|species=Ampharos
+|type=Lightning
+|image=AmpharosMegaRising84.png
+|illustrator=Megumi Mizutani
+|hp=140
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Flaaffy
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Altaria|rarity=Diamond|rarity count=3|number=084/226}}
+}}
+
+'''Ampharos''' (Japanese: '''デンリュウ''' ''Denryu'') is a {{ct|Lightning}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}{{e|Colorless}}
+|name=Zapping Bullet
+|jname=ビリリバレット
+|jtrans=
+|damage=90
+|effect=1 of your opponent's Benched Pokémon is chosen at random. This attack also does 20 damage to it.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Ampharos
+|species=Light
+|ndex=0181
+|height=4'7"
+|jheight=1.4
+|weight=135.6
+|jweight=61.5
+|dex=When it gets dark, the light from its bright, shiny tail can be seen from far away on the ocean's surface.
+|jdex=暗くなると 眩しく 輝く 尻尾の 灯りは 遠く 離れた 海の上からでも 見つけられる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Chilling Reign|Ampharos|49}} from the {{TCG|Chilling Reign}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ampharos (Mega-Aufstieg 084)]]
+[[es:Ampharos (Megaascenso TCG Pocket)]]
+[[fr:Pharamp (Méga-Ascension 084)]]
+[[it:Ampharos (Mega Ascesa 84)]]
+[[ja:デンリュウ (ポケポケ B1)]]
+[[zh:电龙（B1）]]

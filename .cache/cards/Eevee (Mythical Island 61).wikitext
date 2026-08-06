@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Eevee
+|ja name=イーブイ
+|trans name=Eievui
+|species=Eevee
+|type=Colorless
+|image=EeveeMythicalIsland61.png
+|illustrator=Hitoshi Ariga
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=061/068|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Eevee''' (Japanese: '''イーブイ''' ''Eievui'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Continuous Steps
+|jname=れんぞくステップ
+|jtrans=Continuous Steps
+|damage=20×
+|effect=Flip a coin until you get tails. This attack does 20 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Eevee
+|species=Evolution
+|ndex=0133
+|height=1'
+|jheight=0.3
+|weight=14.3
+|jweight=6.5
+|dex=Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.
+|jdex=環境の　変化に　すぐさま　合わせられるよう　いくつもの　進化の　可能性を　秘めている｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Hidden Fates|Eevee|49}} from the {{TCG|Hidden Fates}} expansion.
+*'''Continuous Steps''' is an attack that first appeared on {{TCG ID|Fusion Strike|Eevee|205}} from the {{TCG|Fusion Strike}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Evoli (Mysteriöse Insel 061)]]
+[[es:Eevee (La Isla Singular TCG Pocket)]]
+[[fr:Évoli (L'Île Fabuleuse 061)]]
+[[it:Eevee (L'Isola Misteriosa 61)]]
+[[ja:イーブイ (ポケポケ A1a)]]
+[[zh:伊布（A1a）]]

@@ -1,0 +1,83 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Incineroar {{TCGP Icon|ex}}
+|ja name=ガオガエン {{TCGP Icon|ex}}
+|trans name=Gaogaen {{TCGP Icon|ex}}
+|species=Incineroar
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=IncineroarexCelestialGuardians33.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=IncineroarexCelestialGuardians182.png|illustrator=PLANETA Tsuji|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=IncineroarexCelestialGuardians200.png|illustrator=Kazumasa Yasukuni|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=IncineroarexMegaRising318.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=180
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Torracat
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=033/155|pack=Solgaleo|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=182/155|pack=Solgaleo|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=200/155|pack=Solgaleo|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=082/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=318/226|pack=Mega Gyarados|rarity=Shiny|rarity count=2}}
+}}
+
+'''Incineroar ex''' (Japanese: '''ガオガエンex''' ''Gaogaen ex'') is a {{ct|Fire}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Fire Fang
+|jname=ほのおのキバ
+|jtrans=Fire Fang
+|damage=30
+|effect=Your opponent's Active Pokémon is now {{TCG|Burned}}.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Colorless}}
+|name=Scar-Charged Smash
+|jname=スカースマッシュ
+|jtrans=Scar Smash
+|damage=80+
+|effect=If this Pokémon has damage on it, this attack does 60 more damage.
+}}
+{{Cardtext/Pocket ex
+|type=Fire
+|ndex=0727
+|name=Incineroar
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=IncineroarexCelestialGuardians33.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=IncineroarexCelestialGuardians182.png
+|caption2=Super rare card<br>Illus. [[PLANETA Tsuji]]
+|image4=IncineroarexCelestialGuardians200.png
+|caption4=Special illustration rare card<br>Illus. [[Kazumasa Yasukuni]]
+|image5=IncineroarexMegaRising318.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Incineroar}}.
+*{{m|Fire Fang}} is a [[move]] in the [[Pokémon games]] that {{p|Incineroar}} can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Fuegro-ex (Hüter des Firmaments 033)]]
+[[es:Incineroar ex (Guardianes Celestiales TCG Pocket)]]
+[[fr:Félinferno-ex (Gardiens Astraux 033)]]
+[[it:Incineroar-ex (Guardiani Astrali 33)]]
+[[ja:ガオガエンex (ポケポケ A3)]]
+[[zh:炽焰咆哮虎ex（A3）]]

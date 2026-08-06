@@ -1,0 +1,65 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dusk Mane Necrozma
+|ja name=ネクロズマたそがれのたてがみ
+|trans name=Dusk Mane Necrozma
+|species=Necrozma
+|type=Metal
+|image=DuskManeNecrozmaPromo-A79.png
+|illustrator=nagimiso
+|hp=110
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=079/P-A|pack=Vol. 9}}
+}}
+
+'''Dusk Mane Necrozma''' (Japanese: '''ネクロズマたそがれのたてがみ''' ''Dusk Mane Necrozma'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/UltraBeast/Pocket}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Colorless}}{{e|Colorless}}
+|name=Black Metal
+|jname=ブラックメタル
+|jtrans=Black Metal
+|damage=100
+|effect=Discard a {{e|Metal}} Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Necrozma
+|category=Prism 
+|ndex=0800
+|height=12'6"
+|jheight=3.8
+|weight=1014.1
+|jweight=460.0
+|dex=This is its form while it is devouring the light of Solgaleo. It pounces on foes and then slashes them with the claws on its four limbs and back.
+|jdex=ソルガレオの光を 喰らい続ける姿。 敵に とびかかり 背中と四肢のツメで 相手を 切り裂く。
+}}
+
+==Release information==
+This card was one of seven cards that could be pulled from Promo-A Vol. 9 packs; these were made available as part of the [[Ultra Beast Drop Event]], which ran from June 4 to 14, 2025.
+
+==Trivia==
+===Origin===
+*This card features {{form|Necrozma|Dusk Mane Necrozma}}, a form of {{p|Necrozma}} obtained by fusing it with {{p|Solgaleo}}.
+*This card's illustration was first featured on {{TCG ID|SM Promo|Dusk Mane Necrozma|107}}, one of the {{TCG|SM Black Star Promos|Sun & Moon Black Star Promos}}.
+*The '''Black Metal''' attack is named after {{wp|black metal}}, a genre of music. The name may have been chosen in reference to the card's {{TCG|Metal}} type and Necrozma's black coloration.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Abendmähne-Necrozma (PROMO-A 079)]]
+[[es:Necrozma Melena Crepuscular (Promo-A 79 TCG Pocket)]]
+[[fr:Necrozma Crinière du Couchant (Promo-A 079)]]
+[[it:Necrozma Criniera del Vespro (Promo-A 79)]]
+[[ja:ネクロズマ たそがれのたてがみ (ポケポケ P-A)]]
+[[zh:奈克洛兹玛 黄昏之鬃（P-A）]]

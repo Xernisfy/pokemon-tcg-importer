@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Diantha
+|ja name=カルネ
+|trans name=Carne
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DianthaFantasticalParade149.png|illustrator=saino misaki|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DianthaFantasticalParade190.png|illustrator=saino misaki|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=149/155}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Star|rarity count=2|number=190/155}}
+}}
+
+'''Diantha''' (Japanese: '''カルネ''' ''Carne'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Heal 90 damage from 1 of your {{e|Psychic}} Pokémon that has 2 or more {{e|Psychic}} Energy attached. If you healed any damage in this way, discard 2 {{e|Psychic}} Energy from that Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=DianthaFantasticalParade149.png
+|caption1=Uncommon card<br>Illus. [[saino misaki]]
+|image2=DianthaFantasticalParade190.png
+|caption2=Super rare card<br>Illus. [[saino misaki]]
+}}
+
+==Trivia==
+* {{TCG|Diantha}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+===Origin===
+*[[Diantha]] is the [[Pokémon Champion]] of the [[Kalos]] {{kal|Pokémon League}}.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=カルネ ''Carne''
+|zh_yue=卡露妮 ''Kālouhnèih''
+|zh_cmn=卡露妮 ''Kǎlùní''
+|fr=Dianthéa
+|de=Diantha
+|it=Diantha
+|ko=카르네 ''Carne''
+|pt_br=Diantha
+|es=Dianta
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Diantha (TCG Pocket)]]
+[[fr:Dianthéa (Parade Onirique 149)]]
+[[it:Diantha (Parata Fantasmagorica 149)]]
+[[ja:カルネ (ポケポケ)]]
+[[zh:卡露妮（TCGP）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wash Rotom
+|ja name=ウォッシュロトム
+|trans name=Wash Rotom
+|species=Rotom
+|type=Water
+|image=WashRotomSpace-TimeSmackdown47.png
+|illustrator=Saboteri
+|hp=80
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=047/155}}
+}}
+
+'''Wash Rotom''' (Japanese: '''ウォッシュロトム''' ''Wash Rotom'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Wave Splash
+|jname=スプラッシュ
+|jtrans=Splash
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Rotom
+|species=Plasma
+|ndex=0479
+|height=1'
+|jheight=0.3
+|weight=0.7
+|jweight=0.3
+|dex=This Rotom has entered a washing machine. It nods with satisfaction after it floods the surrounding area.
+|jdex=洗濯機に 入った 姿。 あたりを 水浸しにしては 満足そうに うなずいている。
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Rotom}} in its {{form|Rotom|Wash Rotom}} form.
+*'''Wave Splash''' is an attack that first appeared on {{TCG ID|Vending|Golduck|S3}} from {{TCG|Expansion Sheet 3}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wasch-Rotom (Kollision von Raum und Zeit 047)]]
+[[es:Rotom Lavado (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Motisma Lavage (Choc Spatio-Temporel 047)]]
+[[it:Rotom Lavaggio (Scontro Spaziotemporale 47)]]
+[[ja:ウォッシュロトム (ポケポケ A2)]]
+[[zh:清洗洛托姆（A2）]]

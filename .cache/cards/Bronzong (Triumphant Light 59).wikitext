@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bronzong
+|ja name=ドータクン
+|trans name=Dohtakun
+|species=Bronzong
+|type=Metal
+|image=BronzongTriumphantLight59.png
+|illustrator=Naoki Saito
+|hp=120
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Bronzor
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=059/075|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Bronzong''' (Japanese: '''ドータクン''' ''Dohtakun'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Psychic
+|jname=サイコキネシス
+|jtrans=Psychokinesis
+|damage=50+
+|effect=This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Bronzong
+|species=Bronze Bell
+|ndex=0437
+|height=4'3"
+|jheight=1.3
+|weight=412.3
+|jweight=187.0
+|dex=In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.
+|jdex=雨雲を 呼べる ポケモンとして 大昔から 祀られていた。 ときどき 地面に 埋められている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fates Collide|Bronzong|61}} from the {{TCG|Fates Collide}} expansion.
+*{{m|Psychic}} is a [[move]] in the [[Pokémon games]] that {{p|Bronzong}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bronzong (Licht des Triumphs 059)]]
+[[es:Bronzong (Luz Triunfal TCG Pocket)]]
+[[fr:Archéodong (Lumière Triomphale 059)]]
+[[it:Bronzong (Luce Trionfale 59)]]
+[[ja:ドータクン (ポケポケ A2a)]]
+[[zh:青銅鐘（A2a）]]

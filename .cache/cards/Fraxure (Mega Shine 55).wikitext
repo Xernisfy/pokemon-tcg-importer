@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Fraxure
+|ja name=オノンド
+|trans name=Onondo
+|species=Fraxure
+|type=Dragon
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FraxureMegaShine55.png|illustrator=Hataya|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FraxureMegaShine109.png|illustrator=Nisota Niso|tab caption=Shiny Rare}}
+|hp=90
+|weakness=
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Axew
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=055/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=109/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Fraxure''' (Japanese: '''オノンド''' ''Onondo'') is a {{ct|Dragon}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Fighting}}{{e|Metal}}
+|name=Dragon Claw
+|jname=ドラゴンクロー
+|jtrans=Dragon Claw
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Fraxure
+|category=Axe Jaw
+|ndex=0611
+|height=3'3"
+|jheight=1
+|weight=79.4
+|jweight=36.0
+|dex=Fraxure uses its thick tusks to neatly cut prey into two portions—one to eat now and one to save for later.
+|jdex=太い　キバを　使って　獲物を きれいに　捌いて　食べるものと 保存する　ものに　分けるのだ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Dragon
+|image1=FraxureMegaShine55.png
+|caption1=Uncommon card<br>Illus. [[Hataya]]
+|image2=FraxureMegaShine109.png
+|caption2=Shiny rare card<br>Illus. [[Nisota Niso]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Brilliant Stars|Fraxure|111}} from the {{TCG|Brilliant Stars}} expansion.
+**Both cards have the {{m|Dragon Claw}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Fraxure}} can learn.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Fraxure}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sharfax (Mega-Schillern 055)]]
+[[fr:Incisache (Méga-Rayonnement 055)]]
+[[it:Fraxure (Mega Splendore 55)]]
+[[ja:オノンド (ポケポケ B2b)]]
+[[zh:斧牙龙（B2b）]]

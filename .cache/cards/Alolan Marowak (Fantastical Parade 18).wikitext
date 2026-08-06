@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Marowak
+|ja name=アローラガラガラ
+|trans name=Alolan Garagara
+|species=Marowak
+|type=Fire
+|image=AlolanMarowakFantasticalParade18.png
+|illustrator=Dsuke
+|hp=100
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Cubone
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=018/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Alolan Marowak''' (Japanese: '''アローラガラガラ''' ''Alolan Garagara'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Fiery Bone
+|jname=ヒートボーン
+|jtrans=Heat Bone
+|damage=40
+|effect=Your opponent's Active Pokémon is now {{TCG|Burned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Marowak
+|category=Bone Keeper 
+|ndex=0105
+|height=3'3"
+|jheight=1
+|weight=75
+|jweight=34.0
+|dex=The cursed flames that light up the bone carried by this Pokémon are said to cause both mental and physical pain that will never fade. 
+|jdex=骨に 灯った 呪いの 炎は いつまでも 治らない 痛みを 体と 心に 残すという。
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Marowak}}.
+*'''Fiery Bone''' is an attack that first appeared on {{TCG ID|SM Promo|Alolan Marowak-GX|187}}, one of the {{TCG|SM Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Knogga (Traumhafte Parade 018)]]
+[[fr:Ossatueur d'Alola (Parade Onirique 018)]]
+[[it:Marowak di Alola (Parata Fantasmagorica 18)]]
+[[ja:アローラガラガラ (ポケポケ B2)]]
+[[zh:阿罗拉 嘎啦嘎啦（B2）]]

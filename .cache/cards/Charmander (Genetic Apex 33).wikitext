@@ -1,0 +1,85 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Charmander
+|ja name=ヒトカゲ
+|trans name=Hitokage
+|species=Charmander
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharmanderGeneticApex33.png|illustrator=Teeziro|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharmanderDeluxePackex56.png|illustrator=Teeziro|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharmanderGeneticApex230.png|illustrator=GIDORA|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharmanderPromo-A32.png|illustrator=Naoyo Kimura|tab caption=Promo}}
+|hp=60
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=033/226|pack=Charizard|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=230/226|pack=Charizard|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=032/P-A}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=055/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=056/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Charmander''' (Japanese: '''ヒトカゲ''' ''Hitokage'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Ember
+|jname=ひのこ
+|jtrans=Sparks
+|damage=30
+|effect=Discard a {{e|Fire}} Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Charmander
+|species=Lizard
+|ndex=0004
+|height=2'
+|jheight=0.6
+|weight=18.7
+|jweight=8.5
+|dex=It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.
+|jdex=熱いものを　好む　性格｡ 雨に濡れると　しっぽの　先から 煙が　出るという｡
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} card was available via special wonder picks during the [[Wonder Pick Event (Blastoise)|Blastoise Wonder Pick Event]], though the wonder picks were offset by 24 hours compared to the event; it was therefore available from January 7 to 21, 2025, while the event itself ran from January 8 to 22.
+
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=CharmanderGeneticApex33.png
+|caption1=Standard card<br>Illus. [[Teeziro]]
+|image2=CharmanderGeneticApex230.png
+|caption2=Illustration rare card<br>Illus. [[GIDORA]]
+|image4=CharmanderPromo-A32.png
+|caption4=Promo card<br>Illus. [[Naoyo Kimura]]
+|image5=CharmanderDeluxePackex56.png
+|caption5=Parallel foil card<br>Illus. [[Teeziro]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Team Up|Charmander|11}} from the {{TCG|Team Up}} expansion.
+*{{m|Ember}} is a [[move]] in the [[Pokémon games]] that {{p|Charmander}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Glumanda (Unschlagbare Gene 033)]]
+[[es:Charmander (Genes Formidables TCG Pocket)]]
+[[fr:Salamèche (Puissance Génétique 033)]]
+[[it:Charmander (Geni Supremi 33)]]
+[[ja:ヒトカゲ (ポケポケ A1)]]
+[[zh:小火龙（A1）]]

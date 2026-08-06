@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Boldore
+|ja name=ガントル
+|trans name=Gantle
+|species=Boldore
+|type=Fighting
+|image=BoldoreFantasticalParade86.png
+|illustrator=Masakazu Fukuda
+|hp=100
+|weakness=Grass
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Roggenrola
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=086/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Boldore''' (Japanese: '''ガントル''' ''Gantle'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Power Gem
+|jname=パワージェム
+|jtrans=Power Gem
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Boldore
+|species=Ore
+|ndex=0525
+|height=2'11"
+|jheight=0.9
+|weight=224.9
+|jweight=102.0
+|dex=It relies on sound in order to monitor what's in its vicinity. When angered, it will attack without ever changing the direction it's facing.
+|jdex=音で まわりの 様子を 探る。 怒らせると 体の 向きを 変えないまま 追ってくる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Emerging Powers|Boldore|52}} from the {{TCG|Emerging Powers}} expansion.
+*{{m|Power Gem}} is a [[move]] in the [[Pokémon games]] that {{p|Boldore}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sedimantur (Traumhafte Parade 086)]]
+[[fr:Géolithe (Parade Onirique 086)]]
+[[it:Boldore (Parata Fantasmagorica 86)]]
+[[ja:ガントル (ポケポケ B2)]]
+[[zh:地幔岩（B2）]]

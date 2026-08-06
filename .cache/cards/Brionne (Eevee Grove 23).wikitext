@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Brionne
+|ja name=オシャマリ
+|trans name=Osyamari
+|species=Brionne
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BrionneEeveeGrove23.png|illustrator=Atsuko Nishida|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BrionneDeluxePackex119.png|illustrator=Atsuko Nishida|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BrionneMegaRising301.png|illustrator=Taiga Kasai|tab caption=Shiny Rare}}
+|hp=90
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Popplio
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=023/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=118/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=119/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=301/226|pack=Mega Altaria|rarity=Shiny|rarity count=1}}
+}}
+
+'''Brionne''' (Japanese: '''オシャマリ''' ''Osyamari'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Water Gun
+|jname=みずでっぽう
+|jtrans=Water Gun
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Brionne
+|species=Pop Star
+|ndex=0729
+|height=2'
+|jheight=0.6
+|weight=38.6
+|jweight=17.5
+|dex=It gets excited when it sees a dance it doesn't know. This hard worker practices diligently until it can learn that dance. 
+|jdex=知らないダンスを 見ると 興奮。 踊れるように なるまで 懸命に 練習する 努力家 だよ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=BrionneEeveeGrove23.png
+|caption1=Standard card<br>Illus. [[Atsuko Nishida]]
+|image2=BrionneDeluxePackex119.png
+|caption2=Parallel foil card<br>Illus. [[Atsuko Nishida]]
+|image3=BrionneMegaRising301.png
+|caption3=Shiny rare card<br>Illus. [[Taiga Kasai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Lost Thunder|Brionne|66}} from the {{TCG|Lost Thunder}} expansion.
+**Both cards have the {{m|Water Gun}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Brionne}} can learn.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Brionne}}.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Marikeck (Evoli-Hain 023)]]
+[[es:Brionne (Arboleda de Eevee TCG Pocket)]]
+[[fr:Otarlette (La Clairière d'Évoli 023)]]
+[[it:Brionne (Il Bosco di Eevee 23)]]
+[[ja:オシャマリ (ポケポケ A3b)]]
+[[zh:花漾海狮（A3b）]]

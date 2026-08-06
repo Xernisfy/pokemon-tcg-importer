@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cinderace
+|ja name=エースバーン
+|trans name=Aceburn
+|species=Cinderace
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CinderaceFantasticalParade26.png|illustrator=Kouki Saitou|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CinderacePromo-B31.png|illustrator=Shin Nagasawa|tab caption=Promo}}
+|hp=130
+|weakness=Water
+|retreat cost=0
+|evo stage=Stage 2
+|prevo name=Raboot
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=026/155|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=031/P-B}}
+}}
+
+'''Cinderace''' (Japanese: '''エースバーン''' ''Aceburn'') is a {{ct|Fire}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Fireball Shot
+|jname=ひのたまシュート
+|jtrans=Fireball Shoot
+|damage=120
+|effect=During your next turn, this Pokémon can't attack.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Cinderace
+|species=Striker
+|ndex=0815
+|height=4'7"
+|jheight=1.4
+|weight=72.8
+|jweight=33.0
+|dex=Using a ball that it made out of flames, Cinderace blinds its opponents and keeps them at bay.
+|jdex=炎で 作った ボールを 操って 相手を 牽制したり 目くらましに 使ったりする。
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} print of this card was available via special wonder picks during the Toxtricity [[Wonder Pick Event (Toxtricity)|Wonder Pick Event]], which ran from February 15 to 25, 2026.
+
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=CinderaceFantasticalParade26.png
+|caption1=Rare card<br>Illus. [[Kouki Saitou]]
+|image2=CinderacePromo-B31.png
+|caption2=Promo card<br>Illus. [[Shin Nagasawa]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Sword & Shield|Cinderace|34}} from the {{TCG|Sword & Shield}} expansion. 
+*This card's {{TCGP|Promo-B}} illustration was first featured on {{TCG ID|Sword & Shield|Cinderace|36}} from the {{TCG|Sword & Shield}} expansion.
+*'''Fireball Shot''' is an attack that first appeared on {{TCG ID|Chilling Reign|Cinderace|28}} from the {{TCG|Chilling Reign}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Liberlo (Traumhafte Parade 026)]]
+[[es:Cinderace (Desfile de Ensueño TCG Pocket)]]
+[[fr:Pyrobut (Parade Onirique 026)]]
+[[it:Cinderace (Parata Fantasmagorica 26)]]
+[[ja:エースバーン (ポケポケ B2)]]
+[[zh:闪焰王牌（B2）]]

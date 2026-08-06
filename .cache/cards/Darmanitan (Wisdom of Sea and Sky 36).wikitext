@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Darmanitan
+|ja name=ヒヒダルマ
+|trans name=Hihidaruma
+|species=Darmanitan
+|type=Fire
+|image=DarmanitanWisdomofSeaandSky36.png
+|illustrator=Naoki Saito
+|hp=120
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Darumaka
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=036/161|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Darmanitan''' (Japanese: '''ヒヒダルマ''' ''Hihidaruma'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}{{e|Colorless}}
+|name=Heat Blast
+|jname=ヒートブラスト
+|jtrans=Heat Blast
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Darmanitan
+|species=Blazing
+|ndex=0555
+|height=4'3"
+|jheight=1.3
+|weight=204.8
+|jweight=92.9
+|dex=The thick arms of this hot-blooded Pokémon can deliver punches capable of obliterating a dump truck.
+|jdex=血気 盛んな ポケモン。 太い 腕から 繰りだす パンチは ダンプカーも 粉々に するぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Black & White|Darmanitan|25}} from the {{TCG|Black & White}} expansion.
+*'''Heat Blast''' is an attack that first appeared on {{TCG ID|Latias Half Deck|Latias|4}} from the {{TCG|EX Trainer Kit}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flampivian (Weisheit von Meer und Himmel 036)]]
+[[es:Darmanitan (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Darumacho (Sagesse entre Ciel et Mer 036)]]
+[[it:Darmanitan (La Via del Cielo e del Mare 36)]]
+[[ja:ヒヒダルマ (ポケポケ A4)]]
+[[zh:达摩狒狒（A4）]]

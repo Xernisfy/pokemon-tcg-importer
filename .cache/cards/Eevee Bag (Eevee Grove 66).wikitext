@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Eevee Bag
+|ja name=イーブイのバッグ
+|trans name=Eievui Bag
+|subtype=Item
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EeveeBagEeveeGrove66.png|illustrator=AYUMI ODASHIMA|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EeveeBagDeluxePackex309.png|illustrator=AYUMI ODASHIMA|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EeveeBagEeveeGrove107.png|illustrator=AYUMI ODASHIMA|tab caption=Ultra Rare}}
+|illustrator=AYUMI ODASHIMA
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=066/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=107/069|pack=Any|rarity=Crown|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=308/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=309/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Eevee Bag''' (Japanese: '''イーブイのバッグ''' ''Eievui Bag'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Choose 1:
+① During this turn, attacks used by your Pokémon that evolve from {{TCGP|Eevee}} do +10 damage to your opponent's Active Pokémon.
+<br>
+② Heal 20 damage from each of your Pokémon that evolves from {{TCGP|Eevee}}.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Item
+|image1=EeveeBagEeveeGrove66.png
+|caption1=Standard card<br>Illus. [[AYUMI ODASHIMA]]
+|image2=EeveeBagEeveeGrove107.png
+|caption2=Ultra rare card<br>Illus. [[AYUMI ODASHIMA]]
+|image3=EeveeBagDeluxePackex309.png
+|caption3=Parallel foil card<br>Illus. [[AYUMI ODASHIMA]]
+}}
+
+==Trivia==
+===Origin===
+* This card depicts the [[Bag]] carried by [[Penny]].
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=イーブイのバッグ ''Eievui no Bag''
+|zh_yue=伊布包包 ''Yībou Bāaubāau''
+|zh_cmn=伊布包包 ''Yībù Bāobāo''
+|fr=Sac Évoli
+|de=Evoli-Rucksack
+|it=Borsa Eevee
+|ko=이브이 가방 ''Eevee Gabang''
+|pt_br=Bolsa de Eevee
+|es=Mochila de Eevee
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Evoli-Rucksack (TCG Pocket)]]
+[[es:Mochila de Eevee (TCG Pocket)]]
+[[fr:Sac Évoli (La Clairière d'Évoli 066)]]
+[[it:Borsa Eevee (Il Bosco di Eevee 66)]]
+[[ja:イーブイのバッグ]]
+[[zh:伊布包包（TCGP）]]

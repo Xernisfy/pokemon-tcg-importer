@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Quaquaval
+|ja name=ウェーニバル
+|trans name=Wanival
+|species=Quaquaval
+|type=Water
+|image=QuaquavalPaldeanWonders24.png
+|illustrator=Kouki Saitou
+|hp=150
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Quaxwell
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=024/093|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Quaquaval''' (Japanese: '''ウェーニバル''' ''Wanival'') is a {{ct|Water}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Torrent
+|jname=げきりゅう
+|jtrans=Raging Rapids
+|effect=If this Pokémon's remaining HP is 50 or less, attacks used by this Pokémon do +60 damage to your opponent's Active Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Hydro Kick
+|jname=ハイドロキック
+|jtrans=Hydro Kick
+|damage=90
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Quaquaval
+|category=Dancer
+|ndex=0914
+|height=5'11"
+|jheight=1.8
+|weight=136.5
+|jweight=61.9
+|dex=Dancing in ways that evoke far-away places, this Pokémon mesmerizes all that see it. Flourishes of its decorative water feathers slice into its foes.
+|jdex=異国情緒 溢れる ダンスで 見るものを 魅了し 水でできた 飾り羽根を 振りまわし 切り裂く。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Quaquaval|54}} from the {{TCG|Scarlet & Violet}} expansion.
+**Both cards have the '''Hydro Kick''' attack, which first appeared on {{TCG ID|Boundaries Crossed|Keldeo|48}} from the {{TCG|Boundaries Crossed}} expansion.
+*{{a|Torrent}} is an [[Ability]] in the [[Pokémon games]] that {{p|Quaquaval}} can have.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bailonda (Wundervolles Paldea 024)]]
+[[fr:Palmaval (Merveilles de Paldea 024)]]
+[[it:Quaquaval (Meraviglie di Paldea 24)]]
+[[ja:ウェーニバル (ポケポケ B2a)]]
+[[zh:狂欢浪舞鸭（B2a）]]

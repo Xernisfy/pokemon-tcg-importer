@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Charmander
+|ja name=ヒトカゲ
+|trans name=Hitokage
+|species=Charmander
+|type=Fire
+|image=CharmanderShiningRevelry8.png
+|illustrator=Megumi Mizutani
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharmanderShiningRevelry8.png|illustrator=Megumi Mizutani|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharmanderShiningRevelry99.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=60
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=008/072|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=099/072|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Charmander''' (Japanese: '''ヒトカゲ''' ''Hitokage'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Combustion
+|jname=かえん
+|jtrans=Blaze
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Charmander
+|category=Lizard 
+|ndex=0004
+|height=2'
+|jheight=0.6
+|weight=18.7
+|jweight=8.5
+|dex=It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.
+|jdex=熱いものを　好む　性格｡ 雨に濡れると　しっぽの　先から 煙が　出るという｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=CharmanderShiningRevelry8.png
+|caption1=Common card<br>Illus. [[Megumi Mizutani]]
+|image2=CharmanderShiningRevelry99.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare print features a {{Shiny}} {{p|Charmander}}.
+*This card's standard illustration was first featured on {{TCG ID|Hidden Fates|Charmander|7}} from the {{TCG|Hidden Fates}} expansion.
+*'''Combustion''' is an attack that first appeared on {{TCG ID|Neo Destiny|Slugma|82}} from the {{TCG|Neo Destiny}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Glumanda (Glänzendes Festival 008)]]
+[[es:Charmander (Festival Brillante TCG Pocket)]]
+[[fr:Salamèche (Réjouissances Rayonnantes 008)]]
+[[it:Charmander (Tripudio Splendente 8)]]
+[[ja:ヒトカゲ (ポケポケ A2b)]]
+[[zh:小火龍（A2b）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Vanillish
+|ja name=バニリッチ
+|trans name=Vanirich
+|species=Vanillish
+|type=Water
+|image=VanillishEeveeGrove19.png
+|illustrator=Shin Nagasawa
+|hp=80
+|weakness=Metal
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Vanillite
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=019/069}}
+}}
+
+'''Vanillish''' (Japanese: '''バニリッチ''' ''Vanirich'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Sweets Relay
+|jname=スイーツリレー
+|jtrans=Sweets Relay
+|damage=30+
+|effect=If 1 of your Pokémon used [[:Category:TCG Pocket cards with Sweets Relay|Sweets Relay]] during your last turn, this attack does 20 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Vanillish
+|species=Icy Snow
+|ndex=0583
+|height=3'7"
+|jheight=1.1
+|weight=90.4
+|jweight=41.0
+|dex=By drinking pure water, it grows its icy body. This Pokémon can be hard to find on days with warm, sunny weather.
+|jdex=きれいな 水を 飲んで 氷の 体を 大きくする。 天気の 良い 日は あまり 見かけない。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Plasma Storm|Vanillish|36}} from the {{TCG|Plasma Storm}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gelatroppo (Evoli-Hain 019)]]
+[[es:Vanillish (Arboleda de Eevee TCG Pocket)]]
+[[fr:Sorboul (La Clairière d'Évoli 019)]]
+[[it:Vanillish (Il Bosco di Eevee 19)]]
+[[ja:バニリッチ (ポケポケ A3b)]]
+[[zh:多多冰（A3b）]]

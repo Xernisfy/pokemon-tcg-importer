@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Muk
+|ja name=アローラベトベトン
+|trans name=Alolan Betbeton
+|species=Muk
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanMukFantasticalParade97.png|illustrator=Hitoshi Ariga|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanMukFantasticalParade173.png|illustrator=Mékayu|tab caption=Illustration Rare}}
+|hp=110
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Alolan Grimer
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=097/155|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=173/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Alolan Muk''' (Japanese: '''アローラベトベトン''' ''Alolan Betbeton'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Ability
+|type=Darkness
+|name=Power of Alchemy
+|jname=かがくのちから
+|jtrans=Power of Chemistry
+|effect=Basic Pokémon in play ''(both yours and your opponent's)'' have no [[Ability (TCG)|Abilities]].
+}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}{{e|Colorless}}
+|name=Sludge Bomb
+|jname=ヘドロばくだん
+|jtrans=Sludge Bomb
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Muk
+|species=Sludge
+|ndex=089
+|height=3'03"
+|jheight=1.0
+|weight=114.6
+|jweight=52.0
+|dex=What look like fangs and claws are actually crystallized poison that will afflict you at a mere touch, so don't get too close.
+|jdex=キバや ツメに 見えるのは 毒素の 結晶。 触れるだけで 毒に 侵されるので 近付くのは 危険。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=AlolanMukFantasticalParade97.png
+|caption1=Rare card<br>Illus. [[Hitoshi Ariga]]
+|image2=AlolanMukFantasticalParade173.png
+|caption2=Illustration rare card<br>Illus. [[Mékayu]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Sun & Moon|Alolan Muk|58}} from the {{TCG|Sun & Moon}} expansion; both cards have the Power of Alchemy Ability.
+*{{a|Power of Alchemy}} is an [[Ability]] in the [[Pokémon games]] that Alolan Muk can have.
+*{{m|Sludge Bomb}} is a [[move]] in the [[Pokémon games]] that Alolan Muk can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Sleimok (Traumhafte Parade 097)]]
+[[fr:Grotadmorv d'Alola (Parade Onirique 097)]]
+[[it:Muk di Alola (Parata Fantasmagorica 97)]]
+[[ja:アローラベトベトン (ポケポケ B2)]]
+[[zh:阿罗拉 臭臭泥（B2）]]

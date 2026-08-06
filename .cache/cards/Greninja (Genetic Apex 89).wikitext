@@ -1,0 +1,100 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Greninja
+|ja name=ゲッコウガ
+|trans name=Gekkouga
+|species=Greninja
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GreninjaGeneticApex89.png|illustrator=5ban Graphics|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GreninjaDeluxePackex115.png|illustrator=5ban Graphics|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GreninjaDeluxePackex356.png|illustrator=Noriaki Tanimura|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GreninjaPromo-A19.png|illustrator=Sanosuke Sakuma|tab caption=Promo}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GreninjaExtradimensionalCrisis93.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=120
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Frogadier
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=089/226|pack=Charizard|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=019/P-A|pack=Vol. 2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=093/069|pack=Any|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=114/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=115/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=356/353|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Greninja''' (Japanese: '''ゲッコウガ''' ''Gekkouga'') is a {{ct|Water}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Water Shuriken
+|jname=みずしゅりけん
+|jtrans=Water Shuriken
+|effect=Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Mist Slash
+|jname=かすみぎり
+|jtrans=Mist Cut
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Greninja
+|species=Ninja
+|ndex=0658
+|height=4'11"
+|jheight=1.5
+|weight=88.2
+|jweight=40.0
+|dex=It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two.
+|jdex=水を　圧縮して　手裏剣を　作り出す｡ 高速回転させて　飛ばすと 金属も　真っ二つ｡
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of five cards that could be pulled from Promo-A Vol. 2 packs; these were made available as part of the [[Venusaur Drop Event]], which ran from November 29 to December 13, 2024.
+
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=GreninjaGeneticApex89.png
+|caption1=Standard card<br>Illus. [[5ban Graphics]]
+|image2=GreninjaPromo-A19.png
+|caption2=Promo card<br>Illus. [[Sanosuke Sakuma]]
+|image3=GreninjaExtradimensionalCrisis93.png
+|caption3=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+|image4=GreninjaDeluxePackex115.png
+|caption4=Parallel foil card<br>Illus. [[5ban Graphics]]
+|image5=GreninjaDeluxePackex356.png
+|caption5=Illustration rare card<br>Illus. [[Noriaki Tanimura]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Genetic Apex}} illustration was first featured on {{TCG ID|XY|Greninja|41}} from the {{TCG|XY}} expansion, as was its '''Mist Slash''' attack.
+**Both cards also have the Water Shuriken {{TCG|Ability}}; this is a [[move]] in the [[Pokémon games]] that {{p|Greninja}} can learn.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|XY Promo|Greninja|162}}, one of the {{TCG|XY Black Star Promos}}.
+*This card's shiny rare print features a {{Shiny}} {{p|Greninja}}.
+*This card's [[Pokédex]] entry comes from {{g|Omega Ruby}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Quajutsu (Unschlagbare Gene 089)]]
+[[es:Greninja (Genes Formidables TCG Pocket)]]
+[[fr:Amphinobi (Puissance Génétique 089)]]
+[[it:Greninja (Geni Supremi 89)]]
+[[ja:ゲッコウガ (ポケポケ A1)]]
+[[zh:甲贺忍蛙（A1）]]

@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Blacephalon {{TCGP Icon|ex}}
+|ja name=ズガドーン{{TCGP Icon|ex}}
+|trans name=Zugadoon {{TCGP Icon|ex}}
+|species=Blacephalon
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BlacephalonexFantasticalParade23.png|illustrator=5ban Graphics|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BlacephalonexFantasticalParade181.png|illustrator=5ban Graphics|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BlacephalonexFantasticalParade195.png|illustrator=YASHIRO Nanaco|tab caption=Special Illustration Rare}}
+|hp=140
+|weakness=Water
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=023/155|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=181/155|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=195/155|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Blacephalon ex''' (Japanese: '''ズガドーンex''' ''Zugadoon ex'') is a {{ct|Fire}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/UltraBeast/Pocket}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Singe
+|jname=こがす
+|jtrans=Singe
+|damage=
+|effect=Your opponent's Active Pokémon is now {{TCG|Burned}}.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Fire}}
+|name=Pop-Punk
+|jname=ポップパンク
+|jtrans=Pop-Punk
+|damage=140
+|effect=Discard 3 {{e|Fire}} Energy from this Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Fire
+|ndex=0806
+|name=Blacephalon
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=BlacephalonexFantasticalParade23.png
+|caption1=Double rare card<br>Illus. [[5ban Graphics]]
+|image2=BlacephalonexFantasticalParade181.png
+|caption2=Super rare card<br>Illus. [[5ban Graphics]]
+|image3=BlacephalonexFantasticalParade195.png
+|caption3=Special illustration rare card<br>Illus. [[YASHIRO Nanaco]]
+}}
+
+==Trivia==
+===Origin===
+*'''Singe''' is an attack that first appeared on {{TCG ID|Expedition|Cyndaquil|104}} and {{TCG ID|Expedition|Ponyta|126}} from the {{TCG|Expedition Base Set}}.
+*The '''Pop-Punk''' attack is named after {{wp|pop-punk}}, a genre of music.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kopplosio-ex (Traumhafte Parade 023)]]
+[[fr:Pierroteknik-ex (Parade Onirique 023)]]
+[[it:Blacephalon-ex (Parata Fantasmagorica 23)]]
+[[ja:ズガドーンex (ポケポケ B2)]]
+[[zh:砰头小丑ex（B2）]]

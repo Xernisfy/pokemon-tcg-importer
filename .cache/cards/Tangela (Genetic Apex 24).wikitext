@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tangela
+|ja name=モンジャラ
+|trans name=Monjara
+|species=Tangela
+|type=Grass
+|image=TangelaGeneticApex24.png
+|illustrator=Midori Harada
+|hp=80
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Charizard|rarity=Diamond|rarity count=1|number=024/226}}
+}}
+
+'''Tangela''' (Japanese: '''モンジャラ''' ''Monjara'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Absorb
+|jname=すいとる
+|jtrans=Absorb
+|damage=40
+|effect=Heal 10 damage from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Tangela
+|species=Vine
+|ndex=0114
+|height=3'3"
+|jheight=1
+|weight=77.2
+|jweight=35.0
+|dex=Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon's true appearance remains a mystery.
+|jdex=ちぎれても　無限に　伸びる ツルの　奥の　正体は いまだ　解明されていない｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Everyone's Exciting Battle|Tangela|1}} from the {{TCG|Everyone's Exciting Battle}} collection, which was only released in Japan.
+*{{m|Absorb}} is a [[move]] in the [[Pokémon games]] that {{p|Tangela}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tangela (Unschlagbare Gene 024)]]
+[[es:Tangela (Genes Formidables TCG Pocket)]]
+[[fr:Saquedeneu (Puissance Génétique 024)]]
+[[it:Tangela (Geni Supremi 24)]]
+[[ja:モンジャラ (ポケポケ A1)]]
+[[zh:蔓藤怪（A1）]]

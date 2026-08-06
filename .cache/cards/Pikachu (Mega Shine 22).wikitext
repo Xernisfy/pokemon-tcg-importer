@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pikachu
+|ja name=ピカチュウ
+|trans name=Pikachu
+|species=Pikachu
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PikachuMegaShine22.png|illustrator=Ryuta Fuse|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PikachuMegaShine96.png|illustrator=MAHOU|tab caption=Shiny Rare}}
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=022/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=096/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Pikachu''' (Japanese: '''ピカチュウ''' ''Pikachu'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Static Shock
+|jname=バチバチ
+|jtrans=Electric Crackling
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Pikachu
+|species=Mouse
+|ndex=0025
+|height=1'4"
+|jheight=0.4
+|weight=13.2
+|jweight=6.0
+|dex=When several of these Pokémon gather, their electricity can build and cause lightning storms.
+|jdex=何匹かが 集まっていると そこに 猛烈な 電気が 溜まり 稲妻が 落ちることがあるという。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=PikachuMegaShine22.png
+|caption1=Common card<br>Illus. [[Ryuta Fuse]]
+|image2=PikachuMegaShine96.png
+|caption2=Shiny rare card<br>Illus. [[MAHOU]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Sword & Shield|Pikachu|65}} from the {{TCG|Sword & Shield}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Pikachu}}.
+*'''Static Shock''' is an attack that first appeared on {{TCG ID|Secret Wonders|Mareep|94}} from the {{TCG|Secret Wonders}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pikachu (Mega-Schillern 022)]]
+[[fr:Pikachu (Méga-Rayonnement 022)]]
+[[it:Pikachu (Mega Splendore 22)]]
+[[ja:ピカチュウ (ポケポケ B2b)]]
+[[zh:皮卡丘（B2b）]]

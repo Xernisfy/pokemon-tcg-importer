@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Honchkrow
+|ja name=ドンカラス
+|trans name=Dongkarasu
+|species=Honchkrow
+|type=Darkness
+|image=HonchkrowSpace-TimeSmackdown97.png
+|illustrator=Hideki Ishikawa
+|hp=100
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Murkrow
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=097/155|pack=Dialga|rarity=Diamond|rarity count=2}}
+}}
+
+'''Honchkrow''' (Japanese: '''ドンカラス''' ''Dongkarasu'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=Skill Dive
+|jname=ちょくげきひこう
+|jtrans=Direct Hit Flight
+|damage=
+|effect=This attack does 50 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Honchkrow
+|species=Big Boss
+|ndex=0430
+|height=2'11"
+|jheight=0.9
+|weight=60.2
+|jweight=27.3
+|dex=It is merciless by nature. It is said that it never forgives the mistakes of its Murkrow followers.
+|jdex=情け容赦ない 性格。 子分の ヤミカラスの 失敗は 絶対に 許さないと 言われる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Guardians Rising|Honchkrow|79}} from the {{TCG|Guardians Rising}} expansion.
+* '''Skill Dive''' is an attack that first appeared on {{TCG ID|EX Team Rocket Returns|Dark Crobat|3}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kramshef (Kollision von Raum und Zeit 097)]]
+[[es:Honchkrow (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Corboss (Choc Spatio-Temporel 097)]]
+[[it:Honchkrow (Scontro Spaziotemporale 97)]]
+[[ja:ドンカラス (ポケポケ A2)]]
+[[zh:乌鸦头头（A2）]]

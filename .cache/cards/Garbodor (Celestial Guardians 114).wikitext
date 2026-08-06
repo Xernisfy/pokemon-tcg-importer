@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Garbodor
+|ja name=ダストダス
+|trans name=Dustdas
+|species=Garbodor
+|type=Darkness
+|image=GarbodorCelestialGuardians114.png
+|illustrator=match
+|hp=120
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Trubbish
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=114/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Garbodor''' (Japanese: '''ダストダス''' ''Dustdas'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Colorless}}
+|name=Super Poison Breath
+|jname=どくのいき
+|jtrans=Poison Breath
+|damage=70
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex
+|type=Darkness
+|name=Garbodor
+|species=Trash Heap
+|ndex=0569
+|height=6'3"
+|jheight=1.9
+|weight=236.6
+|jweight=107.3
+|dex=This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.
+|jdex=食った　ゴミが　体内で　毒に　変化する。　食う　ゴミ　しだいで　毒の　主成分も　変わる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Noble Victories|Garbodor|49}} from the {{TCG|Noble Victories}} expansion.
+*'''Super Poison Breath''' is an attack that first appeared on {{TCG ID|EX Sandstorm|Breloom|33}} from the {{TCG|EX Sandstorm}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Deponitox (Hüter des Firmaments 114)]]
+[[es:Garbodor (Guardianes Celestiales TCG Pocket)]]
+[[fr:Miasmax (Gardiens Astraux 114)]]
+[[it:Garbodor (Guardiani Astrali 114)]]
+[[ja:ダストダス (ポケポケ A3)]]
+[[zh:灰尘山（A3）]]

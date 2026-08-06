@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ambipom
+|ja name=エテボース
+|trans name=Eteboth
+|species=Ambipom
+|type=Colorless
+|image=AmbipomEeveeGrove59.png
+|illustrator=Sumiyoshi Kizuki
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Aipom
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=059/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Ambipom''' (Japanese: '''エテボース''' ''Eteboth'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Catching Tail
+|jname=テールキャッチ
+|jtrans=Tail Catch
+|effect=Once during your turn, you may put a random {{TCGP|Pokémon Tool}} card from your deck into your hand.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Corkscrew Punch
+|jname=どつく
+|jtrans=Raging Strike
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Ambipom
+|category=Long Tail 
+|ndex=0424
+|height=3'11"
+|jheight=1.2
+|weight=44.8
+|jweight=20.3
+|dex=It uses its tails for everything. If it wraps both of its tails around you and gives you a squeeze, that's proof it really likes you.
+|jdex=なにを するにも シッポを 使う。 2本の シッポで 抱きしめられたら 本当に 懐かれた 証。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Ambipom|170}} from the {{TCG|Cosmic Eclipse}} expansion.
+*'''Corkscrew Punch''' is an attack that first appeared on {{TCG ID|Vending|Machop|S2}} from {{TCG|Expansion Sheet 2}}.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ambidiffel (Evoli-Hain 059)]]
+[[es:Ambipom (Arboleda de Eevee TCG Pocket)]]
+[[fr:Capidextre (La Clairière d'Évoli 059)]]
+[[it:Ambipom (Il Bosco di Eevee 59)]]
+[[ja:エテボース (ポケポケ A3b)]]
+[[zh:双尾怪手（A3b）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Skwovet
+|ja name=ホシガリス
+|trans name=Hoshigarisu
+|species=Skwovet
+|type=Colorless
+|image=SkwovetEeveeGrove64.png
+|illustrator=Akira Komayama
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=064/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Skwovet''' (Japanese: '''ホシガリス''' ''Hoshigarisu'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Bite
+|jname=かみつく
+|jtrans=Bite
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Skwovet
+|category=Cheeky 
+|ndex=0819
+|height=1'
+|jheight=0.3
+|weight=5.5
+|jweight=2.5
+|dex=It stores berries in its cheeks. When there are no berries to be found, Skwovet will stuff pebbles into its cheeks to stave off its cravings.
+|jdex=ほっぺに 木の実を 蓄える。 木の実が なく 口寂しいときは 小石を ふくんで 耐えしのぐ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Skwovet|152}} from the {{TCG|Darkness Ablaze}} expansion.
+*{{m|Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Skwovet}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Raffel (Evoli-Hain 064)]]
+[[es:Skwovet (Arboleda de Eevee TCG Pocket)]]
+[[fr:Rongourmand (La Clairière d'Évoli 064)]]
+[[it:Skwovet (Il Bosco di Eevee 64)]]
+[[ja:ホシガリス (ポケポケ A3b)]]
+[[zh:贪心栗鼠（A3b）]]

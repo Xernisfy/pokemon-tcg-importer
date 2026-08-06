@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cryogonal
+|ja name=フリージオ
+|trans name=Freegeo
+|species=Cryogonal
+|type=Water
+|image=CryogonalFantasticalParade40.png
+|illustrator=Kagemaru Himeno
+|hp=70
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=040/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Cryogonal''' (Japanese: '''フリージオ''' ''Freegeo'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Frozen Lock
+|jname=カチカチロック
+|jtrans=Stiff Lock
+|damage=20
+|effect=During your opponent's next turn, they can't play any {{TCGP|Item card}}s from their hand.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Cryogonal
+|species=Crystallizing
+|ndex=0615
+|height=3'7"
+|jheight=1.1
+|weight=326.3
+|jweight=148.0
+|dex=Cryogonal uses its chains of ice to constrict its opponents and then flash-freezes them where they stand.
+|jdex=氷で できた 鎖を 使い 相手を 締め上げると そのまま 一気に 凍らせてしまうのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Noble Victories|Cryogonal|33}} from the {{TCG|Noble Victories}} expansion.
+*'''Frozen Lock''' is an attack that first appeared on {{TCG ID|Unified Minds|Cryogonal|46}} from the {{TCG|Unified Minds}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Frigometri (Traumhafte Parade 040)]]
+[[fr:Hexagel (Parade Onirique 040)]]
+[[it:Cryogonal (Parata Fantasmagorica 40)]]
+[[ja:フリージオ (ポケポケ B2)]]
+[[zh:几何雪花（B2）]]

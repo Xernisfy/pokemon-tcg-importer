@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tympole
+|ja name=オタマロ
+|trans name=Otamaro
+|species=Tympole
+|type=Water
+|image=TympoleMegaRising63.png
+|illustrator=Mina Nakai
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=063/226}}
+}}
+
+'''Tympole''' (Japanese: '''オタマロ''' ''Otamaro'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Mud-Slap
+|jname=どろかけ
+|jtrans=Mud Spray
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Tympole
+|species=Tadpole
+|ndex=0535
+|height=1'8"
+|jheight=0.5
+|weight=9.9
+|jweight=4.5
+|dex=It uses sound waves to communicate with others of its kind. People and other Pokémon species can't hear its cries of warning.
+|jdex=音波で 仲間と 連絡する。 警戒の 鳴き声は 人や ほかの ポケモンには 聞こえない。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Evolving Skies|Tympole|42}} from the {{TCG|Evolving Skies}} expansion; both cards have the Mud-Slap attack.
+*{{m|Mud-Slap}} is a [[move]] in the [[Pokémon games]] that {{p|Tympole}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schallquap (Mega-Aufstieg 063)]]
+[[es:Tympole (Megaascenso TCG Pocket)]]
+[[fr:Tritonde (Méga-Ascension 063)]]
+[[it:Tympole (Mega Ascesa 63)]]
+[[ja:オタマロ (ポケポケ B1)]]
+[[zh:圆蝌蚪（B1）]]

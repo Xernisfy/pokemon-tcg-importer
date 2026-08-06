@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tentacruel
+|ja name=ドククラゲ
+|trans name=Dokukurage
+|species=Tentacruel
+|type=Water
+|image=TentacruelSecludedSprings16.png
+|illustrator=Hajime Kusajima
+|hp=110
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Tentacool
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=016/071}}
+}}
+
+'''Tentacruel''' (Japanese: '''ドククラゲ''' ''Dokukurage'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Stun Poison
+|jname=しんけいどく
+|jtrans=Nerve Poison
+|damage=50
+|effect=Flip a coin. If heads, your opponent's Active Pokémon is now {{TCG|Poisoned}} and {{TCG|Paralyzed}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Tentacruel
+|category=Jellyfish
+|ndex=0073
+|height=5'3"
+|jheight=1.6
+|weight=121.3
+|jweight=55.0
+|dex=When the red orbs on Tentacruel's head glow brightly, watch out. The Pokémon is about to fire off a burst of ultrasonic waves.
+|jdex=頭の　赤い　玉の　光が 強くなったら　要注意｡ 超音波を　放つ　前触れだ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Aquapolis|Tentacruel|H26}} from the {{TCG|Aquapolis}} expansion.
+*'''Stun Poison''' is an attack that first appeared as '''Nerve Poison''' on {{TCG ID|Gym Challenge|Koga's Beedrill|9}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tentoxa (Verborgene Quelle 016)]]
+[[es:Tentacruel (Manantial Oculto TCG Pocket)]]
+[[fr:Tentacruel (Source Secrète 016)]]
+[[it:Tentacruel (Sorgenti Recondite 16)]]
+[[ja:ドククラゲ (ポケポケ A4a)]]
+[[zh:毒刺水母（A4a）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Prinplup
+|ja name=ポッタイシ
+|trans name=Pottaishi
+|species=Prinplup
+|type=Water
+|image=PrinplupMegaShine19.png
+|illustrator=Suwama Chiaki
+|hp=80
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Piplup
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=019/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Prinplup''' (Japanese: '''ポッタイシ''' ''Pottaishi'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Water Splash
+|jname=みずしぶき
+|jtrans=Water Spray
+|damage=30+
+|effect=Flip a coin. If heads, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Prinplup
+|category=Penguin
+|ndex=0394
+|height=2'7"
+|jheight=0.8
+|weight=50.7
+|jweight=23.0
+|dex=Because every Prinplup considers itself to be the most important, they can never form a group.
+|jdex=どの　ポッタイシも　自分が 一番　偉いと　考えるため 群れを　作ることは　不可能だ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Dark Explorers|Prinplup|28}} from the {{TCG|Dark Explorers}} expansion.
+*'''Water Splash''' is an attack that first appeared on {{TCG ID|Diamond & Pearl|Piplup|93}} from the {{TCG|Diamond & Pearl}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pliprin (Mega-Schillern 019)]]
+[[fr:Prinplouf (Méga-Rayonnement 019)]]
+[[it:Prinplup (Mega Splendore 19)]]
+[[ja:ポッタイシ (ポケポケ B2b)]]
+[[zh:波皇子（B2b）]]

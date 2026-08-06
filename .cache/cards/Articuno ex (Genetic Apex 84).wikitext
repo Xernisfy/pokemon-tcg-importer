@@ -1,0 +1,86 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Articuno {{TCGP Icon|ex}}
+|ja name=フリーザー{{TCGP Icon|ex}}
+|trans name=Freezer {{TCGP Icon|ex}}
+|species=Articuno
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArticunoexGeneticApex84.png|illustrator=PLANETA Saito|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArticunoexGeneticApex258.png|illustrator=PLANETA Saito|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArticunoexGeneticApex275.png|illustrator=kodama|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArticunoexEeveeGrove104.png|illustrator=PLANETA Saito|tab caption=Shiny Super Rare}}
+|hp=140
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=084/226|pack=Mewtwo|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=258/226|pack=Mewtwo|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=275/226|pack=Mewtwo|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=104/069|pack=Any|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=101/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Articuno ex''' (Japanese: '''フリーザーex''' ''Freezer ex'') is a {{ct|Water}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Ice Wing
+|jname=アイスウイング
+|jtrans=Ice Wing
+|damage=40
+|effect=
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}
+|name=Blizzard
+|jname=ふぶき
+|jtrans=Blizzard
+|damage=80
+|effect=This attack also does 10 damage to each of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Water
+|ndex=0144
+|name=Articuno
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=ArticunoexGeneticApex84.png
+|caption1=Double rare card<br>Illus. [[PLANETA Saito]]
+|image2=ArticunoexGeneticApex258.png
+|caption2=Super rare card<br>Illus. [[PLANETA Saito]]
+|image4=ArticunoexGeneticApex275.png
+|caption4=Special illustration rare card<br>Illus. [[kodama]]
+|image5=ArticunoexEeveeGrove104.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA Saito]]
+}}
+
+==Trivia==
+[[File:ArticunoexGeneticApex275 artwork.png|thumb|Standalone illustration]]
+The special illustration rare card features {{p|Articuno}} flying above the [[Seafoam Islands]], where it can be found in Generations {{gen|I}}, {{gen|III}}, {{gen|IV}}, and {{gen|VII}}. {{p|Horsea}}, {{p|Seadra}}, and {{p|Krabby}}—all of which can be found in the Seafoam Islands and on [[Kanto]] {{rt|20|Kanto}} in several of the games—also appear in the illustration.
+
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Articuno}}.
+*'''Ice Wing''' is an attack that first appeared on {{TCG ID|EX Team Rocket Returns|Rocket's Articuno ex|96}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*{{m|Blizzard}} is a [[move]] in the [[Pokémon games]] that {{p|Articuno}} can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Arktos-ex (Unschlagbare Gene 084)]]
+[[es:Articuno ex (Genes Formidables TCG Pocket)]]
+[[fr:Artikodin-ex (Puissance Génétique 084)]]
+[[it:Articuno-ex (Geni Supremi 84)]]
+[[ja:フリーザーex (ポケポケ A1)]]
+[[zh:急冻鸟ex（A1）]]

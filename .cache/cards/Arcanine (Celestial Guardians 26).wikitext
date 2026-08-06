@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Arcanine
+|ja name=ウインディ
+|trans name=Windie
+|species=Arcanine
+|type=Fire
+|image=ArcanineCelestialGuardians26.png
+|illustrator=match
+|hp=130
+|weakness=Water
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Growlithe
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=026/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Arcanine''' (Japanese: '''ウインディ''' ''Windie'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Colorless}}
+|name=Fire Mane
+|jname=ほのおのたてがみ
+|jtrans=Flame Mane
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Arcanine
+|species=Legendary
+|ndex=0059
+|height=6'3"
+|jheight=1.9
+|weight=341.7
+|jweight=155.0
+|dex=An ancient picture scroll shows that people were captivated by its movement as it ran through prairies.
+|jdex=草原を 駆け抜ける 様子は 人々の 心を 虜にしたと 昔の 絵巻に 記されていた。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BREAKpoint|Arcanine|11}} from the {{TCG|BREAKpoint}} expansion.
+*'''Fire Mane''' is an attack that first appeared on {{TCG ID|Gym Challenge|Blaine's Rapidash|33}} from {{TCG|Gym Challenge}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Arkani (Hüter des Firmaments 026)]]
+[[es:Arcanine (Guardianes Celestiales TCG Pocket)]]
+[[fr:Arcanin (Gardiens Astraux 026)]]
+[[it:Arcanine (Guardiani Astrali 26)]]
+[[ja:ウインディ (ポケポケ A3)]]
+[[zh:风速狗（A3）]]

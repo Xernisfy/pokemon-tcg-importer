@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Fearow
+|ja name=オニドリル
+|trans name=Onidrill
+|species=Fearow
+|type=Colorless
+|image=FearowWisdomofSeaandSky130.png
+|illustrator=Shin Nagasawa
+|hp=90
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Spearow
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=130/161|pack=Ho-Oh|rarity=Diamond|rarity count=1}}
+}}
+
+'''Fearow''' (Japanese: '''オニドリル''' ''Onidrill'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Peck Bugs
+|jname=むしをついばむ
+|jtrans=Pick at Bugs
+|damage=30+
+|effect=If your opponent's Active Pokémon is a {{e|Grass}} Pokémon, this attack does 40 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Fearow
+|category=Beak 
+|ndex=0022
+|height=3'11"
+|jheight=1.2
+|weight=83.8
+|jweight=38.0
+|dex=Carrying food through Fearow's territory is dangerous. It will snatch the food away from you in a flash!
+|jdex=オニドリルの 縄張りで 食べ物を 持って 歩くのは 危険だ。 あっという 間に かっさらわれるぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Phantom Forces|Fearow|79}} from the {{TCG|Phantom Forces}} expansion.
+*'''Peck Bugs''' is an attack that first appeared on {{TCG ID|Sun & Moon|Spearow|97}} from the {{TCG|Sun & Moon}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ibitak (Weisheit von Meer und Himmel 130)]]
+[[es:Fearow (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Rapasdepic (Sagesse entre Ciel et Mer 130)]]
+[[it:Fearow (La Via del Cielo e del Mare 130)]]
+[[ja:オニドリル (ポケポケ A4)]]
+[[zh:大嘴雀（A4）]]

@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Armarouge {{TCGP Icon|ex}}
+|ja name=グレンアルマ{{TCGP Icon|ex}}
+|trans name=Gurenarma {{TCGP Icon|ex}}
+|species=Armarouge
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArmarougeexPaldeanWonders20.png|illustrator=takuyoa|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArmarougeexPaldeanWonders101.png|illustrator=takuyoa|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArmarougeexPaldeanWonders111.png|illustrator=Raita Kazama|tab caption=Special Illustration Rare}}
+|hp=140
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Charcadet
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=020/093|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=101/093|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=111/093|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Armarouge ex''' (Japanese: '''グレンアルマex''' ''Gurenarma ex'') is a {{ct|Fire}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Ability/Pocket
+|type=Fire
+|name=Armor
+|jname=そうこう
+|jtrans=Armor 
+|effect=This Pokémon takes –30 damage from attacks.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}{{e|Colorless}}
+|name=Armor Cannon
+|jname=アーマーキャノン
+|jtrans=Armor Cannon
+|damage=120
+|effect=Discard a {{e|Fire}} Energy from this Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Fire
+|ndex=0936
+|name=Armarouge
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=ArmarougeexPaldeanWonders20.png
+|caption1=Double rare card<br>Illus. [[takuyoa]]
+|image2=ArmarougeexPaldeanWonders101.png
+|caption2=Super rare card<br>Illus. [[takuyoa]]
+|image3=ArmarougeexPaldeanWonders111.png
+|caption3=Special illustration rare card<br>Illus. [[Raita Kazama]]
+}}
+
+==Trivia==
+===Origin===
+*This card's double rare and super rare illustrations were first featured on {{TCG ID|Paradox Rift|Armarouge ex|27}} from the {{TCG|Paradox Rift}} expansion.
+*'''Armor''' is an {{TCG|Ability}} that first appeared on {{TCG ID|Guardians Rising|Golisopod|9}} from the {{TCG|Guardians Rising}} expansion.
+*{{m|Armor Cannon}} is a [[move]] in the [[Pokémon games]] that {{p|Armarouge}} can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Crimanzo-ex (Wundervolles Paldea 020)]]
+[[es:Armarouge ex (Encantos de Paldea TCG Pocket)]]
+[[fr:Carmadura-ex (Merveilles de Paldea 020)]]
+[[it:Armarouge-ex (Meraviglie di Paldea 20)]]
+[[ja:グレンアルマex (ポケポケ B2a)]]
+[[zh:红莲铠骑ex（B2a）]]

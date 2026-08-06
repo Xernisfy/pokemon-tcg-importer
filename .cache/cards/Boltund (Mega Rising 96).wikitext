@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Boltund
+|ja name=パルスワン
+|trans name=Pulsewan
+|species=Boltund
+|type=Lightning
+|image=BoltundMegaRising96.png
+|illustrator=chibi
+|hp=110
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Yamper
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Altaria|rarity=Diamond|rarity count=2|number=096/226}}
+}}
+
+'''Boltund''' (Japanese: '''パルスワン''' ''Pulsewan'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}
+|name=Zap Kick
+|jname=エレキック
+|jtrans=Elekick
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Boltund
+|species=Dog
+|ndex=0836
+|height=3'3"
+|jheight=1.0
+|weight=75
+|jweight=34.0
+|dex=It sends electricity through its legs to boost their strength. Running at top speed, it easily breaks 50 mph.
+|jdex=電気の 力で 脚力を 増強。トップスピードは 時速 90キロを 軽く 超える。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Battle Styles|Boltund|53}} from the {{TCG|Battle Styles}} expansion.
+*'''Zap Kick''' is an attack that first appeared on {{TCG ID|EX Emerald|Manectric|16}} from the {{TCG|EX Emerald}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bellektro (Mega-Aufstieg 096)]]
+[[es:Boltund (Megaascenso TCG Pocket)]]
+[[fr:Fulgudog (Méga-Ascension 096)]]
+[[it:Boltund (Mega Ascesa 96)]]
+[[ja:パルスワン (ポケポケ B1)]]
+[[zh:逐电犬（B1）]]

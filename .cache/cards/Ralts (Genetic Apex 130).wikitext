@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ralts
+|ja name=ラルトス
+|trans name=Ralts
+|species=Ralts
+|type=Psychic
+|image=RaltsGeneticApex130.png
+|illustrator=Yuka Morii
+|hp=60
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=130/226|pack=Mewtwo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Ralts''' (Japanese: '''ラルトス''' ''Ralts'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Ralts
+|species=Feeling
+|ndex=0280
+|height=1'4"
+|jheight=0.4
+|weight=14.6
+|jweight=6.6
+|dex=The horns on its head provide a strong power that enables it to sense people's emotions.
+|jdex=人の　感情を　頭の 赤い　ツノで　敏感に キャッチする　力を　持つ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Ralts|139}} from the {{TCG|Lost Thunder}} expansion.
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Trasla (Unschlagbare Gene 130)]]
+[[es:Ralts (Genes Formidables TCG Pocket)]]
+[[fr:Tarsal (Puissance Génétique 130)]]
+[[it:Ralts (Geni Supremi 130)]]
+[[ja:ラルトス (ポケポケ A1)]]
+[[zh:拉鲁拉丝（A1）]]

@@ -1,0 +1,65 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Poliwrath {{TCGP Icon|ex}}
+|ja name=ニョロボン{{TCGP Icon|ex}}
+|trans name=Nyorobon {{TCGP Icon|ex}}
+|species=Poliwrath
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PoliwrathexSecludedSprings42.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PoliwrathexSecludedSprings82.png|illustrator=PLANETA Mochizuki|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PoliwrathexSecludedSprings89.png|illustrator=Teeziro|tab caption=Special Illustration Rare}}
+|hp=180
+|weakness=Psychic
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Poliwhirl
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=042/071|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=082/071|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=089/071|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Poliwrath ex''' (Japanese: '''ニョロボンex''' ''Nyorobon ex'') is a {{ct|Fighting}} Stage 2 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}{{e|Colorless}}
+|name=Hydro Knuckle
+|jname=ハイドロナックル
+|jtrans=Hydro Knuckle
+|damage=100+
+|effect=If this Pokémon has any {{e|Water}} Energy attached, this attack does 40 more damage.
+}}
+{{Cardtext/Pocket ex
+|type=Fighting
+|ndex=0062
+|name=Poliwrath
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=PoliwrathexSecludedSprings42.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=PoliwrathexSecludedSprings82.png
+|caption2=Super rare card<br>Illus. [[PLANETA Mochizuki]]
+|image3=PoliwrathexSecludedSprings89.png
+|caption3=Special illustration rare card<br>Illus. [[Teeziro]]
+}}
+
+==Trivia==
+===Origin===
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Quappo-ex (Verborgene Quelle 042)]]
+[[es:Poliwrath ex (Manantial Oculto TCG Pocket)]]
+[[fr:Tartard-ex (Source Secrète 042)]]
+[[it:Poliwrath-ex (Sorgenti Recondite 42)]]
+[[ja:ニョロボンex (ポケポケ A4a)]]
+[[zh:蚊香泳士ex（A4a）]]

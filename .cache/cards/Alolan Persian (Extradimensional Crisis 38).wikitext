@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Persian
+|ja name=アローラペルシアン
+|trans name=Alolan Persian
+|species=Persian
+|type=Darkness
+|image=AlolanPersianExtradimensionalCrisis38.png
+|illustrator=ryoma uratsuka
+|hp=100
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Alolan Meowth
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=038/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Alolan Persian''' (Japanese: '''アローラペルシアン''' ''Alolan Persian'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}
+|name=Fake Out
+|jname=ねこだまし
+|jtrans=Slap Hands
+|damage=50
+|effect=Flip a coin. If heads, your opponent's Active Pokémon is now {{TCG|Paralyzed}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Persian
+|category=Classy Cat 
+|ndex=0053
+|height=3'7"
+|jheight=1.1
+|weight=72.8
+|jweight=33.0
+|dex=The round face of Alolan Persian is considered to be a symbol of prosperity in the Alola region, so these Pokémon are very well cared for.
+|jdex=アローラ地方では まるい 顔は 富の 象徴と 考えて ペルシアンを 大切に あつかう。
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Persian}}.
+*{{m|Fake Out}} is a [[move]] in the [[Pokémon games]] that Alolan Persian can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Snobilikat (Dimensionale Krise 038)]]
+[[es:Persian de Alola (Crisis Dimensional TCG Pocket)]]
+[[fr:Persian d'Alola (Crise Interdimensionnelle 038)]]
+[[it:Persian di Alola (Crisi Ultradimensionale 38)]]
+[[ja:アローラペルシアン (ポケポケ A3a)]]
+[[zh:阿罗拉 猫老大（A3a）]]

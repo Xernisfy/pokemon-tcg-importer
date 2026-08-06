@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bronzor
+|ja name=ドーミラー
+|trans name=Dohmirror
+|species=Bronzor
+|type=Metal
+|image=BronzorSpace-TimeSmackdown116.png
+|illustrator=Miki Tanaka
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=116/155|pack=Dialga|rarity=Diamond|rarity count=1}}
+}}
+
+'''Bronzor''' (Japanese: '''ドーミラー''' ''Dohmirror'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Colorless}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Bronzor
+|species=Bronze
+|ndex=0436
+|height=1'8"
+|jheight=0.5
+|weight=133.4
+|jweight=60.5
+|dex=Ancient people believed that the pattern on Bronzor's back contained a mysterious power.
+|jdex=ドーミラーの 背中の 模様には 神秘的な 力が 宿ると 昔の 人たちは 信じていた。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Stormfront|Bronzor|55}} from the {{TCG|Stormfront}} expansion.
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Bronzor}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bronzel (Kollision von Raum und Zeit 116)]]
+[[es:Bronzor (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Archéomire (Choc Spatio-Temporel 116)]]
+[[it:Bronzor (Scontro Spaziotemporale 116)]]
+[[ja:ドーミラー (ポケポケ A2)]]
+[[zh:铜镜怪（A2）]]

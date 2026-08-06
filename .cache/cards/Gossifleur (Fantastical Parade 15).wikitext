@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gossifleur
+|ja name=ヒメンカ
+|trans name=Himenka
+|species=Gossifleur
+|type=Grass
+|image=GossifleurFantasticalParade15.png
+|illustrator=Saya Tsuruta
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=015/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Gossifleur''' (Japanese: '''ヒメンカ''' ''Himenka'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Razor Leaf
+|jname=はっぱカッター
+|jtrans=Leaf Cutter
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Gossifleur
+|species=Flowering
+|ndex=0829
+|height=1'4"
+|jheight=0.4
+|weight=4.9
+|jweight=2.2
+|dex=It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon.
+|jdex=そよ風で くるくる 回りながら 楽しそうに 歌う 愛らしさに 魅せられ 育てる 人が 多い。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sword & Shield|Gossifleur|20}} from the {{TCG|Sword & Shield}} expansion; both cards have the Razor Leaf attack.
+*{{m|Razor Leaf}} is a [[move]] in the [[Pokémon games]] that {{p|Gossifleur}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Cottini (Traumhafte Parade 015)]]
+[[fr:Tournicoton (Parade Onirique 015)]]
+[[it:Gossifleur (Parata Fantasmagorica 15)]]
+[[ja:ヒメンカ (ポケポケ B2)]]
+[[zh:幼棉棉（B2）]]

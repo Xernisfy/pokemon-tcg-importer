@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Beheeyem
+|ja name=オーベム
+|trans name=Ohbem
+|species=Beheeyem
+|type=Psychic
+|image=BeheeyemMythicalIsland35.png
+|illustrator=sowsow
+|hp=90
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Elgyem
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=035/068|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Beheeyem''' (Japanese: '''オーベム''' ''Ohbem'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Mind Jack
+|jname=マインドジャック
+|jtrans=Mind Jack
+|damage=10+
+|effect=This attack does 20 more damage for each of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Beheeyem
+|species=Cerebral
+|ndex=0606
+|height=3'3"
+|jheight=1.0
+|weight=76.1
+|jweight=34.5
+|dex=Whenever a Beheeyem visits a farm, a Dubwool mysteriously disappears.
+|jdex=オーベムが 現れた 牧場 からは いつの間にか バイウールーが 1匹 姿を 消してしまう。
+}}
+
+==Trivia==
+===Origin===
+*'''Mind Jack''' is an attack that first appeared on {{TCG ID|Plasma Freeze|Absol|67}} from the {{TCG|Plasma Freeze}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Megalon (Mysteriöse Insel 035)]]
+[[es:Beheeyem (La Isla Singular TCG Pocket)]]
+[[fr:Neitram (L'Île Fabuleuse 035)]]
+[[it:Beheeyem (L'Isola Misteriosa 35)]]
+[[ja:オーベム (ポケポケ A1a)]]
+[[zh:大宇怪（A1a）]]

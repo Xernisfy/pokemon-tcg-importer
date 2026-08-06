@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tyrunt
+|ja name=チゴラス
+|trans name=Chigoras
+|species=Tyrunt
+|type=Fighting
+|image=TyruntFantasticalParade89.png
+|illustrator=SATOSHI NAKAI
+|hp=90
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Jaw Fossil
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=089/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Tyrunt''' (Japanese: '''チゴラス''' ''Chigoras'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Hammer In
+|jname=ぶちかます
+|jtrans=Headfirst Strike
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Tyrunt
+|species=Royal Heir
+|ndex=0696
+|height=2'7"
+|jheight=0.8
+|weight=57.3
+|jweight=26.0
+|dex=This Pokémon is selfish and likes to be pampered. It can also inflict grievous wounds on its Trainer just by playing around.
+|jdex=わがままだが 甘えん坊。 じゃれてるだけで トレーナーに 大けがを 負わせてしまう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Forbidden Light|Tyrunt|68}} from the {{TCG|Forbidden Light}} expansion; both cards have the Hammer In attack.
+*'''Hammer In''' is an attack that first appeared on {{TCG ID|Mysterious Treasures|Larvitar|87}} from the {{TCG|Mysterious Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Balgoras (Traumhafte Parade 089)]]
+[[fr:Ptyranidur (Parade Onirique 089)]]
+[[it:Tyrunt (Parata Fantasmagorica 89)]]
+[[ja:チゴラス (ポケポケ B2)]]
+[[zh:宝宝暴龙（B2）]]

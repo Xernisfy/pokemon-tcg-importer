@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Abra
+|ja name=ケーシィ
+|trans name=Casey
+|species=Abra
+|type=Psychic
+|image=AbraShiningRevelry29.png
+|illustrator=Mousho
+|hp=60
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=029/072|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Abra''' (Japanese: '''ケーシィ''' ''Casey'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Psyshot
+|jname=サイコショット
+|jtrans=Psychoshot
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Abra
+|category=Psi 
+|ndex=0063
+|height=2'11"
+|jheight=0.9
+|weight=43
+|jweight=19.5
+|dex=This Pokémon uses its psychic powers while it sleeps. The contents of Abra's dreams affect the powers that the Pokémon wields.
+|jdex=寝ながら　超能力を　操る｡ 夢の　内容が　使う　力に　影響する｡
+}}
+
+==Trivia==
+===Origin===
+*'''Psyshot''' is an attack that first appeared on {{TCG ID|Gym Challenge|Sabrina's Kadabra|58}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Abra (Glänzendes Festival 029)]]
+[[es:Abra (Festival Brillante TCG Pocket)]]
+[[fr:Abra (Réjouissances Rayonnantes 029)]]
+[[it:Abra (Tripudio Splendente 29)]]
+[[ja:ケーシィ (ポケポケ A2b)]]
+[[zh:凱西（A2b）]]

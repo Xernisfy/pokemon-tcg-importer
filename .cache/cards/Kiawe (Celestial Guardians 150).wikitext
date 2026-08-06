@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Kiawe
+|ja name=カキ
+|trans name=Kaki
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KiaweCelestialGuardians150.png|illustrator=Hideki Ishikawa|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KiaweCelestialGuardians192.png|illustrator=Hideki Ishikawa|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=150/155|pack=Lunala|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=192/155|pack=Lunala|rarity=Star|rarity count=2}}
+}}
+
+'''Kiawe''' (Japanese: '''カキ''' ''Kaki'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Choose 1 of your {{TCGP|Marowak|Alolan Marowak}} or {{TCGP|Turtonator}}. Take 2 {{e|Fire}} Energy from your Energy Zone and attach it to that Pokémon. Your turn ends.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=KiaweCelestialGuardians150.png
+|caption1=Uncommon card<br>Illus. [[Hideki Ishikawa]]
+|image2=KiaweCelestialGuardians192.png
+|caption2=Super rare card<br>Illus. [[Hideki Ishikawa]]
+}}
+
+==Trivia==
+* This card's effect is somewhat similar to {{TCG|Kiawe}} in the [[Pokémon Trading Card Game]], in that they both attach multiple {{e|Fire}} Energy to a single Pokémon, and end the turn afterward. However, the TCG card attaches up to 4 {{e|Fire}} Energy (from the Deck rather than Energy Zone) to any single Pokémon, rather than specifically Alolan Marowak or Turtonator.
+
+===Origin===
+*[[Kiawe]] is a [[Trial Captain|captain]] in the [[Generation VII]] [[Pokémon games]]. The [[Wela Volcano Park]] Totem Den is featured in the illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=カキ ''Kaki''
+|zh_yue=卡奇 ''Kākèih''
+|zh_cmn=卡奇 ''Kǎqí''
+|fr=Kiawe
+|de=Kiawe
+|it=Kawe
+|ko=키아웨 ''Kiawe''
+|pt_br=Kiawe
+|es=Kiawe
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kiawe (TCG Pocket)]]
+[[es:Kiawe (TCG Pocket)]]
+[[fr:Kiawe (Gardiens Astraux 150)]]
+[[it:Kawe (Guardiani Astrali 150)]]
+[[ja:カキ (ポケポケ)]]
+[[zh:卡奇（TCGP）]]

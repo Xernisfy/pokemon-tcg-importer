@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Corvisquire
+|ja name=アオガラス
+|trans name=Aogarasu
+|species=Corvisquire
+|type=Colorless
+|image=CorvisquireMegaRising210.png
+|illustrator=Anesaki Dynamic
+|hp=80
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Rookidee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Blaziken|rarity=Diamond|rarity count=2|number=210/226}}
+}}
+
+'''Corvisquire''' (Japanese: '''アオガラス''' ''Aogarasu'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Drill Peck
+|jname=ドリルくちばし
+|jtrans=Drill Beak
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Corvisquire
+|species=Raven
+|ndex=0822
+|height=2'7"
+|jheight=0.8
+|weight=35.3
+|jweight=16.0
+|dex=This intelligent Pokémon will quickly learn how to use any tool it can hold in its beak or its talons.
+|jdex=頭が 良く くちばしと 足で 扱える 道具なら 簡単に 使い方を 覚えてしまうぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sword & Shield|Corvisquire|151}} from the {{TCG|Sword & Shield}} expansion.
+*{{m|Drill Peck}} is a [[move]] in the [[Pokémon games]] that {{p|Corvisquire}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kranoviz (Mega-Aufstieg 210)]]
+[[es:Wooloo (Megaascenso TCG Pocket)]]
+[[fr:Bleuseille (Méga-Ascension 210)]]
+[[it:Corvisquire (Mega Ascesa 210)]]
+[[ja:アオガラス (ポケポケ B1)]]
+[[zh:蓝鸦（B1）]]

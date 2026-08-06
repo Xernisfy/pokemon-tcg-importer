@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Smeargle
+|ja name=ドーブル
+|trans name=Doble
+|species=Smeargle
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SmeargleWisdomofSeaandSky148.png|illustrator=Sumiyoshi Kizuki|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SmeargleWisdomofSeaandSky184.png|illustrator=MINAMINAMI Take|tab caption=Illustration Rare}}
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=148/161|pack=Lugia|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=184/161|pack=Lugia|rarity=Star|rarity count=1}}
+}}
+
+'''Smeargle''' (Japanese: '''ドーブル''' ''Doble'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Splatter Coating
+|jname=ぬりたくる
+|jtrans=Paint All Over
+|damage=50
+|effect=Change the type of a random Energy attached to your opponent's Active Pokémon to 1 of the following at random: {{e|Grass}}, {{e|Fire}}, {{e|Water}}, {{e|Lightning}}, {{e|Psychic}}, {{e|Fighting}}, {{e|Darkness}}, or {{e|Metal}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Smeargle
+|category=Painter 
+|ndex=0235
+|height=3'11"
+|jheight=1.2
+|weight=127.9
+|jweight=58.0
+|dex=The fluid of Smeargle's tail secretions changes in the intensity of its hue as the Pokémon's emotions change.
+|jdex=シッポの 先から でる 体液は ドーブルの 感情に よって 色合いが 変化 するのだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=SmeargleWisdomofSeaandSky148.png
+|caption1=Uncommon card<br>Illus. [[Sumiyoshi Kizuki]]
+|image2=SmeargleWisdomofSeaandSky184.png
+|caption2=Illustration rare card<br>Illus. [[MINAMINAMI Take]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Unseen Forces|Smeargle|48}} from the {{TCG|EX Unseen Forces}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Farbeagle (Weisheit von Meer und Himmel 148)]]
+[[es:Smeargle (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Queulorior (Sagesse entre Ciel et Mer 148)]]
+[[it:Smeargle (La Via del Cielo e del Mare 148)]]
+[[ja:ドーブル (ポケポケ A4)]]
+[[zh:图图犬（A4）]]

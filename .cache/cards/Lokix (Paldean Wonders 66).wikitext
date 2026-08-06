@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lokix
+|ja name=エクスレッグ
+|trans name=Exleg
+|species=Lokix
+|type=Darkness
+|image=LokixPaldeanWonders66.png
+|illustrator=Souichirou Gunjima
+|hp=100
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Nymble
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=066/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Lokix''' (Japanese: '''エクスレッグ''' ''Exleg'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Rocket Jump
+|jname=ロケットジャンプ
+|jtrans=Rocket Jump
+|damage=80
+|effect=Flip a coin. If tails, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Lokix
+|category=Grasshopper
+|ndex=0920
+|height=3'3"
+|jheight=1
+|weight=38.6
+|jweight=17.5
+|dex=It uses its normally folded third set of legs when in Showdown Mode. This places a huge burden on its body, so it can't stay in this mode for long.
+|jdex=畳まれた 第3の脚を 使う 決戦モードは 体の 負担が 大きいため 長くは 続かない。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Paradox Rift|Lokix|122}} from the {{TCG|Paradox Rift}} expansion.
+*'''Rocket Jump''' is an attack that first appeared on {{TCG ID|Fates Collide|Spoink|30}} from the {{TCG|Fates Collide}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lextremo (Wundervolles Paldea 066)]]
+[[fr:Gambex (Merveilles de Paldea 066)]]
+[[it:Lokix (Meraviglie di Paldea 66)]]
+[[ja:エクスレッグ (ポケポケ B2a)]]
+[[zh:烈腿蝗（B2a）]]

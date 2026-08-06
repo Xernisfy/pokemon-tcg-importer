@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Flaaffy
+|ja name=モココ
+|trans name=Mokoko
+|species=Flaaffy
+|type=Lightning
+|image=FlaaffyMegaRising83.png
+|illustrator=Shibuzoh.
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Mareep
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Altaria|rarity=Diamond|rarity count=2|number=083/226}}
+}}
+
+'''Flaaffy''' (Japanese: '''モココ''' ''Mokoko'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}
+|name=Electric Punch
+|jname=ビリリパンチ
+|jtrans=Shock Punch
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Flaaffy
+|species=Wool
+|ndex=0180
+|height=2'7"
+|jheight=0.8
+|weight=29.3
+|jweight=13.3
+|dex=Because of its rubbery, electricity-resistant skin, it can store lots of electricity in its fur.
+|jdex=電気を　通さない　地肌は　ゴムのように　つるつるだが　体毛は　電気を　溜めやすい。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Flaaffy|42}} from the {{TCG|Team Up}} expansion; both cards have the Electric Punch attack.
+*'''Electric Punch''' is an attack that first appeared on {{TCG ID|Neo Revelation|Flaaffy|28}} from the {{TCG|Neo Revelation}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Waaty (Mega-Aufstieg 083)]]
+[[es:Flaaffy (Megaascenso TCG Pocket)]]
+[[fr:Lainergie (Méga-Ascension 083)]]
+[[it:Flaaffy (Mega Ascesa 83)]]
+[[ja:モココ (ポケポケ B1)]]
+[[zh:茸茸羊（B1）]]

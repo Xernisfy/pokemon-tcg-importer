@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Muk
+|ja name=ベトベトン
+|trans name=Betbeton
+|species=Muk
+|type=Darkness
+|image=MukGeneticApex175.png
+|illustrator=Hajime Kusajima
+|hp=130
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Grimer
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=175/226|pack=Mewtwo|rarity=Diamond|rarity count=3}}
+}}
+
+'''Muk''' (Japanese: '''ベトベトン''' ''Betbeton'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Colorless}}
+|name=Venoshock
+|jname=ベノムショック
+|jtrans=Venom Shock
+|damage=70+
+|effect=If your opponent's Active Pokémon is {{TCG|Poisoned}}, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Muk
+|species=Sludge
+|ndex=0089
+|height=3'11"
+|jheight=1.2
+|weight=66.1
+|jweight=30.0
+|dex=It's thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.
+|jdex=汚い　ヘドロが　全身に まとわりつく｡　足跡に 触っただけで　毒に　侵される｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Platinum|Muk|57}} from the {{TCG|Platinum}} expansion.
+*{{m|Venoshock}} is a [[move]] in the [[Pokémon games]] that {{p|Muk}} can learn via [[TM]].
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sleimok (Unschlagbare Gene 175)]]
+[[es:Muk (Genes Formidables TCG Pocket)]]
+[[fr:Grotadmorv (Puissance Génétique 175)]]
+[[it:Muk (Geni Supremi 175)]]
+[[ja:ベトベトン (ポケポケ A1)]]
+[[zh:臭臭泥（A1）]]

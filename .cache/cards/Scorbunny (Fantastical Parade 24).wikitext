@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Scorbunny
+|ja name=ヒバニー
+|trans name=Hibanny
+|species=Scorbunny
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ScorbunnyFantasticalParade24.png|illustrator=kirisAki|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ScorbunnyFantasticalParade162.png|illustrator=You Iribi|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=024/155|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=162/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Scorbunny''' (Japanese: '''ヒバニー''' ''Hibanny'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Flop
+|jname=はねまわる
+|jtrans=Hop About
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Scorbunny
+|species=Rabbit
+|ndex=0813
+|height=1'
+|jheight=0.3
+|weight=9.9
+|jweight=4.5
+|dex=Fire energy gathers in the pads of its feet, raising their temperature. Once hot, Scorbunny’s footpads can deal heavy damage to opponents.
+|jdex=炎エネルギーが 集まる 足の 肉球は 高温になり 相手に 大ダメージを 与える。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=ScorbunnyFantasticalParade24.png
+|caption1=Common card<br>Illus. [[kirisAki]]
+|image2=ScorbunnyFantasticalParade162.png
+|caption2=Illustration rare card<br>Illus. [[You Iribi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Sword & Shield|Scorbunny|30}} from the {{TCG|Sword & Shield}} expansion.
+*'''Flop''' is an attack that first appeared on {{TCG ID|Team Rocket|Magikarp|47}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hopplo (Traumhafte Parade 024)]]
+[[fr:Flambino (Parade Onirique 024)]]
+[[it:Scorbunny (Parata Fantasmagorica 24)]]
+[[ja:ヒバニー (ポケポケ B2)]]
+[[zh:炎兔儿（B2）]]

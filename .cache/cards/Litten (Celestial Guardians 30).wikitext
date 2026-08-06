@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Litten
+|ja name=ニャビー
+|trans name=Nyabby
+|species=Litten
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LittenCelestialGuardians30.png|illustrator=Akira Komayama|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LittenDeluxePackex79.png|illustrator=Akira Komayama|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LittenMegaRising293.png|illustrator=whomor Inc.|tab caption=Shiny Rare}}
+|hp=60
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=030/155|pack=Solgaleo|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=078/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=079/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=293/226|pack=Mega Gyarados|rarity=Shiny|rarity count=1}}
+}}
+
+'''Litten''' (Japanese: '''ニャビー''' ''Nyabby'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Heat Tackle
+|jname=ヒートタックル
+|jtrans=Heat Tackle
+|damage=30
+|effect=This Pokémon also does 10 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Litten
+|category=Fire Cat 
+|ndex=0725
+|height=1'4"
+|jheight=0.4
+|weight=9.5
+|jweight=4.3
+|dex=If you try too hard to get close to it, it won't open up to you. Even if you do grow close, giving it too much affection is still a no-no.
+|jdex=しつこく 付きまとわれると 心を 開かなくなる。 懐いてきても 過剰な スキンシップは 禁物。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=LittenCelestialGuardians30.png
+|caption1=Standard card<br>Illus. [[Akira Komayama]]
+|image2=LittenDeluxePackex79.png
+|caption2=Parallel foil card<br>Illus. [[Akira Komayama]]
+|image3=LittenMegaRising293.png
+|caption3=Shiny rare card<br>Illus. [[whomor Inc.]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Sun & Moon|Litten|24}} from the {{TCG|Sun & Moon}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Litten}}.
+*'''Heat Tackle''' is an attack that first appeared on {{TCG ID|Gym Challenge|Blaine's Arcanine|1}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flamiau (Hüter des Firmaments 030)]]
+[[es:Litten (Guardianes Celestiales 30 TCG Pocket)]]
+[[fr:Flamiaou (Gardiens Astraux 030)]]
+[[it:Litten (Guardiani Astrali 30)]]
+[[ja:ニャビー (ポケポケ A3 030)]]
+[[zh:火斑喵（A3 030）]]

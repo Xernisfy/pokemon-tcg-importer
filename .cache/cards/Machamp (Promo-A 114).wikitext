@@ -1,0 +1,64 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Machamp
+|ja name=カイリキー
+|trans name=Kairiky
+|species=Machamp
+|type=Fighting
+|image=MachampPromo-A114.png
+|illustrator=Naoki Saito
+|hp=150
+|weakness=Psychic
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Machoke
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=114/P-A|pack=Vol. 13}}
+}}
+
+'''Machamp''' (Japanese: '''カイリキー''' ''Kairiky'') is a {{ct|Fighting}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}
+|name=Hurricane Punch
+|jname=ハリケーンパンチ
+|jtrans=Hurricane Punch
+|damage=50×
+|effect=Flip 4 coins. This attack does 50 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Machamp
+|category=Superpower 
+|ndex=0068
+|height=5'3"
+|jheight=1.6
+|weight=286.6
+|jweight=130.0
+|dex=It quickly swings its four arms to rock its opponents with ceaseless punches and chops from all angles.
+|jdex=４本の腕を　すばやく　動かし あらゆる　角度から　休むことなく パンチや　チョップを　叩きこむ｡
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 13 packs; these were made available as part of the [[Raichu ex Drop Event]], which ran from October 6 to 16, 2025.
+
+==Trivia==
+===Origin===
+* This card's illustration was first featured on {{TCG ID|Plasma Blast|Machamp|49}} from the {{TCG|Plasma Blast}} expansion.
+*'''Hurricane Punch''' is an attack that first appeared on {{TCG ID|Skyridge|Machamp|H15}} from the {{TCG|Skyridge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Machomei (PROMO-A 114)]]
+[[es:Machamp (Promo-A 114 TCG Pocket)]]
+[[fr:Mackogneur (Promo-A 114)]]
+[[it:Machamp (Promo-A 114)]]
+[[ja:カイリキー (ポケポケ P-A 114)]]
+[[zh:怪力（P-A）]]

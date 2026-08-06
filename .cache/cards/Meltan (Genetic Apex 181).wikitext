@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Meltan
+|ja name=メルタン
+|trans name=Meltan
+|species=Meltan
+|type=Metal
+|image=MeltanGeneticApex181.png
+|illustrator=Shin Nagasawa
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=181/226|pack=Charizard|rarity=Diamond|rarity count=1}}
+}}
+
+'''Meltan''' (Japanese: '''メルタン''' ''Meltan'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}
+|name=Amass
+|jname=ためる
+|jtrans=Amass
+|damage=
+|effect=Take a {{e|Metal}} Energy from your Energy Zone and attach it to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Meltan
+|species=Hex Nut
+|ndex=0808
+|height=8"
+|jheight=0.2
+|weight=17.6
+|jweight=8.0
+|dex=It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.
+|jdex=金属を　溶かして　食べてしまう｡ 液体金属を　循環させて 体内で　エネルギーを　つくる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|SM Promo|Meltan|177}}, one of the {{TCG|SM Black Star Promos}}.
+*'''Amass''' is an attack that first appeared on {{TCG ID|Guardians Rising|Drampa|97}} from the {{TCG|Guardians Rising}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Meltan (Unschlagbare Gene 181)]]
+[[es:Meltan (Genes Formidables TCG Pocket)]]
+[[fr:Meltan (Puissance Génétique 181)]]
+[[it:Meltan (Geni Supremi 181)]]
+[[ja:メルタン (ポケポケ A1)]]
+[[zh:美录坦（A1）]]

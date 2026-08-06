@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Absol
+|ja name=アブソル
+|trans name=Absol
+|species=Absol
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AbsolWisdomofSeaandSky120.png|illustrator=kodama|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AbsolPromo-A117.png|illustrator=Eri Yamaki|tab caption=Promo}}
+|hp=80
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=120/161|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=117/P-A}}
+}}
+
+'''Absol''' (Japanese: '''アブソル''' ''Absol'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Leap Over
+|jname=とびこえる
+|jtrans=Jump Over
+|damage=
+|effect=This attack does 30 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Absol
+|species=Disaster
+|ndex=0359
+|height=3'11"
+|jheight=1.2
+|weight=103.6
+|jweight=47.0
+|dex=Swift as the wind, Absol races through fields and mountains. Its curved, bow-like horn is acutely sensitive to the warning signs of natural disasters. 
+|jdex=風のように 野山を 駆けぬける。 弓なりの ツノは 自然災害の 予兆を 敏感に 感じとる。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available via special wonder picks during the Professor Oak [[Wonder Pick Event (Professor Oak)|Wonder Pick Event]], which ran from October 13 to 23, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=AbsolWisdomofSeaandSky120.png
+|caption1=Uncommon card<br>Illus. [[kodama]]
+|image2=AbsolPromo-A117.png
+|caption2=Promo card<br>Illus. [[Eri Yamaki]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Wisdom of Sea and Sky}} illustration was first featured on {{TCG ID|Champion's Path|Absol|38}} from the {{TCG|Champion's Path}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Fusion Strike|Absol|164}} from the {{TCG|Fusion Strike}} expansion.
+*'''Leap Over''' is an attack that first appeared as '''Jump Over''' on {{TCG ID|Wizards Promo|Rapidash|51}} from the {{TCG|Wizards Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Absol (Weisheit von Meer und Himmel 120)]]
+[[es:Absol (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Absol (Sagesse entre Ciel et Mer 120)]]
+[[it:Absol (La Via del Cielo e del Mare 120)]]
+[[ja:アブソル (ポケポケ A4)]]
+[[zh:阿勃梭鲁（A4）]]

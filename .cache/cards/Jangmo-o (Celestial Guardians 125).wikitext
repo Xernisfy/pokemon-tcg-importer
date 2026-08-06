@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Jangmo-o
+|ja name=ジャラコ
+|trans name=Jyarako
+|species=Jangmo-o
+|type=Dragon
+|image=Jangmo-oCelestialGuardians125.png
+|illustrator=Naoki Saito
+|hp=60
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=125/155|pack=Lunala|rarity=Diamond|rarity count=1}}
+}}
+
+'''Jangmo-o''' (Japanese: '''ジャラコ ''' ''Jyarako'') is a {{ct|Dragon}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Colorless}}
+|name=Headbutt
+|jname=ずつき
+|jtrans=Headbutt
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Jangmo-o
+|species=Scaly
+|ndex=0782
+|height=2'
+|jheight=0.6
+|weight=65.5
+|jweight=29.7
+|dex=It skulks in caves, and when prey or an enemy passes by, it leaps out and chomps them. The force of its attack sometimes chips its teeth.
+|jdex=頭の ウロコを 仲間同士で ぶつけ合い 戦い方を 学ぶ。 技と 気持ちが 鍛えられる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|SM Promo|Jangmo-o|40}} from the {{TCG|SM Black Star Promos}}.
+*{{m|Headbutt}} is a [[move]] in the [[Pokémon games]] that {{p|Jangmo-o}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Miniras (Hüter des Firmaments 125)]]
+[[es:Jangmo-o (Guardianes Celestiales TCG Pocket)]]
+[[fr:Bébécaille (Gardiens Astraux 125)]]
+[[it:Jangmo-o (Guardiani Astrali 125)]]
+[[ja:ジャラコ (ポケポケ A3)]]
+[[zh:心鳞宝（A3）]]

@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pinsir
+|ja name=カイロス
+|trans name=Kailios
+|species=Pinsir
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PinsirShiningRevelry4.png|illustrator=Satoshi Shirai|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PinsirEeveeGrove93.png|illustrator=Masakazu Fukuda|tab caption=Shiny Rare}}
+|hp=90
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=004/072|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=093/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Pinsir''' (Japanese: '''カイロス''' ''Kailios'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}{{e|Colorless}}
+|name=Guillotine Rush
+|jname=ギロチンラッシュ
+|jtrans=Guillotine Rush
+|damage=50+
+|effect=Flip a coin until you get tails. This attack does 40 more damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Pinsir
+|category=Stag Beetle
+|ndex=0127
+|height=4'11"
+|jheight=1.5
+|weight=121.3
+|jweight=55.0
+|dex=These Pokémon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender.
+|jdex=ツノで　互いを　格付けする｡ 太く　立派な　ツノを　持つ カイロスほど　異性に　人気｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=PinsirShiningRevelry4.png
+|caption1=Common card<br>Illus. [[Satoshi Shirai]]
+|image2=PinsirEeveeGrove93.png
+|caption2=Shiny rare card<br>Illus. [[Masakazu Fukuda]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare print features a {{Shiny}} {{p|Pinsir}}.
+*This card's standard illustration was first featured on {{TCG ID|BREAKthrough|Pinsir|3}} from the {{TCG|BREAKthrough}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pinsir (Glänzendes Festival 004)]]
+[[es:Pinsir (Festival Brillante TCG Pocket)]]
+[[fr:Scarabrute (Réjouissances Rayonnantes 004)]]
+[[it:Pinsir (Tripudio Splendente 4)]]
+[[ja:カイロス (ポケポケ A2b)]]
+[[zh:凱羅斯（A2b）]]

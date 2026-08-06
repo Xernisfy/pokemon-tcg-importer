@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lickitung
+|ja name=ベロリンガ
+|trans name=Beroringa
+|species=Lickitung
+|type=Colorless
+|image=LickitungSecludedSprings57.png
+|illustrator=Masakazu Fukuda
+|hp=80
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=057/071|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Lickitung''' (Japanese: '''ベロリンガ''' ''Beroringa'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Stretch Tongue
+|jname=のびるベロ
+|jtrans=Stretch Tongue
+|damage=
+|effect=This attack does 30 damage to one of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Lickitung
+|category=Licking
+|ndex=0108
+|height=3'11"
+|jheight=1.2
+|weight=144.4
+|jweight=65.5
+|dex=If this Pokémon's sticky saliva gets on you and you don't clean it off, an intense itch will set in. The itch won't go away, either.
+|jdex=ネバネバした　唾液に　触れたまま 放っておくと　ものすごい　痒みが はじまり　とまらなくなるぞ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Furious Fists|Lickitung|78}} from the {{TCG|Furious Fists}} expansion.
+*'''Stretch Tongue''' is an attack that first appeared on {{TCG ID|P Promo|Kecleon|1}}, one of the {{TCG|P Promotional cards}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schlurp (Verborgene Quelle 057)]]
+[[es:Lickitung (Manantial Oculto TCG Pocket)]]
+[[fr:Excelangue (Source Secrète 057)]]
+[[it:Lickitung (Sorgenti Recondite 57)]]
+[[ja:ベロリンガ (ポケポケ A4a)]]
+[[zh:大舌头（A4a）]]

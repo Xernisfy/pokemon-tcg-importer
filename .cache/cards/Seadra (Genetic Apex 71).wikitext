@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Seadra
+|ja name=シードラ
+|trans name=Seadra
+|species=Seadra
+|type=Water
+|image=SeadraGeneticApex71.png
+|illustrator=Sanosuke Sakuma
+|hp=70
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Horsea
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=071/226|pack=Pikachu|rarity=Diamond|rarity count=2}}
+}}
+
+'''Seadra''' (Japanese: '''シードラ''' ''Seadra'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}
+|name=Water Arrow
+|jname=ウォーターアロー
+|jtrans=Water Arrow
+|damage=
+|effect=This attack does 50 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Seadra
+|species=Dragon
+|ndex=0117
+|height=3'11"
+|jheight=1.2
+|weight=55.1
+|jweight=25.0
+|dex=It's the males that raise the offspring. While Seadra are raising young, the spines on their backs secrete thicker and stronger poison.
+|jdex=オスが　子どもを　育てる｡ 子育て中は　背中の　トゲの　毒素が 強く　濃くなるのだ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Primal Clash|Seadra|31}} from the {{TCG|Primal Clash}} expansion.
+*'''Water Arrow''' is an attack that first appeared on {{TCG ID|EX Ruby & Sapphire|Seaking|21}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Seemon (Unschlagbare Gene 071)]]
+[[es:Seadra (Genes Formidables TCG Pocket)]]
+[[fr:Hypocéan (Puissance Génétique 071)]]
+[[it:Seadra (Geni Supremi 71)]]
+[[ja:シードラ (ポケポケ A1)]]
+[[zh:海刺龙（A1）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Altaria
+|ja name=チルタリス
+|trans name=Tyltalis
+|species=Altaria
+|type=Colorless
+|image=AltariaMegaRising197.png
+|illustrator=sui
+|hp=100
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Swablu
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=197/226|pack=Mega Altaria|rarity=Diamond|rarity count=3}}
+}}
+
+'''Altaria''' (Japanese: '''チルタリス''' ''Tyltalis'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Do the Wave
+|jname=ともだちのわ
+|jtrans=Sum of Friends
+|damage=20+
+|effect=This attack does 20 more damage for each of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Altaria
+|category=Humming
+|ndex=0334
+|height=3'7"
+|jheight=1.1
+|weight=45.4
+|jweight=20.6
+|dex=On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano.
+|jdex=晴れた日 綿雲に まぎれながら 大空を 自由に 飛びまわり 美しい ソプラノで 歌う。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Evolving Skies|Altaria|106}} from the {{TCG|Evolving Skies}} expansion.
+* '''Do the Wave''' is an attack that first appeared on {{TCG ID|Jungle|Wigglytuff|16}} from the {{TCG|Jungle}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Altaria (Mega-Aufstieg 197)]]
+[[es:Altaria (Megaascenso TCG Pocket)]]
+[[fr:Altaria (Méga-Ascension 197)]]
+[[it:Altaria (Mega Ascesa 197)]]
+[[ja:チルタリス (ポケポケ B1)]]
+[[zh:七夕青鸟（B1）]]

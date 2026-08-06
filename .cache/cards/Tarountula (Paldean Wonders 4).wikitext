@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tarountula
+|ja name=タマンチュラ
+|trans name=Tamantula
+|species=Tarountula
+|type=Grass
+|image=TarountulaPaldeanWonders4.png
+|illustrator=Mina Nakai
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=004/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Tarountula''' (Japanese: '''タマンチュラ''' ''Tamantula'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Hook
+|jname=ひっかける
+|jtrans=Hook
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Tarountula
+|category=String Ball
+|ndex=0917
+|height=1'
+|jheight=0.3
+|weight=8.8
+|jweight=4.0
+|dex=The thread it secretes from its rear is as strong as wire. The secret behind the thread's strength is the topic of ongoing research. 
+|jdex=お尻から 出す 糸は ワイヤーに 匹敵する 強度。 強さの 秘密が 研究されているのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Paldea Evolved|Tarountula|17}} from the {{TCG|Paldea Evolved}} expansion.
+**Both cards have the '''Hook''' attack, which first appeared on {{TCG ID|EX Dragon|Magnemite|61}} from the {{TCG|EX Dragon}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tarundel (Wundervolles Paldea 004)]]
+[[fr:Tissenboule (Merveilles de Paldea 004)]]
+[[it:Tarountula (Meraviglie di Paldea 4)]]
+[[ja:タマンチュラ (ポケポケ B2a)]]
+[[zh:团珠蛛（B2a）]]

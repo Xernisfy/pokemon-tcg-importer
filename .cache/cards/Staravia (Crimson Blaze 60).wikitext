@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Staravia
+|ja name=ムクバード
+|trans name=Mukubird
+|species=Staravia
+|type=Colorless
+|image=StaraviaCrimsonBlaze60.png
+|illustrator=Suwama Chiaki
+|hp=80
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Starly
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=060/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Staravia''' (Japanese: '''ムクバード''' ''Mukubird'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Quick Attack
+|jname=でんこうせっか
+|jtrans=Lightning Speed
+|damage=30+
+|effect=Flip a coin. If heads, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Staravia
+|species=Starling
+|ndex=0397
+|height=2'00"
+|jheight=0.6
+|weight=34.2
+|jweight=15.5
+|dex=They maintain huge flocks, although fierce scuffles break out between various flocks.
+|jdex=大きな グループを 作って 行動する 習性。 グループ同士の 争いは 激しい。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BREAKthrough|Staravia|126}} from the {{TCG|BREAKthrough}} expansion.
+*'''{{m|Quick Attack}}''' is a [[move]] in the [[Pokémon games]] that {{p|Staravia}} can learn. 
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Staravia (Feuerrote Flammen 060)]]
+[[fr:Étourvol (Embrasement Écarlate 060)]]
+[[it:Staravia (Fiamme Cremisi 60)]]
+[[ja:ムクバード (ポケポケ B1a)]]
+[[zh:姆克鸟（B1a）]]

@@ -1,0 +1,66 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Leaf Cape
+|ja name=リーフマント
+|trans name=Leaf Cloak
+|subtype=Pokémon Tool
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket
+|image=LeafCapeCelestialGuardians147.png
+|illustrator=Toyste Beach
+|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket
+|image=LeafCapeDeluxePackex325.png
+|illustrator=Toyste Beach
+|tab caption=Parallel}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=147/155|pack=Solgaleo|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=324/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=325/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Leaf Cape''' (Japanese: '''リーフマント''' ''Leaf Cloak'') is a {{TCGP|Pokémon Tool}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Tool
+|rule=Pocket Tool
+|effect=The {{e|Grass}} Pokémon this card is attached to gets +30 HP.
+}}
+
+==Release Information==
+===Gallery===
+{{TCGGallery
+|type=Pokémon Tool
+|image1=LeafCapeCelestialGuardians147.png
+|caption1=Standard card<br>Illus. [[Toyste Beach]]
+|image2=LeafCapeDeluxePackex325.png
+|caption2=Parallel foil card<br>Illus. [[Toyste Beach]]
+}}
+
+==Trivia==
+
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Pokémon Tool color}}|bordercolor={{TCG Pokémon Tool color dark}}|textcolor=FFF
+|ja=リーフマント ''Leaf Manteau''
+|zh_yue=葉綠斗篷 ''Yihpluhk Dáupùhng''
+|zh_cmn=葉綠斗篷 ''Yèlǜ Dǒupéng''
+|fr=Cape Sylvestre
+|de=Blätterumhang
+|it=Mantello Silvestre
+|ko=리프망토 ''Leaf Manteau''
+|pt_br=Capa de Folha
+|es=Capa Hoja
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Blätterumhang (TCG Pocket)]]
+[[es:Capa Hoja (TCG Pocket)]]
+[[fr:Cape Sylvestre (Gardiens Astraux 147)]]
+[[it:Mantello Silvestre (Guardiani Astrali 147)]]
+[[ja:リーフマント]]
+[[zh:叶绿斗蓬（TCGP）]]

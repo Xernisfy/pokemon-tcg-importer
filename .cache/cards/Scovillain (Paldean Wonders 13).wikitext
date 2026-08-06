@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Scovillain
+|ja name=スコヴィラン
+|trans name=Scovillain
+|species=Scovillain
+|type=Grass
+|image=ScovillainPaldeanWonders13.png
+|illustrator=kodama
+|hp=100
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Capsakid
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=013/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Scovillain''' (Japanese: '''スコヴィラン''' ''Scovillain'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Red-Hot Headbutt
+|jname=レッドホットヘッド
+|jtrans=Red Hot Head
+|damage=60+
+|effect=If your opponent's Active Pokémon is a {{e|Grass}} or {{e|Metal}} Pokémon, this attack does 40 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Scovillain
+|category=Spicy Pepper
+|ndex=0952
+|height=2'11"
+|jheight=0.9
+|weight=33.1
+|jweight=15.0
+|dex=The green head has turned vicious due to the spicy chemicals stimulating its brain. Once it goes on a rampage, there is no stopping it.
+|jdex=グリーンヘッドは 辛み成分に 脳が 刺激されて 凶暴化。 暴れだすと 手がつけられない。 
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Obsidian Flames|Scovillain|25}} from the {{TCG|Obsidian Flames}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Halupenjo (Wundervolles Paldea 013)]]
+[[fr:Scovilain (Merveilles de Paldea 013)]]
+[[it:Scovillain (Meraviglie di Paldea 13)]]
+[[ja:スコヴィラン (ポケポケ B2a)]]
+[[zh:狠辣椒（B2a）]]

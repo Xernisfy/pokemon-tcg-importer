@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Applin
+|ja name=カジッチュ
+|trans name=Kajicchu
+|species=Applin
+|type=Grass
+|image=ApplinEeveeGrove6.png
+|illustrator=Kagemaru Himeno
+|hp=40
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=006/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Applin''' (Japanese: '''カジッチュ''' ''Kajicchu'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Applin
+|species=Apple Core
+|ndex=0840
+|height=8"
+|jheight=0.2
+|weight=1.1
+|jweight=0.5
+|dex=It grows by eating the flesh of an apple. Applin uses its own body fluid to strengthen the apple’s skin and prevent it from rotting.
+|jdex=りんごの 果肉を 食べて 育つ。 体液で 皮の 強度を 高めつつ 腐らないようにする。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Applin|21}} from the {{TCG|Rebel Clash}} expansion.
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knapfel (Evoli-Hain 006)]]
+[[es:Applin (Arboleda de Eevee TCG Pocket)]]
+[[fr:Verpom (La Clairière d'Évoli 006)]]
+[[it:Applin (Il Bosco di Eevee 6)]]
+[[ja:カジッチュ (ポケポケ A3b)]]
+[[zh:啃果虫（A3b）]]

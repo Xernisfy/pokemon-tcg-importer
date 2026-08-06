@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rapidash
+|ja name=ギャロップ
+|trans name=Gallop
+|species=Rapidash
+|type=Fire
+|image=RapidashMythicalIsland11.png
+|illustrator=AKIRA EGAWA
+|hp=100
+|weakness=Water
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Ponyta
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=011/068|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Rapidash''' (Japanese: '''ギャロップ''' ''Gallop'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}
+|name=Rising Lunge
+|jname=つきあげる
+|jtrans=Toss
+|damage=40+
+|effect=Flip a coin. If heads, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Rapidash
+|species=Fire Horse
+|ndex=0078
+|height=5'7"
+|jheight=1.7
+|weight=209.4
+|jweight=95.0
+|dex=This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.
+|jdex=燃える　たてがみを　はためかせ 時速　２４０キロの　速度で 大草原を　駆けぬけるのだ｡
+}}
+
+==Trivia==
+===Origin===
+*'''Rising Lunge''' is an attack that first appeared on {{TCG ID|Neo Revelation|Seaking|37}} from the {{TCG|Neo Revelation}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gallopa (Mysteriöse Insel 011)]]
+[[es:Rapidash (La Isla Singular TCG Pocket)]]
+[[fr:Galopa (L'Île Fabuleuse 011)]]
+[[it:Rapidash (L'Isola Misteriosa 11)]]
+[[ja:ギャロップ (ポケポケ A1a)]]
+[[zh:烈焰马（A1a）]]

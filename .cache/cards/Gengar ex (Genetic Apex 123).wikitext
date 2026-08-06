@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gengar {{TCGP Icon|ex}}
+|ja name=ゲンガー{{TCGP Icon|ex}}
+|trans name=Gangar {{TCGP Icon|ex}}
+|species=Gengar
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GengarexGeneticApex123.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GengarexGeneticApex261.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GengarexGeneticApex277.png|illustrator=NC Empire|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GengarexCelestialGuardians234.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=170
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Haunter
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=123/226|pack=Mewtwo|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=261/226|pack=Mewtwo|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=277/226|pack=Mewtwo|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=234/155|pack=Lunala|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=155/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Gengar ex''' (Japanese: '''ゲンガーex''' ''Gangar ex'') is a {{ct|Psychic}} Stage 2 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Shadowy Spellbind
+|jname=かげのじゅばく
+|jtrans=Shadowy Spellbind
+|effect=As long as this Pokémon is in the Active Spot, your opponent can't use any {{TCGP|Supporter card}}s from their hand.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}{{e|Psychic}}
+|name=Spooky Shot
+|jname=ホロウショット
+|jtrans=Hollow Shot
+|damage=100
+|effect=
+}}
+{{Cardtext/Pocket ex
+|type=Psychic
+|ndex=0094
+|name=Gengar
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=GengarexGeneticApex123.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=GengarexGeneticApex261.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image4=GengarexGeneticApex277.png
+|caption4=Special illustration rare card<br>Illus. [[NC Empire]]
+|image5=GengarexCelestialGuardians234.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Gengar}}.
+*'''Spooky Shot''' is an attack that first appeared on {{TCG ID|Legendary Treasures|Misdreavus|57}} and {{TCG ID|Legendary Treasures|Mismagius|58}}, both from the {{TCG|Legendary Treasures}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gengar-ex (Unschlagbare Gene 123)]]
+[[es:Gengar ex (Genes Formidables TCG Pocket)]]
+[[fr:Ectoplasma-ex (Puissance Génétique 123)]]
+[[it:Gengar-ex (Geni Supremi 123)]]
+[[ja:ゲンガーex (ポケポケ A1)]]
+[[zh:耿鬼ex（A1）]]

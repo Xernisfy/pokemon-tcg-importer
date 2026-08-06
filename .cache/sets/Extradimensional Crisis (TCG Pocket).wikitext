@@ -1,0 +1,419 @@
+{{TCGPocketExpansionPrevNext | prev = Celestial Guardians | next = Eevee Grove}}
+{{TCGPocketExpansionInfobox
+|setname=Extradimensional Crisis
+|jasetname=異次元クライシス
+|jasettrans=Extradimensional Crisis
+|setsymbol=yes
+|setlogo=A3a Set Logo EN.png
+|release=May 29, 2025
+|cards=103 (69 + 34 secret)
+|collections=14 (11 + 3 secret)
+|dex missions=11 (10 + 1 secret)
+|deck missions=10
+|decks=5
+|battles=18
+}}
+'''Extradimensional Crisis''' (Japanese: '''{{j|異次元クライシス}}''' ''Extradimensional Crisis'') is the fourth themed booster pack, and seventh expansion overall, in [[Pokémon Trading Card Game Pocket]].
+
+== Information ==
+'''Extradimensional Crisis''' is the fourth themed booster pack released through [[Pokémon Trading Card Game Pocket]]. The expansion focuses on [[Ultra Beast]]s.
+
+== Card list ==
+{{TCG Set List/header|tablecol=E55|bordercol=92D|cellcol=FCC}}
+|-
+| 001/069 || {{TCG ID|Extradimensional Crisis|Petilil|1}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 002/069 || {{TCG ID|Extradimensional Crisis|Lilligant|2}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 003/069 || {{TCG ID|Extradimensional Crisis|Rowlet|3}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 004/069 || {{TCG ID|Extradimensional Crisis|Dartrix|4}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 005/069 || {{TCG ID|Extradimensional Crisis|Decidueye|5}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 006/069 || {{TCG ID|Extradimensional Crisis|Buzzwole ex|6|Buzzwole}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 007/069 || {{TCG ID|Extradimensional Crisis|Pheromosa|7}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 008/069 || {{TCG ID|Extradimensional Crisis|Kartana|8}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 009/069 || {{TCG ID|Extradimensional Crisis|Blacephalon|9}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 010/069 || {{TCG ID|Extradimensional Crisis|Mantine|10}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 011/069 || {{TCG ID|Extradimensional Crisis|Carvanha|11}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 012/069 || {{TCG ID|Extradimensional Crisis|Sharpedo|12}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 013/069 || {{TCG ID|Extradimensional Crisis|Shinx|13}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 014/069 || {{TCG ID|Extradimensional Crisis|Luxio|14}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 015/069 || {{TCG ID|Extradimensional Crisis|Luxray|15}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 016/069 || {{TCG ID|Extradimensional Crisis|Blitzle|16}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 017/069 || {{TCG ID|Extradimensional Crisis|Zebstrika|17}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 018/069 || {{TCG ID|Extradimensional Crisis|Emolga|18}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 019/069 || {{TCG ID|Extradimensional Crisis|Tapu Koko ex|19|Tapu Koko}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 020/069 || {{TCG ID|Extradimensional Crisis|Xurkitree|20}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 021/069 || {{TCG ID|Extradimensional Crisis|Zeraora|21}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 022/069 || {{TCG ID|Extradimensional Crisis|Clefairy|22}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 023/069 || {{TCG ID|Extradimensional Crisis|Clefable|23}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 024/069 || {{TCG ID|Extradimensional Crisis|Phantump|24}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 025/069 || {{TCG ID|Extradimensional Crisis|Trevenant|25}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 026/069 || {{TCG ID|Extradimensional Crisis|Morelull|26}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 027/069 || {{TCG ID|Extradimensional Crisis|Shiinotic|27}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 028/069 || {{TCG ID|Extradimensional Crisis|Meditite|28}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 029/069 || {{TCG ID|Extradimensional Crisis|Medicham|29}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 030/069 || {{TCG ID|Extradimensional Crisis|Baltoy|30}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 031/069 || {{TCG ID|Extradimensional Crisis|Claydol|31}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 032/069 || {{TCG ID|Extradimensional Crisis|Rockruff|32}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 033/069 || {{TCG ID|Extradimensional Crisis|Lycanroc ex|33|Lycanroc}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 034/069 || {{TCG ID|Extradimensional Crisis|Passimian|34}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 035/069 || {{TCG ID|Extradimensional Crisis|Sandygast|35}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 036/069 || {{TCG ID|Extradimensional Crisis|Palossand|36}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 037/069 || {{TCG ID|Extradimensional Crisis|Alolan Meowth|37}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 038/069 || {{TCG ID|Extradimensional Crisis|Alolan Persian|38}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 039/069 || {{TCG ID|Extradimensional Crisis|Sandile|39}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 040/069 || {{TCG ID|Extradimensional Crisis|Krokorok|40}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 041/069 || {{TCG ID|Extradimensional Crisis|Krookodile|41}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 042/069 || {{TCG ID|Extradimensional Crisis|Nihilego|42}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 043/069 || {{TCG ID|Extradimensional Crisis|Guzzlord ex|43|Guzzlord}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 044/069 || {{TCG ID|Extradimensional Crisis|Poipole|44}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 045/069 || {{TCG ID|Extradimensional Crisis|Naganadel|45}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 046/069 || {{TCG ID|Extradimensional Crisis|Alolan Diglett|46}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 047/069 || {{TCG ID|Extradimensional Crisis|Alolan Dugtrio ex|47|Alolan Dugtrio}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|4}}
+|-
+| 048/069 || {{TCG ID|Extradimensional Crisis|Aron|48}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 049/069 || {{TCG ID|Extradimensional Crisis|Lairon|49}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 050/069 || {{TCG ID|Extradimensional Crisis|Aggron|50}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 051/069 || {{TCG ID|Extradimensional Crisis|Ferroseed|51}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 052/069 || {{TCG ID|Extradimensional Crisis|Ferrothorn|52}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 053/069 || {{TCG ID|Extradimensional Crisis|Stakataka|53}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 054/069 || {{TCG ID|Extradimensional Crisis|Lillipup|54}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 055/069 || {{TCG ID|Extradimensional Crisis|Herdier|55}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 056/069 || {{TCG ID|Extradimensional Crisis|Stoutland|56}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 057/069 || {{TCG ID|Extradimensional Crisis|Stufful|57}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 058/069 || {{TCG ID|Extradimensional Crisis|Bewear|58}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 059/069 || {{TCG ID|Extradimensional Crisis|Oranguru|59}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}}
+|-
+| 060/069 || {{TCG ID|Extradimensional Crisis|Type: Null|60}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 061/069 || {{TCG ID|Extradimensional Crisis|Silvally|61}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 062/069 || {{TCG ID|Extradimensional Crisis|Celesteela|62}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}}
+|-
+| 063/069 || {{TCG ID|Extradimensional Crisis|Beast Wall|63}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 064/069 || {{TCG ID|Extradimensional Crisis|Repel|64}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 065/069 || {{TCG ID|Extradimensional Crisis|Electrical Cord|65}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 066/069 || {{TCG ID|Extradimensional Crisis|Beastite|66}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 067/069 || {{TCG ID|Extradimensional Crisis|Gladion|67}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 068/069 || {{TCG ID|Extradimensional Crisis|Looker|68}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 069/069 || {{TCG ID|Extradimensional Crisis|Lusamine|69}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}}
+|-
+| 070/069 || {{TCG ID|Extradimensional Crisis|Rowlet|70}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}}
+|-
+| 071/069 || {{TCG ID|Extradimensional Crisis|Pheromosa|71}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}}
+|-
+| 072/069 || {{TCG ID|Extradimensional Crisis|Blacephalon|72}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|1}}
+|-
+| 073/069 || {{TCG ID|Extradimensional Crisis|Alolan Meowth|73}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|1}}
+|-
+| 074/069 || {{TCG ID|Extradimensional Crisis|Silvally|74}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}}
+|-
+| 075/069 || {{TCG ID|Extradimensional Crisis|Celesteela|75}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}}
+|-
+| 076/069 || {{TCG ID|Extradimensional Crisis|Buzzwole ex|76|Buzzwole}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}}
+|-
+| 077/069 || {{TCG ID|Extradimensional Crisis|Tapu Koko ex|77|Tapu Koko}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}}
+|-
+| 078/069 || {{TCG ID|Extradimensional Crisis|Lycanroc ex|78|Lycanroc}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}}
+|-
+| 079/069 || {{TCG ID|Extradimensional Crisis|Guzzlord ex|79|Guzzlord}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|2}}
+|-
+| 080/069 || {{TCG ID|Extradimensional Crisis|Alolan Dugtrio ex|80|Alolan Dugtrio}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}}
+|-
+| 081/069 || {{TCG ID|Extradimensional Crisis|Gladion|81}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 082/069 || {{TCG ID|Extradimensional Crisis|Looker|82}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 083/069 || {{TCG ID|Extradimensional Crisis|Lusamine|83}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}}
+|-
+| 084/069 || {{TCG ID|Extradimensional Crisis|Tapu Koko ex|84|Tapu Koko}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}}
+|-
+| 085/069 || {{TCG ID|Extradimensional Crisis|Lycanroc ex|85|Lycanroc}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}}
+|-
+| 086/069 || {{TCG ID|Extradimensional Crisis|Guzzlord ex|86|Guzzlord}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|2}}
+|-
+| 087/069 || {{TCG ID|Extradimensional Crisis|Alolan Dugtrio ex|87|Alolan Dugtrio}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}}
+|-
+| 088/069 || {{TCG ID|Extradimensional Crisis|Buzzwole ex|88|Buzzwole}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|3}}
+|-
+| 089/069 || {{TCG ID|Extradimensional Crisis|Growlithe|89}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 090/069 || {{TCG ID|Extradimensional Crisis|Arcanine|90}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 091/069 || {{TCG ID|Extradimensional Crisis|Froakie|91}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 092/069 || {{TCG ID|Extradimensional Crisis|Frogadier|92}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 093/069 || {{TCG ID|Extradimensional Crisis|Greninja|93}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 094/069 || {{TCG ID|Extradimensional Crisis|Jynx|94}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 095/069 || {{TCG ID|Extradimensional Crisis|Pidgey|95}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 096/069 || {{TCG ID|Extradimensional Crisis|Pidgeotto|96}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 097/069 || {{TCG ID|Extradimensional Crisis|Pidgeot|97}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 098/069 || {{TCG ID|Extradimensional Crisis|Aerodactyl|98}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|1}}
+|-
+| 099/069 || {{TCG ID|Extradimensional Crisis|Celebi ex|99|Celebi}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 100/069 || {{TCG ID|Extradimensional Crisis|Arcanine ex|100|Arcanine}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 101/069 || {{TCG ID|Extradimensional Crisis|Aerodactyl ex|101|Aerodactyl}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 102/069 || {{TCG ID|Extradimensional Crisis|Pidgeot ex|102|Pidgeot}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|2}}
+|-
+| 103/069 || {{TCG ID|Extradimensional Crisis|Nihilego|103}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Crown|1}}
+|}
+
+== Missions ==
+=== Dex Missions ===
+Extradimensional Crisis has 10 regular {{DL|Mission (TCG Pocket)|Dex Missions}} and one hidden Dex Mission:
+
+{{TCGPocketMission/Header|reward=yes|bordercol=92D|tablecol=FCC}}
+{{TCGPocketMission/Entry|mission=Register 10 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 15 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 20 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 25 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 30 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 35 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 40 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 50 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 60 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 65 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=5}}}}
+|-
+! colspan="2" | Secret Mission
+{{TCGPocketMission/Entry|mission=Register all {{Rar/TCGP|Diamond|1}} – {{Rar/TCGP|Diamond|4}} cards in the card dex|reward={{TCGPocketItem|Extradimensional Crisis Buzzwole|Extradimensional Crisis: Buzzwole (profile icon)|type=Profile Icon}}|lastitem=yes}}
+|}
+
+=== Deck Missions ===
+Extradimensional Crisis has five [[deck]]s and 10 {{DL|Mission (TCG Pocket)|Deck Missions}}. Each deck has two missions:
+
+{{TCGPocketMission/Header|reward=yes|bordercol=92D|tablecol=FCC}}
+{{TCGPocketMission/Entry|mission=Collect the highlight card for [deck name]|reward={{TCGPocketItem|Rental Deck|[deck name] rental deck}}}}
+{{TCGPocketMission/Entry|mission=Collect cards for [deck name]|reward={{TCGPocketItem|Theme Deck List|[deck name] theme deck list}}|lastitem=yes}}
+|}
+
+The five available decks related to Extradimensional Crisis are: 
+
+{{TCGPocketExpansionDeck/Header|bordercol=92D|tablecol=FCC}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Buzzwole ex Deck|Extradimensional Crisis}}|{{e|Grass}}|{{TCG ID|Extradimensional Crisis|Buzzwole ex|6}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Tapu Koko ex Deck|Extradimensional Crisis}}|{{e|Lightning}}|{{TCG ID|Extradimensional Crisis|Tapu Koko ex|19}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Lycanroc ex Deck|Extradimensional Crisis}}|{{e|Fighting}}|{{TCG ID|Extradimensional Crisis|Lycanroc ex|33}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Guzzlord ex Deck|Extradimensional Crisis}}|{{e|Darkness}}|{{TCG ID|Extradimensional Crisis|Guzzlord ex|43}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Alolan Dugtrio ex Deck|Extradimensional Crisis}}|{{e|Metal}}|{{TCG ID|Extradimensional Crisis|Alolan Dugtrio ex|47}}|lastitem=yes}}
+|}
+
+=== Themed Collections ===
+Extradimensional Crisis has 11 regular {{DL|Mission (TCG Pocket)|Themed Collections}} and three hidden Themed Collections:
+
+{{TCGPocketCollection/Header|bordercol=92D|tablecol=FCC}}
+{{TCGPocketCollection/Entry|collection=Ultra Beast Collection
+|cards={{TCG ID|Extradimensional Crisis|Buzzwole ex|6}} (#006 or #076 or #088)<br>{{TCG ID|Extradimensional Crisis|Pheromosa|7}} (#007 or #071)<br>{{TCG ID|Extradimensional Crisis|Kartana|8}} (#008)<br>{{TCG ID|Extradimensional Crisis|Blacephalon|9}} (#009 or #072)<br>{{TCG ID|Extradimensional Crisis|Xurkitree|20}} (#020)<br>{{TCG ID|Extradimensional Crisis|Nihilego|42}} (#042 or #103)<br>{{TCG ID|Extradimensional Crisis|Guzzlord ex|43}} (#043 or #079 or #086)<br>{{TCG ID|Extradimensional Crisis|Poipole|44}} (#044)<br>{{TCG ID|Extradimensional Crisis|Naganadel|45}} (#045)<br>{{TCG ID|Extradimensional Crisis|Stakataka|53}} (#053)<br>{{TCG ID|Extradimensional Crisis|Celesteela|62}} (#062 or #075)
+|reward={{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=25}}
+}}
+{{TCGPocketCollection/Entry|collection=Quick as Lightning
+|cards={{TCG ID|Extradimensional Crisis|Zebstrika|17}} (#017)<br>{{TCG ID|Extradimensional Crisis|Tapu Koko ex|19}} (#019 or #077 or #084)<br>{{TCG ID|Extradimensional Crisis|Zeraora|21}} (#021)
+|reward={{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=11}}
+}}
+{{TCGPocketCollection/Entry|collection=Lusamine, President of the Aether Foundation
+|cards={{TCG ID|Extradimensional Crisis|Clefable|23}} (#023)<br>{{TCG ID|Extradimensional Crisis|Bewear|58}} (#058)<br>{{TCG ID|Extradimensional Crisis|Lusamine|69}} (#069 or #083)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=1}}
+}}
+{{TCGPocketCollection/Entry|collection=Type: Null's Bonds
+|cards={{TCG ID|Extradimensional Crisis|Type: Null|60}} (#060)<br>{{TCG ID|Extradimensional Crisis|Silvally|61}} (#061 or #074)<br>{{TCG ID|Extradimensional Crisis|Gladion|67}} (#067 or #081)
+|reward={{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=3}}
+}}
+{{TCGPocketCollection/Entry|collection=Meditation Masters
+|cards={{TCG ID|Extradimensional Crisis|Meditite|28}} (#028)<br>{{TCG ID|Extradimensional Crisis|Medicham|29}} (#029)<br>{{TCG ID|Extradimensional Crisis|Oranguru|59}} (#059)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=1}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon that Get Nutrition from Minerals
+|cards={{TCG ID|Extradimensional Crisis|Aron|48}} (#048)<br>{{TCG ID|Extradimensional Crisis|Lairon|49}} (#049)<br>{{TCG ID|Extradimensional Crisis|Aggron|50}} (#050)<br>{{TCG ID|Extradimensional Crisis|Ferroseed|51}} (#051)<br>{{TCG ID|Extradimensional Crisis|Ferrothorn|52}} (#052)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=A Dangerous Forest with No Way Out
+|cards={{TCG ID|Extradimensional Crisis|Phantump|24}} (#024)<br>{{TCG ID|Extradimensional Crisis|Trevenant|25}} (#025)<br>{{TCG ID|Extradimensional Crisis|Morelull|26}} (#026)<br>{{TCG ID|Extradimensional Crisis|Shiinotic|27}} (#027)
+|reward={{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=3}}
+}}
+{{TCGPocketCollection/Entry|collection=Pokémon with Black around their Eyes
+|cards={{TCG ID|Extradimensional Crisis|Sandygast|35}} (#035)<br>{{TCG ID|Extradimensional Crisis|Palossand|36}} (#036)<br>{{TCG ID|Extradimensional Crisis|Sandile|39}} (#039)<br>{{TCG ID|Extradimensional Crisis|Krokorok|40}} (#040)<br>{{TCG ID|Extradimensional Crisis|Krookodile|41}} (#041)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Well-Coordinated Team Play
+|cards={{TCG ID|Extradimensional Crisis|Passimian|34}} (#034) ×5
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=1}}
+}}
+{{TCGPocketCollection/Entry|collection=Fur that's Pleasant to Touch
+|cards={{TCG ID|Extradimensional Crisis|Alolan Persian|38}} (#038)<br>{{TCG ID|Extradimensional Crisis|Stufful|57}} (#057)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A3a|Emblem Ticket (Extradimensional Crisis)|num=1}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 5 Nihilego cards
+|cards={{TCG ID|Extradimensional Crisis|Nihilego|42}} (#042) ×5
+|reward={{TCGPocketItem|Nihilego|Nihilego (profile icon)|type=Profile Icon}}
+}}
+|-
+! colspan="3" | Secret Missions
+{{TCGPocketCollection/Entry|collection=Extradimensional Crisis Museum 1
+|cards={{TCG ID|Extradimensional Crisis|Rowlet|70}} (#070)<br>{{TCG ID|Extradimensional Crisis|Pheromosa|71}} (#071)<br>{{TCG ID|Extradimensional Crisis|Blacephalon|72}} (#072)<br>{{TCG ID|Extradimensional Crisis|Alolan Meowth|73}} (#073)<br>{{TCG ID|Extradimensional Crisis|Silvally|74}} (#074)<br>{{TCG ID|Extradimensional Crisis|Celesteela|75}} (#075)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Extradimensional Crisis Museum 2
+|cards={{TCG ID|Extradimensional Crisis|Tapu Koko ex|84}} (#084)<br>{{TCG ID|Extradimensional Crisis|Lycanroc ex|85}} (#085)<br>{{TCG ID|Extradimensional Crisis|Guzzlord ex|86}} (#086)<br>{{TCG ID|Extradimensional Crisis|Alolan Dugtrio ex|87}} (#087)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=A Trio with Impressive Whiskers
+|cards={{TCG ID|Extradimensional Crisis|Alolan Dugtrio ex|87}} (#087) ×3
+|reward={{TCGPocketItem|Alolan Dugtrio|Alolan Dugtrio (emblem)|type=Emblem}}
+|lastitem=yes
+}}
+|}
+
+== Offering rates ==
+The following table outlines the offering rates for the Extradimensional Crisis booster pack.
+
+Regular packs have a 99.95% chance of appearing. Rare packs have a 0.05% chance of appearing.
+
+{{TCGPocketRates/Header|tablecol=E55|bordercol=92D|cellcol=FCC}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 3.125% || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 3.708% || 2.333% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.619% || 2.476% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.333% || 1.332% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.428% || 1.714% || 2.941%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.041% || 0.166% || 2.941%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.888% || 2.941%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|1}} || — || 0.071% || 0.285% || 2.941%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|2}} || — || 0.083% || 0.333% || 2.941%
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.040% || 0.160% || style="border-bottom-right-radius:5px" | 2.941%
+|}
+
+== Solo battles ==
+{{main|List of Extradimensional Crisis solo battles in Pokémon TCG Pocket}}
+
+== Gallery ==
+The pack artwork for the Extradimensional Crisis expansion was illustrated by [[PLANETA]].<ref>[https://pla-neta.co.jp/works/illust/3658/ Pokémon Trading Card Game Pocket拡張パック「異次元クライシス」 - PLANETA｜プラネッタ]</ref><ref>[https://x.com/PLANETACoLtd/status/1929372409620238734 X post on @PLANETACoLtd], June 2, 2025</ref>
+
+=== Key artwork ===
+{{TCGMerchGallery
+|background=FCC
+|border=92D
+|image1=A3a Key Art.png
+|size1=400px
+|caption1=Key artwork
+}}
+
+=== Pack artwork ===
+{{TCGMerchGallery
+|background=FCC
+|border=92D
+|image1=A3a Booster EN.png
+|caption1=Booster pack
+}}
+
+=== Pack logo ===
+{{TCGMerchGallery
+|background=FCC
+|border=92D
+|image1=A3a Pack Logo EN.png
+|caption1=English logo
+|image5=A3a Logo JA.png|caption5=Japanese logo}}
+
+== In other languages ==
+{{Langtable|color=FCC|bordercolor=92D
+|ja=異次元クライシス ''Ijigen Crisis''
+|zh_yue=異次元危機 ''Yihchiyùhn Ngàihgēi''
+|zh_cmn=異次元危機 ''Yìcìyuán Wéijī''
+|fr=Crise Interdimensionnelle
+|de=Dimensionale Krise
+|it=Crisi Ultradimensionale
+|ko=이차원 크라이시스 ''Ichawon Crisis''
+|pt_br=Crise Extradimensional
+|es=Crisis Dimensional
+}}
+
+==References==
+{{reflist}}
+
+== Related articles ==
+{{TCGPocketNavigation}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dimensionale Krise (TCG Pocket)]]
+[[es:Crisis Dimensional (TCG Pocket)]]
+[[fr:Crise Interdimensionnelle]]
+[[it:Crisi Ultradimensionale (GCC Pocket)]]
+[[ja:異次元クライシス]]
+[[zh:異次元危機（TCGP）]]

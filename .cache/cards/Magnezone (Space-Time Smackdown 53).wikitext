@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Magnezone
+|ja name=ジバコイル
+|trans name=Jibacoil
+|species=Magnezone
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MagnezoneSpace-TimeSmackdown53.png|illustrator=Yoshinobu Saito|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MagnezoneDeluxePackex138.png|illustrator=Yoshinobu Saito|tab caption=Parallel}}
+|hp=140
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Magneton
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=053/155|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=137/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=138/353|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Magnezone''' (Japanese: '''ジバコイル''' ''Jibacoil'') is a {{ct|Lightning}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}{{e|Colorless}}
+|name=Thunder Blast
+|jname=サンダーブラスト
+|jtrans=Thunder Blast
+|damage=110
+|effect=Discard a {{e|Lightning}} Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Magnezone
+|species=Magnet Area
+|ndex=0462
+|height=3'11"
+|jheight=1.2
+|weight=396.8
+|jweight=180.0
+|dex=As it zooms through the sky, this Pokémon seems to be receiving signals of unknown origin while transmitting signals of unknown purpose.
+|jdex=怪電波を 発信しながら 空を 飛びまわり 未知の 電波を 受信 しているという。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=MagnezoneSpace-TimeSmackdown53.png
+|caption1=Standard card<br>Illus. [[Yoshinobu Saito]]
+|image2=MagnezoneDeluxePackex138.png
+|caption2=Parallel foil card<br>Illus. [[Yoshinobu Saito]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Ultra Prism|Magnezone|83}} from the {{TCG|Ultra Prism}} expansion.
+*'''Thunder Blast''' is an attack that first appeared on {{TCG ID|EX Delta Species|Jolteon ex|109}} from the {{TCG|EX Delta Species}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Magnezone (Kollision von Raum und Zeit 053)]]
+[[es:Magnezone (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Magnézone (Choc Spatio-Temporel 053)]]
+[[it:Magnezone (Scontro Spaziotemporale 53)]]
+[[ja:ジバコイル (ポケポケ A2)]]
+[[zh:自爆磁怪（A2）]]

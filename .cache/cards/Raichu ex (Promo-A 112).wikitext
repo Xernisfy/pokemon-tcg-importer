@@ -1,0 +1,53 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Raichu {{TCGP Icon|ex}}
+|ja name=ライチュウ{{TCGP Icon|ex}}
+|trans name=Raichu {{TCGP Icon|ex}}
+|species=Raichu
+|type=Lightning
+|image=RaichuexPromo-A112.png
+|illustrator=PLANETA Mochizuki
+|hp=140
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Pikachu
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=112/P-A|pack=Vol. 13}}
+}}
+
+'''Raichu ex''' (Japanese: '''ライチュウex''' ''Raichu ex'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}{{e|Lightning}}
+|name=Volt Tackle
+|jname=ボルテッカー
+|jtrans=Volteccer
+|damage=130
+|effect=This Pokémon also does 30 damage to itself.
+}}
+{{Cardtext/Pocket ex
+|type=Lightning
+|ndex=0026
+|name=Raichu
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 13 packs; these were made available as part of the [[Raichu ex Drop Event]], which ran from October 6 to 16, 2025.
+
+==Trivia==
+===Origin===
+*{{m|Volt Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Raichu}} can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Raichu-ex (PROMO-A 112)]]
+[[es:Raichu ex (Promo-A 112 TCG Pocket)]]
+[[fr:Raichu-ex (Promo-A 112)]]
+[[it:Raichu-ex (Promo-A 112)]]
+[[ja:ライチュウex (ポケポケ P-A)]]
+[[zh:雷丘ex（P-A）]]

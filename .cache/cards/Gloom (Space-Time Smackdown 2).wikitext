@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gloom
+|ja name=クサイハナ
+|trans name=Kusaihana
+|species=Gloom
+|type=Grass
+|image=GloomSpace-TimeSmackdown2.png
+|illustrator=Shibuzoh.
+|hp=80
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Oddish
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=002/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Gloom''' (Japanese: '''クサイハナ''' ''Kusaihana'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Razor Leaf
+|jname=はっぱカッター
+|jtrans=Leaf Cutter
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Gloom
+|species=Weed
+|ndex=0044
+|height=2'7"
+|jheight=0.8
+|weight=19
+|jweight=8.6
+|dex=Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.
+|jdex=めしべが　放つ　とてつもなく 臭い　においは　２キロ先まで とどき　気を　失わせる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Burning Shadows|Gloom|5}} from the {{TCG|Burning Shadows}} expansion.
+**Both cards have the {{m|Razor Leaf}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Gloom}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Duflor (Kollision von Raum und Zeit 002)]]
+[[es:Gloom (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Ortide (Choc Spatio-Temporel 002)]]
+[[it:Gloom (Scontro Spaziotemporale 2)]]
+[[ja:クサイハナ (ポケポケ A2)]]
+[[zh:臭臭花（A2）]]

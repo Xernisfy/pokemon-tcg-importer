@@ -1,0 +1,47 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Pokémon Flute
+|ja name=ポケモンの笛
+|trans name=Pokémon Flute
+|subtype=Item
+|image=PokémonFluteMythicalIsland64.png
+|illustrator=Toyste Beach
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=064/068|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Pokémon Flute''' (Japanese: '''ポケモンの笛''' ''Pokémon Flute'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Put a Basic Pokémon from your opponent's discard pile onto their Bench.
+}}
+
+==Trivia==
+This card's effect is identical to that of the {{TCG|Pokémon Flute}} card in the [[Pokémon Trading Card Game]].
+===Origin===
+* This card is based on the [[Poké Flute]], an important item in the Pokémon games. This card uses the English name "Pokémon Flute" as a full translation of the Japanese card name, instead of the item's English name "Poké Flute". This card's illustration depicts the Poké Flute as it appears in {{LGPE}}.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=ポケモンの笛 ''Pokémon no Fue''
+|zh_yue=寶可夢之笛 ''Pokémon jī Dehk''
+|zh_cmn=寶可夢之笛<!-- / 宝可梦之笛--> ''Pokémon zhī Dí''
+|fr=Flûte Pokémon
+|de=Pokémon-Flöte
+|it=Pokéflauto
+|ko=포켓몬피리 ''Pokémon Piri''
+|pt_br=Flauta Pokémon
+|es=Pokéflauta
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pokémon-Flöte (TCG Pocket)]]
+[[es:Pokéflauta (TCG Pocket)]]
+[[fr:Flûte Pokémon (L'Île Fabuleuse 064)]]
+[[it:Pokéflauto (L'Isola Misteriosa 64)]]
+[[ja:ポケモンの笛 (ポケポケ)]]
+[[zh:宝可梦之笛（TCGP）]]

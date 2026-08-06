@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Meltan
+|ja name=メルタン
+|trans name=Meltan
+|species=Meltan
+|type=Metal
+|image=MeltanMegaRising173.png
+|illustrator=Sumiyoshi Kizuki
+|hp=70
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=173/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+}}
+
+'''Meltan''' (Japanese: '''メルタン''' ''Meltan'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}
+|name=Beam
+|jname=ビーム
+|jtrans=Beam
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Meltan
+|category=Hex Nut
+|ndex=0808
+|height=8"
+|jheight=0.2
+|weight=17.6
+|jweight=8.0
+|dex=It dissolves and eats metal. Circulating liquid metal within its body is how it generates energy.
+|jdex=金属を 溶かして 食べてしまう。 液体金属を 循環させて 体内で エネルギーを つくる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Pokémon GO|Meltan|45}} from the {{TCG|Pokémon GO}} expansion.
+*'''Beam''' is an attack that first appeared on {{TCG ID|Burning Shadows|Porygon|103}} and {{TCG ID|Burning Shadows|Porygon2|104}} from the {{TCG|Burning Shadows}} expansion. 
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Meltan (Mega-Aufstieg 173)]]
+[[es:Meltan (Megaascenso TCG Pocket)]]
+[[fr:Meltan (Méga-Ascension 173)]]
+[[it:Meltan (Mega Ascesa 173)]]
+[[ja:メルタン (ポケポケ B1)]]
+[[zh:美录坦（B1）]]

@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Piers
+|ja name=ネズ
+|trans name=Nezu
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PiersFantasticalParade152.png|illustrator=hncl|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PiersFantasticalParade193.png|illustrator=hncl|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=152/155}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Star|rarity count=2|number=193/155}}
+}}
+
+'''Piers''' (Japanese: '''ネズ''' ''Nezu'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=You can use this card only if you have {{TCGP|Obstagoon|Galarian Obstagoon}} in play.
+Discard 2 random Energy from your opponent's Active Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=PiersFantasticalParade152.png
+|caption1=Uncommon card<br>Illus. [[hncl]]
+|image2=PiersFantasticalParade193.png
+|caption2=Super rare card<br>Illus. [[hncl]]
+}}
+
+==Trivia==
+* {{TCG|Piers}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+===Origin===
+*[[Piers]] is a [[Gym Leader]] in [[Galar]] and the captain of [[Team Yell]].
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=ネズ ''Nezu''
+|zh_yue=聶梓 ''Nihpjí''
+|zh_cmn=聶梓 ''Nièzǐ''
+|fr=Peterson
+|de=Nezz
+|it=Ginepro
+|ko=두송 ''Dusong''
+|pt_br=Pietro
+|es=Nerio
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Nezz (TCG Pocket)]]
+[[fr:Peterson (Parade Onirique 152)]]
+[[it:Ginepro (Parata Fantasmagorica 152)]]
+[[ja:ネズ (ポケポケ)]]
+[[zh:聂梓（TCGP）]]

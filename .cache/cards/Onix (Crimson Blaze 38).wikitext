@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Onix
+|ja name=イワーク
+|trans name=Iwark
+|species=Onix
+|type=Fighting
+|image=OnixCrimsonBlaze38.png
+|illustrator=Naoyo Kimura
+|hp=100
+|weakness=Grass
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=038/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Onix''' (Japanese: '''イワーク''' ''Iwark'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Dig
+|jname=あなをほる
+|jtrans=Dig Hole
+|damage=30
+|effect=Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Onix
+|species=Rock Snake
+|ndex=0095
+|height=28'10"
+|jheight=8.8
+|weight=463
+|jweight=210.0
+|dex=It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.
+|jdex=大きく 丈夫な 体を くねらせ よじらせ 時速80キロで 地面を 勢いよく 掘り進む。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Battle Styles|Onix|68}} from the {{TCG|Battle Styles}} expansion.
+*{{m|Dig}} is a [[move]] in the [[Pokémon games]] that {{p|Onix}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Onix (Feuerrote Flammen 038)]]
+[[es:Onix (Fuego Carmesí TCG Pocket)]]
+[[fr:Onix (Embrasement Écarlate 038)]]
+[[it:Onix (Fiamme Cremisi 38)]]
+[[ja:イワーク (ポケポケ B1a)]]
+[[zh:大岩蛇（B1a）]]

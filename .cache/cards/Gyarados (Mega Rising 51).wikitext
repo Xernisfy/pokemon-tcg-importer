@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gyarados
+|ja name=ギャラドス
+|trans name=Gyarados
+|species=Gyarados
+|type=Water
+|image=GyaradosMegaRising51.png
+|illustrator=kawayoo
+|hp=140
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Magikarp
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Diamond|rarity count=3|number=051/226}}
+}}
+
+'''Gyarados''' (Japanese: '''ギャラドス''' ''Gyarados'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Hammering Tail
+|jname=テールハンマー
+|jtrans=Tail Hammer
+|damage=100
+|effect=Discard the top card of your opponent's deck.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Gyarados
+|species=Atrocious
+|ndex=0130
+|height=21'4"
+|jheight=6.5
+|weight=518.1
+|jweight=235.0
+|dex=It appears whenever there is world conflict, burning down any place it travels through.
+|jdex=世の中で 争いが 多くなると どこからともなく 現れて あたりを 焼野原に していく。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Dragon Majesty|Gyarados|20}} from the {{TCG|Dragon Majesty}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Garados (Mega-Aufstieg 051)]]
+[[es:Gyarados (Megaascenso TCG Pocket)]]
+[[fr:Léviator (Méga-Ascension 051)]]
+[[it:Gyarados (Mega Ascesa 51)]]
+[[ja:ギャラドス (ポケポケ B1)]]
+[[zh:暴鲤龙（B1）]]

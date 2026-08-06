@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Eelektrik
+|ja name=シビビール
+|trans name=Shibibeel
+|species=Eelektrik
+|type=Lightning
+|image=EelektrikGeneticApex108.png
+|illustrator=Midori Harada
+|hp=80
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Tynamo
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=108/226|pack=Mewtwo|rarity=Diamond|rarity count=2}}
+}}
+
+'''Eelektrik''' (Japanese: '''シビビール''' ''Shibibeel'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Head Bolt
+|jname=ヘッドボルト
+|jtrans=Head Volt
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Eelektrik
+|species=EleFish
+|ndex=0603
+|height=3'11"
+|jheight=1.2
+|weight=48.5
+|jweight=22.0
+|dex=They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns.
+|jdex=丸い　模様が　発電　器官｡ 相手に　巻きついてから　模様を 押しつけて　電気を　流すのだ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Eelektrik|65}} from the {{TCG|Unified Minds}} expansion.
+*'''Head Bolt''' is an attack that first appeared on {{TCG ID|Arceus|Manectric|44}} from the {{TCG|Platinum: Arceus|Arceus}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zapplalek (Unschlagbare Gene 108)]]
+[[es:Eelektrik (Genes Formidables TCG Pocket)]]
+[[fr:Lampéroie (Puissance Génétique 108)]]
+[[it:Eelektrik (Geni Supremi 108)]]
+[[ja:シビビール (ポケポケ A1)]]
+[[zh:麻麻鳗（A1）]]

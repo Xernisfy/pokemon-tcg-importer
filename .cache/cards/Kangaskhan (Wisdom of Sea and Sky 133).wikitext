@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Kangaskhan
+|ja name=ガルーラ
+|trans name=Garura
+|species=Kangaskhan
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KangaskhanWisdomofSeaandSky133.png|illustrator=Toshinao Aoki|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KangaskhanPromo-A97.png|illustrator=Kouki Saitou|tab caption=Promo}}
+|hp=100
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=133/161|pack=Ho-Oh|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=097/P-A|pack=Vol. 11}}
+}}
+
+'''Kangaskhan''' (Japanese: '''ガルーラ''' ''Garura'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Cross-Cut
+|jname=ふりおろす
+|jtrans=Swing Downward
+|damage=20+
+|effect=If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 40 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Kangaskhan
+|category=Parent 
+|ndex=0115
+|height=7'3"
+|jheight=2.2
+|weight=176.4
+|jweight=80.0
+|dex=Although it's carrying its baby in a pouch on its belly, Kangaskhan is swift on its feet. It intimidates its opponents with quick jabs.
+|jdex=腹の 袋に 子どもが いるが フットワークは とても 軽い。 素早い ジャブで 相手を 威嚇。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 11 packs; these were made available as part of the [[Blissey ex Drop Event]], which ran from August 6 to 16, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=KangaskhanWisdomofSeaandSky133.png
+|caption1=Rare card<br>Illus. [[Toshinao Aoki]]
+|image2=KangaskhanPromo-A97.png
+|caption2=Promo card<br>Illus. [[Kouki Saitou]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Wisdom of Sea and Sky}} illustration was first featured on {{TCG ID|Aquapolis|Kangaskhan|88}} from the {{TCG|Aquapolis}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Plasma Blast|Kangaskhan|71}} from the {{TCG|Plasma Blast}} expansion.
+*'''Cross-Cut''' is an attack that first appeared on {{TCG ID|Aquapolis|Scyther|57}} from the {{TCG|Aquapolis}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kangama (Weisheit von Meer und Himmel 133)]]
+[[es:Kangaskhan (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Kangourex (Sagesse entre Ciel et Mer 133)]]
+[[it:Kangaskhan (La Via del Cielo e del Mare 133)]]
+[[ja:ガルーラ (ポケポケ A4)]]
+[[zh:袋兽（A4）]]

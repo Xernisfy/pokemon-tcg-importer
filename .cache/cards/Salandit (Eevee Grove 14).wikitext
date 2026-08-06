@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Salandit
+|ja name=ヤトウモリ
+|trans name=Yatoumori
+|species=Salandit
+|type=Fire
+|image=SalanditEeveeGrove14.png
+|illustrator=tetsuya koizumi
+|hp=60
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=014/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Salandit''' (Japanese: '''ヤトウモリ''' ''Yatoumori'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Ember
+|jname=ひのこ
+|jtrans=Sparks
+|damage=30
+|effect=Discard a {{e|Fire}} Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Salandit
+|species=Toxic Lizard
+|ndex=0757
+|height=2'
+|jheight=0.6
+|weight=10.6
+|jweight=4.8
+|dex=It taunts its prey and lures them into narrow, rocky areas where it then sprays them with toxic gas to make them dizzy and take them down.
+|jdex=獲物を　挑発して　狭い 岩場に　誘い込み　フラフラになる 毒ガスを　吹きかけ　仕留めるのだ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Crimson Invasion|Salandit|46}} from the {{TCG|Crimson Invasion}} expansion.
+*{{m|Ember}} is a [[move]] in the [[Pokémon games]] that {{p|Salandit}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Molunk (Evoli-Hain 014)]]
+[[es:Salandit (Arboleda de Eevee TCG Pocket)]]
+[[fr:Tritox (La Clairière d'Évoli 014)]]
+[[it:Salandit (Il Bosco di Eevee 14)]]
+[[ja:ヤトウモリ (ポケポケ A3b)]]
+[[zh:夜盗火蜥（A3b）]]

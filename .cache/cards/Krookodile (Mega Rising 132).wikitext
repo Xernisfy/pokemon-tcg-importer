@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Krookodile
+|ja name=ワルビアル
+|trans name=Waruvial
+|species=Krookodile
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KrookodileMegaRising132.png|illustrator=Shiburingaru|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KrookodilePromo-B16.png|illustrator=match|tab caption=Promo}}
+|hp=160
+|weakness=Grass
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Krokorok
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=132/226|pack=Mega Gyarados|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=016/P-B|pack=Vol. 2}}
+}}
+
+'''Krookodile''' (Japanese: '''ワルビアル''' ''Waruvial'') is a {{ct|Fighting}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Chomp Chomp Bite
+|jname=ガブガブバイト
+|jtrans=Guzzle Bite
+|damage=90
+|effect=Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Krookodile
+|category=Intimidation
+|ndex=0553
+|height=4'11"
+|jheight=1.5
+|weight=212.3
+|jweight=96.3
+|dex=Its unique faculty of sight can detect small prey more than 30 miles away, even in the midst of a sandstorm.
+|jdex=砂嵐でも ５０キロ先に いる 小さな 獲物も 発見する 特殊な 両目を 持つ。
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} print of this card was one of five cards that could be pulled from Promo-B Vol. 2 packs; these were made available as part of the [[Mareep Drop Event]], which ran from January 1 to 18, 2026.
+
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=KrookodileMegaRising132.png
+|caption1=Rare card<br>Illus. [[Shiburingaru]]
+|image2=KrookodilePromo-B16.png
+|caption2={{TCGP|Promo-B}} card<br>Illus. [[match]]
+}}
+
+==Trivia==
+===Origin===
+*This card's rare print illustration was first featured on {{TCG ID|Silver Tempest|Krookodile|113}} from the {{TCG|Silver Tempest}} expansion, and the {{TCGP|Promo-B}} print illustration was first featured on {{TCG ID|XY|Krookodile|71}} from the {{TCG|XY}} expansion.
+*'''Chomp Chomp Bite''' is an attack that first appeared on {{TCG ID|Scarlet & Violet|Krookodile|117}} from the {{TCG|Scarlet & Violet}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rabigator (Mega-Aufstieg 132)]]
+[[es:Krookodile (Megaascenso TCG Pocket)]]
+[[fr:Crocorible (Méga-Ascension 132)]]
+[[it:Krookodile (Mega Ascesa 132)]]
+[[ja:ワルビアル (ポケポケ B1)]]
+[[zh:流氓鳄（B1）]]

@@ -1,0 +1,63 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Froakie
+|ja name=ケロマツ
+|trans name=Keromatsu
+|species=Froakie
+|type=Water
+|image=FroakiePromo-B3.png
+|illustrator=Kyoko Umemoto
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=003/P-B|pack=Vol. 1}}
+}}
+
+'''Froakie''' (Japanese: '''ケロマツ''' ''Keromatsu'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-B}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Bubble
+|jname=あわ
+|jtrans=Bubble
+|damage=20
+|effect=Flip a coin. If heads, your opponent's Active Pokémon is now {{TCG|Paralyzed}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Froakie
+|species=Bubble Frog
+|ndex=0656
+|height=1'
+|jheight=0.3
+|weight=15.4
+|jweight=7.0
+|dex=It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings.
+|jdex=繊細な 泡で 体を 包み 肌を 守る。のんきに 見せかけて 抜け目なく 周囲を うかがう。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-B Vol. 1 packs; these were made available as part of the [[Mega Pidgeot ex Drop Event]], which ran from November 18 to 28, 2025.
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unbroken Bonds|Froakie|51}} from the {{TCG|Unbroken Bonds}} expansion.
+*{{m|Bubble}} is a [[move]] in the [[Pokémon games]] that {{p|Froakie}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Froxy (PROMO-B 003)]]
+[[es:Froakie (Promo-B 3 TCG Pocket)]]
+[[fr:Grenousse (Promo-B 003)]]
+[[it:Froakie (Promo-B 3)]]
+[[ja:ケロマツ (ポケポケ P-B)]]
+[[zh:呱呱泡蛙（P-B）]]

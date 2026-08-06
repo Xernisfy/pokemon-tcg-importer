@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Popplio
+|ja name=アシマリ
+|trans name=Ashimari
+|species=Popplio
+|type=Water
+|image=PopplioCelestialGuardians46.png
+|illustrator=Kouki Saitou
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=046/155|pack=Solgaleo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Popplio''' (Japanese: '''アシマリ''' ''Ashimari'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Water Gun
+|jname=みずでっぽう
+|jtrans=Water Gun
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Popplio
+|category=Sea Lion 
+|ndex=0728
+|height=1'4"
+|jheight=0.4
+|weight=16.5
+|jweight=7.5
+|dex=The balloons it inflates with its nose grow larger and larger as it practices day by day.
+|jdex=鼻で 膨らませる バルーンは 日々 練習を 重ねることで 少しずつ 大きく なっていく。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Popplio|39}} from the {{TCG|Sun & Moon}} expansion.
+*{{m|Water Gun}} is a [[move]] in the [[Pokémon games]] that {{p|Popplio}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Robball (Hüter des Firmaments 046)]]
+[[es:Popplio (Guardianes Celestiales 46 TCG Pocket)]]
+[[fr:Otaquin (Gardiens Astraux 046)]]
+[[ja:アシマリ (ポケポケ A3 046)]]
+[[zh:球球海狮（A3 046）]]

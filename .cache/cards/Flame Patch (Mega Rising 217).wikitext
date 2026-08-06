@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Flame Patch
+|ja name=フレイムパッチ
+|trans name=Flame Patch
+|subtype=Item
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FlamePatchMegaRising217.png|illustrator=Studio Bora Inc.|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FlamePatchMegaRising331.png|illustrator=Studio Bora Inc.|tab caption=Ultra Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Blaziken|rarity=Diamond|rarity count=2|number=217/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Crown|rarity count=1|number=331/226}}
+}}
+
+'''Flame Patch''' (Japanese: '''フレイムパッチ''' ''Flame Patch'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Attach a {{e|Fire}} Energy from your discard pile to your Active {{e|Fire}} Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Item
+|image1=FlamePatchMegaRising217.png
+|caption1=Uncommon card<br>Illus. [[Studio Bora Inc.]]
+|image2=FlamePatchMegaRising331.png
+|caption2=Ultra rare card<br>Illus. [[Studio Bora Inc.]]
+}}
+
+==Trivia==
+This card's effect is similar to multiple cards in the [[Pokémon Trading Card Game]]: {{TCG|Dark Patch}}, {{TCG|Aqua Patch}}, {{TCG|Metal Saucer}}, and {{TCG|Wondrous Patch}}, though it attaches {{e|Fire}} Energy. Unlike the aforementioned cards, Flame Patch attaches Energy to an Active Pokémon instead of a Benched Pokémon.
+
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=フレイムパッチ ''Flame Patch''
+|zh_yue=火補丁 ''Fó Bóudīng''
+|zh_cmn=火補丁 ''Huǒ Bǔdīng''
+|fr=Fortifiant Flamboyant
+|de=Flammenpflaster
+|it=Distintivo Fiamma
+|ko=플레임패치 ''Flame Patch''
+|pt_br=Fragmento Incendiário
+|es=Refuerzo Fuego
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flammenpflaster (TCG Pocket)]]
+[[fr:Fortifiant Flamboyant (Méga-Ascension 217)]]
+[[it:Distintivo Fiamma (Mega Ascesa 217)]]
+[[ja:フレイムパッチ]]
+[[zh:火补丁（TCGP）]]

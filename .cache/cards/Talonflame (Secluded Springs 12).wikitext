@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Talonflame
+|ja name=ファイアロー
+|trans name=Fiarrow
+|species=Talonflame
+|type=Fire
+|image=TalonflameSecludedSprings12.png
+|illustrator=5ban Graphics
+|hp=130
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Fletchinder
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=012/071}}
+}}
+
+'''Talonflame''' (Japanese: '''ファイアロー''' ''Fiarrow'') is a {{ct|Fire}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Searing Flame
+|jname=やきこがす
+|jtrans=Searing Heat
+|damage=50
+|effect=Your opponent's Active Pokémon is now {{TCG|Burned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Talonflame
+|species=Scorching
+|ndex=0663
+|height=3'11"
+|jheight=1.2
+|weight=54
+|jweight=24.5
+|dex=It has top-notch flying capabilities. It flies around easily, even while carrying prey that weighs more than 220 lbs.
+|jdex=飛翔力は トップクラス。 100キロ以上の 獲物を 掴んだまま 楽々 飛びまわる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|XY|Talonflame|28}} from the {{TCG|XY}} expansion.
+*'''Searing Flame''' is an attack that first appeared on {{TCG ID|Expedition|Charmander|98}} from the {{TCG|Expedition Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Fiaro (Verborgene Quelle 012)]]
+[[es:Talonflame (Manantial Oculto TCG Pocket)]]
+[[fr:Flambusard (Source Secrète 012)]]
+[[it:Talonflame (Sorgenti Recondite 12)]]
+[[ja:ファイアロー (ポケポケ A4a)]]
+[[zh:烈箭鹰（A4a）]]

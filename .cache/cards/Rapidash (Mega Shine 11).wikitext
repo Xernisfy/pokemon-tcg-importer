@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rapidash
+|ja name=ギャロップ
+|trans name=Gallop
+|species=Rapidash
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RapidashMegaShine11.png|illustrator=Lee HyunJung|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RapidashMegaShine94.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=100
+|weakness=Water
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Ponyta
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=011/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=094/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Rapidash''' (Japanese: '''ギャロップ''' ''Gallop'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Overdrive Smash
+|jname=オーバースマッシュ
+|jtrans=Over Smash
+|damage=30
+|effect=During your next turn, this Pokémon's Overdrive Smash attack does +30 damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Rapidash
+|category=Fire Horse
+|ndex=0078
+|height=5'7"
+|jheight=1.7
+|weight=209.4
+|jweight=95.0
+|dex=The fastest runner becomes the leader, and it decides the herd’s pace and direction of travel.
+|jdex=いちばん　脚が　速い　ものが リーダー｡　群れが　行く　場所や 走る　速度を　決めている｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=RapidashMegaShine11.png
+|caption1=Common card<br>Illus. [[Lee HyunJung]]
+|image2=RapidashMegaShine94.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Arceus|Rapidash|28}} from the {{TCG|Platinum: Arceus|Arceus}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Rapidash}}.
+*'''Overdrive Smash''' is an attack that first appeared on {{TCG ID|BW Promo|Genesect|86}}, one of the {{TCG|BW Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gallopa (Mega-Schillern 011)]]
+[[fr:Galopa (Méga-Rayonnement 011)]]
+[[it:Rapidash (Mega Splendore 11)]]
+[[ja:ギャロップ (ポケポケ B2b)]]
+[[zh:烈焰马（B2b）]]

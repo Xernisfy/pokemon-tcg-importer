@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hydreigon
+|ja name=サザンドラ
+|trans name=Sazandora
+|species=Hydreigon
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HydreigonMegaRising157.png|illustrator=hatachu|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HydreigonMegaRising245.png|illustrator=matazo|tab caption=Illustration Rare}}
+|hp=150
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Zweilous
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=157/226|pack=Mega Gyarados|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=245/226|pack=Mega Gyarados|rarity=Star|rarity count=1}}
+}}
+
+'''Hydreigon''' (Japanese: '''サザンドラ''' ''Sazandora'') is a {{ct|Darkness}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Ability/Pocket
+|type=Darkness
+|name=Roar in Unison
+|jname=つらなるほうこう
+|jtrans=Linked Roar
+|effect=Once during your turn, you may take 2 {{e|Darkness}} Energy from your Energy Zone and attach it to this Pokémon. If you do, do 30 damage to this Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Darkness}}
+|name=Hyper Ray
+|jname=ハイパービーム
+|jtrans=Hyper Beam
+|damage=130
+|effect=Discard all Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Hydreigon
+|category=Brutal
+|ndex=0635
+|height=5'11"
+|jheight=1.8
+|weight=352.7
+|jweight=160.0
+|dex=It's said that Hydreigon grew ferocious because people in times long past loathed it, considering it to be evil incarnate and attacking it relentlessly.
+|jdex=昔 人が 邪悪 そのものと 忌み嫌い 攻撃し続けたため 凶暴になったと 言われている。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=HydreigonMegaRising157.png
+|caption1=Rare card<br>Illus. [[hatachu]]
+|image2=HydreigonMegaRising245.png
+|caption2=Illustration rare card<br>Illus. [[matazo]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Evolving Skies|Hydreigon|115}} from the {{TCG|Evolving Skies}} expansion.
+*'''Hyper Ray''' is an attack that first appeared on {{TCG ID|Stellar Crown|Klinklang|101}} from the {{TCG|Stellar Crown}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Trikephalo (Mega-Aufstieg 157)]]
+[[es:Hydreigon (Megaascenso TCG Pocket)]]
+[[fr:Trioxhydre (Méga-Ascension 157)]]
+[[it:Hydreigon (Mega Ascesa 157)]]
+[[ja:サザンドラ (ポケポケ B1)]]
+[[zh:三首恶龙（B1）]]

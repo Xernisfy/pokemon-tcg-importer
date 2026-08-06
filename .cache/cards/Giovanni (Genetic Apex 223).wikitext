@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Giovanni
+|ja name=サカキ
+|trans name=Sakaki
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GiovanniGeneticApex223.png|illustrator=Hideki Ishikawa|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GiovanniDeluxePackex335.png|illustrator=Hideki Ishikawa|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GiovanniGeneticApex270.png|illustrator=Hideki Ishikawa|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=223/226|pack=Mewtwo|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=270/226|pack=Mewtwo|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=334/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=335/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Giovanni''' (Japanese: '''サカキ''' ''Sakaki'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=During this turn, attacks used by your Pokémon do +10 damage to your opponent's Active Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=GiovanniGeneticApex223.png
+|caption1=Standard card<br>Illus. [[Hideki Ishikawa]]
+|image2=GiovanniGeneticApex270.png
+|caption2=Super rare card<br>Illus. [[Hideki Ishikawa]]
+|image3=GiovanniDeluxePackex335.png
+|caption3=Parallel foil card<br>Illus. [[Hideki Ishikawa]]
+}}
+
+==Trivia==
+* This card's effect is identical to {{TCG|PlusPower}} in the [[Pokémon Trading Card Game]], but as a {{TCGP|Supporter card}} instead of an {{TCGP|Item card}}.
+** This card's effect is similar to the effect of the Supporter card {{TCG|Leon}} in the Pokémon Trading Card Game, but this card increases damage by 10 instead of 30.
+** {{TCG|Giovanni}} also exists in the Pokémon Trading Card Game, but with a different effect.
+
+===Origin===
+*[[Giovanni]] is a [[Gym Leader]] in [[Kanto]] and the head of [[Team Rocket]]. The interior of the [[Team Rocket Hideout]]'s lowest basement level, as depicted in {{game|FireRed and LeafGreen|s}}, is featured in the regular print's illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=サカキ ''Sakaki''
+|zh_yue=坂木 ''Báanmuhk''
+|zh_cmn=坂木 ''Bǎnmù''
+|fr=Giovanni
+|de=Giovanni
+|it=Giovanni
+|ko=비주기 ''Bijugi''
+|pt_br=Giovanni
+|es=Giovanni
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Giovanni (TCG Pocket)]]
+[[es:Giovanni (TCG Pocket)]]
+[[fr:Giovanni (Puissance Génétique 223)]]
+[[it:Giovanni (Geni Supremi 223)]]
+[[ja:サカキ (ポケポケ)]]
+[[zh:坂木（TCGP）]]

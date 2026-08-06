@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mankey
+|ja name=マンキー
+|trans name=Mankey
+|species=Mankey
+|type=Fighting
+|image=MankeyPromo-A17.png
+|illustrator=Souichirou Gunjima
+|hp=50
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=017/P-A|pack=Vol. 1}}
+}}
+
+'''Mankey''' (Japanese: '''マンキー''' ''Mankey'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Reckless Charge
+|jname=とつげき
+|jtrans=Assault
+|damage=30
+|effect=This Pokémon also does 10 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Mankey
+|species=Pig Monkey
+|ndex=0056
+|height=1'8"
+|jheight=0.5
+|weight=61.7
+|jweight=28.0
+|dex=It lives in groups in the treetops. If it loses sight of its group, it becomes infuriated by its loneliness.
+|jdex=木の上で　群れをつくって　暮らす｡ 群れから　はぐれた　マンキーは 寂しくて　すぐに　怒りだす｡
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 1 packs; these were made available as part of the [[Lapras ex Drop Event]], which ran from November 5 to 18, 2024.
+
+==Trivia==
+===Origin===
+*'''Reckless Charge''' is an attack that first appeared on {{TCG ID|Movie VS Pack|Ash's Phanpy|4}} from the {{TCG|Movie Commemoration VS Pack: Aura's Lucario}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Menki (PROMO-A 017)]]
+[[es:Mankey (Promo-A 17 TCG Pocket)]]
+[[fr:Férosinge (Promo-A 017)]]
+[[it:Mankey (Promo-A 17)]]
+[[ja:マンキー (ポケポケ P-A)]]
+[[zh:猴怪（P-A）]]

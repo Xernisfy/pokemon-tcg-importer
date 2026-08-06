@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Skeledirge
+|ja name=ラウドボーン
+|trans name=Laudbon
+|species=Skeledirge
+|type=Fire
+|image=SkeledirgePaldeanWonders18.png
+|illustrator=nagimiso
+|hp=150
+|weakness=Water
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Crocalor
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=018/093|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Skeledirge''' (Japanese: '''ラウドボーン''' ''Laudbon'') is a {{ct|Fire}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Ability/Pocket
+|type=Fire
+|name=Passionate Voice
+|jname=パッションボイス
+|jtrans=Passion Voice
+|effect=Once during your turn, you may discard 1 {{e|Fire}} Energy from this Pokémon in order to use this Ability. During this turn, attacks used by your {{e|Fire}} Pokémon do +50 damage to your opponent's Active Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}
+|name=Heat Crash
+|jname=ヒートスタンプ
+|jtrans=Heat Stamp
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Skeledirge
+|category=Singer
+|ndex=0911
+|height=5'3"
+|jheight=1.6
+|weight=719.8
+|jweight=326.5
+|dex=Skeledirge's gentle singing soothes the souls of all that hear it. It burns its enemies to a crisp with flames of over 5,400 degrees Fahrenheit.
+|jdex=優しい 歌声は 聴いた者の 魂を 癒す。 ３０００度の 炎で 敵を 焼き尽くす。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Skeledirge|38}} from the {{TCG|Scarlet & Violet}} expansion.
+*{{m|Heat Crash}} is a [[move]] in the [[Pokémon games]] that {{p|Skeledirge}} can learn via [[TM]].
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Skelokrok (Wundervolles Paldea 018)]]
+[[fr:Flâmigator (Merveilles de Paldea 018)]]
+[[it:Skeledirge (Meraviglie di Paldea 18)]]
+[[ja:ラウドボーン (ポケポケ B2a)]]
+[[zh:骨纹巨声鳄（B2a）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sigilyph
+|ja name=シンボラー
+|trans name=Symboler
+|species=Sigilyph
+|type=Psychic
+|image=SigilyphMythicalIsland33.png
+|illustrator=Shigenori Negishi
+|hp=80
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=033/068|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Sigilyph''' (Japanese: '''シンボラー''' ''Symboler'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Spike Draw
+|jname=スパイクドロー
+|jtrans=Spike Draw
+|damage=10
+|effect=Draw a card.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Sigilyph
+|species=Avianoid
+|ndex=0561
+|height=4'7"
+|jheight=1.4
+|weight=30.9
+|jweight=14.0
+|dex=Psychic power allows these Pokémon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians' emissaries.
+|jdex=サイコパワーで 空を 飛ぶ。 古代都市の 守り神 とも その遣いとも いわれている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Legendary Treasures|Sigilyph|66}} from the {{TCG|Legendary Treasures}} expansion.
+*'''Spike Draw''' is an attack that first appeared on {{TCG ID|Flashfire|Luvdisc|27}} from the {{TCG|Flashfire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Symvolara (Mysteriöse Insel 033)]]
+[[es:Sigilyph (La Isla Singular TCG Pocket)]]
+[[fr:Cryptéro (L'Île Fabuleuse 033)]]
+[[it:Sigilyph (L'Isola Misteriosa 33)]]
+[[ja:シンボラー (ポケポケ A1a)]]
+[[zh:象征鸟（A1a）]]

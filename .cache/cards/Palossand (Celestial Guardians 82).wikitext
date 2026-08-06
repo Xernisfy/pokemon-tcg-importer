@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Palossand
+|ja name=シロデスナ
+|trans name=Sirodethna
+|species=Palossand
+|type=Psychic
+|image=PalossandCelestialGuardians82.png
+|illustrator=OOYAMA
+|hp=130
+|weakness=Darkness
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Sandygast
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=082/155|pack=Solgaleo|rarity=Diamond|rarity count=3}}
+}}
+
+'''Palossand''' (Japanese: '''シロデスナ''' ''Sirodethna'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}{{e|Colorless}}
+|name=Spooky Shot
+|jname=ホロウショット
+|jtrans=Hollow Shot
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Palossand
+|species=Sand Castle
+|ndex=0770
+|height=4'3"
+|jheight=1.3
+|weight=551.2
+|jweight=250.0
+|dex=The terrifying Palossand drags smaller Pokémon into its sandy body. Once its victims are trapped, it drains them of their vitality whenever it pleases.
+|jdex=小さな ポケモンを 砂の体に 引きずり込み 好きなときに 生気を 吸い取る 恐ろしい ポケモン。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Palossand|127}} from the {{TCG|Cosmic Eclipse}} expansion.
+*'''Spooky Shot''' is an attack that first appeared on {{TCG ID|Legendary Treasures|Misdreavus|57}} and {{TCG ID|Legendary Treasures|Mismagius|58}} from the {{TCG|Legendary Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Colossand (Hüter des Firmaments 082)]]
+[[es:Palossand (Guardianes Celestiales TCG Pocket)]]
+[[fr:Trépassable (Gardiens Astraux 082)]]
+[[it:Palossand (Guardiani Astrali 82)]]
+[[ja:シロデスナ (ポケポケ A3)]]
+[[zh:噬沙堡爷（A3）]]

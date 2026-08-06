@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pyroar
+|ja name=カエンジシ
+|trans name=Kaenjishi
+|species=Pyroar
+|type=Fire
+|image=PyroarMegaRising46.png
+|illustrator=Hitoshi Ariga
+|hp=130
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Litleo
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=046/226|pack=Mega Blaziken|rarity=Diamond|rarity count=3}}
+}}
+
+'''Pyroar''' (Japanese: '''カエンジシ''' ''Kaenjishi'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Colorless}}
+|name=Fire Blast
+|jname=だいもんじ
+|jtrans=Daimonji
+|damage=130
+|effect=Discard 2 {{e|Fire}} Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Pyroar
+|category=Royal
+|ndex=0668
+|height=4'11"
+|jheight=1.5
+|weight=179.7
+|jweight=81.5
+|dex=The mane of a male Pyroar heats up to over 3,600 degrees Fahrenheit during battle. Merely approaching it will cause severe burns.
+|jdex=オスの たてがみは 戦いになると 摂氏2000度の 高温になる。 近寄るだけで 大火傷だ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Evolving Skies|Pyroar|23}} from the {{TCG|Evolving Skies}} expansion.
+*{{m|Fire Blast}} is a [[move]] in the [[Pokémon games]] that {{p|Pyroar}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pyroleo (Mega-Aufstieg 046)]]
+[[es:Pyroar (Megaascenso TCG Pocket)]]
+[[fr:Némélios (Méga-Ascension 046)]]
+[[it:Pyroar (Mega Ascesa 46)]]
+[[ja:カエンジシ (ポケポケ B1)]]
+[[zh:火炎狮（B1）]]

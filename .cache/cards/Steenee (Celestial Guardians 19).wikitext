@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Steenee
+|ja name=アママイコ
+|trans name=Amamaiko
+|species=Steenee
+|type=Grass
+|image=SteeneeCelestialGuardians19.png
+|illustrator=Mizue
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Bounsweet
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=019/155|pack=Solgaleo|rarity=Diamond|rarity count=2}}
+}}
+
+'''Steenee''' (Japanese: '''アママイコ''' ''Amamaiko'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Double Spin
+|jname=ダブルスピン
+|jtrans=Double Spin
+|damage=30×
+|effect=Flip 2 coins. This attack does 30 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Steenee
+|species=Fruit
+|ndex=0762
+|height=2'4"
+|jheight=0.7
+|weight=18.1
+|jweight=8.2
+|dex=Steenee spreads a sweet scent that makes others feel invigorated. This same scent is popular for antiperspirants.
+|jdex=元気な 気持ちになれる 甘い 香りを 振りまく。 制汗剤の フレーバーとして 人気が 高い。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Steenee|19}} from the {{TCG|Sun & Moon}} expansion.
+*'''Double Spin''' is an attack that first appeared on {{TCG ID|Gym Heroes|Lt. Surge's Voltorb|84}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Frubaila (Hüter des Firmaments 019)]]
+[[es:Steenee (Guardianes Celestiales TCG Pocket)]]
+[[fr:Candine (Gardiens Astraux 019)]]
+[[it:Steenee (Guardiani Astrali 19)]]
+[[ja:アママイコ (ポケポケ A3)]]
+[[zh:甜舞妮（A3）]]

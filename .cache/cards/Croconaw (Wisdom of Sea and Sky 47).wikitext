@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Croconaw
+|ja name=アリゲイツ
+|trans name=Alligates
+|species=Croconaw
+|type=Water
+|image=CroconawWisdomofSeaandSky47.png
+|illustrator=Naoki Saito
+|hp=90
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Totodile
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=047/161|pack=Ho-Oh|rarity=Diamond|rarity count=2}}
+}}
+
+'''Croconaw''' (Japanese: '''アリゲイツ''' ''Alligates'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Bite
+|jname=かみつく
+|jtrans=Bite
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Croconaw
+|species=Big Jaw
+|ndex=0159
+|height=3'7"
+|jheight=1.1
+|weight=55.1
+|jweight=25.0
+|dex=If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth.
+|jdex=キバは 抜けても 次から 次に 生えてくる。 いつも 口の中には 48本の キバが そろっている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Shining Legends|Croconaw|19}} from the {{TCG|Shining Legends}} expansion; both cards have the {{m|Bite}} attack.
+*{{m|Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Croconaw}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tyracroc (Weisheit von Meer und Himmel 047)]]
+[[es:Croconaw (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Crocrodil (Sagesse entre Ciel et Mer 047)]]
+[[it:Croconaw (La Via del Cielo e del Mare 47)]]
+[[ja:アリゲイツ (ポケポケ A4)]]
+[[zh:蓝鳄（A4）]]

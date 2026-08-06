@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tandemaus
+|ja name=ワッカネズミ
+|trans name=Wakkenezumi
+|species=Tandemaus
+|type=Colorless
+|image=TandemausPaldeanWonders81.png
+|illustrator=Akira Komayama
+|hp=30
+|weakness=Fighting
+|retreat cost=0
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=081/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Tandemaus''' (Japanese: '''ワッカネズミ''' ''Wakkenezumi'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Double Hit
+|jname=ダブルアタック
+|jtrans=Double Attack
+|damage=30×
+|effect=Flip 2 coins. This attack does 30 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Tandemaus
+|category=Couple
+|ndex=0924
+|height=1'
+|jheight=0.3
+|weight=4
+|jweight=1.8
+|dex=The pair sticks together no matter what. They split any food they find exactly in half and then eat it together.
+|jdex=どんなときでも 2匹は 一緒。 見つけた エサは ぴったりと 半分こして 仲良く 食べる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Paradox Rift|Tandemaus|154}} from the {{TCG|Paradox Rift}} expansion.
+*{{m|Double Hit}} is a [[move]] in the [[Pokémon games]] that {{p|Tandemaus}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zwieps (Wundervolles Paldea 081)]]
+[[fr:Compagnol (Merveilles de Paldea 081)]]
+[[it:Tandemaus (Meraviglie di Paldea 81)]]
+[[ja:ワッカネズミ (ポケポケ B2a)]]
+[[zh:一对鼠（B2a）]]

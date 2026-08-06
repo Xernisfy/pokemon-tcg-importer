@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ho-Oh
+|ja name=ホウオウ
+|trans name=Houou
+|species=Ho-Oh
+|type=Fire
+|image=Ho-OhMegaRising32.png
+|illustrator=Ryota Murayama
+|hp=120
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=032/226|pack=Mega Blaziken|rarity=Diamond|rarity count=3}}
+}}
+
+'''Ho-Oh''' (Japanese: '''ホウオウ''' ''Houou'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Colorless}}{{e|Colorless}}
+|name=Blessed Burn
+|jname=ホーリーバーン
+|jtrans=Holy Burn
+|damage=100
+|effect=Heal 30 damage from each of your Benched Basic Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Ho-Oh
+|category=Rainbow
+|ndex=0250
+|height=12'6"
+|jheight=3.8
+|weight=438.7
+|jweight=199.0
+|dex=It will reveal itself before a pure-hearted Trainer by shining its bright, rainbow-colored wings.
+|jdex=心正しき トレーナーの 前に 七色の 翼を 光らせながら 姿を 現すと 伝えられる。
+}}
+
+==Trivia==
+===Origin===
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ho-Oh (Mega-Aufstieg 032)]]
+[[es:Ho-Oh (Megaascenso TCG Pocket)]]
+[[fr:Ho-Oh (Méga-Ascension 032)]]
+[[it:Ho-Oh (Mega Ascesa 32)]]
+[[ja:ホウオウ (ポケポケ B1)]]
+[[zh:凤王（B1）]]

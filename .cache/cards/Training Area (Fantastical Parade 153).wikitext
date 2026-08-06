@@ -1,0 +1,46 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Training Area
+|ja name=トレーニングエリア
+|trans name=Training Area
+|subtype=Stadium
+|image=TrainingAreaFantasticalParade153.png
+|illustrator=MARINA Chikazawa
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=153/155}}
+}}
+
+'''Training Area''' (Japanese: '''トレーニングエリア''' ''Training Area'') is a {{TCGP|Stadium card}} in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Stadium
+|rule=SV Stadium
+|effect=Attacks used by Stage 1 Pokémon in play ''(both yours and your opponent's)'' do +10 damage to the opponent's Active Pokémon.
+}}
+
+==Trivia==
+*This card's effect is identical to that of the {{TCG|Practice Studio}} card in the [[Pokémon Trading Card Game]].
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Stadium color}}|bordercolor={{TCG Stadium color dark}}|textcolor=FFF
+|ja=トレーニングエリア ''Training Area''
+|zh_yue=訓練區 ''Fanlihn Kēui''
+|zh_cmn=訓練區 ''Xùnliàn Qū''
+|fr=Zone d'Entraînement
+|de=Trainingsbereich
+|it=Campo di Allenamento
+|ko=트레이닝 에리어 ''Training Area''
+|pt_br=Área de Treinamento
+|es=Área de Entrenamiento
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Trainingsbereich (TCG Pocket)]]
+[[es:Área de Entrenamiento (TCG Pocket)]]
+[[fr:Zone d'Entraînement (Parade Onirique 153)]]
+[[it:Campo di Allenamento (Parata Fantasmagorica 153)]]
+[[ja:トレーニングエリア (ポケポケ)]]
+[[zh:训练区（TCGP）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Phantump
+|ja name=ボクレー
+|trans name=Bokurei
+|species=Phantump
+|type=Grass
+|image=PhantumpCelestialGuardians7.png
+|illustrator=miki kudo
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=007/155|pack=Solgaleo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Phantump''' (Japanese: '''ボクレー''' ''Bokurei'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Hook
+|jname=ひっかける
+|jtrans=Hook
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Phantump
+|species=Stump
+|ndex=0708
+|height=1'4"
+|jheight=0.4
+|weight=15.4
+|jweight=0.7
+|dex=After a lost child perished in the forest, their spirit possessed a tree stump, causing the spirit's rebirth as this Pokémon.
+|jdex=森で さまよい 命を 落とした 子どもの 魂が 切り株に 宿り ポケモンに 生まれ変わった。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Phantump|93}} from the {{TCG|Cosmic Eclipse}} expansion.
+*'''Hook''' is an attack that first appeared on {{TCG ID|EX Dragon|Magnemite|61}} from the {{TCG|EX Dragon}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Paragoni (Hüter des Firmaments 007)]]
+[[es:Phantump (Guardianes Celestiales TCG Pocket)]]
+[[fr:Brocélôme (Gardiens Astraux 007)]]
+[[it:Phantump (Guardiani Astrali 7)]]
+[[ja:ボクレー (ポケポケ A3)]]
+[[zh:小木灵（A3）]]

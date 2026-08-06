@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Joltik
+|ja name=バチュル
+|trans name=Bachuru
+|species=Joltik
+|type=Lightning
+|image=JoltikMythicalIsland28.png
+|illustrator=MINAMINAMI Take
+|hp=40
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=028/068|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Joltik''' (Japanese: '''バチュル''' ''Bachuru'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Bug Bite
+|jname=むしくい
+|jtrans=Bug Bite
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Joltik
+|species=Attaching
+|ndex=0595
+|height=4"
+|jheight=0.1
+|weight=1.3
+|jweight=0.6
+|dex=Joltik can be found clinging to other Pokémon. It's soaking up static electricity because it can't produce a charge on its own.
+|jdex=ポケモンの 体に くっついて 静電気を 吸い取る。 自分では 電気を つくることが できない。
+}}
+
+==Trivia==
+This card is one of several in the {{TCGP|Mythical Island}} expansion to feature a cameo from {{p|Mew}} in its illustration.
+
+===Origin===
+*{{m|Bug Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Joltik}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wattzapf (Mysteriöse Insel 028)]]
+[[es:Joltik (La Isla Singular TCG Pocket)]]
+[[fr:Statitik (L'Île Fabuleuse 028)]]
+[[it:Joltik (L'Isola Misteriosa 28)]]
+[[ja:バチュル (ポケポケ A1a)]]
+[[zh:电电虫（A1a）]]

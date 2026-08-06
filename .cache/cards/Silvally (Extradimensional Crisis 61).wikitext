@@ -1,0 +1,85 @@
+{{TCG Card Infobox/Pokémon/Pocket
+| en name = Silvally
+| ja name = シルヴァディ
+| trans name = Silvady
+| species = Silvally
+| type = Colorless
+| image set = {{TCG Card Infobox/Tabbed Image/Pocket|image=SilvallyExtradimensionalCrisis61.png|illustrator=Eske Yoshinob|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SilvallyDeluxePackex303.png|illustrator=Eske Yoshinob|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SilvallyExtradimensionalCrisis74.png|illustrator=hncl|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SilvallyCrimsonBlaze97.png|illustrator=Taiga Kasai|tab caption=Shiny Rare}}
+| hp = 110
+| weakness = Fighting
+| retreat cost = 1
+| illustrator = 
+| evo stage = Stage 1
+| prevo name = Type: Null
+| prevo link = Type Null
+| expansions = {{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=061/069|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=074/069|pack=Any|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=302/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=303/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=097/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Silvally''' (Japanese: '''シルヴァディ''' ''Silvady'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Brave Buddies
+|jname=バディブレイブ
+|jtrans=Buddy Brave
+|damage=50+
+|effect=If you played a {{TCGP|Supporter card}} from your hand during this turn, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Silvally
+|category=Synthetic 
+|ndex=0773
+|height=7'7"
+|jheight=2.3
+|weight=221.6
+|jweight=100.5
+|dex=This is its form once it has awakened and evolved. Freed from its heavy mask, its speed is greatly increased.
+|jdex=覚醒し 進化した 姿。 重い マスクから 解き放たれ スピードが 大幅に アップ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=SilvallyExtradimensionalCrisis61.png
+|caption1=Standard card<br>Illus. [[Eske Yoshinob]]
+|image2=SilvallyExtradimensionalCrisis74.png
+|caption2=Illustration rare card<br>Illus. [[hncl]]
+|image4=SilvallyDeluxePackex303.png
+|caption4=Parallel foil card<br>Illus. [[Eske Yoshinob]]
+|image5=SilvallyCrimsonBlaze97.png
+|caption5=Shiny rare card<br>Illus. [[Taiga Kasai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Unified Minds|Silvally|184}} from the {{TCG|Unified Minds}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Silvally}}.
+*'''Brave Buddies''' is an attack that first appeared on {{TCG ID|Cosmic Eclipse|Silvally-GX|184}} from the {{TCG|Cosmic Eclipse}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Amigento (Dimensionale Krise 061)]]
+[[es:Silvally (Crisis Dimensional TCG Pocket)]]
+[[fr:Silvallié (Crise Interdimensionnelle 061)]]
+[[it:Silvally (Crisi Ultradimensionale 61)]]
+[[ja:シルヴァディ (ポケポケ A3a)]]
+[[zh:银伴战兽（A3a）]]

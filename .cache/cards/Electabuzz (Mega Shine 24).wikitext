@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Electabuzz
+|ja name=エレブー
+|trans name=Eleboo
+|species=Electabuzz
+|type=Lightning
+|image=ElectabuzzMegaShine24.png
+|illustrator=OKACHEKE
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=024/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Electabuzz''' (Japanese: '''エレブー''' ''Eleboo'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Head Bolt
+|jname=ヘッドボルト
+|jtrans=Head Volt
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Electabuzz
+|species=Electric
+|ndex=0125
+|height=3'7"
+|jheight=1.1
+|weight=66.1
+|jweight=30.0
+|dex=Research is progressing on storing lightning in Electabuzz so this energy can be used at any time.
+|jdex=エレブーに 雷を 溜めこませ いつでも 使えるようにする 研究が 進められている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Brilliant Stars|Electabuzz|46}} from the {{TCG|Brilliant Stars}} expansion; both cards have the Head Bolt attack.
+*'''Head Bolt''' is an attack that first appeared on {{TCG ID|Arceus|Manectric|44}} from the {{TCG|Platinum: Arceus|Arceus}} expansion. 
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Elektek (Mega-Schillern 024)]]
+[[fr:Élektek (Méga-Rayonnement 024)]]
+[[it:Electabuzz (Mega Splendore 24)]]
+[[ja:エレブー (ポケポケ B2b)]]
+[[zh:电击兽（B2b）]]

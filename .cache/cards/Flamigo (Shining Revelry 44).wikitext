@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Flamigo
+|ja name=カラミンゴ
+|trans name=Karamingo
+|species=Flamigo
+|type=Fighting
+|image=FlamigoShiningRevelry44.png
+|illustrator=REND
+|hp=80
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=044/072|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Flamigo''' (Japanese: '''カラミンゴ''' ''Karamingo'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Double Kick
+|jname=にどげり
+|jtrans=Double Kick
+|damage=50×
+|effect=Flip 2 coins. This attack does 50 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Flamigo
+|category=Synchronize 
+|ndex=0973
+|height=5'3"
+|jheight=1.6
+|weight=81.6
+|jweight=37.0
+|dex=This Pokémon apparently ties the base of its neck into a knot so that the energy stored in its belly does not escape from its beak.
+|jdex=お腹に 溜めた エネルギーが くちばしから 漏れないように 首を 根元で 結んでいるらしい。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Double Kick}} is a [[move]] in the [[Pokémon games]] that {{p|Flamigo}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flaminkno (Glänzendes Festival 044)]]
+[[es:Flamigo (Festival Brillante TCG Pocket)]]
+[[fr:Flamenroule (Réjouissances Rayonnantes 044)]]
+[[it:Flamigo (Tripudio Splendente 44)]]
+[[ja:カラミンゴ (ポケポケ A2b)]]
+[[zh:纏紅鶴（A2b）]]

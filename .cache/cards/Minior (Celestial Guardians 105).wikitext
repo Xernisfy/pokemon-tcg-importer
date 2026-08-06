@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Minior
+|ja name=メテノ
+|trans name=Meteno
+|species=Minior
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MiniorCelestialGuardians105.png|illustrator=Amelicart|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MiniorCelestialGuardians174.png|illustrator=imoniii|tab caption=Illustration Rare}}
+|hp=80
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=105/155|pack=Lunala|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=174/155|pack=Lunala|rarity=Star|rarity count=1}}
+}}
+
+'''Minior''' (Japanese: '''メテノ''' ''Meteno'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Star Drop
+|jname=ほしおとし
+|jtrans=Star Fall
+|effect=This attack does 40 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Minior
+|species=Meteor
+|ndex=0774
+|height=1'
+|jheight=0.3
+|weight=0.7
+|jweight=0.3
+|dex=Places where Minior fall from the night sky are few and far between, with Alola being one of the precious few.
+|jdex=よぞらから　ふってくる　メテノと であえる　スポットは　かぎられていて アローラは　きちょうな　そのひとつ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=MiniorCelestialGuardians105.png
+|caption1=Uncommon card<br>Illus. [[Amelicart]]
+|image2=MiniorCelestialGuardians174.png
+|caption2=Illustration rare card<br>Illus. [[imoniii]]
+}}
+
+==Trivia==
+*This card's standard print features {{p|Minior}} in its {{form|Minior|Red Core Form}} and {{p|Komala}}.
+*This card's illustration rare print features all of Minior's forms except for the Violet Core Form. 
+===Origin===
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Meteno (Hüter des Firmaments 105)]]
+[[es:Minior (Guardianes Celestiales TCG Pocket)]]
+[[fr:Météno (Gardiens Astraux 105)]]
+[[it:Minior (Guardiani Astrali 105)]]
+[[ja:メテノ (ポケポケ A3)]]
+[[zh:小陨星（A3）]]

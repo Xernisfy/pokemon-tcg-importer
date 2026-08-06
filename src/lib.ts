@@ -1,3 +1,4 @@
+export const cacheRedirectMap = `.cache/redirects.json`;
 export const setsCachePath = ".cache/sets";
 export const cardsCachePath = ".cache/cards";
 export const setsExportPath = "out/sets";

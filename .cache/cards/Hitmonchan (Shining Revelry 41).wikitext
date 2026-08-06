@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hitmonchan
+|ja name=エビワラー
+|trans name=Ebiwalar
+|species=Hitmonchan
+|type=Fighting
+|image=HitmonchanShiningRevelry41.png
+|illustrator=Tomokazu Komiya
+|hp=90
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=041/072|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Hitmonchan''' (Japanese: '''エビワラー''' ''Ebiwalar'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}
+|name=Magnum Punch
+|jname=マグナムパンチ
+|jtrans=Magnum Punch
+|damage=90
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Hitmonchan
+|category=Punching 
+|ndex=0107
+|height=4'7"
+|jheight=1.4
+|weight=110.7
+|jweight=50.2
+|dex=Its punches slice the air. They are launched at such high speed, even a slight graze could cause a burn.
+|jdex=空気を　切り裂く　パンチ｡ かすっただけで　火傷に　なるほど パンチの　スピードは　速いのだ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Hitmonchan|74}} from the {{TCG|Team Up}} expansion; both cards have the Magnum Punch attack.
+*'''Magnum Punch''' is an attack that first appeared on {{TCG ID|Gym Heroes|Rocket's Hitmonchan|11}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Nockchan (Glänzendes Festival 041)]]
+[[es:Hitmonchan (Festival Brillante TCG Pocket)]]
+[[fr:Tygnon (Réjouissances Rayonnantes 041)]]
+[[it:Hitmonchan (Tripudio Splendente 41)]]
+[[ja:エビワラー (ポケポケ A2b)]]
+[[zh:快拳郎（A2b）]]

@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gible
+|ja name=フカマル 
+|trans name=Fukamaru
+|species=Gible
+|type=Dragon
+|image=GibleSpace-TimeSmackdown121.png
+|illustrator=Naoyo Kimura
+|hp=60
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=121/155|pack=Palkia|rarity=Diamond|rarity count=1}}
+}}
+
+'''Gible''' (Japanese: '''フカマル ''' ''Fukamaru'') is a {{ct|Dragon}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Colorless}}
+|name=Gnaw
+|jname=かじる
+|jtrans=Gnaw
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Gible
+|species=Land Shark
+|ndex=0443
+|height=2'4"
+|jheight=0.7
+|weight=45.2
+|jweight=20.5
+|dex=It skulks in caves, and when prey or an enemy passes by, it leaps out and chomps them. The force of its attack sometimes chips its teeth.
+|jdex=穴倉に 潜み 獲物や 敵が 横切ると 飛びだして 噛みつく。 勢い余り 歯が 欠けることも。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BREAKpoint|Gible|68}} from the {{TCG|BREAKpoint}} expansion.
+*'''Gnaw''' is an attack that first appeared on {{TCG ID|Base Set|Pikachu|58}} from the {{TCG|Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kaumalat (Kollision von Raum und Zeit 121)]]
+[[es:Gible (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Griknot (Choc Spatio-Temporel 121)]]
+[[it:Gible (Scontro Spaziotemporale 121)]]
+[[ja:フカマル (ポケポケ A2)]]
+[[zh:圆陆鲨（A2）]]

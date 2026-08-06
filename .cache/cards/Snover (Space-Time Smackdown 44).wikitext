@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Snover
+|ja name=ユキカブリ
+|trans name=Yukikaburi
+|species=Snover
+|type=Water
+|image=SnoverSpace-TimeSmackdown44.png
+|illustrator=match
+|hp=70
+|weakness=Metal
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=044/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Snover''' (Japanese: '''ユキカブリ''' ''Yukikaburi'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Ice Shard
+|jname=こおりのつぶて
+|jtrans=Ice Pebble
+|damage=10+
+|effect=If your opponent's Active Pokémon is a {{e|Fighting}} Pokémon, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Snover
+|species=Frost Tree
+|ndex=0459
+|height=3'3"
+|jheight=1.0
+|weight=111.3
+|jweight=50.5
+|dex=During cold seasons, it migrates to the mountain’s lower reaches. It returns to the snow-covered summit in the spring.
+|jdex=寒い 季節は 山の ふもとまで 降りてくるが 春に なると 雪が 残る 山頂に 戻っていく。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ultra Prism|Snover|37}} from the {{TCG|Ultra Prism}} expansion.
+**Both cards have the {{m|Ice Shard}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Snover}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Shnebedeck (Kollision von Raum und Zeit 044)]]
+[[es:Snover (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Blizzi (Choc Spatio-Temporel 044)]]
+[[it:Snover (Scontro Spaziotemporale 44)]]
+[[ja:ユキカブリ (ポケポケ A2)]]
+[[zh:雪笠怪（A2）]]

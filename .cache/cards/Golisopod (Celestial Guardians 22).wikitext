@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Golisopod
+|ja name=グソクムシャ
+|trans name=Gusokumusha
+|species=Golisopod
+|type=Grass
+|image=GolisopodCelestialGuardians22.png
+|illustrator=Kouki Saitou
+|hp=120
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Wimpod
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=022/155|pack=Solgaleo|rarity=Diamond|rarity count=3}}
+}}
+
+'''Golisopod''' (Japanese: '''グソクムシャ''' ''Gusokumusha'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Grass}}
+|name=First Impression
+|jname=であいがしら
+|jtrans=Head-on Collision
+|damage=60+
+|effect=If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Golisopod
+|species=Hard Scale
+|ndex=0768
+|height=6'7"
+|jheight=2.0
+|weight=238.1
+|jweight=108.0
+|dex=It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs.
+|jdex=勝つためには 手段を 問わない。 相手の 隙を ついて 前脚の 小さな ツメで とどめを 刺す。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Guardians Rising|Golisopod|9}} from the {{TCG|Guardians Rising}} expansion.
+*{{m|First Impression}} is a [[move]] in the [[Pokémon games]] that {{p|Golisopod}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tectass (Hüter des Firmaments 022)]]
+[[es:Golisopod (Guardianes Celestiales TCG Pocket)]]
+[[fr:Sarmuraï (Gardiens Astraux 022)]]
+[[it:Golisopod (Guardiani Astrali 22)]]
+[[ja:グソクムシャ (ポケポケ A3)]]
+[[zh:具甲武者（A3）]]

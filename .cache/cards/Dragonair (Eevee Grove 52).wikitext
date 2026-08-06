@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dragonair
+|ja name=ハクリュー
+|trans name=Hakuryu
+|species=Dragonair
+|type=Dragon
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DragonairEeveeGrove52.png|illustrator=sui|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DragonairDeluxePackex270.png|illustrator=sui|tab caption=Parallel}}
+|hp=90
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Dratini
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=052/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=269/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=270/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Dragonair''' (Japanese: '''ハクリュー''' ''Hakuryu'') is a {{ct|Dragon}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Water}}{{e|Lightning}}
+|name=Waterfall
+|jname=たきのぼり
+|jtrans=Waterfall
+|damage=60
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Dragonair
+|species=Dragon
+|ndex=0148
+|height=13'1"
+|jheight=4
+|weight=36.4
+|jweight=16.5
+|dex=They say that if it emits an aura from its whole body, the weather will begin to change instantly.
+|jdex=全身から　オーラが　出されると あたりの　天候が　みるみるうちに 変わっていく　という｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Dragon
+|image1=DragonairEeveeGrove52.png
+|caption1=Standard card<br>Illus. [[sui]]
+|image2=DragonairDeluxePackex270.png
+|caption2=Parallel foil card<br>Illus. [[sui]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Dragon Majesty|Dragonair|36}} from the {{TCG|Dragon Majesty}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dragonir (Evoli-Hain 052)]]
+[[es:Dragonair (Arboleda de Eevee TCG Pocket)]]
+[[fr:Draco (La Clairière d'Évoli 052)]]
+[[it:Dragonair (Il Bosco di Eevee 52)]]
+[[ja:ハクリュー (ポケポケ A3b)]]
+[[zh:哈克龙（A3b）]]

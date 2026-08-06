@@ -1,0 +1,47 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Beast Wall
+|ja name=ビーストウォール
+|trans name=Beast Wall
+|subtype=Item
+|image=BeastWallExtradimensionalCrisis63.png
+|illustrator=Toyste Beach
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=063/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Beast Wall''' (Japanese: '''ビーストウォール''' ''Beast Wall'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=You can use this card only if your opponent hasn't gotten any points.
+
+During your opponent's next turn, all of your {{TCGP|Ultra Beast}}s take –20 damage from attacks from your opponent's Pokémon.
+}}
+
+==Trivia==
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=ビーストウォール ''Beast Wall''
+|zh_yue=異獸防壁 ''Yihsau Fòhngbīk''
+|zh_cmn=異獸防壁 ''Yìshòu Fángbì''
+|fr=Barrière Chimère
+|de=Bestienwand
+|it=Ultramuro
+|ko=비스트월 ''Beast Wall''
+|pt_br=Muralha de Criatura
+|es=Muro Ente
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bestienwand (TCG Pocket)]]
+[[es:Muro Ente (TCG Pocket)]]
+[[fr:Barrière Chimère (Crise Interdimensionnelle 063)]]
+[[it:Ultramuro (Crisi Ultradimensionale 63)]]
+[[ja:ビーストウォール]]
+[[zh:异兽防壁（TCGP）]]

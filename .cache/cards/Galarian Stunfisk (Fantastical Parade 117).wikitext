@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Galarian Stunfisk
+|ja name=ガラルジグザグマ
+|trans name=Galarian Nyarth
+|species=Stunfisk
+|type=Metal
+|image=GalarianStunfiskFantasticalParade117.png
+|illustrator=HYOGONOSUKE
+|hp=80
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=117/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Galarian Stunfisk''' (Japanese: '''ガラルジグザグマ''' ''Galarian Nyarth'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Colorless}}
+|name=Snapping Trap
+|jname=トラップバサミ
+|jtrans=Trap Scissors
+|damage=40
+|effect=During your opponent's next turn, if this Pokémon is in the Active Spot when your opponent's Active Pokémon retreats, this attack does 40 damage to the new Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Stunfisk
+|category=Trap
+|ndex=0618
+|height=2'4"
+|jheight=0.7
+|weight=45.2
+|jweight=20.5
+|dex=Its conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, Stunfisk clamps its jagged steel fins down on them.
+|jdex=泥に 隠れて 目立つ 唇で 獲物を おびき寄せる。 ギザギザの 鋼の ヒレで がっちり 挟む。
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Galarian form]] of {{p|Stunfisk}}.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Galar-Flunschlik (Traumhafte Parade 117)]]
+[[fr:Limonde de Galar (Parade Onirique 117)]]
+[[it:Stunfisk di Galar (Parata Fantasmagorica 117)]]
+[[ja:ガラルマッギョ (ポケポケ B2)]]
+[[zh:伽勒尔 泥巴鱼（B2）]]

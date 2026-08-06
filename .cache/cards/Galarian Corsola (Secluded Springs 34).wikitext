@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Galarian Corsola
+|ja name=ガラルサニーゴ
+|trans name=Galarian Sunnygo
+|species=Corsola
+|type=Psychic
+|image=GalarianCorsolaSecludedSprings34.png
+|illustrator=Kouki Saitou
+|hp=60
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=034/071|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Galarian Corsola''' (Japanese: '''ガラルサニーゴ''' ''Galarian Sunnygo'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Corsola
+|category=Coral
+|ndex=0222
+|height=2'
+|jheight=0.6
+|weight=1.1
+|jweight=0.5
+|dex=Watch your step when wandering areas oceans once covered. What looks like a stone could be this Pokémon, and it will curse you if you kick it. 
+|jdex=大昔 海だった 場所に よく 転がっている。 石ころと 間違えて 蹴ると たたられる。
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Galarian form]] of {{p|Corsola}}.
+*This card's illustration was first featured on {{TCG ID|Fusion Strike|Galarian Corsola|117}} from the {{TCG|Fusion Strike}} expansion; both cards have the Tackle attack.
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that Galarian Corsola can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Galar-Corasonn (Verborgene Quelle 034)]]
+[[es:Corsola de Galar (Manantial Oculto TCG Pocket)]]
+[[fr:Corayon de Galar (Source Secrète 034)]]
+[[it:Corsola di Galar (Sorgenti Recondite 34)]]
+[[ja:ガラルサニーゴ (ポケポケ A4a)]]
+[[zh:伽勒尔 太阳珊瑚（A4a）]]

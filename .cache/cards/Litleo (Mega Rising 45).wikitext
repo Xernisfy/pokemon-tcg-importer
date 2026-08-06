@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Litleo
+|ja name=シシコ
+|trans name=Shishiko
+|species=Litleo
+|type=Fire
+|image=LitleoMegaRising45.png
+|illustrator=Misa Tsutsui
+|hp=60
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=045/226|pack=Mega Blaziken|rarity=Diamond|rarity count=1}}
+}}
+
+'''Litleo''' (Japanese: '''シシコ''' ''Shishiko'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Live Coal
+|jname=ひだね
+|jtrans=Live Coal
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Litleo
+|category=Lion Cub
+|ndex=0667
+|height=2'
+|jheight=0.6
+|weight=29.8
+|jweight=13.5
+|dex=The more a Litleo trains its body and spirit by battling mighty enemies, the hotter its mane will grow.
+|jdex=強敵と 戦い 体と 心が 鍛えられた シシコほど たてがみの 温度は 高くなる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Evolving Skies|Litleo|22}} from the {{TCG|Evolving Skies}} expansion; both cards have the Live Coal attack.
+*'''Live Coal''' is an attack that first appeared on {{TCG ID|Mysterious Treasures|Cyndaquil|79}} from the {{TCG|Mysterious Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Leufeo (Mega-Aufstieg 045)]]
+[[es:Litleo (Megaascenso TCG Pocket)]]
+[[fr:Hélionceau (Méga-Ascension 045)]]
+[[it:Litleo (Mega Ascesa 45)]]
+[[ja:シシコ (ポケポケ B1)]]
+[[zh:小狮狮（B1）]]

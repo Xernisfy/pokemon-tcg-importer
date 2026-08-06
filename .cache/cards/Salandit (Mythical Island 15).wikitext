@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Salandit
+|ja name=ヤトウモリ
+|trans name=Yatoumori
+|species=Salandit
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SalanditMythicalIsland15.png|illustrator=Naoki Saito|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SalanditMythicalIsland71.png|illustrator=Nurikabe|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=015/068|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=071/068|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Salandit''' (Japanese: '''ヤトウモリ''' ''Yatoumori'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Colorless}}
+|name=Venoshock
+|jname=ベノムショック
+|jtrans=Venom Shock
+|damage=10+
+|effect=If your opponent's Active Pokémon is {{TCG|Poisoned}}, this attack does 40 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Salandit
+|species=Toxic Lizard
+|ndex=0757
+|height=2'
+|jheight=0.6
+|weight=10.6
+|jweight=4.8
+|dex=It taunts its prey and lures them into narrow, rocky areas where it then sprays them with toxic gas to make them dizzy and take them down.
+|jdex=獲物を　挑発して　狭い 岩場に　誘い込み　フラフラになる 毒ガスを　吹きかけ　仕留めるのだ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=SalanditMythicalIsland15.png
+|caption1=Common card<br>Illus. [[Naoki Saito]]
+|image2=SalanditMythicalIsland71.png
+|caption2=Illustration rare card<br>Illus. [[Nurikabe]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|SM Promo|Salandit|154}}, one of the {{TCG|SM Black Star Promos}}.
+*{{m|Venoshock}} is a [[move]] in the [[Pokémon games]] that {{p|Salandit}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Molunk (Mysteriöse Insel 015)]]
+[[es:Salandit (La Isla Singular TCG Pocket)]]
+[[fr:Tritox (L'Île Fabuleuse 015)]]
+[[it:Salandit (L'Isola Misteriosa 15)]]
+[[ja:ヤトウモリ (ポケポケ A1a)]]
+[[zh:夜盗火蜥（A1a）]]

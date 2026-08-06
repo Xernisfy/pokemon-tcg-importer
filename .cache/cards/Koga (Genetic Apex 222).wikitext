@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Koga
+|ja name=キョウ
+|trans name=Kyou
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KogaGeneticApex222.png|illustrator=Souichirou Gunjima|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KogaGeneticApex269.png|illustrator=Souichirou Gunjima|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=222/226|pack=Mewtwo|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=269/226|pack=Mewtwo|rarity=Star|rarity count=2}}
+}}
+
+'''Koga''' (Japanese: '''キョウ''' ''Kyou'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Put your {{TCGP|Muk}} or {{TCGP|Weezing}} in the Active Spot into your hand.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=KogaGeneticApex222.png
+|caption1=Uncommon card<br>Illus. [[Souichirou Gunjima]]
+|image2=KogaGeneticApex269.png
+|caption2=Super rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+* {{TCG|Koga}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Koga]] is a [[Gym Leader]] in [[Kanto]]. The interior of the [[Fuchsia Gym]], as depicted in {{game|FireRed and LeafGreen|s}}, is featured in the regular print's illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=キョウ ''Kyou''
+|zh_yue=阿桔 ''Ā Git''
+|zh_cmn=阿桔 ''Ā Jié''
+|fr=Koga
+|de=Koga
+|it=Koga
+|ko=독수 ''Doksu''
+|pt_br=Koga
+|es=Koga
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Koga (TCG Pocket)]]
+[[es:Koga (TCG Pocket)]]
+[[fr:Koga (Puissance Génétique 222)]]
+[[it:Koga (Geni Supremi 222)]]
+[[ja:キョウ (ポケポケ)]]
+[[zh:阿桔（TCGP）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ariados
+|ja name=アリアドス
+|trans name=Ariados
+|species=Ariados
+|type=Darkness
+|image=AriadosWisdomofSeaandSky111.png
+|illustrator=Shinji Kanda
+|hp=80
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Spinarak
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=111/161|pack=Ho-Oh|rarity=Diamond|rarity count=2}}
+}}
+
+'''Ariados''' (Japanese: '''アリアドス''' ''Ariados'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Bind Down
+|jname=しばりつける
+|jtrans=Tie
+|damage=40
+|effect=During your opponent's next turn, the Defending Pokémon can't retreat.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Ariados
+|species=Long Leg
+|ndex=0168
+|height=3'7"
+|jheight=1.1
+|weight=73.9
+|jweight=33.5
+|dex=Every night, it wanders around in search of prey, whose movements it restrains by spewing threads before it bites into them with its fangs. 
+|jdex=夜ごと 獲物を 求めて さ迷う。 見つけた 獲物に 糸を 吐き 身動きを 封じて キバで かじる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Origin|Ariados|113}} from the {{TCG|Lost Origin}} expansion.
+*'''Bind Down''' is an attack that first appeared on {{TCG ID|Majestic Dawn|Leafeon|7}} from the {{TCG|Majestic Dawn}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ariados (Weisheit von Meer und Himmel 111)]]
+[[es:Ariados (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Migalos (Sagesse entre Ciel et Mer 111)]]
+[[it:Ariados (La Via del Cielo e del Mare 111)]]
+[[ja:アリアドス (ポケポケ A4)]]
+[[zh:阿利多斯（A4）]]

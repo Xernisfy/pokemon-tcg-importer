@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Fomantis
+|ja name=カリキリ
+|trans name=Karikiri
+|species=Fomantis
+|type=Grass
+|image=FomantisCelestialGuardians14.png
+|illustrator=Kagemaru Himeno
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=014/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Fomantis''' (Japanese: '''カリキリ''' ''Karikiri'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Leafage
+|jname=このは
+|jtrans=Foliage
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Fomantis
+|species=Larva
+|ndex=0736
+|height=1'4"
+|jheight=0.4
+|weight=9.7
+|jweight=4.4
+|dex=Fomantis hates having its naps interrupted. It fires off beams using energy it gathers by bathing in the sun.
+|jdex=昼寝の 邪魔を されるのが 大嫌い。 日光浴で 溜めた エネルギーで ビームを 撃ち出す。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Fomantis|14}} from the {{TCG|Sun & Moon}} expansion.
+*[[Leafage]] is a [[move]] in the [[Pokémon games]] that {{p|Fomantis}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Imantis (Hüter des Firmaments 014)]]
+[[es:Fomantis (Guardianes Celestiales TCG Pocket)]]
+[[fr:Mimantis (Gardiens Astraux 014)]]
+[[it:Fomantis (Guardiani Astrali 14)]]
+[[ja:カリキリ (ポケポケ A3)]]
+[[zh:伪螳草（A3）]]

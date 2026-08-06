@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tyrantrum
+|ja name=ガチゴラス
+|trans name=Gachigoras
+|species=Tyrantrum
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TyrantrumFantasticalParade90.png|illustrator=hatachu|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TyrantrumFantasticalParade171.png|illustrator=Yuriko Akase|tab caption=Illustration Rare}}
+|hp=150
+|weakness=Grass
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Tyrunt
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=090/155|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=171/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Tyrantrum''' (Japanese: '''ガチゴラス''' ''Gachigoras'') is a {{ct|Fighting}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}
+|name=Tyrannical Fang
+|jname=ティラノファング
+|jtrans=Tyranno-Fang
+|damage=100+
+|effect=If you have fewer Pokémon in play than your opponent, this attack does 80 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Tyrantrum
+|species=Despot
+|ndex=0697
+|height=8'2"
+|jheight=2.5
+|weight=595.2
+|jweight=270.0
+|dex=A single bite of Tyrantrum's massive jaws will demolish a car. This Pokémon was the king of the ancient world.
+|jdex=大顎は ひと噛みするだけで 自動車も 粉々にする。 古代の 世界の 王者。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=TyrantrumFantasticalParade90.png
+|caption1=Rare card<br>Illus. [[hatachu]]
+|image2=TyrantrumFantasticalParade171.png
+|caption2=Illustration rare card<br>Illus. [[Yuriko Akase]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Forbidden Light|Tyrantrum|69}} from the {{TCG|Forbidden Light}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Monargoras (Traumhafte Parade 090)]]
+[[fr:Rexillius (Parade Onirique 090)]]
+[[it:Tyrantrum (Parata Fantasmagorica 90)]]
+[[ja:ガチゴラス (ポケポケ B2)]]
+[[zh:怪颚龙（B2）]]

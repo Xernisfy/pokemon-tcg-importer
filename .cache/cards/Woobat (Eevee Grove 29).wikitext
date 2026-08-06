@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Woobat
+|ja name=コロモリ
+|trans name=Koromori
+|species=Woobat
+|type=Psychic
+|image=WoobatEeveeGrove29.png
+|illustrator=match
+|hp=60
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=029/069}}
+}}
+
+'''Woobat''' (Japanese: '''コロモリ''' ''Koromori'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Gust
+|jname=かぜおこし
+|jtrans=Stir Up Wind
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Woobat
+|category=Bat
+|ndex=0527
+|height=1'4"
+|jheight=0.4
+|weight=4.6
+|jweight=2.1
+|dex=While inside a cave, if you look up and see lots of heart-shaped marks lining the walls, it's evidence that Woobat live there.
+|jdex=洞窟を 見上げて 壁に ハート型の 跡が あれば コロモリが 棲んでいる 証拠。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BREAKthrough|Woobat|71}} from the {{TCG|BREAKthrough}} expansion.
+*{{m|Gust}} is a [[move]] in the [[Pokémon games]] that {{p|Woobat}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Fleknoil (Evoli-Hain 029)]]
+[[es:Woobat (Arboleda de Eevee TCG Pocket)]]
+[[fr:Chovsourir (La Clairière d'Évoli 029)]]
+[[it:Woobat (Il Bosco di Eevee 29)]]
+[[ja:コロモリ (ポケポケ A3b)]]
+[[zh:滚滚蝙蝠（A3b）]]

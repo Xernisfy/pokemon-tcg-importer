@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lugia
+|ja name=ルギア
+|trans name=Lugia
+|species=Lugia
+|type=Colorless
+|image=LugiaFantasticalParade131.png
+|illustrator=Anesaki Dynamic
+|hp=120
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=131/155|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Lugia''' (Japanese: '''ルギア''' ''Lugia'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Aeroblast
+|jname=エアロブラスト
+|jtrans=Aeroblast
+|damage=80+
+|effect=Flip 2 coins. This attack does 40 more damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Lugia
+|species=Diving
+|ndex=249
+|height=17'01"
+|jheight=5.2
+|weight=476.2
+|jweight=216.0
+|dex=It is said to be the guardian of the seas. It is rumored to have been seen on the night of a storm.
+|jdex=海の神様と 伝えられる ポケモン。 嵐の夜 姿を 見たという 話が 伝えられる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Lugia|131}} from the {{TCG|Team Up}} expansion.
+*{{m|Aeroblast}} is a [[move]] in the [[Pokémon games]] that {{p|Lugia}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lugia (Traumhafte Parade 131)]]
+[[fr:Lugia (Parade Onirique 131)]]
+[[it:Lugia (Parata Fantasmagorica 131)]]
+[[ja:ルギア (ポケポケ B2)]]
+[[zh:洛奇亚（B2）]]

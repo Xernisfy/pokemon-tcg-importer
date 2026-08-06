@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tauros
+|ja name=ケンタロス
+|trans name=Kentauros
+|species=Tauros
+|type=Colorless
+|image=TaurosGeneticApex204.png
+|illustrator=kodama
+|hp=100
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Charizard|rarity=Diamond|rarity count=2|number=204/226}}
+}}
+
+'''Tauros''' (Japanese: '''ケンタロス''' ''Kentauros'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Horn Attack
+|jname=つのでつく
+|jtrans=Horn Thrust
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Tauros
+|species=Wild Bull
+|ndex=0128
+|height=4'7"
+|jheight=1.4
+|weight=194.9
+|jweight=88.4
+|dex=When Tauros begins whipping itself with its tails, it's a warning that the Pokémon is about to charge with astounding speed.
+|jdex=しっぽで　自分の　体を 叩きだしたら　危険だぞ｡ 猛スピードで　突っ込んでくる｡
+}}
+
+==Trivia==
+This card is one of several featured in the {{TCGP|Genetic Apex}} expansion's "Safari Zone" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]], all of which can be found in the [[Kanto Safari Zone]] in Generations {{gen|I}} and {{gen|III}}.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Tauros|129}} from the {{TCG|Team Up}} expansion.
+*{{m|Horn Attack}} is a [[move]] in the [[Pokémon games]] that {{p|Tauros}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tauros (Unschlagbare Gene 204)]]
+[[es:Tauros (Genes Formidables TCG Pocket)]]
+[[fr:Tauros (Puissance Génétique 204)]]
+[[it:Tauros (Geni Supremi 204)]]
+[[ja:ケンタロス (ポケポケ A1)]]
+[[zh:肯泰罗（A1）]]

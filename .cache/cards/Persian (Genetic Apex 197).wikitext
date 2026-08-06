@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Persian
+|ja name=ペルシアン
+|trans name=Persian
+|species=Persian
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PersianGeneticApex197.png|illustrator=nagimiso|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PersianMegaRising313.png|illustrator=Taiga Kasai|tab caption=Shiny Rare}}
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Meowth
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=197/226|pack=Charizard|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=313/226|pack=Mega Altaria|rarity=Shiny|rarity count=1}}
+}}
+
+'''Persian''' (Japanese: '''ペルシアン''' ''Persian'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Shadow Claw
+|jname=シャドークロー
+|jtrans=Shadow Claw
+|damage=40
+|effect=Flip a coin. If heads, discard a random card from your opponent's hand.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Persian
+|species=Classy Cat
+|ndex=0053
+|height=3'3"
+|jheight=1
+|weight=70.5
+|jweight=32.0
+|dex=Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.
+|jdex=毛並みが　美しく ペットにしたがる　人も　多いが　すぐ ひっかいたり　するので　手強いぞ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=PersianGeneticApex197.png
+|caption1=Standard card<br>Illus. [[nagimiso]]
+|image2=PersianMegaRising313.png
+|caption2=Shiny rare card<br>Illus. [[Taiga Kasai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Unbroken Bonds|Persian|148}} from the {{TCG|Unbroken Bonds}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Persian}}.
+*{{m|Shadow Claw}} is a [[move]] in the [[Pokémon games]] that {{p|Persian}} can learn via [[TM]].
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Snobilikat (Unschlagbare Gene 197)]]
+[[es:Persian (Genes Formidables TCG Pocket)]]
+[[fr:Persian (Puissance Génétique 197)]]
+[[it:Persian (Geni Supremi 197)]]
+[[ja:ペルシアン (ポケポケ A1)]]
+[[zh:猫老大（A1）]]

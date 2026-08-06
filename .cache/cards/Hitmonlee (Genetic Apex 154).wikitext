@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hitmonlee
+|ja name=サワムラー
+|trans name=Sawamular
+|species=Hitmonlee
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HitmonleeGeneticApex154.png|illustrator=Yukiko Baba|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HitmonleeFantasticalParade218.png|illustrator=Shigenori Negishi|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=154/226|pack=Mewtwo|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Shiny|rarity count=1|number=218/155}}
+}}
+
+'''Hitmonlee''' (Japanese: '''サワムラー''' ''Sawamular'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Stretch Kick
+|jname=のびるキック
+|jtrans=Stretch Kick
+|damage=
+|effect=This attack does 30 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Hitmonlee
+|species=Kicking
+|ndex=0106
+|height=4'11"
+|jheight=1.5
+|weight=109.8
+|jweight=49.8
+|dex=This amazing Pokémon has an awesome sense of balance. It can kick in succession from any position.
+|jdex=見事な　バランス感覚｡ どんな　姿勢でも　連続で キックを　放てる　すごい　やつ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=HitmonleeGeneticApex154.png
+|caption1=Common card<br>Illus. [[Yukiko Baba]]
+|image3=HitmonleeFantasticalParade218.png
+|caption3=Shiny rare card<br>Illus. [[Shigenori Negishi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Neo Destiny|Hitmonlee|42}} from the {{TCG|Neo Destiny}} expansion.
+*'''Stretch Kick''' is an attack that first appeared on {{TCG ID|Fossil|Hitmonlee|7}} from the {{TCG|Fossil}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+*This card's {{TCGP|Fantastical Parade}} print features a {{Shiny}} {{p|Hitmonlee}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kicklee (Unschlagbare Gene 154)]]
+[[es:Hitmonlee (Genes Formidables TCG Pocket)]]
+[[fr:Kicklee (Puissance Génétique 154)]]
+[[it:Hitmonlee (Geni Supremi 154)]]
+[[ja:サワムラー (ポケポケ A1)]]
+[[zh:飞腿郎（A1）]]

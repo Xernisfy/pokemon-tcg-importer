@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Barboach
+|ja name=ドジョッチ
+|trans name=Dojoach
+|species=Barboach
+|type=Water
+|image=BarboachTriumphantLight16.png
+|illustrator=sui
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=016/075|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Barboach''' (Japanese: '''ドジョッチ''' ''Dojoach'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Mud-Slap
+|jname=どろかけ
+|jtrans=Mud Spray
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Barboach
+|species=Whiskers
+|ndex=0339
+|height=1'4"
+|jheight=0.4
+|weight=4.2
+|jweight=1.9
+|dex=Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its prey's location.
+|jdex=２本のヒゲは 敏感なレーダー。 泥で 濁った 水の 中でも 獲物の 位置を 察知するぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Guardians Rising|Barboach|70}} from the {{TCG|Guardians Rising}} expansion; both cards have the Mud-Slap attack.
+*{{m|Mud-Slap}} is a [[move]] in the [[Pokémon games]] that {{p|Barboach}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schmerbe (Licht des Triumphs 016)]]
+[[es:Barboach (Luz Triunfal TCG Pocket)]]
+[[fr:Barloche (Lumière Triomphale 016)]]
+[[it:Barboach (Luce Trionfale 16)]]
+[[ja:ドジョッチ (ポケポケ A2a)]]
+[[zh:泥泥鰍（A2a）]]

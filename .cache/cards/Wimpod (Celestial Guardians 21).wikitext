@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wimpod
+|ja name=コソクムシ
+|trans name=Kosokumushi
+|species=Wimpod
+|type=Grass
+|image=WimpodCelestialGuardians21.png
+|illustrator=Kagemaru Himeno
+|hp=70
+|weakness=Fire
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Solgaleo|rarity=Diamond|rarity count=1|number=021/155}}
+}}
+
+'''Wimpod''' (Japanese: '''コソクムシ''' ''Kosokumushi'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Ability/Pocket
+|type=Grass
+|name=Wimp Out
+|jname=にげごし
+|jtrans=Back Off
+|effect=During your first turn, this Pokémon has no {{TCG|Retreat Cost}}.
+}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}{{e|Colorless}}
+|name=Gnaw
+|jname=かじる
+|jtrans=Gnaw
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Wimpod
+|species=Turn Tail
+|ndex=0767
+|height=1'8"
+|jheight=0.5
+|weight=26.5
+|jweight=12.0
+|dex=It's nature's cleaner—it eats anything and everything, including garbage and rotten things. The ground near its nest is always clean.
+|jdex=腐ったものや ゴミでも なんでも 食べまわる 自然の 掃除屋。 巣の まわりは いつも きれい。
+}}
+
+==Trivia==
+===Origin===
+*This card is almost identical to {{TCG ID|Burning Shadows|Wimpod|16}} from the {{TCG|Burning Shadows}} expansion, except for the {{TCG|Weakness}} modifier; both cards have the same illustration.
+*{{a|Wimp Out}} is an [[Ability]] in the [[Pokémon games]] that {{p|Wimpod}} can have. 
+*'''Gnaw''' is an attack that first appeared on {{TCG ID|Base Set|Pikachu|58}} from the {{TCG|Base Set}}. 
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Reißlaus (Hüter des Firmaments 021)]]
+[[es:Wimpod (Guardianes Celestiales TCG Pocket)]]
+[[fr:Sovkipou (Gardiens Astraux 021)]]
+[[it:Wimpod (Guardiani Astrali 21)]]
+[[ja:コソクムシ (ポケポケ A3)]]
+[[zh:胆小虫（A3）]]

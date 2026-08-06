@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Darkrai
+|ja name=ダークライ
+|trans name=Darkrai
+|species=Darkrai
+|type=Darkness
+|image=DarkraiMegaShine40.png
+|illustrator=nagimiso
+|hp=100
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=040/069|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Darkrai''' (Japanese: '''ダークライ''' ''Darkrai'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Ability/Pocket
+|type=Darkness
+|name=Bad Dreams
+|jname=ナイトメア
+|jtrans=Nightmare
+|effect=At the end of each turn, if your opponent's Active Pokémon is {{TCG|Asleep}}, do 20 damage to that Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Dark Slumber
+|jname=くろいまどろみ
+|jtrans=Black Doze
+|damage=40
+|effect=Your opponent's Active Pokémon is now {{TCG|Asleep}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Darkrai
+|category=Pitch Black
+|ndex=0491
+|height=4'11"
+|jheight=1.5
+|weight=111.3
+|jweight=50.5
+|dex=It chases people and Pokémon from its territory by causing them to experience deep, nightmarish slumbers.
+|jdex=深い 眠りに 誘う 力で 人や ポケモンに 悪夢を 見せて 自分の 縄張りから 追い出す。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Darkrai|105}} from the {{TCG|Darkness Ablaze}} expansion.
+*{{a|Bad Dreams}} is an [[Ability]] in the [[Pokémon games]] that {{p|Darkrai}} can have.
+*'''Dark Slumber''' is an attack that first appeared on {{TCG ID|Majestic Dawn|Darkrai|3}} from the {{TCG|Majestic Dawn}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Darkrai (Mega-Schillern 040)]]
+[[fr:Darkrai (Méga-Rayonnement 040)]]
+[[it:Darkrai (Mega Splendore 40)]]
+[[ja:ダークライ (ポケポケ B2b)]]
+[[zh:达克莱伊（B2b）]]

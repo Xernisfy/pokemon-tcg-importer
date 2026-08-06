@@ -1,0 +1,64 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Pokédex
+|ja name=ポケモン図鑑
+|trans name=Pokémon Illustrated Encyclopedia
+|subtype=Item
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PokédexPromo-A4.png|illustrator=Ryo Ueda|tab caption=Promo (004/P-A)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PokédexPromo-A8.png|illustrator=Yuu Nishida|tab caption=Promo (008/P-A)}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=004/P-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=008/P-A}}
+}}
+
+'''Pokédex''' (Japanese: '''ポケモン図鑑''' ''Pokémon Illustrated Encyclopedia'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Look at the top 3 cards of your deck.
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} (004/P-A) print of this card was first made available to purchase from the in-game {{TCGP|shop}} on October 30, 2024 worldwide (September 26, 2024 in New Zealand) for 2 Shop Tickets each. One copy of this print is also awarded to players who complete the {{TCGP|Mission|mission}} "10: Retreat!" in the {{DL|Mission (TCG Pocket)|Battle Guide}}.
+
+The Promo-A (008/P-A) print of this card was released as an in-game gift to players between January 20, 2025 and April 30, 2025 in celebration of Pokémon Trading Card Pocket players collecting a total of 40 billion cards worldwide. Players who logged in to the game between these dates were given 30 days to redeem the card as a gift.
+
+===Gallery===
+{{TCGGallery
+|type=Item
+|image1=PokédexPromo-A4.png
+|caption1=Promo (004/P-A) card<br>Illus. [[Ryo Ueda]]
+|image2=PokédexPromo-A8.png
+|caption2=Promo (008/P-A) card<br>Illus. [[Yuu Nishida]]
+}}
+
+==Trivia==
+* This card's effect is similar to that of the {{TCG|Pokédex}} card in the [[Pokémon Trading Card Game]], but only allows the player to look at 3 cards instead of 5, and does not allow them to change the cards' order.
+
+===Origin===
+* A [[Pokédex]] is a tool for recording information about Pokémon species in the [[Pokémon games]]. This card's illustrations depict the HANDY909 model, seen in {{game|FireRed and LeafGreen|s}}.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=ポケモン図鑑 ''Pokémon Zukan''
+|zh_yue=寶可夢圖鑑 ''Pokémon Tòuhgaam''
+|zh_cmn=寶可夢圖鑑<!-- / 宝可梦图鉴--> ''Pokémon Tújiàn''
+|fr=Pokédex
+|de=Pokédex
+|it=Pokédex
+|ko=포켓몬 도감 ''Pokémon Dogam''
+|pt_br=Pokédex
+|es=Pokédex
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pokédex (TCG Pocket)]]
+[[es:Pokédex (TCG Pocket)]]
+[[fr:Pokédex (Promo-A 004)]]
+[[it:Pokédex (Promo-A 4)]]
+[[ja:ポケモン図鑑 (ポケポケ)]]
+[[zh:宝可梦图鉴（TCGP）]]

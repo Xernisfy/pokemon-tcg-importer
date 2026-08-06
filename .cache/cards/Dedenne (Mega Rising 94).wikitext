@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dedenne
+|ja name=デデンネ
+|trans name=Dedenne
+|species=Dedenne
+|type=Lightning
+|image=DedenneMegaRising94.png
+|illustrator=Yuka Morii
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=094/226|pack=Mega Altaria|rarity=Diamond|rarity count=1}}
+}}
+
+'''Dedenne''' (Japanese: '''デデンネ''' ''Dedenne'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Colorless}}
+|name=Electric Nibbling
+|jname=でんきをかじる
+|jtrans=Gnaw on Electricity
+|damage=20
+|effect=Discard a {{e|Lightning}} Energy from your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Dedenne
+|category=Antenna
+|ndex=0702
+|height=8"
+|jheight=0.2
+|weight=4.9
+|jweight=2.2
+|dex=Dedenne emit electrical waves from the whiskers on their cheeks to communicate with each other. When low on electricity, they curl up and sleep.
+|jdex=ほっぺの ヒゲから 電波を 飛ばし 仲間と 連絡を とりあう。 電気が 減ると 丸まり 眠る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Vivid Voltage|Dedenne|77}} from the {{TCG|Vivid Voltage}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dedenne (Mega-Aufstieg 094)]]
+[[es:Dedenne (Megaascenso TCG Pocket)]]
+[[fr:Dedenne (Méga-Ascension 094)]]
+[[it:Dedenne (Mega Ascesa 94)]]
+[[ja:デデンネ (ポケポケ B1)]]
+[[zh:咚咚鼠（B1）]]

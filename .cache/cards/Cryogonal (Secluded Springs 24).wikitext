@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cryogonal
+|ja name=フリージオ
+|trans name=Freegeo
+|species=Cryogonal
+|type=Water
+|image=CryogonalSecludedSprings24.png
+|illustrator=Masakazu Fukuda
+|hp=80
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=024/071|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Cryogonal''' (Japanese: '''フリージオ''' ''Freegeo'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Ice Blade
+|jname=こおりのやいば
+|jtrans=Blade of Ice
+|damage=
+|effect=This attack does 40 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Cryogonal
+|species=Crystallizing
+|ndex=0615
+|height=3'7"
+|jheight=1.1
+|weight=326.3
+|jweight=148.0
+|dex=Cryogonal appear during cold seasons. It is said that people and Pokémon who die on snowy mountains are reborn into these Pokémon. 
+|jdex=寒い 季節に 現れる。 雪山で 亡くなった ポケモンや 人の 生まれ変わりと 言われる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Noble Victories|Cryogonal|32}} from the {{TCG|Noble Victories}} expansion.
+*'''Ice Blade''' is an attack that first appeared on {{TCG ID|Diamond & Pearl|Empoleon|4}} from the {{TCG|Diamond & Pearl}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Frigometri (Verborgene Quelle 024)]]
+[[es:Cryogonal (Manantial Oculto TCG Pocket)]]
+[[fr:Hexagel (Source Secrète 024)]]
+[[it:Cryogonal (Sorgenti Recondite 24)]]
+[[ja:フリージオ (ポケポケ A4a)]]
+[[zh:几何雪花（A4a）]]

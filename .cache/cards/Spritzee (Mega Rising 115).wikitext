@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Spritzee
+|ja name=シュシュプ
+|trans name=Shushupu
+|species=Spritzee
+|type=Psychic
+|image=SpritzeeMegaRising115.png
+|illustrator=MAHOU
+|hp=60
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=115/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Spritzee''' (Japanese: '''シュシュプ''' ''Shushupu'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Fairy Wind
+|jname=ようせいのかぜ
+|jtrans=Fairy Wind
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Spritzee
+|category=Perfume
+|ndex=0682
+|height=8"
+|jheight=0.2
+|weight=1.1
+|jweight=0.5
+|dex=The scent its body gives off enraptures those who smell it. Noble ladies had no shortage of love for Spritzee.
+|jdex=人を 魅了する 香しい においを 体から 漂わせる。 高貴な 婦人たちに 愛された。
+}}
+
+==Trivia==
+This card is almost identical to {{TCG ID|Prismatic Evolutions|Spritzee|38}} from the [[Pokémon Trading Card Game]]'s {{TCG|Prismatic Evolutions}} expansion, except for the {{TCG|Weakness}} modifier.
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unbroken Bonds|Spritzee|141}} from the {{TCG|Unbroken Bonds}} expansion; both cards have the Fairy Wind attack.
+*{{m|Fairy Wind}} is a [[move]] in the [[Pokémon games]] that {{p|Spritzee}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Parfi (Mega-Aufstieg 115)]]
+[[es:Spritzee (Megaascenso TCG Pocket)]]
+[[fr:Fluvetin (Méga-Ascension 115)]]
+[[it:Spritzee (Mega Ascesa 115)]]
+[[ja:シュシュプ (ポケポケ B1)]]
+[[zh:粉香香（B1）]]

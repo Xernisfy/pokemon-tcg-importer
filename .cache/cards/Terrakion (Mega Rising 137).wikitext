@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Terrakion
+|ja name=テラキオン
+|trans name=Terrakion
+|species=Terrakion
+|type=Fighting
+|image=TerrakionMegaRising137.png
+|illustrator=Takeshi Nakamura
+|hp=120
+|weakness=Grass
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=137/226|pack=Mega Gyarados|rarity=Diamond|rarity count=3}}
+}}
+
+'''Terrakion''' (Japanese: '''テラキオン''' ''Terrakion'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Sacred Sword
+|jname=せいなるつるぎ
+|jtrans=Sacred Sword
+|damage=110
+|effect=During your next turn, this Pokémon can't use Sacred Sword.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Terrakion
+|category=Cavern
+|ndex=0639
+|height=6'3"
+|jheight=1.9
+|weight=573.2
+|jweight=260.0
+|dex=It has phenomenal power. It will mercilessly crush anyone or anything that bullies small Pokémon.
+|jdex=けた外れの パワーの 持ち主。 小さな ポケモンを いじめる 相手は とことん 叩きのめす。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Sacred Sword}} is a [[move]] in the [[Pokémon games]] that {{p|Terrakion}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Terrakium (Mega-Aufstieg 137)]]
+[[es:Terrakion (Megaascenso TCG Pocket)]]
+[[fr:Terrakium (Méga-Ascension 137)]]
+[[it:Terrakion (Mega Ascesa 137)]]
+[[ja:テラキオン (ポケポケ B1)]]
+[[zh:代拉基翁（B1）]]

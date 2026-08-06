@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Marill
+|ja name=マリル
+|trans name=Maril
+|species=Marill
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MarillWisdomofSeaandSky49.png|illustrator=Atsuko Nishida|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MarillPromo-A99.png|illustrator=Shibuzoh.|tab caption=Promo}}
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=049/161|pack=Ho-Oh|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=099/P-A}}
+
+}}
+
+'''Marill''' (Japanese: '''マリル''' ''Maril'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Colorless}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Marill
+|species=Aqua Mouse
+|ndex=0183
+|height=1'4"
+|jheight=0.4
+|weight=18.7
+|jweight=8.5
+|dex=The fur on its body naturally repels water. It can stay dry even when it plays in the water.
+|jdex=全身の 体毛は 水を 弾く 性質を 持ち 水浴び しても 乾いている。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available via special wonder picks during the Tyranitar [[Wonder Pick Event (Tyranitar)|Wonder Pick Event]], which ran from August 14 to 24, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=MarillWisdomofSeaandSky49.png
+|caption1=Common card<br>Illus. [[Atsuko Nishida]]
+|image2=MarillPromo-A99.png
+|caption2=Promo card<br>Illus. [[Shibuzoh]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Wisdom of Sea and Sky}} illustration was first featured on {{TCG ID|Everyone's Exciting Battle|Marill|11}} from the {{TCG|Everyone's Exciting Battle}} collection, which was only released in Japan.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Steam Siege|Marill|76}} from the {{TCG|Steam Siege}} expansion.
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Marill}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Marill (Weisheit von Meer und Himmel 049)]]
+[[es:Marill (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Marill (Sagesse entre Ciel et Mer 049)]]
+[[it:Marill (La Via del Cielo e del Mare 49)]]
+[[ja:マリル (ポケポケ A4)]]
+[[zh:玛力露（A4）]]

@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cacnea
+|ja name=サボネア
+|trans name=Sabonea
+|species=Cacnea
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CacneaFantasticalParade6.png|illustrator=Hajime Kusajima|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CacneaFantasticalParade156.png|illustrator=Mina Nakai|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=006/155|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=156/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Cacnea''' (Japanese: '''サボネア''' ''Sabonea'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Corkscrew Punch
+|jname=どつく
+|jtrans=Raging Strike
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Cacnea
+|species=Cactus
+|ndex=0331
+|height=1'04"
+|jheight=0.4
+|weight=113.1
+|jweight=51.3
+|dex=It lives in arid locations. Its yellow flowers bloom once a year.
+|jdex=雨が 少ない 乾燥した 地域に 生息。 １年に １回 黄色の 花を 咲かせる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=CacneaFantasticalParade6.png
+|caption1=Common card<br>Illus. [[Hajime Kusajima]]
+|image2=CacneaFantasticalParade156.png
+|caption2=Illustration rare card<br>Illus. [[Mina Nakai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|EX Power Keepers|Cacnea|46}} from the {{TCG|EX Power Keepers}} expansion.
+*'''Corkscrew Punch''' is an attack that first appeared on {{TCG ID|Vending|Machop|S2}} from {{TCG|Expansion Sheet 2}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tuska (Traumhafte Parade 006)]]
+[[fr:Cacnea (Parade Onirique 006)]]
+[[it:Cacnea (Parata Fantasmagorica 6)]]
+[[ja:サボネア (ポケポケ B2)]]
+[[zh:刺球仙人掌（B2）]]

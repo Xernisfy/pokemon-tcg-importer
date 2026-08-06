@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Type: Null
+|ja name=タイプ：ヌル
+|trans name=Type: Null
+|species=Type: Null
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TypeNullExtradimensionalCrisis60.png|illustrator=match|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TypeNullDeluxePackex301.png|illustrator=match|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TypeNullCrimsonBlaze96.png|illustrator=Taiga Kasai|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=060/069}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=300/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=301/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Shiny|rarity count=1|number=096/069}}
+}}
+
+'''Type: Null''' (Japanese: '''タイプ：ヌル''' ''Type: Null'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Quick Blow
+|jname=クイックアタック
+|jtrans=Quick Attack
+|damage=20+
+|effect=Flip a coin. If heads, this attack does 20 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Type: Null
+|species=Synthetic
+|ndex=0772
+|height=6'3"
+|jheight=1.9
+|weight=265.7
+|jweight=120.5
+|dex=A Pokémon weapon developed for a specific mission, it went berserk during an experiment, so it was cryogenically frozen.
+|jdex=ある任務の ために 開発された ポケモン兵器。 実験中に 暴走した ため 凍結された。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=TypeNullExtradimensionalCrisis60.png
+|caption1=Standard card<br>Illus. [[match]]
+|image2=TypeNullDeluxePackex301.png
+|caption2=Parallel card<br>Illus. [[match]]
+|image3=TypeNullCrimsonBlaze96.png
+|caption3=Shiny rare card<br>Illus. [[Taiga Kasai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ultra Prism|Type: Null|115}} from the {{TCG|Ultra Prism}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Type: Null}}.
+*'''Quick Blow''' is an attack that first appeared as '''Quick Attack''' on {{TCG ID|Gym Challenge|Sabrina's Abra|94}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Typ:Null (Dimensionale Krise 060)]]
+[[es:Código Cero (Crisis Dimensional TCG Pocket)]]
+[[fr:Type:0 (Crise Interdimensionnelle 060)]]
+[[it:Tipo Zero (Crisi Ultradimensionale 60)]]
+[[ja:タイプ:ヌル (ポケポケ A3a)]]
+[[zh:属性：空（A3a）]]

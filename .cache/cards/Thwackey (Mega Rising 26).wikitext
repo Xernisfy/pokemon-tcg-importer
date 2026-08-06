@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Thwackey
+|ja name=バチンキー
+|trans name=Bachinkey
+|species=Thwackey
+|type=Grass
+|image=ThwackeyMegaRising26.png
+|illustrator=Akira Komayama
+|hp=90
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Grookey
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=026/226|pack=Mega Altaria|rarity=Diamond|rarity count=2}}
+}}
+
+'''Thwackey''' (Japanese: '''バチンキー''' ''Bachinkey'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Hammer In
+|jname=ぶちかます
+|jtrans=Headfirst Strike
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Thwackey
+|category=Beat
+|ndex=0811
+|height=2'4"
+|jheight=0.7
+|weight=30.9
+|jweight=14.0
+|dex=When it's drumming out rapid beats in battle, it gets so caught up in the rhythm that it won't even notice that it's already knocked out its opponent.
+|jdex=激しい ビートを 刻むことに 夢中になる あまり 戦いで 相手が 気絶しても 気づかない。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sword & Shield|Thwackey|13}} from the {{TCG|Sword & Shield}} expansion.
+*'''Hammer In''' is an attack that first appeared on {{TCG ID|Mysterious Treasures|Larvitar|87}} from the {{TCG|Mysterious Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Chimstix (Mega-Aufstieg 026)]]
+[[es:Thwackey (Megaascenso TCG Pocket)]]
+[[fr:Badabouin (Méga-Ascension 026)]]
+[[it:Thwackey (Mega Ascesa 26)]]
+[[ja:バチンキー (ポケポケ B1)]]
+[[zh:啪咚猴（B1）]]

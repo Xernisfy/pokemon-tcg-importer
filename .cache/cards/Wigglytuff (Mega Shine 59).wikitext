@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wigglytuff
+|ja name=プクリン
+|trans name=Pukurin
+|species=Wigglytuff
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WigglytuffMegaShine59.png|illustrator=Asako Ito|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WigglytuffPromo-B48.png|illustrator=Mizue|tab caption=Promo}}
+|hp=110
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Jigglypuff
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=059/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=048/P-B}}
+}}
+
+'''Wigglytuff''' (Japanese: '''プクリン''' ''Pukurin'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Hammer In
+|jname=ぶちかます
+|jtrans=Headfirst Strike
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Wigglytuff
+|category=Balloon
+|ndex=0040
+|height=3'3"
+|jheight=1
+|weight=26.5
+|jweight=12.0
+|dex=The rich, fluffy fur that covers its body feels so good that anyone who feels it can’t stop touching it.
+|jdex=ふわふわの　体毛に　触ると 手触りが　とても　良いので 離れられなくなってしまう｡
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} card was available via special wonder picks during the Mega Kangaskhan [[Wonder Pick Event (Mega Kangaskhan)|Wonder Pick Event]], which ran from April 17 to 27, 2026. Players could also obtain one Promo Card Exchange Ticket during the event, which could be redeemed in the {{TCGP|shop}} for one of the event's two cards until May 4, 2026.
+
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=WigglytuffMegaShine59.png
+|caption1=Common card<br>Illus. [[Asako Ito]]
+|image2=WigglytuffPromo-B48.png
+|caption2=Promo card<br>Illus. [[Mizue]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Mega Shine}} illustration was first featured on {{TCG ID|Fusion Strike|Wigglytuff|111}} from the {{TCG|Fusion Strike}} expansion.
+*This card's {{TCGP|Promo-B}} illustration was first featured on {{TCG ID|XY|Wigglytuff|89}} from the {{TCG|XY}} expansion.
+*'''Hammer In''' is an attack that first appeared on {{TCG ID|Mysterious Treasures|Larvitar|87}} from the {{TCG|Mysterious Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knuddeluff (Mega-Schillern 059)]]
+[[fr:Grodoudou (Méga-Rayonnement 059)]]
+[[it:Wigglytuff (Mega Splendore 59)]]
+[[ja:プクリン (ポケポケ B2b)]]
+[[zh:胖可丁（B2b）]]

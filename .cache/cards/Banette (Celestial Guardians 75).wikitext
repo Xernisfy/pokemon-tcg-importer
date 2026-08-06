@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Banette
+|ja name=ジュペッタ
+|trans name=Jupetta
+|species=Banette
+|type=Psychic
+|image=BanetteCelestialGuardians75.png
+|illustrator=Aya Kusube
+|hp=90
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Shuppet
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=075/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Banette''' (Japanese: '''ジュペッタ''' ''Jupetta'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Night Bind
+|jname=ナイトバインド
+|jtrans=Night Bind
+|damage=30
+|effect=During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Banette
+|species=Marionette
+|ndex=0354
+|height=3'7"
+|jheight=1.1
+|weight=27.6
+|jweight=12.5
+|dex=This Pokémon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.
+|jdex=捨てられた ぬいぐるみに 怨念が 溜まって ポケモンになった。 薄暗い 路地裏で 見かける。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Roaring Skies|Banette|31}} from the {{TCG|Roaring Skies}} expansion.
+*'''Night Bind''' is an attack that first appeared on {{TCG ID|Stormfront|Duskull|SH2}} from the {{TCG|Stormfront}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Banette (Hüter des Firmaments 075)]]
+[[es:Banette (Guardianes Celestiales TCG Pocket)]]
+[[fr:Branette (Gardiens Astraux 075)]]
+[[it:Banette (Guardiani Astrali 75)]]
+[[ja:ジュペッタ (ポケポケ A3)]]
+[[zh:诅咒娃娃（A3）]]

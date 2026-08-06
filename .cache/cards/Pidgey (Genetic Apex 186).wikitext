@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pidgey
+|ja name=ポッポ
+|trans name=Poppo
+|species=Pidgey
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PidgeyGeneticApex186.png|illustrator=Scav|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PidgeyExtradimensionalCrisis95.png|illustrator=Misa Tsutsui|tab caption=Shiny Rare}}
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=186/226|pack=Mewtwo|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=095/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Pidgey''' (Japanese: '''ポッポ''' ''Poppo'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Gust
+|jname=かぜおこし
+|jtrans=Stir Up Wind
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Pidgey
+|species=Tiny Bird
+|ndex=0016
+|height=1'
+|jheight=0.3
+|weight=4
+|jweight=1.8
+|dex=A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.
+|jdex=森や　林に　多く　分布｡ 地上でも　激しく　はばたいて 砂を　かけたりする｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=PidgeyGeneticApex186.png
+|caption1=Common card<br>Illus. [[Scav]]
+|image2=PidgeyExtradimensionalCrisis95.png
+|caption2=Shiny rare card<br>Illus. [[Misa Tsutsui]]
+}}
+
+==Trivia==
+The standard print of this card is part of a narrative illustration with {{TCG ID|Genetic Apex|Pidgeotto|187}} and {{TCG ID|Genetic Apex|Pidgeot|188}} from the same set. In this illustration, one Pidgey can be seen perching on a tree branch while another Pidgey approaches. All three cards are illustrated by [[Scav]] and form the {{TCGP|Genetic Apex}} expansion's "Pidgey Squad" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]].
+
+===Origin===
+*This card's shiny rare print features a {{Shiny}} {{p|Pidgey}}.
+*{{m|Gust}} is a [[move]] in the [[Pokémon games]] that {{p|Pidgey}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Taubsi (Unschlagbare Gene 186)]]
+[[es:Pidgey (Genes Formidables TCG Pocket)]]
+[[fr:Roucool (Puissance Génétique 186)]]
+[[it:Pidgey (Geni Supremi 186)]]
+[[ja:ポッポ (ポケポケ A1)]]
+[[zh:波波（A1）]]

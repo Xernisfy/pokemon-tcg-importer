@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Grafaiai
+|ja name=タギングル
+|trans name=Taggingru
+|species=Grafaiai
+|type=Darkness
+|image=GrafaiaiPaldeanWonders70.png
+|illustrator=Souichirou Gunjima
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Shroodle
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=070/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Grafaiai''' (Japanese: '''タギングル''' ''Taggingru'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Colorless}}
+|name=Colorful Attack
+|jname=カラフルアタック
+|jtrans=Colorful Attack
+|damage=30+
+|effect=If your Pokémon in play have 3 or more different types of Energy attached, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Grafaiai
+|category=Toxic Monkey
+|ndex=0945
+|height=2'4"
+|jheight=0.7
+|weight=60
+|jweight=27.2
+|dex=Each Grafaiai paints its own individual pattern, and it will paint that same pattern over and over again throughout its life.
+|jdex=タギングルが 描く 模様は 個体によって 異なり 生涯 同じ 模様を 描き続ける。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Paldea Evolved|Grafaiai|146}} from the {{TCG|Paldea Evolved}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Affiti (Wundervolles Paldea 070)]]
+[[fr:Tag-Tag (Merveilles de Paldea 070)]]
+[[it:Grafaiai (Meraviglie di Paldea 70)]]
+[[ja:タギングル (ポケポケ B2a)]]
+[[zh:涂标客（B2a）]]

@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Druddigon
+|ja name=クリムガン 
+|trans name=Crimgan
+|species=Druddigon
+|type=Dragon
+|image=DruddigonMythicalIsland56.png
+|illustrator=Ryota Murayama
+|hp=100
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=056/068|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Druddigon''' (Japanese: '''クリムガン ''' ''Crimgan'') is a {{ct|Dragon}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Ability/Pocket
+|type=Dragon
+|name=Rough Skin
+|jname=さめはだ
+|jtrans=Rough Skin
+|effect=If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Fire}}{{e|Water}}{{e|Colorless}}
+|name=Dragon Claw
+|jname=ドラゴンクロー
+|jtrans=Dragon Claw
+|damage=90
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Druddigon
+|species=Cave
+|ndex=0621
+|height=5'3"
+|jheight=1.6
+|weight=306.4
+|jweight=139.0
+|dex=Druddigon lives in caves, but it never skips sunbathing—it won’t be able to move if its body gets too cold.
+|jdex=あなぐらに　棲む｡　体が　冷えると　動けなくなるので　日光浴は　欠かさない｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Flashfire|Druddigon|70}} from the {{TCG|Flashfire}} expansion.
+**Both cards have the {{m|Dragon Claw}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Druddigon}} can learn.
+*{{a|Rough Skin}} is an [[Ability]] in the [[Pokémon games]] that {{p|Druddigon}} can have.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Shardrago (Mysteriöse Insel 056)]]
+[[es:Druddigon (La Isla Singular TCG Pocket)]]
+[[fr:Drakkarmin (L'Île Fabuleuse 056)]]
+[[it:Druddigon (L'Isola Misteriosa 56)]]
+[[ja:クリムガン (ポケポケ A1a)]]
+[[zh:赤面龙（A1a）]]

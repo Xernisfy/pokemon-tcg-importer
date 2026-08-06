@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lotad
+|ja name=ハスボー
+|trans name=Hassboh
+|species=Lotad
+|type=Water
+|image=LotadMegaRising53.png
+|illustrator=Atsuko Nishida
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Altaria|rarity=Diamond|rarity count=1|number=053/226}}
+}}
+
+'''Lotad''' (Japanese: '''ハスボー''' ''Hassboh'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Water Gun
+|jname=みずでっぽう
+|jtrans=Water Gun
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Lotad
+|species=Water Weed
+|ndex=0270
+|height=1'8"
+|jheight=0.5
+|weight=5.7
+|jweight=2.6
+|dex=Its leaf grew too large for it to live on land. That is how it began to live floating in the water.
+|jdex=葉っぱが 大きく なりすぎて 重くなって しまったため 水に 浮かんで 暮らすように なった。
+}}
+
+==Trivia==
+This card is almost identical to {{TCG ID|Journey Together|Lotad|35}} from the [[Pokémon Trading Card Game]]'s {{TCG|Journey Together}} expansion, except for the {{TCG|Weakness}} modifier.
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Deoxys|Lotad|35}} from the {{TCG|EX Deoxys}} expansion.
+*{{m|Water Gun}} is a [[move]] in the [[Pokémon games]] that {{p|Lotad}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Loturzel (Mega-Aufstieg 053)]]
+[[es:Lotad (Megaascenso TCG Pocket)]]
+[[fr:Nénupiot (Méga-Ascension 053)]]
+[[it:Lotad (Mega Ascesa 53)]]
+[[ja:ハスボー (ポケポケ B1)]]
+[[zh:莲叶童子（B1）]]

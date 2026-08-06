@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tangela
+|ja name=モンジャラ
+|trans name=Monjara
+|species=Tangela
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TangelaWisdomofSeaandSky4.png|illustrator=OOYAMA|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TangelaFantasticalParade205.png|illustrator=Taiga Kasai|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Ho-Oh|rarity=Diamond|rarity count=1|number=004/161}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Shiny|rarity count=1|number=205/155}}
+}}
+
+'''Tangela''' (Japanese: '''モンジャラ''' ''Monjara'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Sleep Powder
+|jname=ねむりごな
+|jtrans=Sleep Powder
+|damage=20
+|effect=Your opponent's Active Pokémon is now {{TCG|Asleep}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Tangela
+|species=Vine
+|ndex=0114
+|height=3'3"
+|jheight=1.0
+|weight=77.2
+|jweight=35.0
+|dex=Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon's true appearance remains a mystery.
+|jdex=ちぎれても　無限に　伸びる ツルの　奥の　正体は いまだ　解明されていない｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=TangelaWisdomofSeaandSky4.png
+|caption1=Common card<br>Illus. [[OOYAMA]]
+|image3=TangelaFantasticalParade205.png
+|caption3=Shiny rare card<br>Illus. [[Taiga Kasai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Steam Siege|Tangela|1}} from the {{TCG|Steam Siege}} expansion.
+*{{m|Sleep Powder}} is a [[move]] in the [[Pokémon games]] that {{p|Tangela}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+*This card's {{TCGP|Fantastical Parade}} print features a {{Shiny}} {{p|Tangela}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tangela (Weisheit von Meer und Himmel 004)]]
+[[es:Tangela (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Saquedeneu (Sagesse entre Ciel et Mer 004)]]
+[[it:Tangela (La Via del Cielo e del Mare 4)]]
+[[ja:モンジャラ (ポケポケ A4)]]
+[[zh:蔓藤怪（A4）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Garbodor
+|ja name=ダストダス
+|trans name=Dustdas
+|species=Garbodor
+|type=Darkness
+|image=GarbodorCrimsonBlaze50.png
+|illustrator=Aya Kusube
+|hp=130
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Trubbish
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=050/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Garbodor''' (Japanese: '''ダストダス''' ''Dustdas'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Colorless}}
+|name=Acid Spray
+|jname=アシッドボム
+|jtrans=Acid Bomb
+|damage=70
+|effect=Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Garbodor
+|species=Trash Heap
+|ndex=0569
+|height=6'3"
+|jheight=1.9
+|weight=236.6
+|jweight=107.3
+|dex=This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.
+|jdex=食った　ゴミが　体内で　毒に　変化する。　食う　ゴミ　しだいで　毒の　主成分も　変わる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Paradox Rift|Garbodor|117}} from the {{TCG|Paradox Rift}} expansion.
+*{{m|Acid Spray}} is a [[move]] in the [[Pokémon games]] that {{p|Garbodor}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Deponitox (Feuerrote Flammen 050)]]
+[[fr:Miasmax (Embrasement Écarlate 050)]]
+[[it:Garbodor (Fiamme Cremisi 50)]]
+[[ja:ダストダス (ポケポケ B1a)]]
+[[zh:灰尘山（B1a）]]

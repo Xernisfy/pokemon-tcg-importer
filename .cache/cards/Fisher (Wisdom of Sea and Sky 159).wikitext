@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Fisher
+|ja name=釣り人
+|trans name=Fisherman
+|subtype=Supporter
+|image=FisherWisdomofSeaandSky.png
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FisherWisdomofSeaandSky159.png|illustrator=Sanosuke Sakuma|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FisherWisdomofSeaandSky199.png|illustrator=Sanosuke Sakuma|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=159/161|pack=Lugia|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=199/161|pack=Lugia|rarity=Star|rarity count=2}}
+}}
+
+'''Fisher''' (Japanese: '''釣り人''' ''Fisherman'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Flip 3 coins. For each heads, a {{e|Water}} Pokémon is chosen at random from your discard pile and put into your hand.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=FisherWisdomofSeaandSky159.png
+|caption1=Uncommon card<br>Illus. [[Sanosuke Sakuma]]
+|image2=FisherWisdomofSeaandSky199.png
+|caption2=Super rare card<br>Illus. [[Sanosuke Sakuma]]
+}}
+
+==Trivia==
+* {{TCG|Fisherman}} is also a card in the [[Pokémon Trading Card Game]], but has a different effect.
+** That card uses the English name "Fisherman" as the Trainer Class was known as prior to [[Generation VIII]], but shares the Japanese name 釣り人  ''Tsuribito''.
+
+===Origin===
+The {{tc|Fisher}} Trainer class is a type of [[Pokémon Trainer]] in the [[Pokémon games]]. This card's artwork features the Fisher's appearance from the [[Generation IV]] games.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=釣り人 ''Tsuribito''
+|zh_yue=釣魚者 ''Diuyùhjé''
+|zh_cmn=釣魚者 ''Diàoyúzhě''
+|fr=Pêcheur
+|de=Angler
+|it=Pescatore
+|ko=낚시꾼 ''Naksikkun''
+|pt_br=Pescador
+|es=Pescador
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Angler (TCG Pocket)]]
+[[es:Pescador (TCG Pocket)]]
+[[fr:Pêcheur (Sagesse entre Ciel et Mer 159)]]
+[[it:Pescatore (La Via del Cielo e del Mare 159)]]
+[[ja:釣り人 (ポケポケ)]]
+[[zh:釣魚者（TCGP）]]

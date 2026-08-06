@@ -1,0 +1,45 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Peculiar Plaza
+|ja name=ふしぎな広場
+|trans name=Mysterious Plaza
+|subtype=Stadium
+|image=PeculiarPlazaFantasticalParade155.png
+|illustrator=AYUMI ODASHIMA
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=155/155}}
+}}
+
+'''Peculiar Plaza''' (Japanese: '''ふしぎな広場''' ''Mysterious Plaza'') is a {{TCGP|Stadium card}} in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Stadium
+|rule=SV Stadium
+|effect=The Retreat Cost of each {{e|Psychic}} Pokémon in play ''(both yours and your opponent's)'' is 2 less.
+}}
+
+==Trivia==
+*This card's effect is the same as that of the {{TCG|Phoebe's Stadium}} card in the [[Pokémon Trading Card Game]].
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Stadium color}}|bordercolor={{TCG Stadium color dark}}
+|ja=ふしぎな広場 ''Fushigi na Hiroba''
+|zh_yue=神奇廣場 ''Sàhnkèih Gwóngchèuhng''
+|zh_cmn=神奇廣場 ''Shénqí Guǎngchǎng''
+|fr=Place Étrange
+|de=Geheimnisvoller Platz
+|it=Piazza Arcana
+|ko=이상한 광장 ''Isanghan Gwangjang''
+|pt_br=Praça Peculiar
+|es=Plaza Peculiar
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Geheimnisvoller Platz (TCG Pocket)]]
+[[fr:Place Étrange (Parade Onirique 155)]]
+[[it:Piazza Arcana (Parata Fantasmagorica 155)]]
+[[ja:ふしぎな広場]]
+[[zh:神奇广场（TCGP）]]

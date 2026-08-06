@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Brambleghast
+|ja name=アノホラグサ
+|trans name=Anohoragusa
+|species=Brambleghast
+|type=Grass
+|image=BrambleghastPaldeanWonders11.png
+|illustrator=KEIICHIRO ITO
+|hp=100
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Bramblin
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=011/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Brambleghast''' (Japanese: '''アノホラグサ''' ''Anohoragusa'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Continuous Tumble
+|jname=れんぞくころがり
+|jtrans=Consecutive Tumble
+|damage=60×
+|effect=Flip a coin until you get tails. This attack does 60 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Brambleghast
+|category=Tumbleweed
+|ndex=0947
+|height=3'11"
+|jheight=1.2
+|weight=13.2
+|jweight=6.0
+|dex=Brambleghast wanders around arid regions. On rare occasions, mass outbreaks of these Pokémon will bury an entire town.
+|jdex=乾燥地帯を 放浪する。 ごくまれに 大量発生して 町ひとつを 埋めつくしてしまう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Paldea Evolved|Brambleghast|24}} from the {{TCG|Paldea Evolved}} expansion.
+*'''Continuous Tumble''' is an attack that first appeared on {{TCG ID|Aquapolis|Miltank|94}} from the {{TCG|Aquapolis}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Horrerba (Wundervolles Paldea 011)]]
+[[fr:Virevorreur (Merveilles de Paldea 011)]]
+[[it:Brambleghast (Meraviglie di Paldea 11)]]
+[[ja:アノホラグサ (ポケポケ B2a)]]
+[[zh:怖纳噬草（B2a）]]

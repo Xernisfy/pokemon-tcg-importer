@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Pokémon Center Lady
+|ja name=ポケモンセンターのお姉さん
+|trans name=Pokémon Center Lady
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PokémonCenterLadyShiningRevelry70.png|illustrator=Susumu Maeya|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PokémonCenterLadyShiningRevelry89.png|illustrator=Susumu Maeya|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=070/072|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=089/072|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Pokémon Center Lady''' (Japanese: '''ポケモンセンターのお姉さん''' ''Pokémon Center Lady'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Heal 30 damage from 1 of your Pokémon, and it recovers from all {{TCG|Special Condition}}s.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=PokémonCenterLadyShiningRevelry70.png
+|caption1=Uncommon card<br>Illus. [[Susumu Maeya]]
+|image2=PokémonCenterLadyShiningRevelry89.png
+|caption2=Super rare card<br>Illus. [[Susumu Maeya]]
+}}
+
+==Trivia==
+* {{TCGP|Potion}} and {{TCGP|Big Malasada}} have less potent versions of this card's effect, but as {{TCGP|Item card}}s instead of {{TCGP|Supporter card}}s.
+* This card's effect is similar to the {{TCG|Pokémon Center Lady}} card in the [[Pokémon Trading Card Game]], but this card heals 30 damage instead of 60.
+
+===Origin===
+*[[Pokémon Center lady|Pokémon Center ladies]] are characters that attend [[Pokémon Center]]s in every [[core series]] game, who restore the player's Pokémon to full health.
+*Both prints of this card feature the Pokémon Center lady inside a Pokémon Center, both as depicted in {{g|Brilliant Diamond and Shining Pearl}}.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=ポケモンセンターのお姉さん ''Pokémon Center no Onee-san''
+|zh_yue=寶可夢中心的姐姐 ''Pokémon Jūngsām dīk Jèhjèh''
+|zh_cmn=寶可夢中心的姐姐<!-- / 宝可梦中心的姐姐--> ''Pokémon Zhōngxīn de Jiějiě''
+|fr=Dame du Centre Pokémon
+|de=Pokémon-Center-Dame
+|it=Addetta del Centro Pokémon
+|ko=포켓몬센터 직원 ''Pokémon Center Jigwon''
+|pt_br=Dama do Centro Pokémon
+|es=Chica del Centro Pokémon
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pokémon-Center-Dame (TCG Pocket)]]
+[[es:Chica del Centro Pokémon (TCG Pocket)]]
+[[fr:Dame du Centre Pokémon (Réjouissances Rayonnantes 070)]]
+[[it:Addetta del Centro Pokémon (Tripudio Splendente 70)]]
+[[ja:ポケモンセンターのお姉さん (ポケポケ)]]
+[[zh:寶可夢中心的姐姐（TCGP）]]

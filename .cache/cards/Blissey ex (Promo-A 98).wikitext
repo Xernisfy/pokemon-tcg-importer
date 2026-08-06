@@ -1,0 +1,53 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Blissey {{TCGP Icon|ex}}
+|ja name=ハピナス{{TCGP Icon|ex}}
+|trans name=Happinas {{TCGP Icon|ex}}
+|species=Blissey
+|type=Colorless
+|image=BlisseyexPromo-A98.png
+|illustrator=PLANETA CG Works
+|hp=180
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Chansey
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=098/P-A|pack=Vol. 11}}
+}}
+
+'''Blissey ex''' (Japanese: '''ハピナス ex''' ''Happinas ex'') is a {{ct|Colorless}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Happy Punch
+|jname=しあわせパンチ
+|jtrans=Happy Punch
+|damage=100
+|effect=Flip a coin. If heads, heal 60 damage from this Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Colorless
+|ndex=0242
+|name=Blissey
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 11 packs; these were made available as part of the [[Blissey ex Drop Event]], which ran from August 6 to 16, 2025.
+
+==Trivia==
+===Origin===
+*'''Happy Punch''' is an attack that first appeared on {{TCG ID|HeartGold & SoulSilver|Chansey|58}} from the {{TCG|HeartGold & SoulSilver}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Heiteira-ex (PROMO-A 098)]]
+[[es:Blissey ex (Promo-A 98 TCG Pocket)]]
+[[fr:Leuphorie-ex (Promo-A 098)]]
+[[it:Blissey-ex (Promo-A 98)]]
+[[ja:ハピナスex (ポケポケ P-A)]]
+[[zh:幸福蛋ex（P-A）]]

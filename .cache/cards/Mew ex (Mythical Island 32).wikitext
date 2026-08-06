@@ -1,0 +1,91 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mew {{TCGP Icon|ex}}
+|ja name=ミュウ{{TCGP Icon|ex}}
+|trans name=Mew {{TCGP Icon|ex}}
+|species=Mew
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MewexMythicalIsland32.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MewexMythicalIsland77.png|illustrator=PLANETA CG Works|tab caption=Super Rare (A1a)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MewexDeluxePackex366.png|illustrator=5ban Graphics|tab caption=Super Rare (A4b)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MewexMythicalIsland83.png|illustrator=HYOGONOSUKE|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MewexSecludedSprings102.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MewexMythicalIsland86.png|illustrator=PLANETA CG Works|tab caption=Ultra Rare}}
+|hp=130
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=032/068|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=077/068|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=083/068|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=086/068|pack=Any|rarity=Crown|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=102/071|pack=Any|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=159/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=366/353|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Mew ex''' (Japanese: '''ミュウex''' ''Mew ex'') is a {{ct|Psychic}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Psyshot
+|jname=サイコショット
+|jtrans=Psychoshot
+|damage=20
+|effect=
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Genome Hacking
+|jname=ゲノムハック
+|jtrans=Genome Hack
+|damage=
+|effect=Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack.
+}}
+{{Cardtext/Pocket ex
+|type=Psychic
+|ndex=0151
+|name=Mew
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=MewexMythicalIsland32.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=MewexMythicalIsland77.png
+|caption2=Super rare card<br>({{TCGP|Mythical Island}})<br>Illus. [[PLANETA CG Works]]
+|image3=MewexMythicalIsland83.png
+|caption3=Special illustration rare card<br>Illus. [[HYOGONOSUKE]]
+|image4=MewexMythicalIsland86.png
+|caption4=Ultra rare card<br>Illus. [[PLANETA CG Works]]
+|image5=MewexSecludedSprings102.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+|image6=MewexDeluxePackex366.png
+|caption6=Super rare card<br>({{TCGP|Deluxe Pack: ex}})<br>Illus. [[5ban Graphics]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare print features a {{Shiny}} {{p|Mew}}.
+*'''Psyshot''' is an attack that first appeared on {{TCG ID|Gym Challenge|Sabrina's Kadabra|58}} from the {{TCG|Gym Challenge}} expansion.
+*'''Genome Hacking''' is an attack that first appeared on {{TCG ID|151|Mew ex|151}} from the {{TCG|151}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mew-ex (Mysteriöse Insel 032)]]
+[[es:Mew ex (La Isla Singular TCG Pocket)]]
+[[fr:Mew-ex (L'Île Fabuleuse 032)]]
+[[it:Mew-ex (L'Isola Misteriosa 32)]]
+[[ja:ミュウex (ポケポケ A1a)]]
+[[zh:梦幻ex（A1a）]]

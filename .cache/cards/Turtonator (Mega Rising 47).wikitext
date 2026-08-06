@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Turtonator
+|ja name=バクガメス
+|trans name=Bakugames
+|species=Turtonator
+|type=Fire
+|image=TurtonatorMegaRising47.png
+|illustrator=KEIICHIRO ITO
+|hp=110
+|weakness=Water
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=047/226|pack=Mega Gyarados|rarity=Diamond|rarity count=2}}
+}}
+
+'''Turtonator''' (Japanese: '''バクガメス''' ''Bakugames'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Shell Trap
+|jname=トラップシェル
+|jtrans=Trap Shell
+|damage=40
+|effect=During your opponent's next turn, if this Pokémon is damaged by an attack, do 20 damage to the Attacking Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Turtonator
+|category=Blast Turtle
+|ndex=0776
+|height=6'7"
+|jheight=2.0
+|weight=467.4
+|jweight=212.0
+|dex=Eating sulfur in its volcanic habitat is what causes explosive compounds to develop in its shell. Its droppings are also dangerously explosive.
+|jdex=火山で 暮らし 食べた 硫黄が 甲羅の 爆薬の もとになる。 フンも 爆発する 危険物。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sword & Shield|Turtonator|29}} from the {{TCG|Sword & Shield}} expansion.
+*{{m|Shell Trap}} is a [[move]] in the [[Pokémon games]] that {{p|Turtonator}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tortunator (Mega-Aufstieg 047)]]
+[[es:Turtonator (Megaascenso TCG Pocket)]]
+[[fr:Boumata (Méga-Ascension 047)]]
+[[it:Turtonator (Mega Ascesa 47)]]
+[[ja:バクガメス (ポケポケ B1)]]
+[[zh:爆焰龟兽（B1）]]

@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Excadrill
+|ja name=ドリュウズ
+|trans name=Doryuzu
+|species=Excadrill
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ExcadrillCelestialGuardians119.png|illustrator=SATOSHI NAKAI|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ExcadrillDeluxePackex256.png|illustrator=SATOSHI NAKAI|tab caption=Parallel}}
+|hp=110
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Drilbur
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=119/155|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=255/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=256/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Excadrill''' (Japanese: '''ドリュウズ''' ''Doryuzu'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}
+|name=Slash
+|jname=きりさく
+|jtrans=Slash
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Excadrill
+|species=Subterrene
+|ndex=0530
+|height=2'4"
+|jheight=0.7
+|weight=89.1
+|jweight=40.4
+|dex=It's not uncommon for tunnels that appear to have formed naturally to actually be a result of Excadrill's rampant digging.
+|jdex=自然の 洞窟に 見えても ドリュウズが 掘り荒らした 跡と いうことも よくある 話だ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=ExcadrillCelestialGuardians119.png
+|caption1=Standard card<br>Illus. [[SATOSHI NAKAI]]
+|image2=ExcadrillDeluxePackex256.png
+|caption2=Parallel foil card<br>Illus. [[SATOSHI NAKAI]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Excadrill|115}} from the {{TCG|Cosmic Eclipse}} expansion.
+*{{m|Slash}} is a [[move]] in the [[Pokémon games]] that {{p|Excadrill}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Stalobor (Hüter des Firmaments 119)]]
+[[es:Excadrill (Guardianes Celestiales TCG Pocket)]]
+[[fr:Minotaupe (Gardiens Astraux 119)]]
+[[it:Excadrill (Guardiani Astrali 119)]]
+[[ja:ドリュウズ (ポケポケ A3)]]
+[[zh:龙头地鼠（A3）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hitmontop
+|ja name=カポエラー
+|trans name=Kapoerer
+|species=Hitmontop
+|type=Fighting
+|image=HitmontopSpace-TimeSmackdown85.png
+|illustrator=sowsow
+|hp=80
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=085/155|pack=Dialga|rarity=Diamond|rarity count=1}}
+}}
+
+'''Hitmontop''' (Japanese: '''カポエラー''' ''Kapoerer'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Spinning Attack
+|jname=かいてんアタック
+|jtrans=Spinning Attack
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Hitmontop
+|species=Handstand
+|ndex=0237
+|height=4'7"
+|jheight=1.4
+|weight=105.8
+|jweight=48.0
+|dex=It launches kicks while spinning. If it spins at high speed, it may bore its way into the ground.
+|jdex=くるくる 回って キックをはなつ。 高速で 回っていると そのまま 地面に 潜っていく。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Hitmontop|113}} from the {{TCG|Lost Thunder}} expansion.
+*'''Spinning Attack''' is an attack that first appeared on {{TCG ID|Vending|Staryu|S3}} from {{TCG|Expansion Sheet 3}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kapoera (Kollision von Raum und Zeit 085)]]
+[[es:Hitmontop (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Kapoera (Choc Spatio-Temporel 085)]]
+[[it:Hitmontop (Scontro Spaziotemporale 85)]]
+[[ja:カポエラー (ポケポケ A2)]]
+[[zh:战舞郎（A2）]]

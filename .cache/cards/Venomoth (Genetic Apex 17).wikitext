@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Venomoth
+|ja name=モルフォン
+|trans name=Morphon
+|species=Venomoth
+|type=Grass
+|image=VenomothGeneticApex17.png
+|illustrator=Mina Nakai
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Venonat
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mewtwo|rarity=Diamond|rarity count=2|number=017/226}}
+}}
+
+'''Venomoth''' (Japanese: '''モルフォン''' ''Morphon'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Poison Powder
+|jname=どくのこな
+|jtrans=Poison Powder
+|damage=30
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Venomoth
+|species=Poison Moth
+|ndex=0049
+|height=4'11"
+|jheight=1.5
+|weight=27.6
+|jweight=12.5
+|dex=The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.
+|jdex=翅に　りんぷんが　ついていて ヒラヒラと　羽ばたくたびに 猛毒の粉を　ばらまく｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unbroken Bonds|Venomoth|11}} from the {{TCG|Unbroken Bonds}} expansion.
+**Both cards have the {{m|Poison Powder}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Venomoth}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Omot (Unschlagbare Gene 017)]]
+[[es:Venomoth (Genes Formidables TCG Pocket)]]
+[[fr:Aéromite (Puissance Génétique 017)]]
+[[it:Venomoth (Geni Supremi 17)]]
+[[ja:モルフォン (ポケポケ A1)]]
+[[zh:摩鲁蛾（A1）]]

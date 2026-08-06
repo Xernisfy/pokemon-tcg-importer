@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Goodra
+|ja name=ヌメルゴン
+|trans name=Numelgon
+|species=Goodra
+|type=Dragon
+|image=GoodraMegaRising179.png
+|illustrator=Nagomi Nijo
+|hp=150
+|weakness=
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Sliggoo
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=179/226|pack=Mega Altaria|rarity=Diamond|rarity count=3}}
+}}
+
+'''Goodra''' (Japanese: '''ヌメルゴン''' ''Numelgon'') is a {{ct|Dragon}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Dragon}}
+{{Cardtext/Attack/Pocket
+|type=Dragon
+|cost={{e|Water}}{{e|Psychic}}{{e|Colorless}}
+|name=Spiral Drain
+|jname=スパイラルドレイン
+|jtrans=Spiral Drain
+|damage=100
+|effect=Heal 40 damage from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Dragon
+|name=Goodra
+|category=Dragon
+|ndex=0706
+|height=6'7"
+|jheight=2.0
+|weight=331.8
+|jweight=150.5
+|dex=This Pokémon is uncontrollable when enraged. It rampages on and on, lashing its tail with enough power to send a dump truck flying.
+|jdex=怒りだすと 手がつけられなくなる。 ダンプカーを 跳ね飛ばす 威力の 尻尾 攻撃で 暴れまくる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fusion Strike|Goodra|197}} from the {{TCG|Fusion Strike}} expansion.
+*'''Spiral Drain''' is an attack that first appeared on {{TCG ID|Expedition|Butterfree|5}} from {{TCG|Expedition Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Viscogon (Mega-Aufstieg 179)]]
+[[es:Goodra (Megaascenso TCG Pocket)]]
+[[fr:Muplodocus (Méga-Ascension 179)]]
+[[it:Goodra (Mega Ascesa 179)]]
+[[ja:ヌメルゴン (ポケポケ B1)]]
+[[zh:黏美龙（B1）]]

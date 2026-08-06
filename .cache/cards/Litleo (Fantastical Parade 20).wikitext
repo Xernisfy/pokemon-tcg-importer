@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+| en name = Litleo
+| ja name = シシコ
+| trans name = Shishiko
+| species = Litleo
+| type = Fire
+| image = LitleoFantasticalParade20.png
+| illustrator = Akira Komayama
+| hp = 70
+| weakness = Water
+| retreat cost = 1
+| evo stage = Basic
+| expansions = {{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=020/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Litleo''' (Japanese: '''シシコ''' ''Shishiko'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Colorless}}
+|name=Stampede
+|jname=ふむ
+|jtrans=Step On
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Litleo
+|species=Lion Cub
+|ndex=0667
+|height=2'
+|jheight=0.6
+|weight=29.8
+|jweight=13.5
+|dex=The more a Litleo trains its body and spirit by battling mighty enemies, the hotter its mane will grow.
+|jdex=強敵と 戦い 体と 心が 鍛えられた シシコほど たてがみの 温度は 高くなる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Litleo|50}} from the {{TCG|Lost Thunder}} expansion.
+*'''Stampede''' is an attack that first appeared on {{TCG ID|EX Ruby & Sapphire|Phanpy|62}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Leufeo (Traumhafte Parade 020)]]
+[[fr:Hélionceau (Parade Onirique 020)]]
+[[it:Litleo (Parata Fantasmagorica 20)]]
+[[ja:シシコ (ポケポケ B2)]]
+[[zh:小狮狮（B2）]]

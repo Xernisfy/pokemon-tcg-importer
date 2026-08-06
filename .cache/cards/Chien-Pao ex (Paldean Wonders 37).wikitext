@@ -1,0 +1,83 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Chien-Pao {{TCGP Icon|ex}}
+|ja name=パオジアン{{TCGP Icon|ex}}
+|trans name=Paojian {{TCGP Icon|ex}}
+|species=Chien-Pao
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=Chien-PaoexPaldeanWonders37.png|illustrator=aky CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=Chien-PaoexPaldeanWonders102.png|illustrator=aky CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=Chien-PaoexPaldeanWonders112.png|illustrator=kodama|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=Chien-PaoexPromo-B41.png|illustrator=aky CG Works|tab caption=Promo}}
+|hp=130
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=037/093|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=102/093|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=112/093|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=041/P-B}}
+}}
+
+'''Chien-Pao ex''' (Japanese: '''パオジアンex''' ''Paojian ex'') is a {{ct|Water}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Icicle
+|jname=つらら
+|jtrans=Icicle
+|damage=20
+|effect=
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}
+|name=Diving Icicles
+|jname=アイシクルダイブ
+|jtrans=Icicle Dive
+|damage=
+|effect=Discard all {{e|Water}} Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Water
+|ndex=1002
+|name=Chien-Pao
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+The {{TCGP|Promo-B}} print of this card was available from April 1 to 30, 2026 as a login reward from the monthly {{DL|Mission (TCG Pocket)|Premium Missions}}.
+
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=Chien-PaoexPaldeanWonders37.png
+|caption1=Double rare card<br>Illus. [[aky CG Works]]
+|image2=Chien-PaoexPaldeanWonders102.png
+|caption2=Super rare card<br>Illus. [[aky CG Works]]
+|image4=Chien-PaoexPaldeanWonders112.png
+|caption4=Special illustration rare card<br>Illus. [[kodama]]
+|image5=Chien-PaoexPromo-B41.png
+|caption5=Promo card<br>Illus. [[aky CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*All of this card's {{TCGP|Paldean Wonders}} illustrations were first featured on {{TCG ID|Paldea Evolved|Chien-Pao ex|61}} from the {{TCG|Paldea Evolved}} expansion.
+*This card's {{TCGP|Promo-B}} illustration was first featured on {{TCG ID|SVP Promo|Chien-Pao ex|30}}, one of the {{TCG|SVP Black Star Promos}}.
+*'''Icicle''' is an attack that first appeared on {{TCG ID|Unified Minds|Snorunt|37}} from the {{TCG|Unified Minds}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Baojian-ex (Wundervolles Paldea 037)]]
+[[es:Chien-Pao ex (Encantos de Paldea TCG Pocket)]]
+[[fr:Baojian-ex (Merveilles de Paldea 037)]]
+[[it:Chien-Pao-ex (Meraviglie di Paldea 37)]]
+[[ja:パオジアンex (ポケポケ B2a)]]
+[[zh:古剑豹ex（B2a）]]

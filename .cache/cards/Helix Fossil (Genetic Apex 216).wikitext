@@ -1,0 +1,51 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Helix Fossil
+|ja name=かいの化石
+|trans name=Shellfish Fossil
+|subtype=Item
+|image=HelixFossilGeneticApex216.png
+|illustrator=Toyste Beach
+|hp=40
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=216/226|pack=Pikachu|rarity=Diamond|rarity count=1}}
+}}
+
+'''Helix Fossil''' (Japanese: '''かいの化石''' ''Shellfish Fossil'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Play this card as if it were a 40-HP Basic {{e|Colorless}} Pokémon.<br>At any time during your turn, you may discard this card from play.<br>This card can't retreat.
+}}
+
+==Trivia==
+* This card's effect is similar to that of the {{TCG|Unidentified Fossil}} card in the [[Pokémon Trading Card Game]], but has 40 HP instead of 60 HP and only {{TCG|Omanyte}} can evolve from.
+** {{TCG|Helix Fossil}} also exists in the Pokémon Trading Card Game, but has 50 HP and also has a {{TCG|Poké-Body}}.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fates Collide|Helix Fossil Omanyte|102}} from the {{TCG|Fates Collide}} expansion.
+*[[Helix Fossil]]s are [[fossil]]s in the [[Pokémon games]] which can be revived into {{p|Omanyte}}.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=かいの化石 ''Kai no Kaseki''
+|zh_yue=貝殼化石 ''Buihok Fasehk''
+|zh_cmn=貝殼化石<!-- / 贝壳化石--> ''Bèiké Huàshí''
+|fr=Fossile Nautile
+|de=Helixfossil
+|it=Helixfossile
+|ko=조개화석 ''Jogae Hwaseok''
+|pt_br=Fóssil Espiral
+|es=Fósil Helix
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Helixfossil (TCG Pocket)]]
+[[es:Fósil Hélix (TCG Pocket)]]
+[[fr:Fossile Nautile (Puissance Génétique 216)]]
+[[it:Helixfossile (Geni Supremi 216)]]
+[[ja:かいの化石 (ポケポケ)]]
+[[zh:贝壳化石（TCGP）]]

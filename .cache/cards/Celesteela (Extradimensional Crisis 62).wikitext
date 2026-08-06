@@ -1,0 +1,86 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Celesteela
+|ja name=テッカグヤ
+|trans name=Tekkaguya
+|species=Celesteela
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CelesteelaExtradimensionalCrisis62.png|illustrator=kawayoo|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CelesteelaDeluxePackex305.png|illustrator=kawayoo|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CelesteelaExtradimensionalCrisis75.png|illustrator=REND|tab caption=Illustration Rare}}
+|hp=120
+|weakness=Lightning
+|retreat cost=4
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=062/069|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=075/069|pack=Any|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=304/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=305/353|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Celesteela''' (Japanese: '''テッカグヤ''' ''Tekkaguya'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/UltraBeast/Pocket}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Ultra Thrusters
+|jname=ウルトラスラスター
+|jtrans=Ultra Thruster
+|effect=Once during your turn, you may switch your Active {{TCGP|Ultra Beast}} with 1 of your Benched Ultra Beasts.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Moombahton
+|jname=ムーンバートン
+|jtrans=Moombahton
+|damage=100
+|effect=Flip a coin. If tails, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Celesteela
+|species=Launch
+|ndex=0797
+|height=30'2"
+|jheight=9.2
+|weight=2204.4
+|jweight=999.9
+|dex=One of the dangerous UBs, high energy readings can be detected coming from both of its huge arms. 
+|jdex=危険な ＵＢの 一種。 巨大な 両腕から 高い エネルギー反応を 検出。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=CelesteelaExtradimensionalCrisis62.png
+|caption1=Standard card<br>Illus. [[kawayoo]]
+|image2=CelesteelaExtradimensionalCrisis75.png
+|caption2=Illustration rare card<br>Illus. [[REND]]
+|image3=CelesteelaDeluxePackex305.png
+|caption3=Parallel foil card<br>Illus. [[kawayoo]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Celestial Storm|Celesteela|100}} from the {{TCG|Celestial Storm}} expansion.
+*The '''Moombahton''' attack is named after {{wp|moombahton}}, a genre of music. The name as written in katakana contains ムーン, which is homophonous to ''Moon''. {{p|Celesteela}}'s design is a possible reference to Princess Kaguya from ''{{wp|The Tale of the Bamboo Cutter}}'', a mythical character that hailed from the Moon; and the Pokémon is exclusive to {{pkmn|Sun and Moon|Pokémon Moon}} and {{pkmn|Ultra Sun and Ultra Moon|Ultra Moon}}.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kaguron (Dimensionale Krise 062)]]
+[[es:Celesteela (Crisis Dimensional TCG Pocket)]]
+[[fr:Bamboiselle (Crise Interdimensionnelle 062)]]
+[[it:Celesteela (Crisi Ultradimensionale 62)]]
+[[ja:テッカグヤ (ポケポケ A3a)]]
+[[zh:铁火辉夜（A3a）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gourgeist
+|ja name=パンプジン
+|trans name=Pumpjin
+|species=Gourgeist
+|type=Psychic
+|image=GourgeistFantasticalParade72.png
+|illustrator=kirisAki
+|hp=110
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Pumpkaboo
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=072/155|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Gourgeist''' (Japanese: '''パンプジン''' ''Pumpjin'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Soul Shot
+|jname=ソウルシュート
+|jtrans=Soul Shoot
+|damage=70
+|effect=Discard a card from your hand. If you can't, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Gourgeist
+|species=Pumpkin
+|ndex=0710
+|height=2'11"
+|jheight=0.9
+|weight=27.6
+|jweight=12.5
+|dex=In the darkness of a new-moon night, Gourgeist will come knocking. Whoever answers the door will be swept off to the afterlife.
+|jdex=新月の 夜 玄関の ドアを パンプジンが ノックする。 開けた 人を あの世へ 連れて行くのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Crimson Invasion|Gourgeist|45}} from the {{TCG|Crimson Invasion}} expansion.
+*'''Soul Shot''' is an attack that first appeared on {{TCG ID|Mega Rising|Cofagrigus|111}} from the {{TCGP|Mega Rising}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pumpdjinn (Traumhafte Parade 072)]]
+[[fr:Banshitrouye (Parade Onirique 072)]]
+[[it:Gourgeist (Parata Fantasmagorica 72)]]
+[[ja:パンプジン (ポケポケ B2)]]
+[[zh:南瓜怪人（B2）]]

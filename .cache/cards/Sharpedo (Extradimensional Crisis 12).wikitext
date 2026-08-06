@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sharpedo
+|ja name=サメハダー
+|trans name=Samehader
+|species=Sharpedo
+|type=Water
+|image=SharpedoExtradimensionalCrisis12.png
+|illustrator=Yumi
+|hp=90
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Carvanha
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=012/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Sharpedo''' (Japanese: '''サメハダー''' ''Samehader'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Crunch
+|jname=かみくだく
+|jtrans=Crunch
+|damage=50
+|effect=Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Sharpedo
+|species=Brutal
+|ndex=0319
+|height=5'11"
+|jheight=1.8
+|weight=159.8
+|jweight=88.8
+|dex=As soon as it catches the scent of its prey, Sharpedo will jet seawater from its backside, hurtling toward the target to attack at 75 mph.
+|jdex=獲物の 匂いを 嗅ぎとると お尻から 海水を 噴射して 時速120キロで 襲撃する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Sharpedo|82}} from the {{TCG|Sun & Moon}} expansion.
+*{{m|Crunch}} is a [[move]] in the [[Pokémon games]] that {{p|Sharpedo}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tohaido (Dimensionale Krise 012)]]
+[[es:Sharpedo (Crisis Dimensional TCG Pocket)]]
+[[fr:Sharpedo (Crise Interdimensionnelle 012)]]
+[[it:Sharpedo (Crisi Ultradimensionale 12)]]
+[[ja:サメハダー (ポケポケ A3a)]]
+[[zh:巨牙鲨（A3a）]]

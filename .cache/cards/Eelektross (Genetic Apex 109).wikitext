@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Eelektross
+|ja name=シビルドン
+|trans name=Shibirudon
+|species=Eelektross
+|type=Lightning
+|image=EelektrossGeneticApex109.png
+|illustrator=hatachu
+|hp=140
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Eelektrik
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=109/226|pack=Mewtwo|rarity=Diamond|rarity count=3}}
+}}
+
+'''Eelektross''' (Japanese: '''シビルドン''' ''Shibirudon'') is a {{ct|Lightning}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}{{e|Colorless}}
+|name=Thunder Fang
+|jname=かみなりのキバ
+|jtrans=Thunder Fang
+|damage=80
+|effect=Flip a coin. If heads, your opponent's Active Pokémon is now {{TCG|Paralyzed}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Eelektross
+|species=EleFish
+|ndex=0604
+|height=6'11"
+|jheight=2.1
+|weight=177.5
+|jweight=80.5
+|dex=They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.
+|jdex=腕の　力で　海から　はい出し 水辺の　獲物に　襲いかかる｡ 一瞬で　海へ　引きずりこむ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Burning Shadows|Eelektross|46}} from the {{TCG|Burning Shadows}} expansion.
+*{{m|Thunder Fang}} is a [[move]] in the [[Pokémon games]] that {{p|Eelektross}} can learn via [[TM]] in [[Generation IX]].
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zapplarang (Unschlagbare Gene 109)]]
+[[es:Eelektross (Genes Formidables TCG Pocket)]]
+[[fr:Ohmassacre (Puissance Génétique 109)]]
+[[it:Eelektross (Geni Supremi 109)]]
+[[ja:シビルドン (ポケポケ A1)]]
+[[zh:麻麻鳗鱼王（A1）]]

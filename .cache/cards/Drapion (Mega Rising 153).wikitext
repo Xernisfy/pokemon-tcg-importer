@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Drapion
+|ja name=ドラピオン
+|trans name=Dorapion
+|species=Drapion
+|type=Darkness
+|image=DrapionMegaRising153.png
+|illustrator=SATOSHI NAKAI
+|hp=130
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Skorupi
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=153/226|pack=Mega Gyarados|rarity=Diamond|rarity count=2}}
+}}
+
+'''Drapion''' (Japanese: '''ドラピオン''' ''Dorapion'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Colorless}}
+|name=Stun Poison
+|jname=しんけいどく
+|jtrans=Nerve Poison
+|damage=50
+|effect=Flip a coin. If heads, your opponent's Active Pokémon is now {{TCG|Poisoned}} and {{TCG|Paralyzed}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Drapion
+|category=Ogre Scorp
+|ndex=0452
+|height=4'3"
+|jheight=1.3
+|weight=135.6
+|jweight=61.5
+|dex=It's so vicious that it's called the Sand Demon. Yet when confronted by Hippowdon, Drapion keeps a low profile and will never pick a fight.
+|jdex=砂の悪魔と 呼ばれるほど 獰猛だが カバルドンには ケンカも 売らず おとなしい。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Drapion|134}} from the {{TCG|Unified Minds}} expansion.
+*'''Stun Poison''' is an attack that first appeared as '''Nerve Poison''' on {{TCG ID|Gym Challenge|Koga's Beedrill|9}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Piondragi (Mega-Aufstieg 153)]]
+[[es:Drapion (Megaascenso TCG Pocket)]]
+[[fr:Drascore (Méga-Ascension 153)]]
+[[it:Drapion (Mega Ascesa 153)]]
+[[ja:ドラピオン (ポケポケ B1)]]
+[[zh:龙王蝎（B1）]]

@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Polteageist
+|ja name=ポットデス
+|trans name=Potdeath
+|species=Polteageist
+|type=Psychic
+|image=PolteageistFantasticalParade75.png
+|illustrator=Shin Nagasawa
+|hp=70
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Sinistea
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=075/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Polteageist''' (Japanese: '''ポットデス''' ''Potdeath'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Refreshing Tea
+|jname=リフレッシュティー
+|jtrans=Refresh Tea
+|effect=Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may have your opponent shuffle their hand into their deck. For each remaining point that your opponent needs to win, they draw a card.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Spooky Shot
+|jname=ホロウショット
+|jtrans=Hollow Shot
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Polteageist
+|category=Black Tea
+|ndex=0855
+|height=8"	
+|jheight=0.2
+|weight=0.9
+|jweight=0.4
+|dex=These Pokémon multiply by creeping into teapots and pouring themselves into leftover tea.
+|jdex=ティーポットに 忍びこんで 飲みかけの 紅茶の 中に 自分を 注いで 増えていく。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sword & Shield|Polteageist|90}} from the {{TCG|Sword & Shield}} expansion.
+*'''Spooky Shot''' is an attack that first appeared on {{TCG ID|Legendary Treasures|Misdreavus|57}} and {{TCG ID|Legendary Treasures|Mismagius|58}}, both from the {{TCG|Legendary Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mortipot (Traumhafte Parade 075)]]
+[[fr:Polthégeist (Parade Onirique 075)]]
+[[it:Polteageist (Parata Fantasmagorica 75)]]
+[[ja:ポットデス (ポケポケ B2)]]
+[[zh:怖思壶（B2）]]

@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Clawitzer
+|ja name=ブロスター
+|trans name=Bloster
+|species=Clawitzer
+|type=Water
+|image=ClawitzerCrimsonBlaze23.png
+|illustrator=tetsuya koizumi
+|hp=100
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Clauncher
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=023/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Clawitzer''' (Japanese: '''ブロスター''' ''Bloster'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Aqua Shower
+|jname=アクアシャワー
+|jtrans=Aqua Shower
+|damage=
+|effect=This attack does 20 damage to each of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Clawitzer
+|species=Howitzer
+|ndex=0693
+|height=4'3"
+|jheight=1.3
+|weight=77.8
+|jweight=35.3
+|dex=The cannonballs of seawater that Clawitzer launches from its claw are powerful enough to punch through tanker hulls.
+|jdex=ハサミから 撃ちだす 海水の 砲弾の 威力は タンカーの 船体を 貫くほどだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fusion Strike|Clawitzer|75}} from the {{TCG|Fusion Strike}} expansion.
+*'''Aqua Shower''' is an attack that first appeared on {{TCG ID|Diamond & Pearl|Prinplup|58}} from the {{TCG|Diamond & Pearl}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wummer (Feuerrote Flammen 023)]]
+[[fr:Gamblast (Embrasement Écarlate 023)]]
+[[ja:ブロスター (ポケポケ B1a)]]
+[[zh:钢炮臂虾（B1a）]]

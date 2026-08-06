@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Crobat {{TCGP Icon|ex}}
+|ja name=クロバット{{TCGP Icon|ex}}
+|trans name=Crobat {{TCGP Icon|ex}}
+|species=Crobat
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CrobatexWisdomofSeaandSky109.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CrobatexWisdomofSeaandSky192.png|illustrator=PLANETA Mochizuki|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CrobatexWisdomofSeaandSky207.png|illustrator=Shinji Kanda|tab caption=Special Illustration Rare}}
+|hp=170
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Golbat
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=109/161|pack=Ho-Oh|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=192/161|pack=Ho-Oh|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=207/161|pack=Ho-Oh|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=232/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Crobat ex''' (Japanese: '''クロバットex''' ''Crobat ex'') is a {{ct|Darkness}} Stage 2 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Venomous Slash
+|jname=ベノムスラッシュ
+|jtrans=Venom Slash
+|damage=70
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Pocket ex
+|type=Darkness
+|ndex=0169
+|name=Crobat
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=CrobatexWisdomofSeaandSky109.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=CrobatexWisdomofSeaandSky192.png
+|caption2=Super rare card<br>Illus. [[PLANETA Mochizuki]]
+|image3=CrobatexWisdomofSeaandSky207.png
+|caption3=Special illustration rare card<br>Illus. [[Shinji Kanda]]
+}}
+
+==Trivia==
+===Origin===
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Iksbat-ex (Weisheit von Meer und Himmel 109)]]
+[[es:Crobat ex (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Nostenfer-ex (Sagesse entre Ciel et Mer 109)]]
+[[it:Crobat-ex (La Via del Cielo e del Mare 109)]]
+[[ja:クロバットex (ポケポケ A4)]]
+[[zh:叉字蝠ex（A4）]]

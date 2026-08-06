@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Raticate
+|ja name=ラッタ
+|trans name=Ratta
+|species=Raticate
+|type=Colorless
+|image=RaticateGeneticApex190.png
+|illustrator=Shigenori Negishi
+|hp=80
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Rattata
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=190/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Raticate''' (Japanese: '''ラッタ''' ''Ratta'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Bite
+|jname=かみつく
+|jtrans=Bite
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Raticate
+|species=Mouse
+|ndex=0020
+|height=2'4"
+|jheight=0.7
+|weight=40.8
+|jweight=18.5
+|dex=People say that it fled from its enemies by using its small webbed hind feet to swim from island to island in Alola.
+|jdex=後ろ足の　小さい　水かきで 海を　泳いで　島を　渡り 敵から　逃げていた　という｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unbroken Bonds|Raticate|144}} from the {{TCG|Unbroken Bonds}} expansion.
+*{{m|Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Raticate}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rattikarl (Unschlagbare Gene 190)]]
+[[es:Raticate (Genes Formidables TCG Pocket)]]
+[[fr:Rattatac (Puissance Génétique 190)]]
+[[it:Raticate (Geni Supremi 190)]]
+[[ja:ラッタ (ポケポケ A1)]]
+[[zh:拉达（A1）]]

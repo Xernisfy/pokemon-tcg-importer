@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Meganium
+|ja name=メガニウム
+|trans name=Meganium
+|species=Meganium
+|type=Grass
+|image=MeganiumWisdomofSeaandSky10.png
+|illustrator=Hajime Kusajima
+|hp=150
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Bayleef
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=010/161|pack=Lugia|rarity=Diamond|rarity count=3}}
+}}
+
+'''Meganium''' (Japanese: '''メガニウム''' ''Meganium'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=Bloomshine
+|jname=ブルームシャイン
+|jtrans=Bloomshine
+|damage=80
+|effect=Heal 20 damage from each of your Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Meganium
+|species=Herb
+|ndex=0154
+|height=5'11"
+|jheight=1.8
+|weight=221.6
+|jweight=100.5
+|dex=The aroma that rises from its petals contains a substance that calms aggressive feelings. 
+|jdex=花びらから 発散される においには 争う 気持ちを 静める 成分が 含まれる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Expedition|Meganium|18}} from the {{TCG|Expedition Base Set}}.
+*'''Bloomshine''' is an attack that first appeared on {{TCG ID|Crown Zenith|Calyrex|17}} from the {{TCG|Crown Zenith}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Meganie (Weisheit von Meer und Himmel 010)]]
+[[es:Meganium (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Méganium (Sagesse entre Ciel et Mer 010)]]
+[[it:Meganium (La Via del Cielo e del Mare 10)]]
+[[ja:メガニウム (ポケポケ A4)]]
+[[zh:月桂叶（A4）]]

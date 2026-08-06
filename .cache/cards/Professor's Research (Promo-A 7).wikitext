@@ -1,0 +1,63 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Professor's Research
+|ja name=博士の研究
+|trans name=Doctor's Research
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket||image=ProfessorResearchPromo-A7.png|illustrator=Naoki Saito|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ProfessorResearchDeluxePackex373.png|illustrator=Akira Komayama|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=007/P-A}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=373/353|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Professor's Research''' (Japanese: '''博士の研究''' ''Doctor's Research'') is a {{TCG|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Draw 2 cards.
+}}
+
+==Release information==
+The promo print of Professor's Research cards were first made available to purchase from the in-game {{TCGP|shop}} on October 30, 2024 worldwide (September 26, 2024 in New Zealand) for 2 Shop Tickets each.
+
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=ProfessorResearchPromo-A7.png
+|caption1=Promo card<br>Illus. [[Naoki Saito]]
+|image2=ProfessorResearchDeluxePackex373.png
+|caption2=Super Rare card<br>Illus. [[Akira Komayama]]
+}}
+==Trivia==
+* This card's effect is identical to that of {{TCG|Bill}} and {{TCG|Mom's Kindness}} in the [[Pokémon Trading Card Game]], which are both {{TCGP|Supporter}} cards.
+** {{TCG|Professor's Research}} also exists in the Pokémon Trading Card Game, but with a different effect.
+
+===Origin===
+* This card features [[Professor Oak]], the resident [[Pokémon Professor]] of the [[Kanto]] region. The interior of [[Professor Oak's Laboratory|his laboratory]], as depicted in {{game|FireRed and LeafGreen|s}}, is featured in the promo illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=博士の研究 ''Hakase no Kenkyū''
+|zh_yue=博士的研究 ''Boksih dīk Yìhngau''
+|zh_cmn=博士的研究 ''Bóshì de Yánjiū''
+|fr=Recherches Professorales
+|de=Forschung des Professors
+|it=Ricerca Accademica
+|ko=박사의 연구 ''Baksa-ui Yeon'gu''
+|pt_br=Pesquisa de Professores
+|es=Investigación de Profesores
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Forschung des Professors (TCG Pocket)]]
+[[es:Investigación de Profesores (TCG Pocket)]]
+[[fr:Recherches Professorales (Promo-A 007)]]
+[[it:Ricerca Accademica (Promo-A 7)]]
+[[ja:博士の研究 (ポケポケ)]]
+[[zh:博士的研究 大木博士（TCGP）]]

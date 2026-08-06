@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Stoutland
+|ja name=ムーランド
+|trans name=Mooland
+|species=Stoutland
+|type=Colorless
+|image=StoutlandExtradimensionalCrisis56.png
+|illustrator=Atsuko Nishida
+|hp=140
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Herdier
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=056/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Stoutland''' (Japanese: '''ムーランド''' ''Mooland'') is a {{ct|Colorless}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Guard Dog Visage
+|jname=ばんけんがお
+|jtrans=Guard Dog Visage
+|effect=As long as this Pokémon is in the Active Spot, attacks used by your opponent's Active Pokémon cost 1 {{e|Colorless}} more.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Sharp Fang
+|jname=するどいキバ
+|jtrans=Sharp Fang
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Stoutland
+|category=Big-Hearted 
+|ndex=0508
+|height=3'11"
+|jheight=1.2
+|weight=134.5
+|jweight=61.0
+|dex=These Pokémon seem to enjoy living with humans. Even a Stoutland caught in the wild will warm up to people in about three days.
+|jdex=人と 暮らすのが 好きらしい。 野生で 捕まえても 3日も たてば 人に 懐くようになる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Dark Explorers|Stoutland|88}} from the {{TCG|Dark Explorers}} expansion.
+*'''Sharp Fang'''{{'}}s Japanese name is that of the [[Razor Fang]], a [[held item]] in the [[Pokémon games]]. As an attack in the TCG, it first appeared on {{TCG ID|EX Hidden Legends|Golbat|36}} from the {{TCG|EX Hidden Legends}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bissbark (Dimensionale Krise 056)]]
+[[es:Stoutland (Crisis Dimensional TCG Pocket)]]
+[[fr:Mastouffe (Crise Interdimensionnelle 056)]]
+[[it:Stoutland (Crisi Ultradimensionale 56)]]
+[[ja:ムーランド (ポケポケ A3a)]]
+[[zh:长毛狗（A3a）]]

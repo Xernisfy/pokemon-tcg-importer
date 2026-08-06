@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Dugtrio {{TCGP Icon|ex}}
+|ja name=アローラダグトリオ{{TCGP Icon|ex}}
+|trans name=Alolan Dugtrio {{TCGP Icon|ex}}
+|species=Dugtrio
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanDugtrioexExtradimensionalCrisis47.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanDugtrioexExtradimensionalCrisis80.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanDugtrioexExtradimensionalCrisis87.png|illustrator=KEIICHIRO ITO|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanDugtrioexMegaRising325.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=130
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Alolan Diglett
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=047/069|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=080/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=087/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=251/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=325/226|pack=Mega Blaziken|rarity=Shiny|rarity count=2}}
+}}
+
+'''Alolan Dugtrio ex''' (Japanese: '''アローラダグトリオex''' ''Alolan Dugtrio ex'') is a {{ct|Metal}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Colorless}}
+|name=Triplet Headbutt
+|jname=トリプレットヘッド
+|jtrans=Triplet Head
+|damage=60×
+|effect=Flip 3 coins. This attack does 60 damage for each heads.
+}}
+{{Cardtext/Pocket ex
+|type=Metal
+|ndex=0051
+|name=Dugtrio
+|form=A
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=AlolanDugtrioexExtradimensionalCrisis47.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=AlolanDugtrioexExtradimensionalCrisis80.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image4=AlolanDugtrioexExtradimensionalCrisis87.png
+|caption4=Special illustration rare card<br>Illus. [[KEIICHIRO ITO]]
+|image5=AlolanDugtrioexMegaRising325.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Dugtrio}}.
+*This card's shiny super rare illustration features a {{Shiny}} Alolan {{p|Dugtrio}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Digdri-ex (Dimensionale Krise 047)]]
+[[es:Dugtrio de Alola ex (Crisis Dimensional TCG Pocket)]]
+[[fr:Triopikeur d'Alola-ex (Crise Interdimensionnelle 047)]]
+[[it:Dugtrio di Alola-ex (Crisi Ultradimensionale 47)]]
+[[ja:アローラダグトリオex (ポケポケ A3a)]]
+[[zh:阿罗拉 三地鼠ex（A3a）]]

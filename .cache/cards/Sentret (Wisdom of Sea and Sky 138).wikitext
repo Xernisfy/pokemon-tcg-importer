@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sentret
+|ja name=オタチ
+|trans name=Otachi
+|species=Sentret
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SentretWisdomofSeaandSky138.png|illustrator=Mina Nakai|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SentretWisdomofSeaandSky181.png|illustrator=saino misaki|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=138/161|pack=Ho-Oh|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=181/161|pack=Ho-Oh|rarity=Star|rarity count=1}}
+}}
+
+'''Sentret''' (Japanese: '''オタチ''' ''Otachi'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Scratch
+|jname=ひっかく
+|jtrans=Scratch
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Sentret
+|category=Scout 
+|ndex=0161
+|height=2'7"
+|jheight=0.8
+|weight=13.2
+|jweight=6.0
+|dex=When acting as a lookout, it warns others of danger by screeching and hitting the ground with its tail.
+|jdex=見張り役は 鋭く 鳴いたり 尻尾で 地面を たたいたりして 仲間に 危険を 知らせる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=SentretWisdomofSeaandSky138.png
+|caption1=Common card<br>Illus. [[Mina Nakai]]
+|image2=SentretWisdomofSeaandSky181.png
+|caption2=Illustration rare card<br>Illus. [[saino misaki]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Darkness Ablaze|Sentret|135}} from the {{TCG|Darkness Ablaze}} expansion.
+*{{m|Scratch}} is a [[move]] in the [[Pokémon games]] that {{p|Sentret}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wiesor (Weisheit von Meer und Himmel 138)]]
+[[es:Sentret (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Fouinette (Sagesse entre Ciel et Mer 138)]]
+[[it:Sentret (La Via del Cielo e del Mare 138)]]
+[[ja:オタチ (ポケポケ A4)]]
+[[zh:尾立（A4）]]

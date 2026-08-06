@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gurdurr
+|ja name=ドテッコツ
+|trans name=Dotekkotsu
+|species=Gurdurr
+|type=Fighting
+|image=GurdurrCelestialGuardians95.png
+|illustrator=Naoki Saito
+|hp=90
+|weakness=Psychic
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Timburr
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=095/155|pack=Lunala|rarity=Diamond|rarity count=2}}
+}}
+
+'''Gurdurr''' (Japanese: '''ドテッコツ''' ''Dotekkotsu'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}
+|name=Strength
+|jname=かいりき
+|jtrans=Super Strength
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Gurdurr
+|species=Muscular
+|ndex=0533
+|height=3'11"
+|jheight=1.2
+|weight=88.2
+|jweight=40.0
+|dex=It shows off its muscles to Machoke and other Gurdurr. If it fails to measure up to the other Pokémon, it lies low for a little while.
+|jdex=なかまや ゴーリキーと きんにくを じまん しあう。 まけたほうは しばらく すがたを みせなくなる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Black & White|Gurdurr|60}} from the {{TCG|Black & White}} expansion.
+*{{m|Strength}} is a [[move]] in the [[Pokémon games]] that {{p|Gurdurr}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Strepoli (Hüter des Firmaments 095)]]
+[[es:Gurdurr (Guardianes Celestiales TCG Pocket)]]
+[[fr:Ouvrifier (Gardiens Astraux 095)]]
+[[it:Gurdurr (Guardiani Astrali 95)]]
+[[ja:ドテッコツ (ポケポケ A3)]]
+[[zh:铁骨土人（A3）]]

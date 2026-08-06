@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lampent
+|ja name=ランプラー
+|trans name=Lampler
+|species=Lampent
+|type=Fire
+|image=LampentMegaRising42.png
+|illustrator=Kyoko Umemoto
+|hp=80
+|weakness=Water
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Litwick
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=042/226|pack=Mega Altaria|rarity=Diamond|rarity count=2}}
+}}
+
+'''Lampent''' (Japanese: '''ランプラー''' ''Lampler'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Will-O-Wisp
+|jname=おにび
+|jtrans=Will-o'-the-Wisp
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Lampent
+|category=Lamp
+|ndex=0608
+|height=2'
+|jheight=0.6
+|weight=28.7
+|jweight=13.0
+|dex=It lurks in cities, pretending to be a lamp. Once it finds someone whose death is near, it will trail quietly after them.
+|jdex=ランプの ふりをして 町中に 潜む。 死期が 近い 人を 見つけると そっと 後を つける。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Lampent|32}} from the {{TCG|Rebel Clash}} expansion.
+*{{m|Will-O-Wisp}} is a [[move]] in the [[Pokémon games]] that {{p|Lampent}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Laternecto (Mega-Aufstieg 042)]]
+[[es:Lampent (Megaascenso TCG Pocket)]]
+[[fr:Mélancolux (Méga-Ascension 042)]]
+[[it:Lampent (Mega Ascesa 42)]]
+[[ja:ランプラー (ポケポケ B1)]]
+[[zh:灯火幽灵（B1）]]

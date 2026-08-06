@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Arcanine {{TCGP Icon|ex}}
+|ja name=ウインディ{{TCGP Icon|ex}}
+|trans name=Windie {{TCGP Icon|ex}}
+|species=Arcanine
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArcanineexGeneticApex41.png|illustrator=PLANETA Saito|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArcanineexGeneticApex254.png|illustrator=PLANETA Saito|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArcanineexExtradimensionalCrisis100.png|illustrator=PLANETA Saito|tab caption=Shiny Super Rare}}
+|hp=150
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Growlithe
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=041/226|pack=Pikachu|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=254/226|pack=Pikachu|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=100/069|pack=Any|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=063/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Arcanine ex''' (Japanese: '''ウインディex''' ''Windie ex'') is a {{ct|Fire}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Colorless}}
+|name=Inferno Onrush
+|jname=もうかのとっしん
+|jtrans=Charge of Raging Flames
+|damage=120
+|effect=This Pokémon also does 20 damage to itself.
+}}
+{{Cardtext/Pocket ex
+|type=Fire
+|ndex=0059
+|name=Arcanine
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=ArcanineexGeneticApex41.png
+|caption1=Double rare card<br>Illus. [[PLANETA Saito]]
+|image2=ArcanineexGeneticApex254.png
+|caption2=Super rare card<br>Illus. [[PLANETA Saito]]
+|image3=ArcanineexExtradimensionalCrisis100.png
+|caption3=Shiny super rare card<br>Illus. [[PLANETA Saito]]
+}}
+
+==Trivia==
+When starting the game, if a player chooses a {{TCGP|Genetic Apex}}: Pikachu pack to open as their first pack, it will always contain the double rare version of this card.
+
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Arcanine}}.
+*'''Inferno Onrush''' is an attack that first appeared on {{TCG ID|Secret Wonders|Arcanine|22}} from the {{TCG|Secret Wonders}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Arkani-ex (Unschlagbare Gene 041)]]
+[[es:Arcanine ex (Genes Formidables TCG Pocket)]]
+[[fr:Arcanin-ex (Puissance Génétique 041)]]
+[[it:Arcanine-ex (Geni Supremi 41)]]
+[[ja:ウインディex (ポケポケ A1)]]
+[[zh:风速狗ex（A1）]]

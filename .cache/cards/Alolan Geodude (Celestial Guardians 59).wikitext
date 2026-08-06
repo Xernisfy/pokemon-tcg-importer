@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Geodude
+|ja name=アローライシツブテ
+|trans name=Alolan Isitsubute
+|species=Geodude
+|type=Lightning
+|image=AlolanGeodudeCelestialGuardians59.png
+|illustrator=Hitoshi Ariga
+|hp=70
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=059/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Alolan Geodude''' (Japanese: '''アローライシツブテ''' ''Alolan Isitsubute'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}
+|name=Knuckle Punch
+|jname=げんこつ
+|jtrans=Fist
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Geodude
+|species=Rock
+|ndex=0074
+|height=1'4"
+|jheight=0.4
+|weight=44.8
+|jweight=20.3
+|dex=If you mistake it for a rock and step on it, it will headbutt you in anger. In addition to the pain, it will also zap you with a shock.
+|jdex=石ころと 間違え 踏んでしまうと 怒って 頭突きを かましてくる。 痛いだけでなく ビリッと くるぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Geodude}}.
+*This card's illustration was first featured on {{TCG ID|Guardians Rising|Alolan Geodude|40}} from the {{TCG|Guardians Rising}} expansion.
+*'''Knuckle Punch''' is an attack that first appeared on {{TCG ID|Neo Revelation|Geodude|44}} from the {{TCG|Neo Revelation}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Kleinstein (Hüter des Firmaments 059)]]
+[[es:Geodude de Alola (Guardianes Celestiales TCG Pocket)]]
+[[fr:Racaillou d'Alola (Gardiens Astraux 059)]]
+[[it:Geodude di Alola (Guardiani Astrali 59)]]
+[[ja:アローライシツブテ (ポケポケ A3)]]
+[[zh:阿罗拉 小拳石（A3）]]

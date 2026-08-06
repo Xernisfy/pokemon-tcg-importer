@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Clefairy
+|ja name=ピッピ
+|trans name=Pippi
+|species=Clefairy
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ClefairyGeneticApex113.png|illustrator=kirisAki|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ClefairyPromo-A16.png|illustrator=Shibuzoh.|tab caption=Promo}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ClefairyFantasticalParade214.png|illustrator=Taiga Kasai|tab caption=Shiny Rare}}
+|hp=60
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=113/226|pack=Pikachu|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=016/P-A|pack=Vol. 1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Shiny|rarity count=1|number=214/155}}
+}}
+
+'''Clefairy''' (Japanese: '''ピッピ''' ''Pippi'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Slap
+|jname=ビンタ
+|jtrans=Face Slap
+|damage=20
+|effect=
+}} 
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Clefairy
+|species=Fairy
+|ndex=0035
+|height=2'
+|jheight=0.6
+|weight=16.5
+|jweight=7.5
+|dex=It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.
+|jdex=満月の夜　ピッピが　集まって ダンスを　踊るようすを　見ると しあわせに　なれると　言われている｡
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of five cards that could be pulled from Promo-A Vol. 1 packs; these were made available as part of the [[Lapras ex Drop Event]], which ran from November 5 to 18, 2024.
+
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=ClefairyGeneticApex113.png
+|caption1=Common card<br>Illus. [[kirisAki]]
+|image2=ClefairyPromo-A16.png
+|caption2=Promo card<br>Illus. [[Shibuzoh.]]
+|image3=ClefairyFantasticalParade214.png
+|caption3=Shiny rare card<br>Illus. [[Taiga Kasai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Genetic Apex}} illustration was first featured on {{TCG ID|Hidden Fates|Clefairy|39}} from the {{TCG|Hidden Fates}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Generations|Clefairy|50}} from the {{TCG|Generations}} expansion.
+*'''Slap''' is an attack that first appeared on {{TCG ID|Gym Heroes|Sabrina's Mr. Mime|94}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+*This card's {{TCGP|Fantastical Parade}} print features a {{Shiny}} {{p|Clefairy}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Piepi (Unschlagbare Gene 113)]]
+[[es:Clefairy (Genes Formidables TCG Pocket)]]
+[[fr:Mélofée (Puissance Génétique 113)]]
+[[it:Clefairy (Geni Supremi 113)]]
+[[ja:ピッピ (ポケポケ A1)]]
+[[zh:皮皮（A1）]]

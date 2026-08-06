@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Grimer
+|ja name=ベトベター
+|trans name=Betbeter
+|species=Grimer
+|type=Darkness
+|image=GrimerGeneticApex174.png
+|illustrator=Pani Kobayashi
+|hp=70
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=174/226|pack=Mewtwo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Grimer''' (Japanese: '''ベトベター''' ''Betbeter'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Poison Gas
+|jname=どくガス
+|jtrans=Poison Gas
+|damage=10
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Grimer
+|species=Sludge
+|ndex=0088
+|height=2'11"
+|jheight=0.9
+|weight=66.1
+|jweight=30.0
+|dex=Born from sludge, these Pokémon now gather in polluted places and increase the bacteria in their bodies.
+|jdex=ヘドロが　ポケモンになった｡ 汚い　場所に　集まって 体の　ばい菌を　増やしていく｡
+}}
+
+==Trivia==
+Grimer is one of seven Pokémon in the {{TCGP|Genetic Apex}} expansion featured in the "Touring the Kanto Region" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]], in which all of the cards show various elements of the [[Kanto]] region. This card's illustration features the {{ka|Pokémon Mansion}} on [[Cinnabar Island]], as depicted in {{game|FireRed and LeafGreen|s}}.
+
+===Origin===
+*{{m|Poison Gas}} is a [[move]] in the [[Pokémon games]] that {{p|Grimer}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sleima (Unschlagbare Gene 174)]]
+[[es:Grimer (Genes Formidables TCG Pocket)]]
+[[fr:Tadmorv (Puissance Génétique 174)]]
+[[it:Grimer (Geni Supremi 174)]]
+[[ja:ベトベター (ポケポケ A1)]]
+[[zh:臭泥（A1）]]

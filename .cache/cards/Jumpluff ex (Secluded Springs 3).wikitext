@@ -1,0 +1,65 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Jumpluff {{TCGP Icon|ex}}
+|ja name=ワタッコ{{TCGP Icon|ex}}
+|trans name=Watacco {{TCGP Icon|ex}}
+|species=Jumpluff
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JumpluffexSecludedSprings3.png|illustrator=PLANETA Tsuji|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JumpluffexSecludedSprings78.png|illustrator=PLANETA Tsuji|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JumpluffexSecludedSprings86.png|illustrator=takashi shiraishi|tab caption=Special Illustration Rare}}
+|hp=160
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Skiploom
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=003/071|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=078/071|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=086/071|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Jumpluff ex''' (Japanese: '''ワタッコex''' ''Watacco ex'') is a {{ct|Grass}} Stage 2 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Breeze-By Attack
+|jname=そよかぜアタック
+|jtrans=Gentle Breeze Attack
+|damage=70
+|effect=You may switch this Pokémon with 1 of your Benched Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Grass
+|ndex=0189
+|name=Jumpluff
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=JumpluffexSecludedSprings3.png
+|caption1=Double rare card<br>Illus. [[PLANETA Tsuji]]
+|image2=JumpluffexSecludedSprings78.png
+|caption2=Super rare card<br>Illus. [[PLANETA Tsuji]]
+|image3=JumpluffexSecludedSprings86.png
+|caption3=Special illustration rare card<br>Illus. [[takashi shiraishi]]
+}}
+
+==Trivia==
+===Origin===
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Papungha-ex (Verborgene Quelle 003)]]
+[[es:Jumpluff ex (Manantial Oculto TCG Pocket)]]
+[[fr:Cotovol-ex (Source Secrète 003)]]
+[[it:Jumpluff-ex (Sorgenti Recondite 3)]]
+[[ja:ワタッコex (ポケポケ A4a)]]
+[[zh:毽子棉ex（A4a）]]

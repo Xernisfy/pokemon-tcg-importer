@@ -1,0 +1,88 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Froakie
+|ja name=ケロマツ
+|trans name=Keromatsu
+|species=Froakie
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FroakieGeneticApex87.png|illustrator=Aya Kusube|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FroakieDeluxePackex111.png|illustrator=Aya Kusube|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FroakieExtradimensionalCrisis91.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FroakiePromo-A61.png|illustrator=Sanosuke Sakuma|tab caption=Promo}}
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=087/226|pack=Charizard|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=061/P-A|pack=Vol. 7}}
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=091/069|pack=Any|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=110/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=111/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Froakie''' (Japanese: '''ケロマツ''' ''Keromatsu'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Colorless}}
+|name=Flop
+|jname=はねまわる
+|jtrans=Hop About
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Froakie
+|species=Bubble Frog
+|ndex=0656
+|height=1'
+|jheight=0.3
+|weight=15.4
+|jweight=7.0
+|dex=It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked.
+|jdex=胸と　背中から　泡を　出す｡ 弾力のある　泡で　攻撃を　受け止めて ダメージを　減らす｡
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} card was one of five cards that could be pulled from Promo-A Vol. 7 packs; these were made available as part of the [[Rayquaza ex Drop Event]], which ran from April 30 to May 13, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=FroakieGeneticApex87.png
+|caption1=Standard card<br>Illus. [[Aya Kusube]]
+|image2=FroakiePromo-A61.png
+|caption2=Promo card<br>Illus. [[Sanosuke Sakuma]]
+|image4=FroakieExtradimensionalCrisis91.png
+|caption4=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+|image5=FroakieDeluxePackex111.png
+|caption5=Parallel foil card<br>Illus. [[Aya Kusube]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Forbidden Light|Froakie|22}} from the {{TCG|Forbidden Light}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|BREAKpoint|Froakie|38}} from the {{TCG|BREAKpoint}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Froakie}}.
+*'''Flop''' is an attack that first appeared on {{TCG ID|Team Rocket|Magikarp|47}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Omega Ruby}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Froxy (Unschlagbare Gene 087)]]
+[[es:Froakie (Genes Formidables TCG Pocket)]]
+[[fr:Grenousse (Puissance Génétique 087)]]
+[[it:Froakie (Geni Supremi 87)]]
+[[ja:ケロマツ (ポケポケ A1)]]
+[[zh:呱呱泡蛙（A1）]]

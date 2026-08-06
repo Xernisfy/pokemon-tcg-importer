@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Karrablast
+|ja name=カブルモ
+|trans name=Kaburumo
+|species=Karrablast
+|type=Grass
+|image=KarrablastCelestialGuardians6.png
+|illustrator=OOYAMA
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=006/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Karrablast''' (Japanese: '''カブルモ''' ''Kaburumo'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Headbutt
+|jname=ずつき
+|jtrans=Headbutt
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Karrablast
+|species=Clamping
+|ndex=0588
+|height=1'8"
+|jheight=0.5
+|weight=13
+|jweight=5.9
+|dex=Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokémon to evolve.
+|jdex=電気エネルギーに 反応する 不思議な 体質。 チョボマキと ともに いると 進化する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Crimson Invasion|Karrablast|7}} from the {{TCG|Crimson Invasion}} expansion.
+*{{m|Headbutt}} is a [[move]] in the [[Pokémon games]] that {{p|Karrablast}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Laukaps (Hüter des Firmaments 006)]]
+[[es:Karrablast (Guardianes Celestiales TCG Pocket)]]
+[[fr:Carabing (Gardiens Astraux 006)]]
+[[it:Karrablast (Guardiani Astrali 6)]]
+[[ja:カブルモ (ポケポケ A3)]]
+[[zh:盖盖虫（A3）]]

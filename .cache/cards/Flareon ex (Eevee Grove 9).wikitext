@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+| en name = Flareon {{TCGP Icon|ex}}
+| ja name = ブースター {{TCGP Icon|ex}}
+| trans name = Booster {{TCGP Icon|ex}}
+| species = Flareon
+| type = Fire
+| image set = {{TCG Card Infobox/Tabbed Image/Pocket|image=FlareonexEeveeGrove9.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FlareonexEeveeGrove79.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FlareonexEeveeGrove87.png|illustrator=Kuroimori|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FlareonexFantasticalParade225.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+| hp = 150
+| weakness = Water
+| retreat cost = 2
+| illustrator = 
+| evo stage = Stage 1
+| prevo name = Eevee
+| expansions = {{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=009/069|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=079/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=087/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=066/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=225/155|pack=Any|rarity=Shiny|rarity count=2}}
+}}
+
+'''Flareon ex''' (Japanese: '''ブースターex''' ''Booster ex'') is a {{ct|Fire}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Ability/Pocket
+|type=Fire
+|name=Combust
+|jname=バーンアップ
+|jtrans=Burn Up
+|effect=Once during your turn, you may attach a {{e|Fire}} Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Colorless}}
+|name=Fire Spin
+|jname=ほのおのうず
+|jtrans=Flame Swirl
+|damage=130
+|effect=Discard 2 {{e|Fire}} Energy from this Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Fire
+|ndex=0136
+|name=Flareon
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=FlareonexEeveeGrove9.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=FlareonexEeveeGrove79.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=FlareonexEeveeGrove87.png
+|caption3=Special illustration rare card<br>Illus. [[Kuroimori]]
+|image4=FlareonexFantasticalParade225.png
+|caption4=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Flareon}}.
+*'''Combust''' is an {{TCG|Ability}} that first appeared as '''Overheat''', a {{TCG|Poké-Power}} on {{TCG ID|EX Team Magma vs Team Aqua|Team Magma's Camerupt|19}} from the {{TCG|EX Team Magma vs Team Aqua}} expansion.
+*{{m|Fire Spin}} is a [[move]] in the [[Pokémon games]] that {{p|Flareon}} can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flamara-ex (Evoli-Hain 009)]]
+[[es:Flareon ex (Arboleda de Eevee TCG Pocket)]]
+[[fr:Pyroli-ex (La Clairière d'Évoli 009)]]
+[[it:Flareon-ex (Il Bosco di Eevee 9)]]
+[[ja:ブースターex (ポケポケ A3b)]]
+[[zh:火伊布ex（A3b）]]

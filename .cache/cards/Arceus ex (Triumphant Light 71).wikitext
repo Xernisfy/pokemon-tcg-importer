@@ -1,0 +1,91 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Arceus {{TCGP Icon|ex}}
+|ja name=アルセウス{{TCGP Icon|ex}}
+|trans name=Arceus {{TCGP Icon|ex}}
+|species=Arceus
+|type=Colorless
+|image=ArceusexTriumphantLight.png
+|illustrator=PLANETA CG Works
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArceusexTriumphantLight71.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArceusexTriumphantLight86.png|illustrator=PLANETA CG Works|tab caption=Super Rare (A2a)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArceusexDeluxePackex372.png|illustrator=5ban Graphics|tab caption=Super Rare (A4b)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArceusexTriumphantLight95.png|illustrator=Takumi Wada|tab caption=Immersive}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArceusexTriumphantLight96.png|illustrator=PLANETA CG Works|tab caption=Ultra Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArceusexMegaRising328.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=140
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=071/075|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=086/075|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=095/075|pack=Any|rarity=Star|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=096/075|pack=Any|rarity=Crown}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=299/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=372/353|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=328/226|pack=Mega Gyarados|rarity=Shiny|rarity count=2}}
+}}
+
+'''Arceus ex''' (Japanese: '''アルセウスex''' ''Arceus ex'') is a {{ct|Colorless}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Fabled Luster
+|jname=しんわのかがやき
+|jtrans=Mythical Luster
+|effect=This Pokémon can't be affected by any {{TCG|Special Condition}}s.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Ultimate Force
+|jname=アルティメットフォース
+|jtrans=Ultimate Force
+|damage=70+
+|effect=This attack does 20 more damage for each of your Benched Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Colorless
+|ndex=0493
+|name=Arceus
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=ArceusexTriumphantLight71.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=ArceusexTriumphantLight86.png
+|caption2=Super rare card<br>({{TCGP|Triumphant Light}})<br>Illus. [[PLANETA CG Works]]
+|image3=ArceusexTriumphantLight95.png
+|caption3={{TCGP|Immersive card}}<br>Illus. [[Takumi Wada]]
+|image4=ArceusexTriumphantLight96.png
+|caption4=Ultra rare card<br>Illus. [[PLANETA CG Works]]
+|image5=ArceusexDeluxePackex372.png
+|caption5=Super rare card<br>({{TCGP|Deluxe Pack: ex}})<br>Illus. [[5ban Graphics]]
+|image6=ArceusexMegaRising328.png
+|caption6=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+The double rare print of this card features a special pattern behind its card text, which is shared with {{TCG ID|Triumphant Light|Arceus|70}} and eight other Pokémon in the {{TCGP|Triumphant Light}} expansion, all eight of which have a {{TCGP|Link Ability}} that is active or usable while any Arceus card is in play. All cards are also part of the "Pokémon with Abilities that "Link" with Arceus" [[Triumphant Light (TCG Pocket)#Themed Collections|Themed Collection]], and the eight Pokémon with Link Abilities—{{p|Carnivine}}, {{p|Heatran}}, {{p|Abomasnow}}, {{p|Raichu}}, {{p|Rotom}}, {{p|Tyranitar}}, {{p|Crobat}}, and {{p|Magnezone}}—are featured in the card's immersive illustration.
+
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Arceus}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Arceus-ex (Licht des Triumphs 071)]]
+[[es:Arceus ex (Luz Triunfal TCG Pocket)]]
+[[fr:Arceus-ex (Lumière Triomphale 071)]]
+[[it:Arceus-ex (Luce Trionfale 71)]]
+[[ja:アルセウスex (ポケポケ A2a)]]
+[[zh:阿尔宙斯ex（A2a）]]

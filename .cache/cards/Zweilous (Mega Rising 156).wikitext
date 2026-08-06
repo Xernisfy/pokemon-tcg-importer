@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Zweilous
+|ja name=ジヘッド
+|trans name=Dihead
+|species=Zweilous
+|type=Darkness
+|image=ZweilousMegaRising156.png
+|illustrator=kodama
+|hp=90
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Deino
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=156/226|pack=Mega Gyarados|rarity=Diamond|rarity count=2}}
+}}
+
+'''Zweilous''' (Japanese: '''ジヘッド''' ''Dihead'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=Darkness Fang
+|jname=やみのキバ
+|jtrans=Darkness Fang
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Zweilous
+|category=Hostile
+|ndex=0634
+|height=4'7"
+|jheight=1.4
+|weight=110.2
+|jweight=50.0
+|dex=The two heads have different likes and dislikes. Because the heads fight with each other, Zweilous gets stronger without needing to rely on others.
+|jdex=2つの 頭は 好みが 違う。 頭同士 争うことで だれの 力も 借りずに 強くなるのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Crimson Invasion|Zweilous|61}} from the {{TCG|Crimson Invasion}} expansion.
+*'''Darkness Fang''' is an attack that first appeared on {{TCG ID|EX Unseen Forces|Umbreon ex|112}} from the {{TCG|EX Unseen Forces}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Duodino (Mega-Aufstieg 156)]]
+[[es:Zweilous (Megaascenso TCG Pocket)]]
+[[fr:Diamat (Méga-Ascension 156)]]
+[[it:Zweilous (Mega Ascesa 156)]]
+[[ja:ジヘッド (ポケポケ B1)]]
+[[zh:双首暴龙（B1）]]

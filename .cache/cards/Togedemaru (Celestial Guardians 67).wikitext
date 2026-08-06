@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Togedemaru
+|ja name=トゲデマル
+|trans name=Togedemaru
+|species=Togedemaru
+|type=Lightning
+|image=TogedemaruCelestialGuardians67.png
+|illustrator=Misa Tsutsui
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lunala|rarity=Diamond|rarity count=1|number=067/155}}
+}}
+
+'''Togedemaru''' (Japanese: '''トゲデマル''' ''Togedemaru'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Electrosmash
+|jname=エレキスマッシュ
+|jtrans=Electric Smash
+|damage=20+
+|effect=Flip a coin. If heads, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Togedemaru
+|species=Roly-Poly
+|ndex=0777
+|height=1'
+|jheight=0.3
+|weight=7.3
+|jweight=3.3
+|dex=With the long hairs on its back, this Pokémon takes in electricity from other electric Pokémon. It stores what it absorbs in an electric sac.
+|jdex=背中の 長い 毛で 雷や でんきポケモンの 電撃を 受けて 電気袋に 充電する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Togedemaru|74}} from the {{TCG|Cosmic Eclipse}} expansion.
+*'''Electrosmash''' is an attack that first appeared on {{TCG ID|BREAKthrough|Raichu|49}} from the {{TCG|BREAKthrough}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Togedemaru (Hüter des Firmaments 067)]]
+[[es:Togedemaru (Guardianes Celestiales TCG Pocket)]]
+[[fr:Togedemaru (Gardiens Astraux 067)]]
+[[it:Togedemaru (Guardiani Astrali 67)]]
+[[ja:トゲデマル (ポケポケ A3)]]
+[[zh:托戈德玛尔（A3）]]

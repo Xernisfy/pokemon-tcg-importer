@@ -1,0 +1,46 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Heavy Helmet
+|ja name=ヘビーメット
+|trans name=Heavy Helmet
+|subtype=Pokémon Tool
+|image=HeavyHelmetMegaRising219.png
+|illustrator=Toyste Beach
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=219/226|pack=Mega Gyarados|rarity=Diamond|rarity count=2}}
+}}
+
+'''Heavy Helmet''' (Japanese: '''ヘビーメット''' ''Heavy Helmet'') is a {{TCGP|Pokémon Tool}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Tool
+|rule=Pocket Tool
+|effect=If the Pokémon this card is attached to has a Retreat Cost of 3 or more, it takes –&NoBreak;20 damage from attacks from your opponent's Pokémon.
+}}
+
+==Trivia==
+===Origin===
+* This card's artwork alludes to the [[Heavy Ball]] in the [[Pokémon games]]. In the [[Pokémon Trading Card Game]], the {{TCG|Heavy Ball}} card searches for Pokémon cards whose Retreat Cost is 3 or more.
+
+==In other languages==
+{{langtable|color={{TCG Pokémon Tool color}}|bordercolor={{TCG Pokémon Tool color dark}}|textcolor=FFF
+|ja=ヘビーメット ''Heavy-met''
+|zh_yue=沉重頭盔 ''Chàhmchúhng Tàuhkwāi''
+|zh_cmn=沉重頭盔 ''Chénzhòng Tóukuī''
+|fr=Casque Lourd
+|de=Schwerer Helm
+|it=Casco Pesante
+|ko=헤비멧 ''Heavy-met''
+|pt_br=Capacete Compacto
+|es=Casco Pesado
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schwerer Helm (TCG Pocket)]]
+[[es:Casco Pesado (TCG Pocket)]]
+[[fr:Casque Lourd (Méga-Ascension 219)]]
+[[it:Casco Pesante (Mega Ascesa 219)]]
+[[ja:ヘビーメット]]
+[[zh:沉重头盔（TCGP）]]

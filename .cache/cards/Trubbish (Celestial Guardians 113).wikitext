@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Trubbish
+|ja name=ヤブクロン
+|trans name=Yabukuron
+|species=Trubbish
+|type=Darkness
+|image=TrubbishCelestialGuardians113.png
+|illustrator=Tomokazu Komiya
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=113/155}}
+}}
+
+'''Trubbish''' (Japanese: '''ヤブクロン''' ''Yabukuron'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Pound
+|jname=はたく
+|jtrans=Pound
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Trubbish
+|species=Trash Bag
+|ndex=0568
+|height=2'
+|jheight=0.6
+|weight=68.3
+|jweight=31.0
+|dex=Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokémon living in your room.
+|jdex=不衛生な 場所が 好き。 ゴミで 汚したまま 放っておくと 部屋にも 現れて 棲みつく。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Dragons Exalted|Trubbish|53}} from the {{TCG|Dragons Exalted}} expansion; both cards have the Pound attack.
+*{{m|Pound}} is a [[move]] in the [[Pokémon games]] that {{p|Trubbish}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Unratütox (Hüter des Firmaments 113)]]
+[[es:Trubbish (Guardianes Celestiales TCG Pocket)]]
+[[fr:Miamiasme (Gardiens Astraux 113)]]
+[[it:Trubbish (Guardiani Astrali 113)]]
+[[ja:ヤブクロン (ポケポケ A3)]]
+[[zh:破破袋（A3）]]

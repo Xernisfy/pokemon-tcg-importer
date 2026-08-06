@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Espathra
+|ja name=クエスパトラ
+|trans name=Cuespatra
+|species=Espathra
+|type=Psychic
+|image=EspathraPaldeanWonders51.png
+|illustrator=Sanosuke Sakuma
+|hp=90
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Flittle
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=051/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Espathra''' (Japanese: '''クエスパトラ''' ''Cuespatra'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Psychic
+|jname=サイコキネシス
+|jtrans=Psychokinesis
+|damage=30+
+|effect=This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Espathra
+|category=Ostrich
+|ndex=0956
+|height=6'3"
+|jheight=1.9
+|weight=198.4
+|jweight=90.0
+|dex=It emits psychic power from the gaps between its multicolored frills and sprints at speeds greater than 120 mph.
+|jdex=色とりどりの フリルの 隙間から サイコパワーを 放出して 時速200キロで 疾走する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|SVP Promo|Espathra|10}}, one of the {{TCG|SVP Black Star Promos}}.
+*{{m|Psychic}} is a [[move]] in the [[Pokémon games]] that {{p|Espathra}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Psiopatra (Wundervolles Paldea 051)]]
+[[fr:Cléopsytra (Merveilles de Paldea 051)]]
+[[it:Espathra (Meraviglie di Paldea 51)]]
+[[ja:クエスパトラ (ポケポケ B2a)]]
+[[zh:超能艳鸵（B2a）]]

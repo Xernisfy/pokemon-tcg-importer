@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mienshao
+|ja name=コジョンド
+|trans name=Kojondo
+|species=Mienshao
+|type=Fighting
+|image=MienshaoCrimsonBlaze44.png
+|illustrator=Suwama Chiaki
+|hp=90
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Mienfoo
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=044/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Mienshao''' (Japanese: '''コジョンド''' ''Kojondo'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Low Sweep
+|jname=ローキック
+|jtrans=Low Kick
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Mienshao
+|species=Martial Arts
+|ndex=0620
+|height=4'7"
+|jheight=1.4
+|weight=78.3
+|jweight=35.5
+|dex=Delivered at blinding speeds, kicks from this Pokémon can shatter massive boulders into tiny pieces.
+|jdex=目にも 止まらぬ スピードで 繰りだす 蹴りは 巨大な 岩も 木っ端みじんに 砕く。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Next Destinies|Mienshao|68}} from the {{TCG|Next Destinies}} expansion.
+*{{m|Low Sweep}} is a [[move]] in the [[Pokémon games]] that {{p|Mienshao}} can learn via [[TM]].
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wie-Shu (Feuerrote Flammen 044)]]
+[[fr:Shaofouine (Embrasement Écarlate 044)]]
+[[it:Mienshao (Fiamme Cremisi 44)]]
+[[ja:コジョンド (ポケポケ B1a)]]
+[[zh:师父鼬（B1a）]]

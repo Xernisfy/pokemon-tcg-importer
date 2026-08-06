@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Togedemaru
+|ja name=トゲデマル
+|trans name=Togedemaru
+|species=Togedemaru
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TogedemaruEeveeGrove48.png|illustrator=Oswaldo KATO|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TogedemaruPromo-A90.png|illustrator=sowsow|tab caption=Promo}}
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=048/069}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=090/P-A}}
+}}
+
+'''Togedemaru''' (Japanese: '''トゲデマル''' ''Togedemaru'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}
+|name=Bristling Spikes
+|jname=さかだつトゲ
+|jtrans=Bristling Spikes
+|damage=30
+|effect=During your opponent's next turn, if this Pokémon is damaged by an attack, do 30 damage to the Attacking Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Togedemaru
+|category=Roly-Poly 
+|ndex=0777
+|height=1'
+|jheight=0.3
+|weight=7.3
+|jweight=3.3
+|dex=With the long hairs on its back, this Pokémon takes in electricity from other electric Pokémon. It stores what it absorbs in an electric sac.
+|jdex=背中の 長い 毛で 雷や でんきポケモンの 電撃を 受けて 電気袋に 充電する。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available via special wonder picks during the Silvally [[Wonder Pick Event (Silvally)|Wonder Pick Event]], which ran from July 11 to 21, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=TogedemaruEeveeGrove48.png
+|caption1=Uncommon card<br>Illus. [[Oswaldo KATO]]
+|image2=TogedemaruPromo-A90.png
+|caption2=Promo card<br>Illus. [[sowsow]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Eevee Grove}} illustration was first featured on {{TCG ID|Fusion Strike|Togedemaru|187}} from the {{TCG|Fusion Strike}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Cosmic Eclipse|Togedemaru|73}} from the {{TCG|Cosmic Eclipse}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Togedemaru (Evoli-Hain 048)]]
+[[es:Togedemaru (Arboleda de Eevee TCG Pocket)]]
+[[fr:Togedemaru (La Clairière d'Évoli 048)]]
+[[it:Togedemaru (Il Bosco di Eevee 48)]]
+[[ja:トゲデマル (ポケポケ A3b)]]
+[[zh:托戈德玛尔（A3b）]]

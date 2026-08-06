@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lopunny
+|ja name=ミミロップ
+|trans name=Mimilop
+|species=Lopunny
+|type=Colorless
+|image=LopunnyShiningRevelry67.png
+|illustrator=Minahamu
+|hp=100
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Buneary
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=067/072|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Lopunny''' (Japanese: '''ミミロップ''' ''Mimilop'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Hopping Shot
+|jname=ホッピングシュート
+|jtrans=Hopping Shoot
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Lopunny
+|category=Rabbit 
+|ndex=0428
+|height=3'11"
+|jheight=1.2
+|weight=73.4
+|jweight=33.3
+|dex=Lopunny is constantly monitoring its surroundings. If dangers approaches, this Pokémon responds with superdestructive kicks.
+|jdex=まわりの 様子を つねに 気にして 危険が およぶと 破壊力 抜群の キックを おみまいする。
+}}
+
+==Trivia==
+===Origin===
+*'''Hopping Shot''' is an attack that first appeared on {{TCG ID|Fusion Strike|Lopunny|213}} from the {{TCG|Fusion Strike}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schlapor (Glänzendes Festival 067)]]
+[[es:Lopunny (Festival Brillante TCG Pocket)]]
+[[fr:Lockpin (Réjouissances Rayonnantes 067)]]
+[[it:Lopunny (Tripudio Splendente 67)]]
+[[ja:ミミロップ (ポケポケ A2b)]]
+[[zh:長耳兔（A2b）]]

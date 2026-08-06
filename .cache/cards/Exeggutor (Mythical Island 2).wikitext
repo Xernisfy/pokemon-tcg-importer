@@ -1,0 +1,79 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Exeggutor
+|ja name=ナッシー
+|trans name=Nassy
+|species=Exeggutor
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ExeggutorMythicalIsland2.png|illustrator=Masakazu Fukuda|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ExeggutorMythicalIsland69.png|illustrator=Gapao|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ExeggutorCelestialGuardians214.png|illustrator=Shigenori Negishi|tab caption=Shiny Rare}}
+|hp=130
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Exeggcute
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=002/068|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=069/068|pack=Any|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=214/155|pack=Lunala|rarity=Shiny|rarity count=1}}
+}}
+
+'''Exeggutor''' (Japanese: '''ナッシー''' ''Nassy'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Psychic
+|jname=サイコキネシス
+|jtrans=Psychokinesis
+|damage=80+
+|effect=This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Exeggutor
+|species=Coconut
+|ndex=0103
+|height=6'7"
+|jheight=2
+|weight=264.6
+|jweight=120.0
+|dex=Each of Exeggutor's three heads is thinking different thoughts. The three don't seem to be very interested in one another.
+|jdex=３つの　頭は　べつのことを 考えている｡　自分以外は あまり　興味がない　ようだ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=ExeggutorMythicalIsland2.png
+|caption1=Uncommon card<br>Illus. [[Masakazu Fukuda]]
+|image2=ExeggutorMythicalIsland69.png
+|caption2=Illustration rare card<br>Illus. [[Gapao]]
+|image3=ExeggutorCelestialGuardians214.png
+|caption3=Shiny rare card<br>Illus. [[Shigenori Negishi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Mysterious Treasures|Exeggutor|24}} from the {{TCG|Mysterious Treasures}} expansion.
+*This card's shiny rare print features a {{Shiny}} {{p|Exeggutor}}.
+*{{m|Psychic}} is a [[move]] in the [[Pokémon games]] that {{p|Exeggutor}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kokowei (Mysteriöse Insel 002)]]
+[[es:Exeggutor (La Isla Singular TCG Pocket)]]
+[[fr:Noadkoko (L'Île Fabuleuse 002)]]
+[[it:Exeggutor (L'Isola Misteriosa 2)]]
+[[ja:ナッシー (ポケポケ A1a)]]
+[[zh:椰蛋树（A1a）]]

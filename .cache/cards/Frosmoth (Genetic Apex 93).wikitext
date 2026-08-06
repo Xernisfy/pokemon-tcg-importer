@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Frosmoth
+|ja name=モスノウ
+|trans name=Mothnow
+|species=Frosmoth
+|type=Water
+|image=FrosmothGeneticApex93.png
+|illustrator=aoki
+|hp=90
+|weakness=Metal
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Snom
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=093/226|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Frosmoth''' (Japanese: '''モスノウ''' ''Mothnow'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Powder Snow
+|jname=こなゆき
+|jtrans=Powder Snow
+|damage=40
+|effect=Your opponent's Active Pokémon is now {{TCG|Asleep}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Frosmoth
+|species=Frost Moth
+|ndex=0873
+|height=4'3"
+|jheight=1.3
+|weight=92.6
+|jweight=42.0
+|dex=Frosmoth senses air currents with its antennae. It sends its scales drifting on frigid air, making them fall like snow.
+|jdex=触角で　大気の　流れを　察知する｡ りんぷんに　冷気を　織り交ぜ 雪のように　降らせる｡
+}}
+
+==Trivia==
+===Origin===
+*{{m|Powder Snow}} is a [[move]] in the [[Pokémon games]] that {{p|Frosmoth}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mottineva (Unschlagbare Gene 093)]]
+[[es:Frosmoth (Genes Formidables TCG Pocket)]]
+[[fr:Beldeneige (Puissance Génétique 093)]]
+[[it:Frosmoth (Geni Supremi 93)]]
+[[ja:モスノウ (ポケポケ A1)]]
+[[zh:雪绒蛾（A1）]]

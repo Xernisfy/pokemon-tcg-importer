@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Floragato
+|ja name=ニャローテ
+|trans name=Nyarote
+|species=Floragato
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FloragatoPaldeanWonders2.png|illustrator=Kouki Saitou|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FloragatoPaldeanWonders117.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=90
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Sprigatito
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=002/093|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=117/093|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Floragato''' (Japanese: '''ニャローテ''' ''Nyarote'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Leaf Step
+|jname=リーフステップ
+|jtrans=Leaf Step
+|damage=30
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Floragato
+|category=Grass Cat
+|ndex=0907
+|height=2'11"
+|jheight=0.9
+|weight=26.9
+|jweight=12.2
+|dex=The hardness of Floragato's fur depends on the Pokémon's mood. When Floragato is prepared to battle, its fur becomes pointed and needle sharp.
+|jdex=体毛の　硬さは　気分で　変わる｡ 臨戦態勢になると 針のように　鋭利に　尖るぞ｡
+}}
+
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=FloragatoPaldeanWonders2.png
+|caption1=Common card<br>Illus. [[Kouki Saitou]]
+|image2=FloragatoPaldeanWonders117.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Scarlet & Violet|Floragato|14}} from the {{TCG|Scarlet & Violet}} expansion.
+**Both cards have the '''Leaf Step''' attack, which first appeared on {{TCG ID|SM Promo|Shining Celebi|79}}, one of the {{TCG|SM Black Star Promos}}.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Floragato}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Feliospa (Wundervolles Paldea 002)]]
+[[es:Floragato (Encantos de Paldea TCG Pocket)]]
+[[fr:Matourgeon (Merveilles de Paldea 002)]]
+[[it:Floragato (Meraviglie di Paldea 2)]]
+[[ja:ニャローテ (ポケポケ B2a)]]
+[[zh:蒂蕾喵（B2a）]]

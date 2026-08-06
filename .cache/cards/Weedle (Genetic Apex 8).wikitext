@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Weedle
+|ja name=ビードル
+|trans name=Beedle
+|species=Weedle
+|type=Grass
+|image=WeedleGeneticApex8.png
+|illustrator=Hajime Kusajima
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mewtwo|rarity=Diamond|rarity count=1|number=008/226}}
+}}
+
+'''Weedle''' (Japanese: '''ビードル''' ''Beedle'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Sting
+|jname=チクチクさす
+|jtrans=Stinging Stab
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Weedle
+|species=Hairy Bug
+|ndex=0013
+|height=1'
+|jheight=0.3
+|weight=7.1
+|jweight=3.2
+|dex=Often found in forests and grasslands. It has a sharp, toxic barb of around two inches on top of its head.
+|jdex=森や　草地に　多く　生息｡ 頭の　先に　５センチぐらいの 小さく　鋭い　毒針を持つ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX FireRed & LeafGreen|Weedle|86}} from the {{TCG|EX FireRed & LeafGreen}} expansion.
+*'''Sting''' is an attack that first appeared on {{TCG ID|Gym Challenge|Koga's Weedle|82}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hornliu (Unschlagbare Gene 008)]]
+[[es:Weedle (Genes Formidables TCG Pocket)]]
+[[fr:Aspicot (Puissance Génétique 008)]]
+[[it:Weedle (Geni Supremi 8)]]
+[[ja:ビードル (ポケポケ A1)]]
+[[zh:独角虫（A1）]]

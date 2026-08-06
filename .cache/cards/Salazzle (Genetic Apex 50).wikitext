@@ -1,0 +1,64 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Salazzle
+|ja name=エンニュート
+|trans name=Ennewt
+|species=Salazzle
+|type=Fire
+|image=SalazzleGeneticApex50.png
+|illustrator=hatachu
+|hp=90
+|weakness=Water
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Salandit
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=050/226|pack=Mewtwo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Salazzle''' (Japanese: '''エンニュート''' ''Ennewt'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}
+|name=Fire Claws
+|jname=ほのおのツメ
+|jtrans=Flame Claws
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Salazzle
+|species=Toxic Lizard
+|ndex=0758
+|height=3'11"
+|jheight=1.2
+|weight=48.9
+|jweight=22.2
+|dex=Salazzle makes its opponents light-headed with poisonous gas, then captivates them with alluring movements to turn them into loyal servants.
+|jdex=毒ガスで　クラクラにした　相手を 妖艶な　身のこなしで　誘惑し 忠実な　しもべに　してしまう｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unbroken Bonds|Salazzle|31}} from the {{TCG|Unbroken Bonds}} expansion.
+*'''Fire Claws''' is an attack that first appeared on {{TCG ID|Gym Challenge|Blaine's Charmeleon|31}} from the {{TCG|Gym Challenge}} expansion.<ref group="nb">Blaine's Charmeleon uses hiragana (ほのおのつめ) for the Japanese attack name, while all subsequent instances use katakana (ほのおのツメ) instead.</ref>
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+==Notes==
+{{reflist|group=nb}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Amfira (Unschlagbare Gene 050)]]
+[[es:Salazzle (Genes Formidables TCG Pocket)]]
+[[fr:Malamandre (Puissance Génétique 050)]]
+[[it:Salazzle (Geni Supremi 50)]]
+[[ja:エンニュート (ポケポケ A1)]]
+[[zh:焰后蜥（A1）]]

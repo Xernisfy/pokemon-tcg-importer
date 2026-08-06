@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Porygon2
+|ja name=ポリゴン２
+|trans name=Porygon2
+|species=Porygon2
+|type=Colorless
+|image=Porygon2WisdomofSeaandSky136.png
+|illustrator=Nagomi Nijo
+|hp=80
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Porygon
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=136/161|pack=Lugia|rarity=Diamond|rarity count=2}}
+}}
+
+'''Porygon2''' (Japanese: '''ポリゴン２''' ''Porygon2'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Buggy Evolution
+|jname=バグしんか
+|jtrans=Buggy Evolution
+|effect=Whenever you attach an Energy from your Energy Zone to this Pokémon, put a random card from your deck that evolves from this Pokémon onto this Pokémon to evolve it.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Spinning Attack 
+|jname=かいてんアタック
+|jtrans=Spinning Attack
+|damage=40
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Porygon2
+|category=Virtual 
+|ndex=0233
+|height=2'
+|jheight=0.6
+|weight=71.7
+|jweight=32.5
+|dex=This is a Porygon that was updated with special data. Porygon2 develops itself by learning about many different subjects all on its own.
+|jdex=ポリゴンを 特別な データで アップデート。 さまざまな ことを 自分で 学び 成長する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Chilling Reign|Porygon2|117}} from the {{TCG|Chilling Reign}} expansion.
+*'''Spinning Attack''' is an attack that first appeared on {{TCG ID|Vending|Staryu|S3}} from {{TCG|Expansion Sheet 3}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Porygon2 (Weisheit von Meer und Himmel 136)]]
+[[es:Porygon2 (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Porygon2 (Sagesse entre Ciel et Mer 136)]]
+[[it:Porygon2 (La Via del Cielo e del Mare 136)]]
+[[ja:ポリゴン2 (ポケポケ A4)]]
+[[zh:多邊獸Ⅱ（A4）]]

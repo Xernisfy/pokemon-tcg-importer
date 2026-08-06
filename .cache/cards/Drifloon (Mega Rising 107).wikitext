@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Drifloon
+|ja name=フワンテ
+|trans name=Fuwante
+|species=Drifloon
+|type=Psychic
+|image=DrifloonMegaRising107.png
+|illustrator=Asako Ito
+|hp=60
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=107/226|pack=Mega Altaria|rarity=Diamond|rarity count=1}}
+}}
+
+'''Drifloon''' (Japanese: '''フワンテ''' ''Fuwante'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Wind Blast
+|jname=かぜふんしゃ
+|jtrans=Wind Jet
+|damage=
+|effect=This attack does 20 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Drifloon
+|category=Balloon
+|ndex=0425
+|height=1'4"
+|jheight=0.4
+|weight=2.6
+|jweight=1.2
+|dex=Because of the way it floats aimlessly, an old folktale calls it a “signpost for wandering spirits.”
+|jdex=あてもなく 浮かぶ 様子から 迷える 魂の道しるべ と 伝える 昔話も ある。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ultra Prism|Drifloon|51}} from the {{TCG|Ultra Prism}} expansion.
+*'''Wind Blast''' is an attack that first appeared on {{TCG ID|Plasma Blast|Drifloon|34}} from the {{TCG|Plasma Blast}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Driftlon (Mega-Aufstieg 107)]]
+[[es:Drifloon (Megaascenso TCG Pocket)]]
+[[fr:Baudrive (Méga-Ascension 107)]]
+[[it:Drifloon (Mega Ascesa 107)]]
+[[ja:フワンテ (ポケポケ B1)]]
+[[zh:飘飘球（B1）]]

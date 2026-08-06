@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Stoutland
+|ja name=ムーランド
+|trans name=Mooland
+|species=Stoutland
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=StoutlandMegaRising203.png|illustrator=Shin Nagasawa|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=StoutlandMegaRising249.png|illustrator=Whisker|tab caption=Illustration Rare}}
+|hp=150
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Herdier
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=203/226|pack=Mega Altaria|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=249/226|pack=Mega Altaria|rarity=Star|rarity count=1}}
+}}
+
+'''Stoutland''' (Japanese: '''ムーランド''' ''Mooland'') is a {{ct|Colorless}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Dangerous Bite
+|jname=デンジャラスバイト
+|jtrans=Dangerous Bite
+|damage=70+
+|effect=If your opponent's Active Pokémon is a Basic Pokémon, this attack does 70 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Stoutland
+|category=Big-Hearted
+|ndex=0508
+|height=3'11"
+|jheight=1.2
+|weight=134.5
+|jweight=61.0
+|dex=Stoutland is immensely proud of its impressive moustache. It's said that moustache length is what determines social standing among this species.
+|jdex=立派なヒゲが 自慢の ポケモン。 その 長さで 仲間同士の 優劣が 決まると いう。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=StoutlandMegaRising203.png
+|caption1=Rare card<br>Illus. [[Shin Nagasawa]]
+|image2=StoutlandMegaRising249.png
+|caption2=Illustration rare card<br>Illus. [[Whisker]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Boundaries Crossed|Stoutland|122}} from the {{TCG|Boundaries Crossed}} expansion.
+*'''Dangerous Bite''' is an attack that first appeared on {{TCG ID|Celestial Storm|Huntail|42}} from the {{TCG|Celestial Storm}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bissbark (Mega-Aufstieg 203)]]
+[[es:Stoutland (Megaascenso TCG Pocket)]]
+[[fr:Mastouffe (Méga-Ascension 203)]]
+[[it:Stoutland (Mega Ascesa 203)]]
+[[ja:ムーランド (ポケポケ B1)]]
+[[zh:长毛狗（B1）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Baltoy
+|ja name=ヤジロン
+|trans name=Yajilon
+|species=Baltoy
+|type=Fighting
+|image=BaltoyExtradimensionalCrisis30.png
+|illustrator=Uta
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=030/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Baltoy''' (Japanese: '''ヤジロン''' ''Yajilon'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Spinning Attack
+|jname=かいてんアタック
+|jtrans=Spinning Attack
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Baltoy
+|species=Clay Doll
+|ndex=0343
+|height=1'8"
+|jheight=0.5
+|weight=47.4
+|jweight=21.5
+|dex=It moves while spinning around on its single foot. Some Baltoy have been seen spinning on their heads.
+|jdex=一本足で 回転しながら 移動する。 逆さまに なって 回転する ヤジロンも 見かける。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sword & Shield|Baltoy|101}} from the {{TCG|Sword & Shield}} expansion.
+*'''Spinning Attack''' is an attack that first appeared on {{TCG ID|Vending|Staryu|S3}} from {{TCG|Expansion Sheet 3}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Puppance (Dimensionale Krise 030)]]
+[[es:Baltoy (Crisis Dimensional TCG Pocket)]]
+[[fr:Balbuto (Crise Interdimensionnelle 030)]]
+[[it:Baltoy (Crisi Ultradimensionale 30)]]
+[[ja:ヤジロン (ポケポケ A3a)]]
+[[zh:天秤偶（A3a）]]

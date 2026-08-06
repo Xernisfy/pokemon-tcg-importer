@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Clobbopus
+|ja name=タタッコ
+|trans name=Tatakko
+|species=Clobbopus
+|type=Fighting
+|image=ClobbopusGeneticApex162.png
+|illustrator=Yuu Nishida
+|hp=80
+|weakness=Psychic
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=162/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Clobbopus''' (Japanese: '''タタッコ''' ''Tatakko'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}
+|name=Knuckle Punch
+|jname=げんこつ
+|jtrans=Fist
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Clobbopus
+|species=Tantrum
+|ndex=0852
+|height=2'
+|jheight=0.6
+|weight=8.8
+|jweight=4.0
+|dex=It's very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.
+|jdex=餌を　求め　地上に　上がる｡ 好奇心旺盛で　目にしたものは とりあえず　触手で　殴る｡
+}}
+
+==Trivia==
+===Origin===
+*'''Knuckle Punch''' is an attack that first appeared on {{TCG ID|Neo Revelation|Geodude|44}} from the {{TCG|Neo Revelation}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Klopptopus (Unschlagbare Gene 162)]]
+[[es:Clobbopus (Genes Formidables TCG Pocket)]]
+[[fr:Poulpaf (Puissance Génétique 162)]]
+[[it:Clobbopus (Geni Supremi 162)]]
+[[ja:タタッコ (ポケポケ A1)]]
+[[zh:拳拳蛸（A1）]]

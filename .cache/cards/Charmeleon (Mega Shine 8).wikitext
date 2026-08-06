@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Charmeleon
+|ja name=リザード
+|trans name=Lizardo
+|species=Charmeleon
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharmeleonMegaShine8.png|illustrator=Shin Nagasawa|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CharmeleonMegaShine92.png|illustrator=whomor Inc.|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Charmander
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=008/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=092/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Charmeleon''' (Japanese: '''リザード''' ''Lizardo'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Ability/Pocket
+|type=Fire
+|name=Ignition
+|jname=イグニッション
+|jtrans=Ignition
+|effect=Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may take a {{e|Fire}} Energy from your Energy Zone and attach it to your Active {{e|Fire}} Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Slash
+|jname=きりさく
+|jtrans=Slash
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Charmeleon
+|category=Flame
+|ndex=0005
+|height=3'7"
+|jheight=1.1
+|weight=41.9
+|jweight=19.0
+|dex=It is very hotheaded by nature, so it constantly seeks opponents to battle against. Its aggression will not be quelled if it doesn’t win.
+|jdex=燃えたぎるような　性格で　いつも 戦う　相手を　探している｡ 勝たないと　血が　静まらない｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=CharmeleonMegaShine8.png
+|caption1=Uncommon card<br>Illus. [[Shin Nagasawa]]
+|image2=CharmeleonMegaShine92.png
+|caption2=Shiny rare card<br>Illus. [[whomor Inc.]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Hidden Fates|Charmeleon|8}} from the {{TCG|Hidden Fates}} expansion.
+**Both cards have the {{m|Scratch}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Charmeleon}} can learn.
+*This card's shiny rare illustration features a {{Shiny}} Charmeleon.
+*'''Ignition''' is an {{TCG|Ability}} that first appeared on {{TCG ID|Crimson Blaze|Charmeleon|12}} from the {{TCGP|Crimson Blaze}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Glutexo (Mega-Schillern 008)]]
+[[fr:Reptincel (Méga-Rayonnement 008)]]
+[[it:Charmeleon (Mega Splendore 8)]]
+[[ja:リザード (ポケポケ B2b)]]
+[[zh:火恐龙（B2b）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Shellder
+|ja name=シェルダー
+|trans name=Shellder
+|species=Shellder
+|type=Water
+|image=ShellderGeneticApex66.png
+|illustrator=Sumiyoshi Kizuki
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=066/226|pack=Mewtwo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Shellder''' (Japanese: '''シェルダー''' ''Shellder'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Tongue Slap
+|jname=ベロではたく
+|jtrans=Tongue Strike
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Shellder
+|species=Bivalve
+|ndex=0090
+|height=1'
+|jheight=0.3
+|weight=8.8
+|jweight=4.0
+|dex=It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender.
+|jdex=ダイヤモンドよりも　硬い殻に 覆われている｡　しかし　中は 意外と　柔らかい｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Expedition|Shellder|129}} from the {{TCG|Expedition Base Set}}.
+*'''Tongue Slap''' is an attack that first appeared on {{TCG ID|Gym Heroes|Brock's Lickitung|41}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Muschas (Unschlagbare Gene 066)]]
+[[es:Shellder (Genes Formidables TCG Pocket)]]
+[[fr:Kokiyas (Puissance Génétique 066)]]
+[[it:Shellder (Geni Supremi 66)]]
+[[ja:シェルダー (ポケポケ A1)]]
+[[zh:大舌贝（A1）]]

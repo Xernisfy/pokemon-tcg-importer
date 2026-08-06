@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Meditite
+|ja name=アサナン
+|trans name=Asanan
+|species=Meditite
+|type=Fighting
+|image=MedititeTriumphantLight43.png
+|illustrator=Mina Nakai
+|hp=60
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=043/075|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Meditite''' (Japanese: '''アサナン''' ''Asanan'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Kick
+|jname=キック
+|jtrans=Kick
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Meditite
+|species=Meditate
+|ndex=0307
+|height=2'
+|jheight=0.6
+|weight=24.7
+|jweight=11.2
+|dex=It never skips its daily yoga training. It heightens its inner strength through meditation.
+|jdex=毎日 ヨガの 修行を 欠かさない。 瞑想を することで 精神力を 高めている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Meditite|109}} from the {{TCG|Unified Minds}} expansion.
+*'''Kick''' is an attack that first appeared on {{TCG ID|Team Rocket|Machop|59}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Meditie (Licht des Triumphs 043)]]
+[[es:Meditite (Luz Triunfal TCG Pocket)]]
+[[fr:Méditikka (Lumière Triomphale 043)]]
+[[it:Meditite (Luce Trionfale 43)]]
+[[ja:アサナン (ポケポケ A2a)]]
+[[zh:瑪沙那（A2a）]]

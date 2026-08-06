@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Scatterbug
+|ja name=コフキムシ
+|trans name=Kofukimushi
+|species=Scatterbug
+|type=Grass
+|image=ScatterbugFantasticalParade11.png
+|illustrator=Akira Komayama
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=011/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Scatterbug''' (Japanese: '''コフキムシ''' ''Kofukimushi'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Bug Bite
+|jname=むしくい
+|jtrans=Bug Bite
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Scatterbug
+|species=Scatterdust
+|ndex=0664
+|height=1'
+|jheight=0.3
+|weight=5.5
+|jweight=2.5
+|dex=This Pokémon scatters poisonous powder to repel enemies. It will eat different plants depending on where it lives.
+|jdex=毒の粉を まき散らして 敵を 追い払う。 棲んでいる 土地により エサにする 植物が 違う。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|XY|Scatterbug|15}} from the {{TCG|XY}} expansion; both cards have the Bug Bite attack.
+*{{m|Bug Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Scatterbug}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Purmel (Traumhafte Parade 011)]]
+[[fr:Lépidonille (Parade Onirique 011)]]
+[[it:Scatterbug (Parata Fantasmagorica 11)]]
+[[ja:コフキムシ (ポケポケ B2)]]
+[[zh:粉蝶虫（B2）]]

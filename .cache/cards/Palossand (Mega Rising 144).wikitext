@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Palossand
+|ja name=シロデスナ
+|trans name=Sirodethna
+|species=Palossand
+|type=Fighting
+|image=PalossandMegaRising144.png
+|illustrator=Shibuzoh.
+|hp=140
+|weakness=Grass
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Sandygast
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=144/226|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Palossand''' (Japanese: '''シロデスナ''' ''Sirodethna'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Life Sucker
+|jname=ライフサッカー 
+|jtrans=Life Sucker
+|damage=70
+|effect=Heal 20 damage from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Palossand
+|category=Sand Castle 
+|ndex=0770
+|height=4'3"
+|jheight=1.3
+|weight=551.2
+|jweight=250.0
+|dex=From the hollows in its arms, it fires the bones of its victims, which are all dried up after being drained of their vitality. 
+|jdex=生命エネルギーを 吸い取り 干からびた ものたちの 骨を 腕の へこみから 発射する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fusion Strike|Palossand|126}} from the {{TCG|Fusion Strike}} expansion.
+*'''Life Sucker''' is an attack that first appeared on {{TCG ID|Champion's Path|Hatterene|20}} from the {{TCG|Champion's Path}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Colossand (Mega-Aufstieg 144)]]
+[[es:Palossand (Megaascenso TCG Pocket)]]
+[[fr:Trépassable (Méga-Ascension 144)]]
+[[it:Palossand (Mega Ascesa 144)]]
+[[ja:シロデスナ (ポケポケ B1)]]
+[[zh:噬沙堡爷（B1）]]

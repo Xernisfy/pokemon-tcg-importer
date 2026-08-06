@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Marshadow
+|ja name=マーシャドー
+|trans name=Marshadow
+|species=Marshadow
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MarshadowMythicalIsland47.png|illustrator=kantaro|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MarshadowDeluxePackex225.png|illustrator=kantaro|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MarshadowMythicalIsland74.png|illustrator=OKACHEKE|tab caption=Illustration Rare}}
+|hp=80
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=047/068|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=074/068|pack=Any|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=224/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=225/353|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Marshadow''' (Japanese: '''マーシャドー''' ''Marshadow'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}
+|name=Revenge
+|jname=リベンジ
+|jtrans=Revenge
+|damage=40+
+|effect=If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Marshadow
+|species=Gloomdweller
+|ndex=0802
+|height=2'4"
+|jheight=0.7
+|weight=48.9
+|jweight=22.2
+|dex=It slips into the shadows of others and mimics their powers and movements. As it improves, it becomes stronger than those it's imitating.
+|jdex=相手の 影に 潜って 動きや 力を 真似る。 真似ているうちに 本物 よりも 強くなるぞ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=MarshadowMythicalIsland47.png
+|caption1=Standard card<br>Illus. [[kantaro]]
+|image2=MarshadowMythicalIsland74.png
+|caption2=Illustration rare card<br>Illus. [[OKACHEKE]]
+|image3=MarshadowDeluxePackex225.png
+|caption3=Parallel foil card<br>Illus. [[kantaro]]
+}}
+
+==Trivia==
+===Origin===
+*{{m|Revenge}} is a [[move]] in the [[Pokémon games]] that {{p|Marshadow}} can learn via [[TM42]] in [[Generation VIII]].
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Marshadow (Mysteriöse Insel 047)]]
+[[es:Marshadow (La Isla Singular TCG Pocket)]]
+[[fr:Marshadow (L'Île Fabuleuse 047)]]
+[[it:Marshadow (L'Isola Misteriosa 47)]]
+[[ja:マーシャドー (ポケポケ A1a)]]
+[[zh:玛夏多（A1a）]]

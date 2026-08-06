@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Honchkrow
+|ja name=ドンカラス
+|trans name=Dongkarasu
+|species=Honchkrow
+|type=Darkness
+|image=HonchkrowWisdomofSeaandSky114.png
+|illustrator=Shiburingaru
+|hp=120
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Murkrow
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=114/161|pack=Lugia|rarity=Diamond|rarity count=2}}
+}}
+
+'''Honchkrow''' (Japanese: '''ドンカラス''' ''Dongkarasu'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}
+|name=Dark Cutter
+|jname=ダークカッター
+|jtrans=Dark Cutter
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Honchkrow
+|species=Big Boss
+|ndex=0430
+|height=2'11"
+|jheight=0.9
+|weight=60.2
+|jweight=27.3
+|dex=It is merciless by nature. It is said that it never forgives the mistakes of its Murkrow followers.
+|jdex=情け容赦ない 性格。 子分の ヤミカラスの 失敗は 絶対に 許さないと 言われる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Origin|Honchkrow|115}} from the {{TCG|Lost Origin}} expansion.
+*'''Dark Cutter''' is an attack that first appeared on {{TCG ID|Undaunted|Murkrow|59}} from {{TCG|Undaunted}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kramshef (Weisheit von Meer und Himmel 114)]]
+[[es:Honchkrow (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Corboss (Sagesse entre Ciel et Mer 114)]]
+[[it:Honchkrow (La Via del Cielo e del Mare 114)]]
+[[ja:ドンカラス (ポケポケ A4)]]
+[[zh:乌鸦头头（A4）]]

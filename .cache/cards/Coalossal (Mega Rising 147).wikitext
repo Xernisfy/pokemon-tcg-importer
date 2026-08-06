@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Coalossal
+|ja name=セキタンザン
+|trans name=Sekitanzan
+|species=Coalossal
+|type=Fighting
+|image=CoalossalMegaRising147.png
+|illustrator=AKIRA EGAWA
+|hp=150
+|weakness=Grass
+|retreat cost=4
+|evo stage=Stage 2
+|prevo name=Carkol
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=147/226|pack=Mega Gyarados|rarity=Diamond|rarity count=3}}
+}}
+
+'''Coalossal''' (Japanese: '''セキタンザン''' ''Sekitanzan'') is a {{ct|Fighting}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}
+|name=Coal Drop
+|jname=せきたんおとし
+|jtrans=
+|damage=100+
+|effect=If your opponent's Active Pokémon is a {{e|Grass}} Pokémon, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Coalossal
+|category=Coal
+|ndex=0839
+|height=9'2"
+|jheight=2.8
+|weight=684.5
+|jweight=310.5
+|dex=It's gentle usually but fearsome when angered. With a body that burns at over 2,700 degrees Fahrenheit, it crushes foes and turns them to ash.
+|jdex=温厚な 気質だが 怒ると 怖い。 1500度の 燃えあがる 体で のしかかり 焼きつくす。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Battle Styles|Coalossal|80}} from the {{TCG|Battle Styles}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Montecarbo (Mega-Aufstieg 147)]]
+[[es:Coalossal (Megaascenso TCG Pocket)]]
+[[fr:Monthracite (Méga-Ascension 147)]]
+[[it:Coalossal (Mega Ascesa 147)]]
+[[ja:セキタンザン (ポケポケ B1)]]
+[[zh:巨炭山（B1）]]

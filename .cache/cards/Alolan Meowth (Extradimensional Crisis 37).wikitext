@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Meowth
+|ja name=アローラニャース
+|trans name=Alolan Nyarth
+|species=Meowth
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanMeowthExtradimensionalCrisis37.png|illustrator=Sekio|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanMeowthExtradimensionalCrisis73.png|illustrator=Mina Nakai|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=037/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=073/069|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Alolan Meowth''' (Japanese: '''アローラニャース''' ''Alolan Nyarth'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Meddle
+|jname=ちょっかいをだす
+|jtrans=Meddle
+|damage=
+|effect=Discard a random {{TCGP|Pokémon Tool}} card from your opponent's hand.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Meowth
+|category=Scratch Cat 
+|ndex=0052
+|height=1'4"
+|jheight=0.4
+|weight=9.3
+|jweight=4.2
+|dex=It's accustomed to luxury because it used to live with Alolan royalty. As a result, it's very picky about food.
+|jdex=むかし アローラ地方の 王族と 贅沢な 暮らしを していたため エサの 選り好みが 激しい。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=AlolanMeowthExtradimensionalCrisis37.png
+|caption1=Common card<br>Illus. [[Sekio]]
+|image2=AlolanMeowthExtradimensionalCrisis73.png
+|caption2=Illustration rare card<br>Illus. [[Mina Nakai]]
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Meowth}}.
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Alolan Meowth|128}} from the {{TCG|Cosmic Eclipse}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Mauzi (Dimensionale Krise 037)]]
+[[es:Meowth de Alola (Crisis Dimensional TCG Pocket)]]
+[[fr:Miaouss d'Alola (Crise Interdimensionnelle 037)]]
+[[it:Meowth di Alola (Crisi Ultradimensionale 37)]]
+[[ja:アローラニャース (ポケポケ A3a)]]
+[[zh:阿罗拉 喵喵（A3a）]]

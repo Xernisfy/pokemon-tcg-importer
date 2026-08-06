@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cherrim
+|ja name=チェリム
+|trans name=Cherrim
+|species=Cherrim
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CherrimWisdomofSeaandSky24.png|illustrator=Atsuko Nishida|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CherrimDeluxePackex28.png|illustrator=Atsuko Nishida|tab caption=Parallel}}
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Cherubi
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=024/161|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=027/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=028/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Cherrim''' (Japanese: '''チェリム''' ''Cherrim'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Seed Bomb
+|jname=タネばくだん
+|jtrans=Seed Bomb
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Cherrim
+|species=Blossom
+|ndex=0421
+|height=1'8"
+|jheight=0.5
+|weight=20.5
+|jweight=9.3
+|dex=After absorbing plenty of sunlight, Cherrim takes this form. It's full of energy while it's like this, and its liveliness will go on until sundown.
+|jdex=たいようの ひかりを あびて げんきいっぱいの すがた。 ひぐれまでは かっぱつだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=CherrimWisdomofSeaandSky24.png
+|caption1=Standard card<br>Illus. [[Atsuko Nishida]]
+|image2=CherrimDeluxePackex28.png
+|caption2=Parallel foil card<br>Illus. [[Atsuko Nishida]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Diamond & Pearl|Cherrim|45}} from the {{TCG|Diamond & Pearl}} expansion.
+*{{m|Seed Bomb}} is a [[move]] in the [[Pokémon games]] that {{p|Cherrim}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kinoso (Weisheit von Meer und Himmel 024)]]
+[[es:Cherrim (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Ceriflor (Sagesse entre Ciel et Mer 024)]]
+[[it:Cherrim (La Via del Cielo e del Mare 24)]]
+[[ja:チェリム (ポケポケ A4)]]
+[[zh:樱花儿（A4）]]

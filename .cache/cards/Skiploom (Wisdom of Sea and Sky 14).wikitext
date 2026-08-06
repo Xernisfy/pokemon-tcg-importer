@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Skiploom
+|ja name=ポポッコ
+|trans name=Popocco
+|species=Skiploom
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SkiploomWisdomofSeaandSky14.png|illustrator=Kyoko Umemoto|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SkiploomDeluxePackex17.png|illustrator=Kyoko Umemoto|tab caption=Parallel}}
+|hp=70
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Hoppip
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=014/161|pack=Ho-Oh|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=016/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=017/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Skiploom''' (Japanese: '''ポポッコ''' ''Popocco'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Seed Bomb
+|jname=タネばくだん
+|jtrans=Seed Bomb
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Skiploom
+|species=Cottonweed
+|ndex=0188
+|height=2'
+|jheight=0.6
+|weight=2.2
+|jweight=1.0
+|dex=Skiploom enthusiasts can apparently tell where a Skiploom was born by the scent drifting from the flower on the Pokémon's head.
+|jdex=ポポッコの マニアは 頭の 花から 漂う 香りで どこで 生まれたか わかるらしい。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=SkiploomWisdomofSeaandSky14.png
+|caption1=Standard card<br>Illus. [[Kyoko Umemoto]]
+|image2=SkiploomDeluxePackex17.png
+|caption2=Parallel foil card<br>Illus. [[Kyoko Umemoto]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Team Rocket Returns|Skiploom|49}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*{{m|Seed Bomb}} is a [[move]] in the [[Pokémon games]] that {{p|Skiploom}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hubelupf (Weisheit von Meer und Himmel 014)]]
+[[es:Skiploom (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Floravol (Sagesse entre Ciel et Mer 014)]]
+[[it:Skiploom (La Via del Cielo e del Mare 14)]]
+[[ja:ポポッコ (ポケポケ A4)]]
+[[zh:毽子花（A4）]]

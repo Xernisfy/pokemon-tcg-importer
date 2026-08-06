@@ -1,0 +1,44 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Clemont’s Backpack
+|ja name=シトロンのリュック
+|trans name=Citron’s Backpack
+|subtype=Item
+|image=ClemontBackpackCrimsonBlaze66.png
+|illustrator=AYUMI ODASHIMA
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=066/069}}
+}}
+
+'''Clemont’s Backpack''' (Japanese: '''シトロンのリュック''' ''Citron’s Backpack'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=During this turn, attacks used by your {{TCGP|Magneton}} or {{TCGP|Heliolisk}} do +20 damage to your opponent's Pokémon.
+}}
+
+==Trivia==
+===Origin===
+* This card depicts the [[bag]] used by [[Clemont]] in the games and animated series, often referred to as [[Clemontic Gear]].
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=シトロンのリュック ''Citron no Ryukku''
+|zh_yue=希特隆的背包 ''Hēidahklùhng dīk Buibāau''
+|zh_cmn=希特隆的背包 ''Xītèlóng de Bēibāo''
+|fr=Sac de Lem
+|de=Citros Rucksack
+|it=Zaino di Lem
+|ko=시트론의 륙색 ''Citron-ui Ryuksaek''
+|pt_br=Mochila do Clemont
+|es=Mochila de Lem
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Citros Rucksack (TCG Pocket)]]
+[[fr:Sac de Lem (Embrasement Écarlate 066)]]
+[[ja:シトロンのリュック]]
+[[zh:希特隆的背包（TCGP）]]

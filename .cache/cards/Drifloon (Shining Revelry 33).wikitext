@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Drifloon
+|ja name=フワンテ
+|trans name=Fuwante
+|species=Drifloon
+|type=Psychic
+|image=DrifloonShiningRevelry33.png
+|illustrator=kodama
+|hp=60
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=033/072|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Drifloon''' (Japanese: '''フワンテ''' ''Fuwante'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Drifloon
+|category=Balloon 
+|ndex=0425
+|height=1'4"
+|jheight=0.4
+|weight=2.6
+|jweight=1.2
+|dex=It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing.
+|jdex=風船と 間違えて フワンテを 持っていた 小さな 子どもが 消えてしまうことが あるという。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Steam Siege|Drifloon|46}} from the {{TCG|Steam Siege}} expansion.
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Driftlon (Glänzendes Festival 033)]]
+[[es:Drifloon (Festival Brillante TCG Pocket)]]
+[[fr:Baudrive (Réjouissances Rayonnantes 033)]]
+[[it:Drifloon (Tripudio Splendente 33)]]
+[[ja:フワンテ (ポケポケ A2b)]]
+[[zh:飄飄球（A2b）]]

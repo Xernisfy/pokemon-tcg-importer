@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Indeedee
+|ja name=イエッサン
+|trans name=Yessan
+|species=Indeedee
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=IndeedeeFantasticalParade76.png|illustrator=Saya Tsuruta|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=IndeedeeFantasticalParade169.png|illustrator=saino misaki|tab caption=Illustration Rare}}
+|hp=80
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=076/155|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=169/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Indeedee''' (Japanese: '''イエッサン''' ''Yessan'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}{{e|Psychic}}
+|name=Zen Shard
+|jname=しねんのつぶて
+|jtrans=Thought Pebble
+|damage=
+|effect=This attack does 70 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Indeedee
+|species=Emotion
+|ndex=0876
+|height=2'11"
+|jheight=0.9
+|weight=61.7
+|jweight=28.0
+|dex=This Pokémon never leaves its Trainer's side. It predicts their actions with its psychic power and takes care of their day-to-day needs.
+|jdex=つねに トレーナーの そばに いる。 サイコパワーで 行動を 予知して 身のまわりの 世話をする。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=IndeedeeFantasticalParade76.png
+|caption1=Common card<br>Illus. [[Saya Tsuruta]]
+|image2=IndeedeeFantasticalParade169.png
+|caption2=Illustration rare card<br>Illus. [[saino misaki]]
+}}
+
+==Trivia==
+===Origin===
+*This card features the male form of {{p|Indeedee}}.
+*This card's illustration was first featured on {{TCG ID|Battle Styles|Indeedee|120}} from the {{TCG|Battle Styles}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Servol (Traumhafte Parade 076)]]
+[[fr:Wimessir (Parade Onirique 076)]]
+[[it:Indeedee (Parata Fantasmagorica 76)]]
+[[ja:イエッサン (ポケポケ B2)]]
+[[zh:爱管侍（B2）]]

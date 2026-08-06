@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Steelix
+|ja name=ハガネール
+|trans name=Haganeil
+|species=Steelix
+|type=Metal
+|image=SteelixCrimsonBlaze51.png
+|illustrator=NC Empire
+|hp=150
+|weakness=Fire
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Onix
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=051/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Steelix''' (Japanese: '''ハガネール''' ''Haganeil'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Colorless}}{{e|Colorless}}
+|name=Metal Defender
+|jname=メタルディフェンダー
+|jtrans=Metal Defender
+|damage=100
+|effect=During your opponent's next turn, this Pokémon has no Weakness.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Steelix
+|species=Iron Snake
+|ndex=0208
+|height=30'02"
+|jheight=9.2
+|weight=881.8
+|jweight=400.0
+|dex=It is thought its body transformed as a result of iron accumulating internally from swallowing soil.
+|jdex=土と 一緒に 飲みこんだ 鉄分が 溜まっていって 体が 変化したとも 考えられる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Battle Styles|Steelix|99}} from the {{TCG|Battle Styles}} expansion.
+*'''Metal Defender''' is an attack that first appeared on {{TCG ID|Plasma Freeze|Steelix|79}} from {{TCG|Plasma Freeze}}.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Stahlos (Feuerrote Flammen 051)]]
+[[es:Steelix (Fuego Carmesí TCG Pocket)]]
+[[fr:Steelix (Embrasement Écarlate 051)]]
+[[it:Steelix (Fiamme Cremisi 51)]]
+[[ja:ハガネール (ポケポケ B1a)]]
+[[zh:大钢蛇（B1a）]]

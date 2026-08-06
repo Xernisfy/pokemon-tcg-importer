@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Golduck
+|ja name=ゴルダック
+|trans name=Golduck
+|species=Golduck
+|type=Water
+|image=GolduckMegaRising49.png
+|illustrator=Hasuno
+|hp=90
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Psyduck
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Blaziken|rarity=Diamond|rarity count=1|number=049/226}}
+}}
+
+'''Golduck''' (Japanese: '''ゴルダック''' ''Golduck'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Wave Splash
+|jname=スプラッシュ
+|jtrans=Splash
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Golduck
+|species=Duck
+|ndex=0055
+|height=5'7"
+|jheight=1.7
+|weight=168.9
+|jweight=76.6
+|dex=It swims gracefully along on the quiet, slow- moving rivers and lakes of which it is so fond.
+|jdex=流れの 静かな 川や 湖を 好んでいる。 泳ぐ 姿は とても 優雅。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Golduck|29}} from the {{TCG|Sun & Moon}} expansion.
+*'''Wave Splash''' is an attack that first appeared on {{TCG ID|Vending|Golduck|S3}} from {{TCG|Expansion Sheet 3}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Entoron (Mega-Aufstieg 049)]]
+[[es:Golduck (Megaascenso TCG Pocket)]]
+[[fr:Akwakwak (Méga-Ascension 049)]]
+[[it:Golduck (Mega Ascesa 49)]]
+[[ja:ゴルダック (ポケポケ B1)]]
+[[zh:哥达鸭（B1）]]

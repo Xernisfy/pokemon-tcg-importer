@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Noctowl
+|ja name=ヨルノズク
+|trans name=Yorunozuku
+|species=Noctowl
+|type=Colorless
+|image=NoctowlWisdomofSeaandSky141.png
+|illustrator=Nisota Niso
+|hp=100
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Hoothoot
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=141/161|pack=Ho-Oh|rarity=Diamond|rarity count=1}}
+}}
+
+'''Noctowl''' (Japanese: '''ヨルノズク''' ''Yorunozuku'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Fly
+|jname=そらをとぶ
+|jtrans=Fly
+|damage=90
+|effect=Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Noctowl
+|category=Owl 
+|ndex=0164
+|height=5'3"
+|jheight=1.6
+|weight=89.9
+|jweight=40.8
+|dex=Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.
+|jdex=特殊な つくりの 両目は わずかな 光さえ あれば 暗闇でも 昼のように 見える。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Astral Radiance|Noctowl|121}} from the {{TCG|Astral Radiance}} expansion.
+*{{m|Fly}} is a [[move]] in the [[Pokémon games]] that {{p|Noctowl}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Noctuh (Weisheit von Meer und Himmel 141)]]
+[[es:Noctowl (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Noarfang (Sagesse entre Ciel et Mer 141)]]
+[[it:Noctowl (La Via del Cielo e del Mare 141)]]
+[[ja:ヨルノズク (ポケポケ A4)]]
+[[zh:猫头夜鹰（A4）]]

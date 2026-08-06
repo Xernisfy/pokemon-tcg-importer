@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Timburr
+|ja name=ドッコラー
+|trans name=Dokkorer
+|species=Timburr
+|type=Fighting
+|image=TimburrCelestialGuardians94.png
+|illustrator=Mizue
+|hp=60
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lunala|rarity=Diamond|rarity count=1|number=094/155}}
+}}
+
+'''Timburr''' (Japanese: '''ドッコラー''' ''Dokkorer'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Corkscrew Punch
+|jname=どつく
+|jtrans=Raging Strike
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Timburr
+|species=Muscular
+|ndex=0532
+|height=2'
+|jheight=0.6
+|weight=27.6
+|jweight=12.5
+|dex=It loves helping out with construction projects. It loves it so much that if rain causes work to halt, it swings its log around and throws a tantrum.
+|jdex=けんちくの てつだいが すき。 あめで こうじが やすみの ひは かくざいを ふりまわし あばれる。
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Dark Explorers|Timburr|58}} from the {{TCG|Dark Explorers}} expansion.
+*'''Corkscrew Punch''' is an attack that first appeared on {{TCG ID|Vending|Machop|S2}} from {{TCG|Expansion Sheet 2}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Praktibalk (Hüter des Firmaments 094)]]
+[[es:Timburr (Guardianes Celestiales TCG Pocket)]]
+[[fr:Charpenti (Gardiens Astraux 094)]]
+[[it:Timburr (Guardiani Astrali 94)]]
+[[ja:ドッコラー (ポケポケ A3)]]
+[[zh:搬运小匠（A3）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Quagsire
+|ja name=ヌオー
+|trans name=Nuoh
+|species=Quagsire
+|type=Water
+|image=QuagsireWisdomofSeaandSky52.png
+|illustrator=Kagemaru Himeno
+|hp=130
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Wooper
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=052/161|pack=Lugia|rarity=Diamond|rarity count=2}}
+}}
+
+'''Quagsire''' (Japanese: '''ヌオー''' ''Nuoh'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Surf
+|jname=なみのり
+|jtrans=Surfing
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Quagsire
+|species=Water Fish
+|ndex=0195
+|height=4'7"
+|jheight=1.4
+|weight=165.3
+|jweight=75.0
+|dex=It has an easygoing nature. It doesn't care if it bumps its head on boats and boulders while swimming.
+|jdex=船底や 川の岩に 頭を ぶつけまくっても 気にせず 気ままに 泳いでいる のんきな ポケモン。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Unseen Forces|Quagsire|44}} from the {{TCG|EX Unseen Forces}} expansion.
+*{{m|Surf}} is a [[move]] in the [[Pokémon games]] that {{p|Quagsire}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Morlord (Weisheit von Meer und Himmel 052)]]
+[[es:Quagsire (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Maraiste (Sagesse entre Ciel et Mer 052)]]
+[[it:Quagsire (La Via del Cielo e del Mare 52)]]
+[[ja:ヌオー (ポケポケ A4)]]
+[[zh:沼王（A4）]]

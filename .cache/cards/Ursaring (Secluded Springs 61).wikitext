@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ursaring
+|ja name=リングマ
+|trans name=Ringuma
+|species=Ursaring
+|type=Colorless
+|image=UrsaringSecludedSprings61.png
+|illustrator=Uta
+|hp=130
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Teddiursa
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=061/071}}
+}}
+
+'''Ursaring''' (Japanese: '''リングマ''' ''Ringuma'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Claw Slash
+|jname=ツメできりさく
+|jtrans=Claw Slash
+|damage=110
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Ursaring
+|category=Hibernator 
+|ndex=0217
+|height=5'11"
+|jheight=1.8
+|weight=277.3
+|jweight=125.8
+|dex=It usually wears a hardened expression, but when it's licking up honey—which it loves—the joy it feels will cause it to break into a wide grin.
+|jdex=不敵な 面構えだが 大好きな 蜜を 舐めるときは 嬉しくて 口もとが 緩みきってしまう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Ursaring|139}} from the {{TCG|Darkness Ablaze}} expansion.
+*'''Claw Slash''' is an attack that first appeared on {{TCG ID|XY Promo|Sableye|92}}, one of the {{TCG|XY Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ursaring (Verborgene Quelle 061)]]
+[[es:Ursaring (Manantial Oculto TCG Pocket)]]
+[[fr:Ursaring (Source Secrète 061)]]
+[[it:Ursaring (Sorgenti Recondite 61)]]
+[[ja:リングマ (ポケポケ A4a)]]
+[[zh:圈圈熊（A4a）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tangrowth
+|ja name=モジャンボ
+|trans name=Mojumbo
+|species=Tangrowth
+|type=Grass
+|image=TangrowthWisdomofSeaandSky5.png
+|illustrator=tetsuya koizumi
+|hp=130
+|weakness=Fire
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Tangela
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Ho-Oh|rarity=Diamond|rarity count=3|number=005/161}}
+}}
+
+'''Tangrowth''' (Japanese: '''モジャンボ''' ''Mojumbo'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=Grass Knot
+|jname=くさむすび
+|jtrans=Grass Knot
+|damage=10+
+|effect=This attack does 40 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Tangrowth
+|species=Vine
+|ndex=0465
+|height=6'7"
+|jheight=2.0
+|weight=283.5
+|jweight=128.6
+|dex=Tangrowth has two arms that it can extend as it pleases. Recent research has shown that these arms are, in fact, bundles of vines.
+|jdex=自在に 伸びる ２本の 腕は じつは ツルが 束になったものと 最近の 研究で わかった。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Burning Shadows|Tangrowth|8}} from the {{TCG|Burning Shadows}} expansion.
+*{{m|Grass Knot}} is a [[move]] in the [[Pokémon games]] that {{p|Tangrowth}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tangoloss (Weisheit von Meer und Himmel 005)]]
+[[es:Tangrowth (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Bouldeneu (Sagesse entre Ciel et Mer 005)]]
+[[it:Tangrowth (La Via del Cielo e del Mare 5)]]
+[[ja:モジャンボ (ポケポケ A4)]]
+[[zh:巨蔓藤（A4）]]

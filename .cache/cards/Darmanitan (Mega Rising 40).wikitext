@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Darmanitan
+|ja name=ヒヒダルマ
+|trans name=Hihidaruma
+|species=Darmanitan
+|type=Fire
+|image=DarmanitanMegaRising40.png
+|illustrator=kawayoo
+|hp=130
+|weakness=Water
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Darumaka
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=040/226|pack=Mega Gyarados|rarity=Diamond|rarity count=2}}
+}}
+
+'''Darmanitan''' (Japanese: '''ヒヒダルマ''' ''Hihidaruma'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Fire}}{{e|Colorless}}
+|name=Darmani-Hands
+|jname=だるまれんだん
+|jtrans=Daruma Duet
+|damage=80+
+|effect=Flip 2 coins. This attack does 30 more damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Darmanitan
+|category=Blazing
+|ndex=0555
+|height=4'3"
+|jheight=1.3
+|weight=204.8
+|jweight=92.9
+|dex=This Pokémon's power level rises along with the temperature of its fire, which can reach 2,500 degrees Fahrenheit.
+|jdex=体内の 炎が 燃え盛るほど パワーが 高まる。 その 温度は 1400度を 超える ことも。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Boundaries Crossed|Darmanitan|28}} from the {{TCG|Boundaries Crossed}} expansion.
+*'''Darmani-Hands''' is an attack that first appeared on {{TCG ID|Dragon Majesty|Darmanitan|9}} from the {{TCG|Dragon Majesty}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flampivian (Mega-Aufstieg 040)]]
+[[es:Darmanitan (Megaascenso TCG Pocket)]]
+[[fr:Darumacho (Méga-Ascension 040)]]
+[[it:Darmanitan (Mega Ascesa 40)]]
+[[ja:ヒヒダルマ (ポケポケ B1)]]
+[[zh:达摩狒狒（B1）]]

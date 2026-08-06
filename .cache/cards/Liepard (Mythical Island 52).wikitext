@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Liepard
+|ja name=レパルダス
+|trans name=Lepardas
+|species=Liepard
+|type=Darkness
+|image=LiepardMythicalIsland52.png
+|illustrator=GIDORA
+|hp=90
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Purrloin
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=052/068|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Liepard''' (Japanese: '''レパルダス''' ''Lepardas'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Slash
+|jname=きりさく
+|jtrans=Slash
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Liepard
+|species=Cruel
+|ndex=0510
+|height=3'7"
+|jheight=1.1
+|weight=82.7
+|jweight=37.5
+|dex=Don't be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokémon.
+|jdex=美しい 毛並みと スタイルに 惑わされがちだが 気まぐれで 狂暴な ポケモンなのだ。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Slash}} is a [[move]] in the [[Pokémon games]] that {{p|Liepard}} can learn from Generations {{gen|V}} to {{gen|VII}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kleoparda (Mysteriöse Insel 052)]]
+[[es:Liepard (La Isla Singular TCG Pocket)]]
+[[fr:Léopardus (L'Île Fabuleuse 052)]]
+[[it:Liepard (L'Isola Misteriosa 52)]]
+[[ja:レパルダス (ポケポケ A1a)]]
+[[zh:酷豹（A1a）]]

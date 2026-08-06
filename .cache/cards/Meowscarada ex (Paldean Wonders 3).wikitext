@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Meowscarada {{TCGP Icon|ex}}
+|ja name=マスカーニャ{{TCGP Icon|ex}}
+|trans name=Masquernya {{TCGP Icon|ex}}
+|species=Meowscarada
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MeowscaradaexPaldeanWonders3.png|illustrator=5ban Graphics|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MeowscaradaexPaldeanWonders100.png|illustrator=5ban Graphics|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MeowscaradaexPaldeanWonders110.png|illustrator=kodama|tab caption=Special Illustration Rare}}
+|hp=160
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Floragato
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=003/093|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=100/093|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=110/093|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Meowscarada ex''' (Japanese: '''マスカーニャex''' ''Masquernya ex'') is a {{ct|Grass}} Stage 2 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Flower Trick
+|jname=トリックフラワー
+|jtrans=Trick Flower
+|damage=
+|effect=Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose.
+}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Solar Beam
+|jname=ソーラービーム
+|jtrans=Solar Beam
+|damage=80
+|effect=
+}}
+{{Cardtext/Pocket ex
+|type=Grass
+|ndex=0908
+|name=Meowscarada
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=MeowscaradaexPaldeanWonders3.png
+|caption1=Double rare card<br>Illus. [[5ban Graphics]]
+|image2=MeowscaradaexPaldeanWonders100.png
+|caption2=Super rare card<br>Illus. [[5ban Graphics]]
+|image3=MeowscaradaexPaldeanWonders110.png
+|caption3=Special illustration rare card<br>Illus. [[kodama]]
+}}
+
+==Trivia==
+===Origin===
+*This card's double rare and super rare illustrations were first featured on {{TCG ID|Paldea Evolved|Meowscarada ex|15}} from the {{TCG|Paldea Evolved}} expansion.
+*{{m|Flower Trick}} and {{m|Solar Beam}} are [[move]]s in the [[Pokémon games]] that {{p|Meowscarada}} can learn, the latter via [[TM]].
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Maskagato-ex (Wundervolles Paldea 003)]]
+[[es:Meowscarada ex (Encantos de Paldea TCG Pocket)]]
+[[fr:Miascarade-ex (Merveilles de Paldea 003)]]
+[[it:Meowscarada-ex (Meraviglie di Paldea 3)]]
+[[ja:マスカーニャex (ポケポケ B2a)]]
+[[zh:魔幻假面喵ex（B2a）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lampent
+|ja name=ランプラー
+|trans name=Lampler
+|species=Lampent
+|type=Psychic
+|image=LampentFantasticalParade68.png
+|illustrator=MAHOU
+|hp=80
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Litwick
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=068/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Lampent''' (Japanese: '''ランプラー''' ''Lampler'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Petty Grudge
+|jname=ちょっとうらむ
+|jtrans=Slight Resentment
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Lampent
+|species=Lamp
+|ndex=0608
+|height=2'
+|jheight=0.6
+|weight=28.7
+|jweight=13.0
+|dex=The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.
+|jdex=魂を 吸いとり 火を灯す。 人が 死ぬのを 待つため 病院を うろつくようになった。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Noble Victories|Lampent|59}} from the {{TCG|Noble Victories}} expansion.
+*'''Petty Grudge''' is an attack that first appeared on {{TCG ID|Twilight Masquerade|Dreepy|128}} from the {{TCG|Twilight Masquerade}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Laternecto (Traumhafte Parade 068)]]
+[[fr:Mélancolux (Parade Onirique 068)]]
+[[it:Lampent (Parata Fantasmagorica 68)]]
+[[ja:ランプラー (ポケポケ B2)]]
+[[zh:灯火幽灵（B2）]]

@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sandslash
+|ja name=サンドパン
+|trans name=Sandpan
+|species=Sandslash
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SandslashMegaRising123.png|illustrator=Kyoko Umemoto|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SandslashCrimsonBlaze95.png|illustrator=MAHOU|tab caption=Shiny Rare}}
+|hp=90
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Sandshrew
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=123/226}}
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=095/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Sandslash''' (Japanese: '''サンドパン''' ''Sandpan'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Cut
+|jname=いあいぎり
+|jtrans=Iai Cut
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Sandslash
+|species=Mouse
+|ndex=0028
+|height=3'3"
+|jheight=1.0
+|weight=65.0
+|jweight=29.5
+|dex=It climbs trees by hooking on with its sharp claws. Sandslash shares the berries it gathers, dropping them down to Sandshrew waiting below the tree.
+|jdex=鋭い ツメを ひっかけて 木を 登る。 下で 待つ サンドたちに 木の実を 落とし 分け与えるのだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=SandslashMegaRising123.png
+|caption1=Uncommon card<br>Illus. [[Kyoko Umemoto]]
+|image2=SandslashCrimsonBlaze95.png
+|caption2=Shiny rare card<br>Illus. [[MAHOU]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fusion Strike|Sandslash|132}} from the {{TCG|Fusion Strike}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Sandslash}}.
+*{{m|Cut}} is a [[move]] in the [[Pokémon games]] that {{p|Sandslash}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sandamer (Mega-Aufstieg 123)]]
+[[es:Sandslash (Megaascenso TCG Pocket)]]
+[[fr:Sablaireau (Méga-Ascension 123)]]
+[[it:Sandslash (Mega Ascesa 123)]]
+[[ja:サンドパン (ポケポケ B1)]]
+[[zh:穿山王（B1）]]

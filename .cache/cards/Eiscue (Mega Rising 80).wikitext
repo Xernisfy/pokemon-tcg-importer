@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Eiscue
+|ja name=コオリッポ
+|trans name=Korippo
+|species=Eiscue
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EiscueMegaRising80.png|illustrator=Kagemaru Himeno|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EiscueMegaRising236.png|illustrator=Mékayu|tab caption=Illustration Rare}}
+|hp=80
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Diamond|rarity count=3|number=080/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Star|rarity count=1|number=236/226}}
+}}
+
+'''Eiscue''' (Japanese: '''コオリッポ''' ''Korippo'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Ice Face
+|jname=アイスフェイス
+|jtrans=Ice Face
+|effect=If this Pokémon has full HP, it takes -40 damage from attacks from your opponent's Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Eiscue
+|species=Penguin
+|ndex=0875
+|height=4'7"
+|jheight=1.4
+|weight=196.2
+|jweight=89.0
+|dex=If you lick the ice covering its face, you'll find it has a faintly salty taste. This species rode here on ocean currents from a cold, faraway land.
+|jdex=顔の 氷は 舐めると ほんのり しょっぱい。 海流に 乗って 遠くの 寒い 土地から 来た。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=EiscueMegaRising80.png
+|caption1=Rare card<br>Illus. [[Kagemaru Himeno]]
+|image2=EiscueMegaRising236.png
+|caption2=Illustration rare card<br>Illus. [[Mékayu]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{form|Eiscue|Ice Face}} {{p|Eiscue}}.
+*This card's standard illustration was first featured on {{TCG ID|Rebel Clash|Eiscue|54}} from the {{TCG|Rebel Clash}} expansion.
+*{{a|Ice Face}} is an [[Ability]] in the [[Pokémon games]] that Eiscue can have.
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kubuin (Mega-Aufstieg 080)]]
+[[es:Eiscue (Megaascenso TCG Pocket)]]
+[[fr:Bekaglaçon (Méga-Ascension 080)]]
+[[it:Eiscue (Mega Ascesa 80)]]
+[[ja:コオリッポ (ポケポケ B1)]]
+[[zh:冰砌鹅（B1）]]

@@ -1,0 +1,70 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Staraptor
+|ja name=ムクホーク
+|trans name=Mukuhawk
+|species=Staraptor
+|type=Colorless
+|image=StaraptorPromo-A47.png
+|illustrator=Hasuno
+|hp=140
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Staravia
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=047/P-A|pack=Vol. 5}}
+}}
+
+'''Staraptor''' (Japanese: '''ムクホーク''' ''Mukuhawk'') is a {{ct|Colorless}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Defensive Whirlwind
+|jname=せんぷうガード
+|jtrans=Whirlwind Guard
+|effect=This Pokémon takes −30 damage from attacks from {{e|Fighting}} Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Wing Attack
+|jname=つばさでうつ
+|jtrans=Wing Strike
+|damage=90
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Staraptor
+|species=Predator
+|ndex=0398
+|height=3'11"
+|jheight=1.2
+|weight=54.9
+|jweight=24.9
+|dex=When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.
+|jdex=ムクホークになると 群れから 離れて １匹で 生きていく。 強靭な 翼を 持っている。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 5 packs; these were made available as part of the [[Gible Drop Event]], which ran from March 3 to 17, 2025.
+
+==Trivia==
+===Origin===
+*{{m|Wing Attack}} is a [[move]] in the [[Pokémon games]] that {{p|Staraptor}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Staraptor (PROMO-A 047)]]
+[[es:Staraptor (Promo-A 47 TCG Pocket)]]
+[[fr:Étouraptor (Promo-A 047)]]
+[[it:Staraptor (Promo-A 47)]]
+[[ja:ムクホーク (ポケポケ P-A)]]
+[[zh:姆克鹰（P-A）]]

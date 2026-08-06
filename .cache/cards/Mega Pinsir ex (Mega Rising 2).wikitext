@@ -1,0 +1,83 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Pinsir {{TCGP Icon|Mega ex}}
+|ja name=メガカイロス{{TCGP Icon|Mega ex}}
+|trans name=Mega Kailios {{TCGP Icon|Mega ex}}
+|species=Pinsir
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaPinsirexMegaRising2.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaPinsirexMegaRising251.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaPinsirexMegaRising272.png|illustrator=Krgc|tab caption=Special Illustration Rare}}
+|hp=170
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=002/226|pack=Mega Blaziken|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=251/226|pack=Mega Blaziken|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=272/226|pack=Mega Blaziken|rarity=Star|rarity count=2}}
+}}
+
+'''Mega Pinsir ex''' (Japanese: '''メガカイロスex''' ''Mega Kailios ex'') is a {{ct|Grass}} Basic {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Mega Species/Pocket|Pinsir}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=Critical Scissors
+|jname=クリティカルシザー
+|jtrans=Critical Scissor
+|damage=80+
+|effect=Flip a coin. If heads, this attack does 70 more damage.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Grass
+|ndex=0127
+|name=Pinsir
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Pinsir
+|category=Stag Beetle
+|ndex=0127
+|height=5'7"
+|jheight=1.7
+|weight=130.1
+|jweight=59.0
+|dex=The influence of Mega Evolution leaves it in a state of constant excitement. It pierces enemies with its two large horns before shredding them.
+|jdex=メガシンカの 影響で 常に 興奮。 2本の 大角で 敵を 刺し貫いてから 引き裂く。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=MegaPinsirexMegaRising2.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=MegaPinsirexMegaRising251.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=MegaPinsirexMegaRising272.png
+|caption3=Special illustration rare card<br>Illus. [[Krgc]]
+}}
+
+==Trivia==
+* This is the first card ever to feature Mega [[Pinsir (Pokémon)|Pinsir]], as the form hasn't been featured in [[Pokémon Trading Card Game|Pokémon TCG]] yet. 
+* The special illustration rare print features Mega {{p|Pinsir}}, {{p|Wurmple}}, {{p|Silcoon}}, {{p|Cascoon}}, {{p|Dustox}}, {{p|Joltik}} and {{p|Galvantula}}.
+===Origin===
+*This card features [[Mega]] {{p|Pinsir}}.
+*This card's [[Pokédex]] entry comes from {{g|Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Pinsir-ex (Mega-Aufstieg 002)]]
+[[es:Mega-Pinsir ex (Megaascenso TCG Pocket)]]
+[[fr:Méga-Scarabrute-ex (Méga-Ascension 002)]]
+[[it:Mega Pinsir-ex (Mega Ascesa 2)]]
+[[ja:メガカイロスex (ポケポケ B1)]]
+[[zh:超级凯罗斯ex（B1）]]

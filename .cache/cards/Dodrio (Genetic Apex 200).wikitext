@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dodrio
+|ja name=ドードリオ
+|trans name=Dodorio
+|species=Dodrio
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DodrioGeneticApex200.png|illustrator=Miki Tanaka|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DodrioMegaRising315.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Lightning
+|retreat cost=0
+|evo stage=Stage 1
+|prevo name=Doduo
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=200/226|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=315/226|pack=Mega Blaziken|rarity=Shiny|rarity count=1}}
+}}
+
+'''Dodrio''' (Japanese: '''ドードリオ''' ''Dodorio'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Drill Peck
+|jname=ドリルくちばし
+|jtrans=Drill Beak
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Dodrio
+|species=Triple Bird
+|ndex=0085
+|height=5'11"
+|jheight=1.8
+|weight=187.8
+|jweight=85.2
+|dex=An enemy that takes its eyes off any of the three heads—even for a second—will get pecked severely.
+|jdex=３つの　頭が　見ている前で わずかでも　すきを　見せると クチバシで　激しく　つつかれる｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=DodrioGeneticApex200.png
+|caption1=Standard card<br>Illus. [[Miki Tanaka]]
+|image2=DodrioMegaRising315.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Genetic Apex}} illustration was first featured on {{TCG ID|EX Hidden Legends|Dodrio|33}} from the {{TCG|EX Hidden Legends}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Dodrio}}.
+*{{m|Drill Peck}} is a [[move]] in the [[Pokémon games]] that {{p|Dodrio}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dodri (Unschlagbare Gene 200)]]
+[[es:Dodrio (Genes Formidables TCG Pocket)]]
+[[fr:Dodrio (Puissance Génétique 200)]]
+[[it:Dodrio (Geni Supremi 200)]]
+[[ja:ドードリオ (ポケポケ A1)]]
+[[zh:嘟嘟利（A1）]]

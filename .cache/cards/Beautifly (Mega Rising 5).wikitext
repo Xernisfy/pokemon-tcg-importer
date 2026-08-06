@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Beautifly
+|ja name=アゲハント
+|trans name=Agehunt
+|species=Beautifly
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BeautiflyMegaRising5.png|illustrator=Midori Harada|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BeautiflyMegaRising227.png|illustrator=tono|tab caption=Illustration Rare}}
+|hp=130
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Silcoon
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=005/226|pack=Mega Blaziken|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=227/226|pack=Mega Blaziken|rarity=Star|rarity count=1}}
+}}
+
+'''Beautifly''' (Japanese: '''アゲハント''' ''Agehunt'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Skill Dive
+|jname=ちょくげきひこう
+|jtrans=Direct Hit Flight
+|damage=
+|effect=This attack does 50 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Beautifly
+|category=Butterfly
+|ndex=0267
+|height=3'3"
+|jheight=1.0
+|weight=62.6
+|jweight=28.4
+|dex=It has an aggressive nature. It stabs prey with its long, narrow mouth to drain the prey's fluids.
+|jdex=長細い 口を 突き刺して 相手の 体液を 吸い取る。 攻撃的な 性格。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=BeautiflyMegaRising5.png
+|caption1=Rare card<br>Illus. [[Midori Harada]]
+|image2=BeautiflyMegaRising227.png
+|caption2=Illustration rare card<br>Illus. [[tono]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Roaring Skies|Beautifly|5}} from the {{TCG|Roaring Skies}} expansion.
+*'''Skill Dive''' is an attack that first appeared on {{TCG ID|EX Team Rocket Returns|Dark Crobat|3}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Papinella (Mega-Aufstieg 005)]]
+[[es:Beautifly (Megaascenso TCG Pocket)]]
+[[fr:Charmillon (Méga-Ascension 005)]]
+[[it:Beautifly (Mega Ascesa 5)]]
+[[ja:アゲハント (ポケポケ B1)]]
+[[zh:狩猎凤蝶（B1）]]

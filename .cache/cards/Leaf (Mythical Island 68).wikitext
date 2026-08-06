@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Leaf
+|ja name=リーフ
+|trans name=Leaf
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LeafMythicalIsland68.png|illustrator=En Morikura|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LeafDeluxePackex347.png|illustrator=En Morikura|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LeafMythicalIsland82.png|illustrator=En Morikura|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=068/068|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=082/068|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=346/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=347/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Leaf''' (Japanese: '''リーフ''' ''Leaf'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=During this turn, the Retreat Cost of your Active Pokémon is 2 less.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=LeafMythicalIsland68.png
+|caption1=Standard card<br>Illus. [[En Morikura]]
+|image2=LeafMythicalIsland82.png
+|caption2=Super rare card<br>Illus. [[En Morikura]]
+|image4=LeafDeluxePackex347.png
+|caption4=Parallel foil card<br>Illus. [[En Morikura]]
+}}
+
+==Trivia==
+* {{TCGP|X Speed}} has a less potent version of this card's effect, but as an {{TCGP|Item card}} instead of a {{TCGP|Supporter card}}.
+* This card's effect is similar to {{TCG|Air Balloon}} in the [[Pokémon Trading Card Game]], but this card is a Supporter card rather than a {{TCGP|Pokémon Tool card}}, so only applies for one turn rather than perpetually.
+
+===Origin===
+*{{ga|Leaf}} is the female [[player character]] in {{game|FireRed and LeafGreen|s}}. Leaf's pink [[Vs. Seeker]] is visible on her bag's strap.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=リーフ ''Leaf''
+|zh_yue=葉子 ''Yihpjí''
+|zh_cmn=葉子<!-- / 叶子--> ''Yèzǐ''
+|fr=Leaf
+|de=Leaf
+|it=Leaf
+|ko=리프 ''Leaf''
+|pt_br=Leaf
+|es=Hoja
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Leaf (TCG Pocket)]]
+[[es:Hoja (TCG Pocket)]]
+[[fr:Leaf (L'Île Fabuleuse 068)]]
+[[it:Leaf (L'Isola Misteriosa 68)]]
+[[ja:リーフ (ポケポケ)]]
+[[zh:叶子（TCGP）]]

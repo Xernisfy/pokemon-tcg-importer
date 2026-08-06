@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tyranitar
+|ja name=バンギラス
+|trans name=Bangiras
+|species=Tyranitar
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TyranitarWisdomofSeaandSky119.png|illustrator=Hasuno|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TyranitarWisdomofSeaandSky179.png|illustrator=Saboteri|tab caption=Illustration Rare}}
+|hp=160
+|weakness=Grass
+|retreat cost=4
+|evo stage=Stage 2
+|prevo name=Pupitar
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Ho-Oh|rarity=Diamond|rarity count=3|number=119/161}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Ho-Oh|rarity=Star|rarity count=1|number=179/161}}
+}}
+
+'''Tyranitar''' (Japanese: '''バンギラス''' ''Bangiras'') is a {{ct|Darkness}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Ability/Pocket
+|type=Darkness
+|name=Energy Plunder
+|jname=ぶんどりエナジー
+|jtrans=Plundering Energy
+|effect=Once during your turn, you may move all {{e|Darkness}} Energy from each of your Pokémon to this Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Darkness}}{{e|Colorless}}
+|name=Buster Tail
+|jname=バスターテール
+|jtrans=Buster Tail
+|damage=130
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Tyranitar
+|species=Armor
+|ndex=0248
+|height=6'7"
+|jheight=2.0
+|weight=445.3
+|jweight=202.0
+|dex=Extremely strong, it can change the landscape. It is so insolent that it doesn't care about others.
+|jdex=あたりの 地形を 変えるぐらい 朝飯前の 力持ち。 まわりを 気にしない ふてぶてしさ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=TyranitarWisdomofSeaandSky119.png
+|caption1=Rare card<br>Illus. [[Hasuno]]
+|image2=TyranitarWisdomofSeaandSky179.png
+|caption2=Illustration rare card<br>Illus. [[Saboteri]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Team Up|Tyranitar|85}} from the {{TCG|Team Up}} expansion.
+*'''Buster Tail''' is an attack that first appeared on {{TCG ID|Fusion Strike|Goodra|197}} from the {{TCG|Fusion Strike}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Despotar (Weisheit von Meer und Himmel 119)]]
+[[es:Tyranitar (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Tyranocif (Sagesse entre Ciel et Mer 119)]]
+[[it:Tyranitar (La Via del Cielo e del Mare 119)]]
+[[ja:バンギラス (ポケポケ A4)]]
+[[zh:班基拉斯（A4）]]

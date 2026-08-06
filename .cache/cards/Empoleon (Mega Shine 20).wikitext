@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Empoleon
+|ja name=エンペルト
+|trans name=Emperte
+|species=Empoleon
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EmpoleonMegaShine20.png|illustrator=kawayoo|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EmpoleonMegaShine71.png|illustrator=kawayoo|tab caption=Illustration Rare}}
+|hp=130
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Prinplup
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=020/069|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=071/069|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Empoleon''' (Japanese: '''エンペルト''' ''Emperte'') is a {{ct|Water}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Emperor's Strike
+|jname=こうていのいちげき
+|jtrans=Emperor Strike
+|damage=80+
+|effect=If your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Empoleon
+|category=Emperor
+|ndex=0395
+|height=5'7"
+|jheight=1.7
+|weight=186.3
+|jweight=84.5
+|dex=It avoids unnecessary disputes, but it will mercilessly decimate anything that threatens the safety of its colony.
+|jdex=むだな　争いは　やらないが 群れの　安全を　脅かす 敵は　容赦なく　叩きのめす｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=EmpoleonMegaShine20.png
+|caption1=Rare card<br>Illus. [[kawayoo]]
+|image2=EmpoleonMegaShine71.png
+|caption2=Illustration rare card<br>Illus. [[kawayoo]]
+}}
+
+==Trivia==
+Both of this card's illustrations form a {{TCGP|narrative illustration}} with {{TCG ID|Mega Shine|Trubbish|41}} and {{TCG ID|Mega Shine|Phione|21}} from the same set. All of the standard illustrations in this group were first featured in the {{TCG|Legendary Treasures}} expansion, and also form the {{TCGP|Mega Shine}} expansion's "Toward a More Beautiful World" [[Mega Shine (TCG Pocket)#Themed Collections|Themed Collection]].
+
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Legendary Treasures|Empoleon|35}} from the {{TCG|Legendary Treasures}} expansion, as was its '''Emperor's Strike''' attack.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Impoleon (Mega-Schillern 020)]]
+[[fr:Pingoléon (Méga-Rayonnement 020)]]
+[[it:Empoleon (Mega Splendore 20)]]
+[[ja:エンペルト (ポケポケ B2b)]]
+[[zh:帝王拿波（B2b）]]

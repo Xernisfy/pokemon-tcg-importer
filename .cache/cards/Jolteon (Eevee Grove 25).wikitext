@@ -1,0 +1,86 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Jolteon
+|ja name=サンダース
+|trans name=Thunders
+|species=Jolteon
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JolteonEeveeGrove25.png|illustrator=Sanosuke Sakuma|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JolteonEeveeGrove74.png|illustrator=Nisota Niso|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JolteonPromo-A86.png|illustrator=Mizue|tab caption=Promo}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JolteonWisdomofSeaandSky219.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Eevee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=025/069|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=074/069|pack=Any|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=086/P-A|pack=Vol. 10}}
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=219/161|pack=Lugia|rarity=Shiny|rarity count=1}}
+}}
+
+'''Jolteon''' (Japanese: '''サンダース''' ''Thunders'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Beginning Bolt
+|jname=ビギニングボルト
+|jtrans=Beginning Bolt
+|damage=40+
+|effect=If this Pokémon evolved during this turn, this attack does 20 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Jolteon
+|species=Lightning
+|ndex=0135
+|height=2'7"
+|jheight=0.8
+|weight=54
+|jweight=24.5
+|dex=It concentrates the weak electric charges emitted by its cells and launches wicked lightning bolts.
+|jdex=細胞が　出している　弱い 電気を　ひとまとめにして 強力な　電撃を　放つ｡
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 10 packs; these were made available as part of the [[Alcremie Drop Event]], which ran from July 2 to 12, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=JolteonEeveeGrove25.png
+|caption1=Rare card<br>Illus. [[Sanosuke Sakuma]]
+|image2=JolteonEeveeGrove74.png
+|caption2=Illustration rare card<br>Illus. [[Nisota Niso]]
+|image4=JolteonPromo-A86.png
+|caption4=Promo card<br>Illus. [[Mizue]]
+|image5=JolteonWisdomofSeaandSky219.png
+|caption5=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Ancient Origins|Jolteon|26}} from the {{TCG|Ancient Origins}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Vivid Voltage|Jolteon|47}} from the {{TCG|Vivid Voltage}} expansion.
+*This card's shiny rare print features a {{Shiny}} {{p|Jolteon}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Blitza (Evoli-Hain 025)]]
+[[es:Jolteon (Arboleda de Eevee TCG Pocket)]]
+[[fr:Voltali (La Clairière d'Évoli 025)]]
+[[it:Jolteon (Il Bosco di Eevee 25)]]
+[[ja:サンダース (ポケポケ A3b)]]
+[[zh:雷伊布（A3b）]]

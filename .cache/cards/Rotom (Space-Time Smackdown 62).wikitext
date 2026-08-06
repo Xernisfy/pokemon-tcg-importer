@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rotom
+|ja name=ロトム
+|trans name=Rotom
+|species=Rotom
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RotomSpace-TimeSmackdown62.png|illustrator=Krgc|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RotomSpace-TimeSmackdown164.png|illustrator=Shimaris Yukichi|tab caption=Illustration Rare}}
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=062/155|pack=Palkia|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=164/155|pack=Palkia|rarity=Star|rarity count=1}}
+}}
+
+'''Rotom''' (Japanese: '''ロトム''' ''Rotom'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Colorless}}
+|name=Assault Laser
+|jname=アサルトレーザー
+|jtrans=Assault Laser
+|damage=20+
+|effect=If your opponent's Active Pokémon has a {{TCGP|Pokémon Tool card|Pokémon Tool}} attached, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Rotom
+|species=Plasma
+|ndex=0479
+|height=1'
+|jheight=0.3
+|weight=0.7
+|jweight=0.3
+|dex=Its electricity-like body can enter some kinds of machines and take control in order to make mischief.
+|jdex=電気のような 体は 一部の 機械に 入り込むことが できる。そして その体で いたずらする。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=RotomSpace-TimeSmackdown62.png
+|caption1=Common card<br>Illus. [[Krgc]]
+|image2=RotomSpace-TimeSmackdown164.png
+|caption2=Illustration rare card<br>Illus. [[Shimaris Yukichi]]
+}}
+
+==Trivia==
+The illustration rare print of this card features each of {{p|Rotom}}'s {{form|Rotom|forms}}: Heat Rotom, Wash Rotom, Frost Rotom, Fan Rotom, and Mow Rotom.
+
+===Origin===
+*'''Assault Laser''' is an attack that first appeared on {{TCG ID|Phantom Forces|Manectric-EX|23}} from the {{TCG|Phantom Forces}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rotom (Kollision von Raum und Zeit 062)]]
+[[es:Rotom (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Motisma (Choc Spatio-Temporel 062)]]
+[[it:Rotom (Scontro Spaziotemporale 62)]]
+[[ja:ロトム (ポケポケ A2)]]
+[[zh:洛托姆（A2）]]

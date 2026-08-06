@@ -1,0 +1,47 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Sitrus Berry
+|ja name=オボンのみ
+|trans name=Obon Fruit
+|subtype=Pokémon Tool
+|image=SitrusBerryMegaRising218.png
+|illustrator=AYUMI ODASHIMA
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=218/226|pack=Mega Altaria|rarity=Diamond|rarity count=2}}
+}}
+
+'''Sitrus Berry''' (Japanese: '''オボンのみ''' ''Obon Fruit'') is a {{TCGP|Pokémon Tool}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Tool
+|rule=Pocket Tool
+|effect=At the end of each turn, if the Pokémon this card is attached to has half of its maximum HP or less remaining, heal 30 damage from it. If you do, discard this card.
+}}
+
+==Trivia==
+This card's effect is almost identical to that of the {{TCG|Sitrus Berry}} card in the [[Pokémon Trading Card Game]].
+===Origin===
+*[[Sitrus Berry]] is a type of [[Berry]] in the [[Pokémon games]] that can be consumed by a Pokémon to heal its HP.
+
+==In other languages==
+{{langtable|color={{TCG Pokémon Tool color}}|bordercolor={{TCG Pokémon Tool color dark}}|textcolor=FFF
+|ja=オボンのみ ''Obon no Mi''
+|zh_yue=文柚果 ''Màhnyauh Gwó''
+|zh_cmn=文柚果 ''Wényòu Guǒ''
+|fr=Baie Sitrus
+|de=Tsitrubeere
+|it=Baccacedro
+|ko=자뭉열매 ''Jamung Yeolmae''
+|pt_br=Fruta Sitrus
+|es=Baya Zidra
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tsitrubeere (TCG Pocket)]]
+[[es:Baya Zidra (TCG Pocket)]]
+[[fr:Baie Sitrus (Méga-Ascension 218)]]
+[[it:Baccacedro (Mega Ascesa 218)]]
+[[ja:オボンのみ (ポケポケ)]]
+[[zh:文柚果（TCGP）]]

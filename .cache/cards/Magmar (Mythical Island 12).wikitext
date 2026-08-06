@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Magmar
+|ja name=ブーバー
+|trans name=Boober
+|species=Magmar
+|type=Fire
+|image=MagmarMythicalIsland12.png
+|illustrator=sui
+|hp=80
+|weakness=Water
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=012/068|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Magmar''' (Japanese: '''ブーバー''' ''Boober'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Fire Blast
+|jname=だいもんじ
+|jtrans=Daimonji
+|damage=80
+|effect=Discard 2 {{e|Fire}} Energy from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Magmar
+|species=Spitfire
+|ndex=0126
+|height=4'3"
+|jheight=1.3
+|weight=98.1
+|jweight=44.5
+|dex=Magmar dispatches its prey with fire. But it regrets this habit once it realizes that it has burned its intended prey to a charred crisp.
+|jdex=炎で　獲物を　しとめる｡ ついつい　焼きすぎて 黒コゲに　してしまい　後悔する｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Everyone's Exciting Battle|Magmar|6}} from the {{TCG|Everyone's Exciting Battle}} collection, which was only released in Japan.
+*{{m|Fire Blast}} is a [[move]] in the [[Pokémon games]] that {{p|Magmar}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Magmar (Mysteriöse Insel 012)]]
+[[es:Magmar (La Isla Singular TCG Pocket)]]
+[[fr:Magmar (L'Île Fabuleuse 012)]]
+[[it:Magmar (L'Isola Misteriosa 12)]]
+[[ja:ブーバー (ポケポケ A1a)]]
+[[zh:鸭嘴火兽（A1a）]]

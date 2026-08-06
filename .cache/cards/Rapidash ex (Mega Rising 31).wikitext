@@ -1,0 +1,65 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rapidash {{TCGP Icon|ex}}
+|ja name=ギャロップ{{TCGP Icon|ex}}
+|trans name=Gallop {{TCGP Icon|ex}}
+|species=Rapidash
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RapidashexMegaRising31.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RapidashexMegaRising253.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RapidashexMegaRising274.png|illustrator=Kuroimori|tab caption=Special Illustration Rare}}
+|hp=150
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Ponyta
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=031/226|pack=Mega Blaziken|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=253/226|pack=Mega Blaziken|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=274/226|pack=Mega Blaziken|rarity=Star|rarity count=2}}
+}}
+
+'''Rapidash ex''' (Japanese: '''ギャロップex''' ''Gallop ex'') is a {{ct|Fire}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Fire}}
+|name=Sprinting Flare
+|jname=フレアスプリンター
+|jtrans=Flare Sprinter
+|damage=110
+|effect=This attack also does 20 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Fire
+|ndex=0078
+|name=Rapidash
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=RapidashexMegaRising31.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=RapidashexMegaRising253.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=RapidashexMegaRising274.png
+|caption3=Special illustration rare card<br>Illus. [[Kuroimori]]
+}}
+
+==Trivia==
+===Origin===
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gallopa-ex (Mega-Aufstieg 031)]]
+[[es:Rapidash ex (Megaascenso TCG Pocket)]]
+[[fr:Galopa-ex (Méga-Ascension 031)]]
+[[it:Rapidash-ex (Mega Ascesa 31)]]
+[[ja:ギャロップex (ポケポケ B1)]]
+[[zh:烈焰马ex（B1）]]

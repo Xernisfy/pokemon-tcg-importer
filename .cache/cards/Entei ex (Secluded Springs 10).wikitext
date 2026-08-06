@@ -1,0 +1,83 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Entei {{TCGP Icon|ex}}
+|ja name=エンテイ{{TCGP Icon|ex}}
+|trans name=Entei {{TCGP Icon|ex}}
+|species=Entei
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EnteiexSecludedSprings10.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EnteiexSecludedSprings79.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EnteiexSecludedSprings87.png|illustrator=Tsuyoshi Nagano|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EnteiexPaldeanWonders126.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=EnteiexPromo-A110.png|illustrator=PLANETA Tsuji|tab caption=Promo}}
+|hp=140
+|weakness=Water
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=010/071|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=079/071|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=087/071|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=110/P-A}}
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=126/093|pack=Any|rarity=Shiny|rarity count=2}}
+}}
+
+'''Entei ex''' (Japanese: '''エンテイex''' ''Entei ex'') is a {{ct|Fire}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Ability/Pocket
+|type=Fire
+|name=Legendary Pulse
+|jname=でんせつのこどう
+|jtrans=Legendary Pulse
+|effect=At the end of your turn, if this Pokémon is in the Active Spot, draw a card.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Blazing Beatdown
+|jname=プレイズピート
+|jtrans=Blaze Beat
+|damage=60+
+|effect=If this Pokémon has at least 2 extra {{e|Fire}} Energy attached, this attack does 60 more damage.
+}}
+{{Cardtext/Pocket ex
+|type=Fire
+|ndex=0244
+|name=Entei
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available from October 1 to 31, 2025 as a login reward from the monthly {{DL|Mission (TCG Pocket)|Premium Missions}}.
+
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=EnteiexSecludedSprings10.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=EnteiexSecludedSprings79.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=EnteiexSecludedSprings87.png
+|caption3=Special illustration rare card<br>Illus. [[Tsuyoshi Nagano]]
+|image4=EnteiexPromo-A110.png
+|caption4=Promo card<br>Illus. [[PLANETA Tsuji]]
+|image5=EnteiexPaldeanWonders126.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+This card's shiny super rare illustration features a {{Shiny}} {{p|Entei}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+[[de:Entei-ex (Verborgene Quelle 010)]]
+[[es:Entei ex (Manantial Oculto TCG Pocket)]]
+[[fr:Entei-ex (Source Secrète 010)]]
+[[it:Entei-ex (Sorgenti Recondite 10)]]
+[[ja:エンテイex (ポケポケ A4a)]]
+[[zh:炎帝ex（A4a）]]

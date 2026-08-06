@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pupitar
+|ja name=サナギラス
+|trans name=Sanagiras
+|species=Pupitar
+|type=Fighting
+|image=PupitarWisdomofSeaandSky104.png
+|illustrator=Sekio
+|hp=80
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Larvitar
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=104/161|pack=Ho-Oh|rarity=Diamond|rarity count=2}}
+}}
+
+'''Pupitar''' (Japanese: '''サナギラス''' ''Sanagiras'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Guard Press
+|jname=ガードプレス
+|jtrans=Guard Press
+|damage=20
+|effect=During your opponent's next turn, this Pokémon takes −30 damage from attacks.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Pupitar
+|category=Hard Shell 
+|ndex=0247
+|height=3'11"
+|jheight=1.2
+|weight=335.1
+|jweight=152.0
+|dex=This pupa flies around wildly by venting with great force the gas pressurized inside its body.
+|jdex=体内で 圧縮させた ガスを 勢いよく 噴出させ 飛んで 暴れまわる サナギだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Pupitar|87}} from the {{TCG|Darkness Ablaze}} expansion.
+*'''Guard Press''' is an attack that first appeared on {{TCG ID|Unleashed|Steelix|24}} from the {{TCG|Unleashed}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pupitar (Weisheit von Meer und Himmel 104)]]
+[[es:Pupitar (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Ymphect (Sagesse entre Ciel et Mer 104)]]
+[[it:Pupitar (La Via del Cielo e del Mare 104)]]
+[[ja:サナギラス (ポケポケ A4)]]
+[[zh:沙基拉斯（A4）]]

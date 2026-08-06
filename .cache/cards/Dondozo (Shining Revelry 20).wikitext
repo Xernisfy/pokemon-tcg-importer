@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dondozo
+|ja name=ヘイラッシャ
+|trans name=Heyrusher
+|species=Dondozo
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DondozoShiningRevelry20.png|illustrator=Tomowaka|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DondozoShiningRevelry102.png|illustrator=GOSSAN|tab caption=Shiny Rare}}
+|hp=120
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=020/072|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=102/072|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Dondozo''' (Japanese: '''ヘイラッシャ''' ''Heyrusher'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}{{e|Colorless}}
+|name=Ocean Cyclone
+|jname=オーシャンサイクロン
+|jtrans=Ocean Cyclone
+|damage=80
+|effect=This attack also does 10 damage to each of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Dondozo
+|category=Big Catfish 
+|ndex=0977
+|height=39'4"
+|jheight=12
+|weight=485
+|jweight=220.0
+|dex=This Pokémon is a glutton, but it's bad at getting food. It teams up with a Tatsugiri to catch prey.
+|jdex=大食らいだが エサを 取るのは 苦手。 シャリタツと コンビを 組んで 獲物を 捕らえるのだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=DondozoShiningRevelry20.png
+|caption1=Rare card<br>Illus. [[Tomowaka]]
+|image2=DondozoShiningRevelry102.png
+|caption2=Shiny rare card<br>Illus. [[GOSSAN]]
+}}
+
+==Trivia==
+[[File:DondozoShiningRevelry20 combined artwork.png|thumb|300px|Combined illustration]]
+This card's standard illustration forms a {{TCG|combined illustration}} with {{TCG ID|Shining Revelry|Tatsugiri|21}} from the same expansion.
+
+===Origin===
+*This card's shiny rare print features a {{Shiny}} {{p|Dondozo}}.
+*'''Ocean Cyclone''' is an attack that first appeared on {{TCG ID|Primal Clash|Kyogre|53}} from the {{TCG|Primal Clash}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Heerashai (Glänzendes Festival 020)]]
+[[es:Dondozo (Festival Brillante TCG Pocket)]]
+[[fr:Oyacata (Réjouissances Rayonnantes 020)]]
+[[it:Dondozo (Tripudio Splendente 20)]]
+[[ja:ヘイラッシャ (ポケポケ A2b)]]
+[[zh:吃吼霸（A2b）]]

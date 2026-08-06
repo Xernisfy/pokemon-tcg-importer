@@ -1,0 +1,86 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Crawdaunt
+|ja name=シザリガー
+|trans name=Shizariger
+|species=Crawdaunt
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CrawdauntWisdomofSeaandSky61.png|illustrator=Hajime Kusajima|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CrawdauntDeluxePackex105.png|illustrator=Hajime Kusajima|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CrawdauntDeluxePackex355.png|illustrator=REND|tab caption=Illustration Rare}}
+|hp=100
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Corphish
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=061/161|pack=Lugia|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=104/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=105/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=355/353|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Crawdaunt''' (Japanese: '''シザリガー''' ''Shizariger'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Unruly Claw
+|jname=あらぶるハサミ
+|jtrans=Savage Pincers
+|effect=Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may discard a random Energy from your opponent's Active Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Crabhammer
+|jname=クラブハンマー
+|jtrans=Crab Hammer
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Crawdaunt
+|species=Rogue
+|ndex=0342
+|height=3'7"
+|jheight=1.1
+|weight=72.3
+|jweight=32.8
+|dex=A rough customer that wildly flails its giant claws. It is said to be extremely hard to raise.
+|jdex=巨大な ハサミを 振りまわす 暴れ者。 育てるのが とても 難しい ポケモンと いわれる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=CrawdauntWisdomofSeaandSky61.png
+|caption1=Standard card<br>Illus. [[Hajime Kusajima]]
+|image2=CrawdauntDeluxePackex105.png
+|caption2=Parallel foil card<br>Illus. [[Hajime Kusajima]]
+|image3=CrawdauntDeluxePackex355.png
+|caption3=Illustration rare card<br>Illus. [[REND]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Primal Clash|Crawdaunt|92}} from the {{TCG|Primal Clash}} expansion, as was its '''Unruly Claw''' {{TCG|Ability}}.
+**Both cards also have the {{m|Crabhammer}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Crawdaunt}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Krebutack (Weisheit von Meer und Himmel 061)]]
+[[es:Crawdaunt (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Colhomard (Sagesse entre Ciel et Mer 061)]]
+[[it:Crawdaunt (La Via del Cielo e del Mare 61)]]
+[[ja:シザリガー (ポケポケ A4)]]
+[[zh:铁螯龙虾（A4）]]

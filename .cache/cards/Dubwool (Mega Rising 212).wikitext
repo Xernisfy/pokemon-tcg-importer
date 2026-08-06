@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dubwool
+|ja name=バイウールー
+|trans name=Baiwooluu
+|species=Dubwool
+|type=Colorless
+|image=DubwoolMegaRising212.png
+|illustrator=You Iribi
+|hp=130
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Wooloo
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=212/226|pack=Mega Altaria|rarity=Diamond|rarity count=2}}
+}}
+
+'''Dubwool''' (Japanese: '''バイウールー''' ''Baiwooluu'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Boundless Power
+|jname=そこぢから
+|jtrans=Latent Power
+|damage=100
+|effect=During your next turn, this Pokémon can't attack.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Dubwool
+|species=Sheep
+|ndex=0832
+|height=4'3"
+|jheight=1.3
+|weight=94.8
+|jweight=43.0
+|dex=Its majestic horns are meant only to impress the opposite gender. They never see use in battle.
+|jdex=立派に 伸びた ツノは 異性に アピールするために 生えている。武器として 使うことはない。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sword & Shield|Dubwool|154}} from the {{TCG|Sword & Shield}} expansion.
+*'''Boundless Power''' is an attack that first appeared on {{TCG ID|Secret Wonders|Lickilicky|12}} from the {{TCG|Secret Wonders}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zwollock (Mega-Aufstieg 212)]]
+[[es:Dubwool (Megaascenso TCG Pocket)]]
+[[fr:Moumouflon (Méga-Ascension 212)]]
+[[it:Dubwool (Mega Ascesa 212)]]
+[[ja:バイウールー (ポケポケ B1)]]
+[[zh:毛毛角羊（B1）]]

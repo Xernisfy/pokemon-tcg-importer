@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Glaceon
+|ja name=グレイシア
+|trans name=Glacia
+|species=Glaceon
+|type=Water
+|image=GlaceonSpace-TimeSmackdown46.png
+|illustrator=Naoyo Kimura
+|hp=90
+|weakness=Metal
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Eevee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=046/155|pack=Palkia|rarity=Diamond|rarity count=3}}
+}}
+
+'''Glaceon''' (Japanese: '''グレイシア''' ''Glacia'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Ice Beam
+|jname=れいとうビーム
+|jtrans=Freezing Beam
+|damage=60
+|effect=Flip a coin. If heads, your opponent's Active Pokémon is now {{TCG|Paralyzed}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Glaceon
+|species=Fresh Snow
+|ndex=0471
+|height=2'7"
+|jheight=0.8
+|weight=57.1
+|jweight=25.9
+|dex=It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.
+|jdex=体温を 自在に コントロールし 大気の 水分を 凍らせて ダイヤモンドダストを 巻き起こす。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rising Rivals|Glaceon|41}} from the {{TCG|Rising Rivals}} expansion.
+*{{m|Ice Beam}} is a [[move]] in the [[Pokémon games]] that {{p|Glaceon}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Glaziola (Kollision von Raum und Zeit 046)]]
+[[es:Glaceon (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Givrali (Choc Spatio-Temporel 046)]]
+[[it:Glaceon (Scontro Spaziotemporale 46)]]
+[[ja:グレイシア (ポケポケ A2)]]
+[[zh:冰伊布（A2）]]

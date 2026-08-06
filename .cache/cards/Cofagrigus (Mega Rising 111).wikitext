@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cofagrigus
+|ja name=デスカーン
+|trans name=Desukarn
+|species=Cofagrigus
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CofagrigusMegaRising111.png|illustrator=kawayoo|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CofagrigusMegaRising238.png|illustrator=Apios|tab caption=Illustration Rare}}
+|hp=120
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Yamask
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Diamond|rarity count=3|number=111/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Star|rarity count=1|number=238/226}}
+}}
+
+'''Cofagrigus''' (Japanese: '''デスカーン''' ''Desukarn'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Soul Shot
+|jname=ソウルシュート
+|jtrans=Soul Shoot
+|damage=120
+|effect=Discard 2 cards from your hand. If you can't discard 2 cards, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Cofagrigus
+|species=Coffin
+|ndex=0563
+|height=5'7"
+|jheight=1.7
+|weight=168.7
+|jweight=76.5
+|dex=There are many depictions of Cofagrigus decorating ancient tombs. They're symbols of the wealth that kings of bygone eras had. 
+|jdex=古い お墓の 壁に 王様の 富の 象徴として 描かれて いることが 多い。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=CofagrigusMegaRising111.png
+|caption1=Rare card<br>Illus. [[kawayoo]]
+|image2=CofagrigusMegaRising238.png
+|caption2=Illustration rare card<br>Illus. [[Apios]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Dark Explorers|Cofagrigus|52}} from the {{TCG|Dark Explorers}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Echnatoll (Mega-Aufstieg 111)]]
+[[es:Cofagrigus (Megaascenso TCG Pocket)]]
+[[fr:Tutankafer (Méga-Ascension 111)]]
+[[it:Cofagrigus (Mega Ascesa 111)]]
+[[ja:デスカーン (ポケポケ B1)]]
+[[zh:死神棺（B1）]]

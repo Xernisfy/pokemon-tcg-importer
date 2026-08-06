@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Spiritomb
+|ja name=ミカルゲ
+|trans name=Mikaruge
+|species=Spiritomb
+|type=Darkness
+|image=SpiritombShiningRevelry49.png
+|illustrator=Shin Nagasawa
+|hp=80
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=049/072|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Spiritomb''' (Japanese: '''ミカルゲ''' ''Mikaruge'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Confuse Ray
+|jname=あやしいひかり
+|jtrans=Eerie Light
+|damage=20
+|effect=Flip a coin. If heads, your opponent's Active Pokémon is now {{TCG|Confused}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Spiritomb
+|category=Forbidden 
+|ndex=0442
+|height=3'3"
+|jheight=1
+|weight=238.1
+|jweight=108.0
+|dex=Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.
+|jdex=いつも 悪さばかり していたら 不思議な 術で 本体を 要石に 縛りつけられた。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ultra Prism|Spiritomb|53}} from the {{TCG|Ultra Prism}} expansion.
+*{{m|Confuse Ray}} is a [[move]] in the [[Pokémon games]] that {{p|Spiritomb}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kryppuk (Glänzendes Festival 049)]]
+[[es:Spiritomb (Festival Brillante TCG Pocket)]]
+[[fr:Spiritomb (Réjouissances Rayonnantes 049)]]
+[[it:Spiritomb (Tripudio Splendente 49)]]
+[[ja:ミカルゲ (ポケポケ A2b)]]
+[[zh:花岩怪（A2b）]]

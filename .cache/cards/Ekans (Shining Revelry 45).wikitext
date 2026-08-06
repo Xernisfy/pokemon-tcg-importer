@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ekans
+|ja name=アーボ
+|trans name=Arbo
+|species=Ekans
+|type=Darkness
+|image=EkansShiningRevelry45.png
+|illustrator=Midori Harada
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=045/072|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Ekans''' (Japanese: '''アーボ''' ''Arbo'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Ekans
+|category=Snake 
+|ndex=0023
+|height=6'7"
+|jheight=2
+|weight=15.2
+|jweight=6.9
+|dex=By dislocating its jaw, it can swallow prey larger than itself. After a meal, it curls up and rests.
+|jdex=顎を　外すことで　自分より 大きな　獲物も　丸呑みに　する｡ 食後は　身体を　丸め　休む｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Sandstorm|Ekans|64}} from the {{TCG|EX Sandstorm}} expansion.
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rettan (Glänzendes Festival 045)]]
+[[es:Ekans (Festival Brillante TCG Pocket)]]
+[[fr:Abo (Réjouissances Rayonnantes 045)]]
+[[it:Ekans (Tripudio Splendente 45)]]
+[[ja:アーボ (ポケポケ A2b)]]
+[[zh:阿柏蛇（A2b）]]

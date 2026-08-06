@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Jasmine
+|ja name=ミカン
+|trans name=Mikan
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JasmineWisdomofSeaandSky160.png|illustrator=En Morikura|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JasmineWisdomofSeaandSky200.png|illustrator=En Morikura|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=160/161|pack=Ho-Oh|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=200/161|pack=Ho-Oh|rarity=Star|rarity count=2}}
+}}
+
+'''Jasmine''' (Japanese: '''ミカン''' ''Mikan'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=During your opponent's next turn, all of your {{TCGP|Steelix}} and {{DL|Skarmory (TCG Pocket)|Skarmory ex|Skarmory '''''<big>ex</big>'''''}} take −50 damage from attacks from your opponent's Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=JasmineWisdomofSeaandSky160.png
+|caption1=Uncommon card<br>Illus. [[En Morikura]]
+|image2=JasmineWisdomofSeaandSky200.png
+|caption2=Super rare card<br>Illus. [[En Morikura]]
+}}
+
+==Trivia==
+* {{TCG|Jasmine}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Jasmine]] is a [[Gym Leader]] in {{game5|Gold|Silver|Crystal|HeartGold|SoulSilver}}.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=ミカン ''Mikan''
+|zh_yue=阿蜜 ''A Maht''
+|zh_cmn=阿蜜 ''Ā Mì''
+|fr=Jasmine
+|de=Jasmin
+|it=Jasmine
+|ko=규리 ''Gyuri''
+|pt_br=Jasmine
+|es=Yasmina
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Jasmin (TCG Pocket)]]
+[[es:Yasmina (TCG Pocket)]]
+[[fr:Jasmine (Sagesse entre Ciel et Mer 160)]]
+[[it:Jasmine (La Via del Cielo e del Mare 160)]]
+[[ja:ミカン (ポケポケ)]]
+[[zh:阿蜜（TCGP）]]

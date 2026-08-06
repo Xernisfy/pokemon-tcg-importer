@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mantine
+|ja name=マンタイン
+|trans name=Mantain
+|species=Mantine
+|type=Water
+|image=MantineExtradimensionalCrisis10.png
+|illustrator=Sanosuke Sakuma
+|hp=90
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=010/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Mantine''' (Japanese: '''マンタイン''' ''Mantain'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Surf
+|jname=なみのり
+|jtrans=Surfing
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Mantine
+|species=Kite
+|ndex=0226
+|height=6'11"
+|jheight=2.1
+|weight=485
+|jweight=220.0
+|dex=If it builds up enough speed swimming, it can jump out above the waves and glide for over 300 feet.
+|jdex=泳いで スピードが のってくると 波の上に 飛びだし そのまま １００メートルも 滑空 する。
+}}
+{{Cardtext/Footer}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Mantine|58}} from the {{TCG|Lost Thunder}} expansion.
+**Both cards have the {{m|Surf}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Mantine}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mantax (Dimensionale Krise 010)]]
+[[es:Mantine (Crisis Dimensional TCG Pocket)]]
+[[fr:Démanta (Crise Interdimensionnelle 010)]]
+[[it:Mantine (Crisi Ultradimensionale 10)]]
+[[ja:マンタイン (ポケポケ A3a)]]
+[[zh:巨翅飞鱼（A3a）]]

@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Virizion
+|ja name=ビリジオン
+|trans name=Virizion
+|species=Virizion
+|type=Grass
+|image=VirizionMegaRising20.png
+|illustrator=Takeshi Nakamura
+|hp=100
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=020/226|pack=Mega Altaria|rarity=Diamond|rarity count=3}}
+}}
+
+'''Virizion''' (Japanese: '''ビリジオン''' ''Virizion'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=Sacred Sword
+|jname=せいなるつるぎ
+|jtrans=Sacred Sword
+|damage=110
+|effect=During your next turn, this Pokémon can't use Sacred Sword.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Virizion
+|category=Grassland
+|ndex=0640
+|height=6'7"
+|jheight=2.0
+|weight=440.9
+|jweight=200.0
+|dex=It darts around opponents with a flurry of quick movements, slicing them up with its horns.
+|jdex=素早い 身のこなしで つむじ風の ように 敵を 翻弄し 鋭い ツノで 容赦なく 切り刻む。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Sacred Sword}} is a [[move]] in the [[Pokémon games]] that {{p|Virizion}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Viridium (Mega-Aufstieg 020)]]
+[[es:Virizion (Megaascenso TCG Pocket)]]
+[[fr:Viridium (Méga-Ascension 020)]]
+[[it:Virizion (Mega Ascesa 20)]]
+[[ja:ビリジオン (ポケポケ B1)]]
+[[zh:毕力吉翁（B1）]]

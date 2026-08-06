@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Nidorino
+|ja name=ニドリーノ
+|trans name=Nidorino
+|species=Nidorino
+|type=Darkness
+|image=NidorinoGeneticApex170.png
+|illustrator=Kouki Saitou
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=NidorinoGeneticApex170.png|illustrator=Kouki Saitou|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=NidorinoWisdomofSeaandSky227.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=90
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Nidoran♂
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=170/226|pack=Pikachu|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=227/161|pack=Ho-Oh|rarity=Shiny|rarity count=1}}
+}}
+
+'''Nidorino''' (Japanese: '''ニドリーノ''' ''Nidorino'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}
+|name=Horn Attack
+|jname=つのでつく
+|jtrans=Horn Thrust
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Nidorino
+|species=Poison Pin
+|ndex=0033
+|height=2'11"
+|jheight=0.9
+|weight=43
+|jweight=19.5
+|dex=With a horn that's harder than diamond, this Pokémon goes around shattering boulders as it searches for a moon stone.
+|jdex=ダイヤモンドより　硬い　ツノで 岩石を　砕いて　まわる｡ つきのいしを　探しているのだ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=NidorinoGeneticApex170.png
+|caption1=Uncommon card<br>Illus. [[Kouki Saitou]]
+|image2=NidorinoWisdomofSeaandSky227.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Nidorino|58}} from the {{TCG|Team Up}} expansion.
+*This card's shiny rare print features a {{Shiny}} {{p|Nidorino}}.
+*{{m|Horn Attack}} is a [[move]] in the [[Pokémon games]] that {{p|Nidorino}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Nidorino (Unschlagbare Gene 170)]]
+[[es:Nidorino (Genes Formidables TCG Pocket)]]
+[[fr:Nidorino (Puissance Génétique 170)]]
+[[it:Nidorino (Geni Supremi 170)]]
+[[ja:ニドリーノ (ポケポケ A1)]]
+[[zh:尼多力诺（A1）]]

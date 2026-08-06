@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Vespiquen
+|ja name=ビークイン
+|trans name=Beequen
+|species=Vespiquen
+|type=Grass
+|image=VespiquenTriumphantLight5.png
+|illustrator=kawayoo
+|hp=100
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Combee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=005/075}}
+}}
+
+'''Vespiquen''' (Japanese: '''ビークイン''' ''Beequen'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Grass}}
+|name=Reckless Charge
+|jname=とつげき
+|jtrans=Assault
+|damage=120
+|effect=This Pokémon also does 30 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Vespiquen
+|species=Beehive
+|ndex=0416
+|height=3'11"
+|jheight=1.2
+|weight=84.9
+|jweight=38.5
+|dex=It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.
+|jdex=胴体は 子どもたちの 巣穴。 いろんな フェロモンを 出して 子どもたちを 自由に 操る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ancient Origins|Vespiquen|10}} from the {{TCG|Ancient Origins}} expansion.
+*'''Reckless Charge''' is an attack that first appeared on {{TCG ID|Movie VS Pack|Ash's Phanpy|4}} from the {{TCG|Movie Commemoration VS Pack: Aura's Lucario}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Honweisel (Licht des Triumphs 005)]]
+[[es:Vespiquen (Luz Triunfal TCG Pocket)]]
+[[fr:Apireine (Lumière Triomphale 005)]]
+[[it:Vespiquen (Luce Trionfale 5)]]
+[[ja:ビークイン (ポケポケ A2a)]]
+[[zh:蜂女王（A2a）]]

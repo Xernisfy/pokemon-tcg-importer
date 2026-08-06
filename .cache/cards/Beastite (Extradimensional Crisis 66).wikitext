@@ -1,0 +1,49 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Beastite
+|ja name=ビーストナイト
+|trans name=Beastnite
+|subtype=Pokémon Tool
+|image set=
+|image=BeastiteExtradimensionalCrisis66.png
+|illustrator=inose yukie
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=066/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Beastite''' (Japanese: '''ビーストナイト''' ''Beastnite'') is a {{TCGP|Pokémon Tool}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Tool
+|rule=Pocket Tool
+|effect=Attacks used by the {{TCGP|Ultra Beast}} this card is attached to do +10 damage to your opponent's Active Pokémon for each point you have gotten.
+}}
+
+==Trivia==
+This card's effect is identical to that of the {{TCG|Beastite}} card in the [[Pokémon Trading Card Game]].
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Beastite|185}} from the {{TCG|Cosmic Eclipse}} expansion.
+*This card's effect is based on {{a|Beast Boost}}, an Ability common to all Ultra Beasts in the games that raises the user's highest stat (including Attack or Special Attack) when they Knock Out an opponent.
+
+==In other languages==
+{{langtable|color={{TCG Pokémon Tool color}}|bordercolor={{TCG Pokémon Tool color dark}}|textcolor=FFF
+|ja=ビーストナイト ''Beastnite''
+|zh_yue=異獸秘石 ''Yihsaubeisehk''
+|zh_cmn=異獸秘石 ''Yìshòumìshí''
+|fr=Chimérite
+|de=Bestienit
+|it=Pietra Ultracreatura
+|ko=비스트나이트 ''Beastnite''
+|pt_br=Criaturita
+|es=Entita
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bestienit (TCG Pocket)]]
+[[es:Entita (TCG Pocket)]]
+[[fr:Chimérite (Crise Interdimensionnelle 066)]]
+[[it:Pietra Ultracreatura (Crisi Ultradimensionale 66)]]
+[[ja:ビーストナイト (ポケポケ)]]
+[[zh:异兽秘石（TCGP）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Caterpie
+|ja name=キャタピー
+|trans name=Caterpie
+|species=Caterpie
+|type=Grass
+|image=CaterpieGeneticApex5.png
+|illustrator=Miki Tanaka
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=005/226|pack=Pikachu|rarity=Diamond|rarity count=1}}
+}}
+
+'''Caterpie''' (Japanese: '''キャタピー''' ''Caterpie'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Find a Friend
+|jname=ともだちをさがす
+|jtrans=Look for Friends
+|damage=
+|effect=Put 1 random {{e|Grass}} Pokémon from your deck into your hand.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Caterpie
+|species=Worm
+|ndex=0010
+|height=1'
+|jheight=0.3
+|weight=6.4
+|jweight=2.9
+|dex=For protection, it releases a horrible stench from the antenna on its head to drive away enemies.
+|jdex=頭の　触角から 強烈な　においを　だして 敵を　追いはらい　身を守る｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Expedition|Caterpie|96}} from the {{TCG|Expedition Base Set}}.
+*'''Find a Friend''' is an attack that first appeared on {{TCG ID|Great Encounters|Togepi|88}} from the {{TCG|Great Encounters}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Raupy (Unschlagbare Gene 005)]]
+[[es:Caterpie (Genes Formidables TCG Pocket)]]
+[[fr:Chenipan (Puissance Génétique 005)]]
+[[it:Caterpie (Geni Supremi 5)]]
+[[ja:キャタピー (ポケポケ A1)]]
+[[zh:绿毛虫（A1）]]

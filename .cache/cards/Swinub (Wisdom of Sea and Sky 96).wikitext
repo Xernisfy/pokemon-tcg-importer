@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Swinub
+|ja name=ウリムー
+|trans name=Urimoo
+|species=Swinub
+|type=Fighting
+|image=SwinubWisdomofSeaandSky96.png
+|illustrator=Yukiko Baba
+|hp=70
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=096/161|pack=Ho-Oh|rarity=Diamond|rarity count=1}}
+}}
+
+'''Swinub''' (Japanese: '''ウリムー''' ''Urimoo'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}
+|name=Mud-Slap
+|jname=どろかけ
+|jtrans=Mud Spray
+|damage=30
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Swinub
+|category=Pig 
+|ndex=0220
+|height=1'4"
+|jheight=0.4
+|weight=14.3
+|jweight=6.5
+|dex=It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.
+|jdex=エサを 探すため 鼻を こすり合わせ 地面を 掘っている。 たまに 温泉を 掘り当てる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Stormfront|Swinub|77}} from the {{TCG|Stormfront}} expansion.
+*{{m|Mud-Slap}} is a [[move]] in the [[Pokémon games]] that {{p|Swinub}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Quiekel (Weisheit von Meer und Himmel 096)]]
+[[es:Swinub (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Marcacrin (Sagesse entre Ciel et Mer 096)]]
+[[it:Swinub (La Via del Cielo e del Mare 96)]]
+[[ja:ウリムー (ポケポケ A4)]]
+[[zh:小山猪（A4）]]

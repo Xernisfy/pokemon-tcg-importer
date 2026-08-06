@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Drapion
+|ja name=ドラピオン
+|trans name=Dorapion
+|species=Drapion
+|type=Darkness
+|image=DrapionSpace-TimeSmackdown106.png
+|illustrator=Hitoshi Ariga
+|hp=120
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Skorupi
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=106/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Drapion''' (Japanese: '''ドラピオン''' ''Dorapion'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Darkness}}
+|name=Cross Poison
+|jname=クロスポイズン
+|jtrans=Cross Poison
+|damage=40×
+|effect=Flip 4 coins. This attack does 40 damage for each heads. If at least 2 of them are heads, your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Drapion
+|species=Ogre Scorpion
+|ndex=0452
+|height=4'3"
+|jheight=1.3
+|weight=135.6
+|jweight=61.5
+|dex=Its poison is potent, but it rarely sees use. This Pokémon prefers to use physical force instead, going on rampages with its car-crushing strength.
+|jdex=猛毒を もつが 使うことは まれ。 車も 叩きつぶす 怪力で 暴れまわる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Furious Fists|Drapion|65}} from the {{TCG|Furious Fists}} expansion.
+*{{m|Cross Poison}} is a [[move]] in the [[Pokémon games]] that {{p|Drapion}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Piondragi (Kollision von Raum und Zeit 106)]]
+[[es:Drapion (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Drascore (Choc Spatio-Temporel 106)]]
+[[it:Drapion (Scontro Spaziotemporale 106)]]
+[[ja:ドラピオン (ポケポケ A2)]]
+[[zh:龙王蝎（A2）]]

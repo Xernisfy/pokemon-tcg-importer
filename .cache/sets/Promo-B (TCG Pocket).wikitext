@@ -1,0 +1,151 @@
+{{TCGPocketExpansionPrevNext | prev = Promo-A}}
+{{TCGPocketExpansionInfobox
+|setname=Promo-B
+|setlogo=PB Set Logo EN.png
+|release=October 30, 2025
+|cards=Ongoing (currently 40)
+|missions=no
+}}
+'''Promo-B''' (stylized in-app as '''PROMO-B''') is the second series of promotional cards to be released in [[Pokémon Trading Card Game Pocket]].
+
+== Card list ==
+{{TCG Set List/header|tablecol=03D|bordercol=0BF|cellcol=0BF|rarity=none}}
+! rowspan="2" style="background-color: #0BF" | Promotion
+|-
+| 001/P-B || {{TCG ID|Promo-B|Pikachu|1}} || {{TCG Icon|Lightning}} || Available from the in-game {{TCGP|shop}} (costs 1 Premium Ticket)
+|-
+| 002/P-B || {{TCG ID|Promo-B|Petilil|2}} || {{TCG Icon|Grass}} || [[Mega Pidgeot ex Drop Event|Promo Pack B Series Vol. 1]]  (November 18 - 28, 2025)
+|-
+| 003/P-B || {{TCG ID|Promo-B|Froakie|3}} || {{TCG Icon|Water}} || [[Mega Pidgeot ex Drop Event|Promo Pack B Series Vol. 1]]  (November 18 - 28, 2025)
+|-
+| 004/P-B || {{TCG ID|Promo-B|Luxray|4}} || {{TCG Icon|Lightning}} || [[Mega Pidgeot ex Drop Event|Promo Pack B Series Vol. 1]]  (November 18 - 28, 2025)
+|-
+| 005/P-B || {{TCG ID|Promo-B|Pidgey|5}} || {{TCG Icon|Colorless}} || [[Mega Pidgeot ex Drop Event|Promo Pack B Series Vol. 1]]  (November 18 - 28, 2025)
+|-
+| 006/P-B || {{TCG ID|Promo-B|Mega Pidgeot ex|6|Mega Pidgeot}}{{Mega ex}} || {{TCG Icon|Colorless}} || [[Mega Pidgeot ex Drop Event|Promo Pack B Series Vol. 1]]  (November 18 - 28, 2025)
+|-
+| 007/P-B || {{TCG ID|Promo-B|Torchic|7}} || {{TCG Icon|Fire}} || [[Wonder Pick Event (Psyduck)|Wonder Pick Event]] (November 27 - December 7, 2025)
+|-
+| 008/P-B || {{TCG ID|Promo-B|Psyduck|8}} || {{TCG Icon|Water}} || [[Wonder Pick Event (Psyduck)|Wonder Pick Event]] (November 27 - December 7, 2025)
+|-
+| 009/P-B || {{TCG ID|Promo-B|Mega Absol ex|9|Mega Absol}}{{Mega ex}} || {{TCG Icon|Darkness}} || [[Mission (TCG Pocket)#Premium Missions|Premium Mission]] login reward (December 1 - 31, 2025)
+|-
+| 010/P-B || {{TCG ID|Promo-B|Drifblim|10}} || {{TCG Icon|Psychic}} || [[Wonder Pick Event (Mega Gyarados)|Wonder Pick Event]] (December 7 - 17, 2025)
+|-
+| 011/P-B || {{TCG ID|Promo-B|Eevee|11}} || {{TCG Icon|Colorless}} || [[Wonder Pick Event (Mega Gyarados)|Wonder Pick Event]] (December 7 - 17, 2025)
+|-
+| 012/P-B || {{TCG ID|Promo-B|Ditto|12}} || {{TCG Icon|Colorless}} ||[[Mission (TCG Pocket)#Premium Missions|Premium Mission]] login reward (January 1 - 31, 2026)
+|-
+| 013/P-B || {{TCG ID|Promo-B|Arcanine|13}} || {{TCG Icon|Fire}} || [[Mareep Drop Event|Promo Pack B Series Vol. 2]]  (January 1 - 18, 2026)
+|-
+| 014/P-B || {{TCG ID|Promo-B|Magikarp|14}} || {{TCG Icon|Water}} || [[Mareep Drop Event|Promo Pack B Series Vol. 2]]  (January 1 - 18, 2026)
+|-
+| 015/P-B || {{TCG ID|Promo-B|Mareep|15}} || {{TCG Icon|Lightning}} || [[Mareep Drop Event|Promo Pack B Series Vol. 2]]  (January 1 - 18, 2026)
+|-
+| 016/P-B || {{TCG ID|Promo-B|Krookodile|16}} || {{TCG Icon|Fighting}} || [[Mareep Drop Event|Promo Pack B Series Vol. 2]]  (January 1 - 18, 2026)
+|-
+| 017/P-B || {{TCG ID|Promo-B|Swablu|17}} || {{TCG Icon|Colorless}} || [[Mareep Drop Event|Promo Pack B Series Vol. 2]]  (January 1 - 18, 2026)
+|-
+| 018/P-B || {{TCG ID|Promo-B|Heliolisk|18}} || {{TCG Icon|Lightning}} || [[Wonder Pick Event (Goomy)|Wonder Pick Event]]  (January 9 - 26, 2026)
+|-
+| 019/P-B || {{TCG ID|Promo-B|Buneary|19}} || {{TCG Icon|Colorless}} || [[Wonder Pick Event (Goomy)|Wonder Pick Event]]  (January 9 - 26, 2026)
+|-
+| 020/P-B || {{TCG ID|Promo-B|Charmeleon|20}} || {{TCG Icon|Fire}} || [[Mega Latios ex Drop Event|Promo Pack B Series Vol. 3]]  (January 17 - February 3, 2026)
+|-
+| 021/P-B || {{TCG ID|Promo-B|Onix|21}} || {{TCG Icon|Fighting}} || [[Mega Latios ex Drop Event|Promo Pack B Series Vol. 3]]  (January 17 - February 3, 2026)
+|-
+| 022/P-B || {{TCG ID|Promo-B|Hawlucha|22}} || {{TCG Icon|Fighting}} || [[Mega Latios ex Drop Event|Promo Pack B Series Vol. 3]]  (January 17 - February 3, 2026)
+|-
+| 023/P-B || {{TCG ID|Promo-B|Genesect|23}} || {{TCG Icon|Metal}} || [[Mega Latios ex Drop Event|Promo Pack B Series Vol. 3]]  (January 17 - February 3, 2026)
+|-
+| 024/P-B || {{TCG ID|Promo-B|Mega Latios ex|24|Mega Latios}}{{Mega ex}} || {{TCG Icon|Dragon}} || [[Mega Latios ex Drop Event|Promo Pack B Series Vol. 3]]  (January 17 - February 3, 2026)
+|-
+| 025/P-B || {{TCG ID|Promo-B|Jirachi|25}} || {{TCG Icon|Psychic}} || [[Mission (TCG Pocket)#Premium Missions|Premium Mission]] login reward (February 1 - 28, 2026)
+|-
+| 026/P-B || {{TCG ID|Promo-B|Mudkip|26}} || {{TCG Icon|Water}} || [[Mega Medicham ex Drop Event|Promo Pack B Series Vol. 4]]  (February 12 - 22, 2026)
+|-
+| 027/P-B || {{TCG ID|Promo-B|Plusle|27}} || {{TCG Icon|Lightning}} || [[Mega Medicham ex Drop Event|Promo Pack B Series Vol. 4]]  (February 12 - 22, 2026)
+|-
+| 028/P-B || {{TCG ID|Promo-B|Ralts|28}} || {{TCG Icon|Psychic}} || [[Mega Medicham ex Drop Event|Promo Pack B Series Vol. 4]]  (February 12 - 22, 2026)
+|-
+| 029/P-B || {{TCG ID|Promo-B|Mega Medicham ex|29|Mega Medicham}}{{Mega ex}} || {{TCG Icon|Fighting}} || [[Mega Medicham ex Drop Event|Promo Pack B Series Vol. 4]]  (February 12 - 22, 2026)
+|-
+| 030/P-B || {{TCG ID|Promo-B|Tornadus|30}} || {{TCG Icon|Colorless}} || [[Mega Medicham ex Drop Event|Promo Pack B Series Vol. 4]]  (February 12 - 22, 2026)
+|-
+| 031/P-B || {{TCG ID|Promo-B|Cinderace|31}} || {{TCG Icon|Fire}} || [[Wonder Pick Event (Toxtricity)|Wonder Pick Event]]  (February 15 - March 4, 2026)
+|-
+| 032/P-B || {{TCG ID|Promo-B|Alolan Vulpix|32}} || {{TCG Icon|Water}} || [[Wonder Pick Event (Toxtricity)|Wonder Pick Event]]  (February 15 - March 4, 2026)
+|-
+| 033/P-B || {{TCG ID|Promo-B|Quaxly|33}} || {{TCG Icon|Water}} || [[Mission (TCG Pocket)#Premium Missions|Premium Mission]] login reward (March 1 - 31, 2026)
+|-
+| 034/P-B || {{TCG ID|Promo-B|Smoliv|34}} || {{TCG Icon|Grass}} || [[Charcadet Drop Event|Promo Pack B Series Vol. 5]] (March 11 - 21, 2026)
+|-
+| 035/P-B || {{TCG ID|Promo-B|Charcadet|35}} || {{TCG Icon|Fire}} || [[Charcadet Drop Event|Promo Pack B Series Vol. 5]]  (March 11 - 21, 2026)
+|-
+| 036/P-B || {{TCG ID|Promo-B|Tatsugiri|36}} || {{TCG Icon|Water}} || [[Charcadet Drop Event|Promo Pack B Series Vol. 5]]  (March 11 - 21, 2026)
+|-
+| 037/P-B || {{TCG ID|Promo-B|Frigibax|37}} || {{TCG Icon|Water}} || [[Charcadet Drop Event|Promo Pack B Series Vol. 5]]  (March 11 - 21, 2026)
+|-
+| 038/P-B || {{TCG ID|Promo-B|Tinkaton|38}} || {{TCG Icon|Metal}} || [[Charcadet Drop Event|Promo Pack B Series Vol. 5]]  (March 11 - 21, 2026)
+|-
+| 039/P-B || {{TCG ID|Promo-B|Pawmi|39}} || {{TCG Icon|Lightning}} || [[Wonder Pick Event (Arven)|Wonder Pick Event]]  (March 15 - 25, 2026)
+|-
+| 040/P-B || {{TCG ID|Promo-B|Paldean Clodsire|40}} || {{TCG Icon|Darkness}} || [[Wonder Pick Event (Arven)|Wonder Pick Event]]  (March 15 - 25, 2026)
+|-
+| 041/P-B || {{TCG ID|Promo-B|Chien-Pao ex|41|Chien-Pao}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || [[Mission (TCG Pocket)#Premium Missions|Premium Mission]] login reward (April 1 - 30, 2026)
+|-
+| 042/P-B || {{TCG ID|Promo-B|Slowpoke|42}} || {{TCG Icon|Water}} || [[Slowpoke Drop Event|Promo Pack B Series Vol. 6]]  (April 9 - 19, 2026)
+|-
+| 043/P-B || {{TCG ID|Promo-B|Electrike|43}} || {{TCG Icon|Lightning}} || [[Slowpoke Drop Event|Promo Pack B Series Vol. 6]]  (April 9 - 19, 2026)
+|-
+| 044/P-B || {{TCG ID|Promo-B|Varoom|44}} || {{TCG Icon|Metal}} || [[Slowpoke Drop Event|Promo Pack B Series Vol. 6]]  (April 9 - 19, 2026)
+|-
+| 045/P-B || {{TCG ID|Promo-B|Haxorus|45}} || {{TCG Icon|Dragon}} || [[Slowpoke Drop Event|Promo Pack B Series Vol. 6]]  (April 9 - 19, 2026)
+|-
+| 046/P-B || {{TCG ID|Promo-B|Chatot|46}} || {{TCG Icon|Colorless}} || [[Slowpoke Drop Event|Promo Pack B Series Vol. 6]]  (April 9 - 19, 2026)
+|-
+| 047/P-B || {{TCG ID|Promo-B|Gastly|47}} || {{TCG Icon|Darkness}} || [[Wonder Pick Event (Mega Kangaskhan)|Wonder Pick Event]]  (April 17 - 27, 2026)
+|-
+| 048/P-B || {{TCG ID|Promo-B|Wigglytuff|48}} || {{TCG Icon|Colorless}} || [[Wonder Pick Event (Mega Kangaskhan)|Wonder Pick Event]]  (April 17 - 27, 2026)
+|-
+| TBA/P-B || [[Zygarde ex (Promo-B)|Zygarde]]<!--{{TCG ID|Promo-B|Zygarde ex||Zygarde}}-->{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || TBA ''<small>(in-app description: Obtained from a mission)</small>''<!--[[Mission (TCG Pocket)#Special Event 2026|Special Event 2026]] mission reward (April 1 - 30, 2026)  (February 12 - 22, 2026)-->
+|-
+| TBA/P-B || [[Mega Heracross ex (Promo-B)|Mega Heracross]]<!--{{TCG ID|Promo-B|Mega Heracross ex||Mega Heracross}}-->{{TCGP Icon|Mega ex}} || {{TCG Icon|Grass}} || TBA ''<small>(in-app description: Obtained from a promo pack)</small>''<!--[[Mega Heracross ex Drop Event|Promo Pack B Series Vol. 8]]  (May 2026)-->
+|-
+| TBA/P-B || [[Treecko (Promo-B)|Treecko]]<!--{{TCG ID|Promo-B|Treecko|}}--> || {{TCG Icon|Grass}} || TBA ''<small>(in-app description: Obtained from a wonder pick)</small>''<!--[[Wonder Pick Event (Mega Sceptile)|Wonder Pick Event]] (May 2026)-->
+|-
+| TBA/P-B || [[Gallade (Promo-B)|Gallade]]<!--{{TCG ID|Promo-B|Gallade|}}--> || {{TCG Icon|Fighting}} || TBA ''<small>(in-app description: Obtained from a wonder pick)</small>''<!--[[Wonder Pick Event (Mega Sceptile)|Wonder Pick Event]] (May 2026)-->
+|}
+
+==Gallery==
+<!--=== Pack artwork ===
+{{TCGMerchGallery
+|background=03D
+|border=0BF
+|image1=Promo Pack B Series Vol. 1.png
+|caption1=Promo Pack B Series Vol. 1
+}}-->
+
+=== Pack logos ===
+{{TCGMerchGallery
+|background=03D
+|border=0BF
+|image1=PB Logo Vol. 1 EN.png
+|caption1=Promo Pack B Series Vol. 1 logo
+|image2=PB Logo Vol. 2 EN.png
+|caption2=Promo Pack B Series Vol. 2 logo
+|image3=PB Logo Vol. 3 EN.png
+|caption3=Promo Pack B Series Vol. 3 logo
+}}
+
+==Related articles==
+{{TCGPocketNavigation}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:PROMO-B (TCG Pocket)]]
+[[es:Promo-B (TCG Pocket)]]
+[[fr:Promo-B]]
+[[it:Promo-B (GCC Pocket)]]
+[[ja:P-Bシリーズのプロモーションカード一覧]]
+[[zh:B系列特典卡（TCGP）]]

@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Omanyte
+|ja name=オムナイト
+|trans name=Omnite
+|species=Omanyte
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OmanyteGeneticApex81.png|illustrator=Suwama Chiaki|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OmanyteFantasticalParade211.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=90
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Helix Fossil
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=081/226|pack=Pikachu|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Shiny|rarity count=1|number=211/155}}
+}}
+
+'''Omanyte''' (Japanese: '''オムナイト''' ''Omnite'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Water Gun
+|jname=みずでっぽう
+|jtrans=Water Gun
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Omanyte
+|species=Spiral
+|ndex=0138
+|height=1'4"
+|jheight=0.4
+|weight=16.5
+|jweight=7.5
+|dex=Because some Omanyte manage to escape after being restored or are released into the wild by people, this species is becoming a problem.
+|jdex=復元されたあと　逃げだしたり 逃がしてしまう　ものが　いるため 問題に　なりつつあるのだ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=OmanyteGeneticApex81.png
+|caption1=Uncommon card<br>Illus. [[Suwama Chiaki]]
+|image3=OmanyteFantasticalParade211.png
+|caption3=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Majestic Dawn|Omanyte|69}} from the {{TCG|Majestic Dawn}} expansion.
+*{{m|Water Gun}} is a [[move]] in the [[Pokémon games]] that {{p|Omanyte}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+*This card's {{TCGP|Fantastical Parade}} print features a {{Shiny}} {{p|Omanyte}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Amonitas (Unschlagbare Gene 081)]]
+[[es:Omanyte (Genes Formidables TCG Pocket)]]
+[[fr:Amonita (Puissance Génétique 081)]]
+[[it:Omanyte (Geni Supremi 81)]]
+[[ja:オムナイト (ポケポケ A1)]]
+[[zh:菊石兽（A1）]]

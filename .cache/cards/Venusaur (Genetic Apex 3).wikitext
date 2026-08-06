@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Venusaur
+|ja name=フシギバナ
+|trans name=Fushigibana
+|species=Venusaur
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VenusaurGeneticApex3.png|illustrator=Ryota Murayama|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VenusaurPromo-A18.png|illustrator=Kuroimori|tab caption=Promo}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VenusaurCelestialGuardians212.png|illustrator=Ryuta Fuse|tab caption=Shiny Rare}}
+|hp=160
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Ivysaur
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mewtwo|rarity=Diamond|rarity count=3|number=003/226}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Vol. 2|number=018/P-A}}
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Solgaleo|rarity=Shiny|rarity count=1|number=212/155}}
+}}
+
+'''Venusaur''' (Japanese: '''フシギバナ''' ''Fushigibana'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}{{e|Colorless}}
+|name=Mega Drain
+|jname=メガドレイン
+|jtrans=Mega Drain
+|damage=80
+|effect=Heal 30 damage from this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Venusaur
+|species=Seed
+|ndex=0003
+|height=6'7"
+|jheight=2
+|weight=220.5
+|jweight=100.0
+|dex=Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.
+|jdex=太陽エネルギーを　栄養にして 大きな花が　開く｡　日なたに 引き寄せられるように　移動する｡
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of five cards that could be pulled from Promo-A Vol. 2 packs; these were made available as part of the [[Venusaur Drop Event]], which ran from November 29 to December 13, 2024.
+
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=VenusaurGeneticApex3.png
+|caption1=Rare card<br>Illus. [[Ryota Murayama]]
+|image2=VenusaurPromo-A18.png
+|caption2=Promo card<br>Illus. [[Kuroimori]]
+|image3=VenusaurCelestialGuardians212.png
+|caption3=Shiny rare card<br>Illus. [[Ryuta Fuse]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare print features a {{shiny}} {{p|Venusaur}}.
+*{{m|Mega Drain}} is a [[move]] in the [[Pokémon games]] that {{p|Venusaur}} can learn via [[TM]] in Generations {{gen|I}} and {{gen|VII}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bisaflor (Unschlagbare Gene 003)]]
+[[es:Venusaur (Genes Formidables TCG Pocket)]]
+[[fr:Florizarre (Puissance Génétique 003)]]
+[[it:Venusaur (Geni Supremi 3)]]
+[[ja:フシギバナ (ポケポケ A1)]]
+[[zh:妙蛙花（A1）]]

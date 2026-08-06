@@ -1,0 +1,45 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Prank Spinner
+|ja name=いたずらルーレット
+|trans name=Prank Roulette
+|subtype=Item
+|image=PrankSpinnerMegaRising213.png
+|illustrator=Toyste Beach
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Blaziken|rarity=Diamond|rarity count=2|number=213/226}}
+}}
+
+'''Prank Spinner''' (Japanese: '''いたずらルーレット''' ''Prank Roulette'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=A card from among both player's hands is chosen at random, revealed to the other player, and shuffled into its owner's deck.
+}}
+
+==Trivia==
+
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=いたずらルーレット ''Itazura Roulette''
+|zh_yue=惡作劇輪盤 ''Okjokkehk Lèuhnpùhn''
+|zh_cmn=惡作劇輪盤 ''Èzuòjù Lúnpán''
+|fr=Roue Farceuse
+|de=Rad des Zufalls
+|it=Ruota della Sfortuna
+|ko=짓궂은룰렛 ''Jitguch-eun Roulette''
+|pt_br=Roleta Travessa
+|es=Ruleta Jugarreta
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rad des Zufalls (TCG Pocket)]]
+[[fr:Roue Farceuse (Méga-Ascension 213)]]
+[[it:Ruota della Sfortuna (Mega Ascesa 213)]]
+[[ja:いたずらルーレット]]
+[[zh:恶作剧轮盘（TCGP）]]

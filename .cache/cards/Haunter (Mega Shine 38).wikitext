@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Haunter
+|ja name=ゴースト
+|trans name=Ghost
+|species=Haunter
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HaunterMegaShine38.png|illustrator=DOM|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HaunterMegaShine101.png|illustrator=Shigenori Negishi|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Gastly
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=038/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=101/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Haunter''' (Japanese: '''ゴースト''' ''Ghost'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=Spin Turn
+|jname=スピンターン
+|jtrans=Spin Turn
+|damage=40
+|effect=Switch this Pokémon with 1 of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Haunter
+|category=Gas
+|ndex=0093
+|height=5'3"
+|jheight=1.6
+|weight=0.2
+|jweight=0.1
+|dex=In total darkness, where nothing is visible, Haunter lurks, silently stalking its next victim. 
+|jdex=本当に なにも 見えない 暗闇で ゴーストは 静かに 獲物を 狙っているのだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=HaunterMegaShine38.png
+|caption1=Uncommon card<br>Illus. [[DOM]]
+|image2=HaunterMegaShine101.png
+|caption2=Shiny rare card<br>Illus. [[Shigenori Negishi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Paldean Fates|Haunter|56}} from the {{TCG|Paldean Fates}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Haunter}}.
+*'''Spin Turn''' is an attack that first appeared on {{TCG ID|Great Encounters|Baltoy|60}} from the {{TCG|Great Encounters}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alpollo (Mega-Schillern 038)]]
+[[fr:Spectrum (Méga-Rayonnement 038)]]
+[[it:Haunter (Mega Splendore 38)]]
+[[ja:ゴースト (ポケポケ B2b)]]
+[[zh:鬼斯通（B2b）]]

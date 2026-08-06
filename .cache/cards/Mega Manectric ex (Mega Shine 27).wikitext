@@ -1,0 +1,85 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Manectric {{TCGP Icon|Mega ex}}
+|ja name=メガライボルト{{TCGP Icon|Mega ex}}
+|trans name=Mega Livolt {{TCGP Icon|Mega ex}}
+|species=Manectric
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaManectricexMegaShine27.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaManectricexMegaShine78.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaManectricexMegaShine84.png|illustrator=GOSSAN|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaManectricexMegaShine113.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=180
+|weakness=Fighting
+|retreat cost=0
+|evo stage=Stage 1
+|prevo name=Electrike
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=027/069|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=078/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=084/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=113/069|pack=Any|rarity=Shiny|rarity count=2}}
+}}
+
+'''Mega Manectric ex''' (Japanese: '''メガライボルトex''' ''Mega Livolt ex'') is a {{ct|Lightning}} Stage 1 {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Lightning Accelerator
+|jname=イナズマアクセル
+|jtrans=Lightning Accel
+|damage=80+
+|effect=This attack does 30 more damage for each point you have gotten.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Lightning
+|ndex=0310
+|name=Manectric
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Manectric
+|category=Discharge
+|ndex=0310
+|height=5'11"
+|jheight=1.8
+|weight=97.0
+|jweight=44.0
+|dex=Mega Evolution fills its body with a tremendous amount of electricity, but it's too much for Manectric to fully control.
+|jdex=メガシンカで 凄まじい 量の 電力が 体内に 溜まるが 扱いきれず 持て余している。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=MegaManectricexMegaShine27.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=MegaManectricexMegaShine78.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=MegaManectricexMegaShine84.png
+|caption3=Special illustration rare card<br>Illus. [[GOSSAN]]
+|image4=MegaManectricexMegaShine113.png
+|caption4=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{me|Manectric}}.
+*This card's shiny super rare illustration features a {{Shiny}} Mega Manectric.
+*This card's [[Pokédex]] entry comes from {{g|Legends Z-A}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Voltenso-ex (Mega-Schillern 027)]]
+[[fr:Méga-Élecsprint-ex (Méga-Rayonnement 027)]]
+[[it:Mega Manectric-ex (Mega Splendore 27)]]
+[[ja:メガライボルトex (ポケポケ B2b)]]
+[[zh:超级雷电兽ex（B2b）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Electivire
+|ja name=エレキブル
+|trans name=Elekible
+|species=Electivire
+|type=Lightning
+|image=ElectivireMegaShine25.png
+|illustrator=AKIRA EGAWA
+|hp=130
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Electabuzz
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=025/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Electivire''' (Japanese: '''エレキブル''' ''Elekible'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}
+|name=Incendiary Thunder
+|jname=ばくねつサンダー
+|jtrans=Explosive Thunder
+|damage=50+
+|effect=If {{TCGP|Magmortar}} is on your Bench, this attack does 70 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Electivire
+|species=Thunderbolt
+|ndex=0466
+|height=5'11"
+|jheight=1.8
+|weight=305.6
+|jweight=138.6
+|dex=This Pokémon presses the tips of its tails onto an opponent and instantly sends over 20,000 volts of high-voltage electricity through them.
+|jdex=相手に 尻尾の先を 押しつけ 瞬時に 2万ボルト 以上の 高圧 電流を 送りこむ。
+}}
+
+==Trivia==
+This card forms part of a {{TCGP|narrative illustration|perspective illustration}} with {{TCG ID|Mega Shine|Magmortar|13}} from the same set; both cards' illustrations originated from the {{TCG|Brilliant Stars}} expansion. Additionally, the name of Electivire's Incendiary Thunder attack references the connection between both Pokémon, with a secondary effect activated if the player has Magmortar in play.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Brilliant Stars|Electivire|47}} from the {{TCG|Brilliant Stars}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Elevoltek (Mega-Schillern 025)]]
+[[fr:Élekable (Méga-Rayonnement 025)]]
+[[it:Electivire (Mega Splendore 25)]]
+[[ja:エレキブル (ポケポケ B2b)]]
+[[zh:电击魔兽（B2b）]]

@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Oranguru
+|ja name=ヤレユータン
+|trans name=Yareyuutan
+|species=Oranguru
+|type=Colorless
+|image=OranguruCelestialGuardians140.png
+|illustrator=Naoki Saito
+|hp=100
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=140/155|pack=Lunala|rarity=Diamond|rarity count=3}}
+}}
+
+'''Oranguru''' (Japanese: '''ヤレユータン''' ''Yareyuutan'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Primate's Trap
+|jname=さるのわな
+|jtrans=Monkey's Trap
+|damage=40
+|effect=During your opponent's next turn, attacks used by the Defending Pokémon cost 1 {{e|Colorless}} more, and its Retreat Cost is 1 {{e|Colorless}} more.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Oranguru
+|species=Sage
+|ndex=0765
+|height=4'11"
+|jheight=1.5
+|weight=167.6
+|jweight=76.0
+|dex=People used to mistake Oranguru for a human when they saw it issue command after command to the other Pokémon of the forest.
+|jdex=森の ポケモンたちに つぎつぎと 指示を だす 姿から 昔は 人間だと 思われていた。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Oranguru|182}} from the {{TCG|Unified Minds}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kommandutan (Hüter des Firmaments 140)]]
+[[es:Oranguru (Guardianes Celestiales TCG Pocket)]]
+[[fr:Gouroutan (Gardiens Astraux 140)]]
+[[it:Oranguru (Guardiani Astrali 140)]]
+[[ja:ヤレユータン (ポケポケ A3)]]
+[[zh:智挥猩（A3）]]

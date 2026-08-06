@@ -1,0 +1,83 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Charizard X {{TCGP Icon|Mega ex}}
+|ja name=メガリザードンX{{TCGP Icon|Mega ex}}
+|trans name=Mega Lizardon X {{TCGP Icon|Mega ex}}
+|species=Charizard
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaCharizardXexMegaShine9.png|illustrator=PLANETA Igarashi|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaCharizardXexMegaShine76.png|illustrator=PLANETA Igarashi|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaCharizardXexMegaShine111.png|illustrator=PLANETA Igarashi|tab caption=Shiny Super Rare}}
+|hp=220
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Charmeleon
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=009/069|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=076/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=111/069|pack=Any|rarity=Shiny|rarity count=2}}
+}}
+
+'''Mega Charizard X ex''' (Japanese: '''メガリザードンXex''' ''Mega Lizardon X ex'') is a {{ct|Fire}} Stage 2 {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Mega Species/Pocket|Charizard}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Fire}}
+|name=Raging Blaze
+|jname=レイジングブレイズ
+|jtrans=Raging Blaze
+|damage=100+
+|effect=If this Pokémon's remaining HP is 110 or less, this attack does 80 more damage.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Fire
+|ndex=0006
+|name=Charizard
+|form=MX
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Charizard
+|category=Flame
+|ndex=0006
+|height=5'7"
+|jheight=1.7
+|weight=243.6
+|jweight=110.5
+|dex=The overwhelming power that fills its entire body causes it to turn black and creates intense blue flames.
+|jdex=全身に みなぎる 並はずれた パワーが 体を 黒く 染め上げ 青い 炎を メラメラ 燃やす。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=MegaCharizardXexMegaShine9.png
+|caption1=Double rare card<br>Illus. [[PLANETA Igarashi]]
+|image2=MegaCharizardXexMegaShine76.png
+|caption2=Super rare card<br>Illus. [[PLANETA Igarashi]]
+|image3=MegaCharizardXexMegaShine111.png
+|caption3=Shiny super rare card<br>Illus. [[PLANETA Igarashi]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{me|Charizard}} X.
+*This card's shiny super rare illustration features a {{Shiny}} Mega Charizard X.
+*This card's [[Pokédex]] entry comes from {{g|Legends Z-A}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Glurak X-ex (Mega-Schillern 009)]]
+[[fr:Méga-Dracaufeu X-ex (Méga-Rayonnement 009)]]
+[[it:Mega Charizard X-ex (Mega Splendore 9)]]
+[[ja:メガリザードンXex (ポケポケ B2b)]]
+[[zh:超级喷火龙Xex（B2b）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Luxio
+|ja name=ルクシオ
+|trans name=Luxio
+|species=Luxio
+|type=Lightning
+|image=LuxioExtradimensionalCrisis14.png
+|illustrator=Kouki Saitou
+|hp=80
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Shinx
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=014/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Luxio''' (Japanese: '''ルクシオ''' ''Luxio'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Head Bolt
+|jname=ヘッドボルト
+|jtrans=Head Volt
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Luxio
+|species=Spark
+|ndex=0404
+|height=2'11"
+|jheight=0.9
+|weight=67.2
+|jweight=30.5
+|dex=Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.
+|jdex=鋭い ツメの 先には 強い 電気が 流れており ほんの少し かするだけで 敵を 気絶させる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Next Destinies|Luxio|44}} from the {{TCG|Next Destinies}} expansion.
+*'''Head Bolt''' is an attack that first appeared on {{TCG ID|Arceus|Manectric|44}} from the {{TCG|Platinum: Arceus|Arceus}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Luxio (Dimensionale Krise 014)]]
+[[es:Luxio (Crisis Dimensional TCG Pocket)]]
+[[fr:Luxio (Crise Interdimensionnelle 014)]]
+[[it:Luxio (Crisi Ultradimensionale 14)]]
+[[ja:ルクシオ (ポケポケ A3a)]]
+[[zh:勒克猫（A3a）]]

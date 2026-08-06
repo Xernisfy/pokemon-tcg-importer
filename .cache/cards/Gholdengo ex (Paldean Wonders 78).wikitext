@@ -1,0 +1,66 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gholdengo {{TCGP Icon|ex}}
+|ja name=サーフゴー{{TCGP Icon|ex}}
+|trans name=Surfugo {{TCGP Icon|ex}}
+|species=Gholdengo
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GholdengoexPaldeanWonders78.png|illustrator=takuyoa|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GholdengoexPaldeanWonders104.png|illustrator=takuyoa|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GholdengoexPaldeanWonders114.png|illustrator=Akira Komayama|tab caption=Special Illustration Rare}}
+|hp=150
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Gimmighoul
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=078/093|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=104/093|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=114/093|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Gholdengo ex''' (Japanese: '''サーフゴーex''' ''Surfugo ex'') is a {{ct|Metal}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}
+|name=Spending Rush
+|jname=ばらまきラッシュ
+|jtrans=Scattering Rush
+|damage=
+|effect=1 of your opponent's Pokémon is chosen at random for each {{e|Metal}} Energy attached to this Pokémon. For each time a Pokémon was chosen, do 40 damage to it.
+}}
+{{Cardtext/Pocket ex
+|type=Metal
+|ndex=1000
+|name=Gholdengo
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=GholdengoexPaldeanWonders78.png
+|caption1=Double rare card<br>Illus. [[takuyoa]]
+|image2=GholdengoexPaldeanWonders104.png
+|caption2=Super rare card<br>Illus. [[takuyoa]]
+|image3=GholdengoexPaldeanWonders114.png
+|caption3=Special illustration rare card<br>Illus. [[Akira Komayama]]
+}}
+
+==Trivia==
+===Origin===
+*All of this card's illustrations were first featured on {{TCG ID|Paradox Rift|Gholdengo ex|139}} from the {{TCG|Paradox Rift}} expansion.
+**This card's special illustration rare artwork forms a combined illustration with {{TCG ID|Paldean Wonders|Gimmighoul|96}}, which was also [[Gimmighoul (Paradox Rift 198)|first featured]] in Paradox Rift.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Monetigo-ex (Wundervolles Paldea 078)]]
+[[fr:Gromago-ex (Merveilles de Paldea 078)]]
+[[it:Gholdengo-ex (Meraviglie di Paldea 78)]]
+[[ja:サーフゴーex (ポケポケ B2a)]]
+[[zh:赛富豪ex（B2a）]]

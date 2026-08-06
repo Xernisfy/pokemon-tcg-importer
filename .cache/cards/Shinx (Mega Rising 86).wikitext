@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Shinx
+|ja name=コリンク
+|trans name=Kolink
+|species=Shinx
+|type=Lightning
+|image=ShinxMegaRising86.png
+|illustrator=Uta
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=086/226|pack=Mega Blaziken|rarity=Diamond|rarity count=1}}
+}}
+
+'''Shinx''' (Japanese: '''コリンク''' ''Kolink'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Colorless}}
+|name=Flop
+|jname=はねまわる
+|jtrans=Hop About
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Shinx
+|category=Flash
+|ndex=0403
+|height=1'8"
+|jheight=0.5
+|weight=20.9
+|jweight=9.5
+|dex=The extension and contraction of its muscles generates electricity. Its fur glows when it's in trouble.
+|jdex=筋肉が 伸び縮み することで 電気が 発生。 ピンチになると 体毛が まぶしく 光る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Shinx|60}} from the {{TCG|Rebel Clash}} expansion.
+*'''Flop''' is an attack that first appeared on {{TCG ID|Team Rocket|Magikarp|47}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sheinux (Mega-Aufstieg 086)]]
+[[es:Shinx (Megaascenso TCG Pocket)]]
+[[fr:Lixy (Méga-Ascension 086)]]
+[[it:Shinx (Mega Ascesa 86)]]
+[[ja:コリンク (ポケポケ B1)]]
+[[zh:小猫怪（B1）]]

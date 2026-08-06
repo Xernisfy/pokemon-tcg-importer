@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Turtwig
+|ja name=ナエトル 
+|trans name=Naetle
+|species=Turtwig
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TurtwigSpace-TimeSmackdown10.png|illustrator=OOYAMA|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TurtwigPromo-A35.png|illustrator=Atsuko Nishida|tab caption=Promo}}
+|hp=80
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Palkia|rarity=Diamond|rarity count=1|number=010/155}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Vol. 4|number=035/P-A}}
+}}
+
+'''Turtwig''' (Japanese: '''ナエトル ''' ''Naetle'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Bite
+|jname=かみつく
+|jtrans=Bite
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Turtwig
+|species=Tiny Leaf
+|ndex=0387
+|height=1'4"
+|jheight=0.4
+|weight=22.5
+|jweight=10.2
+|dex=It uses its whole body to photosynthesize when exposed to sunlight. Its shell is made from hardened soil.
+|jdex=太陽の 光を 浴びて 全身で 光合成を する。 甲羅は 土が 硬くなったもの。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was one of five cards that could be pulled from Promo-A Vol. 4 packs; these were made available as part of the [[Cresselia ex Drop Event]], which ran from February 3 to 18, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=TurtwigSpace-TimeSmackdown10.png
+|caption1=Common card<br>Illus. [[OOYAMA]]
+|image2=TurtwigPromo-A35.png
+|caption2=Promo card<br>Illus. [[Atsuko Nishida]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Space-Time Smackdown}} illustration was first featured on {{TCG ID|Ultra Prism|Turtwig|7}} from the {{TCG|Ultra Prism}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Supreme Victors|Turtwig|131}} from the {{TCG|Supreme Victors}} expansion.
+*{{m|Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Turtwig}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Chelast (Kollision von Raum und Zeit 010)]]
+[[es:Turtwig (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Tortipouss (Choc Spatio-Temporel 010)]]
+[[it:Turtwig (Scontro Spaziotemporale 10)]]
+[[ja:ナエトル (ポケポケ A2)]]
+[[zh:草苗龟（A2）]]

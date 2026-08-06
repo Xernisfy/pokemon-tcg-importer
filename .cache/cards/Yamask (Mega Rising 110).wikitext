@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Yamask
+|ja name=デスマス
+|trans name=Desumasu
+|species=Yamask
+|type=Psychic
+|image=YamaskMegaRising110.png
+|illustrator=Aya Kusube
+|hp=70
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=110/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+}}
+
+'''Yamask''' (Japanese: '''デスマス''' ''Desumasu'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Mumble
+|jname=つぶやく
+|jtrans=Murmur
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Yamask
+|category=Spirit
+|ndex=0562
+|height=1'8"
+|jheight=0.5
+|weight=3.3
+|jweight=1.5
+|dex=The spirit of a person from a bygone age became this Pokémon. It rambles through ruins, searching for someone who knows its face.
+|jdex=古代人の 魂が ポケモンに なった。 自分の 顔を 知る 人を 探し 遺跡を さまよう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Dark Explorers|Yamask|51}} from the {{TCG|Dark Explorers}} expansion.
+*'''Mumble''' is an attack that first appeared on {{TCG ID|Great Encounters|Whismur|94}} from the {{TCG|Great Encounters}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Makabaja (Mega-Aufstieg 110)]]
+[[es:Yamask (Megaascenso TCG Pocket)]]
+[[fr:Tutafeh (Méga-Ascension 110)]]
+[[it:Yamask (Mega Ascesa 110)]]
+[[ja:デスマス (ポケポケ B1)]]
+[[zh:哭哭面具（B1）]]

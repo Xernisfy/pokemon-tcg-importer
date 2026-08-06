@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Steenee
+|ja name=アママイコ
+|trans name=Amamaiko
+|species=Steenee
+|type=Grass
+|image=SteeneeEeveeGrove4.png
+|illustrator=Tomokazu Komiya
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Bounsweet
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=004/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Steenee''' (Japanese: '''アママイコ''' ''Amamaiko'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Leaf Step
+|jname=リーフステップ
+|jtrans=Leaf Step
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Steenee
+|species=Fruit
+|ndex=0762
+|height=2'4"
+|jheight=0.7
+|weight=18.1
+|jweight=8.2
+|dex=Steenee spreads a sweet scent that makes others feel invigorated. This same scent is popular for antiperspirants.
+|jdex=元気な 気持ちになれる 甘い 香りを 振りまく。 制汗剤の フレーバーとして 人気が 高い。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Chilling Reign|Steenee|14}} from the {{TCG|Chilling Reign}} expansion.
+*'''Leaf Step''' is an attack that first appeared on {{TCG ID|SM Promo|Shining Celebi|79}}, one of the {{TCG|SM Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Frubaila (Evoli-Hain 004)]]
+[[es:Steenee (Arboleda de Eevee TCG Pocket)]]
+[[fr:Candine (La Clairière d'Évoli 004)]]
+[[it:Steenee (Il Bosco di Eevee 4)]]
+[[ja:アママイコ (ポケポケ A3b)]]
+[[zh:甜舞妮（A3b）]]

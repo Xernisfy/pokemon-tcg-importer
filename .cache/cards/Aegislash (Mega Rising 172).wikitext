@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Aegislash
+|ja name=ギルガルド
+|trans name=Gillgard
+|species=Aegislash
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AegislashMegaRising172.png|illustrator=miki kudo|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AegislashCrimsonBlaze102.png|illustrator=PLANETA CG Works|tab caption=Ultra Rare}}
+|hp=140
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Doublade
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=172/226|pack=Mega Blaziken|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=102/069|pack=Any|rarity=Crown}}
+}}
+
+'''Aegislash''' (Japanese: '''ギルガルド''' ''Gillgard'') is a {{ct|Metal}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Ability/Pocket
+|type=Metal
+|name=Cursed Metal
+|jname=カースドメタル
+|jtrans=Cursed Metal
+|effect=Attacks used by your {{e|Psychic}} Pokémon and {{e|Metal}} Pokémon do +30 damage to your opponent's Active Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Colorless}}{{e|Colorless}}
+|name=Slicing Blade
+|jname=スライスブレード
+|jtrans=Slice Blade
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Aegislash
+|category=Royal Sword
+|ndex=0681
+|height=5'7"
+|jheight=1.7
+|weight=116.8
+|jweight=53.0
+|dex=Once upon a time, a king with an Aegislash reigned over the land. His Pokémon eventually drained him of life, and his kingdom fell with him.
+|jdex=昔 ギルガルドを 連れた 王が 国を 支配 していたが やがて 生気を 吸われ 国も 滅びた。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=AegislashMegaRising172.png
+|caption1=Rare card<br>Illus. [[miki kudo]]
+|image2=AegislashCrimsonBlaze102.png
+|caption2=Ultra rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Aegislash}} in its {{form|Aegislash|Blade Forme}}.
+*This card's standard illustration was first featured on {{TCG ID|Battle Styles|Aegislash|107}} from the {{TCG|Battle Styles}} expansion.
+*'''Slicing Blade''' is an attack that first appeared on {{TCG ID|EX Sandstorm|Armaldo|1}} from the {{TCG|EX Sandstorm}} expansion as '''Blade Arms'''.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Durengard (Mega-Aufstieg 172)]]
+[[es:Aegislash (Megaascenso TCG Pocket)]]
+[[fr:Exagide (Méga-Ascension 172)]]
+[[it:Aegislash (Mega Ascesa 172)]]
+[[ja:ギルガルド (ポケポケ B1)]]
+[[zh:坚盾剑怪（B1）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Drednaw
+|ja name=カジリガメ
+|trans name=Kajirigame
+|species=Drednaw
+|type=Water
+|image=DrednawMegaRising77.png
+|illustrator=Anesaki Dynamic
+|hp=130
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Chewtle
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Diamond|rarity count=2|number=077/226}}
+}}
+
+'''Drednaw''' (Japanese: '''カジリガメ''' ''Kajirigame'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Jaw Lock
+|jname=くらいつく
+|jtrans=Seize with Teeth
+|damage=70
+|effect=During your opponent's next turn, the Defending Pokémon can't retreat.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Drednaw
+|species=Bite
+|ndex=0834
+|height=3'3"
+|jheight=1.0
+|weight=254.6
+|jweight=115.5
+|dex=Drednaw lurks along the shoreline. When prey come to drink water, Drednaw stretches its neck out and chomps down on them.
+|jdex=岸辺に 潜み 獲物が 水を 飲みに 来たところを 首を 長く 伸ばして がぶりと 噛みつく。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|SWSH Promo|Drednaw|47}}, one of the {{TCG|SWSH Black Star Promos}}; both cards have the Jaw Lock attack.
+*{{m|Jaw Lock}} is a [[move]] in the [[Pokémon games]] that {{p|Drednaw}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kamalm (Mega-Aufstieg 077)]]
+[[es:Drednaw (Megaascenso TCG Pocket)]]
+[[fr:Torgamord (Méga-Ascension 077)]]
+[[it:Drednaw (Mega Ascesa 77)]]
+[[ja:カジリガメ (ポケポケ B1)]]
+[[zh:暴噬龟（B1）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Magcargo
+|ja name=マグカルゴ
+|trans name=Magcargot
+|species=Magcargo
+|type=Fire
+|image=MagcargoWisdomofSeaandSky31.png
+|illustrator=Shigenori Negishi
+|hp=120
+|weakness=Water
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Slugma
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=031/161|pack=Ho-Oh|rarity=Diamond|rarity count=2}}
+}}
+
+'''Magcargo''' (Japanese: '''マグカルゴ''' ''Magcargot'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}
+|name=Spurt Fire
+|jname=ぶちまけファイヤー
+|jtrans=Spurting Fire
+|damage=
+|effect=1 other Pokémon ''(either yours or your opponent's)'' is chosen at random 3 times. For each time a Pokémon was chosen, do 50 damage to it.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Magcargo
+|species=Lava
+|ndex=0219
+|height=2'7"
+|jheight=0.8
+|weight=121.3
+|jweight=55.0
+|dex=Its brittle shell occasionally spouts intense flames that circulate throughout its body.
+|jdex=背中の 殻は 崩れやすいが ときどき 体内を 巡っている 高熱の 炎が 噴き出す。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Primal Clash|Magcargo|23}} from the {{TCG|Primal Clash}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Magcargo (Weisheit von Meer und Himmel 031)]]
+[[es:Magcargo (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Volcaropod (Sagesse entre Ciel et Mer 031)]]
+[[it:Magcargo (La Via del Cielo e del Mare 31)]]
+[[ja:マグカルゴ (ポケポケ A4)]]
+[[zh:熔岩蜗牛（A4）]]

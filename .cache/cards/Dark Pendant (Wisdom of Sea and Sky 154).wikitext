@@ -1,0 +1,45 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Dark Pendant
+|ja name=ダークペンダント
+|trans name=Dark Pendant
+|subtype=Pokémon Tool
+|image=DarkPendantWisdomofSeaandSky154.png
+|illustrator=Toyste Beach
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=154/161|pack=Ho-Oh|rarity=Diamond|rarity count=2}}
+}}
+
+'''Dark Pendant''' (Japanese: '''ダークペンダント''' ''Dark Pendant'') is a {{TCGP|Pokémon Tool}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Tool
+|rule=Pocket Tool
+|effect=If the {{e|Darkness}} Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon, your opponent reveals a random card from their hand and shuffles it into their deck.
+}}
+
+==Trivia==
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Pokémon Tool color}}|bordercolor={{TCG Pokémon Tool color dark}}|textcolor=FFF
+|ja=ダークペンダント ''Dark Pendant''
+|zh_yue=暗黑吊墜 ''Amhāk Diujéui''
+|zh_cmn=暗黑吊墜 ''Ànhēi Diàozhuì''
+|fr=Pendentif des Ténèbres
+|de=Dunkler Anhänger
+|it=Pendente Oscuro
+|ko=다크펜던트 ''Dark Pendant''
+|pt_br=Pingente Sombrio
+|es=Colgante Sombrío
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Dunkler Anhänger (TCG Pocket)]]
+[[es:Colgante Sombrío (TCG Pocket)]]
+[[fr:Pendentif des Ténèbres (Sagesse entre Ciel et Mer 154)]]
+[[it:Pendente Oscuro (La Via del Cielo e del Mare 154)]]
+[[ja:ダークペンダント]]
+[[zh:暗黑吊坠（TCGP）]]

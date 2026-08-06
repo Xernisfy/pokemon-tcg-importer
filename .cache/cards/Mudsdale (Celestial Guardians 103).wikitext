@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mudsdale
+|ja name=バンバドロ
+|trans name=Banbadoro
+|species=Mudsdale
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MudsdaleCelestialGuardians103.png|illustrator=Takeshi Nakamura|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MudsdaleCelestialGuardians173.png|illustrator=Teeziro|tab caption=Illustration Rare}}
+|hp=140
+|weakness=Grass
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Mudbray
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=103/155|pack=Solgaleo|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=173/155|pack=Solgaleo|rarity=Star|rarity count=1}}
+}}
+
+'''Mudsdale''' (Japanese: '''バンバドロ''' ''Banbadoro'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=High Horsepower
+|jname=１０まんばりき
+|jtrans=100,000 Horsepower
+|damage=140
+|effect=This Pokémon also does 40 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Mudsdale
+|species=Draft Horse
+|ndex=0750
+|height=8'2"
+|jheight=2.5
+|weight=2028.3
+|jweight=920.0
+|dex=This Pokémon has been treasured not just for its physical labor but also because it produces high-quality mud used for making pottery.
+|jdex=力仕事 だけでなく 陶器の 材料の 上質な 泥を 作り出すため 大事にされてきた。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=MudsdaleCelestialGuardians103.png
+|caption1=Uncommon card<br>Illus. [[Takeshi Nakamura]]
+|image2=MudsdaleCelestialGuardians173.png
+|caption2=Illustration rare card<br>Illus. [[Teeziro]]
+}}
+
+==Trivia==
+===Origin===
+*{{m|High Horsepower}} is a [[move]] in the [[Pokémon games]] that {{p|Mudsdale}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pampross (Hüter des Firmaments 103)]]
+[[es:Mudsdale (Guardianes Celestiales TCG Pocket)]]
+[[fr:Bourrinos (Gardiens Astraux 103)]]
+[[it:Mudsdale (Guardiani Astrali 103)]]
+[[ja:バンバドロ (ポケポケ A3)]]
+[[zh:重泥挽马（A3）]]

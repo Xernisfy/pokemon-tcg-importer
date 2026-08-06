@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Passimian
+|ja name=ナゲツケサル
+|trans name=Nagetukesaru
+|species=Passimian
+|type=Fighting
+|image=PassimianFantasticalParade91.png
+|illustrator=HYOGONOSUKE
+|hp=90
+|weakness=Psychic
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=091/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Passimian''' (Japanese: '''ナゲツケサル''' ''Nagetukesaru'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Fling
+|jname=なげつける
+|jtrans=Fling
+|damage=
+|effect=This attack does 30 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Passimian
+|category=Teamwork
+|ndex=0766
+|height=6'7"
+|jheight=2.0
+|weight=182.5
+|jweight=82.8
+|dex=The boss chooses 10 members of the group to go out hunting. The hunting party will evenly split the food they find with the rest of the group.
+|jdex=ボスが 選んだ 10匹で 狩りに 出かけ 取ってきた エサを 群れの 仲間で 平等に 分け合う。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Fling}} is a [[move]] in the [[Pokémon games]] that {{p|Passimian}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Quartermak (Traumhafte Parade 091)]]
+[[fr:Quartermac (Parade Onirique 091)]]
+[[it:Passimian (Parata Fantasmagorica 91)]]
+[[ja:ナゲツケサル (ポケポケ B2)]]
+[[zh:投掷猴（B2）]]

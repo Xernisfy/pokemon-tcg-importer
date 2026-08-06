@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Heatmor
+|ja name=クイタラン
+|trans name=Kuitaran
+|species=Heatmor
+|type=Fire
+|image=HeatmorGeneticApex48.png
+|illustrator=Suwama Chiaki
+|hp=80
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=048/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Heatmor''' (Japanese: '''クイタラン''' ''Kuitaran'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Combustion
+|jname=かえん
+|jtrans=Blaze
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Heatmor
+|species=Anteater
+|ndex=0631
+|height=4'7"
+|jheight=1.4
+|weight=127.9
+|jweight=58.0
+|dex=There's a hole in its tail that allows it to draw in the air it needs to keep its fire burning. If the hole gets blocked, this Pokémon will fall ill.
+|jdex=しっぽの　穴から　空気を 取りこみ　炎を　燃やす｡　穴を 塞がれると　具合が　悪くなる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Plasma Storm|Heatmor|23}} from the {{TCG|Plasma Storm}} expansion.
+*'''Combustion''' is an attack that first appeared on {{TCG ID|Neo Destiny|Slugma|82}} from the {{TCG|Neo Destiny}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Furnifraß (Unschlagbare Gene 048)]]
+[[es:Heatmor (Genes Formidables TCG Pocket)]]
+[[fr:Aflamanoir (Puissance Génétique 048)]]
+[[it:Heatmor (Geni Supremi 48)]]
+[[ja:クイタラン (ポケポケ A1)]]
+[[zh:熔蚁兽（A1）]]

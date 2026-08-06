@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Galarian Mr. Mime
+|ja name=ガラルバリヤード
+|trans name=Galarian Barrierd
+|species=Mr. Mime
+|type=Water
+|image=GalarianMrMimeFantasticalParade30.png
+|illustrator=Misa Tsutsui
+|hp=70
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=030/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Galarian Mr. Mime''' (Japanese: '''ガラルバリヤード''' ''Galarian Barrierd'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Icy Snow
+|jname=スノーアイス
+|jtrans=Snow Ice
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Mr. Mime
+|category=Dancing
+|ndex=0122
+|height=4'7"
+|jheight=1.4
+|weight=125.2
+|jweight=56.8
+|dex=It can radiate chilliness from the bottoms of its feet. It'll spend the whole day tap-dancing on a frozen floor.
+|jdex=足の 裏から 冷気を 出す。 凍らせた 床の 上で １日 タップダンスに 励んでいる。
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Galarian form]] of {{p|Mr. Mime}}.
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Galarian Mr. Mime|35}} from the {{TCG|Darkness Ablaze}} expansion; both cards have the Icy Snow attack.
+*'''Icy Snow''' is an attack that first appeared on {{TCG ID|Next Destinies|Vanillite|31}} and {{TCG ID|Next Destinies|Vanillish|32}} from the {{TCG|Next Destinies}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Galar-Pantimos (Traumhafte Parade 030)]]
+[[fr:M. Mime de Galar (Parade Onirique 030)]]
+[[it:Mr. Mime di Galar (Parata Fantasmagorica 30)]]
+[[ja:ガラルバリヤード (ポケポケ B2)]]
+[[zh:伽勒尔 魔墙人偶（B2）]]

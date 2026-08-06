@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rhyhorn
+|ja name=サイホーン
+|trans name=Sihorn
+|species=Rhyhorn
+|type=Fighting
+|image=RhyhornGeneticApex156.png
+|illustrator=Midori Harada
+|hp=80
+|weakness=Grass
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=156/226|pack=Mewtwo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Rhyhorn''' (Japanese: '''サイホーン''' ''Sihorn'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Rhyhorn
+|species=Spikes
+|ndex=0111
+|height=3'3"
+|jheight=1
+|weight=253.5
+|jweight=115.0
+|dex=Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging tackles.
+|jdex=頭は　悪いが　力が　強く 高層ビルも　体当たりで コナゴナに　粉砕する｡
+}}
+
+==Trivia==
+This card is one of several featured in the {{TCGP|Genetic Apex}} expansion's "Safari Zone" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]], all of which can be found in the [[Kanto Safari Zone]] in Generations {{gen|I}} and {{gen|III}}.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Primal Clash|Rhyhorn|74}} from the {{TCG|Primal Clash}} expansion.
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Rhyhorn}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rihorn (Unschlagbare Gene 156)]]
+[[es:Rhyhorn (Genes Formidables TCG Pocket)]]
+[[fr:Rhinocorne (Puissance Génétique 156)]]
+[[it:Rhyhorn (Geni Supremi 156)]]
+[[ja:サイホーン (ポケポケ A1)]]
+[[zh:独角犀牛（A1）]]

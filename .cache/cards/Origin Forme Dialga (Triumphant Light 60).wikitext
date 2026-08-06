@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Origin Forme Dialga
+|ja name=オリジンディアルガ
+|trans name=Origin Dialga
+|species=Dialga
+|type=Metal
+|image=OriginFormeDialgaTriumphantLight60.png
+|illustrator=akagi
+|illustrator link=akagi (illustrator)
+|hp=120
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=060/075|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Origin Forme Dialga''' (Japanese: '''オリジンディアルガ''' ''Origin Dialga'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Colorless}}
+|name=Time Mash
+|jname=タイムクラッシュ
+|jtrans=Time Crash
+|damage=100
+|effect=Flip a coin. If tails, during your next turn, this Pokémon can't attack.
+}}
+{{Cardtext/Footer}}
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Dialga
+|species=Temporal
+|ndex=0483
+|height=22'11"
+|jheight=7.0
+|weight=1873.9
+|jweight=850.0
+|dex=Radiant light caused Dialga to take on a form bearing a striking resemblance to the creator Pokémon. Dialga now wields such colossal strength that one must conclude this is its true form.
+|jdex=光明 フォルムチェンジの 引き金。 創造神に 酷似する姿こそ 真なりと 思わざるを得ぬほどの 剛力 発揮す。
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Dialga}} in its {{form|Giratina|Origin Forme}}.
+*This card's [[Pokédex]] entry comes from {{g|Legends: Arceus}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ur-Dialga (Licht des Triumphs 060)]]
+[[es:Dialga Origen (Luz Triunfal TCG Pocket)]]
+[[fr:Dialga Forme Originelle (Lumière Triomphale 060)]]
+[[it:Dialga Forma Originale (Luce Trionfale 60)]]
+[[ja:オリジンディアルガ (ポケポケ A2a)]]
+[[zh:起源帝牙盧卡（A2a）]]

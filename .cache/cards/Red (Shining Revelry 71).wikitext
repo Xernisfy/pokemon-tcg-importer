@@ -1,0 +1,66 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Red
+|ja name=レッド
+|trans name=Red
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RedShiningRevelry71.png|illustrator=Teeziro|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RedDeluxePackex353.png|illustrator=Teeziro|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RedShiningRevelry90.png|illustrator=Teeziro|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=071/072|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=090/072|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=352/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=353/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Red''' (Japanese: '''レッド''' ''Red'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=During this turn, attacks used by your Pokémon do +20 damage to your opponent's Active {{TCGP|Pokémon ex}}.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=RedShiningRevelry71.png
+|caption1=Standard card<br>Illus. [[Teeziro]]
+|image2=RedShiningRevelry90.png
+|caption2=Super rare card<br>Illus. [[Teeziro]]
+|image4=RedDeluxePackex353.png
+|caption4=Parallel foil card<br>Illus. [[Teeziro]]
+}}
+
+==Trivia==
+* This card's effect is similar to {{TCG|Black Belt's Training}} in the [[Pokémon Trading Card Game]], but this card increases damage by 20 instead of 40.
+
+===Origin===
+*{{OBP|Red|game}} is a [[player character]] in [[Pokémon Red and Green Versions|Pokémon Red, Green]], [[Pokémon Blue Version (Japanese)|Blue]], and {{v2|Yellow}}, as well as their remakes {{game|FireRed and LeafGreen|s}}. The player character's house, as depicted in FireRed and LeafGreen, is featured in the regular print's illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=レッド ''Red''
+|zh_yue=赤紅 ''Chekhùhng''
+|zh_cmn=赤紅 ''Chìhóng''
+|fr=Red
+|de=Rot
+|it=Rosso
+|ko=레드 ''Red''
+|pt_br=Red
+|es=Rojo
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rot (TCG Pocket)]]
+[[es:Rojo (TCG Pocket)]]
+[[fr:Red (Réjouissances Rayonnantes 071)]]
+[[it:Rosso (Tripudio Splendente 71)]]
+[[ja:レッド (ポケポケ)]]
+[[zh:赤紅（TCGP）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Teddiursa
+|ja name=ヒメグマ
+|trans name=Himeguma
+|species=Teddiursa
+|type=Colorless
+|image=TeddiursaSecludedSprings60.png
+|illustrator=Kagemaru Himeno
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=060/071}}
+}}
+
+'''Teddiursa''' (Japanese: '''ヒメグマ''' ''Himeguma'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Surprise Attack
+|jname=ふいをつく
+|jtrans=Surprise Attack
+|damage=40
+|effect=Flip a coin. If tails, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Teddiursa
+|category=Little Bear 
+|ndex=0216
+|height=2'
+|jheight=0.6
+|weight=19.4
+|jweight=8.8
+|dex=Its paws are soaked in oodles of honey. When nervous, Teddiursa will lick its paws and soon have a smile back on its face.
+|jdex=手のひらに 甘い 蜜が たっぷり 染み込んでいる。 不安なときは 手のひらを 舐めると 笑顔になる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Skyridge|Teddiursa|109}} from the {{TCG|Skyridge}} expansion.
+*'''Surprise Attack''' is an attack that first appeared on {{TCG ID|Gym Challenge|Brock's Diglett|67}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Teddiursa (Verborgene Quelle 060)]]
+[[es:Teddiursa (Manantial Oculto TCG Pocket)]]
+[[fr:Teddiursa (Source Secrète 060)]]
+[[it:Teddiursa (Sorgenti Recondite 60)]]
+[[ja:ヒメグマ (ポケポケ A4a)]]
+[[zh:熊宝宝（A4a）]]

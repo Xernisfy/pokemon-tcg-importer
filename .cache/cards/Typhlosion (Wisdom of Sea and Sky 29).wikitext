@@ -1,0 +1,69 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Typhlosion
+|ja name=バクフーン
+|trans name=Bakphoon
+|species=Typhlosion
+|type=Fire
+|image=TyphlosionWisdomofSeaandSky29.png
+|illustrator=Hideki Ishikawa
+|hp=140
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Quilava
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lugia|rarity=Diamond|rarity count=3|number=029/161}}
+}}
+
+'''Typhlosion''' (Japanese: '''バクフーン''' ''Bakphoon'') is a {{ct|Fire}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Ability/Pocket
+|type=Fire
+|name=Fire Breath
+|jname=バーニングブレス
+|jtrans=Burning Breath
+|effect=Once during your turn, you may make your opponent's Active Pokémon {{TCG|Burned}}.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Magma Punch
+|jname=マグマパンチ
+|jtrans=Magma Punch
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Typhlosion
+|species=Volcano
+|ndex=0157
+|height=5'7"
+|jheight=1.7
+|weight=175.3
+|jweight=79.5
+|dex=If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames.
+|jdex=怒りが 最高潮のとき 触ったもの すべて 一瞬で 燃え上がらせるほどに 熱い。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|SM Promo|Typhlosion|185}}, one of the {{TCG|SM Black Star Promos}}.
+*'''Fire Breath''' is an {{TCG|Ability}} that first appeared as a {{TCG|Poké-Power}} on {{TCG ID|EX Team Rocket Returns|Dark Houndoom|37}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*'''Magma Punch''' is an attack that first appeared on {{TCG ID|Wizards Promo|Magmar|44}}, one of the {{TCG|Wizards Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tornupto (Weisheit von Meer und Himmel 029)]]
+[[es:Typhlosion (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Typhlosion (Sagesse entre Ciel et Mer 029)]]
+[[it:Typhlosion (La Via del Cielo e del Mare 29)]]
+[[ja:バクフーン (ポケポケ A4)]]
+[[zh:火暴兽（A4）]]

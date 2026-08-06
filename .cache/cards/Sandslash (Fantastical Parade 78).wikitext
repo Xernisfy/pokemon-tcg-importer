@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sandslash
+|ja name=サンドパン
+|trans name=Sandpan
+|species=Sandslash
+|type=Fighting
+|image=SandslashFantasticalParade78.png
+|illustrator=Yukiko Baba
+|hp=90
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Sandshrew
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=078/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Sandslash''' (Japanese: '''サンドパン''' ''Sandpan'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Fury Swipes
+|jname=みだれひっかき
+|jtrans=Fury Swipes
+|damage=30×
+|effect=Flip 3 coins. This attack does 30 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Sandslash
+|species=Mouse
+|ndex=0028
+|height=3'3"
+|jheight=1.0
+|weight=65.0
+|jweight=29.5
+|dex=The spikes on its body are made up of its hardened hide. It rolls up and attacks foes with its spikes.
+|jdex=トゲは 皮膚が 硬くなったもの。 体を 丸めて トゲトゲを 刺すように 相手を 攻撃する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|HeartGold & SoulSilver|Sandslash|29}} from the {{TCG|HeartGold & SoulSilver}} expansion; both cards have the Fury Swipes attack.
+*{{m|Fury Swipes}} is a [[move]] in the [[Pokémon games]] that {{p|Sandslash}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sandamer (Traumhafte Parade 078)]]
+[[fr:Sablaireau (Parade Onirique 078)]]
+[[it:Sandslash (Parata Fantasmagorica 78)]]
+[[ja:サンドパン (ポケポケ B2)]]
+[[zh:穿山王（B2）]]

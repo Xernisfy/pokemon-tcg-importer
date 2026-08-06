@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Parasect
+|ja name=パラセクト
+|trans name=Parasect
+|species=Parasect
+|type=Grass
+|image=ParasectGeneticApex15.png
+|illustrator=Eri Yamaki
+|hp=120
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Paras
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=015/226|pack=Pikachu|rarity=Diamond|rarity count=2}}
+}}
+
+'''Parasect''' (Japanese: '''パラセクト''' ''Parasect'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=Slash
+|jname=きりさく
+|jtrans=Slash
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Parasect
+|species=Mushroom
+|ndex=0047
+|height=3'3"
+|jheight=1
+|weight=65
+|jweight=29.5
+|dex=The bug is mostly dead, with the mushroom on its back having become the main body. If the mushroom comes off, the bug stops moving.
+|jdex=ムシの　方は　ほぼ　死んでいて 本体は　背中の　キノコだ｡ もげると　もう　動かなくなる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Parasect|5}} from the {{TCG|Sun & Moon}} expansion.
+*{{m|Slash}} is a [[move]] in the [[Pokémon games]] that {{p|Parasect}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Parasek (Unschlagbare Gene 015)]]
+[[es:Parasect (Genes Formidables TCG Pocket)]]
+[[fr:Parasect (Puissance Génétique 015)]]
+[[it:Parasect (Geni Supremi 15)]]
+[[ja:パラセクト (ポケポケ A1)]]
+[[zh:派拉斯特（A1）]]

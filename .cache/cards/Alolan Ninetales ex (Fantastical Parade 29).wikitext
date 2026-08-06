@@ -1,0 +1,66 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Ninetales {{TCGP Icon|ex}}
+|ja name=アローラキュウコン{{TCGP Icon|ex}}
+|trans name=Alolan Kyukon {{TCGP Icon|ex}}
+|species=Ninetales
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanNinetalesexFantasticalParade29.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanNinetalesexFantasticalParade182.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanNinetalesexFantasticalParade196.png|illustrator=mashu|tab caption=Special Illustration Rare}}
+|hp=150
+|weakness=Metal
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Alolan Vulpix
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=029/155|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=182/155|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=196/155|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Alolan Ninetales ex''' (Japanese: '''アローラキュウコンex''' ''Alolan Kyukon ex'') is a {{ct|Water}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Binding Snow
+|jname=スノーバインド
+|jtrans=Snow Bind
+|damage=80
+|effect=During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Water
+|ndex=0038
+|name=Ninetales
+|form=A
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=AlolanNinetalesexFantasticalParade29.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=AlolanNinetalesexFantasticalParade182.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=AlolanNinetalesexFantasticalParade196.png
+|caption3=Special illustration rare card<br>Illus. [[mashu]]
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Ninetales}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Vulnona-ex (Traumhafte Parade 029)]]
+[[fr:Feunard d'Alola-ex (Parade Onirique 029)]]
+[[it:Ninetales di Alola-ex (Parata Fantasmagorica 29)]]
+[[ja:アローラキュウコンex (ポケポケ B2)]]
+[[zh:阿罗拉 九尾ex（B2）]]

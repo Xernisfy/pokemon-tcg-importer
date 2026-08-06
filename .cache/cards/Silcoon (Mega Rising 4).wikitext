@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Silcoon
+|ja name=カラサリス
+|trans name=Karasalis
+|species=Silcoon
+|type=Grass
+|image=SilcoonMegaRising4.png
+|illustrator=Kyoko Umemoto
+|hp=80
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Wurmple
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=004/226|pack=Mega Blaziken|rarity=Diamond|rarity count=1}}
+}}
+
+'''Silcoon''' (Japanese: '''カラサリス''' ''Karasalis'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Harden
+|jname=かたくなる
+|jtrans=Stiffen
+|damage=
+|effect=During your opponent's next turn, prevent all damage done to this Pokémon by attacks if that damage is 40 or less.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Silcoon
+|category=Cocoon
+|ndex=0266
+|height=2'
+|jheight=0.6
+|weight=22
+|jweight=10.0
+|dex=It drinks dew that collects on its silk and waits for evolution. Its hard cocoon repels attacks.
+|jdex=糸に ついた 朝露を 飲んで 進化の ときを 待ち続ける。 硬い 繭が 攻撃を 防ぐ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Platinum|Silcoon|63}} from the {{TCG|Platinum}} expansion.
+*{{m|Harden}} is a [[move]] in the [[Pokémon games]] that {{p|Silcoon}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schaloko (Mega-Aufstieg 004)]]
+[[es:Silcoon (Megaascenso TCG Pocket)]]
+[[fr:Armulys (Méga-Ascension 004)]]
+[[it:Silcoon (Mega Ascesa 4)]]
+[[ja:カラサリス (ポケポケ B1)]]
+[[zh:甲壳茧（B1）]]

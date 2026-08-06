@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Varoom
+|ja name=ブロロン
+|trans name=Buroron
+|species=Varoom
+|type=Metal
+|image=VaroomPromo-B44.png
+|illustrator=Kouki Saitou
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=044/P-B|pack=Vol. 6}}
+}}
+
+'''Varoom''' (Japanese: '''ブロロン''' ''Buroron'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-B}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Colorless}}
+|name=Poison Gas
+|jname=どくガス
+|jtrans=Poison Gas
+|damage=
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Varoom
+|category=Single-Cyl
+|ndex=0965
+|height=3'3"
+|jheight=1
+|weight=77.2
+|jweight=35.0
+|dex=The steel section is Varoom’s actual body. This Pokémon clings to rocks and converts the minerals within into energy to fuel its activities.
+|jdex=鋼の　体が　本体｡ 岩に　張りつき　その成分を エネルギーに　変えて　活動する｡
+}}
+
+==Release information==
+This card was one of five that could be pulled from Promo-B Vol. 6 packs; these were made available as part of the [[Slowpoke Drop Event]], which ran from April 9 to 19, 2026. Players could also obtain one Promo Card Exchange Ticket during the event, which could be redeemed in the shop for one of the pack's five cards until April 26, 2026.
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Obsidian Flames|Varoom|154}} from the {{TCG|Obsidian Flames}} expansion.
+*{{m|Poison Gas}} is a [[move]] in the [[Pokémon games]] that {{p|Varoom}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knattox (PROMO-B 044)]]
+[[fr:Vrombi (Promo-B 044)]]
+[[it:Varoom (Promo-B 44)]]
+[[ja:ブロロン (ポケポケ P-B)]]

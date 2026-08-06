@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Mallow
+|ja name=マオ
+|trans name=Mao
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MallowCelestialGuardians154.png|illustrator=En Morikura|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MallowCelestialGuardians196.png|illustrator=En Morikura|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=154/155|pack=Solgaleo|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=196/155|pack=Solgaleo|rarity=Star|rarity count=2}}
+}}
+
+'''Mallow''' (Japanese: '''マオ''' ''Mao'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Heal all damage from 1 of your {{TCGP|Shiinotic}} or {{TCGP|Tsareena}}. If you do, discard all Energy from that Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=MallowCelestialGuardians154.png
+|caption1=Uncommon card<br>Illus. [[En Morikura]]
+|image2=MallowCelestialGuardians196.png
+|caption2=Super rare card<br>Illus. [[En Morikura]]
+}}
+
+==Trivia==
+* This card's effect is similar to {{TCG|Max Potion}} in the [[Pokémon Trading Card Game]]. However, the TCG card is an {{TCGP|Item card}} rather than a {{TCGP|Supporter card}}, and it can be used on any Pokémon rather than specifically Shiinotic or Tsareena.
+** {{TCG|Mallow}} also exists in the Pokémon Trading Card Game, but with a different effect.
+
+===Origin===
+*[[Mallow]] is the [[Trial Captain|captain]] of [[Akala Island]]'s [[Lush Jungle]], which is featured in the illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=マオ ''Mao''
+|zh_yue=瑪奧 ''Máh'ou''
+|zh_cmn=瑪奧<!-- / 玛奥--> ''Mǎ'ào''
+|fr=Barbara
+|de=Maho
+|it=Ibis
+|ko=마오 ''Mao''
+|pt_br=Lulú
+|es=Lulú
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Maho (TCG Pocket)]]
+[[es:Lulú (TCG Pocket)]]
+[[fr:Barbara (Gardiens Astraux 154)]]
+[[it:Ibis (Guardiani Astrali 154)]]
+[[ja:マオ (ポケポケ)]]
+[[zh:玛奥（TCGP）]]

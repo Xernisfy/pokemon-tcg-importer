@@ -1,0 +1,96 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Shaymin
+|ja name=シェイミ
+|trans name=Shaymin
+|species=Shaymin
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ShayminSpace-TimeSmackdown22.png|illustrator=Narumi Sato|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ShayminDeluxePackex31.png|illustrator=Narumi Sato|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ShayminSpace-TimeSmackdown159.png|illustrator=REND|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ShayminPromo-A116.png|illustrator=Sekio|tab caption=Promo}}
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=022/155|pack=Dialga|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=159/155|pack=Dialga|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=030/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=031/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=116/P-A}}
+}}
+
+'''Shaymin''' (Japanese: '''シェイミ''' ''Shaymin'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Ability/Pocket
+|type=Grass
+|name=Fragrant Flower Garden
+|jname=かおるはなぞの
+|jtrans=Fragrant Flower Garden
+|effect=Once during your turn, you may heal 10 damage from each of your Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Flop
+|jname=はねまわる
+|jtrans=Hop About
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Shaymin
+|species=Gratitude
+|ndex=0492
+|height=8"
+|jheight=0.2
+|weight=4.6
+|jweight=2.1
+|dex=It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.
+|jdex=大気の 毒素を 分解して 荒れた 大地を 一瞬のうちに 花畑にする 力を 持つ。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available via special wonder picks during the Professor Oak [[Wonder Pick Event (Professor Oak)|Wonder Pick Event]], which ran from October 13 to 23, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=ShayminSpace-TimeSmackdown22.png
+|caption1=Standard card<br>Illus. [[Narumi Sato]]
+|image2=ShayminSpace-TimeSmackdown159.png
+|caption2=Illustration rare card<br>Illus. [[REND]]
+|image4=ShayminDeluxePackex31.png
+|caption4=Parallel foil card<br>Illus. [[Narumi Sato]]
+|image5=ShayminPromo-A116.png
+|caption5=Promo card<br>Illus. [[Sekio]]
+}}
+
+==Trivia==
+[[File:TCGP Cover Garden of Smiling Flowers.png|thumb|"Garden of Smiling Flowers" binder cover]]
+This card's standard illustration is part of a {{TCG|combined illustration}} along with {{TCG ID|Space-Time Smackdown|Tangela|4}}, {{TCG ID|Space-Time Smackdown|Togepi|63}}, and {{TCG ID|Space-Time Smackdown|Buneary|137}} from the same expansion. Together, these cards form the {{TCGP|Space-Time Smackdown}} expansion's "Garden of Smiling Flowers" [[Space-Time Smackdown (TCG Pocket)#Themed Collections|Themed Collection]]. A second collection—the "Garden of Smiling Flowers 2" secret mission—was added to the game on June 26, 2025; the completion reward for this is the "Garden of Smiling Flowers" binder cover, showcasing the full illustration.
+
+===Origin===
+*This card features {{p|Shaymin}} in its {{form|Shaymin|Land Forme}}.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Lost Thunder|Shaymin|33}} from the {{TCG|Lost Thunder}} expansion.
+*'''Flop''' is an attack that first appeared on {{TCG ID|Team Rocket|Magikarp|47}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shining Pearl}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Shaymin (Kollision von Raum und Zeit 022)]]
+[[es:Shaymin (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Shaymin (Choc Spatio-Temporel 022)]]
+[[it:Shaymin (Scontro Spaziotemporale 22)]]
+[[ja:シェイミ (ポケポケ A2)]]
+[[zh:谢米（A2）]]

@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Diglett
+|ja name=アローラディグダ
+|trans name=Alolan Digda
+|species=Diglett
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanDiglettCelestialGuardians117.png|illustrator=Naoyo Kimura|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlolanDiglettMegaRising311.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=117/155|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=311/226|pack=Mega Blaziken|rarity=Shiny|rarity count=1}}
+}}
+
+'''Alolan Diglett''' (Japanese: '''アローラディグダ''' ''Alolan Digda'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}
+|name=Headbutt
+|jname=ずつき
+|jtrans=Headbutt
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Diglett
+|species=Mole
+|ndex=0050
+|height=8"
+|jheight=0.2
+|weight=2.2
+|jweight=1.0
+|dex=The metal-rich geology of this Pokémon's habitat caused it to develop steel whiskers on its head. 
+|jdex=金属成分を 多く 含む 地質が 影響して 鋼の ひげが 頭から 生えてきた。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=AlolanDiglettCelestialGuardians117.png
+|caption1=Standard card<br>Illus. [[Naoyo Kimura]]
+|image2=AlolanDiglettMegaRising311.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Diglett}}.
+*This card's shiny rare illustration features a {{Shiny}} Alolan {{p|Diglett}}.
+*This card's {{TCGP|Celestial Guardians}} illustration was first featured on {{TCG ID|SM-P Promo|Alolan Diglett|163}}, one of the {{TCG|SM-P Promotional cards}} released only in Japan.
+*{{m|Headbutt}} is a [[move]] in the [[Pokémon games]] that Alolan Diglett can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Digda (Hüter des Firmaments 117)]]
+[[es:Diglett de Alola (Guardianes Celestiales TCG Pocket)]]
+[[fr:Taupiqueur d'Alola (Gardiens Astraux 117)]]
+[[it:Diglett di Alola (Guardiani Astrali 117)]]
+[[ja:アローラディグダ (ポケポケ A3)]]
+[[zh:阿罗拉 地鼠（A3）]]

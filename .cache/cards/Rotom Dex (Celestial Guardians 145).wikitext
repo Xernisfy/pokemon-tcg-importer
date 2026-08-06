@@ -1,0 +1,50 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Rotom Dex
+|ja name=ロトム図鑑
+|trans name=Rotom Illustrated Encyclopedia
+|subtype=Item
+|image=RotomDexCelestialGuardians145.png
+|illustrator=5ban Graphics
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=145/155|pack=Solgaleo|rarity=Diamond|rarity count=2}}
+}}
+
+'''Rotom Dex''' (Japanese: '''ロトム図鑑''' ''Rotom Illustrated Encyclopedia'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Look at the top card of your deck. Then, you may shuffle your deck.
+}}
+
+==Trivia==
+* This card's effect is similar to the effect of {{TCG|Rotom Dex Poké Finder Mode}} in the [[Pokémon Trading Card Game]], but only looks at 1 card rather than 4.
+** {{TCG|Rotom Dex}} also exists in the Pokémon Trading Card Game, but with a different effect.
+
+===Origin===
+* This card's illustration was first featured on {{TCG ID|Sun & Moon|Rotom Dex|131}} from the {{TCG|Sun & Moon}} expansion.
+* A [[Rotom Pokédex]] is an important piece of equipment in the [[Generation VII]] [[Pokémon games]].
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=ロトム図鑑 ''Rotom Zukan''
+|zh_yue=洛托姆圖鑑 ''Loktokmóuh Tòuhgaam''
+|zh_cmn=洛托姆圖鑑 ''Luòtuōmǔ Tújiàn''
+|fr=Motisma-Dex
+|de=Rotom-Pokédex
+|it=Pokédex Rotom
+|ko=로토무도감 ''Rotomu Dogam''
+|pt_br=Pokédex Rotom
+|es=RotomDex
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rotom-Pokédex (TCG Pocket)]]
+[[es:RotomDex (TCG Pocket)]]
+[[fr:Motisma-Dex (Gardiens Astraux 145)]]
+[[it:Pokédex Rotom (Guardiani Astrali 145)]]
+[[ja:ロトム図鑑 (ポケポケ)]]
+[[zh:洛托姆图鉴（TCGP）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bibarel
+|ja name=ビーダル
+|trans name=Beadaru
+|species=Bibarel
+|type=Colorless
+|image=BibarelSpace-TimeSmackdown136.png
+|illustrator=kirisAki
+|hp=110
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Bidoof
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=136/155|pack=Dialga|rarity=Diamond|rarity count=1}}
+}}
+
+'''Bibarel''' (Japanese: '''ビーダル''' ''Beadaru'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Rolling Tackle
+|jname=ころがりタックル
+|jtrans=Rolling Tackle
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Bibarel
+|species=Beaver
+|ndex=0400
+|height=3'3"
+|jheight=1.0
+|weight=69.4
+|jweight=31.5
+|dex=It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.
+|jdex=鋭い 前歯で 削り取った 木の枝や 根っこを 積み上げて 水辺に せっせと 巣を 作る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Primal Clash|Bibarel|118}} from the {{TCG|Primal Clash}} expansion.
+*'''Rolling Tackle''' is an attack that first appeared on {{TCG ID|Team Rocket|Dark Electrode|34}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bidifas (Kollision von Raum und Zeit 136)]]
+[[es:Bibarel (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Castorno (Choc Spatio-Temporel 136)]]
+[[it:Bibarel (Scontro Spaziotemporale 136)]]
+[[ja:ビーダル (ポケポケ A2)]]
+[[zh:大尾狸（A2）]]

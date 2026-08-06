@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Nuzleaf
+|ja name=コノハナ
+|trans name=Konohana
+|species=Nuzleaf
+|type=Grass
+|image=NuzleafMegaRising9.png
+|illustrator=Hajime Kusajima
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Seedot
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=009/226|pack=Mega Blaziken|rarity=Diamond|rarity count=2}}
+}}
+
+'''Nuzleaf''' (Japanese: '''コノハナ''' ''Konohana'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Gentle Slap
+|jname=ひっぱたく
+|jtrans=Slap
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Nuzleaf
+|category=Wily
+|ndex=0274
+|height=3'3"
+|jheight=1.0
+|weight=61.7
+|jweight=28.0
+|dex=They live in holes bored in large trees. The sound of Nuzleaf's grass flute fills listeners with dread.
+|jdex=コノハナの 吹く 草笛の 音は 聞いた ものを 不安に させる。 大木に 開いた 穴で 暮らす。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Power Keepers|Nuzleaf|36}} from the {{TCG|EX Power Keepers}} expansion; both cards have the Gentle Slap attack.
+*'''Gentle Slap''' is an attack that first appeared on {{TCG ID|EX Team Rocket Returns|Psyduck|70}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Blanas (Mega-Aufstieg 009)]]
+[[es:Nuzleaf (Megaascenso TCG Pocket)]]
+[[fr:Pifeuil (Méga-Ascension 009)]]
+[[it:Nuzleaf (Mega Ascesa 9)]]
+[[ja:コノハナ (ポケポケ B1)]]
+[[zh:长鼻叶（B1）]]

@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Komala
+|ja name=ネッコアラ
+|trans name=Nekkoara
+|species=Komala
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KomalaCelestialGuardians141.png|illustrator=Kouki Saitou|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KomalaCelestialGuardians179.png|illustrator=GOTO minori|tab caption=Illustration Rare}}
+|hp=90
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=141/155|pack=Solgaleo|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=179/155|pack=Solgaleo|rarity=Star|rarity count=1}}
+}}
+
+'''Komala''' (Japanese: '''ネッコアラ''' ''Nekkoara'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Comatose
+|jname=ぜったいねむり
+|jtrans=Sure Sleeper
+|effect=As long as this Pokémon is in the Active Spot, whenever you attach an Energy from your Energy Zone to it, it is now {{TCG|Asleep}}.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Rolling Tackle
+|jname=ころがりタックル
+|jtrans=Rolling Tackle
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Komala
+|species=Drowsing
+|ndex=0775
+|height=1'4"
+|jheight=
+|weight=43.9
+|jweight=
+|dex=Komala spends its entire life sleeping. It feeds on leaves that contain a potent poison only Komala can break down.
+|jdex=一生を 眠ったまま 過ごす。 ネッコアラのみが 毒を 分解できる 猛毒の 葉っぱが エサ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=KomalaCelestialGuardians141.png
+|caption1=Uncommon card<br>Illus. [[Kouki Saitou]]
+|image2=KomalaCelestialGuardians179.png
+|caption2=Illustration rare card<br>Illus. [[GOTO minori]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Guardians Rising|Komala|114}} from the {{TCG|Guardians Rising}} expansion.
+** Both cards feature the {{a|Comatose}} [[Ability]], which is {{p|Komala}}'s [[signature ability]] in the [[Pokémon games]].
+*'''Rolling Tackle''' is an attack that first appeared on {{TCG ID|Team Rocket|Dark Electrode|34}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Koalelu (Hüter des Firmaments 141)]]
+[[es:Komala (Guardianes Celestiales TCG Pocket)]]
+[[fr:Dodoala (Gardiens Astraux 141)]]
+[[it:Komala (Guardiani Astrali 141)]]
+[[ja:ネッコアラ (ポケポケ A3)]]
+[[zh:树枕尾熊（A3）]]

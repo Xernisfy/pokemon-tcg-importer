@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dachsbun
+|ja name=バウッツェル
+|trans name=Bowtzel
+|species=Dachsbun
+|type=Psychic
+|image=DachsbunPaldeanWonders47.png
+|illustrator=You Iribi
+|hp=100
+|weakness=Metal
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Fidough
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=047/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Dachsbun''' (Japanese: '''バウッツェル''' ''Bowtzel'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Play Rough
+|jname=じゃれつく
+|jtrans=Frolic
+|damage=50+
+|effect=Flip a coin. If heads, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Dachsbun
+|category=Dog
+|ndex=0927
+|height=1'8"
+|jheight=0.5
+|weight=32.8
+|jweight=14.9
+|dex=The pleasant aroma that emanates from this Pokémon's body helps wheat grow, so Dachsbun has been treasured by farming villages.
+|jdex=体から 放つ 良い香りが 小麦の 成長を 助けるため 農村で 大切にされてきた。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Dachsbun|99}} from the {{TCG|Scarlet & Violet}} expansion.
+*{{m|Play Rough}} is a move in the [[Pokémon games]] that {{p|Dachsbun}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Backel (Wundervolles Paldea 047)]]
+[[fr:Briochien (Merveilles de Paldea 047)]]
+[[it:Dachsbun (Meraviglie di Paldea 47)]]
+[[ja:バウッツェル (ポケポケ B2a)]]
+[[zh:麻花犬（B2a）]]

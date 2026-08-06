@@ -1,0 +1,88 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Nihilego
+|ja name=ウツロイド
+|trans name=Uturoid
+|species=Nihilego
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=NihilegoExtradimensionalCrisis42.png|illustrator=nagimiso|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=NihilegoDeluxePackex247.png|illustrator=nagimiso|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=NihilegoExtradimensionalCrisis103.png|illustrator=PLANETA Yamashita|tab caption=Ultra Rare}}
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=042/069|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=103/069|pack=Any|rarity=Crown}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=246/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=247/353|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Nihilego''' (Japanese: '''ウツロイド''' ''Uturoid'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/UltraBeast/Pocket}}
+{{Cardtext/Ability/Pocket
+|type=Darkness
+|name=More Poison
+|jname=ポイズンアップ
+|jtrans=Poison Up
+|effect=Your opponent's Active Pokémon takes +10 damage from being {{TCG|Poisoned}}.
+}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}
+|name=New Wave
+|jname=ニューウェーブ
+|jtrans=New Wave
+|damage=30
+|effect=Your opponent's Active Pokémon is now Poisoned.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Nihilego
+|species=Parasite
+|ndex=0793
+|height=4'11"
+|jheight=1.2
+|weight=122.4
+|jweight=55.5
+|dex=A life-form from another world, it was dubbed a UB and is thought to produce a strong neurotoxin.
+|jdex=ＵＢと 呼ばれる 別世界の 生命体。 強い 神経毒を 持っていると 考えられる。 
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=NihilegoExtradimensionalCrisis42.png
+|caption1=Standard card<br>Illus. [[nagimiso]]
+|image2=NihilegoExtradimensionalCrisis103.png
+|caption2=Ultra rare card<br>Illus. [[PLANETA Yamashita]]
+|image3=NihilegoDeluxePackex247.png
+|caption3=Parallel foil card<br>Illus. [[nagimiso]]
+}}
+
+==Trivia==
+The ultra rare card is the first to feature a Pokémon other than a {{TCGP|Pokémon ex}}.
+
+===Origin===
+*'''More Poison''' is an {{TCG|Ability}} that first appeared on {{TCG ID|Burning Shadows|Seviper|50}} from the {{TCG|Burning Shadows}} expansion.
+*The '''New Wave''' attack is named after {{wp|new wave music|new wave}}, a genre of music. The name may have been chosen in relation to {{p|Nihilego}}'s jellyfish-like design, its home of [[Ultra Deep Sea]], and its in-lore ability to manipulate the mind (brain waves).
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Anego (Dimensionale Krise 042)]]
+[[es:Nihilego (Crisis Dimensional TCG Pocket)]]
+[[fr:Zéroïd (Crise Interdimensionnelle 042)]]
+[[it:Nihilego (Crisi Ultradimensionale 42)]]
+[[ja:ウツロイド (ポケポケ A3a)]]
+[[zh:虚吾伊德（A3a）]]

@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Beedrill {{TCGP Icon|ex}}
+|ja name=スピアー{{TCGP Icon|ex}}
+|trans name=Spear {{TCGP Icon|ex}}
+|species=Beedrill
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BeedrillexShiningRevelry3.png|illustrator=PLANETA Igarashi|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BeedrillexShiningRevelry79.png|illustrator=PLANETA Igarashi|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BeedrillexShiningRevelry107.png|illustrator=PLANETA Igarashi|tab caption=Shiny Super Rare}}
+|hp=170
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Kakuna
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=003/072|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=079/072|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=107/072|pack=Any|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=010/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Beedrill ex''' (Japanese: '''スピアーex''' ''Spear ex'') is a {{ct|Grass}} Stage 2 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Crushing Spear
+|jname=クラッシュスピア
+|jtrans=Crush Spear
+|damage=80
+|effect=Discard a random Energy from your opponent's Active Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Grass
+|ndex=0015
+|name=Beedrill
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=BeedrillexShiningRevelry3.png
+|caption1=Double rare card<br>Illus. [[PLANETA Igarashi]]
+|image2=BeedrillexShiningRevelry79.png
+|caption2=Super rare card<br>Illus. [[PLANETA Igarashi]]
+|image3=BeedrillexShiningRevelry107.png
+|caption3=Shiny super rare card<br>Illus. [[PLANETA Igarashi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Beedrill}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bibor-ex (Glänzendes Festival 003)]]
+[[es:Beedrill ex (Festival Brillante TCG Pocket)]]
+[[fr:Dardargnan-ex (Réjouissances Rayonnantes 003)]]
+[[it:Beedrill-ex (Tripudio Splendente 3)]]
+[[ja:スピアーex (ポケポケ A2b)]]
+[[zh:大針蜂ex（A2b）]]

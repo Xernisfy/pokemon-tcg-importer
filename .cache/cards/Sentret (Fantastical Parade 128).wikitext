@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sentret
+|ja name=オタチ
+|trans name=Otachi
+|species=Sentret
+|type=Colorless
+|image=SentretFantasticalParade128.png
+|illustrator=Midori Harada
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=128/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Sentret''' (Japanese: '''オタチ''' ''Otachi'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Tail Rap
+|jname=しっぽビンタ
+|jtrans=Tail Slap
+|damage=20×
+|effect=Flip 2 coins. This attack does 20 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Sentret
+|species=Scout
+|ndex=0161
+|height=2'7"
+|jheight=0.8
+|weight=13.2
+|jweight=6.0
+|dex=If it encounters a foe, it will stand up on its tail, making itself look bigger than usual to intimidate them.
+|jdex=敵に 遭遇すると 尻尾で 立ち上がり いつもより 体を 大きく みせて 威嚇する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|POP Series 7|Sentret|16}} from {{TCG|POP Series 7}}.
+*'''Tail Rap''' is an attack that first appeared on {{TCG ID|Gym Heroes|Misty's Poliwag|87}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wiesor (Traumhafte Parade 128)]]
+[[fr:Fouinette (Parade Onirique 128)]]
+[[it:Sentret (Parata Fantasmagorica 128)]]
+[[ja:オタチ (ポケポケ B2)]]
+[[zh:尾立（B2）]]

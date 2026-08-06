@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Gardevoir {{TCGP Icon|Mega ex}}
+|ja name=メガサーナイト{{TCGP Icon|Mega ex}}
+|trans name=Mega Sirnight {{TCGP Icon|Mega ex}}
+|species=Gardevoir
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaGardevoirexFantasticalParade66.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaGardevoirexFantasticalParade185.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaGardevoirexFantasticalParade203.png|illustrator=DOM|tab caption=Immersive}}
+|hp=210
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Kirlia
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=066/155|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=185/155|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=203/155|pack=Any|rarity=Star|rarity count=3}}
+}}
+
+'''Mega Gardevoir ex''' (Japanese: '''メガサーナイトex''' ''Mega Sirnight ex'') is a {{ct|Psychic}} Stage 2 {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Mega Species/Pocket|Gardevoir}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Fantasia Force
+|jname=ファンタジアフォース
+|jtrans=Fantasia Force
+|damage=110
+|effect=Take 3 {{e|Psychic}} Energy from your Energy Zone and attach it to your {{e|Psychic}} Pokémon in any way you like.
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Psychic
+|ndex=0282
+|name=Gardevoir
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Gardevoir
+|category=Embrace
+|ndex=0282
+|height=5'3"
+|jheight=1.6
+|weight=106.7
+|jweight=48.4
+|dex=When it opens the red plate on its chest and unleashes its heart, its strongest psychic power is released.
+|jdex=胸の 赤い プレートを 開いて 心を 解放すると 最大の サイコパワーが 放出される。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=MegaGardevoirexFantasticalParade66.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=MegaGardevoirexFantasticalParade185.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=MegaGardevoirexFantasticalParade203.png
+|caption3=Immersive card<br>Illus. [[DOM]]
+}}
+
+==Trivia==
+===Origin===
+*This card features [[Mega]] {{p|Gardevoir}}.
+*This card's [[Pokédex]] entry comes from {{g|Legends: Z-A}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Guardevoir-ex (Traumhafte Parade 066)]]
+[[es:Mega-Gardevoir ex (Desfile de Ensueño TCG Pocket)]]
+[[fr:Méga-Gardevoir-ex (Parade Onirique 066)]]
+[[it:Mega Gardevoir-ex (Parata Fantasmagorica 66)]]
+[[ja:メガサーナイトex (ポケポケ B2)]]
+[[zh:超级沙奈朵ex（B2）]]

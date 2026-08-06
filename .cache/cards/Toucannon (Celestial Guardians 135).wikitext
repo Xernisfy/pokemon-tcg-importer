@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Toucannon
+|ja name=ドデカバシ
+|trans name=Dodekabashi
+|species=Toucannon
+|type=Colorless
+|image=ToucannonCelestialGuardians135.png
+|illustrator=Megumi Mizutani
+|hp=140
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Trumbeak
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=135/155}}
+}}
+
+'''Toucannon''' (Japanese: '''ドデカバシ''' ''Dodekabashi'') is a {{ct|Colorless}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Drill Peck
+|jname=ドリルくちばし
+|jtrans=Drill Beak
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Toucannon
+|species=Cannon
+|ndex=0733
+|height=3'7"
+|jheight=1.1
+|weight=57.3
+|jweight=26.0
+|dex=They smack beaks with others of their kind to communicate. The strength and number of hits tell each other how they feel.
+|jdex=なかまと クチバシを たたきあわせて コミュニケーション。 たたく つよさや かいすうで きもちを つたえあう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Toucannon|108}} from the {{TCG|Sun & Moon}} expansion.
+*{{m|Drill Peck}} is a [[move]] in the [[Pokémon games]] that {{p|Toucannon}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tukanon (Hüter des Firmaments 135)]]
+[[es:Toucannon (Guardianes Celestiales TCG Pocket)]]
+[[fr:Bazoucan (Gardiens Astraux 135)]]
+[[it:Toucannon (Guardiani Astrali 135)]]
+[[ja:ドデカバシ (ポケポケ A3)]]
+[[zh:铳嘴大鸟（A3）]]

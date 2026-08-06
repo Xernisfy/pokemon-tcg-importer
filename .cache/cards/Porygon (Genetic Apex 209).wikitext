@@ -1,0 +1,79 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Porygon
+|ja name=ポリゴン
+|trans name=Porygon
+|species=Porygon
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PorygonGeneticApex209.png|illustrator=Ayaka Yoshida|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PorygonGeneticApex249.png|illustrator=Akira Komayama|tab caption=Illustration Rare}}
+|hp=50
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=209/226|pack=Mewtwo|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=249/226|pack=Mewtwo|rarity=Star|rarity count=1}}
+}}
+
+'''Porygon''' (Japanese: '''ポリゴン''' ''Porygon'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Data Scan
+|jname=データスキャン
+|jtrans=Data Scan
+|effect=Once during your turn, you may look at the top card of your deck.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Sharpen
+|jname=かくばる
+|jtrans=Improve Angles
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Porygon
+|species=Virtual
+|ndex=0137
+|height=2'7"
+|jheight=0.8
+|weight=80.5
+|jweight=36.5
+|dex=State-of-the-art technology was used to create Porygon. It was the first artificial Pokémon to be created via computer programming.
+|jdex=最高の　科学力を　使い 世界で　はじめて　プログラムにより 作られた　人工の　ポケモン｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=PorygonGeneticApex209.png
+|caption1=Uncommon card<br>Illus. [[Ayaka Yoshida]]
+|image2=PorygonGeneticApex249.png
+|caption2=Illustration rare card<br>Illus. [[Akira Komayama]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Unbroken Bonds|Porygon|154}} from the {{TCG|Unbroken Bonds}} expansion.
+*{{m|Sharpen}} is a [[move]] in the [[Pokémon games]] that {{p|Porygon}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Porygon (Unschlagbare Gene 209)]]
+[[es:Porygon (Genes Formidables TCG Pocket)]]
+[[fr:Porygon (Puissance Génétique 209)]]
+[[it:Porygon (Geni Supremi 209)]]
+[[ja:ポリゴン (ポケポケ A1)]]
+[[zh:多边兽（A1）]]

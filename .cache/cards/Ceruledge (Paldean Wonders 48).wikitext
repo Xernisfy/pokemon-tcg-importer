@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ceruledge
+|ja name=ソウブレイズ
+|trans name=Soublades
+|species=Ceruledge
+|type=Psychic
+|image=CeruledgePaldeanWonders48.png
+|illustrator=Ryota Murayama
+|hp=110
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Charcadet
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=3|number=048/093}}
+}}
+
+'''Ceruledge''' (Japanese: '''ソウブレイズ''' ''Soublades'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}{{e|Colorless}}
+|name=Fighting Sword
+|jname=とうしのたいけん
+|jtrans=Fighter Longsword
+|damage=70+
+|effect=If your opponent's Active Pokémon is a {{TCGP|Pokémon ex}}, this attack does 70 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Ceruledge
+|category=Fire Blades 
+|ndex=0937
+|height=5'3"
+|jheight=1.6
+|weight=136.7
+|jweight=62.0
+|dex=An old set of armor steeped in grudges caused this Pokémon's evolution. Ceruledge cuts its enemies to pieces without mercy.
+|jdex=怨念の 染みついた 古い 鎧により 進化した 姿。 容赦なく 敵を 切り刻む。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Paldea Evolved|Ceruledge|98}} from the {{TCG|Paldea Evolved}} expansion, as was its '''Fighting Sword''' attack.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Azugladis (Wundervolles Paldea 048)]]
+[[es:Ceruledge (Encantos de Paldea TCG Pocket)]]
+[[fr:Malvalame (Merveilles de Paldea 048)]]
+[[it:Ceruledge (Meraviglie di Paldea 48)]]
+[[ja:ソウブレイズ (ポケポケ B2a)]]
+[[zh:苍炎刃鬼（B2a）]]

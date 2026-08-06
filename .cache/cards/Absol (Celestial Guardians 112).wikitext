@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Absol
+|ja name=アブソル
+|trans name=Absol
+|species=Absol
+|type=Darkness
+|image=AbsolCelestialGuardians112.png
+|illustrator=Anesaki Dynamic
+|hp=80
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=112/155|pack=Lunala|rarity=Diamond|rarity count=3}}
+}}
+
+'''Absol''' (Japanese: '''アブソル''' ''Absol'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}
+|name=Unseen Claw
+|jname=アサシンクロー
+|jtrans=Assassin Claw
+|damage=20+
+|effect=If your opponent's Active Pokémon is affected by a {{TCG|Special Condition}}, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Absol
+|species=Disaster
+|ndex=0359
+|height=3'11"
+|jheight=1.2
+|weight=103.6
+|jweight=47.0
+|dex=Swift as the wind, Absol races through fields and mountains. Its curved, bow-like horn is acutely sensitive to the warning signs of natural disasters. 
+|jdex=風のように 野山を 駆けぬける。 弓なりの ツノは 自然災害の 予兆を 敏感に 感じとる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Guardians Rising|Absol|81}} from the {{TCG|Guardians Rising}} expansion.
+*'''Unseen Claw''' is an attack that first appeared on {{TCG ID|Ancient Origins|Sceptile-EX|7}} from the {{TCG|Ancient Origins}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Absol (Hüter des Firmaments 112)]]
+[[es:Absol (Guardianes Celestiales TCG Pocket)]]
+[[fr:Absol (Gardiens Astraux 112)]]
+[[it:Absol (Guardiani Astrali 112)]]
+[[ja:アブソル (ポケポケ A3)]]
+[[zh:阿勃梭鲁（A3）]]

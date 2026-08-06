@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Blue
+|ja name=グリーン
+|trans name=Green
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BlueMythicalIsland67.png|illustrator=Ryuta Fuse|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BlueMythicalIsland81.png|illustrator=Ryuta Fuse|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=067/068|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=081/068|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Blue''' (Japanese: '''グリーン''' ''Green'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=During your opponent's next turn, all of your Pokémon take −10 damage from attacks from your opponent's Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=BlueMythicalIsland67.png
+|caption1=Uncommon card<br>Illus. [[Ryuta Fuse]]
+|image2=BlueMythicalIsland81.png
+|caption2=Super rare card<br>Illus. [[Ryuta Fuse]]
+}}
+
+==Trivia==
+* This card's effect is similar to {{TCG|Jasmine's Gaze}} in the [[Pokémon Trading Card Game]], but decreases damage by 10 instead of 30.
+** This card's effect is also similar to the Item card {{TCG|Defender}} in the Pokémon Trading Card Game, but as a {{TCGP|Supporter card}} that applies to all Pokémon instead of an {{TCGP|Item card}} that attaches to a specific Pokémon, and decreases damage by 10 instead of 20.
+
+===Origin===
+*{{ga|Blue}} is the [[rival]] of the {{player}} and the {{pkmn|Champion}} in Generations {{gen|I}} and {{gen|III}}. The interior of the [[Indigo Plateau]]'s champion room, as depicted in {{game|FireRed and LeafGreen|s}}, is featured in the illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=グリーン ''Green''
+|zh_yue=青綠 ''Chēngluhk''
+|zh_cmn=青綠<!-- / 青绿--> ''Qīnglǜ''
+|fr=Blue
+|de=Blau
+|it=Blu
+|ko=그린 ''Green''
+|pt_br=Blue
+|es=Azul
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Blau (TCG Pocket)]]
+[[es:Azul (TCG Pocket)]]
+[[fr:Blue (L'Île Fabuleuse 067)]]
+[[it:Blu (L'Isola Misteriosa 67)]]
+[[ja:グリーン (ポケポケ)]]
+[[zh:青绿（TCGP）]]

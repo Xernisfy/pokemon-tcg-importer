@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Drowzee
+|ja name=スリープ
+|trans name=Sleepe
+|species=Drowzee
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DrowzeeGeneticApex124.png|illustrator=Yukiko Baba|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DrowzeeMegaRising305.png|illustrator=Taiga Kasai|tab caption=Shiny Rare}}
+|hp=70
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=124/226|pack=Pikachu|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=305/226|pack=Mega Gyarados|rarity=Shiny|rarity count=1}}
+}}
+
+'''Drowzee''' (Japanese: '''スリープ''' ''Sleepe'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Mumble
+|jname=つぶやく
+|jtrans=Murmur
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Drowzee
+|species=Hypnosis
+|ndex=0096
+|height=3'3"
+|jheight=1
+|weight=71.4
+|jweight=32.4
+|dex=It remembers every dream it eats. It rarely eats the dreams of adults because children's are much tastier.
+|jdex=食べた夢は　全部　覚えている｡ 子どもの　夢のほうが　美味しいので めったに　大人の　夢は食べない｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=DrowzeeGeneticApex124.png
+|caption1=Standard card<br>Illus. [[Yukiko Baba]]
+|image2=DrowzeeMegaRising305.png
+|caption2=Shiny rare card<br>Illus. [[Taiga Kasai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Genetic Apex}} illustration was first featured on {{TCG ID|EX FireRed & LeafGreen|Drowzee|32}} from the {{TCG|EX FireRed & LeafGreen}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Drowzee}}.
+*'''Mumble''' is an attack that first appeared on {{TCG ID|Great Encounters|Whismur|94}} from the {{TCG|Great Encounters}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Traumato (Unschlagbare Gene 124)]]
+[[es:Drowzee (Genes Formidables TCG Pocket)]]
+[[fr:Soporifik (Puissance Génétique 124)]]
+[[it:Drowzee (Geni Supremi 124)]]
+[[ja:スリープ (ポケポケ A1)]]
+[[zh:催眠貘（A1）]]

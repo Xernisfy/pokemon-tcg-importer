@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Togetic
+|ja name=トゲチック
+|trans name=Togechick
+|species=Togetic
+|type=Psychic
+|image=TogeticWisdomofSeaandSky79.png
+|illustrator=Atsuko Nishida
+|hp=90
+|weakness=Metal
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Togepi
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Ho-Oh|rarity=Diamond|rarity count=2|number=079/161}}
+}}
+
+'''Togetic''' (Japanese: '''トゲチック''' ''Togechick'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Speed Dive
+|jname=スピードひこう
+|jtrans=Speed Flight
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Togetic
+|category=Happiness 
+|ndex=0176
+|height=2'
+|jheight=0.6
+|weight=7.1
+|jweight=3.2
+|dex=They say that it will appear before kindhearted, caring people and shower them with happiness.
+|jdex=心優しい 人の 前に 幸せを もたらすため 姿を 現すと 言われている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|VS|Falkner's Togetic|5}} from the {{TCG|Pokémon VS}} expansion.
+*'''Speed Dive''' is an attack that first appeared as '''Dive''' on {{TCG ID|Gym Heroes|Brock's Golbat|39}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Togetic (Weisheit von Meer und Himmel 079)]]
+[[es:Togetic (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Togetic (Sagesse entre Ciel et Mer 079)]]
+[[it:Togetic (La Via del Cielo e del Mare 79)]]
+[[ja:トゲチック (ポケポケ A4)]]
+[[zh:波克基古（A4）]]

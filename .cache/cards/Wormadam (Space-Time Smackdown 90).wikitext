@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wormadam
+|ja name=ミノマダム
+|trans name=Minomadam
+|species=Wormadam
+|type=Fighting
+|image=WormadamSpace-TimeSmackdown90.png
+|illustrator=Hajime Kusajima
+|hp=120
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Burmy
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Dialga|rarity=Diamond|rarity count=1|number=090/155}}
+}}
+
+'''Wormadam''' (Japanese: '''ミノマダム''' ''Minomadam'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}{{e|Colorless}}
+|name=Land Crush
+|jname=ランドクラッシュ
+|jtrans=Land Crush
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Wormadam
+|species=Bagworm
+|ndex=0413
+|height=1'8"
+|jheight=0.5
+|weight=14.3
+|jweight=6.5
+|dex=Its appearance changes depending on where it evolved. The materials on hand become a part of its body.
+|jdex=進化した 場所によって 姿が 変わる。身近にある 材料が 体の 一部になるのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Wormadam}} in its {{form|Wormadam|Sandy Cloak}} form.
+*This card's illustration was first featured on {{TCG ID|Fates Collide|Wormadam|44}} from the {{TCG|Fates Collide}} expansion.
+*'''Land Crush''' is an attack that first appeared as '''Fissure''' on {{TCG ID|Gym Heroes|Brock's Golem|20}} from the {{TCG|Gym Heroes}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shining Pearl}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Burmadame (Kollision von Raum und Zeit 090)]]
+[[es:Wormadam (Pugna Espaciotemporal 90 TCG Pocket)]]
+[[fr:Cheniselle (Choc Spatio-Temporel 090)]]
+[[it:Wormadam (Scontro Spaziotemporale 90)]]
+[[ja:ミノマダム (ポケポケ A2 090)]]
+[[zh:结草贵妇（A2 090）]]

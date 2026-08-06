@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ponyta
+|ja name=ポニータ
+|trans name=Ponyta
+|species=Ponyta
+|type=Fire
+|image=PonytaMegaRising30.png
+|illustrator=Jiro Sasumo
+|hp=60
+|weakness=Water
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=030/226|pack=Mega Blaziken|rarity=Diamond|rarity count=1}}
+}}
+
+'''Ponyta''' (Japanese: '''ポニータ''' ''Ponyta'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Combustion
+|jname=かえん
+|jtrans=Blaze
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Ponyta
+|category=Fire Horse
+|ndex=0077
+|height=3'3"
+|jheight=1.0
+|weight=66.1
+|jweight=30.0
+|dex=If you've been accepted by Ponyta, its burning mane is mysteriously no longer hot to the touch.
+|jdex=ポニータに 認められると 燃える たてがみに 触っても 不思議と 熱くなくなるのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Astral Radiance|Ponyta|21}} from the {{TCG|Astral Radiance}} expansion.
+*'''Combustion''' is an attack that first appeared on {{TCG ID|Neo Destiny|Slugma|82}} from the {{TCG|Neo Destiny}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ponita (Mega-Aufstieg 030)]]
+[[es:Ponyta (Megaascenso TCG Pocket)]]
+[[fr:Ponyta (Méga-Ascension 030)]]
+[[it:Ponyta (Mega Ascesa 30)]]
+[[ja:ポニータ (ポケポケ B1)]]
+[[zh:小火马（B1）]]

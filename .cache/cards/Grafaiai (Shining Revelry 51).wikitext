@@ -1,0 +1,79 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Grafaiai
+|ja name=タギングル
+|trans name=Taggingru
+|species=Grafaiai
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GrafaiaiShiningRevelry51.png|illustrator=Krgc|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GrafaiaiShiningRevelry76.png|illustrator=Teeziro|tab caption=Illustration Rare}}
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Shroodle
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=051/072|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=076/072|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Grafaiai''' (Japanese: '''タギングル''' ''Taggingru'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Ability/Pocket
+|type=Darkness
+|name=Poison Coating
+|jname=どくぬり
+|jtrans=Poison Coating
+|effect=Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=Bite
+|jname=かみつく
+|jtrans=Bite
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Grafaiai
+|category=Toxic Monkey 
+|ndex=0945
+|height=2'4"
+|jheight=0.7
+|weight=60
+|jweight=27.2
+|dex=The color of the poisonous saliva depends on what the Pokémon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.
+|jdex=エサによって 色が 変化する 毒の 唾液を 指に 塗して 森の 木々に 模様を 描く。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=GrafaiaiShiningRevelry51.png
+|caption1=Rare card<br>Illus. [[Krgc]]
+|image2=GrafaiaiShiningRevelry76.png
+|caption2=Illustration rare card<br>Illus. [[Teeziro]]
+}}
+
+==Trivia==
+===Origin===
+*{{m|Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Grafaiai}} can learn as {{p|Shroodle}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Affiti (Glänzendes Festival 051)]]
+[[es:Grafaiai (Festival Brillante TCG Pocket)]]
+[[fr:Tag-Tag (Réjouissances Rayonnantes 051)]]
+[[it:Grafaiai (Tripudio Splendente 51)]]
+[[ja:タギングル (ポケポケ A2b)]]
+[[zh:塗標客（A2b）]]

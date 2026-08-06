@@ -1,0 +1,88 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pidgeot
+|ja name=ピジョット
+|trans name=Pigeot
+|species=Pidgeot
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PidgeotGeneticApex188.png|illustrator=Scav|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PidgeotGeneticApex245.png|illustrator=Anesaki Dynamic|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PidgeotExtradimensionalCrisis97.png|illustrator=Misa Tsutsui|tab caption=Shiny Rare}}
+|hp=130
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Pidgeotto
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=188/226|pack=Mewtwo|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=245/226|pack=Mewtwo|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=097/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Pidgeot''' (Japanese: '''ピジョット''' ''Pigeot'') is a {{ct|Colorless}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Drive Off
+|jname=おいはらう
+|jtrans=Drive Away
+|effect=Once during your turn, you may switch out your opponent's Active Pokémon to the Bench. ''(Your opponent chooses the new Active Pokémon.)''
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Wing Attack
+|jname=つばさでうつ
+|jtrans=Wing Strike
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Pidgeot
+|species=Bird
+|ndex=0018
+|height=4'11"
+|jheight=1.5
+|weight=87.1
+|jweight=39.5
+|dex=When hunting, it skims the surface of water at high speed to pick off unwary prey such as Magikarp.
+|jdex=エサを　探すとき　水面　すれすれを 滑るように　飛んで コイキングなどを　わしづかみにする｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=PidgeotGeneticApex188.png
+|caption1=Rare card<br>Illus. [[Scav]]
+|image2=PidgeotGeneticApex245.png
+|caption2=Illustration rare card<br>Illus. [[Anesaki Dynamic]]
+|image3=PidgeotExtradimensionalCrisis97.png
+|caption3=Shiny rare card<br>Illus. [[Misa Tsutsui]]
+}}
+
+==Trivia==
+The standard print of this card is part of a narrative illustration with {{TCG ID|Genetic Apex|Pidgey|186}} and {{TCG ID|Genetic Apex|Pidgeotto|187}} from the same set. In this illustration, a Pidgeot now perches on a tree branch between the Pidgeotto and two Pidgey from the previous cards. All three cards are illustrated by [[Scav]] and form the {{TCGP|Genetic Apex}} expansion's "Pidgey Squad" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]].
+
+===Origin===
+*This card's shiny rare print features a {{Shiny}} {{p|Pidgeot}}.
+*'''Drive Off''' is an {{TCG|Ability}} that first appeared on {{TCG ID|XY|Swellow|103}} from the {{TCG|XY}} expansion.
+*{{m|Wing Attack}} is a [[move]] in the [[Pokémon games]] that {{p|Pidgeot}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tauboss (Unschlagbare Gene 188)]]
+[[es:Pidgeot (Genes Formidables TCG Pocket)]]
+[[fr:Roucarnage (Puissance Génétique 188)]]
+[[it:Pidgeot (Geni Supremi 188)]]
+[[ja:ピジョット (ポケポケ A1)]]
+[[zh:大比鸟（A1）]]

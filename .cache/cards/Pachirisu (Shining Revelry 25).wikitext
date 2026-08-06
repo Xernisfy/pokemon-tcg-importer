@@ -1,0 +1,86 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pachirisu
+|ja name=パチリス
+|trans name=Pachirisu
+|species=Pachirisu
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PachirisuShiningRevelry25.png|illustrator=imoniii|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PachirisuDeluxePackex144.png|illustrator=imoniii|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PachirisuShiningRevelry103.png|illustrator=Tomowaka|tab caption=Shiny Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PachirisuPromo-A58.png|illustrator=OOYAMA|tab caption=Promo}}
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=025/072|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=103/072|pack=Any|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=058/P-A}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=143/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=144/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Pachirisu''' (Japanese: '''パチリス''' ''Pachirisu'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Plasma
+|jname=プラズマ
+|jtrans=Plasma
+|damage=10
+|effect=Take a {{e|Lightning}} Energy from your Energy Zone and attach it to 1 of your Benched {{e|Lightning}} Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Pachirisu
+|category=EleSquirrel
+|ndex=0417
+|height=1'4"
+|jheight=0.4
+|weight=8.6
+|jweight=3.9
+|dex=It's one of the kinds of Pokémon with electric cheek pouches. It shoots charges from its tail.
+|jdex=ほっぺに 電気袋を 持つ ポケモンの 仲間。 尻尾から 溜まった 電気を 放出する。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} card was available via special wonder picks during the Lucario [[Wonder Pick Event (Lucario)|Wonder Pick Event]], which ran from April 16 to 26, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=PachirisuShiningRevelry25.png
+|caption1=Standard card<br>Illus. [[imoniii]]
+|image2=PachirisuShiningRevelry103.png
+|caption2=Shiny rare card<br>Illus. [[Tomowaka]]
+|image4=PachirisuPromo-A58.png
+|caption4=Promo card<br>Illus. [[OOYAMA]]
+|image5=PachirisuDeluxePackex144.png
+|caption5=Parallel foil card<br>Illus. [[imoniii]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare card features a {{Shiny}} {{p|Pachirisu}}.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Ultra Prism|Pachirisu|49}} from the {{TCG|Ultra Prism}} expansion.
+*'''Plasma''' is an attack that first appeared on {{TCG ID|Gym Challenge|Rocket's Zapdos|15}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pachirisu (Glänzendes Festival 025)]]
+[[es:Pachirisu (Festival Brillante TCG Pocket)]]
+[[fr:Pachirisu (Réjouissances Rayonnantes 025)]]
+[[it:Pachirisu (Tripudio Splendente 25)]]
+[[ja:パチリス (ポケポケ A2b)]]
+[[zh:帕奇利茲（A2b）]]

@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cloyster
+|ja name=パルシェン
+|trans name=Parshen
+|species=Cloyster
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CloysterCelestialGuardians43.png|illustrator=Masakazu Fukuda|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CloysterCrimsonBlaze93.png|illustrator=whomor Inc.|tab caption=Shiny Rare}}
+|hp=110
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Shellder
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=043/155|pack=Solgaleo|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=093/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Cloyster''' (Japanese: '''パルシェン''' ''Parshen'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Guard Press
+|jname=ガードプレス
+|jtrans=Guard Press
+|damage=50
+|effect=During your opponent's next turn, this Pokémon takes −20 damage from attacks.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Cloyster
+|species=Bivalve
+|ndex=0091
+|height=4'11"
+|jheight=1.5
+|weight=292.1
+|jweight=132.5
+|dex=Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.
+|jdex=潮の 流れが 激しい 海に 生息している パルシェンの 殻の トゲは 大きく 鋭い。
+}}
+
+==Gallery==
+{{TCGGallery
+|type=Water
+|image1=CloysterCelestialGuardians43.png
+|caption1=Uncommon card<br>Illus. [[Masakazu Fukuda]]
+|image2=CloysterCrimsonBlaze93.png
+|caption2=Shiny rare card<br>Illus. [[whomor Inc.]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|XY|Cloyster|32}} from the {{TCG|XY}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Cloyster}}.
+*'''Guard Press''' is an attack that first appeared on {{TCG ID|Unleashed|Steelix|24}} from the {{TCG|Unleashed}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Austos (Hüter des Firmaments 043)]]
+[[es:Cloyster (Guardianes Celestiales TCG Pocket)]]
+[[fr:Crustabri (Gardiens Astraux 043)]]
+[[it:Cloyster (Guardiani Astrali 43)]]
+[[ja:パルシェン (ポケポケ A3)]]
+[[zh:刺甲贝（A3）]]

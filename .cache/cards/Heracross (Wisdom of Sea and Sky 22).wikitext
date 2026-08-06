@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Heracross
+|ja name=ヘラクロス
+|trans name=Heracros
+|species=Heracross
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HeracrossWisdomofSeaandSky22.png|illustrator=Naoki Saito|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HeracrossWisdomofSeaandSky164.png|illustrator=GOSSAN|tab caption=Illustration Rare}}
+|hp=90
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=022/161|pack=Ho-Oh|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=164/161|pack=Ho-Oh|rarity=Star|rarity count=1}}
+}}
+
+'''Heracross''' (Japanese: '''ヘラクロス''' ''Heracros'') is a {{ct|Grass}} Basic Pokémon in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Single Lunge
+|jname=いってんづき
+|jtrans=Single Stab
+|damage=40+
+|effect=If this Pokémon has no damage on it, this attack does 40 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Heracross
+|species=Single Horn
+|ndex=0214
+|height=4'11"
+|jheight=1.5
+|weight=119
+|jweight=54.0
+|dex=It loves sweet nectar. To keep all the nectar to itself, it hurls rivals away with its prized horn.
+|jdex=甘いミツが 大好きで 独り占め するため 自慢のツノを 使って 相手を ぶん投げる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=HeracrossWisdomofSeaandSky22.png
+|caption1=Rare card<br>Illus. [[Naoki Saito]]
+|image2=HeracrossWisdomofSeaandSky164.png
+|caption2=Illustration rare card<br>Illus. [[GOSSAN]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Boundaries Crossed|Heracross|8}} from the {{TCG|Boundaries Crossed}} expansion.
+*'''Single Lunge''' is an attack that first appeared on {{TCG ID|Team Up|Bisharp|105}} from the {{TCG|Team Up}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Skaraborn (Weisheit von Meer und Himmel 022)]]
+[[es:Heracross (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Scarhino (Sagesse entre Ciel et Mer 022)]]
+[[it:Heracross (La Via del Cielo e del Mare 22)]]
+[[ja:ヘラクロス (ポケポケ A4)]]
+[[zh:赫拉克罗斯（A4）]]

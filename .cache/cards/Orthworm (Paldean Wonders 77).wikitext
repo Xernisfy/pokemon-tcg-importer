@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Orthworm
+|ja name=ミミズズ
+|trans name=Mimizuzu
+|species=Orthworm
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OrthwormPaldeanWonders77.png|illustrator=Pani Kobayashi|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OrthwormPaldeanWonders98.png|illustrator=OKACHEKE|tab caption=Illustration Rare}}
+|hp=100
+|weakness=Fire
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=077/093|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=098/093|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Orthworm''' (Japanese: '''ミミズズ''' ''Mimizuzu'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}
+|name=Iron Supply
+|jname=てつぶんサプライ
+|jtrans=Iron Supply
+|damage=10
+|effect=Take a {{e|Metal}} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Orthworm
+|category=Earthworm
+|ndex=0968
+|height=8'2"
+|jheight=2.5
+|weight=683.4
+|jweight=310.0
+|dex=This Pokémon lives in arid deserts. It maintains its metal body by consuming iron from the soil.
+|jdex=乾燥した　砂地に　棲んでいる｡ 土の中の　鉄分を　食べて 金属の　体を　保っている｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=OrthwormPaldeanWonders77.png
+|caption1=Uncommon card<br>Illus. [[Pani Kobayashi]]
+|image2=OrthwormPaldeanWonders98.png
+|caption2=Illustration rare card<br>Illus. [[OKACHEKE]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Paradox Rift|Orthworm|138}} from the {{TCG|Paradox Rift}} expansion.
+*This card's illustration rare artwork was first featured on {{TCG ID|Paldea Evolved|Orthworm|151}} from the {{TCG|Paldea Evolved}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schlurm (Wundervolles Paldea 077)]]
+[[fr:Ferdeter (Merveilles de Paldea 077)]]
+[[it:Orthworm (Meraviglie di Paldea 77)]]
+[[ja:ミミズズ (ポケポケ B2a)]]
+[[zh:拖拖蚓（B2a）]]

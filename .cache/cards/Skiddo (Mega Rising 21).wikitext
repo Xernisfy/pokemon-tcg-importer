@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Skiddo
+|ja name=メェークル
+|trans name=Meecle
+|species=Skiddo
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SkiddoMegaRising21.png|illustrator=Saya Tsuruta|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SkiddoMegaRising228.png|illustrator=Shinya Komatsu|tab caption=Illustration Rare}}
+|hp=80
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=021/226|pack=Mega Altaria|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=228/226|pack=Mega Altaria|rarity=Star|rarity count=1}}
+}}
+
+'''Skiddo''' (Japanese: '''メェークル''' ''Meecle'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Razor Leaf
+|jname=はっぱカッター
+|jtrans=Leaf Cutter
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Skiddo
+|category=Mount
+|ndex=0672
+|height=2'11"
+|jheight=0.9
+|weight=68.3
+|jweight=31.0
+|dex=As long as it has sunlight and water, Skiddo can make energy with the leaves on its body, allowing it to live on rocky mountains barren of food.
+|jdex=太陽と 水が あれば 体の 葉っぱで エネルギーを 作れるので エサのない 岩山でも 生きられる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=SkiddoMegaRising21.png
+|caption1=Common card<br>Illus. [[Saya Tsuruta]]
+|image2=SkiddoMegaRising228.png
+|caption2=Illustration rare card<br>Illus. [[Shinya Komatsu]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Vivid Voltage|Skiddo|17}} from the {{TCG|Vivid Voltage}} expansion.
+*{{m|Razor Leaf}} is a [[move]] in the [[Pokémon games]] that {{p|Skiddo}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mähikel (Mega-Aufstieg 021)]]
+[[es:Skiddo (Megaascenso TCG Pocket)]]
+[[fr:Cabriolaine (Méga-Ascension 021)]]
+[[it:Skiddo (Mega Ascesa 21)]]
+[[ja:メェークル (ポケポケ B1)]]
+[[zh:坐骑小羊（B1）]]

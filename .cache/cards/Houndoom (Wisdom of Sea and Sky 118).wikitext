@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Houndoom
+|ja name=ヘルガー
+|trans name=Hellgar
+|species=Houndoom
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HoundoomWisdomofSeaandSky118.png|illustrator=Shin Nagasawa|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HoundoomPromo-A96.png|illustrator=Kagemaru Himeno|tab caption=Promo}}
+|hp=110
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Houndour
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=118/161|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=096/P-A|pack=Vol. 11}}
+}}
+
+'''Houndoom''' (Japanese: '''ヘルガー''' ''Hellgar'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Darkness}}
+|name=Diving Swipe
+|jname=スナッチダイブ
+|jtrans=Snatch Dive
+|damage=70
+|effect=Discard a random card from your opponent's hand.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Houndoom
+|species=Dark
+|ndex=0229
+|height=4'7"
+|jheight=1.4
+|weight=77.2
+|jweight=35.0
+|dex=If you are burned by the flames it shoots from its mouth, the pain will never go away.
+|jdex=口から 吹き出す 炎で 火傷すると いつまでたっても 傷口が うずいてしまう。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 11 packs; these were made available as part of the [[Blissey ex Drop Event]], which ran from August 6 to 16, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=HoundoomWisdomofSeaandSky118.png
+|caption1=Uncommon card<br>Illus. [[Shin Nagasawa]]
+|image2=HoundoomPromo-A96.png
+|caption2=Promo card<br>Illus. [[Kagemaru Himeno]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Wisdom of Sea and Sky}} illustration was first featured on {{TCG ID|Crimson Invasion|Houndoom|59}} from the {{TCG|Crimson Invasion}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Undaunted|Houndoom|5}} from the {{TCG|Undaunted}} expansion.
+*'''Diving Swipe''' is an attack that first appeared on {{TCG ID|Dragons Exalted|Honchkrow|73}} from the {{TCG|Dragons Exalted}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hundemon (Weisheit von Meer und Himmel 118)]]
+[[es:Houndoom (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Démolosse (Sagesse entre Ciel et Mer 118)]]
+[[it:Houndoom (La Via del Cielo e del Mare 118)]]
+[[ja:ヘルガー (ポケポケ A4)]]
+[[zh:黑鲁加（A4）]]

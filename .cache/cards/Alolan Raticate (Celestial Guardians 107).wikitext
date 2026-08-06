@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Raticate
+|ja name=アローララッタ
+|trans name=Alolan Ratta
+|species=Raticate
+|type=Darkness
+|image=AlolanRaticateCelestialGuardians107.png
+|illustrator=nagimiso
+|hp=110
+|weakness=Grass
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Alolan Rattata
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=107/155|pack=Lunala|rarity=Diamond|rarity count=2}}
+}}
+
+'''Alolan Raticate''' (Japanese: '''アローララッタ''' ''Alolan Ratta'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=Scrounge-and-Scarf
+|jname=くいあさる
+|jtrans=Scrounge-Eating
+|damage=50
+|effect=Discard a random {{TCGP|Item card}} from your opponent's hand.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Raticate
+|species=Mouse
+|ndex=0020
+|height=2'4"
+|jheight=0.7
+|weight=56.2
+|jweight=25.5
+|dex=It has an incredibly greedy personality. Its nest is filled with so much food gathered by Rattata at its direction, it can't possibly eat it all. 
+|jdex=とても 欲張りな 性質。巣には コラッタたちに 集めさせた エサが 食べきれないほど たんまり あるぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Raticate}}.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Rattikarl (Hüter des Firmaments 107)]]
+[[es:Raticate de Alola (Guardianes Celestiales TCG Pocket)]]
+[[fr:Rattatac d'Alola (Gardiens Astraux 107)]]
+[[it:Raticate di Alola (Guardiani Astrali 107)]]
+[[ja:アローララッタ (ポケポケ A3)]]
+[[zh:阿罗拉 拉达（A3）]]

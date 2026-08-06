@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Exploud
+|ja name=バクオング
+|trans name=Bakuong
+|species=Exploud
+|type=Colorless
+|image=ExploudMegaRising192.png
+|illustrator=kawayoo
+|hp=150
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Loudred
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=192/226|pack=Mega Gyarados|rarity=Diamond|rarity count=3}}
+}}
+
+'''Exploud''' (Japanese: '''バクオング''' ''Bakuong'') is a {{ct|Colorless}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Booming Roar
+|jname=だいばくおん
+|jtrans=
+|damage=90
+|effect=During your opponent's next turn, they can't play any {{TCGP|Item card}}s from their hand.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Exploud
+|category=Loud Noise
+|ndex=0295
+|height=4'11"
+|jheight=1.5
+|weight=185.2
+|jweight=84.0
+|dex=This Pokémon can do more than just shout. To communicate with others of its kind, it'll emit all sorts of sounds from the holes in its body.
+|jdex=大声だけじゃない。 体の 穴から いろいろな 音色を 出し 仲間と 意思疎通を するのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Celestial Storm|Exploud|119}} from the {{TCG|Celestial Storm}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Krawumms (Mega-Aufstieg 192)]]
+[[es:Exploud (Megaascenso TCG Pocket)]]
+[[fr:Brouhabam (Méga-Ascension 192)]]
+[[it:Exploud (Mega Ascesa 192)]]
+[[ja:バクオング (ポケポケ B1)]]
+[[zh:爆音怪（B1）]]

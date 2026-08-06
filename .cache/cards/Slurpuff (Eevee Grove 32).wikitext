@@ -1,0 +1,78 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Slurpuff
+|ja name=ペロリーム
+|trans name=Peroream
+|species=Slurpuff
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SlurpuffEeveeGrove32.png|illustrator=Kyoko Umemoto|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SlurpuffDeluxePackex176.png|illustrator=Kyoko Umemoto|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SlurpuffDeluxePackex358.png|illustrator=Orca|tab caption=Illustration Rare}}
+|hp=120
+|weakness=Metal
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Swirlix
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=032/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=175/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=176/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=358/353|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Slurpuff''' (Japanese: '''ペロリーム''' ''Peroream'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Sweets Relay
+|jname=スイーツリレー
+|jtrans=Sweets Relay
+|damage=30+
+|effect=If 1 of your Pokémon used {{cat|TCG Pocket cards with Sweets Relay|Sweets Relay}} during your last turn, this attack does 60 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Slurpuff
+|category=Meringue
+|ndex=0685
+|height=2'7"
+|jheight=0.8
+|weight=11
+|jweight=5.0
+|dex=By taking in a person's scent, it can sniff out their mental and physical condition. It's hoped that this skill will have many medical applications.
+|jdex=体臭から 心と 体の 調子を 嗅ぎとる。 医療への 応用が 期待されている。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=SlurpuffEeveeGrove32.png
+|caption1=Standard card<br>Illus. [[Kyoko Umemoto]]
+|image2=SlurpuffDeluxePackex176.png
+|caption2=Parallel foil card<br>Illus. [[Kyoko Umemoto]]
+|image3=SlurpuffDeluxePackex358.png
+|caption3=Illustration rare card<br>Illus. [[Orca]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Cosmic Eclipse|Slurpuff|154}} from the {{TCG|Cosmic Eclipse}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sabbaione (Evoli-Hain 032)]]
+[[es:Slurpuff (Arboleda de Eevee TCG Pocket)]]
+[[fr:Cupcanaille (La Clairière d'Évoli 032)]]
+[[it:Slurpuff (Il Bosco di Eevee 32)]]
+[[ja:ペロリーム (ポケポケ A3b)]]
+[[zh:胖甜妮（A3b）]]

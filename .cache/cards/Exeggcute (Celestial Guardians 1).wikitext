@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Exeggcute
+|ja name=タマタマ
+|trans name=Tamatama
+|species=Exeggcute
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ExeggcuteCelestialGuardians1.png|illustrator=HYOGONOSUKE|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ExeggcuteCelestialGuardians213.png|illustrator=Shigenori Negishi|tab caption=Shiny Rare}}
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=001/155|pack=Lunala|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=213/155|pack=Lunala|rarity=Shiny|rarity count=1}}
+}}
+
+'''Exeggcute''' (Japanese: '''タマタマ''' ''Tamatama'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Rolling Tackle
+|jname=ころがりタックル
+|jtrans=Rolling Tackle
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Exeggcute
+|category=Egg 
+|ndex=0102
+|height=1'4"
+|jheight=0.4
+|weight=5.5
+|jweight=2.5
+|dex=Though it may look like it's just a bunch of eggs, it's a proper Pokémon. Exeggcute communicates with others of its kind via telepathy, apparently.
+|jdex=タマゴのように　見えるが　立派な ポケモン｡　テレパシーで　仲間と 交信している　らしいぞ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=ExeggcuteCelestialGuardians1.png
+|caption1=Common card<br>Illus. [[HYOGONOSUKE]]
+|image2=ExeggcuteCelestialGuardians213.png
+|caption2=Shiny rare card<br>Illus. [[Shigenori Negishi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare print features a {{Shiny}} {{p|Exeggcute}}.
+*This card's standard illustration was first featured on {{TCG ID|SM-P Promo|Exeggcute|355}}, one of the {{TCG|SM-P Promotional cards}} released only in Japan.
+*'''Rolling Tackle''' is an attack that first appeared on {{TCG ID|Team Rocket|Dark Electrode|34}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Owei (Hüter des Firmaments 001)]]
+[[es:Exeggcute (Guardianes Celestiales TCG Pocket)]]
+[[fr:Noeunoeuf (Gardiens Astraux 001)]]
+[[it:Exeggcute (Guardiani Astrali 1)]]
+[[ja:タマタマ (ポケポケ A3)]]
+[[zh:蛋蛋（A3）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cranidos
+|ja name=ズガイドス
+|trans name=Zugaidos
+|species=Cranidos
+|type=Fighting
+|image=CranidosSpace-TimeSmackdown88.png
+|illustrator=Kouki Saitou
+|hp=90
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Skull Fossil
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=088/155|pack=Dialga|rarity=Diamond|rarity count=2}}
+}}
+
+'''Cranidos''' (Japanese: '''ズガイドス''' ''Zugaidos'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Headbutt
+|jname=ずつき
+|jtrans=Headbutt
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Cranidos
+|species=Head Butt
+|ndex=0408
+|height=2'11"
+|jheight=0.9
+|weight=69.4
+|jweight=31.5
+|dex=A primeval Pokémon, it possesses a hard and sturdy skull, lacking any intelligence within.
+|jdex=太古の ポケモン。 硬くて 丈夫な 頭蓋骨を 持つが 頭は 相当に 悪かった。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Platinum|Cranidos|46}} from the {{TCG|Platinum}} expansion.
+*{{m|Headbutt}} is a [[move]] in the [[Pokémon games]] that {{p|Cranidos}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Koknodon (Kollision von Raum und Zeit 088)]]
+[[es:Cranidos (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Kranidos (Choc Spatio-Temporel 088)]]
+[[it:Cranidos (Scontro Spaziotemporale 88)]]
+[[ja:ズガイドス (ポケポケ A2)]]
+[[zh:头盖龙（A2）]]

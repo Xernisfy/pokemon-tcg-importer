@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Graveler
+|ja name=アローラゴローン
+|trans name=Alolan Golone
+|species=Graveler
+|type=Lightning
+|image=AlolanGravelerCelestialGuardians60.png
+|illustrator=match
+|hp=110
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Alolan Geodude
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=060/155|pack=Solgaleo|rarity=Diamond|rarity count=2}}
+}}
+
+'''Alolan Graveler''' (Japanese: '''アローラゴローン''' ''Alolan Golone'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}{{e|Colorless}}
+|name=Heavy Impact
+|jname=ヘビーインパクト
+|jtrans=Heavy Impact
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Graveler
+|species=Rock
+|ndex=0075
+|height=3'3"
+|jheight=1.0
+|weight=242.5
+|jweight=110.0
+|dex=When two Graveler fight each other, it fills the surroundings with flashes of light and sound. People call it the "fireworks of the earth."
+|jdex=ゴローン同士 争うと あたりに 光と 爆音がする。 地元の 人は 陸花火と 呼んでいる。
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Graveler}}.
+*This card's illustration was first featured on {{TCG ID|Guardians Rising|Alolan Graveler|41}} from the {{TCG|Guardians Rising}} expansion.
+*'''Heavy Impact''' is an attack that first appeared on {{TCG ID|EX Team Rocket Returns|Dark Steelix|10}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Georok (Hüter des Firmaments 060)]]
+[[es:Graveler de Alola (Guardianes Celestiales TCG Pocket)]]
+[[fr:Gravalanch d'Alola (Gardiens Astraux 060)]]
+[[it:Graveler di Alola (Guardiani Astrali 60)]]
+[[ja:アローラゴローン (ポケポケ A3)]]
+[[zh:阿罗拉 隆隆石（A3）]]

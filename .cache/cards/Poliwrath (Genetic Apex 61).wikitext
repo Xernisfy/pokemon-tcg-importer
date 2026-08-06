@@ -1,0 +1,84 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Poliwrath
+|ja name=ニョロボン
+|trans name=Nyorobon
+|species=Poliwrath
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PoliwrathGeneticApex61.png|illustrator=Akira Komayama|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PoliwrathMegaRising297.png|illustrator=MAHOU|tab caption=Shiny Rare}}
+|hp=150
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Poliwhirl
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=061/226|pack=Charizard|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=297/226|pack=Mega Gyarados|rarity=Shiny|rarity count=1}}
+}}
+
+'''Poliwrath''' (Japanese: '''ニョロボン''' ''Nyorobon'') is a {{ct|Water}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Counterattack
+|jname=はんげき
+|jtrans=Counterattack
+|effect=If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}{{e|Colorless}}
+|name=Mega Punch
+|jname=メガトンパンチ
+|jtrans=Megaton Punch
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Poliwrath
+|species=Tadpole
+|ndex=0062
+|height=4'3"
+|jheight=1.3
+|weight=119
+|jweight=54.0
+|dex=Its body is solid muscle. When swimming through cold seas, Poliwrath uses its impressive arms to smash through drift ice and plow forward.
+|jdex=全身が　筋肉の　塊｡ 寒い　海でも　たくましい　腕で 流氷を　砕き　突き進む｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=PoliwrathGeneticApex61.png
+|caption1=Standard card<br>Illus. [[Akira Komayama]]
+|image2=PoliwrathMegaRising297.png
+|caption2=Shiny rare card<br>Illus. [[MAHOU]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Genetic Apex}} illustration was first featured on {{TCG ID|Unbroken Bonds|Poliwrath|39}} from the {{TCG|Unbroken Bonds}} expansion.
+*{{DL|Skill (Shuffle)|Counterattack}} is a {{OBP|skill|Shuffle}} in [[Pokémon Shuffle]], though {{p|Poliwrath}} cannot have it.
+**As an {{TCG|Ability}} in the TCG, it first appeared as a {{TCG|Pokémon Power}} named '''Strikes Back''' on {{TCG ID|Base Set|Machamp|8}} from the {{TCG|Base Set}}.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Poliwrath}}.
+*{{m|Mega Punch}} is a [[move]] in the [[Pokémon games]] that {{p|Poliwrath}} can learn via [[TM]] or [[Move Tutor]].
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Quappo (Unschlagbare Gene 061)]]
+[[es:Poliwrath (Genes Formidables TCG Pocket)]]
+[[fr:Tartard (Puissance Génétique 061)]]
+[[it:Poliwrath (Geni Supremi 61)]]
+[[ja:ニョロボン (ポケポケ A1)]]
+[[zh:蚊香泳士（A1）]]

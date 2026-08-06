@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cramorant
+|ja name=ウッウ
+|trans name=Uu
+|species=Cramorant
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CramorantFantasticalParade45.png|illustrator=Sanosuke Sakuma|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CramorantFantasticalParade164.png|illustrator=osare|tab caption=Illustration Rare}}
+|hp=80
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=045/155|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=164/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Cramorant''' (Japanese: '''ウッウ''' ''Uu'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Spit-Out Shot
+|jname=はきだしショット
+|jtrans=Spit-Out Shot
+|damage=
+|effect=This attack does 30 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Cramorant
+|species=Gulp
+|ndex=0845
+|height=2'7"
+|jheight=0.8
+|weight=39.7
+|jweight=18.0
+|dex=Cramorant takes advantage of Arrokuda's frantic thrashing to help spit Arrokuda out at high speed. 
+|jdex=喉に 詰まらせた サシカマスの ビチビチと 跳ねまわる 力を 利用して 高速で 吐き出す。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=CramorantFantasticalParade45.png
+|caption1=Common card<br>Illus. [[Sanosuke Sakuma]]
+|image2=CramorantFantasticalParade164.png
+|caption2=Illustration rare card<br>Illus. [[osare]]
+}}
+
+==Trivia==
+===Origin===
+*The standard illustration card features {{p|Cramorant}} in its {{form|Cramorant|Gulping Form}}, while the illustration rare card features Cramorant in its {{form|Cramorant|Gorging Form}}.
+*This card's standard illustration was first featured on {{TCG ID|Vivid Voltage|Cramorant|40}} from the {{TCG|Vivid Voltage}} expansion.
+*'''Spit-Out Shot''' is an attack that first appeared on {{TCG ID|Shining Fates|Cramorant|28}} from the {{TCG|Shining Fates}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Urgl (Traumhafte Parade 045)]]
+[[fr:Nigosier (Parade Onirique 045)]]
+[[it:Cramorant (Parata Fantasmagorica 45)]]
+[[ja:ウッウ (ポケポケ B2)]]
+[[zh:古月鸟（B2）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Toxapex
+|ja name=ドヒドイデ
+|trans name=Dohidoide
+|species=Toxapex
+|type=Darkness
+|image=ToxapexCelestialGuardians116.png
+|illustrator=chibi
+|hp=110
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Mareanie
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lunala|rarity=Diamond|rarity count=1|number=116/155}}
+}}
+
+'''Toxapex''' (Japanese: '''ドヒドイデ''' ''Dohidoide'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Spike Cannon
+|jname=とげキャノン
+|jtrans=Spike Cannon
+|damage=20×
+|effect=Flip 4 coins. This attack does 20 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Toxapex
+|species=Brutal Star
+|ndex=0748
+|height=2'4"
+|jheight=0.7
+|weight=32
+|jweight=14.5
+|dex=This Pokémon lives within a dome made by its own legs. Toxapex monitors its surroundings by sensing the flow of the tide through its spikes. 
+|jdex=自分の 脚で 作った ドームが 棲み処。 潮の 流れを ツノで 察知して 周囲を 探る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Toxapex|97}} from the {{TCG|Unified Minds}} expansion.
+*{{m|Spike Cannon}} is a [[move]] in the Pokémon games that {{p|Toxapex}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Aggrostella (Hüter des Firmaments 116)]]
+[[es:Toxapex (Guardianes Celestiales TCG Pocket)]]
+[[fr:Prédastérie (Gardiens Astraux 116)]]
+[[it:Toxapex (Guardiani Astrali 116)]]
+[[ja:ドヒドイデ (ポケポケ A3)]]
+[[zh:超坏星（A3）]]

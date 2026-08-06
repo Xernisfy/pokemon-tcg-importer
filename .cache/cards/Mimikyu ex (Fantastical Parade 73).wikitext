@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mimikyu {{TCGP Icon|ex}}
+|ja name=ミミッキュ{{TCGP Icon|ex}}
+|trans name=Mimikkyu {{TCGP Icon|ex}}
+|species=Mimikyu
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MimikyuexFantasticalParade73.png|illustrator=5ban Graphics|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MimikyuexFantasticalParade186.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MimikyuexFantasticalParade199.png|illustrator=Mori Yuu|tab caption=Special Illustration Rare}}
+|hp=120
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=073/155|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=186/155|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=199/155|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Mimikyu ex''' (Japanese: '''ミミッキュex''' ''Mimikkyu ex'') is a {{ct|Psychic}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Disguise
+|jname=ばけのかわ
+|jtrans=Disguise
+|effect=When this Pokémon is first damaged by an attack after coming into play, prevent that damage.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Claw Slash
+|jname=ツメできりさく
+|jtrans=Claw Slash
+|damage=70
+|effect=
+}}
+{{Cardtext/Pocket ex
+|type=Psychic
+|ndex=0778
+|name=Mimikyu
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=MimikyuexFantasticalParade73.png
+|caption1=Double rare card<br>Illus. [[5ban Graphics]]
+|image2=MimikyuexFantasticalParade186.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=MimikyuexFantasticalParade199.png
+|caption3=Special illustration rare card<br>Illus. [[Mori Yuu]]
+}}
+
+==Trivia==
+===Origin===
+*{{a|Disguise}} is an [[Ability]] in the [[Pokémon games]] that {{p|Mimikyu}} can have.
+*'''Claw Slash''' is an attack that first appeared on {{TCG ID|XY Promo|Sableye|92}}, one of the {{TCG|XY Black Star Promos}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mimigma-ex (Traumhafte Parade 073)]]
+[[fr:Mimiqui-ex (Parade Onirique 073)]]
+[[it:Mimikyu-ex (Parata Fantasmagorica 73)]]
+[[ja:ミミッキュex (ポケポケ B2)]]
+[[zh:谜拟Ｑex（B2）]]

@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Maushold
+|ja name=イッカネズミ
+|trans name=Ikkanezumi
+|species=Maushold
+|type=Colorless
+|image=MausholdFantasticalParade143.png
+|illustrator=MINAMINAMI Take
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Tandemaus
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=143/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Maushold''' (Japanese: '''イッカネズミ''' ''Ikkanezumi'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Family Beatdown
+|jname=ファミリービート
+|jtrans=Family Beat
+|damage=60×
+|effect=Flip a coin for each {{TCGP|Tandemaus}} and {{TCGP|Maushold}} you have in play. This attack does 60 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Maushold
+|species=Family
+|ndex=0925
+|height=1'
+|jheight=0.3
+|weight=6.2
+|jweight=2.8
+|dex=The larger pair protects the little ones during battles. When facing strong opponents, the whole group will join the fight.
+|jdex=大きな ２匹が 子どもたちを 守りながら 戦う。 強い 相手には 全員で 立ち向かう。
+}}
+
+==Trivia==
+===Origin===
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Famieps (Traumhafte Parade 143)]]
+[[fr:Famignol (Parade Onirique 143)]]
+[[it:Maushold (Parata Fantasmagorica 143)]]
+[[ja:イッカネズミ (ポケポケ B2)]]
+[[zh:一家鼠（B2）]]

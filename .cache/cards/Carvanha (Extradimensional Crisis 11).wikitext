@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Carvanha
+|ja name=キバニア
+|trans name=Kibanha
+|species=Carvanha
+|type=Water
+|image=CarvanhaExtradimensionalCrisis11.png
+|illustrator=Hideki Ishikawa
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=011/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Carvanha''' (Japanese: '''キバニア''' ''Kibanha'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Bite
+|jname=かみつく
+|jtrans=Bite
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Carvanha
+|species=Savage
+|ndex=0318
+|height=2'7"
+|jheight=0.8
+|weight=45.9
+|jweight=20.8
+|dex=It won't attack while it's alone—not even if it spots prey. Instead, it waits for other Carvanha to join it, and then the Pokémon attack as a group.
+|jdex=獲物を 見つけても 1匹のときは 襲わない。 仲間が 来るのを 待って 集団で 襲いかかる。
+}}
+{{Cardtext/Footer}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Guardians Rising|Carvanha|27}} from the {{TCG|Guardians Rising}} expansion; both cards have the Bite attack.
+*{{m|Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Carvanha}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kanivanha (Dimensionale Krise 011)]]
+[[es:Carvanha (Crisis Dimensional TCG Pocket)]]
+[[fr:Carvanha (Crise Interdimensionnelle 011)]]
+[[it:Carvanha (Crisi Ultradimensionale 11)]]
+[[ja:キバニア (ポケポケ A3a)]]
+[[zh:利牙鱼（A3a）]]

@@ -1,0 +1,46 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Lucky Mittens
+|ja name=ラッキーミトン
+|trans name=Lucky Mitten
+|subtype=Pokémon Tool
+|image=LuckyMittensMegaRising220.png
+|illustrator=Toyste Beach
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=220/226|pack=Mega Altaria|rarity=Diamond|rarity count=2}}
+}}
+
+'''Lucky Mittens''' (Japanese: '''ラッキーミトン''' ''Lucky Mitten'') is a {{TCGP|Pokémon Tool}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Tool
+|rule=Pocket Tool
+|effect=Whenever your opponent's Pokémon is Knocked Out by damage from an attack used by the Pokémon this card is attached to, draw a card.
+}}
+
+==Trivia==
+* This card's effect can be thought of as the inverse of {{TCG|Lucky Helmet}} in the [[Pokémon Trading Card Game]]. Both are Pokémon Tool cards that allow the player to draw a card if the Pokémon they are attached to is attacking or is being attacked.
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Pokémon Tool color}}|bordercolor={{TCG Pokémon Tool color dark}}|textcolor=FFF
+|ja=ラッキーミトン ''Lucky Mitten''
+|zh_yue=幸運手套 ''Hahngwahn Sáutou''
+|zh_cmn=幸運手套 ''Xìngyùn Shǒutào''
+|fr=Moufles Chance
+|de=Glückshandschuhe
+|it=Fortunguanti
+|ko=럭키미튼 ''Lucky Mitten''
+|pt_br=Luvas Sortudas
+|es=Manoplas Suerte
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Glückshandschuhe (TCG Pocket)]]
+[[es:Manoplas Suerte (TCG Pocket)]]
+[[fr:Moufles Chance (Méga-Ascension 220)]]
+[[it:Fortunguanti (Mega Ascesa 220)]]
+[[ja:ラッキーミトン]]
+[[zh:幸运手套（TCGP）]]

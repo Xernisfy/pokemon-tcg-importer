@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Minccino
+|ja name=チラーミィ
+|trans name=Chillarmy
+|species=Minccino
+|type=Colorless
+|image=MinccinoGeneticApex212.png
+|illustrator=sui
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=212/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Minccino''' (Japanese: '''チラーミィ''' ''Chillarmy'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Tail Smack
+|jname=しっぽでたたく
+|jtrans=Tail Swipe
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Minccino
+|species=Chinchilla
+|ndex=0572
+|height=1'4"
+|jheight=0.4
+|weight=12.8
+|jweight=5.8
+|dex=The way it brushes away grime with its tail can be helpful when cleaning. But its focus on spotlessness can make cleaning more of a hassle.
+|jdex=しっぽで　汚れを　払い落す｡ 掃除を　するときに　助かるが 潔癖症　なので　大変｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Black & White|Minccino|88}} from the {{TCG|Black & White}} expansion.
+*'''Tail Smack''' is an attack that first appeared on {{TCG ID|BW Promo|Snivy|6}}, one of the {{TCG|BW Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Picochilla (Unschlagbare Gene 212)]]
+[[es:Minccino (Genes Formidables TCG Pocket)]]
+[[fr:Chinchidou (Puissance Génétique 212)]]
+[[it:Minccino (Geni Supremi 212)]]
+[[ja:チラーミィ (ポケポケ A1)]]
+[[zh:泡沫栗鼠（A1）]]

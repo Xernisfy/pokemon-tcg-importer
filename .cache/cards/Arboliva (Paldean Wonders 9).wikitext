@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Arboliva
+|ja name=オリーヴァ
+|trans name=Oliva
+|species=Arboliva
+|type=Grass
+|image set={{TCG Card Infobox/Tabbed Image/Pocket
+|image=ArbolivaPaldeanWonders9.png
+|illustrator=Kouki Saitou
+|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArbolivaMegaShine116.png|illustrator=PLANETA Yamashita|tab caption=Ultra Rare}}
+|hp=130
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Dolliv
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=009/093|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=116/069|pack=Any|rarity=Crown|rarity count=1}}
+}}
+
+'''Arboliva''' (Japanese: '''オリーヴァ''' ''Oliva'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Ability/Pocket
+|type=Grass
+|name=Extra Heal
+|jname=エクストラヒール
+|jtrans=Extra Heal
+|effect=Once during your turn, you may heal 60 damage from 1 of your {{TCGP|Pokémon ex}} that has any Energy attached. If you do, discard a random Energy from that Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Seed Bomb
+|jname=タネばくだん
+|jtrans=Seed Bomb
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Arboliva
+|category=Olive
+|ndex=0930
+|height=4'7"
+|jheight=1.4
+|weight=106.3
+|jweight=48.2
+|dex=This calm Pokémon is very compassionate. It will share its delicious, nutrient-rich oil with weakened Pokémon.
+|jdex=穏やかで とても 慈悲深い。 栄養豊富な 美味しい オイルを 弱った ポケモンに 分け与える。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=ArbolivaPaldeanWonders9.png
+|caption1=Rare card<br>Illus. [[Kouki Saito]]
+|image2=ArbolivaMegaShine116.png
+|caption2=Ultra rare card<br>Illus. [[PLANETA Yamashita]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Arboliva|23}} from the {{TCG|Scarlet & Violet}} expansion.
+*{{m|Seed Bomb}} is a [[move]] in the [[Pokémon games]] that {{p|Arboliva}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Olithena (Wundervolles Paldea 009)]]
+[[fr:Arboliva (Merveilles de Paldea 009)]]
+[[it:Arboliva (Meraviglie di Paldea 9)]]
+[[ja:オリーヴァ (ポケポケ B2a)]]
+[[zh:奥利瓦（B2a）]]

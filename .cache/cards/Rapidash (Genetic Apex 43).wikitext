@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rapidash
+|ja name=ギャロップ
+|trans name=Gallop
+|species=Rapidash
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RapidashGeneticApex43.png|illustrator=Misa Tsutsui|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RapidashGeneticApex231.png|illustrator=Taira Akitsu|tab caption=Illustration Rare}}
+|hp=100
+|weakness=Water
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Ponyta
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=043/226|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=231/226|pack=Charizard|rarity=Star|rarity count=1}}
+}}
+
+'''Rapidash''' (Japanese: '''ギャロップ''' ''Gallop'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Fire Mane
+|jname=ほのおのたてがみ
+|jtrans=Flame Mane
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Rapidash
+|species=Fire Horse
+|ndex=0078
+|height=5'7"
+|jheight=1.7
+|weight=209.4
+|jweight=95.0
+|dex=This Pokémon can be seen galloping through fields at speeds of up to 150 mph, its fiery mane fluttering in the wind.
+|jdex=燃える　たてがみを　はためかせ 時速　２４０キロの　速度で 大草原を　駆けぬけるのだ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=RapidashGeneticApex43.png
+|caption1=Uncommon card<br>Illus. [[Misa Tsutsui]]
+|image2=RapidashGeneticApex231.png
+|caption2=Illustration rare card<br>Illus. [[Taira Akitsu]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Cosmic Eclipse|Rapidash|24}} from the {{TCG|Cosmic Eclipse}} expansion.
+*'''Fire Mane''' is an attack that first appeared on {{TCG ID|Gym Challenge|Blaine's Rapidash|33}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gallopa (Unschlagbare Gene 043)]]
+[[es:Rapidash (Genes Formidables TCG Pocket)]]
+[[fr:Galopa (Puissance Génétique 043)]]
+[[it:Rapidash (Geni Supremi 43)]]
+[[ja:ギャロップ (ポケポケ A1)]]
+[[zh:烈焰马（A1）]]

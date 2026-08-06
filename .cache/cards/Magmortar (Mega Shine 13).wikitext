@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Magmortar
+|ja name=ブーバーン
+|trans name=Booburn
+|species=Magmortar
+|type=Fire
+|image=MagmortarMegaShine13.png
+|illustrator=AKIRA EGAWA
+|hp=130
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Magmar
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=013/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Magmortar''' (Japanese: '''ブーバーン''' ''Booburn'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}{{e|Colorless}}
+|name=Thundering Volcano
+|jname=らいめいボルケーノ
+|jtrans=Lightning Volcano
+|damage=70
+|effect=If {{TCGP|Electivire}} is on your Bench, this attack also does 20 damage to each of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Magmortar
+|category=Blast
+|ndex=0467
+|height=5'3"
+|jheight=1.6
+|weight=149.9
+|jweight=68.0
+|dex=They dwell in volcanic craters. It’s said that only a single pair of Magmortar will inhabit any given volcano.
+|jdex=火山の　火口に　棲む｡ １つの　火山には　ひとつがいの ブーバーンしかいないと　いわれる｡
+}}
+
+==Trivia==
+This card forms part of a {{TCGP|narrative illustration|perspective illustration}} with {{TCG ID|Mega Shine|Electivire|25}} from the same set; both cards' illustrations originated from the {{TCG|Brilliant Stars}} expansion. Additionally, the name of Magmortar's Thundering Volcano attack references the connection between both Pokémon, with a secondary effect activated if the player has Electivire in play.
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Brilliant Stars|Magmortar|20}} from the {{TCG|Brilliant Stars}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Magbrant (Mega-Schillern 013)]]
+[[fr:Maganon (Méga-Rayonnement 013)]]
+[[it:Magmortar (Mega Splendore 13)]]
+[[ja:ブーバーン (ポケポケ B2b)]]
+[[zh:鸭嘴炎兽（B2b）]]

@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Poliwag
+|ja name=ニョロモ
+|trans name=Nyoromo
+|species=Poliwag
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PoliwagSecludedSprings13.png|illustrator=Yuka Morii|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PoliwagMegaRising295.png|illustrator=MAHOU|tab caption=Shiny Rare}}
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=013/071|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=295/226|pack=Mega Gyarados|rarity=Shiny|rarity count=1}}
+}}
+
+'''Poliwag''' (Japanese: '''ニョロモ''' ''Nyoromo'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Colorless}}
+|name=Call for Family
+|jname=なかまをよぶ
+|jtrans=Call Partner
+|damage=
+|effect=Put 1 random {{TCGP|Poliwag}} from your deck onto your Bench.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Poliwag
+|category=Tadpole
+|ndex=0060
+|height=2'
+|jheight=0.6
+|weight=27.3
+|jweight=12.4
+|dex=For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon's innards showing through the skin.
+|jdex=歩くよりも　泳ぐほうが　得意｡ お腹の　渦巻き模様は 透けて　見える　内臓の　一部だ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=PoliwagSecludedSprings13.png
+|caption1=Standard card<br>Illus. [[Yuka Morii]]
+|image2=PoliwagMegaRising295.png
+|caption2=Shiny rare card<br>Illus. [[MAHOU]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Secluded Springs}} illustration was first featured on {{TCG ID|Expedition|Poliwag|125}} from the {{TCG|Expedition Base Set}}.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Poliwag}}.
+*'''Call for Family''' is an attack that first appeared on {{TCG ID|Jungle|Nidoran♀|57}} and {{TCG ID|Jungle|Bellsprout|49}}, both from the {{TCG|Jungle}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Quapsel (Verborgene Quelle 013)]]
+[[es:Poliwag (Manantial Oculto TCG Pocket)]]
+[[fr:Ptitard (Source Secrète 013)]]
+[[it:Poliwag (Sorgenti Recondite 13)]]
+[[ja:ニョロモ (ポケポケ A4a)]]
+[[zh:蚊香蝌蚪（A4a）]]

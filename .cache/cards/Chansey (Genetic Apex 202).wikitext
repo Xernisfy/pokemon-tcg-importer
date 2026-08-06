@@ -1,0 +1,78 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Chansey
+|ja name=ラッキー
+|trans name=Lucky
+|species=Chansey
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ChanseyGeneticApex202.png|illustrator=MAHOU|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ChanseyPromo-A11.png|illustrator=sowsow|tab caption=Promo}}
+|hp=120
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=202/226|pack=Pikachu|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=011/P-A}}
+}}
+
+'''Chansey''' (Japanese: '''ラッキー''' ''Lucky'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Gentle Slap
+|jname=ひっぱたく
+|jtrans=Slap
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Chansey
+|species=Egg
+|ndex=0113
+|height=3'7"
+|jheight=1.1
+|weight=76.3
+|jweight=34.6
+|dex=This kindly Pokémon lays highly nutritious eggs and shares them with injured Pokémon or people.
+|jdex=傷ついた　ポケモンや　人がいると 栄養満点の　タマゴを産み 分け与える　優しい　ポケモン｡
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available via special wonder picks during the Meowth [[Wonder Pick Event (Meowth)|Wonder Pick Event]], which ran from November 1 to 15, 2024.
+
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=ChanseyGeneticApex202.png
+|caption1=Uncommon card<br>Illus. [[MAHOU]]
+|image3=ChanseyPromo-A11.png
+|caption3=Promo card<br>Illus. [[sowsow]]
+}}
+
+==Trivia==
+This card is one of several featured in the {{TCGP|Genetic Apex}} expansion's "Safari Zone" [[Genetic Apex (TCG Pocket)#Themed Collections|Themed Collection]], all of which can be found in the [[Kanto Safari Zone]] in Generations {{gen|I}} and {{gen|III}}.
+
+===Origin===
+*This card's {{TCGP|Genetic Apex}} illustration was first featured on {{TCG ID|Lost Thunder|Chansey|152}} from the {{TCG|Lost Thunder}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Hidden Fates|Chansey|46}} from the {{TCG|Hidden Fates}} expansion.
+*'''Gentle Slap''' is an attack that first appeared on {{TCG ID|EX Team Rocket Returns|Psyduck|70}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Chaneira (Unschlagbare Gene 202)]]
+[[es:Chansey (Genes Formidables TCG Pocket)]]
+[[fr:Leveinard (Puissance Génétique 202)]]
+[[it:Chansey (Geni Supremi 202)]]
+[[ja:ラッキー (ポケポケ A1)]]
+[[zh:吉利蛋（A1）]]

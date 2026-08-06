@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Raticate
+|ja name=ラッタ
+|trans name=Ratta
+|species=Raticate
+|type=Colorless
+|image=RaticateShiningRevelry59.png
+|illustrator=Kyoko Umemoto
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Rattata
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=059/072|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Raticate''' (Japanese: '''ラッタ''' ''Ratta'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Raticate
+|category=Mouse 
+|ndex=0020
+|height=2'4"
+|jheight=0.7
+|weight=40.8
+|jweight=18.5
+|dex=People say that it fled from its enemies by using its small webbed hind feet to swim from island to island in Alola.
+|jdex=後ろ足の　小さい　水かきで 海を　泳いで　島を　渡り 敵から　逃げていた　という｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX FireRed & LeafGreen|Raticate|48}} from the {{TCG|EX FireRed & LeafGreen}} expansion.
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Raticate}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rattikarl (Glänzendes Festival 059)]]
+[[es:Raticate (Festival Brillante TCG Pocket)]]
+[[fr:Rattatac (Réjouissances Rayonnantes 059)]]
+[[it:Raticate (Tripudio Splendente 59)]]
+[[ja:ラッタ (ポケポケ A2b)]]
+[[zh:拉達（A2b）]]

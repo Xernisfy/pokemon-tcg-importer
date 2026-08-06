@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gimmighoul
+|ja name=コレクレー
+|trans name=Collecurei
+|species=Gimmighoul
+|type=Psychic
+|image=GimmighoulShiningRevelry36.png
+|illustrator=HYOGONOSUKE
+|hp=60
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=036/072|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Gimmighoul''' (Japanese: '''コレクレー''' ''Collecurei'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}
+|name=Chest-ouflage
+|jname=はこにかくれる
+|jtrans=Hide in Chest
+|damage=
+|effect=Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Gimmighoul
+|category=Coin Chest 
+|ndex=0999
+|height=1'
+|jheight=0.3
+|weight=11
+|jweight=5.0
+|dex=This Pokémon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.
+|jdex=およそ1500年前 宝箱の中で 生まれた。 宝を 盗む 不埒者の 生気を 吸い取る。
+}}
+
+==Trivia==
+===Origin===
+*This card features the Chest Form of {{p|Gimmighoul}}.
+*'''Chest-ouflage''' is an attack that first appeared on {{TCG ID|Paldean Fates|Gimmighoul|44}} from the {{TCG|Paldean Fates}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gierspenst (Glänzendes Festival 036)]]
+[[es:Gimmighoul (Festival Brillante TCG Pocket)]]
+[[fr:Mordudor (Réjouissances Rayonnantes 036)]]
+[[it:Gimmighoul (Tripudio Splendente 36)]]
+[[ja:コレクレー (ポケポケ A2b)]]
+[[zh:索財靈（A2b）]]

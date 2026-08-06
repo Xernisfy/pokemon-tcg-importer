@@ -1,0 +1,93 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Zeraora
+|ja name=ゼラオラ
+|trans name=Zeraora
+|species=Zeraora
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ZeraoraExtradimensionalCrisis21.png|illustrator=kawayoo|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ZeraoraDeluxePackex150.png|illustrator=kawayoo|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ZeraoraPromo-A74.png|illustrator=GIDORA|tab caption=Promo}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ZeraoraMegaRising304.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=3|number=021/069}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=074/P-A}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=149/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=150/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=304/226|pack=Mega Altaria|rarity=Shiny|rarity count=1}}
+}}
+
+'''Zeraora''' (Japanese: '''ゼラオラ''' ''Zeraora'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Ability/Pocket
+|type=Lightning
+|name=Thunderclap Flash
+|jname=じんらいせんこう
+|jtrans=Thunderclap Flash
+|effect=At the end of your first turn, take a {{e|Lightning}} Energy from your Energy Zone and attach it to this Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Lightning Claw
+|jname=かみなりのツメ
+|jtrans=Lightning Claw
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Zeraora
+|species=Thunderclap
+|ndex=0807
+|height=4'11"
+|jheight=1.5
+|weight=98.1
+|jweight=44.5
+|dex=It electrifies its claws and tears its opponents apart with them. Even if they dodge its attack, they'll be electrocuted by the flying sparks.
+|jdex=両手足の ツメを 帯電させ 相手を 八つ裂き。 かわされても 飛び散る 電撃で 感電させる。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available from June 1 to 30, 2025 as a login reward from the monthly {{DL|Mission (TCG Pocket)|Premium Missions}}.
+
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=ZeraoraExtradimensionalCrisis21.png
+|caption1=Standard card<br>Illus. [[kawayoo]]
+|image2=ZeraoraPromo-A74.png
+|caption2=Promo card<br>Illus. [[GIDORA]]
+|image4=ZeraoraDeluxePackex150.png
+|caption4=Parallel foil card<br>Illus. [[kawayoo]]
+|image5=ZeraoraMegaRising304.png
+|caption5=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Unbroken Bonds|Zeraora|60}} from the {{TCG|Unbroken Bonds}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Zeraora}}.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zeraora (Dimensionale Krise 021)]]
+[[es:Zeraora (Crisis Dimensional TCG Pocket)]]
+[[fr:Zeraora (Crise Interdimensionnelle 021)]]
+[[it:Zeraora (Crisi Ultradimensionale 21)]]
+[[ja:ゼラオラ (ポケポケ A3a)]]
+[[zh:捷拉奥拉（A3a）]]

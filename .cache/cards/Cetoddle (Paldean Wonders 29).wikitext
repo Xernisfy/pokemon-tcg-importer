@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cetoddle
+|ja name=アルクジラ
+|trans name=Arukujira
+|species=Cetoddle
+|type=Water
+|image=CetoddlePaldeanWonders29.png
+|illustrator=Sekio
+|hp=100
+|weakness=Metal
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=029/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Cetoddle''' (Japanese: '''アルクジラ''' ''Arukujira'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Icicle Missile
+|jname=つららミサイル
+|jtrans=Icicle Missile
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Cetoddle
+|category=Terra Whale
+|ndex=0974
+|height=3'11"
+|jheight=1.2
+|weight=99.2
+|jweight=45.0
+|dex=It lives in frigid regions in pods of five or so individuals. It loves the minerals found in snow and ice.
+|jdex=寒冷地で 5匹ほどの 群れを 作って 暮らす。 雪や 氷に 含まれる ミネラルが 大好き。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Paldea Evolved|Cetoddle|53}} from the {{TCG|Paldea Evolved}} expansion.
+*'''Icicle Missile''' is an attack that first appeared on {{TCG ID|Brilliant Stars|Eiscue|44}} from the {{TCG|Brilliant Stars}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flaniwal (Wundervolles Paldea 029)]]
+[[fr:Piétacé (Merveilles de Paldea 029)]]
+[[it:Cetoddle (Meraviglie di Paldea 29)]]
+[[ja:アルクジラ (ポケポケ B2a)]]
+[[zh:走鲸（B2a）]]

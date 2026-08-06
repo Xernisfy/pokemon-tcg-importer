@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Incineroar
+|ja name=ガオガエン
+|trans name=Gaogaen
+|species=Incineroar
+|type=Fire
+|image=IncineroarEeveeGrove13.png
+|illustrator=Hitoshi Ariga
+|hp=150
+|weakness=Water
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Torracat
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=013/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Incineroar''' (Japanese: '''ガオガエン''' ''Gaogaen'') is a {{ct|Fire}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}{{e|Colorless}}
+|name=Darkest Lariat
+|jname=ＤＤラリアット
+|jtrans=DD Lariat
+|damage=100×
+|effect=Flip 2 coins. This attack does 100 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Incineroar
+|species=Heel
+|ndex=0727
+|height=5'11"
+|jheight=1.8
+|weight=183
+|jweight=83.0
+|dex=Although it's rough mannered and egotistical, it finds beating down unworthy opponents boring. It gets motivated for stronger opponents. 
+|jdex=荒っぽく わがままだが 格下を なぶることは つまらないので キライ。 格上の 相手に やる気を 出す。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Incineroar|26}} from the {{TCG|Sun & Moon}} expansion; both cards have the Darkest Lariat attack.
+*{{m|Darkest Lariat}} is a [[move]] in the [[Pokémon games]] that {{p|Incineroar}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Fuegro (Evoli-Hain 013)]]
+[[es:Incineroar (Arboleda de Eevee TCG Pocket)]]
+[[fr:Félinferno (La Clairière d'Évoli 013)]]
+[[it:Incineroar (Il Bosco di Eevee 13)]]
+[[ja:ガオガエン (ポケポケ A3b)]]
+[[zh:炽焰咆哮虎（A3b）]]

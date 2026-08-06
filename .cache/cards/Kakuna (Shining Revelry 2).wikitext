@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Kakuna
+|ja name=コクーン
+|trans name=Cocoon
+|species=Kakuna
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KakunaShiningRevelry2.png|illustrator=Yuka Morii|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KakunaDeluxePackex9.png|illustrator=Yuka Morii|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KakunaShiningRevelry98.png|illustrator=Sanosuke Sakuma|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Weedle
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=002/072|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=098/072|pack=Any|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=008/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=009/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Kakuna''' (Japanese: '''コクーン''' ''Cocoon'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=String Shot
+|jname=いとをはく
+|jtrans=Spit Thread
+|damage=20
+|effect=Flip a coin. If heads, your opponent's Active Pokémon is now {{TCG|Paralyzed}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Kakuna
+|category=Cocoon 
+|ndex=0014
+|height=2'
+|jheight=0.6
+|weight=22
+|jweight=10.0
+|dex=Almost incapable of moving, this Pokémon can only harden its shell to protect itself when it is in danger.
+|jdex=自分では　ほとんど　動けないが 危ないときは　硬くなって 身を守っているようだ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=KakunaShiningRevelry2.png
+|caption1=Standard card<br>Illus. [[Yuka Morii]]
+|image2=KakunaShiningRevelry98.png
+|caption2=Shiny rare card<br>Illus. [[Sanosuke Sakuma]]
+|image3=KakunaDeluxePackex9.png
+|caption3=Parallel foil card<br>Illus. [[Yuka Morii]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare illustration features a {{Shiny}} {{p|Kakuna}}.
+*This card's standard illustration was first featured on {{TCG ID|Team Up|Kakuna|4}} from the {{TCG|Team Up}} expansion.
+*{{m|String Shot}} is a [[move]] in the [[Pokémon games]] that {{p|Kakuna}} can learn as a {{p|Weedle}}, or via [[Move Tutor]] in [[Generation IV]].
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kokuna (Glänzendes Festival 002)]]
+[[es:Kakuna (Festival Brillante TCG Pocket)]]
+[[fr:Coconfort (Réjouissances Rayonnantes 002)]]
+[[it:Kakuna (Tripudio Splendente 2)]]
+[[ja:コクーン (ポケポケ A2b)]]
+[[zh:鐵殼蛹（A2b）]]

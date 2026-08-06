@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ledian
+|ja name=レディアン
+|trans name=Redian
+|species=Ledian
+|type=Grass
+|image=LedianWisdomofSeaandSky12.png
+|illustrator=Hitoshi Ariga
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Ledyba
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=012/161|pack=Lugia|rarity=Diamond|rarity count=1}}
+}}
+
+'''Ledian''' (Japanese: '''レディアン''' ''Redian'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Punch
+|jname=パンチ
+|jtrans=Punch
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Ledian
+|species=Five Star
+|ndex=0166
+|height=4'7"
+|jheight=1.4
+|weight=78.5
+|jweight=35.6
+|dex=It's said that the patterns on its back are related to the stars in the night sky, but the details of that relationship remain unclear. 
+|jdex=背中の 模様は 夜空の 星と 関係 していると 言われているが 詳しいことは まだ 不明のまま。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|XY|Ledian|7}} from the {{TCG|XY}} expansion.
+*'''Punch''' is an attack that first appeared on {{TCG ID|Team Rocket|Machop|59}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ledian (Weisheit von Meer und Himmel 012)]]
+[[es:Ledian (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Coxyclaque (Sagesse entre Ciel et Mer 012)]]
+[[it:Ledian (La Via del Cielo e del Mare 12)]]
+[[ja:レディアン (ポケポケ A4)]]
+[[zh:安瓢虫（A4）]]

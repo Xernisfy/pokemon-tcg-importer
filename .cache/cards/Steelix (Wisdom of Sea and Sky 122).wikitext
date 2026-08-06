@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Steelix
+|ja name=ハガネール
+|trans name=Haganeil
+|species=Steelix
+|type=Metal
+|image=SteelixWisdomofSeaandSky122.png
+|illustrator=KEIICHIRO ITO
+|hp=150
+|weakness=Fire
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Onix
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=122/161|pack=Ho-Oh|rarity=Diamond|rarity count=3}}
+}}
+
+'''Steelix''' (Japanese: '''ハガネール''' ''Haganeil'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Heavy Impact
+|jname=ヘビーインパクト
+|jtrans=Heavy Impact
+|damage=110
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Steelix
+|category=Iron Snake 
+|ndex=0208
+|height=32"
+|jheight=9.2
+|weight=881.8
+|jweight=400.0
+|dex=It is said that if an Onix lives for over 100 years, its composition changes to become diamond-like.
+|jdex=イワークが 100年 以上 生きると 体の 成分が ダイヤのように 変化する という。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Steelix|139}} from the {{TCG|Cosmic Eclipse}} expansion.
+*'''Heavy Impact''' is an attack that first appeared on {{TCG ID|EX Team Rocket Returns|Dark Steelix|10}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Stahlos (Weisheit von Meer und Himmel 122)]]
+[[es:Steelix (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Steelix (Sagesse entre Ciel et Mer 122)]]
+[[it:Steelix (La Via del Cielo e del Mare 122)]]
+[[ja:ハガネール (ポケポケ A4)]]
+[[zh:大钢蛇（A4）]]

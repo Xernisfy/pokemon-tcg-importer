@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Zapdos
+|ja name=サンダー
+|trans name=Thunder
+|species=Zapdos
+|type=Lightning
+|image=ZapdosFantasticalParade51.png
+|illustrator=Ken Sugimori
+|hp=100
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=051/155|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Zapdos''' (Japanese: '''サンダー''' ''Thunder'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}{{e|Lightning}}
+|name=Heavy Thunder
+|jname=ビッグサンダー
+|jtrans=Big Thunder
+|damage=
+|effect=1 other Pokémon ''(either yours or your opponent's)'' is chosen at random 1 time. Do 100 damage to the chosen Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Zapdos
+|species=Electric
+|ndex=0145
+|height=5'3"
+|jheight=1.6
+|weight=116
+|jweight=52.6
+|dex=Zapdos is a legendary bird Pokémon. It's said that when Zapdos rubs its feathers together, lightning will fall immediately after.
+|jdex=羽根を こすり合わせると たちまち 雷が 落ちると 言われている 伝説の 鳥ポケモン。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Promotional Card|Zapdos|P10}} from the {{vg|Pokémon Trading Card Game}} for the [[Game Boy Color]].
+*'''Heavy Thunder''' is an attack that first appeared on {{TCG ID|Promotional Card|Zapdos|P10}} from the {{vg|Pokémon Trading Card Game}} for the [[Game Boy Color]] as '''Big Thunder'''.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zapdos (Traumhafte Parade 051)]]
+[[fr:Électhor (Parade Onirique 051)]]
+[[it:Zapdos (Parata Fantasmagorica 51)]]
+[[ja:サンダー (ポケポケ B2)]]
+[[zh:闪电鸟（B2）]]

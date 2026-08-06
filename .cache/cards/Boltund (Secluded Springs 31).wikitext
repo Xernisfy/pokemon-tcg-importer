@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Boltund
+|ja name=パルスワン
+|trans name=Pulsewan
+|species=Boltund
+|type=Lightning
+|image=BoltundSecludedSprings31.png
+|illustrator=Tomomi Ozaki
+|hp=120
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Yamper
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=031/071|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Boltund''' (Japanese: '''パルスワン''' ''Pulsewan'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}{{e|Colorless}}
+|name=Defiant Spark
+|jname=まけんきスパーク
+|jtrans=Competitive Spirit Spark
+|damage=70
+|effect=If this Pokemon has any damage on it, this attack can be used for 1 {{e|Lightning}} Energy.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Boltund
+|category=Dog
+|ndex=0836
+|height=3'3"
+|jheight=1.0
+|weight=75
+|jweight=34.0
+|dex=This Pokémon generates electricity and channels it into its legs to keep them going strong. Boltund can run nonstop for three full days.
+|jdex=電気を つくって 脚に 送り 走りを アシスト。 三日三晩 休まず 走れるのだ。
+}}
+
+==Trivia==
+===Origin===
+*'''Defiant Spark''' is an attack that first appeared on {{TCG ID|Battle Styles|Boltund|53}} from the {{TCG|Battle Styles}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bellektro (Verborgene Quelle 031)]]
+[[es:Boltund (Manantial Oculto TCG Pocket)]]
+[[fr:Fulgudog (Source Secrète 031)]]
+[[it:Boltund (Sorgenti Recondite 31)]]
+[[ja:パルスワン (ポケポケ A4a)]]
+[[zh:逐电犬（A4a）]]

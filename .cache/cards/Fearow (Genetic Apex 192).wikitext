@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Fearow
+|ja name=オニドリル
+|trans name=Onidrill
+|species=Fearow
+|type=Colorless
+|image=FearowGeneticApex192.png
+|illustrator=Satoshi Shirai
+|hp=100
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Spearow
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=192/226|pack=Charizard|rarity=Diamond|rarity count=1}}
+}}
+
+'''Fearow''' (Japanese: '''オニドリル''' ''Onidrill'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Drill Run
+|jname=ドリルライナー
+|jtrans=Drill Liner
+|damage=50
+|effect=Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Fearow
+|species=Beak
+|ndex=0022
+|height=3'11"
+|jheight=1.2
+|weight=83.8
+|jweight=38.0
+|dex=Carrying food through Fearow's territory is dangerous. It will snatch the food away from you in a flash!
+|jdex=オニドリルの　縄張りで　食べ物を 持って　歩くのは　危険だ｡ あっという　間に　かっさらわれるぞ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Roaring Skies|Fearow|66}} from the {{TCG|Roaring Skies}} expansion.
+**Both cards have the {{m|Drill Run}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Fearow}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ibitak (Unschlagbare Gene 192)]]
+[[es:Fearow (Genes Formidables TCG Pocket)]]
+[[fr:Rapasdepic (Puissance Génétique 192)]]
+[[it:Fearow (Geni Supremi 192)]]
+[[ja:オニドリル (ポケポケ A1)]]
+[[zh:大嘴雀（A1）]]

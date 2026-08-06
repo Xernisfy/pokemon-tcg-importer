@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Staryu
+|ja name=ヒトデマン
+|trans name=Hitodeman
+|species=Staryu
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=StaryuGeneticApex74.png|illustrator=Hiroki Asanuma|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=StaryuDeluxePackex94.png|illustrator=Hiroki Asanuma|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=StaryuCelestialGuardians218.png|illustrator=MAHOU|tab caption=Shiny Rare}}
+|hp=50
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=074/226|pack=Charizard|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=218/155|pack=Solgaleo|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=093/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=094/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Staryu''' (Japanese: '''ヒトデマン''' ''Hitodeman'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Smack
+|jname=ひらてうち
+|jtrans=Smack
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Staryu
+|species=Star Shape
+|ndex=0120
+|height=2'7"
+|jheight=0.8
+|weight=76.1
+|jweight=34.5
+|dex=If you visit a beach at the end of summer, you'll be able to see groups of Staryu lighting up in a steady rhythm.
+|jdex=夏の終わりの　浜辺に　行くと 規則的な　リズムで　光る ヒトデマンの　群れが　見られるよ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=StaryuGeneticApex74.png
+|caption1=Standard card<br>Illus. [[Hiroki Asanuma]]
+|image2=StaryuCelestialGuardians218.png
+|caption2=Shiny rare card<br>Illus. [[MAHOU]]
+|image3=StaryuDeluxePackex94.png
+|caption3=Parallel foil card<br>Illus. [[Hiroki Asanuma]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|BREAKpoint|Staryu|25}} from the {{TCG|BREAKpoint}} expansion.
+**Both cards have the '''Smack''' attack, which first appeared on {{TCG ID|EX Dragon Frontiers|Kirlia δ|33|Kirlia}} from the {{TCG|EX Dragon Frontiers}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Staryu}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sterndu (Unschlagbare Gene 074)]]
+[[es:Staryu (Genes Formidables TCG Pocket)]]
+[[fr:Stari (Puissance Génétique 074)]]
+[[it:Staryu (Geni Supremi 74)]]
+[[ja:ヒトデマン (ポケポケ A1)]]
+[[zh:海星星（A1）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Grotle
+|ja name=ハヤシガメ
+|trans name=Hayashigame
+|species=Grotle
+|type=Grass
+|image=GrotleSpace-TimeSmackdown11.png
+|illustrator=Sumiyoshi Kizuki
+|hp=100
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Turtwig
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=011/155|pack=Palkia|rarity=Diamond|rarity count=2}}
+}}
+
+'''Grotle''' (Japanese: '''ハヤシガメ''' ''Hayashigame'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=Razor Leaf
+|jname=はっぱカッター
+|jtrans=Leaf Cutter
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Grotle
+|species=Grove
+|ndex=0388
+|height=3'7"
+|jheight=1.1
+|weight=213.8
+|jweight=97.0
+|dex=It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell.
+|jdex=森の 中の 水辺で 暮らす。昼間は 森の 外に 出て 甲羅の 木に 光を 当てる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Plasma Storm|Grotle|2}} from the {{TCG|Plasma Storm}} expansion.
+*{{m|Razor Leaf}} is a [[move]] in the [[Pokémon games]] that {{p|Grotle}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Omega Ruby}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Chelcarain (Kollision von Raum und Zeit 011)]]
+[[es:Grotle (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Boskara (Choc Spatio-Temporel 011)]]
+[[it:Grotle (Scontro Spaziotemporale 11)]]
+[[ja:ハヤシガメ (ポケポケ A2)]]
+[[zh:树林龟（A2）]]

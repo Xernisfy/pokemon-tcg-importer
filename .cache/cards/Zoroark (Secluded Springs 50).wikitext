@@ -1,0 +1,83 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Zoroark
+|ja name=ゾロアーク
+|trans name=Zoroark
+|species=Zoroark
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ZoroarkSecludedSprings50.png|illustrator=Shin Nagasawa|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ZoroarkPromo-A106.png|illustrator=matazo|tab caption=Promo}}
+|hp=100
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Zorua
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=3|number=050/071}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=106/P-A}}
+}}
+
+'''Zoroark''' (Japanese: '''ゾロアーク''' ''Zoroark'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Ability/Pocket
+|type=Darkness
+|name=Illusive Trickery
+|jname=げんえいトリック
+|jtrans=Phantom Trick
+|effect=If your opponent's Pokémon is Knocked Out by damage from one of this Pokémon's attacks, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=Night Daze
+|jname=ナイトバースト
+|jtrans=Night Burst
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Zoroark
+|category=Illusion Fox
+|ndex=0571
+|height=5'3"
+|jheight=1.6
+|weight=178.8
+|jweight=81.1
+|dex=Stories say those who tried to catch Zoroark were trapped in an illusion and punished.
+|jdex=ゾロアークを 捕らえようとした 人を 幻の 景色の中に 閉じこめ こらしめた といわれる。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 12 packs; these were made available as part of the [[Zoroark Drop Event]], which ran from September 3 to 13, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=ZoroarkSecludedSprings50.png
+|caption1=Rare card<br>Illus. [[Shin Nagasawa]]
+|image2=ZoroarkPromo-A106.png
+|caption2=Promo card<br>Illus. [[matazo]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration from the {{TCGP|Secluded Springs}} expansion was first featured on {{TCG ID|Emerging Powers|Zoroark|67}} from the {{TCG|Emerging Powers}} expansion.
+*{{m|Night Daze}} is a [[move]] in the [[Pokémon games]] that {{p|Zoroark}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zoroark (Verborgene Quelle 050)]]
+[[es:Zoroark (Manantial Oculto TCG Pocket)]]
+[[fr:Zoroark (Source Secrète 050)]]
+[[it:Zoroark (Sorgenti Recondite 50)]]
+[[ja:ゾロアーク (ポケポケ A4a)]]
+[[zh:索罗亚克（A4a）]]

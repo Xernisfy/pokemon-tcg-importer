@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alakazam
+|ja name=フーディン
+|trans name=Foodin
+|species=Alakazam
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlakazamGeneticApex117.png|illustrator=Kouki Saitou|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AlakazamGeneticApex236.png|illustrator=AKIRA EGAWA|tab caption=Illustration Rare}}
+|hp=130
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Kadabra
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=117/226|pack=Charizard|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=236/226|pack=Charizard|rarity=Star|rarity count=1}}
+}}
+
+'''Alakazam''' (Japanese: '''フーディン''' ''Foodin'') is a {{ct|Psychic}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}{{e|Colorless}}
+|name=Psychic
+|jname=サイコキネシス
+|jtrans=Psychokinesis
+|damage=60+
+|effect=This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Alakazam
+|species=Psi
+|ndex=0065
+|height=4'11"
+|jheight=1.5
+|weight=105.8
+|jweight=48.0
+|dex=It has an incredibly high level of intelligence. Some say that Alakazam remembers everything that ever happens to it, from birth till death.
+|jdex=非常に　高い　知能を　持つ｡ 生まれてから　死ぬまでの　できごとを すべて　覚えている　という｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=AlakazamGeneticApex117.png
+|caption1=Rare card<br>Illus. [[Kouki Saitou]]
+|image2=AlakazamGeneticApex236.png
+|caption2=Illustration rare card<br>Illus. [[AKIRA EGAWA]]
+}}
+
+==Trivia==
+The illustration rare print of this card portrays the same scene as the special illustration rare print of {{TCG ID|Genetic Apex|Machamp ex|278}} from the same set, but from a different angle.
+
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Mysterious Treasures|Alakazam|2}} from the {{TCG|Mysterious Treasures}} expansion.
+*{{m|Psychic}} is a [[move]] in the [[Pokémon games]] that {{p|Alakazam}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Simsala (Unschlagbare Gene 117)]]
+[[es:Alakazam (Genes Formidables TCG Pocket)]]
+[[fr:Alakazam (Puissance Génétique 117)]]
+[[it:Alakazam (Geni Supremi 117)]]
+[[ja:フーディン (ポケポケ A1)]]
+[[zh:胡地（A1）]]

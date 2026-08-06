@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bewear
+|ja name=キテルグマ
+|trans name=Kiteruguma
+|species=Bewear
+|type=Fighting
+|image=BewearMegaRising142.png
+|illustrator=Shin Nagasawa
+|hp=130
+|weakness=Psychic
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Stufful
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=142/226|pack=Mega Blaziken|rarity=Diamond|rarity count=2}}
+}}
+
+'''Bewear''' (Japanese: '''キテルグマ''' ''Kiteruguma'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Fighting}}
+|name=Heavy Impact
+|jname=ヘビーインパクト
+|jtrans=Heavy Impact
+|damage=90
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Bewear
+|category=Strong Arm
+|ndex=0760
+|height=6'11"
+|jheight=2.1
+|weight=297.6
+|jweight=135.0
+|dex=The moves it uses to take down its prey would make a martial artist jealous. It tucks subdued prey under its arms to carry them to its nest.
+|jdex=格闘家 顔負けの 技で 仕留めた 獲物を 両脇に 抱えて すみかへ 持ち帰る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Guardians Rising|Bewear|113}} from the {{TCG|Guardians Rising}} expansion.
+* '''Heavy Impact''' is an attack that first appeared on {{TCG ID|EX Team Rocket Returns|Dark Steelix|10}} from the {{TCG|EX Team Rocket Returns}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kosturso (Mega-Aufstieg 142)]]
+[[es:Bewear (Megaascenso TCG Pocket)]]
+[[fr:Chelours (Méga-Ascension 142)]]
+[[it:Bewear (Mega Ascesa 142)]]
+[[ja:キテルグマ (ポケポケ B1)]]
+[[zh:穿着熊（B1）]]

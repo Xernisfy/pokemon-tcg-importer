@@ -1,0 +1,63 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lumineon
+|ja name=ネオラント
+|trans name=Neolant
+|species=Lumineon
+|type=Water
+|image=LumineonSpace-TimeSmackdown43.png
+|illustrator=rika
+|illustrator link=rika (illustrator)
+|hp=90
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Finneon
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=043/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Lumineon''' (Japanese: '''ネオラント''' ''Neolant'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Waterfall
+|jname=たきのぼり
+|jtrans=Waterfall Climb
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Lumineon
+|species=Neon
+|ndex=0457
+|height=3'11"
+|jheight=1.2
+|weight=52.9
+|jweight=24.0
+|dex=With its shining light, it lures its prey close. However, the light also happens to attract ferocious fish Pokémon—its natural predators.
+|jdex=光で 獲物を おびき寄せるが 天敵である 獰猛な 魚ポケモンまで 寄ってくるのだ。
+}}
+
+==Trivia==
+This card is one of several featured in the {{TCGP|Space-Time Smackdown}} expansion's "Manaphy Travelogue" [[Space-Time Smackdown (TCG Pocket)#Themed Collections|Themed Collection]], all of which feature {{p|Manaphy}} in their standard prints' artwork. A {{p|Lumineon}} is also featured in the illustration rare print of {{TCG ID|Space-Time Smackdown|Manaphy|162}} from the same expansion.
+
+===Origin===
+*{{m|Waterfall}} is a [[move]] in the [[Pokémon games]] that {{p|Lumineon}} can learn via [[TM]].
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lumineon (Kollision von Raum und Zeit 043)]]
+[[es:Lumineon (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Luminéon (Choc Spatio-Temporel 043)]]
+[[it:Lumineon (Scontro Spaziotemporale 43)]]
+[[ja:ネオラント (ポケポケ A2)]]
+[[zh:霓虹鱼（A2）]]

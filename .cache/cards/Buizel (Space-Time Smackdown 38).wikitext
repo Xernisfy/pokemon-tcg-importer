@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Buizel
+|ja name=ブイゼル
+|trans name=Buoysel
+|species=Buizel
+|type=Water
+|image=BuizelSpace-TimeSmackdown38.png
+|illustrator=OKUBO
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=038/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Buizel''' (Japanese: '''ブイゼル''' ''Buoysel'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Water Gun
+|jname=みずでっぽう
+|jtrans=Water Gun
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Buizel
+|species=Sea Weasel
+|ndex=0418
+|height=2'4"
+|jheight=0.7
+|weight=65
+|jweight=29.5
+|dex=It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.
+|jdex=尻尾を スクリューのように まわし 水中を 泳ぐだけでなく まとわりつく 海草も 切れる。
+}}
+
+==Trivia==
+This card is one of several featured in the {{TCGP|Space-Time Smackdown}} expansion's "Manaphy Travelogue" [[Space-Time Smackdown (TCG Pocket)#Themed Collections|Themed Collection]], all of which feature {{p|Manaphy}} in their standard prints' artwork. A {{p|Buizel}} is also featured in the illustration rare print of {{TCG ID|Space-Time Smackdown|Manaphy|162}} from the same expansion.
+
+===Origin===
+*{{m|Water Gun}} is a [[move]] in the [[Pokémon games]] that {{p|Buizel}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bamelin (Kollision von Raum und Zeit 038)]]
+[[es:Buizel (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Mustébouée (Choc Spatio-Temporel 038)]]
+[[it:Buizel (Scontro Spaziotemporale 38)]]
+[[ja:ブイゼル (ポケポケ A2)]]
+[[zh:泳圈鼬（A2）]]

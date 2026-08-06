@@ -1,0 +1,68 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dusknoir
+|ja name=ヨノワール
+|trans name=Yonoir
+|species=Dusknoir
+|type=Psychic
+|image=DusknoirSpace-TimeSmackdown72.png
+|illustrator=Suwama Chiaki
+|hp=130
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Dusclops
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=072/155|pack=Dialga|rarity=Diamond|rarity count=3}}
+}}
+
+'''Dusknoir''' (Japanese: '''ヨノワール''' ''Yonoir'') is a {{ct|Psychic}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Ability/Pocket
+|type=Psychic
+|name=Shadow Void
+|jname=シャドーホール
+|jtrans=Shadow Hole
+|effect=As often as you like during your turn, you may choose 1 of your Pokémon that has damage on it, and move all of its damage to this Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}{{e|Colorless}}
+|name=Devour Soul
+|jname=ソウルイート
+|jtrans=Soul Eat
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Dusknoir
+|species=Gripper
+|ndex=0477
+|height=7'3"
+|jheight=2.2
+|weight=235
+|jweight=106.6
+|dex=At the bidding of transmissions from the spirit world, it steals people and Pokémon away. No one knows whether it has a will of its own.
+|jdex=意思が あるのか わかっていない。 霊界からの 電波に 従い 人や ポケモンを 連れ去るのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Flashfire|Dusknoir|40}} from the {{TCG|Flashfire}} expansion, as was its '''Shadow Void''' {{TCG|Ability}}.
+*'''Devour Soul''' is an attack that first appeared on {{TCG ID|Brilliant Stars|Dusknoir|62}} from the {{TCG|Brilliant Stars}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zwirrfinst (Kollision von Raum und Zeit 072)]]
+[[es:Dusknoir (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Noctunoir (Choc Spatio-Temporel 072)]]
+[[it:Dusknoir (Scontro Spaziotemporale 72)]]
+[[ja:ヨノワール (ポケポケ A2)]]
+[[zh:黑夜魔灵（A2）]]

@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Electrical Cord
+|ja name=エレキコード
+|trans name=Electric Cord
+|subtype=Pokémon Tool
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ElectricalCordExtradimensionalCrisis65.png|illustrator=Toyste Beach|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ElectricalCordDeluxePackex319.png|illustrator=Toyste Beach|tab caption=Parallel}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=065/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=318/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=319/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Electrical Cord''' (Japanese: '''エレキコード''' ''Electric Cord'') is a {{TCGP|Pokémon Tool}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Tool
+|rule=Pocket Tool
+|effect=If the {{e|Lightning}} Pokémon this card is attached to is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move 2 {{e|Lightning}} Energy from that Pokémon and attach 1 Energy each to 2 of your Benched Pokémon.
+}}
+
+==Release Information==
+===Gallery===
+{{TCGGallery
+|type=Pokémon Tool
+|image1=ElectricalCordExtradimensionalCrisis65.png
+|caption1=Standard card<br>Illus. [[Toyste Beach]]
+|image2=ElectricalCordDeluxePackex319.png
+|caption2=Parallel foil card<br>Illus. [[Toyste Beach]]
+}}
+
+==Trivia==
+===Origin===
+
+==In other languages==
+{{langtable|color={{TCG Pokémon Tool color}}|bordercolor={{TCG Pokémon Tool color dark}}|textcolor=FFF
+|ja=エレキコード ''Ereki Cord''
+|zh_yue=電線 ''Dihnsin''
+|zh_cmn=電線 ''Diànxiàn''
+|fr=Câble Électrique
+|de=Elektrokabel
+|it=Prolunga
+|ko=일렉트릭코드 ''Electric Cord''
+|pt_br=Fio Elétrico
+|es=Cable Eléctrico
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Elektrokabel (TCG Pocket)]]
+[[es:Cable Eléctrico (TCG Pocket)]]
+[[fr:Câble Électrique (Crise Interdimensionnelle 065)]]
+[[it:Prolunga (Crisi Ultradimensionale 65)]]
+[[ja:エレキコード]]
+[[zh:电线（TCGP）]]

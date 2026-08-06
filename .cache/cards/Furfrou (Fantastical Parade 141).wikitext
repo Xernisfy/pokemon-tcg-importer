@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Furfrou
+|ja name=トリミアン
+|trans name=Trimmien
+|species=Furfrou
+|type=Colorless
+|image=FurfrouFantasticalParade141.png
+|illustrator=Kariya
+|hp=80
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=141/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Furfrou''' (Japanese: '''トリミアン''' ''Trimmien'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Fur Coat
+|jname=ファーコート
+|jtrans=Fur Coat
+|effect=This Pokémon takes –20 damage from attacks.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Hammer In
+|jname=ぶちかます
+|jtrans=Headfirst Strike
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Furfrou
+|species=Poodle
+|ndex=0676
+|height=3'11"
+|jheight=1.2
+|weight=61.7
+|jweight=28.0
+|dex=Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.
+|jdex=放っておくと 体毛は どんどん 伸び続けるが 信頼した 者にしか カットは 許さない。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration features the Matron Trim of {{p|Furfrou}}.
+*{{a|Fur Coat}} is an [[Ability]] in the [[Pokémon games]] that {{p|Furfrou}} can have.
+*'''Hammer In''' is an attack that first appeared on {{TCG ID|Mysterious Treasures|Larvitar|87}} from the {{TCG|Mysterious Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Coiffwaff (Traumhafte Parade 141)]]
+[[fr:Couafarel (Parade Onirique 141)]]
+[[it:Furfrou (Parata Fantasmagorica 141)]]
+[[ja:トリミアン (ポケポケ B2)]]
+[[zh:多丽米亚（B2）]]

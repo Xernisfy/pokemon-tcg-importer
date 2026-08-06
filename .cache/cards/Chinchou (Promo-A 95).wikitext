@@ -1,0 +1,63 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Chinchou
+|ja name=チョンチー
+|trans name=Chonchie
+|species=Chinchou
+|type=Lightning
+|image=ChinchouPromo-A95.png
+|illustrator=Aya Kusube
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=095/P-A|pack=Vol. 11}}
+}}
+
+'''Chinchou''' (Japanese: '''チョンチー''' ''Chonchie'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Luring Glow
+|jname=さそうひかり
+|jtrans=Luring Light
+|damage=
+|effect=Flip a coin. If heads, switch in 1 of your opponent’s Benched Pokémon to the Active Spot.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Chinchou
+|category=Angler
+|ndex=0170
+|height=1'8"
+|jheight=0.5
+|weight=26.5
+|jweight=12.0
+|dex=Its antennae, which evolved from a fin, have both positive and negative charges flowing through them.
+|jdex=ひれが 変化して できた 触手は それぞれが プラスと マイナスの 電気が 流れている。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 11 packs; these were made available as part of the [[Blissey ex Drop Event]], which ran from August 6 to 16, 2025.
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|EX Hidden Legends|Chinchou|56}} from the {{TCG|EX Hidden Legends}} expansion.
+*'''Luring Glow''' is an attack that first appeared on {{TCG ID|XY|Volbeat|8}} from {{TCG|XY}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lampi (PROMO-A 095)]]
+[[es:Chinchou (Promo-A 95 TCG Pocket)]]
+[[fr:Loupio (Promo-A 095)]]
+[[it:Chinchou (Promo-A 95)]]
+[[ja:チョンチー (ポケポケ P-A)]]
+[[zh:燈籠魚（P-A）]]

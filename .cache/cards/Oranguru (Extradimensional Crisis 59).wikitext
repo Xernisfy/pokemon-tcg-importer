@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Oranguru
+|ja name=ヤレユータン
+|trans name=Yareyuutan
+|species=Oranguru
+|type=Colorless
+|image=OranguruExtradimensionalCrisis59.png
+|illustrator=Kouki Saitou
+|hp=100
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=059/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Oranguru''' (Japanese: '''ヤレユータン''' ''Yareyuutan'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Hammer In
+|jname=ぶちかます
+|jtrans=Headfirst Strike
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Oranguru
+|category=Sage 
+|ndex=0765
+|height=4'11"
+|jheight=1.5
+|weight=167.6
+|jweight=76.0
+|dex=It normally spends its time meditating in the treetops. It throws Poké Balls and gives other Pokémon orders as it pleases.
+|jdex=普段は 木の上で 瞑想して 過ごす。 勝手にモンスターボールを 投げて ポケモンに 命令する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ultra Prism|Oranguru|114}} from the {{TCG|Ultra Prism}} expansion.
+*'''Hammer In''' is an attack that first appeared on {{TCG ID|Mysterious Treasures|Larvitar|87}} from the {{TCG|Mysterious Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kommandutan (Dimensionale Krise 059)]]
+[[es:Oranguru (Crisis Dimensional TCG Pocket)]]
+[[fr:Gouroutan (Crise Interdimensionnelle 059)]]
+[[it:Oranguru (Crisi Ultradimensionale 59)]]
+[[ja:ヤレユータン (ポケポケ A3a)]]
+[[zh:智挥猩（A3a）]]

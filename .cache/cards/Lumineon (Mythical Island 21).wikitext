@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lumineon
+|ja name=ネオラント
+|trans name=Neolant
+|species=Lumineon
+|type=Water
+|image=LumineonMythicalIsland21.png
+|illustrator=Sekio
+|hp=80
+|weakness=Lightning
+|retreat cost=0
+|evo stage=Stage 1
+|prevo name=Finneon
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=021/068|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Lumineon''' (Japanese: '''ネオラント''' ''Neolant'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Aqua Liner
+|jname=アクアライナー
+|jtrans=Aqua Liner
+|damage=
+|effect=This attack does 50 damage to 1 of your opponent's Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Lumineon
+|species=Neon
+|ndex=0457
+|height=3'11"
+|jheight=1.2
+|weight=52.9
+|jweight=24.0
+|dex=With its shining light, it lures its prey close. However, the light also happens to attract ferocious fish Pokémon—its natural predators.
+|jdex=光で 獲物を おびき寄せるが 天敵である 獰猛な 魚ポケモンまで 寄ってくるのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Lumineon|40}} from the {{TCG|Unified Minds}} expansion.
+*'''Aqua Liner''' is an attack that first appeared on {{TCG ID|Mysterious Treasures|Octillery|57}} from the {{TCG|Mysterious Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lumineon (Mysteriöse Insel 021)]]
+[[es:Lumineon (La Isla Singular TCG Pocket)]]
+[[fr:Luminéon (L'Île Fabuleuse 021)]]
+[[it:Lumineon (L'Isola Misteriosa 21)]]
+[[ja:ネオラント (ポケポケ A1a)]]
+[[zh:霓虹鱼（A1a）]]

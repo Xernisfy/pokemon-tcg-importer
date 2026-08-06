@@ -1,0 +1,63 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Petilil
+|ja name=チュリネ
+|trans name=Churine
+|species=Petilil
+|type=Grass
+|image=PetililPromo-B2.png
+|illustrator=Yukiko Baba
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=002/P-B|pack=Vol. 1}}
+}}
+
+'''Petilil''' (Japanese: '''チュリネ''' ''Churine'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-B}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Surprise Attack
+|jname=ふいをつく
+|jtrans=Surprise Attack
+|damage=30
+|effect=Flip a coin. If tails, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Petilil
+|category=Bulb
+|ndex=0548
+|height=1'8"
+|jheight=0.5
+|weight=14.6
+|jweight=6.6
+|dex=If the leaves on its head are pruned with regularity, this Pokémon can be grown into a fine plump shape.
+|jdex=たまに 葉っぱを トリミングすると 丸々とした 立派な 姿に 育っていくのだ。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-B Vol. 1 packs; these were made available as part of the [[Mega Pidgeot ex Drop Event]], which ran from November 18 to 28, 2025.
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Astral Radiance|Petilil|15}} from the {{TCG|Astral Radiance}} expansion.
+*'''Surprise Attack''' is an attack that first appeared on {{TCG ID|Gym Challenge|Brock's Diglett|67}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lilminip (PROMO-B 002)]]
+[[es:Petilil (Promo-B 2 TCG Pocket)]]
+[[fr:Chlorobule (Promo-B 002)]]
+[[it:Petilil (Promo-B 2)]]
+[[ja:チュリネ (ポケポケ P-B)]]
+[[zh:百合根娃娃（P-B）]]

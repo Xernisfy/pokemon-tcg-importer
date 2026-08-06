@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cherrim
+|ja name=チェリム
+|trans name=Cherrim
+|species=Cherrim
+|type=Grass
+|image=CherrimTriumphantLight7.png
+|illustrator=Midori Harada
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Cherubi
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=007/075|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Cherrim''' (Japanese: '''チェリム''' ''Cherrim'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Worry Seed
+|jname=なやみのタネ
+|jtrans=Worry Seed
+|damage=40
+|effect=Your opponent's Active Pokémon is now {{TCG|Confused}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Cherrim
+|species=Blossom
+|ndex=0421
+|height=1'8"
+|jheight=0.5
+|weight=20.5
+|jweight=9.3
+|dex=As a bud, it barely moves. It sits still, placidly waiting for sunlight to appear.
+|jdex=つぼみの あいだは おとなしく ほぼ 動かない。 日の光が 出るのを じっと 待っている。
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Cherrim}} in its {{form|Cherrim|Overcast Form}}.
+*This card's illustration was first featured on {{TCG ID|Arceus|Cherrim|15}} from the {{TCG|Platinum: Arceus}} expansion; both cards have the Worry Seed attack.
+*{{m|Worry Seed}} is a [[move]] in the [[Pokémon games]] that {{p|Cherrim}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kinoso (Licht des Triumphs 007)]]
+[[es:Cherrim (Luz Triunfal 7 TCG Pocket)]]
+[[fr:Ceriflor (Lumière Triomphale 007)]]
+[[it:Cherrim (Luce Trionfale 7)]]
+[[ja:チェリム (ポケポケ A2a 007)]]
+[[zh:櫻花兒（A2a 007）]]

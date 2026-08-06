@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bisharp
+|ja name=キリキザン
+|trans name=Kirikizan
+|species=Bisharp
+|type=Metal
+|image=BisharpGeneticApex180.png
+|illustrator=Anesaki Dynamic
+|hp=90
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Pawniard
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=180/226|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Bisharp''' (Japanese: '''キリキザン''' ''Kirikizan'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}
+|name=Metal Claw
+|jname=メタルクロー
+|jtrans=Metal Claw
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Bisharp
+|species=Sword Blade
+|ndex=0625
+|height=5'3"
+|jheight=1.6
+|weight=154.3
+|jweight=70.0
+|dex=This Pokémon commands a group of several Pawniard. Groups that are defeated in territorial disputes are absorbed by the winning side.
+|jdex=コマタナを　率いて　群れを　成す｡ 縄張りを　賭けて　争い　負けた 群れは　吸収されていくのだ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Bisharp|105}} from the {{TCG|Team Up}} expansion.
+*{{m|Metal Claw}} is a [[move]] in the [[Pokémon games]] that {{p|Bisharp}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Caesurio (Unschlagbare Gene 180)]]
+[[es:Bisharp (Genes Formidables TCG Pocket)]]
+[[fr:Scalproie (Puissance Génétique 180)]]
+[[it:Bisharp (Geni Supremi 180)]]
+[[ja:キリキザン (ポケポケ A1)]]
+[[zh:劈斩司令（A1）]]

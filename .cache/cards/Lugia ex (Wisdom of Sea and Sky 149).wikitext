@@ -1,0 +1,101 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lugia {{TCGP Icon|ex}}
+|ja name=ルギア{{TCGP Icon|ex}}
+|trans name=Lugia {{TCGP Icon|ex}}
+|species=Lugia
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LugiaexWisdomofSeaandSky149.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LugiaexWisdomofSeaandSky195.png|illustrator=PLANETA CG Works|tab caption=Super Rare (A4)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LugiaexDeluxePackex371.png|illustrator=5ban Graphics|tab caption=Super Rare (A4b)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LugiaexWisdomofSeaandSky211.png|illustrator=SIE NANAHARA|tab caption=Immersive}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LugiaexWisdomofSeaandSky241.png|illustrator=PLANETA CG Works|tab caption=Ultra Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LugiaexFantasticalParade232.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+|hp=150
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=149/161|pack=Lugia|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=195/161|pack=Lugia|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=211/161|pack=Lugia|rarity=Star|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=241/161|pack=Any|rarity=Crown}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=289/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=371/353|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=232/155|pack=Any|rarity=Shiny|rarity count=2}}
+}}
+
+'''Lugia ex''' (Japanese: '''ルギアex''' ''Lugia ex'') is a {{ct|Colorless}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Fire}}{{e|Water}}{{e|Lightning}}
+|name=Elemental Blast
+|jname=エレメンタルブラスト
+|jtrans=Elemental Blast
+|damage=180
+|effect=Discard a {{e|Fire}}, {{e|Water}}, and {{e|Lightning}} Energy from this Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Colorless
+|ndex=0249
+|name=Lugia
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=LugiaexWisdomofSeaandSky149.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=LugiaexWisdomofSeaandSky195.png
+|caption2=Super rare card<br>({{TCGP|Wisdom of Sea and Sky}})<br>Illus. [[PLANETA CG Works]]
+|image3=LugiaexWisdomofSeaandSky211.png
+|caption3={{TCGP|Immersive card}}<br>Illus. [[SIE NANAHARA]]
+|image4=LugiaexWisdomofSeaandSky241.png
+|caption4=Ultra rare print<br>Illus. [[PLANETA CG Works]]
+|image5=LugiaexDeluxePackex371.png
+|caption5=Super rare card<br>({{TCGP|Deluxe Pack: ex}})<br>Illus. [[5ban Graphics]]
+|image6=LugiaexFantasticalParade232.png
+|caption6=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+The {{TCGP|immersive card}} was originally due to feature artwork by [[SIE NANAHARA]], and was included in internal game files prior to the release of the card on July 30, 2025. Shortly before the official release of the card, a statement was issued, confirming that "the card production team provided incorrect reference materials as official documents" for the creation of illustrations for {{TCG ID|Wisdom of Sea and Sky|Ho-Oh ex|210}} and Lugia ex; both affected cards were temporarily replaced with blank placeholder images.<ref name="statement1"/> Both new cards received updated artwork and immersive animations, once again by SIE NANAHARA, on August 8, 2025.<ref name="statement2"/>
+
+{{TCGGallery
+|type=Colorless
+|image1=LugiaexWisdomofSeaandSky211 original.png
+|caption1=Original card image<br>Illus. [[SIE NANAHARA]]
+|image2=LugiaexWisdomofSeaandSky211 placeholder.png
+|caption2=Placeholder card image<br>Illus. [[:Category:TCG Pocket cards illustrated by Coming Soon|Coming Soon]]
+|image3=LugiaexWisdomofSeaandSky211.png
+|caption3=Updated card image<br>Illus. [[SIE NANAHARA]]
+}}
+
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Lugia}}.
+*'''Elemental Blast''' is an attack that first appeared on {{TCG ID|Neo Genesis|Lugia|9}} from the {{TCG|Neo Genesis}} expansion; it has appeared exclusively on cards depicting {{TCG|Lugia}}.
+
+==References==
+{{reflist|refs=
+<ref name="statement1">[https://web.archive.org/web/20250808075032/https://www.pokemon.com/us/pokemon-news/notice-regarding-new-illustrations Notice Regarding New Illustrations] Pokemon.com. July 29, 2025. Archived from [https://www.pokemon.com/us/pokemon-news/notice-regarding-new-illustrations the original] on August 8, 2025.</ref>
+<ref name="statement2">[https://web.archive.org/web/20250808081753/https://www.pokemon.com/us/pokemon-news/update-regarding-new-illustrations Update Regarding New Illustrations] Pokemon.com. August 7, 2025. Archived from [https://www.pokemon.com/us/pokemon-news/update-regarding-new-illustrations the original] on August 8, 2025.</ref>
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[Category: TCG Pocket cards illustrated by Coming Soon]]
+
+[[de:Lugia-ex (Weisheit von Meer und Himmel 149)]]
+[[es:Lugia ex (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Lugia-ex (Sagesse entre Ciel et Mer 149)]]
+[[it:Lugia-ex (La Via del Cielo e del Mare 149)]]
+[[ja:ルギアex (ポケポケ A4)]]
+[[zh:洛奇亚ex（A4）]]

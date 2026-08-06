@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gliscor
+|ja name=グライオン
+|trans name=Glion
+|species=Gliscor
+|type=Fighting
+|image=GliscorWisdomofSeaandSky95.png
+|illustrator=Shiburingaru
+|hp=100
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Gligar
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=095/161|pack=Ho-Oh|rarity=Diamond|rarity count=2}}
+}}
+
+'''Gliscor''' (Japanese: '''グライオン''' ''Glion'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Sharp Fang
+|jname=するどいキバ
+|jtrans=Razor Fang
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Gliscor
+|category=Fang Scorpion 
+|ndex=0472
+|height=6'7"
+|jheight=2
+|weight=93.7
+|jweight=42.5
+|dex=It observes prey while hanging inverted from branches. When the chance presents itself, it swoops!
+|jdex=尻尾で 木の枝に ぶら下がり 獲物を 観察する。 すきを 見て 上空から 襲いかかる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Origin|Gliscor|96}} from the {{TCG|Lost Origin}} expansion.
+*'''Sharp Fang'''{{'}}s Japanese name is that of the [[Razor Fang]], a [[held item]] in the [[Pokémon games]]. As an attack in the TCG, it first appeared on {{TCG ID|EX Hidden Legends|Golbat|36}} from the {{TCG|EX Hidden Legends}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Skorgro (Weisheit von Meer und Himmel 095)]]
+[[es:Gliscor (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Scorvol (Sagesse entre Ciel et Mer 095)]]
+[[it:Gliscor (La Via del Cielo e del Mare 95)]]
+[[ja:グライオン (ポケポケ A4)]]
+[[zh:天蝎王（A4）]]

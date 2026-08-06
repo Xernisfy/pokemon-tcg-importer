@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Arctibax
+|ja name=セゴール
+|trans name=Segohru
+|species=Arctibax
+|type=Water
+|image=ArctibaxPaldeanWonders35.png
+|illustrator=Kouki Saitou
+|hp=90
+|weakness=Metal
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Frigibax
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=035/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Arctibax''' (Japanese: '''セゴール''' ''Segohru'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Frost Smash
+|jname=フロストスマッシュ
+|jtrans=Frost Smash
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Arctibax
+|category=Ice Fin
+|ndex=0997
+|height=2'7"
+|jheight=0.8
+|weight=66.1
+|jweight=30.0
+|dex=It attacks with the blade of its frozen dorsal fin by doing a front flip in the air. Arctibax’s strong back and legs allow it to pull off this technique.
+|jdex=前方宙返りして　背びれを　凍らせた 剣で　攻撃する｡ 強い　足腰の　為せる業｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Paldea Evolved|Arctibax|59}} from the {{TCG|Paldea Evolved}} expansion.
+**Both cards feature the '''Frost Smash''' attack, which first appeared on {{TCG ID|Crimson Invasion|Regice|28}} from the {{TCG|Crimson Invasion}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Cryospino (Wundervolles Paldea 035)]]
+[[fr:Cryodo (Merveilles de Paldea 035)]]
+[[it:Arctibax (Meraviglie di Paldea 35)]]
+[[ja:セゴール (ポケポケ B2a)]]
+[[zh:冻脊龙（B2a）]]

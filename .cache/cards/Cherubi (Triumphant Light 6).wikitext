@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cherubi
+|ja name=チェリンボ
+|trans name=Cherinbo
+|species=Cherubi
+|type=Grass
+|image=CherubiTriumphantLight6.png
+|illustrator=Atsuko Nishida
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=006/075|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Cherubi''' (Japanese: '''チェリンボ''' ''Cherinbo'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Leafage
+|jname=このは
+|jtrans=Foliage
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Cherubi
+|species=Cherry
+|ndex=0420
+|height=1'4"
+|jheight=0.4
+|weight=7.3
+|jweight=3.3
+|dex=It nimbly dashes about to avoid getting pecked by bird Pokémon that would love to make off with its small, nutrient-rich storage ball.
+|jdex=栄養の 詰まった 玉は 鳥ポケモンの 大好物。 ついばまれないよう 逃げまわる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Legendary Treasures|Cherubi|4}} from the {{TCG|Legendary Treasures}} expansion.
+*{{m|Leafage}} is a [[move]] in the [[Pokémon games]] that {{p|Cherubi}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kikugi (Licht des Triumphs 006)]]
+[[es:Cherubi (Luz Triunfal TCG Pocket)]]
+[[fr:Ceribou (Lumière Triomphale 006)]]
+[[it:Cherubi (Luce Trionfale 6)]]
+[[ja:チェリンボ (ポケポケ A2a)]]
+[[zh:櫻花寶（A2a）]]

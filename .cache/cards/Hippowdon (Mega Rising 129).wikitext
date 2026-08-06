@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hippowdon
+|ja name=カバルドン
+|trans name=Kabaldon
+|species=Hippowdon
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HippowdonMegaRising129.png|illustrator=Shigenori Negishi|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HippowdonMegaRising241.png|illustrator=Teeziro|tab caption=Illustration Rare}}
+|hp=130
+|weakness=Grass
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Hippopotas
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Diamond|rarity count=2|number=129/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Star|rarity count=1|number=241/226}}
+}}
+
+'''Hippowdon''' (Japanese: '''カバルドン''' ''Kabaldon'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Crashing Fangs
+|jname=クラッシュファング
+|jtrans=Crash Fang
+|damage=100
+|effect=Flip a coin. If tails, during your next turn, this Pokémon can't attack.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Hippowdon
+|species=Heavyweight
+|ndex=0450
+|height=6'7"
+|jheight=2.0
+|weight=661.4
+|jweight=300.0
+|dex=It brandishes its gaping mouth in a display of fearsome strength. It raises vast quantities of sand while attacking.
+|jdex=大きく 口を 開けて 自分の 強さを アピール。大量の 砂を 巻き上げて 攻撃する。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=HippowdonMegaRising129.png
+|caption1=Uncommon card<br>Illus. [[Shigenori Negishi]]
+|image2=HippowdonMegaRising241.png
+|caption2=Illustration rare card<br>Illus. [[Teeziro]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Ultra Prism|Hippowdon|69}} from the {{TCG|Ultra Prism}} expansion.
+*'''Crashing Fangs''' is an attack that first appeared on {{TCG ID|Evolving Skies|Lycanroc V|91}} from the {{TCG|Evolving Skies}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hippoterus (Mega-Aufstieg 129)]]
+[[es:Hippowdon (Megaascenso TCG Pocket)]]
+[[fr:Hippodocus (Méga-Ascension 129)]]
+[[it:Hippowdon (Mega Ascesa 129)]]
+[[ja:カバルドン (ポケポケ B1)]]
+[[zh:河马兽（B1）]]

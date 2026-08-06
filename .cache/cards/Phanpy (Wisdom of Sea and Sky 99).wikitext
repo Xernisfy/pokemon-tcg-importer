@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Phanpy
+|ja name=ゴマゾウ
+|trans name=Gomazou
+|species=Phanpy
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PhanpyWisdomofSeaandSky99.png|illustrator=Midori Harada|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PhanpyDeluxePackex201.png|illustrator=Midori Harada|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PhanpyFantasticalParade222.png|illustrator=kurumitsu|tab caption=Shiny Rare}}
+|hp=70
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=099/161|pack=Ho-Oh|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=200/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=201/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=222/155|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Phanpy''' (Japanese: '''ゴマゾウ''' ''Gomazou'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Reckless Charge
+|jname=とつげき
+|jtrans=Assault
+|damage=30
+|effect=This Pokémon also does 10 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Phanpy
+|category=Long Nose 
+|ndex=0231
+|height=1'8"
+|jheight=0.5
+|weight=73.9
+|jweight=33.5
+|dex=This Pokémon lives and nests on a riverbank. After playing in the mud, it won't be able to settle down unless it washes its body.
+|jdex=川辺に 巣穴を 作り 暮らす。 泥遊びをしたあとは 体を 洗わないと 落ち着かないのだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=PhanpyWisdomofSeaandSky99.png
+|caption1=Standard card<br>Illus. [[Midori Harada]]
+|image2=PhanpyDeluxePackex201.png
+|caption2=Parallel foil card<br>Illus. [[Midori Harada]]
+|image3=PhanpyFantasticalParade222.png
+|caption3=Shiny rare card<br>Illus. [[kurumitsu]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|HeartGold & SoulSilver|Phanpy|77}} from the {{TCG|HeartGold & SoulSilver}} expansion.
+*'''Reckless Charge''' is an attack that first appeared on {{TCG ID|Movie VS Pack|Ash's Phanpy|4}} from the {{TCG|Movie Commemoration VS Pack: Aura's Lucario}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+*This card's {{TCGP|Fantastical Parade}} print features a {{Shiny}} {{p|Phanpy}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Phanpy (Weisheit von Meer und Himmel 099)]]
+[[es:Phanpy (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Phanpy (Sagesse entre Ciel et Mer 099)]]
+[[it:Phanpy (La Via del Cielo e del Mare 99)]]
+[[ja:ゴマゾウ (ポケポケ A4)]]
+[[zh:小小象（A4）]]

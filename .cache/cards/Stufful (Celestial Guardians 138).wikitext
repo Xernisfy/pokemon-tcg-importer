@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Stufful
+|ja name=ヌイコグマ
+|trans name=Nuikoguma
+|species=Stufful
+|type=Colorless
+|image=StuffulCelestialGuardians138.png
+|illustrator=Sanosuke Sakuma
+|hp=70
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lunala|rarity=Diamond|rarity count=1|number=138/155}}
+}}
+
+'''Stufful''' (Japanese: '''ヌイコグマ ''' ''Nuikoguma'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Hammer In
+|jname=ぶちかます
+|jtrans=Headfirst Strike
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Stufful
+|species=Flailing
+|ndex=0759
+|height=1'8"
+|jheight=0.5
+|weight=15
+|jweight=6.8
+|dex=Its fluffy fur is a delight to pet, but carelessly reaching out to touch this Pokémon could result in painful retaliation.
+|jdex=ふわふわの 毛並みは 触り心地が 抜群だが うかつに 手を だすと 手痛い 反撃を 受けてしまう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Stufful|111}} from the {{TCG|Sun & Moon}} expansion.
+*'''Hammer In''' is an attack that first appeared on {{TCG ID|Mysterious Treasures|Larvitar|87}} from the {{TCG|Mysterious Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Velursi (Hüter des Firmaments 138)]]
+[[es:Stufful (Guardianes Celestiales TCG Pocket)]]
+[[fr:Nounourson (Gardiens Astraux 138)]]
+[[it:Stufful (Guardiani Astrali 138)]]
+[[ja:ヌイコグマ (ポケポケ A3)]]
+[[zh:童偶熊（A3）]]

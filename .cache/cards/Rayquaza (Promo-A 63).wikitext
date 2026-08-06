@@ -1,0 +1,63 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rayquaza
+|ja name=レックウザ
+|trans name=Rayquaza
+|species=Rayquaza
+|type=Colorless
+|image=RayquazaPromo-A63.png
+|illustrator=Yoshinobu Saito
+|hp=100
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=063/P-A|pack=Vol. 7}}
+}}
+
+'''Rayquaza''' (Japanese: '''レックウザ''' ''Rayquaza'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{repeat|{{e|Colorless}}|4}}
+|name=Spiral Rush
+|jname=スパイラルラッシュ
+|jtrans=Spiral Rush
+|damage=70+
+|effect=Flip a coin. until you get tails. This attack does 30 more damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Rayquaza
+|species=Sky High
+|ndex=0384
+|height=23'
+|jheight=7.0
+|weight=455.3
+|jweight=206.5
+|dex=It lives in the ozone layer far above the clouds and cannot be seen from the ground.
+|jdex=雲より はるか上の オゾン層に生息しているため 地上から姿を見ることはできない。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 7 packs; these were made available as part of the [[Rayquaza ex Drop Event]], which ran from April 30 to May 13, 2025.
+
+==Trivia==
+===Origin===
+* This card's illustration was first featured on {{TCG ID|Guardians Rising|Rayquaza|106}} from the {{TCG|Guardians Rising}} expansion.
+* '''Spiral Rush''' is an attack that first appeared on {{TCG ID|EX Deoxys|Rayquaza ☆|107}} from the {{TCG|EX Deoxys}} expansion.
+* This card's [[Pokédex]] entry comes from {{g|Brilliant Diamond and Shining Pearl}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rayquaza (PROMO-A 063)]]
+[[es:Rayquaza (Promo-A 63 TCG Pocket)]]
+[[fr:Rayquaza (Promo-A 063)]]
+[[it:Rayquaza (Promo-A 63)]]
+[[ja:レックウザ (ポケポケ P-A)]]
+[[zh:烈空坐（P-A）]]

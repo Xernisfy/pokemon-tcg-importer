@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+| en name = Kingdra {{TCGP Icon|ex}}
+| ja name = キングドラ {{TCGP Icon|ex}}
+| trans name = Kingdra {{TCGP Icon|ex}}
+| species = Kingdra
+| type = Water
+| image set = {{TCG Card Infobox/Tabbed Image/Pocket|image=KingdraexWisdomofSeaandSky43.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KingdraexWisdomofSeaandSky188.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KingdraexWisdomofSeaandSky203.png|illustrator=Takumi Wada|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=KingdraexFantasticalParade227.png|illustrator=PLANETA CG Works|tab caption=Shiny Super Rare}}
+| hp = 170
+| weakness = Lightning
+| retreat cost = 1
+| illustrator = 
+| evo stage = Stage 2
+| prevo name = Seadra
+| expansions = {{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=043/161|pack=Lugia|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=188/161|pack=Lugia|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=203/161|pack=Lugia|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=092/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=227/155|pack=Any|rarity=Shiny|rarity count=2}}
+}}
+
+'''Kingdra ex''' (Japanese: '''キングドラex''' ''Kingdra ex'') is a {{ct|Water}} Stage 2 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Stormy Prison
+|jname=ストームジェイル
+|jtrans=Storm Jail
+|damage=90
+|effect=During your opponent's next turn, the Defending Pokémon can't retreat.
+}}
+{{Cardtext/Pocket ex
+|type=Water
+|ndex=0230
+|name=Kingdra
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=KingdraexWisdomofSeaandSky43.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=KingdraexWisdomofSeaandSky188.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=KingdraexWisdomofSeaandSky203.png
+|caption3=Special illustration rare card<br>Illus. [[Takumi Wada]]
+|image4=KingdraexFantasticalParade227.png
+|caption4=Shiny super rare card<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Kingdra}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Seedraking-ex (Weisheit von Meer und Himmel 043)]]
+[[es:Kingdra ex (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Hyporoi-ex (Sagesse entre Ciel et Mer 043)]]
+[[it:Kingdra-ex (La Via del Cielo e del Mare 43)]]
+[[ja:キングドラex (ポケポケ A4)]]
+[[zh:刺龙王ex（A4）]]

@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Nosepass
+|ja name=ノズパス
+|trans name=Nosepass
+|species=Nosepass
+|type=Fighting
+|image=NosepassCrimsonBlaze41.png
+|illustrator=Miki Tanaka
+|hp=70
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=041/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Nosepass''' (Japanese: '''ノズパス''' ''Nosepass'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}
+|name=Rising Lunge
+|jname=つきあげる
+|jtrans=Toss
+|damage=10+
+|effect=Flip a coin. If heads, this attack does 20 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Nosepass
+|species=Compass
+|ndex=0299
+|height=3'3"
+|jheight=1.0
+|weight=213.8
+|jweight=97.0
+|dex=The magnet in Nosepass’s nose provides an unerring compass, making it an excellent partner for Trainers going on a journey.
+|jdex=ノズパスの 鼻の 磁石は 絶対 狂わないので 旅する トレーナーの 良き パートナーだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Nosepass|96}} from the {{TCG|Rebel Clash}} expansion.
+*'''Rising Lunge''' is an attack that first appeared on {{TCG ID|Neo Revelation|Seaking|37}} from {{TCG|Neo Revelation}}.
+*This card's [[Pokédex]] entry comes from {{g|Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Nasgnet (Feuerrote Flammen 041)]]
+[[fr:Tarinor (Embrasement Écarlate 041)]]
+[[ja:ノズパス (ポケポケ B1a)]]
+[[zh:朝北鼻（B1a）]]

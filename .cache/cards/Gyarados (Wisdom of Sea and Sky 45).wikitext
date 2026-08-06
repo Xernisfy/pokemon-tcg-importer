@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gyarados
+|ja name=ギャラドス
+|trans name=Gyarados
+|species=Gyarados
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GyaradosWisdomofSeaandSky45.png|illustrator=hatachu|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GyaradosWisdomofSeaandSky215.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=130
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Magikarp
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=045/161|pack=Lugia|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=215/161|pack=Lugia|rarity=Shiny|rarity count=1}}
+}}
+
+'''Gyarados''' (Japanese: '''ギャラドス''' ''Gyarados'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Wild Swing
+|jname=あばれスイング
+|jtrans=Wild Swing
+|damage=20+
+|effect=You may discard any number of your Benched {{e|Water}} Pokémon. This attack does 40 more damage for each Benched Pokémon you discarded in this way.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Gyarados
+|category=Atrocius 
+|ndex=0130
+|height=21'4"
+|jheight=6.5
+|weight=518.1
+|jweight=235.0
+|dex=Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it.
+|jdex=一度 姿を 現すと まわりを すべて 焼き尽くさないと 怒りが 鎮まらない という。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=GyaradosWisdomofSeaandSky45.png
+|caption1=Rare card<br>Illus. [[hatachu]]
+|image2=GyaradosWisdomofSeaandSky215.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Rebel Clash|Gyarados|40}} from the {{TCG|Rebel Clash}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Gyarados}}.
+*This card's [[Pokédex]] entry comes from {{game|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Garados (Weisheit von Meer und Himmel 045)]]
+[[es:Gyarados (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Léviator (Sagesse entre Ciel et Mer 045)]]
+[[it:Gyarados (La Via del Cielo e del Mare 45)]]
+[[ja:ギャラドス (ポケポケ A4)]]
+[[zh:暴鲤龙（A4）]]

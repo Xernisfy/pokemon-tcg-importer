@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Grubbin
+|ja name=アゴジムシ
+|trans name=Agojimushi
+|species=Grubbin
+|type=Grass
+|image=GrubbinCelestialGuardians13.png
+|illustrator=Yuka Morii
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=013/155|pack=Lunala|rarity=Diamond|rarity count=1}}
+}}
+
+'''Grubbin''' (Japanese: '''アゴジムシ''' ''Agojimushi'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Gnaw
+|jname=かじる
+|jtrans=Gnaw
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Grubbin
+|species=Larva
+|ndex=0736
+|height=1'4"
+|jheight=0.4
+|weight=9.7
+|jweight=4.4
+|dex=Its natural enemies, like Rookidee, may flee rather than risk getting caught in its large mandibles that can snap thick tree branches.
+|jdex=大きな　顎は　太い　枝を　へし折る　威力。　天敵の　ココガラも　たまらず　逃げだす。
+}}
+
+==Trivia==
+===Origin===
+*This card is almost identical to {{TCG ID|Rebel Clash|Grubbin|16}} from the {{TCG|Rebel Clash}} expansion, except for the {{TCG|Weakness}} modifier.
+*This card's illustration was first featured on {{TCG ID|Unbroken Bonds|Grubbin|18}} from the {{TCG|Unbroken Bonds}} expansion.
+*'''Gnaw''' is an attack that first appeared on {{TCG ID|Base Set|Pikachu|58}} from the {{TCG|Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mabula (Hüter des Firmaments 013)]]
+[[es:Grubbin (Guardianes Celestiales TCG Pocket)]]
+[[fr:Larvibule (Gardiens Astraux 013)]]
+[[it:Grubbin (Guardiani Astrali 13)]]
+[[ja:アゴジムシ (ポケポケ A3)]]
+[[zh:强颚鸡母虫（A3）]]

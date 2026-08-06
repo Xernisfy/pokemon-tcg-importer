@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Golett
+|ja name=ゴビット
+|trans name=Gobit
+|species=Golett
+|type=Fighting
+|image=GolettMegaRising135.png
+|illustrator=Shin Nagasawa
+|hp=80
+|weakness=Grass
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=135/226|pack=Mega Blaziken|rarity=Diamond|rarity count=1}}
+}}
+
+'''Golett''' (Japanese: '''ゴビット''' ''Gobit'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Stampede
+|jname=ふむ
+|jtrans=Step On
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Golett
+|species=Automaton
+|ndex=0622
+|height=3'3"
+|jheight=1.0
+|weight=202.8
+|jweight=92.0
+|dex=This Pokémon was created from clay. It received orders from its master many thousands of years ago, and it still follows those orders to this day.
+|jdex=粘土から つくられた ポケモン。 何千年も 前の 主の 命令を 今も 守っている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|SM-P Promo|Golett|386}}, one of the {{TCG|SM-P Promotional cards}}.
+*'''Stampede''' is an attack that first appeared on {{TCG ID|EX Ruby & Sapphire|Phanpy|62}} from the {{TCG|EX Ruby & Sapphire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Golbit (Mega-Aufstieg 135)]]
+[[es:Golett (Megaascenso TCG Pocket)]]
+[[fr:Gringolem (Méga-Ascension 135)]]
+[[it:Golett (Mega Ascesa 135)]]
+[[ja:ゴビット (ポケポケ B1)]]
+[[zh:泥偶小人（B1）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dragalge
+|ja name=ドラミドロ
+|trans name=Dramidoro
+|species=Dragalge
+|type=Darkness
+|image=DragalgeSecludedSprings54.png
+|illustrator=5ban Graphics
+|hp=110
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Skrelp
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=054/071|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Dragalge''' (Japanese: '''ドラミドロ''' ''Dramidoro'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}{{e|Colorless}}
+|name=Sludge Bomb
+|jname=ヘドロばくだん
+|jtrans=Sludge Bomb
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Dragalge
+|category=Mock Kelp
+|ndex=0691
+|height=5'11"
+|jheight=1.8
+|weight=179.7
+|jweight=81.5
+|dex=Using a liquid poison, Dragalge indiscriminately attacks anything that wanders into its territory. This poison can corrode the undersides of boats.
+|jdex=縄張りに 入り込んだ 相手を 見境なく 毒液で 攻撃。 船底を 腐らせる 猛毒だ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Flashfire|Dragalge|71}} from the {{TCG|Flashfire}} expansion.
+*{{m|Sludge Bomb}} is a [[move]] in the [[Pokémon games]] that {{p|Dragalge}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tandrak (Verborgene Quelle 054)]]
+[[es:Dragalge (Manantial Oculto TCG Pocket)]]
+[[fr:Kravarech (Source Secrète 054)]]
+[[it:Dragalge (Sorgenti Recondite 54)]]
+[[ja:ドラミドロ (ポケポケ A4a)]]
+[[zh:毒藻龙（A4a）]]

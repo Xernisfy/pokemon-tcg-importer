@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Brock
+|ja name=タケシ
+|trans name=Takeshi
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BrockGeneticApex224.png|illustrator=Taira Akitsu|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BrockGeneticApex271.png|illustrator=Ryuta Fuse|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=224/226|pack=Pikachu|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=271/226|pack=Pikachu|rarity=Star|rarity count=2}}
+}}
+
+'''Brock''' (Japanese: '''タケシ''' ''Takeshi'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Take a {{e|Fighting}} Energy from your Energy Zone and attach it to {{TCGP|Golem}} or {{TCGP|Onix}}.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=BrockGeneticApex224.png
+|caption1=Uncommon card<br>Illus. [[Taira Akitsu]]
+|image2=BrockGeneticApex271.png
+|caption2=Super rare card<br>Illus. [[Ryuta Fuse]]
+}}
+
+==Trivia==
+* {{TCG|Brock}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Brock]] is a [[Gym Leader]] in [[Kanto]].
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=タケシ ''Takeshi''
+|zh_yue=小剛 ''Síu Gōng''
+|zh_cmn=小剛<!-- / 小刚--> ''Xiǎo Gāng''
+|fr=Pierre
+|de=Rocko
+|it=Brock
+|ko=웅 ''Ung''
+|pt_br=Brock
+|es=Brock
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rocko (TCG Pocket)]]
+[[es:Brock (TCG Pocket)]]
+[[fr:Pierre (Puissance Génétique 224)]]
+[[it:Brock (Geni Supremi 224)]]
+[[ja:タケシ (ポケポケ)]]
+[[zh:小剛（TCGP）]]

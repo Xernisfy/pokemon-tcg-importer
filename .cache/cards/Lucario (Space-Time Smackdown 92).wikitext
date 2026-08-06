@@ -1,0 +1,87 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lucario
+|ja name=ルカリオ
+|trans name=Lucario
+|species=Lucario
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LucarioSpace-TimeSmackdown92.png|illustrator=nagimiso|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LucarioDeluxePackex213.png|illustrator=nagimiso|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LucarioSpace-TimeSmackdown170.png|illustrator=Akira Komayama|tab caption=Illustration Rare}}
+|hp=100
+|weakness=Psychic
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Riolu
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=092/155|pack=Dialga|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=170/155|pack=Dialga|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=212/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=213/353|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Lucario''' (Japanese: '''ルカリオ''' ''Lucario'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Ability/Pocket
+|type=Fighting
+|name=Fighting Coach
+|jname=ファイティングコーチ
+|jtrans=Fighting Coach
+|effect=Attacks used by your {{e|Fighting}} Pokémon do +20 damage to your opponent's Active Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Submarine Blow
+|jname=サブマリンブロー
+|jtrans=Submarine Blow
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Lucario
+|species=Aura
+|ndex=0448
+|height=3'11"
+|jheight=1.2
+|weight=119
+|jweight=54.0
+|dex=It's said that no foe can remain invisible to Lucario, since it can detect auras—even those of foes it could not otherwise see.
+|jdex=波動を キャッチすることで 見えない 相手の 姿でも 見えると 言われている。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=LucarioSpace-TimeSmackdown92.png
+|caption1=Standard card<br>Illus. [[nagimiso]]
+|image2=LucarioSpace-TimeSmackdown170.png
+|caption2=Illustration rare card<br>Illus. [[Akira Komayama]]
+|image3=LucarioDeluxePackex213.png
+|caption3=Parallel foil card<br>Illus. [[nagimiso]]
+}}
+
+==Trivia==
+The illustration rare card features {{p|Lucario}}, {{p|Hitmonchan}}, {{p|Hitmontop}}, {{p|Medicham}} and {{p|Mienshao}}.
+
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Burning Shadows|Lucario|71}} from the {{TCG|Burning Shadows}} expansion, as was its '''Submarine Blow''' attack. 
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lucario (Kollision von Raum und Zeit 092)]]
+[[es:Lucario (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Lucario (Choc Spatio-Temporel 092)]]
+[[it:Lucario (Scontro Spaziotemporale 92)]]
+[[ja:ルカリオ (ポケポケ A2)]]
+[[zh:路卡利欧（A2）]]

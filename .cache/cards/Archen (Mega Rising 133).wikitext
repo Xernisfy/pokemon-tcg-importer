@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Archen
+|ja name=アーケン
+|trans name=Archen
+|species=Archen
+|type=Fighting
+|image=ArchenMegaRising133.png
+|illustrator=0313
+|hp=90
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Plume Fossil
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=133/226|pack=Mega Blaziken|rarity=Diamond|rarity count=2}}
+}}
+
+'''Archen''' (Japanese: '''アーケン''' ''Archen'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Rock Throw
+|jname=いわおとし
+|jtrans=Rock Drop
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Archen
+|category=First Bird
+|ndex=0566
+|height=1'8"
+|jheight=0.6
+|weight=20.9
+|jweight=9.5
+|dex=Archen is said to be the ancestor of bird Pokémon. It lived in treetops, eating berries and bug Pokémon.
+|jdex=鳥ポケモンの 祖先と 言われる。 木の上で 暮らし 木の実や 虫ポケモンを 食っていた。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Archen|120}} from the {{TCG|Unified Minds}} expansion.
+*{{m|Rock Throw}} is a [[move]] in the [[Pokémon games]] that {{p|Archen}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flapteryx (Mega-Aufstieg 133)]]
+[[es:Archen (Megaascenso TCG Pocket)]]
+[[fr:Arkéapti (Méga-Ascension 133)]]
+[[it:Archen (Mega Ascesa 133)]]
+[[ja:アーケン (ポケポケ B1)]]
+[[zh:始祖小鸟（B1）]]

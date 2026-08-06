@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Magmar
+|ja name=ブーバー
+|trans name=Boober
+|species=Magmar
+|type=Fire
+|image=MagmarGeneticApex44.png
+|illustrator=Ryuta Fuse
+|hp=80
+|weakness=Water
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=044/226|pack=Charizard|rarity=Diamond|rarity count=1}}
+}}
+
+'''Magmar''' (Japanese: '''ブーバー''' ''Boober'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Magma Punch
+|jname=マグマパンチ
+|jtrans=Magma Punch
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Magmar
+|species=Spitfire
+|ndex=0126
+|height=4'3"
+|jheight=1.3
+|weight=98.1
+|jweight=44.5
+|dex=Magmar dispatches its prey with fire. But it regrets this habit once it realizes that it has burned its intended prey to a charred crisp.
+|jdex=炎で　獲物を　しとめる｡ ついつい　焼きすぎて 黒コゲに　してしまい　後悔する｡
+}}
+
+==Trivia==
+This illustration portrays the same scene as {{TCG ID|Genetic Apex|Electabuzz|101}} from the same set, but from a different angle.
+
+===Origin===
+*'''Magma Punch''' is an attack that first appeared on {{TCG ID|Wizards Promo|Magmar|44}}, one of the {{TCG|Wizards Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Magmar (Unschlagbare Gene 044)]]
+[[es:Magmar (Genes Formidables TCG Pocket)]]
+[[fr:Magmar (Puissance Génétique 044)]]
+[[it:Magmar (Geni Supremi 44)]]
+[[ja:ブーバー (ポケポケ A1)]]
+[[zh:鸭嘴火兽（A1）]]

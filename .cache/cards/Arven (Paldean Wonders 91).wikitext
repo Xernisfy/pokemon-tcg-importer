@@ -1,0 +1,66 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Arven
+|ja name=ペパー
+|trans name=Peper
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArvenPaldeanWonders91.png|illustrator=GIDORA|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArvenPaldeanWonders108.png|illustrator=GIDORA|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArvenPaldeanWonders115.png|illustrator=GIDORA|tab caption=Immersive}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=091/093|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=108/093|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=115/093|pack=Any|rarity=Star|rarity count=3}}
+}}
+
+'''Arven''' (Japanese: '''ペパー''' ''Peper'') is a {{TCGP|Supporter card}} in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Flip a coin. If heads, put a random {{TCGP|Item card}} from your deck into your hand. If tails, put a random {{TCGP|Pokémon Tool card}} from your deck into your hand.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=ArvenPaldeanWonders91.png
+|caption1=Uncommon card<br>Illus. [[GIDORA]]
+|image2=ArvenPaldeanWonders108.png
+|caption2=Super rare card<br>Illus. [[GIDORA]]
+|image3=ArvenPaldeanWonders115.png
+|caption3={{TCGP|Immersive card}}<br>Illus. [[GIDORA]]
+}}
+
+==Trivia==
+* This card's effect is similar to the {{TCG|Arven}} card in the [[Pokémon Trading Card Game]], but only allows for an Item card ''or'' Pokémon Tool card to be drawn, rather than one of each.
+* This card's immersive illustration includes [[Arven]], [[Juliana]], [[Nemona]], [[Penny]], {{p|Mabosstiff}}, {{p|Tarountula}}, {{p|Lechonk}}, {{p|Pawmi}}, {{p|Pawmo}}, {{p|Pawmot}}, {{p|Fuecoco}}, {{p|Nacli}}, {{p|Orthworm}}, {{p|Starly}}, {{p|Staraptor}}, {{p|Toxel}}, {{p|Persian}}, {{p|Skiddo}}, {{p|Fletchinder}}, {{p|Maschiff}}, {{p|Deerling}}, {{p|Sawsbuck}}, {{p|Psyduck}}, {{p|Surskit}}, {{p|Azurill}}, {{p|Magikarp}}, {{p|Mareep}} and {{p|Hoppip}}
+
+===Origin===
+* [[Arven]] is a student at [[Naranja Academy]]{{sup/9|S}}/[[Uva Academy]]{{sup/9|V}}. He is depicted in his Uva Academy uniform.
+*This card's uncommon and super rare were first featured on {{TCG ID|Scarlet & Violet|Arven|166}} from the {{TCG|Scarlet & Violet}} expansion. The [[Poco Path]] Lighthouse, where Arven grew up as a child, is featured in the standard card's illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=ペパー ''Peper''
+|zh_yue=派帕 ''Paaipaak''
+|zh_cmn=派帕 ''Pàipà''
+|fr=Pepper
+|de=Pepper
+|it=Pepe
+|ko=페퍼 ''Pepper''
+|pt_br=Arven
+|es=Damián
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pepper (TCG Pocket)]]
+[[es:Damián (TCG Pocket)]]
+[[fr:Pepper (Merveilles de Paldea 091)]]
+[[it:Pepe (Meraviglie di Paldea 91)]]
+[[ja:ペパー (ポケポケ)]]
+[[zh:派帕（TCGP）]]

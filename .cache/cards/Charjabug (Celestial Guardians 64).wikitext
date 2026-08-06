@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Charjabug
+|ja name=デンヂムシ
+|trans name=Dendimushi
+|species=Charjabug
+|type=Lightning
+|image=CharjabugCelestialGuardians64.png
+|illustrator=Naoki Saito
+|hp=90
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Grubbin
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=064/155|pack=Lunala|rarity=Diamond|rarity count=2}}
+}}
+
+'''Charjabug''' (Japanese: '''デンヂムシ''' ''Dendimushi'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Vise Grip
+|jname=はさむ
+|jtrans=Clamp
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Charjabug
+|species=Battery
+|ndex=0737
+|height=1'8"
+|jheight=0.5
+|weight=23.1
+|jweight=10.5
+|dex=While its durable shell protects it from attacks, Charjabug strikes at enemies with jolts of electricity discharged from the tips of its jaws.
+|jdex=頑丈な 殻で 身を 守る。 顎の 先端から 電気を 流して 反撃する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Charjabug|51}} from the {{TCG|Sun & Moon}} expansion.
+*{{m|Vise Grip}} is a [[move]] in the [[Pokémon games]] that {{p|Charjabug}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Akkup (Hüter des Firmaments 064)]]
+[[es:Charjabug (Guardianes Celestiales TCG Pocket)]]
+[[fr:Chrysapile (Gardiens Astraux 064)]]
+[[it:Charjabug (Guardiani Astrali 64)]]
+[[ja:デンヂムシ (ポケポケ A3)]]
+[[zh:虫电宝（A3）]]

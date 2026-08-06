@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Paras
+|ja name=パラス
+|trans name=Paras
+|species=Paras
+|type=Grass
+|image=ParasGeneticApex14.png
+|illustrator=Naoyo Kimura
+|hp=70
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=014/226|pack=Pikachu|rarity=Diamond|rarity count=1}}
+}}
+
+'''Paras''' (Japanese: '''パラス''' ''Paras'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Scratch
+|jname=ひっかく
+|jtrans=Scratch
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Paras
+|species=Mushroom
+|ndex=0046
+|height=1'
+|jheight=0.3
+|weight=11.9
+|jweight=5.4
+|dex=The mushrooms, known as tochukaso, are controlling the bug. Even if the bug bugs the mushrooms, they tell it to bug off.
+|jdex=冬虫夏草と　いう　キノコが 虫を　操っているのだ｡ 虫の　意思は　無視される｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Paras|6}} from the {{TCG|Team Up}} expansion.
+**Both cards have the {{m|Scratch}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Paras}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Paras (Unschlagbare Gene 014)]]
+[[es:Paras (Genes Formidables TCG Pocket)]]
+[[fr:Paras (Puissance Génétique 014)]]
+[[it:Paras (Geni Supremi 14)]]
+[[ja:パラス (ポケポケ A1)]]
+[[zh:派拉斯（A1）]]

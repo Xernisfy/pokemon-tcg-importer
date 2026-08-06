@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Starly
+|ja name=ムックル
+|trans name=Mukkuru
+|species=Starly
+|type=Colorless
+|image=StarlySpace-TimeSmackdown132.png
+|illustrator=Atsuko Nishida
+|hp=50
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=132/155|pack=Palkia|rarity=Diamond|rarity count=1}}
+}}
+
+'''Starly''' (Japanese: '''ムックル''' ''Mukkuru'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Pluck
+|jname=ついばむ
+|jtrans=Pick
+|damage=20
+|effect=Before doing damage, discard all {{TCGP|Pokémon Tool}}s from your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Starly
+|species=Starling
+|ndex=0396
+|height=1'
+|jheight=0.3
+|weight=4.4
+|jweight=2.0
+|dex=They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying.
+|jdex=虫ポケモンを 狙って 野山を 大勢の 群れで 飛びまわる。 鳴き声が とても やかましい。
+}}
+
+
+==Trivia==
+* Upon release, while {{TCG ID|Secluded Springs|Memory Light|68}} would allow Starly's Evolutions to use its Pluck attack, the attack would fail to remove the opponent's attached {{TCGP|Pokémon Tool}}. This was identified as a bug in an in-game notice published on September 10, 2025.<ref name="MemoryLightNotices" />
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Stormfront|Starly|75}} from the {{TCG|Stormfront}} expansion.
+*{{m|Pluck}} is a [[move]] in the [[Pokémon games]] that {{p|Starly}} can learn via [[TM]].
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+==References==
+<references>
+<ref name="MemoryLightNotices">We are aware of the following issue.
+*When you attach the Memory Light Pokémon Tool to Staravia or Staraptor and use the Pluck attack from their previous Evolution, Starly, the effect of that attack does not trigger.
+<p>We plan to fix this issue in a future update.<br>
+We apologize for any inconvenience.</p></ref>
+</references>
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Staralili (Kollision von Raum und Zeit 132)]]
+[[es:Starly (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Étourmi (Choc Spatio-Temporel 132)]]
+[[it:Starly (Scontro Spaziotemporale 132)]]
+[[ja:ムックル (ポケポケ A2)]]
+[[zh:姆克儿（A2）]]

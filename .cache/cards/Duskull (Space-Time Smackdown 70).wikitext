@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Duskull
+|ja name=ヨマワル
+|trans name=Yomawaru
+|species=Duskull
+|type=Psychic
+|image=DuskullSpace-TimeSmackdown70.png
+|illustrator=ryoma uratsuka
+|hp=60
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=070/155|pack=Dialga|rarity=Diamond|rarity count=1}}
+}}
+
+'''Duskull''' (Japanese: '''ヨマワル''' ''Yomawaru'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Will-O-Wisp
+|jname=おにび
+|jtrans=Will-o'-the-Wisp
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Duskull
+|species=Requiem
+|ndex=0355
+|height=2'7"
+|jheight=0.8
+|weight=33.1
+|jweight=15.0
+|dex=If it finds bad children who won't listen to their parents, it will spirit them away—or so it's said.
+|jdex=いいつけを 守らない 子供を 見つけると 夜中に どこかへ 連れていくと いわれている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Duskull|83}} from the {{TCG|Cosmic Eclipse}} expansion.
+*{{m|Will-O-Wisp}} is a [[move]] in the [[Pokémon games]] that {{p|Haunter}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zwirrlicht (Kollision von Raum und Zeit 070)]]
+[[es:Duskull (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Skelénox (Choc Spatio-Temporel 070)]]
+[[it:Duskull (Scontro Spaziotemporale 70)]]
+[[ja:ヨマワル (ポケポケ A2)]]
+[[zh:夜巡灵（A2）]]

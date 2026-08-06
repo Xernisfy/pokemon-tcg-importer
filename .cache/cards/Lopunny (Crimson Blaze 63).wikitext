@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lopunny
+|ja name=ミミロップ
+|trans name=Mimilop
+|species=Lopunny
+|type=Colorless
+|image=LopunnyCrimsonBlaze63.png
+|illustrator=Ryuta Fuse
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Buneary
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=063/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Lopunny''' (Japanese: '''ミミロップ''' ''Mimilop'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Double Kick
+|jname=にどげり
+|jtrans=Double Kick
+|damage=50×
+|effect=Flip 2 coins. This attack does 50 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Lopunny
+|species=Rabbit
+|ndex=0428
+|height=3'11"
+|jheight=1.2
+|weight=73.4
+|jweight=33.3
+|dex=Once hot seasons are over, Lopunny’s coat will be replaced with fur that holds a lot of insulating air in preparation for colder weather.
+|jdex=暑い 季節が 終わると 空気を たくさん 含んだ 体毛に 生え変わり 寒さに 備える。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Silver Tempest|Lopunny|145}} from the {{TCG|Silver Tempest}} expansion. 
+*{{m|Double Kick}} is a [[move]] in the [[Pokémon games]] that {{p|Lopunny}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schlapor (Feuerrote Flammen 063)]]
+[[es:Lopunny (Fuego Carmesí TCG Pocket)]]
+[[fr:Lockpin (Embrasement Écarlate 063)]]
+[[it:Lopunny (Fiamme Cremisi 63)]]
+[[ja:ミミロップ (ポケポケ B1a)]]
+[[zh:长耳兔（B1a）]]

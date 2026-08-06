@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Capsakid
+|ja name=カプサイジ
+|trans name=Capsaiji
+|species=Capsakid
+|type=Grass
+|image=CapsakidPaldeanWonders12.png
+|illustrator=GIDORA
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=012/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Capsakid''' (Japanese: '''カプサイジ''' ''Capsaiji'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Playful Kick
+|jname=やんちゃげり
+|jtrans=Naughty Kick
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Capsakid
+|category=Spicy Pepper
+|ndex=0951
+|height=1'
+|jheight=0.3
+|weight=6.6
+|jweight=3.0
+|dex=Traditional Paldean dishes can be extremely spicy because they include the shed front teeth of Capsakid among their ingredients. 
+|jdex=パルデアの 郷土料理は 抜け落ちた カプサイジの 前歯が 使われているので 激辛なのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Capsakid|28}} from the {{TCG|Scarlet & Violet}} expansion.
+**Both cards have the '''Playful Kick''' attack, which first appeared on {{TCG ID|Fusion Strike|Mudkip|62}} from the {{TCG|Fusion Strike}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Chilingel (Wundervolles Paldea 012)]]
+[[fr:Pimito (Merveilles de Paldea 012)]]
+[[it:Capsakid (Meraviglie di Paldea 12)]]
+[[ja:カプサイジ (ポケポケ B2a)]]
+[[zh:热辣娃（B2a）]]

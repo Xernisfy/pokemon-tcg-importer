@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Yamper
+|ja name=ワンパチ
+|trans name=Wanpachi
+|species=Yamper
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=YamperSecludedSprings30.png|illustrator=Akira Komayama|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=YamperSecludedSprings74.png|illustrator=Souichirou Gunjima|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=030/071}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Star|rarity count=1|number=074/071}}
+}}
+
+'''Yamper''' (Japanese: '''ワンパチ''' ''Wanpachi'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Zap Kick
+|jname=エレキック
+|jtrans=Elekick
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Yamper
+|category=Puppy
+|ndex=0835
+|height=1'
+|jheight=0.3
+|weight=29.8
+|jweight=13.5
+|dex=This gluttonous Pokémon only assists people with their work because it wants treats. As it runs, it crackles with electricity.
+|jdex=おやつに 釣られて 人の 仕事を 手伝う 食いしん坊。パチパチと 電気を まとって ひた走る。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=YamperSecludedSprings30.png
+|caption1=Common card<br>Illus. [[Akira Komayama]]
+|image2=YamperSecludedSprings74.png
+|caption2=Illustration rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Sword & Shield|Yamper|73}} from the {{TCG|Sword & Shield}} expansion.
+*'''Zap Kick''' is an attack that first appeared on {{TCG ID|EX Emerald|Manectric|16}} from the {{TCG|EX Emerald}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Voldi (Verborgene Quelle 030)]]
+[[es:Yamper (Manantial Oculto TCG Pocket)]]
+[[fr:Voltoutou (Source Secrète 030)]]
+[[it:Yamper (Sorgenti Recondite 30)]]
+[[ja:ワンパチ (ポケポケ A4a)]]
+[[zh:来电汪（A4a）]]

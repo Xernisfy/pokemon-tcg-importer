@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Fan Rotom
+|ja name=スピンロトム
+|trans name=Spin Rotom
+|species=Rotom
+|type=Colorless
+|image=FanRotomSpace-TimeSmackdown142.png
+|illustrator=Masakazu Fukuda
+|hp=80
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=142/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Fan Rotom''' (Japanese: '''スピンロトム''' ''Spin Rotom'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Spin Storm
+|jname=せんぷう
+|jtrans=Whirlwind
+|damage=
+|effect=Flip a coin. If heads, put your opponent's Active Pokémon into their hand.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Rotom
+|species=Plasma
+|ndex=0479
+|height=1'
+|jheight=0.3
+|weight=0.7
+|jweight=0.3
+|dex=This Rotom has entered an electric fan. It smirks with satisfaction over a prank well pulled after it blows away everything around it.
+|jdex=扇風機に 入った 姿。 あたりのものを 吹き飛ばしては してやったりと ほくそ笑んでいる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ultra Prism|Fan Rotom|110}} from the {{TCG|Ultra Prism}} expansion.
+*'''Spin Storm''' is an attack that first appeared on {{TCG ID|Rising Rivals|Fan Rotom|RT1}} from {{TCG|Rising Rivals}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wirbel-Rotom (Kollision von Raum und Zeit 142)]]
+[[es:Rotom Ventilador (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Motisma Hélice (Choc Spatio-Temporel 142)]]
+[[it:Rotom Vortice (Scontro Spaziotemporale 142)]]
+[[ja:スピンロトム (ポケポケ A2)]]
+[[zh:旋转洛托姆（A2）]]

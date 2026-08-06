@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cutiefly
+|ja name=アブリー
+|trans name=Abuly
+|species=Cutiefly
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CutieflyCelestialGuardians78.png|illustrator=Hitoshi Ariga|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CutieflyCelestialGuardians167.png|illustrator=kamonabe|tab caption=Illustration Rare}}
+|hp=30
+|weakness=Metal
+|retreat cost=0
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=078/155|pack=Solgaleo|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=167/155|pack=Solgaleo|rarity=Star|rarity count=1}}
+}}
+
+'''Cutiefly''' (Japanese: '''アブリー''' ''Abuly'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}
+|name=Flap
+|jname=はばたく
+|jtrans=Flap
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Cutiefly
+|category=Bee Fly 
+|ndex=0742
+|height=4"
+|jheight=0.1
+|weight=0.4
+|jweight=0.2
+|dex=Nectar and pollen are its favorite fare. In fields of flowers, it gets into skirmishes with Butterfree over food.
+|jdex=花のミツと 花粉が 好物。 花畑で エサを 巡り バタフリーと 小競り合いをしている。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=CutieflyCelestialGuardians78.png
+|caption1=Common card<br>Illus. [[Hitoshi Ariga]]
+|image2=CutieflyCelestialGuardians167.png
+|caption2=Illustration rare card<br>Illus. [[kamonabe]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Sun & Moon|Cutiefly|92}} from the {{TCG|Sun & Moon}} expansion.
+*This card's illustration rare print forms a {{TCG|narrative illustration}} with the illustration rare print of {{TCG ID|Celestial Guardians|Morelull|157}}; both cards are illustrated by [[kamonabe]].
+*{{DL|Skill (Shuffle)|Flap}} is a {{OBP|skill|Shuffle}} in [[Pokémon Shuffle]], though {{p|Cutiefly}} cannot have it. As an attack in the TCG, it first appeared on {{TCG ID|Majestic Dawn|Starly|75}} from {{TCG|Majestic Dawn}}.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wommel (Hüter des Firmaments 078)]]
+[[es:Cutiefly (Guardianes Celestiales TCG Pocket)]]
+[[fr:Bombydou (Gardiens Astraux 078)]]
+[[it:Cutiefly (Guardiani Astrali 78)]]
+[[ja:アブリー (ポケポケ A3)]]
+[[zh:萌虻（A3）]]

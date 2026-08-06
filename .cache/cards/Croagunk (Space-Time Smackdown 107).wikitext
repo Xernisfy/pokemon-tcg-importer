@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Croagunk
+|ja name=グレッグル
+|trans name=Gureggru
+|species=Croagunk
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CroagunkSpace-TimeSmackdown107.png|illustrator=Masakazu Fukuda|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=CroagunkSpace-TimeSmackdown173.png|illustrator=GOSSAN|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=107/155|pack=Dialga|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=173/155|pack=Dialga|rarity=Star|rarity count=1}}
+}}
+
+'''Croagunk''' (Japanese: '''グレッグル''' ''Gureggru'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=Group Beatdown
+|jname=みんなでしばく
+|jtrans=Everyone Beats Up
+|damage=20×
+|effect=Flip a coin for each Pokémon you have in play. This attack does 20 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Croagunk
+|species=Toxic Mouth
+|ndex=0453
+|height=2'4"
+|jheight=0.7
+|weight=50.7
+|jweight=23.0
+|dex=Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab.
+|jdex=毒袋を ふくらませて 鳴らし 辺りに 不気味な 音を 響かせ 相手が ひるむと どくづきをする。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=CroagunkSpace-TimeSmackdown107.png
+|caption1=Common card<br>Illus. [[Masakazu Fukuda]]
+|image2=CroagunkSpace-TimeSmackdown173.png
+|caption2=Illustration rare card<br>Illus. [[GOSSAN]]
+}}
+
+==Trivia==
+*The illustration rare print of this card features three [[Team Galactic Grunt]]s.
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Supreme Victors|Croagunk|101}} from the {{TCG|Supreme Victors}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Glibunkel (Kollision von Raum und Zeit 107)]]
+[[es:Croagunk (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Cradopaud (Choc Spatio-Temporel 107)]]
+[[it:Croagunk (Scontro Spaziotemporale 107)]]
+[[ja:グレッグル (ポケポケ A2)]]
+[[zh:不良蛙（A2）]]

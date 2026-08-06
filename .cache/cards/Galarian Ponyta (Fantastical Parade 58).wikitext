@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Galarian Ponyta
+|ja name=ガラルポニータ
+|trans name=Galarian Ponyta
+|species=Ponyta
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GalarianPonytaFantasticalParade58.png|illustrator=Saya Tsuruta|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GalarianPonytaFantasticalParade167.png|illustrator=Orca|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=058/155|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=167/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Galarian Ponyta''' (Japanese: '''ガラルポニータ''' ''Galarian Ponyta'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Colorless}}
+|name=Flop
+|jname=はねまわる
+|jtrans=Hop About
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Ponyta
+|category=Unique Horn
+|ndex=0077
+|height=2'7"
+|jheight=0.8
+|weight=52.9
+|jweight=24.0
+|dex=This Pokémon will look into your eyes and read the contents of your heart. If it finds evil there, it promptly hides away.
+|jdex=瞳を 覗いて 心を 読む。 よこしまな 気持ちを 見つけると たちまち 姿を 消してしまう。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=GalarianPonytaFantasticalParade58.png
+|caption1=Common card<br>Illus. [[Saya Tsuruta]]
+|image2=GalarianPonytaFantasticalParade167.png
+|caption2=Illustration rare card<br>Illus. [[Orca]]
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Galarian form]] of {{p|Ponyta}}.
+*This card's standard illustration was first featured on {{TCG ID|Sword & Shield|Galarian Ponyta|81}} from the {{TCG|Sword & Shield}} expansion.
+*'''Flop''' is an attack that first appeared on {{TCG ID|Team Rocket|Magikarp|47}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Galar-Ponita (Traumhafte Parade 058)]]
+[[fr:Ponyta de Galar (Parade Onirique 058)]]
+[[it:Ponyta di Galar (Parata Fantasmagorica 58)]]
+[[ja:ガラルポニータ (ポケポケ B2)]]
+[[zh:伽勒尔 小火马（B2）]]

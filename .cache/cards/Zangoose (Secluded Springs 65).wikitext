@@ -1,0 +1,69 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Zangoose
+|ja name=ザングース
+|trans name=Zangoose
+|species=Zangoose
+|type=Colorless
+|image=ZangooseSecludedSprings65.png
+|illustrator=Misa Tsutsui
+|hp=80
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=065/071}}
+}}
+
+'''Zangoose''' (Japanese: '''ザングース''' ''Zangoose'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Counterattack
+|jname=はんげき
+|jtrans=Counterattack
+|effect=If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.
+}}
+
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Slash
+|jname=きりさく
+|jtrans=Slash
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Zangoose
+|category=Cat Ferret
+|ndex=0335
+|height=4'3"
+|jheight=1.3
+|weight=88.8
+|jweight=40.3
+|dex=It's Seviper's archrival. To threaten those it encounters, it fans out the claws on its front paws.
+|jdex=ハブネークとは 因縁の あいだ。 出会うと すかさず 前足の ツメを 広げて 威嚇するのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Zangoose|132}} from the {{TCG|Team Up}} expansion; both cards have the Slash attack.
+*{{DL|Skill (Shuffle)|Counterattack}} is a {{OBP|skill|Shuffle}} in [[Pokémon Shuffle]]. As an {{TCG|Ability}} in the TCG, it first appeared as a {{TCG|Pokémon Power}} named '''Strikes Back''' on {{TCG ID|Base Set|Machamp|8}} from the {{TCG|Base Set}}.
+*{{m|Slash}} is a [[move]] in the [[Pokémon games]] that {{p|Zangoose}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sengo (Verborgene Quelle 065)]]
+[[es:Zangoose (Manantial Oculto TCG Pocket)]]
+[[fr:Mangriff (Source Secrète 065)]]
+[[it:Zangoose (Sorgenti Recondite 65)]]
+[[ja:ザングース (ポケポケ A4a)]]
+[[zh:猫鼬斩（A4a）]]

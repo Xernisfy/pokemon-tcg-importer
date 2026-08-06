@@ -1,0 +1,76 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Stufful
+|ja name=ヌイコグマ
+|trans name=Nuikoguma
+|species=Stufful
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=StuffulExtradimensionalCrisis57.png|illustrator=Sekio|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=StuffulPromo-A83.png|illustrator=Kanako Eo|tab caption=Promo}}
+|hp=70
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=057/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=083/P-A}}
+}}
+
+'''Stufful''' (Japanese: '''ヌイコグマ''' ''Nuikoguma'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Stufful
+|category=Flailing 
+|ndex=0759
+|height=1'8"
+|jheight=0.5
+|weight=15
+|jweight=6.8
+|dex=Its fluffy fur is a delight to pet, but carelessly reaching out to touch this Pokémon could result in painful retaliation.
+|jdex=ふわふわの 毛並みは 触り心地が 抜群だが うかつに 手を だすと 手痛い 反撃を 受けてしまう。
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available via special wonder picks during the Ultra Necrozma [[Wonder Pick Event (Ultra Necrozma)|Wonder Pick Event]], which ran from June 12 to 22, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=StuffulExtradimensionalCrisis57.png
+|caption1=Common card<br>Illus. [[Sekio]]
+|image2=StuffulPromo-A83.png
+|caption2=Promo card<br>Illus. [[Kanako Eo]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Extradimensional Crisis}} illustration was first featured on {{TCG ID|Burning Shadows|Stufful|110}} from the {{TCG|Burning Shadows}} expansion.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Crimson Invasion|Stufful|55}} from the {{TCG|Crimson Invasion}} expansion.
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Velursi (Dimensionale Krise 057)]]
+[[es:Stufful (Crisis Dimensional TCG Pocket)]]
+[[fr:Nounourson (Crise Interdimensionnelle 057)]]
+[[it:Stufful (Crisi Ultradimensionale 57)]]
+[[ja:ヌイコグマ (ポケポケ A3a)]]
+[[zh:童偶熊（A3a）]]

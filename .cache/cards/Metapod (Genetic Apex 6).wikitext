@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Metapod
+|ja name=トランセル
+|trans name=Transel
+|species=Metapod
+|type=Grass
+|image=MetapodGeneticApex6.png
+|illustrator=Yuka Morii
+|hp=80
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Caterpie
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=006/226|pack=Pikachu|rarity=Diamond|rarity count=1}}
+}}
+
+'''Metapod''' (Japanese: '''トランセル''' ''Transel'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Bug Bite
+|jname=むしくい
+|jtrans=Bug Bite
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Metapod
+|species=Cocoon
+|ndex=0011
+|height=2'4"
+|jheight=0.7
+|weight=21.8
+|jweight=9.9
+|dex=It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.
+|jdex=進化を　待っている　状態｡ 硬くなる　ことしか　できないので 襲われないよう　じっとしている｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Metapod|2}} from the {{TCG|Sun & Moon}} expansion.
+**Both cards have the {{m|Bug Bite}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Metapod}} can learn via [[move tutor]].
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Safcon (Unschlagbare Gene 006)]]
+[[es:Metapod (Genes Formidables TCG Pocket)]]
+[[fr:Chrysacier (Puissance Génétique 006)]]
+[[it:Metapod (Geni Supremi 6)]]
+[[ja:トランセル (ポケポケ A1)]]
+[[zh:铁甲蛹（A1）]]

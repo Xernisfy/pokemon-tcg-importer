@@ -1,0 +1,77 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pidgeotto
+|ja name=ピジョン
+|trans name=Pigeon
+|species=Pidgeotto
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PidgeottoMythicalIsland58.png|illustrator=Taiga Kayama|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PidgeottoDeluxePackex275.png|illustrator=Taiga Kayama|tab caption=Parallel}}
+|hp=90
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Pidgey
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=058/068|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=274/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=275/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Pidgeotto''' (Japanese: '''ピジョン''' ''Pigeon'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Wing Attack
+|jname=つばさでうつ
+|jtrans=Wing Strike
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Pidgeotto
+|species=Bird
+|ndex=0017
+|height=3'7"
+|jheight=1.1
+|weight=66.1
+|jweight=30.0
+|dex=The claws on its feet are well developed. It can carry prey such as an Exeggcute to its nest over 60 miles away.
+|jdex=足の　ツメが　発達している｡ エサの　タマタマを　つかんで １００キロ先の　巣まで　運ぶ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=PidgeottoMythicalIsland58.png
+|caption1=Standard card<br>Illus. [[Taiga Kayama]]
+|image2=PidgeottoDeluxePackex275.png
+|caption2=Parallel foil card<br>Illus. [[Taiga Kayama]]
+}}
+
+==Trivia==
+[[File:TCGP Cover Tree of Repose.png|thumb|left|"Tree of Repose" binder cover]]
+This card's illustration is part of a {{TCG|combined illustration}} along with {{TCG ID|Mythical Island|Chewtle|22}}, {{TCG ID|Mythical Island|Dedenne|30}}, and {{TCG ID|Mythical Island|Primeape|42}} from the same expansion. Together, these cards form the {{TCGP|Mythical Island}} expansion's "Tree of Repose" [[Mythical Island (TCG Pocket)#Themed Collections|Themed Collection]], the completion reward for which is the "Tree of Repose" binder cover, showcasing the full illustration.
+
+===Origin===
+*{{m|Wing Attack}} is a [[move]] in the [[Pokémon games]] that {{p|Pidgeotto}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tauboga (Mysteriöse Insel 058)]]
+[[es:Pidgeotto (La Isla Singular TCG Pocket)]]
+[[fr:Roucoups (L'Île Fabuleuse 058)]]
+[[it:Pidgeotto (L'Isola Misteriosa 58)]]
+[[ja:ピジョン (ポケポケ A1a)]]
+[[zh:比比鸟（A1a）]]

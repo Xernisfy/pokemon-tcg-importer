@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dhelmise
+|ja name=ダダリン
+|trans name=Dadarin
+|species=Dhelmise
+|type=Grass
+|image=DhelmiseMythicalIsland9.png
+|illustrator=Hasuno
+|hp=100
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=009/068|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Dhelmise''' (Japanese: '''ダダリン''' ''Dadarin'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Energy Whip
+|jname=エナジーウィップ
+|jtrans=Energy Whip
+|damage=20+
+|effect=If this Pokémon has at least 3 extra {{e|Grass}} Energy attached, this attack does 70 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Dhelmise
+|species=Sea Creeper
+|ndex=0781
+|height=12'10"
+|jheight=3.9
+|weight=463
+|jweight=210
+|dex=After a piece of seaweed merged with debris from a sunken ship, it was reborn as this ghost Pokémon.
+|jdex=海底を 漂う 藻屑が 沈没船の 部品を 取りこんで ゴーストポケモンに 生まれ変わった。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Guardians Rising|Dhelmise|59}} from the {{TCG|Guardians Rising}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Moruda (Mysteriöse Insel 009)]]
+[[es:Dhelmise (La Isla Singular TCG Pocket)]]
+[[fr:Sinistrail (L'Île Fabuleuse 009)]]
+[[it:Dhelmise (L'Isola Misteriosa 9)]]
+[[ja:ダダリン (ポケポケ A1a)]]
+[[zh:破破舵轮（A1a）]]

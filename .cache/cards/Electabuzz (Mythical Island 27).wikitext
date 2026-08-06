@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Electabuzz
+|ja name=エレブー
+|trans name=Eleboo
+|species=Electabuzz
+|type=Lightning
+|image=ElectabuzzMythicalIsland27.png
+|illustrator=Naoyo Kimura
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=027/068|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Electabuzz''' (Japanese: '''エレブー''' ''Eleboo'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Thunder Spear
+|jname=サンダーアロー
+|jtrans=Thunder Arrow
+|damage=
+|effect=This attack does 40 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Electabuzz
+|species=Electric
+|ndex=0125
+|height=3'7"
+|jheight=1.1
+|weight=66.1
+|jweight=30.0
+|dex=Many power plants keep Ground-type Pokémon around as a defense against Electabuzz that come seeking electricity.
+|jdex=電気を　狙う　エレブーの　対策に じめんポケモンを　置く 発電所は　多い｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Electabuzz|71}} from the {{TCG|Lost Thunder}} expansion.
+*'''Thunder Spear''' is an attack that first appeared on {{TCG ID|EX Sandstorm|Electabuzz|35}} from the {{TCG|EX Sandstorm}} expansion. 
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Elektek (Mysteriöse Insel 027)]]
+[[es:Electabuzz (La Isla Singular TCG Pocket)]]
+[[fr:Élektek (L'Île Fabuleuse 027)]]
+[[it:Electabuzz (L'Isola Misteriosa 27)]]
+[[ja:エレブー (ポケポケ A1a)]]
+[[zh:电击兽（A1a）]]

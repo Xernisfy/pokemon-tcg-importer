@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Onix
+|ja name=イワーク
+|trans name=Iwark
+|species=Onix
+|type=Fighting
+|image=OnixPromo-B21.png
+|illustrator=Hitoshi Ariga
+|hp=100
+|weakness=Grass
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=021/P-B|pack=Vol. 3}}
+}}
+
+'''Onix''' (Japanese: '''イワーク''' ''Iwark'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-B}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Tail Smash
+|jname=テールスマッシュ
+|jtrans=Tail Smash
+|damage=90
+|effect=Flip a coin. If tails, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Onix
+|species=Rock Snake
+|ndex=0095
+|height=28'10"
+|jheight=8.8
+|weight=463
+|jweight=210.0
+|dex=It rapidly bores through the ground at 50 mph by squirming and twisting its massive, rugged body.
+|jdex=大きく 丈夫な 体を くねらせ よじらせ 時速80キロで 地面を 勢いよく 掘り進む。
+}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-B Vol. 3 packs; these were made available as part of the [[Mega Latios ex Drop Event]], which ran from January 17 to February 3, 2026.
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Onix|103}} from the {{TCG|Unified Minds}} expansion.
+*'''Tail Smash''' is an attack that first appeared on {{TCG ID|Expedition|Charizard|39}} from {{TCG|Expedition Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Onix (PROMO-B 021)]]
+[[fr:Onix (Promo-B 021)]]
+[[it:Onix (Promo-B 21)]]
+[[ja:イワーク (ポケポケ P-B)]]

@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Luvdisc
+|ja name=ラブカス
+|trans name=Lovecus
+|species=Luvdisc
+|type=Water
+|image=LuvdiscMegaRising60.png
+|illustrator=sui
+|hp=70
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Altaria|rarity=Diamond|rarity count=1|number=060/226}}
+}}
+
+'''Luvdisc''' (Japanese: '''ラブカス''' ''Lovecus'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}
+|name=Paired Tackle
+|jname=カップルタックル
+|jtrans=Couple Tackle
+|damage=30+
+|effect=If you have exactly 2, 4, or 6 cards in your hand, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Luvdisc
+|species=Rendezvous
+|ndex=0370
+|height=2'
+|jheight=0.6
+|weight=19.2
+|jweight=8.7
+|dex=During the spawning season, countless Luvdisc congregate at coral reefs, turning the waters pink. 
+|jdex=繁殖シーズンには たくさんの ラブカスが サンゴ礁に 集まり 海面が ピンク色に 染まる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Triumphant|Luvdisc|39}} from the {{TCG|Triumphant}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Liebiskus (Mega-Aufstieg 060)]]
+[[es:Luvdisc (Megaascenso TCG Pocket)]]
+[[fr:Lovdisc (Méga-Ascension 060)]]
+[[it:Luvdisc (Mega Ascesa 60)]]
+[[ja:ラブカス (ポケポケ B1)]]
+[[zh:爱心鱼（B1）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Furret
+|ja name=オオタチ
+|trans name=Ootachi
+|species=Furret
+|type=Colorless
+|image=FurretFantasticalParade129.png
+|illustrator=Kagemaru Himeno
+|hp=100
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Sentret
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=129/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Furret''' (Japanese: '''オオタチ''' ''Ootachi'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Headbutt Bounce
+|jname=とびだしヘッド
+|jtrans=Head Thrust
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Furret
+|category=Long Body
+|ndex=0162
+|height=5'11"
+|jheight=1.8
+|weight=71.7
+|jweight=32.5
+|dex=It is nimble and has a very flexible body. Even if you get ahold of it, it'll slip right out of your arms.
+|jdex=すばしっこく とても 体が 柔らかいので 捕まえても するりと 腕から 抜け出すぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Secret Wonders|Furret|27}} from the {{TCG|Secret Wonders}} expansion.
+*'''Headbutt Bounce''' is an attack that first appeared on {{TCG ID|Boundaries Crossed|Wobbuffet|58}} from the {{TCG|Boundaries Crossed}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wiesenior (Traumhafte Parade 129)]]
+[[fr:Fouinar (Parade Onirique 129)]]
+[[it:Furret (Parata Fantasmagorica 129)]]
+[[ja:オオタチ (ポケポケ B2)]]
+[[zh:大尾立（B2）]]

@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pikachu
+|ja name=ピカチュウ
+|trans name=Pikachu
+|species=Pikachu
+|type=Lightning
+|image=PikachuMythicalIsland25.png
+|illustrator=Naoyo Kimura
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=025/068|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Pikachu''' (Japanese: '''ピカチュウ''' ''Pikachu'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Circle Circuit
+|jname=エレキサークル
+|jtrans=Elec-Circle
+|damage=10×
+|effect=This attack does 10 damage for each of your Benched {{e|Lightning}} Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Pikachu
+|species=Mouse
+|ndex=0025
+|height=1'4"
+|jheight=0.4
+|weight=13.2
+|jweight=6.0
+|dex=When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.
+|jdex=両頬には　電気を　溜めこむ 袋がある｡　怒ると　溜めこんだ 電気を　一気に　放ってくる｡
+}}
+
+==Trivia==
+This card's number in the {{TCGP|Mythical Island}} expansion is 025, which is also {{p|Pikachu}}'s [[National Pokédex]] [[List of Pokémon by National Pokédex number|number]].
+
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Neo Genesis|Pikachu|70}} from the {{TCG|Neo Genesis}} expansion.
+*'''Circle Circuit''' is an attack that first appeared on {{TCG ID|XY|Raichu|43}} from the {{TCG|XY}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pikachu (Mysteriöse Insel 025)]]
+[[es:Pikachu (La Isla Singular TCG Pocket)]]
+[[fr:Pikachu (L'Île Fabuleuse 025)]]
+[[it:Pikachu (L'Isola Misteriosa 25)]]
+[[ja:ピカチュウ (ポケポケ A1a)]]
+[[zh:皮卡丘（A1a）]]

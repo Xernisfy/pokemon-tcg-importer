@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Hiker
+|ja name=やまおとこ
+|trans name=Mountaineer
+|subtype=Supporter
+|image=HikerWisdomofSeaandSky.png
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HikerWisdomofSeaandSky161.png|illustrator=Hitoshi Ariga|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HikerWisdomofSeaandSky201.png|illustrator=Hideki Ishikawa|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=161/161|pack=Ho-Oh|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=201/161|pack=Ho-Oh|rarity=Star|rarity count=2}}
+}}
+
+'''Hiker''' (Japanese: '''やまおとこ''' ''Mountaineer'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=For each of your {{e|Fighting}} Pokémon in play, look at that many cards from the top of your deck and put them back in any order.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=HikerWisdomofSeaandSky161.png
+|caption1=Uncommon card<br>Illus. [[Hitoshi Ariga]]
+|image2=HikerWisdomofSeaandSky201.png
+|caption2=Super rare card<br>Illus. [[Hideki Ishikawa]]
+}}
+
+==Trivia==
+* {{TCG|Hiker}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+The {{tc|Hiker}} Trainer class is a type of [[Pokémon Trainer]] in the [[Pokémon games]]. This card's artwork features the Hiker's appearance from the [[Generation IV]] games.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=やまおとこ ''Yama Otoko''
+|zh_yue=登山男 ''Dāngsāannàahm''
+|zh_cmn=登山男 ''Dēngshānnán''
+|fr=Montagnard
+|de=Wanderer
+|it=Montanaro
+|ko=등산가 ''Deungsan-ga''
+|pt_br=Montanhista
+|es=Montañero
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wanderer (TCG Pocket)]]
+[[es:Montañero (TCG Pocket)]]
+[[fr:Montagnard (Sagesse entre Ciel et Mer 161)]]
+[[it:Montanaro (La Via del Cielo e del Mare 161)]]
+[[ja:やまおとこ (ポケポケ)]]
+[[zh:登山男（TCGP）]]

@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Paldean Clodsire {{TCGP Icon|ex}}
+|ja name=パルデアドオー{{TCGP Icon|ex}}
+|trans name=Paldean Dooh {{TCGP Icon|ex}}
+|species=Clodsire
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PaldeanClodsireexShiningRevelry48.png|illustrator=PLANETA Mochizuki|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PaldeanClodsireexShiningRevelry85.png|illustrator=PLANETA Igarashi|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PaldeanClodsireexShiningRevelry93.png|illustrator=REND|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PaldeanClodsireexSecludedSprings104.png|illustrator=PLANETA Igarashi|tab caption=Shiny Super Rare}}
+|hp=160
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Paldean Wooper
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=048/072|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=085/072|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=093/072|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=104/071|pack=Any|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=238/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Paldean Clodsire ex''' (Japanese: '''パルデアドオーex''' ''Paldean Dooh ex'') is a {{ct|Darkness}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}
+|name=Venoshock
+|jname=ベノムショック
+|jtrans=Venom Shock
+|damage=60+
+|effect=If your opponent's Active Pokémon is {{TCG|Poisoned}}, this attack does 60 more damage.
+}}
+{{Cardtext/Pocket ex
+|type=Darkness
+|ndex=0980
+|name=Clodsire
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=PaldeanClodsireexShiningRevelry48.png
+|caption1=Double rare card<br>Illus. [[PLANETA Mochizuki]]
+|image2=PaldeanClodsireexShiningRevelry85.png
+|caption2=Super rare card<br>Illus. [[PLANETA Igarashi]]
+|image4=PaldeanClodsireexShiningRevelry93.png
+|caption4=Special illustration rare card<br>Illus. [[REND]]
+|image5=PaldeanClodsireexSecludedSprings104.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA Igarashi]]
+}}
+
+==Trivia==
+*This card's special illustration rare print features [[Paldean form]] of {{p|Wooper}} and {{p|Clodsire}}.
+===Origin===
+*This card's shiny super rare print features a {{Shiny}} {{p|Clodsire}}.
+*{{m|Venoshock}} is a [[move]] in the [[Pokémon games]] that {{p|Clodsire}} can learn via [[TM]].
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Paldea-Suelord-ex (Glänzendes Festival 048)]]
+[[es:Clodsire de Paldea ex (Festival Brillante TCG Pocket)]]
+[[fr:Terraiste de Paldea-ex (Réjouissances Rayonnantes 048)]]
+[[it:Clodsire di Paldea-ex (Tripudio Splendente 48)]]
+[[ja:パルデアドオーex (ポケポケ A2b)]]
+[[zh:帕底亞 土王ex（A2b）]]

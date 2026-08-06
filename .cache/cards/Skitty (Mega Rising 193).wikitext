@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Skitty
+|ja name=エネコ
+|trans name=Eneco
+|species=Skitty
+|type=Colorless
+|image=SkittyMegaRising193.png
+|illustrator=Saya Tsuruta
+|hp=50
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=193/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+}}
+
+'''Skitty''' (Japanese: '''エネコ''' ''Eneco'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Play Rough
+|jname=じゃれつく
+|jtrans=Frolic
+|damage=10+
+|effect=Flip a coin. If heads, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Skitty
+|category=Kitten
+|ndex=0300
+|height=2'
+|jheight=0.6
+|weight=24.3
+|jweight=11.0
+|dex=It shows its cute side by chasing its own tail until it gets dizzy.
+|jdex=自分の 尻尾を 追いかけて 遊んでいると 目を 回すといった 可愛らしい 一面を みせる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Skitty|141}} from the {{TCG|Darkness Ablaze}} expansion.
+*{{m|Play Rough}} is a [[move]] in the [[Pokémon games]] that {{p|Skitty}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Eneco (Mega-Aufstieg 193)]]
+[[es:Skitty (Megaascenso TCG Pocket)]]
+[[fr:Skitty (Méga-Ascension 193)]]
+[[it:Skitty (Mega Ascesa 193)]]
+[[ja:エネコ (ポケポケ B1)]]
+[[zh:向尾喵（B1）]]

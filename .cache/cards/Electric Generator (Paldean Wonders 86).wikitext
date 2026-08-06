@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Electric Generator
+|ja name=エレキジェネレーター
+|trans name=Electric Generator
+|subtype=Item
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ElectricGeneratorPaldeanWonders86.png|illustrator=Toyste Beach|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ElectricGeneratorPaldeanWonders131.png|illustrator=Toyste Beach|tab caption=Ultra Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=086/093}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Crown|rarity count=1|number=131/093}}
+}}
+
+'''Electric Generator''' (Japanese: '''エレキジェネレーター''' ''Electric Generator'') is an {{TCGP|Item card}} in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Flip a coin. If heads, take a {{e|Lightning}} Energy from your Energy Zone and attach it to 1 of your Benched {{e|Lightning}} Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Item
+|image1=ElectricGeneratorPaldeanWonders86.png
+|caption1=Uncommon card<br>Illus. [[Toyste Beach]]
+|image2=ElectricGeneratorPaldeanWonders131.png
+|caption2=Ultra rare card<br>Illus. [[Toyste Beach]]
+}}
+
+==Trivia==
+This card's effect is similar to the {{TCG|Electric Generator}} card in the [[Pokémon Trading Card Game]], as both allow players to attach extra {{e|Lightning}} Energy to Benched {{e|Lightning}} Pokémon.
+
+===Origin===
+This card's standard illustration was first featured on {{TCG ID|Scarlet & Violet|Electric Generator|170}} from the {{TCG|Scarlet & Violet}} expansion.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}
+|ja=エレキジェネレーター ''Ereki Generator''
+|zh_yue=電氣發生器 ''Dihnhei Faatsānghei''
+|zh_cmn=電氣發生器 ''Diànqì Fāshēngqì''
+|fr=Générateur Électrique
+|de=Elektrischer Generator
+|it=Generatore di Elettricità
+|ko=일렉트릭 제너레이터 ''Electric Generator''
+|pt_br=Gerador Elétrico
+|es=Generador Eléctrico
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Elektrischer Generator (TCG Pocket)]]
+[[fr:Générateur Électrique (Merveilles de Paldea 086)]]
+[[it:Generatore di Elettricità (Meraviglie di Paldea 86)]]
+[[ja:エレキジェネレーター (ポケポケ)]]

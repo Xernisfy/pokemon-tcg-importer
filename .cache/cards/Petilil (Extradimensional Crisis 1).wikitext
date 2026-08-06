@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Petilil
+|ja name=チュリネ
+|trans name=Churine
+|species=Petilil
+|type=Grass
+|image=PetililExtradimensionalCrisis1.png
+|illustrator=sui
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=001/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Petilil''' (Japanese: '''チュリネ''' ''Churine'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Seed Bomb
+|jname=タネばくだん
+|jtrans=Seed Bomb
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Petilil
+|category=Bulb 
+|ndex=0548
+|height=1'8"
+|jheight=0.5
+|weight=14.6
+|jweight=6.6
+|dex=The leaves on its head grow right back even if they fall out. These bitter leaves refresh those who eat them.
+|jdex=抜け落ちても　すぐに　生えてくる 頭の　葉っぱは　とても　苦いが かじれば　すぐ　元気に　なれる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Boundaries Crossed|Petilil|16}} from the {{TCG|Boundaries Crossed}} expansion.
+*{{m|Seed Bomb}} is a [[move]] in the [[Pokémon games]] that {{p|Petilil}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lilminip (Dimensionale Krise 001)]]
+[[es:Petilil (Crisis Dimensional TCG Pocket)]]
+[[fr:Chlorobule (Crise Interdimensionnelle 001)]]
+[[it:Petilil (Crisi Ultradimensionale 1)]]
+[[ja:チュリネ (ポケポケ A3a)]]
+[[zh:百合根娃娃（A3a）]]

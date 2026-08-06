@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Diglett
+|ja name=ディグダ
+|trans name=Digda
+|species=Diglett
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DiglettGeneticApex139.png|illustrator=Masako Yamashita|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DiglettGeneticApex238.png|illustrator=Shinya Komatsu|tab caption=Illustration Rare}}
+|hp=50
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=139/226|pack=Pikachu|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=238/226|pack=Pikachu|rarity=Star|rarity count=1}}
+}}
+
+'''Diglett''' (Japanese: '''ディグダ''' ''Digda'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Mud-Slap
+|jname=どろかけ
+|jtrans=Mud Spray
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Diglett
+|species=Mole
+|ndex=0050
+|height=8"
+|jheight=0.2
+|weight=1.8
+|jweight=0.8
+|dex=It lives about one yard underground, where it feeds on plant roots. It sometimes appears aboveground.
+|jdex=地下１メートルくらいを　掘りすすみ 木の根っこなどを　かじって　生きる｡ たまに　地上に　顔を出す｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=DiglettGeneticApex139.png
+|caption1=Common card<br>Illus. [[Masako Yamashita]]
+|image2=DiglettGeneticApex238.png
+|caption2=Illustration rare card<br>Illus. [[Shinya Komatsu]]
+}}
+
+==Trivia==
+The illustration rare print of this card features the entrance to [[Diglett's Cave]] on [[Kanto]] {{rt|11|Kanto}}.
+
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Expedition|Diglett|106}} from the {{TCG|Expedition Base Set}}.
+*{{m|Mud-Slap}} is a [[move]] in the [[Pokémon games]] that {{p|Diglett}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Digda (Unschlagbare Gene 139)]]
+[[es:Diglett (Genes Formidables TCG Pocket)]]
+[[fr:Taupiqueur (Puissance Génétique 139)]]
+[[it:Diglett (Geni Supremi 139)]]
+[[ja:ディグダ (ポケポケ A1)]]
+[[zh:地鼠（A1）]]

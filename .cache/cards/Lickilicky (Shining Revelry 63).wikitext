@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lickilicky
+|ja name=ベロベルト
+|trans name=Berobelt
+|species=Lickilicky
+|type=Colorless
+|image=LickilickyShiningRevelry63.png
+|illustrator=Suwama Chiaki
+|hp=130
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Lickitung
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=063/072|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Lickilicky''' (Japanese: '''ベロベルト''' ''Berobelt'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Rollout
+|jname=ころがる
+|jtrans=Roll
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Lickilicky
+|category=Licking 
+|ndex=0463
+|height=5'7"
+|jheight=1.7
+|weight=308.6
+|jweight=140.0
+|dex=Lickilicky's strange tongue can stretch to many times the length of its body. No one has figured out how Lickilicky's tongue can stretch so far.
+|jdex=体の 何倍もの 長さまで 伸びる 不思議な ベロを もつ。 その 不思議は 未解明のまま。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Lickilicky|162}} from the {{TCG|Unified Minds}} expansion; both cards have the Rollout attack.
+*{{m|Rollout}} is a [[move]] in the [[Pokémon games]] that {{p|Lickilicky}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schlurplek (Glänzendes Festival 063)]]
+[[es:Lickilicky (Festival Brillante TCG Pocket)]]
+[[fr:Coudlangue (Réjouissances Rayonnantes 063)]]
+[[it:Lickilicky (Tripudio Splendente 63)]]
+[[ja:ベロベルト (ポケポケ A2b)]]
+[[zh:大舌舔（A2b）]]

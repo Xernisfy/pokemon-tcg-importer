@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sandshrew
+|ja name=サンド
+|trans name=Sand
+|species=Sandshrew
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SandshrewMegaRising122.png|illustrator=Sekio|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SandshrewCrimsonBlaze94.png|illustrator=MAHOU|tab caption=Shiny Rare}}
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=122/226|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=094/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Sandshrew''' (Japanese: '''サンド''' ''Sand'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Sand Spray
+|jname=すなしぶき
+|jtrans=Sand Spray
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Sandshrew
+|category=Mouse
+|ndex=0027
+|height=2'
+|jheight=0.6
+|weight=26.5
+|jweight=12.0
+|dex=It burrows into the ground to create its nest. If hard stones impede its tunneling, it uses its sharp claws to scatter them and then carries on digging.
+|jdex=地面を 掘って 巣穴を つくる。 地中の 硬い 岩も 鋭い ツメで 砕いて 掘り進むぞ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=SandshrewMegaRising122.png
+|caption1=Common card<br>Illus. [[Sekio]]
+|image2=SandshrewCrimsonBlaze94.png
+|caption2=Shiny rare card<br>Illus. [[MAHOU]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unbroken Bonds|Sandshrew|83}} from the {{TCG|Unbroken Bonds}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Sandshrew}}.
+*'''Sand Spray''' is an attack that first appeared on {{TCG ID|Fates Collide|Wormadam|44}} from the {{TCG|Fates Collide}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sandan (Mega-Aufstieg 122)]]
+[[es:Sandshrew (Megaascenso TCG Pocket)]]
+[[fr:Sabelette (Méga-Ascension 122)]]
+[[it:Sandshrew (Mega Ascesa 122)]]
+[[ja:サンド (ポケポケ B1)]]
+[[zh:穿山鼠（B1）]]

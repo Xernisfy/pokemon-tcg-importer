@@ -1,0 +1,70 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Slakoth
+|ja name=ナマケロ
+|trans name=Namakero
+|species=Slakoth
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SlakothFantasticalParade134.png|illustrator=okayamatakatoshi|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SlakothFantasticalParade179.png|illustrator=Miki Tanaka|tab caption=Illustration Rare}}
+|hp=70
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=134/155|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=179/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Slakoth''' (Japanese: '''ナマケロ''' ''Namakero'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Yawn
+|jname=あくび
+|jtrans=Yawn
+|damage=
+|effect=Your opponent's Active Pokémon is now {{TCG|Asleep}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Slakoth
+|species=Slacker
+|ndex=0287
+|height=2'7"
+|jheight=0.8
+|weight=52.9
+|jweight=24.0
+|dex=The way Slakoth lolls around makes anyone who watches it feel like doing the same.
+|jdex=ナマケロの 怠けた 様子は 見ている 人の 怠け心を 存分に 刺激するのだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=SlakothFantasticalParade134.png
+|caption1=Common card<br>Illus. [[okayamatakatoshi]]
+|image2=SlakothFantasticalParade179.png
+|caption2=Illustration rare card<br>Illus. [[Miki Tanaka]]
+}}
+
+==Trivia==
+===Origin===
+*{{m|Yawn}} is a [[move]] in the [[Pokémon games]] that {{p|Slakoth}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bummelz (Traumhafte Parade 134)]]
+[[fr:Parecool (Parade Onirique 134)]]
+[[it:Slakoth (Parata Fantasmagorica 134)]]
+[[ja:ナマケロ (ポケポケ B2)]]
+[[zh:懒人獭（B2）]]

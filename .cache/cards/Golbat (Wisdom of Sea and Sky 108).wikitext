@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Golbat
+|ja name=ゴルバット
+|trans name=Golbat
+|species=Golbat
+|type=Darkness
+|image=GolbatWisdomofSeaandSky108.png
+|illustrator=kawayoo
+|hp=70
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Zubat
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=108/161|pack=Ho-Oh|rarity=Diamond|rarity count=2}}
+}}
+
+'''Golbat''' (Japanese: '''ゴルバット''' ''Golbat'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}
+|name=Venomous Fang
+|jname=どくのキバ
+|jtrans=Poison Fang
+|damage=20
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Golbat
+|species=Bat
+|ndex=0042
+|height=5'3"
+|jheight=1.6
+|weight=121.3
+|jweight=55.0
+|dex=It loves to drink other creatures' blood. It's said that if it finds others of its kind going hungry, it sometimes shares the blood it's gathered.
+|jdex=生き物の　血液が　好物｡ 腹ペコの　仲間に　吸った　血を 分け与えることも　あるという｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unleashed|Golbat|30}} from the {{TCG|Unleashed}} expansion.
+*'''Venomous Fang''' is an attack that first appeared on {{TCG ID|Furious Fists|Drapion|65}} from the {{TCG|Furious Fists}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Golbat (Weisheit von Meer und Himmel 108)]]
+[[es:Golbat (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Nosferalto (Sagesse entre Ciel et Mer 108)]]
+[[it:Golbat (La Via del Cielo e del Mare 108)]]
+[[ja:ゴルバット (ポケポケ A4)]]
+[[zh:大嘴蝠（A4）]]

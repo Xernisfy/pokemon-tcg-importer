@@ -1,0 +1,82 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Jumpluff
+|ja name=ワタッコ
+|trans name=Watacco
+|species=Jumpluff
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JumpluffWisdomofSeaandSky15.png|illustrator=Kagemaru Himeno|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=JumpluffDeluxePackex19.png|illustrator=Kagemaru Himeno|tab caption=Parallel}}
+|hp=120
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Skiploom
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=015/161|pack=Ho-Oh|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=018/353|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=019/353|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Jumpluff''' (Japanese: '''ワタッコ''' ''Watacco'') is a {{ct|Grass}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Ability/Pocket
+|type=Grass
+|name=Fluffy Flight
+|jname=コットンフライト
+|jtrans=Cotton Flight
+|effect=Your Active Pokémon has no Retreat Cost.
+}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Spinning Attack
+|jname=かいてんアタック
+|jtrans=Spinning Attack
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Jumpluff
+|species=Cottonweed
+|ndex=0189
+|height=2'7"
+|jheight=0.8
+|weight=6.6
+|jweight=3.0
+|dex=Jumpluff travels on seasonal winds. Once its cotton spores run out, its journey ends, as does its life.
+|jdex=季節風に 乗り 旅をする。 綿胞子が 尽きるとき 旅と ワタッコの 一生は 終わる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=JumpluffWisdomofSeaandSky15.png
+|caption1=Standard card<br>Illus. [[Kagemaru Himeno]]
+|image2=JumpluffDeluxePackex19.png
+|caption2=Parallel foil card<br>Illus. [[Kagemaru Himeno]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Secret Wonders|Jumpluff|11}} from the {{TCG|Secret Wonders}} expansion.
+*'''Spinning Attack''' is an attack that first appeared on {{TCG ID|Vending|Staryu|S3}} from {{TCG|Expansion Sheet 3}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Papungha (Weisheit von Meer und Himmel 015)]]
+[[es:Jumpluff (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Cotovol (Sagesse entre Ciel et Mer 015)]]
+[[it:Jumpluff (La Via del Cielo e del Mare 15)]]
+[[ja:ワタッコ (ポケポケ A4)]]
+[[zh:毽子棉（A4）]]

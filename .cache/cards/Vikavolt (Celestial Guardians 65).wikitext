@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Vikavolt
+|ja name=クワガノン
+|trans name=Kuwagannon
+|species=Vikavolt
+|type=Lightning
+|image=VikavoltCelestialGuardians65.png
+|illustrator=Hitoshi Ariga
+|hp=140
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Charjabug
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lunala|rarity=Diamond|rarity count=3|number=065/155}}
+}}
+
+'''Vikavolt''' (Japanese: '''クワガノン''' ''Kuwagannon'') is a {{ct|Lightning}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Lightning}}
+|name=Disconnect
+|jname=でんじしょうがい
+|jtrans=Electromagnetic Barrier
+|damage=70
+|effect=During your opponent's next turn, they can't play any {{TCGP|Item card}}s from their hand.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Vikavolt
+|species=Stag Beetle
+|ndex=0738
+|height=4'11"
+|jheight=1.5
+|weight=99.2
+|jweight=45.0
+|dex=It builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams.
+|jdex=お腹で 発電した 電気を 大きな 顎で 収束させて 大出力の ビームを 撃つ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Vikavolt|52}} from the {{TCG|Sun & Moon}} expansion.
+*'''Disconnect''' is an attack that first appeared on {{TCG ID|EX Deoxys|Manectric ex|101}} from the {{TCG|EX Deoxys}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Donarion (Hüter des Firmaments 065)]]
+[[es:Vikavolt (Guardianes Celestiales TCG Pocket)]]
+[[fr:Lucanon (Gardiens Astraux 065)]]
+[[it:Vikavolt (Guardiani Astrali 65)]]
+[[ja:クワガノン (ポケポケ A3)]]
+[[zh:锹农炮虫（A3）]]

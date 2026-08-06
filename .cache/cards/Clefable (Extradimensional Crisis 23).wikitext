@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Clefable
+|ja name=ピクシー
+|trans name=Pixy
+|species=Clefable
+|type=Psychic
+|image=ClefableExtradimensionalCrisis23.png
+|illustrator=miki kudo
+|hp=100
+|weakness=Metal
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Clefairy
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=023/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Clefable''' (Japanese: '''ピクシー''' ''Pixy'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Moon Kick
+|jname=ムーンキック
+|jtrans=Moon Kick
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Clefable
+|species=Fairy
+|ndex=0036
+|height=4'3"
+|jheight=1.3
+|weight=88.2
+|jweight=40.0
+|dex=A timid fairy Pokémon that is rarely seen, it will run and hide the moment it senses people.
+|jdex=妖精の　仲間で　めったに 人前に　出てこない｡　気配を 感じて　すぐに　逃げてしまうようだ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Clefable|75}} from the {{TCG|Rebel Clash}} expansion; both cards have the Moon Kick attack.
+*'''Moon Kick''' is an attack that first appeared on {{TCG ID|Gym Challenge|Erika's Clefairy|40}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pixi (Dimensionale Krise 023)]]
+[[es:Clefable (Crisis Dimensional TCG Pocket)]]
+[[fr:Mélodelfe (Crise Interdimensionnelle 023)]]
+[[it:Clefable (Crisi Ultradimensionale 23)]]
+[[ja:ピクシー (ポケポケ A3a)]]
+[[zh:皮可西（A3a）]]

@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Toedscruel
+|ja name=リククラゲ
+|trans name=Rikukurage
+|species=Toedscruel
+|type=Fighting
+|image=ToedscruelPaldeanWonders60.png
+|illustrator=Kouki Saitou
+|hp=120
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Toedscool
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=060/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Toedscruel''' (Japanese: '''リククラゲ''' ''Rikukurage'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}{{e|Colorless}}
+|name=Stun Spore
+|jname=しびれごな
+|jtrans=Numbing Powder
+|damage=70
+|effect=Flip a coin. If heads, your opponent's Active Pokémon is now {{TCG|Paralyzed}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Toedscruel
+|category=Woodear
+|ndex=0949
+|height=6'3"
+|jheight=1.9
+|weight=127.9
+|jweight=58.0
+|dex=It coils its 10 tentacles around prey and sucks out their nutrients, causing the prey pain. The folds along the rim of its head are a popular delicacy.
+|jdex=10本の 触手で 絡みつき 養分を 吸い取って 苦しめる。 裾の ヒダは 珍味で 人気。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Obsidian Flames|Toedscruel|119}} from the {{TCG|Obsidian Flames}} expansion.
+*{{m|Stun Spore}} is a [[move]] in the [[Pokémon games]] that {{p|Toedscruel}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tenterra (Wundervolles Paldea 060)]]
+[[fr:Terracruel (Merveilles de Paldea 060)]]
+[[it:Toedscruel (Meraviglie di Paldea 60)]]
+[[ja:リククラゲ (ポケポケ B2a)]]
+[[zh:陆地水母（B2a）]]

@@ -1,0 +1,79 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Meowth
+|ja name=ニャース
+|trans name=Nyarth
+|species=Meowth
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MeowthFantasticalParade124.png|illustrator=Kouki Saitou|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MeowthFantasticalParade204.png|illustrator=Teeziro|tab caption=Immersive}}
+|hp=50
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=124/155|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=204/155|pack=Any|rarity=Star|rarity count=3}}
+}}
+
+'''Meowth''' (Japanese: '''ニャース''' ''Nyarth'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Carefree Steps
+|jname=きままにステップ
+|jtrans=Carefree Steps
+|effect=If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Feelin’ Fine
+|jname=じょうきげん
+|jtrans=Good Mood
+|effect=Draw a card.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Meowth
+|species=Scratch Cat
+|ndex=0052
+|height=1'4"
+|jheight=0.4
+|weight=9.3
+|jweight=4.2
+|dex=It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines, too.
+|jdex=眩しく　光るものが　大好き｡ 光るものを　見つけたとき　なぜか 額の小判も　輝く｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=MeowthFantasticalParade124.png
+|caption1=Standard card<br>Illus. [[Kouki Saitou]]
+|image2=MeowthFantasticalParade204.png
+|caption2={{TCGP|Immersive card}}<br>Illus. [[Teeziro]]
+}}
+
+==Trivia==
+*This card's {{TCGP|immersive card|immersive}} illustration includes {{p|Meowth}}, {{p|Vivillon}}, {{p|Falinks}}, {{p|Chandelure}}, {{p|Mudkip}}, {{p|Cacnea}}, {{p|Ledyba}}, {{p|Delibird}}, {{p|Raboot}}, {{p|Smeargle}}, {{p|Drilbur}}, {{p|Maushold}}, {{p|Plusle}}, {{p|Minun}}, and {{p|Meloetta}}.
+
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Nintendo Promo|Meowth|13}}, one of the {{TCG|Nintendo Black Star Promos}}.
+*'''Feelin' Fine''' is an attack that first appeared on {{TCG ID|Roaring Skies|Meowth|67}} from the {{TCG|Roaring Skies}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+[[de:Mauzi (Traumhafte Parade 124)]]
+[[es:Meowth (Desfile de Ensueño TCG Pocket]]
+[[fr:Miaouss (Parade Onirique 124)]]
+[[it:Meowth (Parata Fantasmagorica 124)]]
+[[ja:ニャース (ポケポケ B2)]]
+[[zh:喵喵（B2）]]

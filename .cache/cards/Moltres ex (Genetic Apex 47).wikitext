@@ -1,0 +1,92 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Moltres {{TCGP Icon|ex}}
+|ja name=ファイヤー{{TCGP Icon|ex}}
+|trans name=Fire {{TCGP Icon|ex}}
+|species=Moltres
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MoltresexGeneticApex47.png|illustrator=PLANETA Tsuji|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MoltresexGeneticApex255.png|illustrator=PLANETA Saito|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MoltresexGeneticApex274.png|illustrator=hncl|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MoltresexEeveeGrove103.png|illustrator=PLANETA Saito|tab caption=Shiny Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MoltresexPromo-A25.png|illustrator=PLANETA Igarashi|tab caption=Promo}}
+|hp=140
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=047/226|pack=Charizard|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=255/226|pack=Charizard|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=274/226|pack=Charizard|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=025/P-A}}
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=103/069|pack=Any|rarity=Shiny|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=067/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Moltres ex''' (Japanese: '''ファイヤーex''' ''Fire ex'') is a {{ct|Fire}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Inferno Dance
+|jname=れっかのまい
+|jtrans=Raging Fire Dance
+|damage=
+|effect=Flip 3 coins. Take an amount of {{e|Fire}} Energy from your Energy Zone equal to the number of heads and attach it to your Benched {{e|Fire}} Pokémon in any way you like.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Colorless}}{{e|Colorless}}
+|name=Heat Blast
+|jname=ヒートブラスト
+|jtrans=Heat Blast
+|damage=70
+|effect=
+}}
+{{Cardtext/Pocket ex
+|type=Fire
+|ndex=0146
+|name=Moltres
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+The {{TCGP|Promo-A}} card was available from January 1 to 31, 2025 as a login reward from the monthly [[Mission (TCG Pocket)#Premium Missions|Premium Missions]].
+
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=MoltresexGeneticApex47.png
+|caption1=Double rare card<br>Illus. [[PLANETA Tsuji]]
+|image2=MoltresexGeneticApex255.png
+|caption2=Super rare card<br>Illus. [[PLANETA Saito]]
+|image3=MoltresexGeneticApex274.png
+|caption3=Special illustration rare card<br>Illus. [[hncl]]
+|image4=MoltresexPromo-A25.png
+|caption4=Promo card<br>Illus. [[PLANETA Igarashi]]
+|image5=MoltresexEeveeGrove103.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA Saito]]
+}}
+
+==Trivia==
+[[File:MoltresexGeneticApex274 artwork.png|thumb|Standalone illustration]]
+The special illustration rare card features {{p|Moltres}} flying above [[Mt. Ember]] in the [[Sevii Islands]], where it can be found in {{game|FireRed and LeafGreen|s}}. {{p|Machop}} and {{p|Machoke}}, which can be found in the same location in the games, also appear in the illustration.
+
+===Origin===
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Moltres}}.
+*'''Heat Blast''' is an attack that first appeared on {{TCG ID|Latias Half Deck|Latias|4}} from the {{TCG|EX Trainer Kit}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lavados-ex (Unschlagbare Gene 047)]]
+[[es:Moltres ex (Genes Formidables TCG Pocket)]]
+[[fr:Sulfura-ex (Puissance Génétique 047)]]
+[[it:Moltres-ex (Geni Supremi 47)]]
+[[ja:ファイヤーex (ポケポケ A1)]]
+[[zh:火焰鸟ex（A1）]]

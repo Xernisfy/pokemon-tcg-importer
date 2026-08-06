@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Kricketune
+|ja name=コロトック
+|trans name=Korotock
+|species=Kricketune
+|type=Grass
+|image=KricketuneSpace-TimeSmackdown14.png
+|illustrator=Naoyo Kimura
+|hp=90
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Kricketot
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=014/155|pack=Palkia|rarity=Diamond|rarity count=1}}
+}}
+
+'''Kricketune''' (Japanese: '''コロトック''' ''Korotock'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Entrancing Melody
+|jname=トランスメロディ
+|jtrans=Trance Melody
+|damage=50
+|effect=Your opponent's Active Pokémon is now {{TCG|Confused}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Kricketune
+|species=Cricket
+|ndex=0402
+|height=3'3"
+|jheight=1.0
+|weight=56.2
+|jweight=25.5
+|dex=By allowing its cry to resonate in the hollow of its belly, it produces a captivating sound.
+|jdex= 体の 中にある 空洞で 音を 反響させることで きれいな 鳴き声に なるのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Next Destinies|Kricketune|4}} from the {{TCG|Next Destinies}} expansion.
+**[[Castelia City]] from {{game3|Black and White|Pokémon Black, White|s}}, {{B2W2|Black 2, and White 2}} is featured in the background of the illustration.
+*'''Entrancing Melody''' is an attack that first appeared on {{TCG ID|Triumphant|Kricketune|24}} from the {{TCG|Triumphant}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zirpeise (Kollision von Raum und Zeit 014)]]
+[[es:Kricketune (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Mélokrik (Choc Spatio-Temporel 014)]]
+[[it:Kricketune (Scontro Spaziotemporale 14)]]
+[[ja:コロトック (ポケポケ A2)]]
+[[zh:音箱蟀（A2）]]

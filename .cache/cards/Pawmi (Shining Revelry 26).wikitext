@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pawmi
+|ja name=パモ
+|trans name=Pamo
+|species=Pawmi
+|type=Lightning
+|image=PawmiShiningRevelry26.png
+|illustrator=Saboteri
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=026/072|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Pawmi''' (Japanese: '''パモ''' ''Pamo'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Punch
+|jname=パンチ
+|jtrans=Punch
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Pawmi
+|category=Mouse 
+|ndex=0921
+|height=1'
+|jheight=0.3
+|weight=5.5
+|jweight=2.5
+|dex=It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.
+|jdex=頬の 電気袋は 未発達。 前脚の 肉球で 懸命に 擦ると ようやく 発電できる。
+}}
+
+==Trivia==
+===Origin===
+*'''Punch''' is an attack that first appeared on {{TCG ID|Team Rocket|Machop|59}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pamo (Glänzendes Festival 026)]]
+[[es:Pawmi (Festival Brillante TCG Pocket)]]
+[[fr:Pohm (Réjouissances Rayonnantes 026)]]
+[[it:Pawmi (Tripudio Splendente 26)]]
+[[ja:パモ (ポケポケ A2b)]]
+[[zh:布撥（A2b）]]

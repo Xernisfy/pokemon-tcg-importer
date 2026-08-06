@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Rare Candy
+|ja name=ふしぎなアメ
+|trans name=Mysterious Candy
+|subtype=Item
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RareCandyCelestialGuardians144.png|illustrator=Toyste Beach|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RareCandyDeluxePackex315.png|illustrator=Toyste Beach|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RareCandyDeluxePackex379.png|illustrator=Toyste Beach|tab caption=Ultra Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=144/155|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=314/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=315/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=379/353|pack=Any|rarity=Crown}}
+}}
+
+'''Rare Candy''' (Japanese: '''ふしぎなアメ''' ''Mysterious Candy'') is an {{TCGP|Item card}} in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.
+}}
+
+==Release Information==
+===Gallery===
+{{TCGGallery
+|type=Item
+|image1=RareCandyCelestialGuardians144.png
+|caption1=Standard card<br>Illus. [[Toyste Beach]]
+|image2=RareCandyDeluxePackex315.png
+|caption2=Parallel foil card<br>Illus. [[Toyste Beach]]
+|image3=RareCandyDeluxePackex379.png
+|caption3=Ultra rare card<br>Illus. [[Toyste Beach]]
+}}
+
+==Trivia==
+This card's effect is identical to that of the effect of the {{TCG|Rare Candy}} card in the [[Pokémon Trading Card Game]] from the Black & White Series onward.
+
+===Origin===
+* This card's standard illustration was first featured on {{TCG ID|Sun & Moon|Rare Candy|129}} from the {{TCG|Sun & Moon}} expansion.
+* [[Rare Candy]] is an [[item]] in the [[Pokémon games]] that increases the [[level]] of the Pokémon it is given to by 1.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=ふしぎなアメ ''Fushigi na Ame''
+|zh_yue=神奇糖果 ''Sàhnkèih Tòhnggwó''
+|zh_cmn=神奇糖果 ''Shénqí Tángguǒ''
+|fr=Super Bonbon
+|de=Sonderbonbon
+|it=Caramella Rara
+|ko=이상한사탕 ''Isanghan Satang''
+|pt_br=Doce Raro
+|es=Caramelo Raro
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Sonderbonbon (TCG Pocket)]]
+[[es:Caramelo Raro (TCG Pocket)]]
+[[fr:Super Bonbon (Gardiens Astraux 144)]]
+[[it:Caramella Rara (Guardiani Astrali 144)]]
+[[ja:ふしぎなアメ (ポケポケ)]]
+[[zh:神奇糖果（TCGP）]]

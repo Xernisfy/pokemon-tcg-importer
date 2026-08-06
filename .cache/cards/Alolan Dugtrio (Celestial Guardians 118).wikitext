@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Dugtrio
+|ja name=アローラダグトリオ
+|trans name=Alolan Dugtrio
+|species=Dugtrio
+|type=Metal
+|image=AlolanDugtrioCelestialGuardians118.png
+|illustrator=Yuka Morii
+|hp=90
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Alolan Diglett
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=118/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Alolan Dugtrio''' (Japanese: '''アローラダグトリオ''' ''Alolan Dugtrio'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}
+|name=Iron Head
+|jname=アイアンヘッド
+|jtrans=Iron Head
+|damage=70×
+|effect=Flip a coin until you get tails. This attack does 70 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Dugtrio
+|species=Mole
+|ndex=0051
+|height=2'4"
+|jheight=0.7
+|weight=146.8
+|jweight=66.6
+|dex=Their beautiful, metallic whiskers create a sort of protective helmet on their heads, and they also function as highly precise sensors.
+|jdex=美しい 金属質の ひげは ヘルメットのように 頭を 保護し かつ 高度な センサーでもある。
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Dugtrio}}.
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Alolan Dugtrio|123}} from the {{TCG|Lost Thunder}} expansion.
+*{{m|Iron Head}} is a [[move]] in the [[Pokémon games]] that Alolan Dugtrio can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Digdri (Hüter des Firmaments 118)]]
+[[es:Dugtrio de Alola (Guardianes Celestiales TCG Pocket)]]
+[[fr:Triopikeur d'Alola (Gardiens Astraux 118)]]
+[[it:Dugtrio di Alola (Guardiani Astrali 118)]]
+[[ja:アローラダグトリオ (ポケポケ A3)]]
+[[zh:阿罗拉 三地鼠（A3）]]

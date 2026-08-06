@@ -1,0 +1,849 @@
+{{TCGPocketExpansionPrevNext | prev = Shining Revelry | next = Extradimensional Crisis}}
+{{TCGPocketExpansionInfobox
+|setname=Celestial Guardians
+|jasetname=双天の守護者
+|jasettrans=Dual Sky Guardians
+|setlogo=A3 Set Logo EN.png
+|setsymbol=yes
+|cards=239 (155 + 84 secret cards)
+|release=April 30, 2025
+|collections=25 + 8 secret
+|dex missions=15 + 1 secret
+|deck missions=26
+|decks=13
+|battles=27
+}}
+'''Celestial Guardians''' (Japanese: '''{{j|双天の守護者}}''' ''Dual Sky Guardians'') is the third main expansion of cards in [[Pokémon Trading Card Game Pocket]].
+
+== Information ==
+'''Celestial Guardians''' is the third main expansion released through [[Pokémon Trading Card Game Pocket]]. The expansion focuses heavily on [[Generation VII]] and features Pokémon and characters from the [[Alola]] region, including Legendary Pokémon {{p|Solgaleo}} and {{p|Lunala}}, all [[Alolan form]]s introduced in the games, and all but one of the [[Trial Captain]]s. Its two booster packs are themed around {{p|Solgaleo}} and {{p|Lunala}}, the [[game mascot]]s and featured Legendary Pokémon of {{g|Sun and Moon}}.
+
+The expansion also features the game's first {{TCGP|immersive card|immersive}} {{TCG|Supporter card}}s, {{TCG ID|Celestial Guardians|Guzma|208}} and {{TCG ID|Celestial Guardians|Lillie|209}}.
+
+Several of the [[#Themed Collections|Themed Collections]] made available alongside Celestial Guardians also reference elements of Alola and the Generation VI games:
+* '''Daytime Pack and Nighttime Pack''' features {{p|Yungoos}} and Alolan {{p|Rattata}}, which [[Evolution|evolve]] during the day and night respectively;
+* '''Evolution Split by Day and Night''' features {{p|Rockruff}} alongside {{p|Lycanroc}} in both its Midday Form and Midnight Form;
+* '''Alolan Dancers''' features {{p|Oricorio}} in its Baile Style, Pom-Pom Style, Pa'u Style, and Sensu Style;
+* '''Captains of the Alola Region''' features six of the [[Trial Captain]]s found in the Alola region;
+* '''Team Skull's Nasty Plot''' features [[Team Skull]] leader [[Guzma]] and his {{p|Golisopod}} alongside some Pokémon commonly used by Team Skull members;
+* '''Lillie and Nebby's Growth''' features [[Lillie]] and her {{p|Cosmog}}, [[Nebby]], alongside its Evolutions;
+* '''Guardian Deities of the Four Islands''' features the four [[guardian deities]], or tapu, of Alola's four islands;
+* '''Standing Before You: Totem Pokémon''' features eight [[Totem Pokémon]] used by the Trial Captains;
+* '''An Assembly of Alolan Forms''' features all 18 [[Alolan form]]s across two collections.
+
+Additionally, the six Trial Captains featured in the set each have their own Themed Collection alongside some of the Pokémon they use in battles and trials, as well as some of their Totem Pokémon.
+
+== Card list ==
+{{TCG Set List/header|tablecol=E72|bordercol=87D|cellcol=FC7}}
+{{TCG Set List/header/packs|Solgaleo|Lunala|cellcol=FC7|setcode=A3}}
+|-
+| 001/155 || {{TCG ID|Celestial Guardians|Exeggcute|1}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 002/155 || {{TCG ID|Celestial Guardians|Alolan Exeggutor|2}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}} || || {{Yes}}
+|-
+| 003/155 || {{TCG ID|Celestial Guardians|Surskit|3}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 004/155 || {{TCG ID|Celestial Guardians|Masquerain|4}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 005/155 || {{TCG ID|Celestial Guardians|Maractus|5}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 006/155 || {{TCG ID|Celestial Guardians|Karrablast|6}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 007/155 || {{TCG ID|Celestial Guardians|Phantump|7}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 008/155 || {{TCG ID|Celestial Guardians|Trevenant|8}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 009/155 || {{TCG ID|Celestial Guardians|Rowlet|9}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 010/155 || {{TCG ID|Celestial Guardians|Rowlet|10}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 011/155 || {{TCG ID|Celestial Guardians|Dartrix|11}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} || || {{Yes}}
+|-
+| 012/155 || {{TCG ID|Celestial Guardians|Decidueye ex|12|Decidueye}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}} || || {{Yes}}
+|-
+| 013/155 || {{TCG ID|Celestial Guardians|Grubbin|13}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 014/155 || {{TCG ID|Celestial Guardians|Fomantis|14}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 015/155 || {{TCG ID|Celestial Guardians|Lurantis|15}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 016/155 || {{TCG ID|Celestial Guardians|Morelull|16}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 017/155 || {{TCG ID|Celestial Guardians|Shiinotic|17}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} || || {{Yes}}
+|-
+| 018/155 || {{TCG ID|Celestial Guardians|Bounsweet|18}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 019/155 || {{TCG ID|Celestial Guardians|Steenee|19}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 020/155 || {{TCG ID|Celestial Guardians|Tsareena|20}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 021/155 || {{TCG ID|Celestial Guardians|Wimpod|21}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 022/155 || {{TCG ID|Celestial Guardians|Golisopod|22}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 023/155 || {{TCG ID|Celestial Guardians|Dhelmise ex|23|Dhelmise}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} || 
+|-
+| 024/155 || {{TCG ID|Celestial Guardians|Tapu Bulu|24}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 025/155 || {{TCG ID|Celestial Guardians|Growlithe|25}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 026/155 || {{TCG ID|Celestial Guardians|Arcanine|26}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 027/155 || {{TCG ID|Celestial Guardians|Alolan Marowak|27}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}} || || {{Yes}}
+|-
+| 028/155 || {{TCG ID|Celestial Guardians|Fletchinder|28}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 029/155 || {{TCG ID|Celestial Guardians|Talonflame|29}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 030/155 || {{TCG ID|Celestial Guardians|Litten|30}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 031/155 || {{TCG ID|Celestial Guardians|Litten|31}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 032/155 || {{TCG ID|Celestial Guardians|Torracat|32}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 033/155 || {{TCG ID|Celestial Guardians|Incineroar ex|33|Incineroar}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} || 
+|-
+| 034/155 || {{TCG ID|Celestial Guardians|Oricorio|34}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|2}} || || {{Yes}}
+|-
+| 035/155 || {{TCG ID|Celestial Guardians|Salandit|35}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 036/155 || {{TCG ID|Celestial Guardians|Salazzle|36}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 037/155 || {{TCG ID|Celestial Guardians|Turtonator|37}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Diamond|3}} || || {{Yes}}
+|-
+| 038/155 || {{TCG ID|Celestial Guardians|Alolan Sandshrew|38}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 039/155 || {{TCG ID|Celestial Guardians|Alolan Sandslash|39}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 040/155 || {{TCG ID|Celestial Guardians|Alolan Vulpix|40}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 041/155 || {{TCG ID|Celestial Guardians|Alolan Ninetales|41}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}} || || {{Yes}}
+|-
+| 042/155 || {{TCG ID|Celestial Guardians|Shellder|42}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 043/155 || {{TCG ID|Celestial Guardians|Cloyster|43}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 044/155 || {{TCG ID|Celestial Guardians|Lapras|44}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 045/155 || {{TCG ID|Celestial Guardians|Popplio|45}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 046/155 || {{TCG ID|Celestial Guardians|Popplio|46}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 047/155 || {{TCG ID|Celestial Guardians|Brionne|47}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || || {{Yes}}
+|-
+| 048/155 || {{TCG ID|Celestial Guardians|Primarina|48}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}} || || {{Yes}}
+|-
+| 049/155 || {{TCG ID|Celestial Guardians|Crabominable ex|49|Crabominable}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} || 
+|-
+| 050/155 || {{TCG ID|Celestial Guardians|Wishiwashi|50}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 051/155 || {{TCG ID|Celestial Guardians|Wishiwashi ex|51|Wishiwashi}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|4}} || || {{Yes}}
+|-
+| 052/155 || {{TCG ID|Celestial Guardians|Dewpider|52}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 053/155 || {{TCG ID|Celestial Guardians|Araquanid|53}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 054/155 || {{TCG ID|Celestial Guardians|Pyukumuku|54}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 055/155 || {{TCG ID|Celestial Guardians|Bruxish|55}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 056/155 || {{TCG ID|Celestial Guardians|Tapu Fini|56}} || {{TCG Icon|Water}} || {{Rar/TCGP|Diamond|3}} || || {{Yes}}
+|-
+| 057/155 || {{TCG ID|Celestial Guardians|Pikachu|57}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 058/155 || {{TCG ID|Celestial Guardians|Alolan Raichu ex|58|Alolan Raichu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} || 
+|-
+| 059/155 || {{TCG ID|Celestial Guardians|Alolan Geodude|59}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 060/155 || {{TCG ID|Celestial Guardians|Alolan Graveler|60}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 061/155 || {{TCG ID|Celestial Guardians|Alolan Golem|61}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 062/155 || {{TCG ID|Celestial Guardians|Helioptile|62}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 063/155 || {{TCG ID|Celestial Guardians|Heliolisk|63}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 064/155 || {{TCG ID|Celestial Guardians|Charjabug|64}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|2}} || || {{Yes}}
+|-
+| 065/155 || {{TCG ID|Celestial Guardians|Vikavolt|65}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}} || || {{Yes}}
+|-
+| 066/155 || {{TCG ID|Celestial Guardians|Oricorio|66}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 067/155 || {{TCG ID|Celestial Guardians|Togedemaru|67}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 068/155 || {{TCG ID|Celestial Guardians|Tapu Koko|68}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 069/155 || {{TCG ID|Celestial Guardians|Mr. Mime|69}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 070/155 || {{TCG ID|Celestial Guardians|Sableye|70}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 071/155 || {{TCG ID|Celestial Guardians|Spoink|71}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 072/155 || {{TCG ID|Celestial Guardians|Grumpig|72}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 073/155 || {{TCG ID|Celestial Guardians|Lunatone|73}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 074/155 || {{TCG ID|Celestial Guardians|Shuppet|74}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 075/155 || {{TCG ID|Celestial Guardians|Banette|75}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 076/155 || {{TCG ID|Celestial Guardians|Oricorio|76}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 077/155 || {{TCG ID|Celestial Guardians|Oricorio|77}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} || || {{Yes}}
+|-
+| 078/155 || {{TCG ID|Celestial Guardians|Cutiefly|78}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 079/155 || {{TCG ID|Celestial Guardians|Ribombee|79}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 080/155 || {{TCG ID|Celestial Guardians|Comfey|80}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 081/155 || {{TCG ID|Celestial Guardians|Sandygast|81}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 082/155 || {{TCG ID|Celestial Guardians|Palossand|82}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 083/155 || {{TCG ID|Celestial Guardians|Mimikyu|83}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 084/155 || {{TCG ID|Celestial Guardians|Tapu Lele|84}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} || || {{Yes}}
+|-
+| 085/155 || {{TCG ID|Celestial Guardians|Cosmog|85}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 086/155 || {{TCG ID|Celestial Guardians|Cosmoem|86}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 087/155 || {{TCG ID|Celestial Guardians|Lunala ex|87|Lunala}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|4}} || || {{Yes}}
+|-
+| 088/155 || {{TCG ID|Celestial Guardians|Necrozma|88}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Diamond|3}} || || {{Yes}}
+|-
+| 089/155 || {{TCG ID|Celestial Guardians|Cubone|89}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 090/155 || {{TCG ID|Celestial Guardians|Makuhita|90}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 091/155 || {{TCG ID|Celestial Guardians|Hariyama|91}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 092/155 || {{TCG ID|Celestial Guardians|Solrock|92}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 093/155 || {{TCG ID|Celestial Guardians|Drilbur|93}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 094/155 || {{TCG ID|Celestial Guardians|Timburr|94}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 095/155 || {{TCG ID|Celestial Guardians|Gurdurr|95}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} || || {{Yes}}
+|-
+| 096/155 || {{TCG ID|Celestial Guardians|Conkeldurr|96}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}} || || {{Yes}}
+|-
+| 097/155 || {{TCG ID|Celestial Guardians|Crabrawler|97}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 098/155 || {{TCG ID|Celestial Guardians|Rockruff|98}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 099/155 || {{TCG ID|Celestial Guardians|Rockruff|99}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 100/155 || {{TCG ID|Celestial Guardians|Lycanroc|100}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 101/155 || {{TCG ID|Celestial Guardians|Lycanroc|101}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|3}} || || {{Yes}}
+|-
+| 102/155 || {{TCG ID|Celestial Guardians|Mudbray|102}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 103/155 || {{TCG ID|Celestial Guardians|Mudsdale|103}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 104/155 || {{TCG ID|Celestial Guardians|Passimian ex|104|Passimian}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|4}} || || {{Yes}}
+|-
+| 105/155 || {{TCG ID|Celestial Guardians|Minior|105}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Diamond|2}} || || {{Yes}}
+|-
+| 106/155 || {{TCG ID|Celestial Guardians|Alolan Rattata|106}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 107/155 || {{TCG ID|Celestial Guardians|Alolan Raticate|107}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}} || || {{Yes}}
+|-
+| 108/155 || {{TCG ID|Celestial Guardians|Alolan Meowth|108}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 109/155 || {{TCG ID|Celestial Guardians|Alolan Persian|109}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 110/155 || {{TCG ID|Celestial Guardians|Alolan Grimer|110}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 111/155 || {{TCG ID|Celestial Guardians|Alolan Muk ex|111|Alolan Muk}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|4}} || || {{Yes}}
+|-
+| 112/155 || {{TCG ID|Celestial Guardians|Absol|112}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|3}} || || {{Yes}}
+|-
+| 113/155 || {{TCG ID|Celestial Guardians|Trubbish|113}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 114/155 || {{TCG ID|Celestial Guardians|Garbodor|114}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 115/155 || {{TCG ID|Celestial Guardians|Mareanie|115}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 116/155 || {{TCG ID|Celestial Guardians|Toxapex|116}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 117/155 || {{TCG ID|Celestial Guardians|Alolan Diglett|117}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 118/155 || {{TCG ID|Celestial Guardians|Alolan Dugtrio|118}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 119/155 || {{TCG ID|Celestial Guardians|Excadrill|119}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 120/155 || {{TCG ID|Celestial Guardians|Escavalier|120}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 121/155 || {{TCG ID|Celestial Guardians|Klefki|121}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 122/155 || {{TCG ID|Celestial Guardians|Solgaleo ex|122|Solgaleo}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|4}} || {{Yes}} || 
+|-
+| 123/155 || {{TCG ID|Celestial Guardians|Magearna|123}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 124/155 || {{TCG ID|Celestial Guardians|Drampa|124}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|3}} || {{Yes}} || 
+|-
+| 125/155 || {{TCG ID|Celestial Guardians|Jangmo-o|125}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 126/155 || {{TCG ID|Celestial Guardians|Hakamo-o|126}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|2}} || || {{Yes}}
+|-
+| 127/155 || {{TCG ID|Celestial Guardians|Kommo-o|127}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Diamond|3}} || || {{Yes}}
+|-
+| 128/155 || {{TCG ID|Celestial Guardians|Tauros|128}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 129/155 || {{TCG ID|Celestial Guardians|Skitty|129}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 130/155 || {{TCG ID|Celestial Guardians|Delcatty|130}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 131/155 || {{TCG ID|Celestial Guardians|Fletchling|131}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 132/155 || {{TCG ID|Celestial Guardians|Hawlucha|132}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 133/155 || {{TCG ID|Celestial Guardians|Pikipek|133}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 134/155 || {{TCG ID|Celestial Guardians|Trumbeak|134}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || {{Yes}}
+|-
+| 135/155 || {{TCG ID|Celestial Guardians|Toucannon|135}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 136/155 || {{TCG ID|Celestial Guardians|Yungoos|136}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 137/155 || {{TCG ID|Celestial Guardians|Gumshoos|137}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || {{Yes}} || 
+|-
+| 138/155 || {{TCG ID|Celestial Guardians|Stufful|138}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|1}} || || {{Yes}}
+|-
+| 139/155 || {{TCG ID|Celestial Guardians|Bewear|139}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}} || || {{Yes}}
+|-
+| 140/155 || {{TCG ID|Celestial Guardians|Oranguru|140}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|3}} || || {{Yes}}
+|-
+| 141/155 || {{TCG ID|Celestial Guardians|Komala|141}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 142/155 || {{TCG ID|Celestial Guardians|Big Malasada|142}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 143/155 || {{TCG ID|Celestial Guardians|Fishing Net|143}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}} || || {{Yes}}
+|-
+| 144/155 || {{TCG ID|Celestial Guardians|Rare Candy|144}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || {{Yes}}
+|-
+| 145/155 || {{TCG ID|Celestial Guardians|Rotom Dex|145}} || {{TCG Icon|Item}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 146/155 || {{TCG ID|Celestial Guardians|Poison Barb|146}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}} || || {{Yes}}
+|-
+| 147/155 || {{TCG ID|Celestial Guardians|Leaf Cape|147}} || {{TCG Icon|Pokémon Tool}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 148/155 || {{TCG ID|Celestial Guardians|Acerola|148}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} || || {{Yes}}
+|-
+| 149/155 || {{TCG ID|Celestial Guardians|Ilima|149}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} || || {{Yes}}
+|-
+| 150/155 || {{TCG ID|Celestial Guardians|Kiawe|150}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} || || {{Yes}}
+|-
+| 151/155 || {{TCG ID|Celestial Guardians|Guzma|151}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} || || {{Yes}}
+|-
+| 152/155 || {{TCG ID|Celestial Guardians|Lana|152}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 153/155 || {{TCG ID|Celestial Guardians|Sophocles|153}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 154/155 || {{TCG ID|Celestial Guardians|Mallow|154}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 155/155 || {{TCG ID|Celestial Guardians|Lillie|155}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Diamond|2}} || {{Yes}} || 
+|-
+| 156/155 || {{TCG ID|Celestial Guardians|Alolan Exeggutor|156}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}} || || {{Yes}}
+|-
+| 157/155 || {{TCG ID|Celestial Guardians|Morelull|157}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}} || || {{Yes}}
+|-
+| 158/155 || {{TCG ID|Celestial Guardians|Tsareena|158}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 159/155 || {{TCG ID|Celestial Guardians|Tapu Bulu|159}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 160/155 || {{TCG ID|Celestial Guardians|Alolan Marowak|160}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|1}} || || {{Yes}}
+|-
+| 161/155 || {{TCG ID|Celestial Guardians|Turtonator|161}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|1}} || || {{Yes}}
+|-
+| 162/155 || {{TCG ID|Celestial Guardians|Alolan Vulpix|162}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}} || || {{Yes}}
+|-
+| 163/155 || {{TCG ID|Celestial Guardians|Pyukumuku|163}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}} || || {{Yes}}
+|-
+| 164/155 || {{TCG ID|Celestial Guardians|Tapu Fini|164}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|1}} || || {{Yes}}
+|-
+| 165/155 || {{TCG ID|Celestial Guardians|Oricorio|165}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 166/155 || {{TCG ID|Celestial Guardians|Tapu Koko|166}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 167/155 || {{TCG ID|Celestial Guardians|Cutiefly|167}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 168/155 || {{TCG ID|Celestial Guardians|Comfey|168}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 169/155 || {{TCG ID|Celestial Guardians|Sandygast|169}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 170/155 || {{TCG ID|Celestial Guardians|Tapu Lele|170}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}} || || {{Yes}}
+|-
+| 171/155 || {{TCG ID|Celestial Guardians|Cosmog|171}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|1}} || || {{Yes}}
+|-
+| 172/155 || {{TCG ID|Celestial Guardians|Rockruff|172}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 173/155 || {{TCG ID|Celestial Guardians|Mudsdale|173}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 174/155 || {{TCG ID|Celestial Guardians|Minior|174}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|1}} || || {{Yes}}
+|-
+| 175/155 || {{TCG ID|Celestial Guardians|Magearna|175}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 176/155 || {{TCG ID|Celestial Guardians|Drampa|176}} || {{TCG Icon|Dragon}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 177/155 || {{TCG ID|Celestial Guardians|Pikipek|177}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}} || || {{Yes}}
+|-
+| 178/155 || {{TCG ID|Celestial Guardians|Bewear|178}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}} || || {{Yes}}
+|-
+| 179/155 || {{TCG ID|Celestial Guardians|Komala|179}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Star|1}} || {{Yes}} || 
+|-
+| 180/155 || {{TCG ID|Celestial Guardians|Decidueye ex|180|Decidueye}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}} || || {{Yes}}
+|-
+| 181/155 || {{TCG ID|Celestial Guardians|Dhelmise ex|181|Dhelmise}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 182/155 || {{TCG ID|Celestial Guardians|Incineroar ex|182|Incineroar}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 183/155 || {{TCG ID|Celestial Guardians|Crabominable ex|183|Crabominable}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 184/155 || {{TCG ID|Celestial Guardians|Wishiwashi ex|184|Wishiwashi}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}} || || {{Yes}}
+|-
+| 185/155 || {{TCG ID|Celestial Guardians|Alolan Raichu ex|185|Alolan Raichu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 186/155 || {{TCG ID|Celestial Guardians|Lunala ex|186|Lunala}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|2}} || || {{Yes}}
+|-
+| 187/155 || {{TCG ID|Celestial Guardians|Passimian ex|187|Passimian}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}} || || {{Yes}}
+|-
+| 188/155 || {{TCG ID|Celestial Guardians|Alolan Muk ex|188|Alolan Muk}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|2}} || || {{Yes}}
+|-
+| 189/155 || {{TCG ID|Celestial Guardians|Solgaleo ex|189|Solgaleo}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 190/155 || {{TCG ID|Celestial Guardians|Acerola|190}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} || || {{Yes}}
+|-
+| 191/155 || {{TCG ID|Celestial Guardians|Ilima|191}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} || || {{Yes}}
+|-
+| 192/155 || {{TCG ID|Celestial Guardians|Kiawe|192}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} || || {{Yes}}
+|-
+| 193/155 || {{TCG ID|Celestial Guardians|Guzma|193}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} || || {{Yes}}
+|-
+| 194/155 || {{TCG ID|Celestial Guardians|Lana|194}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 195/155 || {{TCG ID|Celestial Guardians|Sophocles|195}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 196/155 || {{TCG ID|Celestial Guardians|Mallow|196}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 197/155 || {{TCG ID|Celestial Guardians|Lillie|197}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 198/155 || {{TCG ID|Celestial Guardians|Decidueye ex|198|Decidueye}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}} || || {{Yes}}
+|-
+| 199/155 || {{TCG ID|Celestial Guardians|Dhelmise ex|199|Dhelmise}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 200/155 || {{TCG ID|Celestial Guardians|Incineroar ex|200|Incineroar}}{{TCGP Icon|ex}} || {{TCG Icon|Fire}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 201/155 || {{TCG ID|Celestial Guardians|Crabominable ex|201|Crabominable}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 202/155 || {{TCG ID|Celestial Guardians|Wishiwashi ex|202|Wishiwashi}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Star|2}} || || {{Yes}}
+|-
+| 203/155 || {{TCG ID|Celestial Guardians|Alolan Raichu ex|203|Alolan Raichu}}{{TCGP Icon|ex}} || {{TCG Icon|Lightning}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 204/155 || {{TCG ID|Celestial Guardians|Lunala ex|204|Lunala}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Star|2}} || || {{Yes}}
+|-
+| 205/155 || {{TCG ID|Celestial Guardians|Passimian ex|205|Passimian}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Star|2}} || || {{Yes}}
+|-
+| 206/155 || {{TCG ID|Celestial Guardians|Alolan Muk ex|206|Alolan Muk}}{{TCGP Icon|ex}} || {{TCG Icon|Darkness}} || {{Rar/TCGP|Star|2}} || || {{Yes}}
+|-
+| 207/155 || {{TCG ID|Celestial Guardians|Solgaleo ex|207|Solgaleo}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Star|2}} || {{Yes}} || 
+|-
+| 208/155 || {{TCG ID|Celestial Guardians|Guzma|208}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|3}} || || {{Yes}}
+|-
+| 209/155 || {{TCG ID|Celestial Guardians|Lillie|209}} || {{TCG Icon|Supporter}} || {{Rar/TCGP|Star|3}} || {{Yes}} || 
+|-
+| 210/155 || {{TCG ID|Celestial Guardians|Bulbasaur|210}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 211/155 || {{TCG ID|Celestial Guardians|Ivysaur|211}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 212/155 || {{TCG ID|Celestial Guardians|Venusaur|212}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 213/155 || {{TCG ID|Celestial Guardians|Exeggcute|213}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}} || || {{Yes}}
+|-
+| 214/155 || {{TCG ID|Celestial Guardians|Exeggutor|214}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|1}} || || {{Yes}}
+|-
+| 215/155 || {{TCG ID|Celestial Guardians|Squirtle|215}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}} || || {{Yes}}
+|-
+| 216/155 || {{TCG ID|Celestial Guardians|Wartortle|216}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}} || || {{Yes}}
+|-
+| 217/155 || {{TCG ID|Celestial Guardians|Blastoise|217}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}} || || {{Yes}}
+|-
+| 218/155 || {{TCG ID|Celestial Guardians|Staryu|218}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 219/155 || {{TCG ID|Celestial Guardians|Starmie|219}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 220/155 || {{TCG ID|Celestial Guardians|Gastly|220}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Shiny|1}} || || {{Yes}}
+|-
+| 221/155 || {{TCG ID|Celestial Guardians|Haunter|221}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Shiny|1}} || || {{Yes}}
+|-
+| 222/155 || {{TCG ID|Celestial Guardians|Gengar|222}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Shiny|1}} || || {{Yes}}
+|-
+| 223/155 || {{TCG ID|Celestial Guardians|Machop|223}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 224/155 || {{TCG ID|Celestial Guardians|Machoke|224}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 225/155 || {{TCG ID|Celestial Guardians|Machamp|225}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 226/155 || {{TCG ID|Celestial Guardians|Cubone|226}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}} || || {{Yes}}
+|-
+| 227/155 || {{TCG ID|Celestial Guardians|Marowak|227}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|1}} || || {{Yes}}
+|-
+| 228/155 || {{TCG ID|Celestial Guardians|Jigglypuff|228}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 229/155 || {{TCG ID|Celestial Guardians|Wigglytuff|229}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|1}} || {{Yes}} || 
+|-
+| 230/155 || {{TCG ID|Celestial Guardians|Venusaur ex|230|Venusaur}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|2}} || {{Yes}} || 
+|-
+| 231/155 || {{TCG ID|Celestial Guardians|Exeggutor ex|231|Exeggutor}}{{TCGP Icon|ex}} || {{TCG Icon|Grass}} || {{Rar/TCGP|Shiny|2}} || || {{Yes}}
+|-
+| 232/155 || {{TCG ID|Celestial Guardians|Blastoise ex|232|Blastoise}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|2}} || || {{Yes}}
+|-
+| 233/155 || {{TCG ID|Celestial Guardians|Starmie ex|233|Starmie}}{{TCGP Icon|ex}} || {{TCG Icon|Water}} || {{Rar/TCGP|Shiny|2}} || {{Yes}} || 
+|-
+| 234/155 || {{TCG ID|Celestial Guardians|Gengar ex|234|Gengar}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Shiny|2}} || || {{Yes}}
+|-
+| 235/155 || {{TCG ID|Celestial Guardians|Machamp ex|235|Machamp}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|2}} || {{Yes}} || 
+|-
+| 236/155 || {{TCG ID|Celestial Guardians|Marowak ex|236|Marowak}}{{TCGP Icon|ex}} || {{TCG Icon|Fighting}} || {{Rar/TCGP|Shiny|2}} || || {{Yes}}
+|-
+| 237/155 || {{TCG ID|Celestial Guardians|Wigglytuff ex|237|Wigglytuff}}{{TCGP Icon|ex}} || {{TCG Icon|Colorless}} || {{Rar/TCGP|Shiny|2}} || {{Yes}} || 
+|-
+| 238/155 || {{TCG ID|Celestial Guardians|Lunala ex|238|Lunala}}{{TCGP Icon|ex}} || {{TCG Icon|Psychic}} || {{Rar/TCGP|Crown}} || {{Yes}} || {{Yes}}
+|-
+| 239/155 || {{TCG ID|Celestial Guardians|Solgaleo ex|239|Solgaleo}}{{TCGP Icon|ex}} || {{TCG Icon|Metal}} || {{Rar/TCGP|Crown}} || {{Yes}} || {{Yes}}
+|}
+
+== Missions ==
+=== Dex Missions ===
+Celestial Guardians has 15 regular {{DL|Mission (TCG Pocket)|Dex Missions}} and one hidden Dex Mission:
+
+{{TCGPocketMission/Header|reward=yes|bordercol=87D|tablecol=E72}}
+{{TCGPocketMission/Entry|mission=Register 10 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 20 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 30 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 40 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 50 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 60 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 70 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 80 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 90 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 100 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=5}}}}
+{{TCGPocketMission/Entry|mission=Register 110 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 120 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 130 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 140 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=10}}}}
+{{TCGPocketMission/Entry|mission=Register 150 cards in the Card Dex|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=10}}}}
+|-
+! colspan="2" | Secret Mission
+{{TCGPocketMission/Entry|mission=Register all {{Rar/TCGP|Diamond|1}} – {{Rar/TCGP|Diamond|4}} cards in the card dex|reward={{TCGPocketItem|Celestial Guardians Solgaleo|Celestial Guardians: Solgaleo (profile icon)|type=Profile Icon}}<br>{{TCGPocketItem|Celestial Guardians Lunala|Celestial Guardians: Lunala (profile icon)|type=Profile Icon}}|lastitem=yes}}
+|}
+
+=== Deck Missions ===
+Celestial Guardians has 13 [[deck]]s and 26 {{DL|Mission (TCG Pocket)|Deck Missions}}. Each deck has two missions:
+
+{{TCGPocketMission/Header|reward=yes|bordercol=87D|tablecol=E72}}
+{{TCGPocketMission/Entry|mission=Collect the highlight card for [deck name]|reward={{TCGPocketItem|Rental Deck|[deck name] rental deck}}}}
+{{TCGPocketMission/Entry|mission=Collect cards for [deck name]|reward={{TCGPocketItem|Theme Deck List|[deck name] theme deck list}}|lastitem=yes}}
+|}
+
+The 13 available decks related to Celestial Guardians are: 
+
+{{TCGPocketExpansionDeck/Header|bordercol=87D|tablecol=E72}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Decidueye ex Deck|Celestial Guardians}}|{{e|Grass}}|{{TCG ID|Celestial Guardians|Decidueye ex|12}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Mallow Deck|Celestial Guardians}}|{{e|Grass}}|{{TCG ID|Celestial Guardians|Mallow|154}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Incineroar ex Deck|Celestial Guardians}}|{{e|Fire}}|{{TCG ID|Celestial Guardians|Incineroar ex|33}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Kiawe Deck|Celestial Guardians}}|{{e|Fire}}|{{TCG ID|Celestial Guardians|Kiawe|150}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Crabominable ex Deck|Celestial Guardians}}|{{e|Water}}|{{TCG ID|Celestial Guardians|Crabominable ex|49}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Lana Deck|Celestial Guardians}}|{{e|Water}}|{{TCG ID|Celestial Guardians|Lana|152}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Alolan Raichu ex Deck|Celestial Guardians}}|{{e|Lightning}}|{{TCG ID|Celestial Guardians|Alolan Raichu ex|58}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Sophocles Deck|Celestial Guardians}}|{{e|Lightning}}|{{TCG ID|Celestial Guardians|Sophocles|153}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Lunala ex Deck|Celestial Guardians}}|{{e|Psychic}}|{{TCG ID|Celestial Guardians|Lunala ex|87}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Acerola Deck|Celestial Guardians}}|{{e|Psychic}}|{{TCG ID|Celestial Guardians|Acerola|148}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Passimian ex Deck|Celestial Guardians}}|{{e|Fighting}}|{{TCG ID|Celestial Guardians|Passimian ex|104}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Alolan Muk ex Deck|Celestial Guardians}}|{{e|Darkness}}|{{TCG ID|Celestial Guardians|Alolan Muk ex|111}}}}
+{{TCGPocketExpansionDeck/Entry|{{OBP|Solgaleo ex Deck|Celestial Guardians}}|{{e|Metal}}|{{TCG ID|Celestial Guardians|Solgaleo ex|122}}|lastitem=yes}}
+|}
+
+=== Themed Collections ===
+Celestial Guardians has 25 regular {{DL|Mission (TCG Pocket)|Themed Collections}} and eight hidden Themed Collections:
+
+{{TCGPocketCollection/Header|bordercol=87D|tablecol=E72}}
+{{TCGPocketCollection/Entry|collection=Daytime Pack and Nighttime Pack
+|cards={{TCG ID|Celestial Guardians|Alolan Rattata|106}} (#106)<br>{{TCG ID|Celestial Guardians|Alolan Raticate|107}} (#107)<br>{{TCG ID|Celestial Guardians|Yungoos|136}} (#136)<br>{{TCG ID|Celestial Guardians|Gumshoos|137}} (#137)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=1}}
+}}
+{{TCGPocketCollection/Entry|collection=Evolution Split by Day and Night
+|cards={{TCG ID|Celestial Guardians|Rockruff|98}} (#098)<br>{{TCG ID|Celestial Guardians|Rockruff|99}} (#099)<br>{{TCG ID|Celestial Guardians|Lycanroc|100}} (#100)<br>{{TCG ID|Celestial Guardians|Lycanroc|101}} (#101)
+|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=5}}
+}}
+{{TCGPocketCollection/Entry|collection=Alolan Dancers
+|cards={{TCG ID|Celestial Guardians|Oricorio|34}} (#034)<br>{{TCG ID|Celestial Guardians|Oricorio|66}} (#066)<br>{{TCG ID|Celestial Guardians|Oricorio|76}} (#076)<br>{{TCG ID|Celestial Guardians|Oricorio|77}} (#077)
+|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=3}}
+}}
+{{TCGPocketCollection/Entry|collection=Descended from the Sun and the Moon?
+|cards={{TCG ID|Celestial Guardians|Lunatone|73}} (#073)<br>{{TCG ID|Celestial Guardians|Solrock|92}} (#092)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=1}}
+}}
+{{TCGPocketCollection/Entry|collection=Komala, Always Sleeping
+|cards={{TCG ID|Celestial Guardians|Minior|105}} (#105)<br>{{TCG ID|Celestial Guardians|Komala|141}} (#141)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=1}}
+}}
+{{TCGPocketCollection/Entry|collection=A Beach Scene, Day and Night
+|cards={{TCG ID|Celestial Guardians|Sandygast|81}} (#081)<br>{{TCG ID|Celestial Guardians|Alolan Grimer|110}} (#110)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=1}}
+}}
+{{TCGPocketCollection/Entry|collection=A Day in the Life of Rowlet
+|cards={{TCG ID|Celestial Guardians|Rowlet|9}} (#009)<br>{{TCG ID|Celestial Guardians|Rowlet|10}} (#010)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=1}}
+}}
+{{TCGPocketCollection/Entry|collection=A Day in the Life of Litten
+|cards={{TCG ID|Celestial Guardians|Litten|30}} (#030)<br>{{TCG ID|Celestial Guardians|Litten|31}} (#031)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=1}}
+}}
+{{TCGPocketCollection/Entry|collection=A Day in the Life of Popplio
+|cards={{TCG ID|Celestial Guardians|Popplio|45}} (#045)<br>{{TCG ID|Celestial Guardians|Popplio|46}} (#046)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=1}}
+}}
+{{TCGPocketCollection/Entry|collection=Kiawe and Volcano Park Pokémon
+|cards={{TCG ID|Celestial Guardians|Kiawe|150}} (#150 or #192)<br>{{TCG ID|Celestial Guardians|Alolan Marowak|27}} (#027 or #160) ×3<br>{{TCG ID|Celestial Guardians|Salazzle|36}} (#036)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=1}}
+}}
+{{TCGPocketCollection/Entry|collection=Mallow and Jungle Pokémon
+|cards={{TCG ID|Celestial Guardians|Mallow|154}} (#154 or #196)<br>{{TCG ID|Celestial Guardians|Fomantis|14}} (#014)<br>{{TCG ID|Celestial Guardians|Lurantis|15}} (#015)<br>{{TCG ID|Celestial Guardians|Bounsweet|18}} (#018)<br>{{TCG ID|Celestial Guardians|Comfey|80}} (#080 or #168)
+|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=3}}
+}}
+{{TCGPocketCollection/Entry|collection=Ilima and Cave Pokémon
+|cards={{TCG ID|Celestial Guardians|Ilima|149}} (#149 or #191)<br>{{TCG ID|Celestial Guardians|Yungoos|136}} (#136) ×2<br>{{TCG ID|Celestial Guardians|Gumshoos|137}} (#137) ×2
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=1}}
+}}
+{{TCGPocketCollection/Entry|collection=Acerola and Spooky Pokémon
+|cards={{TCG ID|Celestial Guardians|Acerola|148}} (#148 or #190)<br>{{TCG ID|Celestial Guardians|Dhelmise ex|23}} (#023 or #181 or #199)<br>{{TCG ID|Celestial Guardians|Palossand|82}} (#082)<br>{{TCG ID|Celestial Guardians|Mimikyu|83}} (#083)
+|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=8}}
+}}
+{{TCGPocketCollection/Entry|collection=Lana and Waterside Pokémon
+|cards={{TCG ID|Celestial Guardians|Lana|152}} (#152 or #194)<br>{{TCG ID|Celestial Guardians|Wishiwashi ex|51}} (#051 or #184 or #202)<br>{{TCG ID|Celestial Guardians|Dewpider|52}} (#052)<br>{{TCG ID|Celestial Guardians|Araquanid|53}} (#053)
+|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=6}}
+}}
+{{TCGPocketCollection/Entry|collection=Sophocles and Electric Discharge Pokémon
+|cards={{TCG ID|Celestial Guardians|Sophocles|153}} (#153 or #195)<br>{{TCG ID|Celestial Guardians|Alolan Golem|61}} (#061)<br>{{TCG ID|Celestial Guardians|Vikavolt|65}} (#065)<br>{{TCG ID|Celestial Guardians|Togedemaru|67}} (#067)
+|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=5}}
+}}
+{{TCGPocketCollection/Entry|collection=Captains of the Alola Region
+|cards={{TCG ID|Celestial Guardians|Acerola|148}} (#148 or #190)<br>{{TCG ID|Celestial Guardians|Ilima|149}} (#149 or #191)<br>{{TCG ID|Celestial Guardians|Kiawe|150}} (#150 or #192)<br>{{TCG ID|Celestial Guardians|Lana|152}} (#152 or #194)<br>{{TCG ID|Celestial Guardians|Sophocles|153}} (#153 or #195)<br>{{TCG ID|Celestial Guardians|Mallow|154}} (#154 or #196)
+|reward={{TCGPocketItem|Wonder Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=2}}<br>{{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=2}}
+}}
+{{TCGPocketCollection/Entry|collection=Team Skull's Nasty Plot
+|cards={{TCG ID|Celestial Guardians|Guzma|151}} (#151 or #193 or #208)<br>{{TCG ID|Celestial Guardians|Golisopod|22}} (#022)<br>and 1 of the following:<br>{{TCG ID|Celestial Guardians|Salandit|35}} (#035)<br>{{TCG ID|Celestial Guardians|Alolan Raticate|107}} (#107)<br>{{TCG ID|Celestial Guardians|Alolan Grimer|110}} (#110)<br>{{TCG ID|Celestial Guardians|Mareanie|115}} (#115)
+|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=1}}
+}}
+{{TCGPocketCollection/Entry|collection=Lillie and Nebby's Growth
+|cards={{TCG ID|Celestial Guardians|Lillie|155}} (#155 or #197 or #209)<br>{{TCG ID|Celestial Guardians|Cosmog|85}} (#085 or #171)<br>{{TCG ID|Celestial Guardians|Cosmoem|86}} (#086)<br>and 1 of the following:<br>{{TCG ID|Celestial Guardians|Lunala ex|87}} (#087 or #186 or #204 or #238)<br>{{TCG ID|Celestial Guardians|Solgaleo ex|122}} (#122 or #189 or #207 or #239)
+|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=7}}
+}}
+{{TCGPocketCollection/Entry|collection=Guardian Deities of the Four Islands
+|cards={{TCG ID|Celestial Guardians|Tapu Bulu|159}} (#159)<br>{{TCG ID|Celestial Guardians|Tapu Fini|164}} (#164)<br>{{TCG ID|Celestial Guardians|Tapu Koko|166}} (#166)<br>{{TCG ID|Celestial Guardians|Tapu Lele|170}} (#170)<br>
+|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=14}}
+}}
+{{TCGPocketCollection/Entry|collection=Standing Before You: Totem Pokémon
+|cards={{TCG ID|Celestial Guardians|Lurantis|15}} (#015)<br>{{TCG ID|Celestial Guardians|Salazzle|36}} (#036)<br>{{TCG ID|Celestial Guardians|Wishiwashi ex|51}} (#051 or #184 or #202)<br>{{TCG ID|Celestial Guardians|Vikavolt|65}} (#065)<br>{{TCG ID|Celestial Guardians|Mimikyu|83}} (#083)<br>{{TCG ID|Celestial Guardians|Alolan Raticate|107}} (#107)<br>{{TCG ID|Celestial Guardians|Kommo-o|127}} (#127)<br>{{TCG ID|Celestial Guardians|Gumshoos|137}} (#137)
+|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=12}}
+}}
+{{TCGPocketCollection/Entry|collection=An Assembly of Alolan Forms 1
+|cards={{TCG ID|Celestial Guardians|Alolan Exeggutor|2}} (#002 or #156)<br>{{TCG ID|Celestial Guardians|Alolan Marowak|27}} (#027 or #160)<br>{{TCG ID|Celestial Guardians|Alolan Vulpix|40}} (#040 or #162)<br>{{TCG ID|Celestial Guardians|Alolan Ninetales|41}} (#041)<br>{{TCG ID|Celestial Guardians|Alolan Raichu ex|58}} (#058 or #185 or #203)<br>{{TCG ID|Celestial Guardians|Alolan Meowth|108}} (#108)<br>{{TCG ID|Celestial Guardians|Alolan Persian|109}} (#109)<br>{{TCG ID|Celestial Guardians|Alolan Diglett|117}} (#117)<br>{{TCG ID|Celestial Guardians|Alolan Dugtrio|118}} (#118)
+|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=14}}
+}}
+{{TCGPocketCollection/Entry|collection=An Assembly of Alolan Forms 2
+|cards={{TCG ID|Celestial Guardians|Alolan Sandshrew|38}} (#038)<br>{{TCG ID|Celestial Guardians|Alolan Sandslash|39}} (#039)<br>{{TCG ID|Celestial Guardians|Alolan Geodude|59}} (#059)<br>{{TCG ID|Celestial Guardians|Alolan Graveler|60}} (#060)<br>{{TCG ID|Celestial Guardians|Alolan Golem|61}} (#061)<br>{{TCG ID|Celestial Guardians|Alolan Rattata|106}} (#106)<br>{{TCG ID|Celestial Guardians|Alolan Raticate|107}} (#107)<br>{{TCG ID|Celestial Guardians|Alolan Grimer|110}} (#110)<br>{{TCG ID|Celestial Guardians|Alolan Muk ex|111}} (#111 or #188 or #206)
+|reward={{TCGPocketItem|Emblem Ticket A3|Emblem Ticket (Celestial Guardians)|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Rowlet cards
+|cards=3 in any combination of:<br>{{TCG ID|Celestial Guardians|Rowlet|9}} (#009)<br>{{TCG ID|Celestial Guardians|Rowlet|10}} (#010)
+|reward={{TCGPocketItem|Rowlet|Rowlet (profile icon)|type=Profile Icon}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Litten cards
+|cards=3 in any combination of:<br>{{TCG ID|Celestial Guardians|Litten|30}} (#030)<br>{{TCG ID|Celestial Guardians|Litten|31}} (#031)
+|reward={{TCGPocketItem|Litten|Litten (profile icon)|type=Profile Icon}}
+}}
+{{TCGPocketCollection/Entry|collection=Collect 3 Popplio cards
+|cards=3 in any combination of:<br>{{TCG ID|Celestial Guardians|Popplio|45}} (#045)<br>{{TCG ID|Celestial Guardians|Popplio|46}} (#046)
+|reward={{TCGPocketItem|Popplio|Popplio (profile icon)|type=Profile Icon}}
+}}
+|-
+! colspan="3" | Secret Missions
+{{TCGPocketCollection/Entry|collection=Sun Collection
+|cards={{TCG ID|Celestial Guardians|Rowlet|9}} (#009)<br>{{TCG ID|Celestial Guardians|Litten|30}} (#030)<br>{{TCG ID|Celestial Guardians|Popplio|46}} (#046)<br>{{TCG ID|Celestial Guardians|Oricorio|66}} (#066)<br>{{TCG ID|Celestial Guardians|Oricorio|76}} (#076)<br>{{TCG ID|Celestial Guardians|Sandygast|81}} (#081)<br>{{TCG ID|Celestial Guardians|Solrock|92}} (#092)<br>{{TCG ID|Celestial Guardians|Rockruff|99}} (#099)<br>{{TCG ID|Celestial Guardians|Lycanroc|100}} (#100)<br>{{TCG ID|Celestial Guardians|Yungoos|136}} (#136)<br>{{TCG ID|Celestial Guardians|Gumshoos|137}} (#137)<br>{{TCG ID|Celestial Guardians|Komala|141}} (#141)<br>{{TCG ID|Celestial Guardians|Solgaleo ex|207}} (#207)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Moon Collection
+|cards={{TCG ID|Celestial Guardians|Rowlet|10}} (#010)<br>{{TCG ID|Celestial Guardians|Litten|31}} (#031)<br>{{TCG ID|Celestial Guardians|Oricorio|34}} (#034)<br>{{TCG ID|Celestial Guardians|Popplio|45}} (#045)<br>{{TCG ID|Celestial Guardians|Lunatone|73}} (#073)<br>{{TCG ID|Celestial Guardians|Oricorio|77}} (#77)<br>{{TCG ID|Celestial Guardians|Rockruff|98}} (#098)<br>{{TCG ID|Celestial Guardians|Lycanroc|101}} (#101)<br>{{TCG ID|Celestial Guardians|Minior|105}} (#105)<br>{{TCG ID|Celestial Guardians|Alolan Rattata|106}} (#106)<br>{{TCG ID|Celestial Guardians|Alolan Raticate|107}} (#107)<br>{{TCG ID|Celestial Guardians|Alolan Grimer|110}} (#110)<br>{{TCG ID|Celestial Guardians|Lunala ex|204}} (#204)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Celestial Guardians Museum 1
+|cards={{TCG ID|Celestial Guardians|Tsareena|158}} (#158)<br>{{TCG ID|Celestial Guardians|Tapu Bulu|159}} (#159)<br>{{TCG ID|Celestial Guardians|Oricorio|165}} (#165)<br>{{TCG ID|Celestial Guardians|Tapu Koko|166}} (#166)<br>{{TCG ID|Celestial Guardians|Cutiefly|167}} (#167)<br>{{TCG ID|Celestial Guardians|Comfey|168}} (#168)<br>{{TCG ID|Celestial Guardians|Sandygast|169}} (#169)<br>{{TCG ID|Celestial Guardians|Rockruff|172}} (#172)<br>{{TCG ID|Celestial Guardians|Mudsdale|173}} (#173)<br>{{TCG ID|Celestial Guardians|Magearna|175}} (#175)<br>{{TCG ID|Celestial Guardians|Drampa|176}} (#176)<br>{{TCG ID|Celestial Guardians|Komala|179}} (#179)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Celestial Guardians Museum 2
+|cards={{TCG ID|Celestial Guardians|Alolan Exeggutor|156}} (#156)<br>{{TCG ID|Celestial Guardians|Morelull|157}} (#157)<br>{{TCG ID|Celestial Guardians|Alolan Marowak|160}} (#160)<br>{{TCG ID|Celestial Guardians|Turtonator|161}} (#161)<br>{{TCG ID|Celestial Guardians|Alolan Vulpix|162}} (#162)<br>{{TCG ID|Celestial Guardians|Pyukumuku|163}} (#163)<br>{{TCG ID|Celestial Guardians|Tapu Fini|164}} (#164)<br>{{TCG ID|Celestial Guardians|Tapu Lele|170}} (#170)<br>{{TCG ID|Celestial Guardians|Cosmog|171}} (#171)<br>{{TCG ID|Celestial Guardians|Minior|174}} (#174)<br>{{TCG ID|Celestial Guardians|Pikipek|177}} (#177)<br>{{TCG ID|Celestial Guardians|Bewear|178}} (#178)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Celestial Guardians Museum 3
+|cards={{TCG ID|Celestial Guardians|Dhelmise ex|199}} (#199)<br>{{TCG ID|Celestial Guardians|Incineroar ex|200}} (#200)<br>{{TCG ID|Celestial Guardians|Crabominable ex|201}} (#201)<br>{{TCG ID|Celestial Guardians|Alolan Raichu ex|203}} (#203)<br>{{TCG ID|Celestial Guardians|Solgaleo ex|207}} (#207)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Celestial Guardians Museum 4
+|cards={{TCG ID|Celestial Guardians|Decidueye ex|198}} (#198)<br>{{TCG ID|Celestial Guardians|Wishiwashi ex|202}} (#202)<br>{{TCG ID|Celestial Guardians|Lunala ex|204}} (#204)<br>{{TCG ID|Celestial Guardians|Passimian ex|205}} (#205)<br>{{TCG ID|Celestial Guardians|Alolan Muk ex|206}} (#206)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+}}
+{{TCGPocketCollection/Entry|collection=Lana and Wishiwashi's School
+|cards={{TCG ID|Celestial Guardians|Wishiwashi|50}} (#050)<br>{{TCG ID|Celestial Guardians|Wishiwashi ex|51}} (#051)<br>{{TCG ID|Celestial Guardians|Lana|152}} (#152)<br>{{TCG ID|Celestial Guardians|Wishiwashi ex|184}} (#184)<br>{{TCG ID|Celestial Guardians|Lana|194}} (#194)<br>{{TCG ID|Celestial Guardians|Wishiwashi ex|202}} (#202)
+|reward={{TCGPocketItem|Wishiwashi|Wishiwashi (emblem)|type=Emblem}}
+}}
+{{TCGPocketCollection/Entry|collection=Guidance of the Sun and Moon
+|cards={{TCG ID|Celestial Guardians|Lunala ex|204}} (#204)<br>{{TCG ID|Celestial Guardians|Solgaleo ex|207}} (#207)
+|reward={{TCGPocketItem|Wonder Hourglass|num=36}}<br>{{TCGPocketItem|Pack Hourglass|num=12}}<br>{{TCGPocketItem|Shop Ticket|num=10}}
+|lastitem=yes
+}}
+|}
+
+== Offering rates ==
+The following tables outline the offering rates for each Celestial Guardians booster pack.
+
+Regular packs have a 99.95% chance of appearing. Rare packs have a 0.05% chance of appearing.
+
+=== Celestial Guardians: Solgaleo ===
+While all {{rar/TCGP|Crown}} cards can be found in regular packs, the only one that can be pulled from a rare pack is {{TCG ID|Celestial Guardians|Solgaleo ex|239}}.
+{{TCGPocketRates/Header|tablecol=E72|bordercol=87D|cellcol=FC7}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 2.272% || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 2.617% || 1.647% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.353% || 1.415% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.333% || 1.332% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.214% || 0.857% || 2.380%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.035% || 0.142% || 2.380%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.888% || 2.380%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|1}} || — || 0.071% || 0.285% || 2.380%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|2}} || — || 0.083% || 0.333% || 2.380%
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.020% || 0.080% || style="border-bottom-right-radius:5px" | 2.380%
+|}
+
+=== Celestial Guardians: Lunala ===
+While all {{rar/TCGP|Crown}} cards can be found in regular packs, the only one that can be pulled from a rare pack is {{TCG ID|Celestial Guardians|Lunala ex|238}}.
+{{TCGPocketRates/Header|tablecol=E72|bordercol=87D|cellcol=FC7}}
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|1}} || 2.272% || — || — || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|2}} || — || 2.617% || 1.647% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|3}} || — || 0.353% || 1.415% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Diamond|4}} || — || 0.333% || 1.332% || —
+|- style="background:#FFF"
+| {{rar/TCGP|Star|1}} || — || 0.214% || 0.857% || 2.380%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|2}} || — || 0.035% || 0.142% || 2.380%
+|- style="background:#FFF"
+| {{rar/TCGP|Star|3}} || — || 0.222% || 0.888% || 2.380%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|1}} || — || 0.071% || 0.285% || 2.380%
+|- style="background:#FFF"
+| {{rar/TCGP|Shiny|2}} || — || 0.083% || 0.333% || 2.380%
+|- style="background:#FFF"
+| style="border-bottom-left-radius:5px" | {{rar/TCGP|Crown}} || — || 0.020% || 0.080% || style="border-bottom-right-radius:5px" | 2.380%
+|}
+
+== Solo battles ==
+{{main|List of Celestial Guardians solo battles in Pokémon TCG Pocket}}
+
+== Gallery ==
+The pack artworks for the Celestial Guardians expansion were illustrated by [[PLANETA]].<ref>[https://pla-neta.co.jp/works/illust/3694/ Pokémon Trading Card Game Pocket拡張パック「双天の守護者」 - PLANETA｜プラネッタ]</ref><ref>[https://x.com/PLANETACoLtd/status/1927198071391441398 X post on @PLANETACoLtd], May 27, 2025</ref>
+
+=== Key artwork ===
+{{TCGMerchGallery
+|background=FC7
+|border=87D
+|image1=A3 Key Art.png
+|size1=400px
+|caption1=Key artwork
+}}
+
+=== Pack artwork ===
+{{TCGMerchGallery
+|background=FC7
+|border=87D
+|image1=A3 Booster Solgaleo EN.png
+|caption1=Solgaleo booster pack (front)
+|image2=A3 Booster Lunala EN.png
+|caption2=Lunala booster pack (front)
+|image5=A3 Booster Solgaleo EN back.png
+|caption5=Solgaleo booster pack (back)
+|image6=A3 Booster Lunala EN back.png
+|caption6=Lunala booster pack (back)
+}}
+
+=== Pack logos ===
+{{TCGMerchGallery
+|background=FC7
+|border=87D
+|image1=A3 Logo Solgaleo EN.png
+|caption1=English Solgaleo logo
+|image2=A3 Logo Lunala EN.png
+|caption2=English Lunala logo
+|image5=A3 Logo Solgaleo JA.png
+|caption5=Japanese Solgaleo logo
+|image6=A3 Logo Lunala JA.png
+|caption6=Japanese Lunala logo
+}}
+
+=== Accessories ===
+{{TCGMerchGallery
+|background=FC7
+|border=87D
+|image1=TCGP Cover Celestial Guardians Solgaleo.png
+|caption1=Solgaleo binder cover
+|image2=TCGP Cover Celestial Guardians Lunala.png
+|caption2=Lunala binder cover
+|image5=TCGP Profile Icon Celestial Guardians Solgaleo.png
+|caption5=Solgaleo profile icon
+|image6=TCGP Profile Icon Celestial Guardians Lunala.png
+|caption6=Lunala profile icon
+}}
+
+== In other languages ==
+{{Langtable|color=FC7|bordercolor=87D
+|ja=双天の守護者 ''Sōten no Shugosha''
+|zh_yue=雙天之守護者 ''Sēungtīn ji Sáuwuhjé''
+|zh_cmn=雙天之守護者 ''Shuāngtiān zhī Shǒuhùzhě''
+|fr=Gardiens Astraux
+|de=Hüter des Firmaments
+|it=Guardiani Astrali
+|ko=쌍천의 수호자 ''Ssangcheon-ui Suhoja''
+|pt_br=Guardiões Celestiais
+|es=Guardianes Celestiales
+}}
+
+== References ==
+{{reflist}}
+
+== Related articles ==
+{{TCGPocketNavigation}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hüter des Firmaments (TCG Pocket)]]
+[[es:Guardianes Celestiales (TCG Pocket)]]
+[[fr:Gardiens Astraux]]
+[[it:Guardiani Astrali (GCC Pocket)]]
+[[ja:双天の守護者]]
+[[zh:雙天之守護者（TCGP）]]

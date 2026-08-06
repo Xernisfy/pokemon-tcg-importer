@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Drednaw
+|ja name=カジリガメ
+|trans name=Kajirigame
+|species=Drednaw
+|type=Water
+|image=DrednawMythicalIsland23.png
+|illustrator=nisimono
+|hp=130
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Chewtle
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=023/068|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Drednaw''' (Japanese: '''カジリガメ''' ''Kajirigame'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}
+|name=Crunch
+|jname=かみくだく
+|jtrans=Crunch
+|damage=70
+|effect=Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Drednaw
+|species=Bite
+|ndex=0834
+|height=3'3"
+|jheight=1.0
+|weight=254.6
+|jweight=115.5
+|dex=Its massive, jagged teeth can crush a boulder in a single bite. This Pokémon has an extremely vicious disposition.
+|jdex=とても 大きな ギザギザの 口は ひと噛みで 岩石を 砕く。 非常に 凶暴な 性質。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Crunch}} is a [[move]] in the [[Pokémon games]] that {{p|Drednaw}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kamalm (Mysteriöse Insel 023)]]
+[[es:Drednaw (La Isla Singular TCG Pocket)]]
+[[fr:Torgamord (L'Île Fabuleuse 023)]]
+[[it:Drednaw (L'Isola Misteriosa 23)]]
+[[ja:カジリガメ (ポケポケ A1a)]]
+[[zh:暴噬龟（A1a）]]

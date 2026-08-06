@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Seedot
+|ja name=タネボー
+|trans name=Taneboh
+|species=Seedot
+|type=Grass
+|image=SeedotMegaRising8.png
+|illustrator=Naoyo Kimura
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=008/226|pack=Mega Blaziken|rarity=Diamond|rarity count=1}}
+}}
+
+'''Seedot''' (Japanese: '''タネボー''' ''Taneboh'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Rollout
+|jname=ころがる
+|jtrans=Roll
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Seedot
+|category=Acorn
+|ndex=0273
+|height=1'8"
+|jheight=0.5
+|weight=8.8
+|jweight=4.0
+|dex=It attaches itself to a tree branch using the top of its head. Strong winds can sometimes make it fall.
+|jdex=頭の 先を 枝に くっつけて ぶら下がる。 強風に あおられ 落ちてしまう ことも あるのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Flashfire|Seedot|5}} from the {{TCG|Flashfire}} expansion.
+*{{m|Rollout}} is a [[move]] in the [[Pokémon games]] that {{p|Seedot}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Samurzel (Mega-Aufstieg 008)]]
+[[es:Seedot (Megaascenso TCG Pocket)]]
+[[fr:Grainipiot (Méga-Ascension 008)]]
+[[it:Seedot (Mega Ascesa 8)]]
+[[ja:タネボー (ポケポケ B1)]]
+[[zh:橡实果（B1）]]

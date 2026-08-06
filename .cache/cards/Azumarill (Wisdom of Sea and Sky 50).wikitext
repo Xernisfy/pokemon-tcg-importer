@@ -1,0 +1,69 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Azumarill
+|ja name=マリルリ
+|trans name=Marilli
+|species=Azumarill
+|type=Water
+|image=AzumarillWisdomofSeaandSky50.png
+|illustrator=Naoyo Kimura
+|hp=110
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Marill
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=050/161|pack=Ho-Oh|rarity=Diamond|rarity count=2}}
+}}
+
+'''Azumarill''' (Japanese: '''マリルリ''' ''Marilli'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Thick Fat
+|jname=あついしぼう
+|jtrans=Thick Fat
+|effect=This Pokémon takes −30 damage from attacks from {{e|Fire}} or {{e|Water}} Pokémon.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}{{e|Colorless}}
+|name=Tail Smack
+|jname=しっぽでたたく
+|jtrans=Tail Swipe
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Azumarill
+|species=Aqua Rabbit
+|ndex=0184
+|height=2'7"
+|jheight=0.8
+|weight=62.8
+|jweight=28.5
+|dex=Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.
+|jdex=長い 耳は 優れた センサー。 水の中の 音を 聞き分けて なにが 動いているのか わかる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Azumarill|136}} from the {{TCG|Lost Thunder}} expansion.
+*{{a|Thick Fat}} is a [[Ability]] in the [[Pokémon games]] that {{p|Azumarill}} can have.
+*'''Tail Smack''' is an attack that first appeared on {{TCG ID|BW Promo|Snivy|13}} from the {{TCG|BW Black Star Promos}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Azumarill (Weisheit von Meer und Himmel 050)]]
+[[es:Azumarill (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Azumarill (Sagesse entre Ciel et Mer 050)]]
+[[it:Azumarill (La Via del Cielo e del Mare 50)]]
+[[ja:マリルリ (ポケポケ A4)]]
+[[zh:玛力露丽（A4）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pyroar
+|ja name=カエンジシ
+|trans name=Kaenjishi
+|species=Pyroar
+|type=Fire
+|image=PyroarFantasticalParade21.png
+|illustrator=Hasuno
+|hp=90
+|weakness=Water
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Litleo
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=021/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Pyroar''' (Japanese: '''カエンジシ''' ''Kaenjishi'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Heat Blast
+|jname=ヒートブラスト
+|jtrans=Heat Blast
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Pyroar
+|species=Royal
+|ndex=0668
+|height=4'11"
+|jheight=1.5
+|weight=179.7
+|jweight=81.5
+|dex=The females of a pride work together to bring down prey. It’s thanks to them that their pride doesn’t starve.
+|jdex=群れの メスが 協力して 獲物を 仕留める。 メスたちの おかげで 群れが 飢えないのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card features the female form of {{p|Pyroar}}.
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Pyroar|51}} from the {{TCG|Lost Thunder}} expansion; both cards have the Heat Blast attack.
+*'''Heat Blast''' is an attack that first appeared on {{TCG ID|Latias Half Deck|Latias|4}} from the {{TCG|EX Trainer Kit}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pyroleo (Traumhafte Parade 021)]]
+[[fr:Némélios (Parade Onirique 021)]]
+[[it:Pyroar (Parata Fantasmagorica 21)]]
+[[ja:カエンジシ (ポケポケ B2)]]
+[[zh:火炎狮（B2）]]

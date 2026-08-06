@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Remoraid
+|ja name=テッポウオ
+|trans name=Teppouo
+|species=Remoraid
+|type=Water
+|image=RemoraidWisdomofSeaandSky55.png
+|illustrator=Suwama Chiaki
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=055/161|pack=Lugia|rarity=Diamond|rarity count=1}}
+}}
+
+'''Remoraid''' (Japanese: '''テッポウオ''' ''Teppouo'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Water Gun
+|jname=みずでっぽう
+|jtrans=Water Gun
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Remoraid
+|species=Jet
+|ndex=0223
+|height=2'
+|jheight=0.6
+|weight=26.5
+|jweight=12.0
+|dex=The water they shoot from their mouths can hit moving prey from more than 300 feet away.
+|jdex=口から 噴き出す 水流は 100メートル先で 動く 獲物に だって 命中する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BREAKthrough|Remoraid|31}} from the {{TCG|BREAKthrough}} expansion; both cards have the {{m|Water Gun}} attack.
+*{{m|Water Gun}} is a [[move]] in the [[Pokémon games]] that {{p|Remoraid}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Remoraid (Weisheit von Meer und Himmel 055)]]
+[[es:Remoraid (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Rémoraid (Sagesse entre Ciel et Mer 055)]]
+[[it:Remoraid (La Via del Cielo e del Mare 55)]]
+[[ja:テッポウオ (ポケポケ A4)]]
+[[zh:铁炮鱼（A4）]]

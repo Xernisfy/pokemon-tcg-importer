@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Riolu
+|ja name=リオル
+|trans name=Riolu
+|species=Riolu
+|type=Fighting
+|image=RioluSpace-TimeSmackdown91.png
+|illustrator=AKIRA EGAWA
+|hp=60
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=091/155|pack=Dialga|rarity=Diamond|rarity count=1}}
+}}
+
+'''Riolu''' (Japanese: '''リオル''' ''Riolu'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Jab
+|jname=ジャブ
+|jtrans=Jab
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Riolu
+|species=Emanation
+|ndex=0447
+|height=2'4"
+|jheight=0.7
+|weight=44.5
+|jweight=20.2
+|dex=They communicate with one another using their auras. They are able to run all through the night.
+|jdex=仲間同士で 波動を 出して コミュニケーションを とっている。 一晩中 走り続けられる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Riolu|116}} from the {{TCG|Unified Minds}} expansion.
+*'''Jab''' is an attack that first appeared on {{TCG ID|Base Set|Hitmonchan|7}} from the {{TCG|Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Riolu (Kollision von Raum und Zeit 091)]]
+[[es:Riolu (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Riolu (Choc Spatio-Temporel 091)]]
+[[it:Riolu (Scontro Spaziotemporale 91)]]
+[[ja:リオル (ポケポケ A2)]]
+[[zh:利欧路（A2）]]

@@ -1,0 +1,69 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cloyster
+|ja name=パルシェン
+|trans name=Parshen
+|species=Cloyster
+|type=Water
+|image=CloysterGeneticApex67.png
+|illustrator=Saya Tsuruta
+|hp=120
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Shellder
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=067/226|pack=Mewtwo|rarity=Diamond|rarity count=2}}
+}}
+
+'''Cloyster''' (Japanese: '''パルシェン''' ''Parshen'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Ability/Pocket
+|type=Water
+|name=Shell Armor
+|jname=シェルアーマー
+|jtrans=Shell Armor
+|effect=This Pokémon takes −10 damage from attacks.
+}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Surf
+|jname=なみのり
+|jtrans=Surfing
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Cloyster
+|species=Bivalve
+|ndex=0091
+|height=4'11"
+|jheight=1.5
+|weight=292.1
+|jweight=132.5
+|dex=Cloyster that live in seas with harsh tidal currents grow large, sharp spikes on their shells.
+|jdex=潮の　流れが　激しい　海に 生息している　パルシェンの 殻の　トゲは　大きく　鋭い｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BREAKpoint|Cloyster|24}} from the {{TCG|BREAKpoint}} expansion.
+**Both cards have the {{m|Surf}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Cloyster}} can learn via [[TM]].
+*{{a|Shell Armor}} is an [[Ability]] in the [[Pokémon games]] that {{p|Cloyster}} can have.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Austos (Unschlagbare Gene 067)]]
+[[es:Cloyster (Genes Formidables TCG Pocket)]]
+[[fr:Crustabri (Puissance Génétique 067)]]
+[[it:Cloyster (Geni Supremi 67)]]
+[[ja:パルシェン (ポケポケ A1)]]
+[[zh:刺甲贝（A1）]]

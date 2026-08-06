@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bounsweet
+|ja name=アマカジ
+|trans name=Amakaji
+|species=Bounsweet
+|type=Grass
+|image=BounsweetEeveeGrove3.png
+|illustrator=Yuka Morii
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=003/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Bounsweet''' (Japanese: '''アマカジ''' ''Amakaji'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Flop
+|jname=はねまわる
+|jtrans=Hop About
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Bounsweet
+|species=Fruit
+|ndex=0761
+|height=1'
+|jheight=0.3
+|weight=7.1
+|jweight=3.2
+|dex=Its sweat is sweet, like syrup made from boiled-down fruit. Because of this, Bounsweet was highly valued in the past, when sweeteners were scarce.
+|jdex=果物を 煮詰めたような 甘い 汗を かくため 甘味の 少ない 昔は とても 重宝された。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Bounsweet|14}} from the {{TCG|Darkness Ablaze}} expansion.
+*'''Flop''' is an attack that first appeared on {{TCG ID|Team Rocket|Magikarp|47}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Frubberl (Evoli-Hain 003)]]
+[[es:Bounsweet (Arboleda de Eevee TCG Pocket)]]
+[[fr:Croquine (La Clairière d'Évoli 003)]]
+[[it:Bounsweet (Il Bosco di Eevee 3)]]
+[[ja:アマカジ (ポケポケ A3b)]]
+[[zh:甜竹竹（A3b）]]

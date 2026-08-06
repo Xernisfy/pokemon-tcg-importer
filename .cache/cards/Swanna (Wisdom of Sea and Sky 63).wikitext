@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Swanna
+|ja name=スワンナ
+|trans name=Swanna
+|species=Swanna
+|type=Water
+|image=SwannaWisdomofSeaandSky63.png
+|illustrator=chibi
+|hp=80
+|weakness=Lightning
+|retreat cost=0
+|evo stage=Stage 1
+|prevo name=Ducklett
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=063/161|pack=Ho-Oh|rarity=Diamond|rarity count=2}}
+}}
+
+'''Swanna''' (Japanese: '''スワンナ''' ''Swanna'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Feathery Cyclone
+|jname=フェザーサイクロン
+|jtrans=Feather Cyclone
+|damage=60
+|effect=Move all Energy from this Pokémon to 1 of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Swanna
+|species=White Bird
+|ndex=0581
+|height=4'3"
+|jheight=1.3
+|weight=53.4
+|jweight=24.2
+|dex=Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles.
+|jdex=優雅な　みかけに　よらず 翼で　力強く　羽ばたき 数千キロ　飛び続けられる｡
+}}
+
+==Trivia==
+===Origin===
+*This card's [[Pokédex]] entry comes from {{g|Omega Ruby}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Swaroness (Weisheit von Meer und Himmel 063)]]
+[[es:Swanna (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Lakmécygne (Sagesse entre Ciel et Mer 063)]]
+[[it:Swanna (La Via del Cielo e del Mare 63)]]
+[[ja:スワンナ (ポケポケ A4)]]
+[[zh:舞天鹅（A4）]]

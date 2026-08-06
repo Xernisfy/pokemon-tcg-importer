@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lechonk
+|ja name=グルトン
+|trans name=Gourton
+|species=Lechonk
+|type=Colorless
+|image=LechonkPaldeanWonders79.png
+|illustrator=kodama
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=079/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Lechonk''' (Japanese: '''グルトン''' ''Gourton'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Lechonk
+|category=Hog
+|ndex=0915
+|height=1'8"
+|jheight=0.5
+|weight=22.5
+|jweight=10.2
+|dex=This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.
+|jdex=選りすぐりの エサしか 食べない。 体から 虫ポケモンが 嫌う ハーブのような 香りを 放つ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Lechonk|155}} from the {{TCG|Scarlet & Violet}} expansion.
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Lechonk}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ferkuli (Wundervolles Paldea 079)]]
+[[fr:Gourmelet (Merveilles de Paldea 079)]]
+[[it:Lechonk (Meraviglie di Paldea 79)]]
+[[ja:グルトン (ポケポケ B2a)]]
+[[zh:爱吃豚（B2a）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Gogoat
+|ja name=ゴーゴート
+|trans name=Gogoat
+|species=Gogoat
+|type=Grass
+|image=GogoatMegaRising22.png
+|illustrator=sowsow
+|hp=120
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Skiddo
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=022/226|pack=Mega Altaria|rarity=Diamond|rarity count=1}}
+}}
+
+'''Gogoat''' (Japanese: '''ゴーゴート''' ''Gogoat'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=Double-Edge
+|jname=すてみタックル
+|jtrans=Life-Risking Tackle
+|damage=100
+|effect=This Pokémon also does 20 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Gogoat
+|category=Mount
+|ndex=0673
+|height=5'7"
+|jheight=1.7
+|weight=200.6
+|jweight=91.0
+|dex=These Pokémon live in herds in mountainous places. The victor in their contests of clashing horns will become the leader of the herd.
+|jdex=山岳地帯で 群れで 暮らす。 ツノを ぶつけあう 勝負に 勝った 個体が リーダーになる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Gogoat|36}} from the {{TCG|Lost Thunder}} expansion.
+*{{m|Double-Edge}} is a [[move]] in the [[Pokémon games]] that {{p|Gogoat}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Chevrumm (Mega-Aufstieg 022)]]
+[[es:Gogoat (Megaascenso TCG Pocket)]]
+[[fr:Chevroum (Méga-Ascension 022)]]
+[[it:Gogoat (Mega Ascesa 22)]]
+[[ja:ゴーゴート (ポケポケ B1)]]
+[[zh:坐骑山羊（B1）]]

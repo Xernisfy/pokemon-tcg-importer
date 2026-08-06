@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bouffalant
+|ja name=バッフロン
+|trans name=Buffron
+|species=Bouffalant
+|type=Colorless
+|image=BouffalantCrimsonBlaze64.png
+|illustrator=Sanosuke Sakuma
+|hp=100
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=064/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Bouffalant''' (Japanese: '''バッフロン''' ''Buffron'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Revenge
+|jname=リベンジ
+|jtrans=Revenge
+|damage=40+
+|effect=If any of your Pokémon were Knocked Out by damage from an attack during your opponent’s last turn, this attack does 40 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Bouffalant
+|species=Bash Buffalo
+|ndex=0626
+|height=5'03"
+|jheight=1.6
+|weight=208.6
+|jweight=94.5
+|dex=These Pokémon live in herds of about 20 individuals. Bouffalant that betray the herd will lose the hair on their heads for some reason.
+|jdex=２０匹程度の 群れで 暮らす。 群れを 裏切った バッフロンは なぜか 頭の 毛が 抜ける。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Legendary Treasures|Bouffalant|107}} from the {{TCG|Legendary Treasures}} expansion. 
+*'''{{m|Revenge}}''' is a [[move]] in the [[Pokémon games]] that {{p|Bouffalant}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bisofank (Feuerrote Flammen 064)]]
+[[fr:Frison (Embrasement Écarlate 064)]]
+[[it:Bouffalant (Fiamme Cremisi 64)]]
+[[ja:バッフロン (ポケポケ B1a)]]
+[[zh:爆炸头水牛（B1a）]]

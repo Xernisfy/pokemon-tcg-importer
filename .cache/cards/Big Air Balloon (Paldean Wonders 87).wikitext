@@ -1,0 +1,48 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Big Air Balloon
+|ja name=大きなふうせん
+|trans name=Big Balloon
+|subtype=Pokémon Tool
+|image=BigAirBalloonPaldeanWonders87.png
+|illustrator=Toyste Beach
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=087/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Big Air Balloon''' (Japanese: '''大きなふうせん''' ''Big Balloon'') is a {{TCGP|Pokémon Tool card}} in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Tool
+|rule=Pocket Tool
+|effect=The {{TCG|Stage 2 Pokémon}} this card is attached to has no {{TCG|Retreat Cost}}.
+}}
+
+==Trivia==
+This card's effect is identical to that of the {{TCG|Big Air Balloon}} card in the [[Pokémon Trading Card Game]].
+
+===Origin===
+* This card depicts a larger version of an [[Air Balloon]], an item from the [[core series]] [[Pokémon game]]s.
+* This card's illustration was first featured on {{TCG ID|151|Big Air Balloon|155}} from the {{TCG|151}} expansion.
+
+==In other languages==
+{{langtable|color={{TCG Pokémon Tool color}}|bordercolor={{TCG Pokémon Tool color dark}}|textcolor=FFF
+|ja=大きなふうせん ''Ōki na Fūsen''
+|zh_yue=大氣球 ''Daaih Heikàuh''
+|zh_cmn=大氣球 ''Dà Qìqiú''
+|fr=Gros Ballon
+|de=Großer Luftballon
+|it=Palloncino Gigante
+|ko=커다란풍선 ''Keodaran Pungseon''
+|pt_br=Grande Balão de Ar
+|es=Globo Helio Grande
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Großer Luftballon (TCG Pocket)]]
+[[es:Globo Helio Grande (TCG Pocket)]]
+[[fr:Gros Ballon (Merveilles de Paldea 087)]]
+[[it:Palloncino Gigante (Meraviglie di Paldea 87)]]
+[[ja:大きなふうせん (ポケポケ)]]

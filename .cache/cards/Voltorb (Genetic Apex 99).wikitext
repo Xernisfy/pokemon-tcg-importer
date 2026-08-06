@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Voltorb
+|ja name=ビリリダマ
+|trans name=Biriridama
+|species=Voltorb
+|type=Lightning
+|image=VoltorbGeneticApex99.png
+|illustrator=SATOSHI NAKAI
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Pikachu|rarity=Diamond|rarity count=1|number=099/226}}
+}}
+
+'''Voltorb''' (Japanese: '''ビリリダマ''' ''Biriridama'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Voltorb
+|species=Ball
+|ndex=0100
+|height=1'8"
+|jheight=0.5
+|weight=22.9
+|jweight=10.4
+|dex=It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.
+|jdex=転がって　移動するので 地面が　デコボコだと ショックで　爆発してしまう｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Hidden Fates|Voltorb|21}} from the {{TCG|Hidden Fates}} expansion.
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Voltorb}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Voltobal (Unschlagbare Gene 099)]]
+[[es:Voltorb (Genes Formidables TCG Pocket)]]
+[[fr:Voltorbe (Puissance Génétique 099)]]
+[[it:Voltorb (Geni Supremi 99)]]
+[[ja:ビリリダマ (ポケポケ A1)]]
+[[zh:霹雳电球（A1）]]

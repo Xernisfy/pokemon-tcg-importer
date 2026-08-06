@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Toxel
+|ja name=エレズン
+|trans name=Eleson
+|species=Toxel
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ToxelFantasticalParade54.png|illustrator=Akira Komayama|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ToxelFantasticalParade166.png|illustrator=Taiga Kayama|tab caption=Illustration Rare}}
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=054/155|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=166/155|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Toxel''' (Japanese: '''エレズン''' ''Eleson'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}
+|name=Static Shock
+|jname=バチバチ
+|jtrans=Electric Crackling
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Toxel
+|species=Baby
+|ndex=0848
+|height=1'4"
+|jheight=0.4
+|weight=24.3
+|jweight=11.0
+|dex=This selfish, attention-seeking Pokémon stores poison and electricity in two different sacs inside its body. 
+|jdex=わがままで とても 甘えん坊。 体内の 2つの 袋に 毒と 電気を それぞれ 溜める。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=ToxelFantasticalParade54.png
+|caption1=Common card<br>Illus. [[Akira Komayama]]
+|image2=ToxelFantasticalParade166.png
+|caption2=Illustration rare card<br>Illus. [[Taiga Kayama]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Darkness Ablaze|Toxel|62}} from the {{TCG|Darkness Ablaze}} expansion; both cards have the Static Shock attack.
+*'''Static Shock''' is an attack that first appeared on {{TCG ID|Secret Wonders|Mareep|94}} from the {{TCG|Secret Wonders}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Toxel (Traumhafte Parade 054)]]
+[[fr:Toxizap (Parade Onirique 054)]]
+[[it:Toxel (Parata Fantasmagorica 54)]]
+[[ja:エレズン (ポケポケ B2)]]
+[[zh:毒电婴（B2）]]

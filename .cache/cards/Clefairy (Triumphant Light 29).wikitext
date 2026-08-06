@@ -1,0 +1,62 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Clefairy
+|ja name=ピッピ
+|trans name=Pippi
+|species=Clefairy
+|type=Psychic
+|image=ClefairyTriumphantLight29.png
+|illustrator=rika
+|illustrator link=rika (illustrator)
+|hp=60
+|weakness=Metal
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=029/075|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Clefairy''' (Japanese: '''ピッピ''' ''Pippi'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Smack
+|jname=ひらてうち
+|jtrans=Smack
+|damage=30
+|effect=
+}} 
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Clefairy
+|species=Fairy
+|ndex=0035
+|height=2'
+|jheight=0.6
+|weight=16.5
+|jweight=7.5
+|dex=It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.
+|jdex=満月の夜　ピッピが　集まって ダンスを　踊るようすを　見ると しあわせに　なれると　言われている｡
+}}
+
+==Trivia==
+Clefairy is one of four Pokémon in the {{TCGP|Triumphant Light}} expansion featured in the "Abomasnow of Mt. Coronet" [[Triumphant Light (TCG Pocket)#Themed Collections|Themed Collection]] as {{p|Clefairy}} can be found at [[Mount Coronet]] in {{game|Diamond and Pearl|s|Pokémon Diamond, Pearl}}, {{game|Platinum||Platinum}}, {{game|Brilliant Diamond and Shining Pearl|s|Brilliant Diamond, and Shining Pearl}}; this may also be the setting for this card's illustration.
+
+===Origin===
+*'''Smack''' is an attack that first appeared on {{TCG ID|EX Dragon Frontiers|Kirlia δ|33|Kirlia}} from the {{TCG|EX Dragon Frontiers}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Piepi (Licht des Triumphs 029)]]
+[[es:Clefairy (Luz Triunfal TCG Pocket)]]
+[[fr:Mélofée (Lumière Triomphale 029)]]
+[[it:Clefairy (Luce Trionfale 29)]]
+[[ja:ピッピ (ポケポケ A2a)]]
+[[zh:皮皮（A2a）]]

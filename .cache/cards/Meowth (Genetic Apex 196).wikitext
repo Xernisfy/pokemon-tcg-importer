@@ -1,0 +1,86 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Meowth
+|ja name=ニャース
+|trans name=Nyarth
+|species=Meowth
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MeowthGeneticApex196.png|illustrator=Mitsuhiro Arita|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MeowthGeneticApex246.png|illustrator=Mina Nakai|tab caption=Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MeowthPromo-A12.png|illustrator=Shigenori Negishi|tab caption=Promo}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MeowthMegaRising312.png|illustrator=Taiga Kasai|tab caption=Shiny Rare}}
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=196/226|pack=Charizard|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=246/226|pack=Charizard|rarity=Star|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=012/P-A}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=312/226|pack=Mega Altaria|rarity=Shiny|rarity count=1}}
+}}
+
+'''Meowth''' (Japanese: '''ニャース''' ''Nyarth'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Pay Day
+|jname=ネコにこばん
+|jtrans=Coin for a Cat
+|damage=10
+|effect=Draw a card.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Meowth
+|species=Scratch Cat
+|ndex=0052
+|height=1'4"
+|jheight=0.4
+|weight=9.3
+|jweight=4.2
+|dex=All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.
+|jdex=昼間は　寝てばかりいる｡ 夜になると　目が　輝き 縄張りを　歩きまわる｡
+}}
+
+==Release information==
+The {{TCGP|Promo-A}} print of this card was available via special wonder picks during the Meowth [[Wonder Pick Event (Meowth)|Wonder Pick Event]], which ran from November 1 to 15, 2024.
+
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=MeowthGeneticApex196.png
+|caption1=Common card<br>Illus. [[Mitsuhiro Arita]]
+|image2=MeowthGeneticApex246.png
+|caption2=Illustration rare card<br>Illus. [[Mina Nakai]]
+|image4=MeowthPromo-A12.png
+|caption4=Promo card<br>Illus. [[Shigenori Negishi]]
+|image5=MeowthMegaRising312.png
+|caption5=Shiny rare card<br>Illus. [[Taiga Kasai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard {{TCGP|Genetic Apex}} illustration was first featured on {{TCG ID|Jungle|Meowth|56}} from the {{TCG|Jungle}} expansion.
+**Both cards have the {{m|Pay Day}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Meowth}} can learn.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Meowth}}.
+*This card's {{TCGP|Promo-A}} illustration was first featured on {{TCG ID|Fates Collide|Meowth|74}} from the {{TCG|Fates Collide}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mauzi (Unschlagbare Gene 196)]]
+[[es:Meowth (Genes Formidables TCG Pocket)]]
+[[fr:Miaouss (Puissance Génétique 196)]]
+[[it:Meowth (Geni Supremi 196)]]
+[[ja:ニャース (ポケポケ A1)]]
+[[zh:喵喵（A1）]]

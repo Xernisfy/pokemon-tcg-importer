@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lapras
+|ja name=ラプラス
+|trans name=Laplace
+|species=Lapras
+|type=Water
+|image=LaprasCelestialGuardians44.png
+|illustrator=Hitoshi Ariga
+|hp=110
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=044/155|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Lapras''' (Japanese: '''ラプラス''' ''Laplace'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Surf
+|jname=なみのり
+|jtrans=Surfing
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Lapras
+|category=Transport
+|ndex=0131
+|height=8'2"
+|jheight=2.5
+|weight=485
+|jweight=220.0
+|dex=A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.
+|jdex=賢く 心優しい ポケモン。 きれいな 歌声を 響かせながら 海の上を 泳いで いく。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|XY|Lapras|35}} from the {{TCG|XY}} expansion.
+*{{m|Surf}} is a [[move]] in the [[Pokémon games]] that {{p|Lapras}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lapras (Hüter des Firmaments 044)]]
+[[es:Lapras (Guardianes Celestiales TCG Pocket)]]
+[[fr:Lokhlass (Gardiens Astraux 044)]]
+[[it:Lapras (Guardiani Astrali 44)]]
+[[ja:ラプラス (ポケポケ A3)]]
+[[zh:拉普拉斯（A3）]]

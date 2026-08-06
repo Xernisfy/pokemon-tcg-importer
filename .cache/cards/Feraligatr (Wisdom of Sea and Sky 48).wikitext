@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Feraligatr
+|ja name=オーダイル
+|trans name=Alligates
+|species=Feraligatr
+|type=Water
+|image=FeraligatrWisdomofSeaandSky48.png
+|illustrator=nagimiso
+|hp=150
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Stage 2
+|prevo name=Croconaw
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=048/161|pack=Ho-Oh|rarity=Diamond|rarity count=3}}
+}}
+
+'''Feraligatr''' (Japanese: '''オーダイル''' ''Alligates'') is a {{ct|Water}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Destructive Whirlpool
+|jname=はかいのうず
+|jtrans=Swirl of Destruction
+|damage=90
+|effect=Discard a random Energy from your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Feraligatr
+|species=Big Jaw
+|ndex=0160
+|height=7'7"
+|jheight=2.3
+|weight=195.8
+|jweight=88.8
+|dex=It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.
+|jdex=普段は ゆっくりとした 動きだが 獲物に かみつくときは 目にも 止まらない スピードだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Shining Legends|Feraligatr|20}} from the {{TCG|Shining Legends}} expansion.
+*'''Destructive Whirlpool''' is an attack that first appeared as '''Rapids''' on {{TCG ID|EX Delta Species|Vaporeon ex|110}} from the {{TCG|EX Delta Species}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Impergator (Weisheit von Meer und Himmel 048)]]
+[[es:Feraligatr (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Aligatueur (Sagesse entre Ciel et Mer 048)]]
+[[it:Feraligatr (La Via del Cielo e del Mare 48)]]
+[[ja:オーダイル (ポケポケ A4)]]
+[[zh:大力鳄（A4）]]

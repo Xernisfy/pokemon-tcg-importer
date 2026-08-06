@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Heliolisk
+|ja name=エレザード
+|trans name=Elezard
+|species=Heliolisk
+|type=Lightning
+|image=HelioliskGeneticApex111.png
+|illustrator=otumami
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Helioptile
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=111/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Heliolisk''' (Japanese: '''エレザード''' ''Elezard'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Quick Attack
+|jname=でんこうせっか
+|jtrans=Lightning Speed
+|damage=40+
+|effect=Flip a coin. If heads, this attack does 40 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Heliolisk
+|species=Generator
+|ndex=0695
+|height=3'3"
+|jheight=1
+|weight=46.3
+|jweight=21.0
+|dex=One Heliolisk basking in the sun with its frill outspread is all it would take to produce enough electricity to power a city.
+|jdex=襟巻を　広げて　太陽光を 浴びると　大都会で　使われる 電気を　１匹で　発電する｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Forbidden Light|Heliolisk|38}} from the {{TCG|Forbidden Light}} expansion.
+*{{m|Quick Attack}} is a [[move]] in the [[Pokémon games]] that {{p|Heliolisk}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Elezard (Unschlagbare Gene 111)]]
+[[es:Heliolisk (Genes Formidables TCG Pocket)]]
+[[fr:Iguolta (Puissance Génétique 111)]]
+[[it:Heliolisk (Geni Supremi 111)]]
+[[ja:エレザード (ポケポケ A1)]]
+[[zh:光电伞蜥（A1）]]

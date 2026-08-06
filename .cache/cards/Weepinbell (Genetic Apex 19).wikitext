@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Weepinbell
+|ja name=ウツドン
+|trans name=Utsudon
+|species=Weepinbell
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WeepinbellGeneticApex19.png|illustrator=Miki Tanaka|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WeepinbellMegaRising288.png|illustrator=MAHOU|tab caption=Shiny Rare}}
+|hp=90
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Bellsprout
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Charizard|rarity=Diamond|rarity count=2|number=019/226}}
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=288/226|pack=Mega Altaria|rarity=Shiny|rarity count=1}}
+}}
+
+'''Weepinbell''' (Japanese: '''ウツドン''' ''Utsudon'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Razor Leaf
+|jname=はっぱカッター
+|jtrans=Leaf Cutter
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Weepinbell
+|species=Flycatcher
+|ndex=0070
+|height=3'3"
+|jheight=1
+|weight=14.1
+|jweight=6.4
+|dex=The leafy parts act as cutters for slashing foes. It spits a fluid that dissolves everything.
+|jdex=葉っぱの　部分は　カッターになって 相手を　切り裂く｡　口からは なんでも　溶かす　液体を　吐く｡
+}}
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=WeepinbellGeneticApex19.png
+|caption1=Standard card<br>Illus. [[Miki Tanaka]]
+|image2=WeepinbellMegaRising288.png
+|caption2=Shiny rare card<br>Illus. [[MAHOU]]
+}}
+
+==Trivia==
+===Origin===
+*This card's {{TCGP|Genetic Apex}} illustration was first featured on {{TCG ID|Aquapolis|Weepinbell|65}} from the {{TCG|Aquapolis}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Weepinbell}}.
+*{{m|Razor Leaf}} is a [[move]] in the [[Pokémon games]] that {{p|Weepinbell}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ultrigaria (Unschlagbare Gene 019)]]
+[[es:Weepinbell (Genes Formidables TCG Pocket)]]
+[[fr:Boustiflor (Puissance Génétique 019)]]
+[[it:Weepinbell (Geni Supremi 19)]]
+[[ja:ウツドン (ポケポケ A1)]]
+[[zh:口呆花（A1）]]

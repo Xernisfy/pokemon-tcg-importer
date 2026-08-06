@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Frogadier
+|ja name=ゲコガシラ
+|trans name=Gekogashira
+|species=Frogadier
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FrogadierGeneticApex88.png|illustrator=Akira Komayama|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FrogadierDeluxePackex113.png|illustrator=Akira Komayama|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=FrogadierExtradimensionalCrisis92.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Froakie
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=088/226|pack=Charizard|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=092/069|pack=Any|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=112/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=113/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Frogadier''' (Japanese: '''ゲコガシラ''' ''Gekogashira'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Colorless}}
+|name=Water Drip
+|jname=みずきり
+|jtrans=Water Cut
+|damage=30
+|effect= 
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Frogadier
+|species=Bubble Frog
+|ndex=0657
+|height=2'
+|jheight=0.6
+|weight=24
+|jweight=10.9
+|dex=It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away.
+|jdex=泡で　包んだ　小石を　投げる 技を　使う｡　３０メートル　先の 空き缶に　当てる　コントロール｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=FrogadierGeneticApex88.png
+|caption1=Standard card<br>Illus. [[Akira Komayama]]
+|image2=FrogadierExtradimensionalCrisis92.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+|image3=FrogadierDeluxePackex113.png
+|caption3=Parallel card<br>Illus. [[Akira Komayama]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Forbidden Light|Frogadier|23}} from the {{TCG|Forbidden Light}} expansion.
+**Both cards have the '''Water Drip''' attack, which first appeared on {{TCG ID|Great Encounters|Wingull|95}} from the {{TCG|Great Encounters}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Frogadier}}.
+*This card's [[Pokédex]] entry comes from {{g|Omega Ruby}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Amphizel (Unschlagbare Gene 088)]]
+[[es:Frogadier (Genes Formidables TCG Pocket)]]
+[[fr:Croâporal (Puissance Génétique 088)]]
+[[it:Frogadier (Geni Supremi 88)]]
+[[ja:ゲコガシラ (ポケポケ A1)]]
+[[zh:呱头蛙（A1）]]

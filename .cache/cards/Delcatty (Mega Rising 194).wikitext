@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Delcatty
+|ja name=エネコロロ
+|trans name=Enekororo
+|species=Delcatty
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DelcattyMegaRising194.png|illustrator=Sekio|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DelcattyMegaRising248.png|illustrator=MINAMINAMI Take|tab caption=Illustration Rare}}
+|hp=80
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Skitty
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Diamond|rarity count=3|number=194/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Mega Gyarados|rarity=Star|rarity count=1|number=248/226}}
+}}
+
+'''Delcatty''' (Japanese: '''エネコロロ''' ''Enekororo'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Ability/Pocket
+|type=Colorless
+|name=Search for Friends
+|jname=フレンドサーチ
+|jtrans=Friend Search
+|effect=Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put a {{TCGP|Supporter card}} from your discard pile into your hand.
+}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Cat Kick
+|jname=ねこキック
+|jtrans=Cat Kick
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Delcatty
+|species=Prim
+|ndex=0301
+|height=3'7"
+|jheight=1.1
+|weight=71.9
+|jweight=32.6
+|dex=It is highly popular among female Trainers for its sublime fur. It does not keep a nest.
+|jdex=美しい 毛並みを 持ち 女性トレーナーに 大人気。 決まった 住処を 持たない。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=DelcattyMegaRising194.png
+|caption1=Rare card<br>Illus. [[Sekio]]
+|image2=DelcattyMegaRising248.png
+|caption2=Illustration rare card<br>Illus. [[MINAMINAMI Take]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Celestial Storm|Delcatty|121}} from the {{TCG|Celestial Storm}} expansion; both cards have the Search for Friends Ability and the Cat Kick attack.
+*'''Search for Friends''' is an {{TCG|Ability}} that first appeared on {{TCG ID|Celestial Storm|Delcatty|121}} from the {{TCG|Celestial Storm}} expansion.
+*'''Cat Kick''' is an attack that first appeared on {{TCG ID|Gym Challenge|Giovanni's Meowth|74}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Enekoro (Mega-Aufstieg 194)]]
+[[es:Delcatty (Megaascenso TCG Pocket)]]
+[[fr:Delcatty (Méga-Ascension 194)]]
+[[it:Delcatty (Mega Ascesa 194)]]
+[[ja:エネコロロ (ポケポケ B1)]]
+[[zh:优雅猫（B1）]]

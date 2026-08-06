@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wigglytuff {{TCGP Icon|ex}}
+|ja name=プクリン{{TCGP Icon|ex}}
+|trans name=Pukurin {{TCGP Icon|ex}}
+|species=Wigglytuff
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WigglytuffexGeneticApex195.png|illustrator=PLANETA Igarashi|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WigglytuffexGeneticApex265.png|illustrator=PLANETA Igarashi|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WigglytuffexGeneticApex279.png|illustrator=Shibuzoh.|tab caption=Special Illustration Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=WigglytuffexCelestialGuardians237.png|illustrator=PLANETA Igarashi|tab caption=Shiny Super Rare}}
+|hp=140
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Jigglypuff
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Pikachu|rarity=Diamond|rarity count=4|number=195/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Pikachu|rarity=Star|rarity count=2|number=265/226}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Pikachu|rarity=Star|rarity count=2|number=279/226}}
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Solgaleo|rarity=Shiny|rarity count=2|number=237/155}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=279/353|pack=Any|rarity=Diamond|rarity count=4}}
+
+}}
+
+'''Wigglytuff ex''' (Japanese: '''プクリンex''' ''Pukurin ex'') is a {{ct|Colorless}} Stage 1 {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Sleepy Song
+|jname=スリーピーソング
+|jtrans=Sleepy Song
+|damage=80
+|effect=Your opponent's Active Pokémon is now {{TCG|Asleep}}.
+}}
+{{Cardtext/Pocket ex
+|type=Colorless
+|ndex=0040
+|name=Wigglytuff
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=WigglytuffexGeneticApex195.png
+|caption1=Double rare card<br>Illus. [[PLANETA Igarashi]]
+|image2=WigglytuffexGeneticApex265.png
+|caption2=Super rare card<br>Illus. [[PLANETA Igarashi]]
+|image4=WigglytuffexGeneticApex279.png
+|caption4=Special illustration rare card<br>Illus. [[Shibuzoh.]]
+|image5=WigglytuffexCelestialGuardians237.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA Igarashi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny super rare print features a {{Shiny}} {{p|Wigglytuff}}.
+*'''Sleepy Song''' is an attack that first appeared on {{TCG ID|EX Hidden Legends|Wigglytuff ex|101}} from the {{TCG|EX Hidden Legends}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knuddeluff-ex (Unschlagbare Gene 195)]]
+[[es:Wigglytuff ex (Genes Formidables TCG Pocket)]]
+[[fr:Grodoudou-ex (Puissance Génétique 195)]]
+[[it:Wigglytuff-ex (Geni Supremi 195)]]
+[[ja:プクリンex (ポケポケ A1)]]
+[[zh:胖可丁ex（A1）]]

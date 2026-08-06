@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Kakuna
+|ja name=コクーン
+|trans name=Cocoon
+|species=Kakuna
+|type=Grass
+|image=KakunaGeneticApex9.png
+|illustrator=miki kudo
+|hp=80
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Weedle
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=009/226|pack=Mewtwo|rarity=Diamond|rarity count=1}}
+}}
+
+'''Kakuna''' (Japanese: '''コクーン''' ''Cocoon'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Bug Bite
+|jname=むしくい
+|jtrans=Bug Bite
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Kakuna
+|species=Cocoon
+|ndex=0014
+|height=2'
+|jheight=0.6
+|weight=22
+|jweight=10.0
+|dex=Almost incapable of moving, this Pokémon can only harden its shell to protect itself when it is in danger.
+|jdex=自分では　ほとんど　動けないが 危ないときは　硬くなって 身を守っているようだ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Crimson Invasion|Kakuna|2}} from the {{TCG|Crimson Invasion}} expansion.
+*{{m|Bug Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Kakuna}} can learn via [[move tutor]].
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kokuna (Unschlagbare Gene 009)]]
+[[es:Kakuna (Genes Formidables TCG Pocket)]]
+[[fr:Coconfort (Puissance Génétique 009)]]
+[[it:Kakuna (Geni Supremi 9)]]
+[[ja:コクーン (ポケポケ A1)]]
+[[zh:铁壳蛹（A1）]]

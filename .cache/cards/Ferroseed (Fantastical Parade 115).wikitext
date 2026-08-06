@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ferroseed
+|ja name=テッシード
+|trans name=Tesseed
+|species=Ferroseed
+|type=Metal
+|image=FerroseedFantasticalParade115.png
+|illustrator=Satoshi Shirai
+|hp=70
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=115/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Ferroseed''' (Japanese: '''テッシード''' ''Tesseed'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Colorless}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Ferroseed
+|category=Thorn Seed
+|ndex=0597
+|height=2'
+|jheight=0.6
+|weight=41.4
+|jweight=18.8
+|dex=Mossy caves are their preferred dwellings. Enzymes contained in mosses help Ferroseed's spikes grow big and strong.
+|jdex=苔むした 洞窟を 好む。 苔が 含む 酵素が 棘を 大きく 丈夫に 育むのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BREAKpoint|Ferroseed|79}} from the {{TCG|BREAKpoint}} expansion.
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that {{p|Ferroseed}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kastadur (Traumhafte Parade 115)]]
+[[fr:Grindur (Parade Onirique 115)]]
+[[it:Ferroseed (Parata Fantasmagorica 115)]]
+[[ja:テッシード (ポケポケ B2)]]
+[[zh:种子铁球（B2）]]

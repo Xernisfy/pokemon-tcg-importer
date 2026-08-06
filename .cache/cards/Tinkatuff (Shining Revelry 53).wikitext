@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tinkatuff
+|ja name=ナカヌチャン
+|trans name=Nakanuchan
+|species=Tinkatuff
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TinkatuffShiningRevelry53.png|illustrator=miki kudo|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TinkatuffDeluxePackex265.png|illustrator=miki kudo|tab caption=Parallel}}
+|hp=90
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Tinkatink
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=053/072}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=264/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=265/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Tinkatuff''' (Japanese: '''ナカヌチャン''' ''Nakanuchan'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}
+|name=Tenacious Hammer
+|jname=がんばりハンマー
+|jtrans=Tenacious Hammer
+|damage=30+
+|effect=Flip a coin. If heads, this attack does 30 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Tinkatuff
+|category=Hammer 
+|ndex=0958
+|height=2'4"
+|jheight=0.7
+|weight=130.3
+|jweight=59.1
+|dex=This Pokémon will attack groups of {{p|Pawniard}} and {{p|Bisharp}}, gathering metal from them in order to create a large and sturdy hammer.
+|jdex=大きくて 頑丈な ハンマーを 作るために キリキザンの 群れを 襲って 金属を 集める。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=TinkatuffShiningRevelry53.png
+|caption1=Standard card<br>Illus. [[miki kudo]]
+|image2=TinkatuffDeluxePackex265.png
+|caption2=Parallel foil card<br>Illus. [[miki kudo]]
+}}
+
+==Trivia==
+===Origin===
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tafforgita (Glänzendes Festival 053)]]
+[[es:Tinkatuff (Festival Brillante TCG Pocket)]]
+[[fr:Forgella (Réjouissances Rayonnantes 053)]]
+[[it:Tinkatuff (Tripudio Splendente 53)]]
+[[ja:ナカヌチャン (ポケポケ A2b)]]
+[[zh:巧鍛匠（A2b）]]

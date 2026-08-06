@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Duosion
+|ja name=ダブラン
+|trans name=Doublan
+|species=Duosion
+|type=Psychic
+|image=DuosionCrimsonBlaze33.png
+|illustrator=Pani Kobayashi
+|hp=70
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Solosis
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=033/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Duosion''' (Japanese: '''ダブラン''' ''Doublan'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Psyshot
+|jname=サイコショット
+|jtrans=Psychoshot
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Duosion
+|species=Mitosis
+|ndex=0578
+|height=2'
+|jheight=0.6
+|weight=17.6
+|jweight=8.0
+|dex=Its brain has split into two, and the two halves rarely think alike. Its actions are utterly unpredictable. 
+|jdex=分裂した ２つの 脳みその 考えは ほぼ 一致せず まるで 行動が 読めない。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Silver Tempest|Duosion|77}} from the {{TCG|Silver Tempest}} expansion.
+*'''Psyshot''' is an attack that first appeared on {{TCG ID|Gym Challenge|Sabrina's Kadabra|58}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mitodos (Feuerrote Flammen 033)]]
+[[fr:Méios (Embrasement Écarlate 033)]]
+[[it:Duosion (Fiamme Cremisi 33)]]
+[[ja:ダブラン (ポケポケ B1a)]]
+[[zh:双卵细胞球（B1a）]]

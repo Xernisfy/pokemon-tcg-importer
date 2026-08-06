@@ -1,0 +1,58 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Cornerstone Mask Ogerpon
+|ja name=オーガポン いしずえのめん
+|trans name=Ogerpon Cornerstone Mask
+|species=Ogerpon
+|type=Fighting
+|image=CornerstoneMaskOgerponFantasticalParade93.png
+|illustrator=Hitoshi Ariga
+|hp=80
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=093/155|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Cornerstone Mask Ogerpon''' (Japanese: '''オーガポン いしずえのめん''' ''Ogerpon Cornerstone Mask'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}
+|name=Cornerstone Dance
+|jname=いしずえのまい
+|jtrans=Cornerstone Dance
+|damage=40
+|effect=Flip a coin. If heads, during your opponent's next turn, this Pokémon takes −100 damage from attacks.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Ogerpon
+|species=Mask
+|ndex=1017
+|height=3'11"
+|jheight=1.2
+|weight=87.7
+|jweight=39.8
+|dex=In this form, it draws on the power of stone. Its body is rock-solid, protecting it from all manner of attacks.
+|jdex=岩の力を 引き出す 姿。 頑丈な 石の 体で あらゆる 攻撃から 身を守る。
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Ogerpon}} in its {{form|Ogerpon|Cornerstone Mask}} form.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Fundamentmaske-Ogerpon (Traumhafte Parade 093)]]
+[[fr:Ogerpon Masque de la Pierre (Parade Onirique 093)]]
+[[it:Ogerpon Maschera Fondamenta (Parata Fantasmagorica 93)]]
+[[ja:オーガポンいしずえのめん (ポケポケ B2)]]
+[[zh:厄鬼椪 础石面具（B2）]]

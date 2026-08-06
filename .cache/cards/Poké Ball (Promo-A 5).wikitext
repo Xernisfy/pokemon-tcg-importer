@@ -1,0 +1,65 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Poké Ball
+|ja name=モンスターボール
+|trans name=Monster Ball
+|subtype=Item
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PokéBallPromo-A5.png|illustrator=Ryo Ueda|tab caption=Promo}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PokéBallShiningRevelry111.png|illustrator=Toyste Beach|tab caption=Ultra Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=005/P-A}}
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=111/072|pack=Any|rarity=Crown}}
+}}
+
+'''Poké Ball''' (Japanese: '''モンスターボール''' ''Monster Ball'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Put 1 random Basic Pokémon from your deck into your hand.
+}}
+
+==Release information==
+Poké Ball cards were first made available to purchase from the in-game {{TCGP|shop}} on October 30, 2024 worldwide (September 26, 2024 in New Zealand) for 2 Shop Tickets each. An ultra rare print of the Poké Ball card was later included in the {{TCGP|Shining Revelry}} expansion, which was available worldwide from March 27, 2025.
+
+===Gallery===
+{{TCGGallery
+|type=Item
+|image1=PokéBallPromo-A5.png
+|caption1=Promo card<br>Illus. [[Ryo Ueda]]
+|image2=PokéBallShiningRevelry111.png
+|caption2=Ultra rare card<br>Illus. [[Toyste Beach]]
+}}
+
+==Trivia==
+* This card's effect is similar to that of the EX Series and Stormfront prints of the {{TCG|Great Ball}} card in the [[Pokémon Trading Card Game]], but this card chooses the Basic Pokémon randomly.
+** {{TCG|Poké Ball}} also exists in the Pokémon Trading Card Game, but its effect is not specific to Basic Pokémon, and it requires tossing heads to successfully use its effect.
+
+===Origin===
+* This card's standard illustration was first featured on {{TCG ID|Sun & Moon|Poké Ball|125}} from the {{TCG|Sun & Moon}} expansion.
+* The {{i|Poké Ball}} is an item in the [[Pokémon games]] used to capture [[wild Pokémon]].
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=モンスターボール ''Monster Ball''
+|zh_yue=精靈球 ''Jīnglìhng Kàuh''
+|zh_cmn=精靈球<!-- / 精灵球--> ''Jīnglíng Qiú''
+|fr=Poké Ball
+|de=Pokéball
+|it=Poké Ball
+|ko=몬스터볼 ''Monster Ball''
+|pt_br=Poké Bola
+|es=Poké Ball
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pokéball (TCG Pocket)]]
+[[es:Poké Ball (TCG Pocket)]]
+[[fr:Poké Ball (Promo-A 005)]]
+[[it:Poké Ball (Promo-A 5)]]
+[[ja:モンスターボール (ポケポケ)]]
+[[zh:精灵球（TCGP）]]

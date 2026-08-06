@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Furret
+|ja name=オオタチ
+|trans name=Ootachi
+|species=Furret
+|type=Colorless
+|image=FurretWisdomofSeaandSky139.png
+|illustrator=tetsuya koizumi
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Sentret
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=139/161|pack=Ho-Oh|rarity=Diamond|rarity count=1}}
+}}
+
+'''Furret''' (Japanese: '''オオタチ''' ''Ootachi'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Tail Smash
+|jname=テールスマッシュ
+|jtrans=Tail Smash
+|damage=80
+|effect=Flip a coin. If tails, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Furret
+|category=Long Body 
+|ndex=0162
+|height=5'11"
+|jheight=1.8
+|weight=71.7
+|jweight=32.5
+|dex=The mother puts its offspring to sleep by curling up around them. It corners foes with speed.
+|jdex=ははおやは　ほそながい　からだで　こどもを　つつみこみ　ねむらせる。はやい　うごきで　てきを　おいこむ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Furret|136}} from the {{TCG|Darkness Ablaze}} expansion.
+*'''Tail Smash''' is an attack that first appeared on {{TCG ID|Expedition|Charizard|39}} from the {{TCG|Expedition Base Set}}.
+*This card's [[Pokédex]] entry comes from {{g|Brilliant Diamond and Shining Pearl}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wiesenior (Weisheit von Meer und Himmel 139)]]
+[[es:Furret (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Fouinar (Sagesse entre Ciel et Mer 139)]]
+[[it:Furret (La Via del Cielo e del Mare 139)]]
+[[ja:オオタチ (ポケポケ A4)]]
+[[zh:大尾立（A4）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Zebstrika
+|ja name=ゼブライカ
+|trans name=Zebraika
+|species=Zebstrika
+|type=Lightning
+|image=ZebstrikaGeneticApex106.png
+|illustrator=Misa Tsutsui
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Blitzle
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=106/226}}
+}}
+
+'''Zebstrika''' (Japanese: '''ゼブライカ''' ''Zebraika'') is a {{ct|Lightning}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning 
+|cost={{e|Lightning}}
+|name=Thunder Spear
+|jname=サンダーアロー
+|jtrans=Thunder Arrow
+|damage=
+|effect=This attack does 30 damage to 1 of your opponent's Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Zebstrika
+|species=Thunderbolt
+|ndex=0523
+|height=5'3"
+|jheight=1.6
+|weight=175.3
+|jweight=79.5
+|dex=When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions.
+|jdex=激しい　気性の　持ち主｡ 荒ぶると　たてがみから　雷を 四方八方に　放電する｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Zebstrika|82}} from the {{TCG|Lost Thunder}} expansion.
+*'''Thunder Spear''' is an attack that first appeared on {{TCG ID|EX Sandstorm|Electabuzz|35}} from the {{TCG|EX Sandstorm}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Omega Ruby}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zebritz (Unschlagbare Gene 106)]]
+[[es:Zebstrika (Genes Formidables TCG Pocket)]]
+[[fr:Zéblitz (Puissance Génétique 106)]]
+[[it:Zebstrika (Geni Supremi 106)]]
+[[ja:ゼブライカ (ポケポケ A1)]]
+[[zh:雷电斑马（A1）]]

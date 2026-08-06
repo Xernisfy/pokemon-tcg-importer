@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Relicanth
+|ja name=ジーランス
+|trans name=Glanth
+|species=Relicanth
+|type=Fighting
+|image=RelicanthSecludedSprings45.png
+|illustrator=Kagemaru Himeno
+|hp=90
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=045/071|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Relicanth''' (Japanese: '''ジーランス''' ''Glanth'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Take Down
+|jname=とっしん
+|jtrans=Charge
+|damage=50
+|effect=This Pokémon also does 10 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Relicanth
+|category=Longevity
+|ndex=0369
+|height=3'3"
+|jheight=1.0
+|weight=51.6
+|jweight=23.4
+|dex=Rock-hard scales and oil-filled swim bladders allow this Pokémon to survive the intense water pressure of the deep sea.
+|jdex=岩のように 硬い ウロコと 脂の 詰まった 浮袋で 深海の 水圧に 耐える。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Ancient Origins|Relicanth|23}} from the {{TCG|Ancient Origins}} expansion; both cards have the Take Down attack.
+*{{m|Take Down}} is a [[move]] in the [[Pokémon games]] that Relicanth can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Relicanth (Verborgene Quelle 045)]]
+[[es:Relicanth (Manantial Oculto TCG Pocket)]]
+[[fr:Relicanth (Source Secrète 045)]]
+[[it:Relicanth (Sorgenti Recondite 45)]]
+[[ja:ジーランス (ポケポケ A4a)]]
+[[zh:古空棘鱼（A4a）]]

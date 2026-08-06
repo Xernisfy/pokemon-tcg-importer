@@ -1,0 +1,71 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Greavard
+|ja name=ボチ
+|trans name=Bochi
+|species=Greavard
+|type=Psychic
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GreavardPaldeanWonders52.png|illustrator=yuu|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=GreavardPaldeanWonders95.png|illustrator=sowsow|tab caption=Illustration Rare}}
+|hp=70
+|weakness=Darkness
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=052/093|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=095/093|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Greavard''' (Japanese: '''ボチ''' ''Bochi'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Soul Shot
+|jname=ソウルシュート
+|jtrans=Soul Shoot
+|damage=30
+|effect=Discard a card from your hand. If you can't, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Greavard
+|category=Ghost Dog
+|ndex=0971
+|height=2'
+|jheight=0.6
+|weight=77.2
+|jweight=35.0
+|dex=This friendly Pokémon doesn't like being alone. Pay it even the slightest bit of attention, and it will follow you forever.
+|jdex=人懐っこくて 寂しがり。 ちょっと かまっただけでも いつまでも 後を ついてくるぞ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Psychic
+|image1=GreavardPaldeanWonders52.png
+|caption1=Common card<br>Illus. [[yuu]]
+|image2=GreavardPaldeanWonders95.png
+|caption2=Illustration rare card<br>Illus. [[sowsow]]
+}}
+
+==Trivia==
+===Origin===
+*Both of this card's illustrations were first featured on {{TCG ID|Scarlet & Violet|Greavard|104}} from the {{TCG|Scarlet & Violet}} expansion.
+*'''Soul Shot''' is an attack that first appeared on {{TCG ID|Mega Rising|Cofagrigus|111}} from the {{TCGP|Mega Rising}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gruff (Wundervolles Paldea 052)]]
+[[fr:Toutombe (Merveilles de Paldea 052)]]
+[[it:Greavard (Meraviglie di Paldea 52)]]
+[[ja:ボチ (ポケポケ B2a)]]
+[[zh:墓仔狗（B2a）]]

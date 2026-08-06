@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tropius
+|ja name=トロピウス
+|trans name=Tropius
+|species=Tropius
+|type=Grass
+|image=TropiusEeveeGrove1.png
+|illustrator=Oswaldo KATO
+|hp=100
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=001/069}}
+}}
+
+'''Tropius''' (Japanese: '''トロピウス''' ''Churine'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Cutting Wind
+|jname=カッターウインド
+|jtrans=Cutter Wind
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Tropius
+|species=Fruit
+|ndex=0357
+|height=6'7"
+|jheight=2.0
+|weight=220.5
+|jweight=100.0
+|dex=It lives in tropical jungles. The bunch of fruit around its neck is delicious. The fruit grows twice a year.
+|jdex=熱帯の ジャングルに 生息。 首の フサは 甘くて 美味しい。 １年に ２回 実を つける。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Evolving Skies|Tropius|6}} from the {{TCG|Evolving Skies}} expansion.
+*'''Cutting Wind''' is an attack that first appeared on {{TCG ID|EX FireRed & LeafGreen|Pidgeotto|45}} from {{TCG|EX FireRed & LeafGreen}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tropius (Evoli-Hain 001)]]
+[[es:Tropius (Arboleda de Eevee TCG Pocket)]]
+[[fr:Tropius (La Clairière d'Évoli 001)]]
+[[it:Tropius (Il Bosco di Eevee 1)]]
+[[ja:トロピウス (ポケポケ A3b)]]
+[[zh:热带龙（A3b）]]

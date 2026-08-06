@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dubwool
+|ja name=バイウールー
+|trans name=Baiwooluu
+|species=Dubwool
+|type=Colorless
+|image=DubwoolGeneticApex215.png
+|illustrator=saino misaki
+|hp=120
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Wooloo
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=215/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Dubwool''' (Japanese: '''バイウールー''' ''Baiwooluu'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Rolling Tackle
+|jname=ころがりタックル
+|jtrans=Rolling Tackle
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Dubwool
+|species=Sheep
+|ndex=0832
+|height=4'3"
+|jheight=1.3
+|weight=94.8
+|jweight=43.0
+|dex=Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You'll start to bounce the moment you set foot on it.
+|jdex=弾力の　ある　毛で　織った カーペットは　トランポリンみたいで 乗れば　ピョンピョン　跳ねるのだ｡
+}}
+
+==Trivia==
+===Origin===
+*'''Rolling Tackle''' is an attack that first appeared on {{TCG ID|Team Rocket|Dark Electrode|34}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Zwollock (Unschlagbare Gene 215)]]
+[[es:Dubwool (Genes Formidables TCG Pocket)]]
+[[fr:Moumouflon (Puissance Génétique 215)]]
+[[it:Dubwool (Geni Supremi 215)]]
+[[ja:バイウールー (ポケポケ A1)]]
+[[zh:毛毛角羊（A1）]]

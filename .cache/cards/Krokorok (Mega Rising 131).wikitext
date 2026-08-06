@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Krokorok
+|ja name=ワルビル
+|trans name=Waruvile
+|species=Krokorok
+|type=Fighting
+|image=KrokorokMegaRising131.png
+|illustrator=Naoki Saito
+|hp=90
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Sandile
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=131/226|pack=Mega Gyarados|rarity=Diamond|rarity count=2}}
+}}
+
+'''Krokorok''' (Japanese: '''ワルビル''' ''Waruvile'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}
+|name=Bite
+|jname=かみつく
+|jtrans=Bite
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Krokorok
+|category=Desert Croc
+|ndex=0552
+|height=3'3"
+|jheight=1.0
+|weight=73.6
+|jweight=33.4
+|dex=Thanks to the special membrane covering its eyes, it can see its surroundings clearly, even in the middle of the night.
+|jdex=目を 覆う 特殊な 膜の おかげで 真夜中でも あたりを はっきり 見ることが できるぞ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Flashfire|Krokorok|57}} from the {{TCG|Flashfire}} expansion.
+*{{m|Bite}} is a [[move]] in the [[Pokémon games]] that {{p|Krokorok}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rokkaiman (Mega-Aufstieg 131)]]
+[[es:Krokorok (Megaascenso TCG Pocket)]]
+[[fr:Escroco (Méga-Ascension 131)]]
+[[it:Krokorok (Mega Ascesa 131)]]
+[[ja:ワルビル (ポケポケ B1)]]
+[[zh:混混鳄（B1）]]

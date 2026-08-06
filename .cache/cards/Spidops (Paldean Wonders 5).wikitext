@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Spidops
+|ja name=ワナイダー
+|trans name=Wanaider
+|species=Spidops
+|type=Grass
+|image=SpidopsPaldeanWonders5.png
+|illustrator=Anesaki Dynamic
+|hp=100
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Tarountula
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=005/093|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Spidops''' (Japanese: '''ワナイダー''' ''Wanaider'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Bind Down
+|jname=しばりつける
+|jtrans=Tie
+|damage=40
+|effect=During your opponent's next turn, the Defending Pokémon can't retreat.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Spidops
+|category=Trap
+|ndex=0918
+|height=3'3"
+|jheight=1
+|weight=36.4
+|jweight=16.5
+|dex=Spidops covers its territory in tough, sticky threads to set up traps for intruders.
+|jdex=丈夫で　ネバネバの　糸を 縄張りの　中に　張り巡らせて 侵入者を　罠にかけるのだ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|SVP Promo|Spidops|9}}, one of the {{TCG|SVP Black Star Promos}}.
+*'''Bind Down''' is an attack that first appeared on {{TCG ID|Majestic Dawn|Leafeon|7}} from the {{TCG|Majestic Dawn}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Spinsidias (Wundervolles Paldea 005)]]
+[[fr:Filentrappe (Merveilles de Paldea 005)]]
+[[it:Spidops (Meraviglie di Paldea 5)]]
+[[ja:ワナイダー (ポケポケ B2a)]]
+[[zh:操陷蛛（B2a）]]

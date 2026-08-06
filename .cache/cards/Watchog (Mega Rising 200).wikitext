@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Watchog
+|ja name=ミルホッグ
+|trans name=Miruhog
+|species=Watchog
+|type=Colorless
+|image=WatchogMegaRising200.png
+|illustrator=MAHOU
+|hp=100
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Patrat
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=200/226}}
+}}
+
+'''Watchog''' (Japanese: '''ミルホッグ''' ''Miruhog'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Biting Fang
+|jname=するどいまえば
+|jtrans=Sharp Front Tooth
+|damage=40+
+|effect=Flip a coin. If heads, this attack does 40 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Watchog
+|species=Lookout
+|ndex=0505
+|height=3'7"
+|jheight=1.1
+|weight=59.5
+|jweight=27.0
+|dex=When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.
+|jdex=ほほ袋に ためた 木の実の タネを 飛ばして 攻撃。 敵を 発見すると 尻尾を 立てる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Emerging Powers|Watchog|79}} from the {{TCG|Emerging Powers}} expansion.
+*'''Biting Fang''' is an attack that first appeared on {{TCG ID|Supreme Victors|Raticate G|78}} from the {{TCG|Supreme Victors}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Kukmarda (Mega-Aufstieg 200)]]
+[[es:Watchog (Megaascenso TCG Pocket)]]
+[[fr:Miradar (Méga-Ascension 200)]]
+[[it:Watchog (Mega Ascesa 200)]]
+[[ja:ミルホッグ (ポケポケ B1)]]
+[[zh:步哨鼠（B1）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pidgeot
+|ja name=ピジョット
+|trans name=Pigeot
+|species=Pidgeot
+|type=Colorless
+|image=PidgeotMegaRising182.png
+|illustrator=Akira Komayama
+|hp=150
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Pidgeotto
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=2|number=182/226}}
+}}
+
+'''Pidgeot''' (Japanese: '''ピジョット''' ''Pigeot'') is a {{ct|Colorless}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Twister
+|jname=たつまき
+|jtrans=Twister
+|damage=80
+|effect=Flip 2 coins. For each heads, discard a random Energy from your opponent's Active Pokémon. If both of them are tails, this attack does nothing.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Pidgeot
+|species=Bird
+|ndex=0018
+|height=4'11"
+|jheight=1.5
+|weight=87.1
+|jweight=39.5
+|dex=It spreads its gorgeous wings widely to intimidate enemies. It races through the skies at Mach-2 speed.
+|jdex=美しい 羽を 広げて 相手を 威嚇する。マッハ2で 空を 飛び回る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Pidgeot|124}} from the {{TCG|Team Up}} expansion.
+*{{m|Twister}} is a [[move]] in the [[Pokémon games]] that {{p|Pidgeot}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tauboss (Mega-Aufstieg 182)]]
+[[es:Pidgeot (Megaascenso TCG Pocket)]]
+[[fr:Roucarnage (Méga-Ascension 182)]]
+[[it:Pidgeot (Mega Ascesa 182)]]
+[[ja:ピジョット (ポケポケ B1)]]
+[[zh:大比鸟（B1）]]

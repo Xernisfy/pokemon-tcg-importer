@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wooper
+|ja name=ウパー
+|trans name=Upah
+|species=Wooper
+|type=Water
+|image=WooperWisdomofSeaandSky51.png
+|illustrator=Shibuzoh.
+|hp=70
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Lugia|rarity=Diamond|rarity count=1|number=051/161}}
+}}
+
+'''Wooper''' (Japanese: '''ウパー''' ''Upah'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Rain Splash
+|jname=みずかけ
+|jtrans=Water Splash
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Wooper
+|category=Water Fish
+|ndex=0194
+|height=1'4"
+|jheight=0.4
+|weight=18.7
+|jweight=8.5
+|dex=This Pokémon lives in cold water. It will leave the water to search for food when it gets cold outside.
+|jdex=冷たい 水の中で 生活。 あたりが 涼しくなると エサを 探しに 地上にも 現れる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Dragon Majesty|Wooper|25}} from the {{TCG|Dragon Majesty}} expansion; both cards have the '''Rain Splash''' attack.
+*'''Rain Splash''' is an attack that first appeared on {{TCG ID|EX Deoxys|Lotad|63}} from the {{TCG|EX Deoxys}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Felino (Weisheit von Meer und Himmel 051)]]
+[[es:Wooper (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Axoloto (Sagesse entre Ciel et Mer 051)]]
+[[it:Wooper (La Via del Cielo e del Mare 51)]]
+[[ja:ウパー (ポケポケ A4)]]
+[[zh:乌波（A4）]]

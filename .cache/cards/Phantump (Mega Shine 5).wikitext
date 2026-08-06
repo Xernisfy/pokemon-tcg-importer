@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Phantump
+|ja name=ボクレー
+|trans name=Bokurei
+|species=Phantump
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PhantumpMegaShine5.png|illustrator=OKACHEKE|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PhantumpMegaShine89.png|illustrator=Taiga Kasai|tab caption=Shiny Rare}}
+|hp=70
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=005/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=089/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Phantump''' (Japanese: '''ボクレー''' ''Bokurei'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Phantump
+|category=Stump
+|ndex=0708
+|height=1'4"
+|jheight=0.4
+|weight=15.4
+|jweight=7.0
+|dex=This Pokémon came to be when the spirit of a deceased child possessed a tree stump. It now wanders the forest searching for friends.
+|jdex=死んだ　子供の　魂が 切り株に　宿った　ポケモン｡ 森を　さまよい　仲間を　探す｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=PhantumpMegaShine5.png
+|caption1=Common card<br>Illus. [[OKACHEKE]]
+|image2=PhantumpMegaShine89.png
+|caption2=Shiny rare card<br>Illus. [[Taiga Kasai]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Fusion Strike|Phantump|16}} from the {{TCG|Fusion Strike}} expansion.
+**Both cards have the {{m|Tackle}} attack; this is a [[move]] in the [[Pokémon games]] that {{p|Phantump}} can learn.
+*This card's shiny rare illustration features a {{Shiny}} Phantump.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Paragoni (Mega-Schillern 005)]]
+[[fr:Brocélôme (Méga-Rayonnement 005)]]
+[[it:Phantump (Mega Splendore 5)]]
+[[ja:ボクレー (ポケポケ B2b)]]
+[[zh:小木灵（B2b）]]

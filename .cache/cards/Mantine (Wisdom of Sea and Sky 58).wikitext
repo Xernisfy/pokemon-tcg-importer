@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mantine
+|ja name=マンタイン
+|trans name=Mantain
+|species=Mantine
+|type=Water
+|image=MantineWisdomofSeaandSky58.png
+|illustrator=0313
+|hp=100
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=058/161|pack=Lugia|rarity=Diamond|rarity count=2}}
+}}
+
+'''Mantine''' (Japanese: '''マンタイン''' ''Mantain'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Dive
+|jname=ダイビング
+|jtrans=Diving
+|damage=80
+|effect=Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Mantine
+|species=Kite
+|ndex=0226
+|height=6'11"
+|jheight=2.1
+|weight=485
+|jweight=220.0
+|dex=While elegantly swimming in the sea, it ignores Remoraid that cling to its fins seeking food scraps.
+|jdex=悠然と 海を 泳ぐうちに 食べ残しを ねらった テッポウオが ヒレに くっつくが 気にしていない。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|SWSH Promo|Mantine|26}} from the {{TCG|SWSH Black Star Promos}}.
+*{{m|Dive}} is a [[move]] in the [[Pokémon games]] that {{p|Mantine}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mantax (Weisheit von Meer und Himmel 058)]]
+[[es:Mantine (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Démanta (Sagesse entre Ciel et Mer 058)]]
+[[it:Mantine (La Via del Cielo e del Mare 58)]]
+[[ja:マンタイン (ポケポケ A4)]]
+[[zh:巨翅飞鱼（A4）]]

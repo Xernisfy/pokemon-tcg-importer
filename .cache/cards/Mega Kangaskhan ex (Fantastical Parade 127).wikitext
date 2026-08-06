@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mega Kangaskhan {{TCGP Icon|Mega ex}}
+|ja name=メガガルーラ{{TCGP Icon|Mega ex}}
+|trans name=Mega Garura {{TCGP Icon|Mega ex}}
+|species=Kangaskhan
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaKangaskhanexFantasticalParade127.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaKangaskhanexFantasticalParade189.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MegaKangaskhanexFantasticalParade202.png|illustrator=hncl|tab caption=Special Illustration Rare}}
+|hp=180
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=127/155|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=189/155|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=202/155|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Mega Kangaskhan ex''' (Japanese: '''メガガルーラex''' ''Mega Garura ex'') is a {{ct|Colorless}} Basic {{TCGP|Mega Evolution Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Mega Species/Pocket|Kangaskhan}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Double-Punching Family
+|jname=ファミリーダブルパンチ
+|jtrans=Family Double Punch
+|damage=80
+|effect=This attack is used twice in a row. The second attack does 40 damage.<br>
+(If the first attack Knocks Out your opponent's Active Pokémon, the second attack is used after your opponent chooses a new Active Pokémon.)
+}}
+{{Cardtext/Mega ex/Pocket
+|type=Colorless
+|ndex=0115
+|name=Kangaskhan
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Kangaskhan
+|category=Parent
+|ndex=0115
+|height=7'3"
+|jheight=2.2
+|weight=220.5
+|jweight=100.0
+|dex=Mega Kangaskhan's strength derives from the mother's happiness about her child's growth. Watching it grow up keeps her spirits high.
+|jdex=メガガルーラが 強い 理由は 子どもの 成長に 喜び 張り切っている ママの せい。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=MegaKangaskhanexFantasticalParade127.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=MegaKangaskhanexFantasticalParade189.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=MegaKangaskhanexFantasticalParade202.png
+|caption3=Special illustration rare card<br>Illus. [[hncl]]
+}}
+
+==Trivia==
+===Origin===
+*This card features [[Mega]] {{p|Kangaskhan}}.
+*This card's [[Pokédex]] entry comes from {{g|Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mega-Kangama-ex (Traumhafte Parade 127)]]
+[[fr:Méga-Kangourex-ex (Parade Onirique 127)]]
+[[it:Mega Kangaskhan-ex (Parata Fantasmagorica 127)]]
+[[ja:メガガルーラex (ポケポケ B2)]]
+[[zh:超级袋兽ex（B2）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Quilava
+|ja name=マグマラシ
+|trans name=Magmarashi
+|species=Quilava
+|type=Fire
+|image=QuilavaWisdomofSeaandSky28.png
+|illustrator=Shin Nagasawa
+|hp=80
+|weakness=Water
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Cyndaquil
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=028/161|pack=Lugia|rarity=Diamond|rarity count=2}}
+}}
+
+'''Quilava''' (Japanese: '''マグマラシ''' ''Magmarashi'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Combustion
+|jname=かえん
+|jtrans=Blaze
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Quilava
+|species=Volcano
+|ndex=0156
+|height=2'11"
+|jheight=0.9
+|weight=41.9
+|jweight=19.0
+|dex=Before battle, it turns its back on its opponent to demonstrate how ferociously its fire blazes.
+|jdex=戦いの前 背中を 向けて 自分の 炎が どれくらい すごいかを 相手に 見せつける。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BREAKthrough|Quilava|19}} from the {{TCG|BREAKthrough}} expansion.
+*'''Combustion''' is an attack that first appeared on {{TCG ID|Neo Destiny|Slugma|82}} from the {{TCG|Neo Destiny}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Igelavar (Weisheit von Meer und Himmel 028)]]
+[[es:Quilava (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Feurisson (Sagesse entre Ciel et Mer 028)]]
+[[it:Quilava (La Via del Cielo e del Mare 28)]]
+[[ja:マグマラシ (ポケポケ A4)]]
+[[zh:火岩鼠（A4）]]

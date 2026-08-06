@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Drifblim
+|ja name=フワライド
+|trans name=Fuwaride
+|species=Drifblim
+|type=Psychic
+|image=DrifblimSpace-TimeSmackdown74.png
+|illustrator=Miki Tanaka
+|hp=100
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Drifloon
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=074/155|pack=Dialga|rarity=Diamond|rarity count=2}}
+}}
+
+'''Drifblim''' (Japanese: '''フワライド''' ''Fuwaride'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Psychic}}
+|name=Balloon Strike
+|jname=バルーンアタック
+|jtrans=Balloon Attack
+|damage=60
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Drifblim
+|species=Blimp
+|ndex=0426
+|height=3'11"
+|jheight=1.2
+|weight=33.1
+|jweight=15.0
+|dex=Some say this Pokémon is a collection of souls burdened with regrets, silently drifting through the dusk.
+|jdex=無念の 死を とげた 魂が 集まった 姿とも いわれる。 宵闇を 音も なく 漂う。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Steam Siege|Drifblim|47}} from the {{TCG|Steam Siege}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Drifzepeli (Kollision von Raum und Zeit 074)]]
+[[es:Drifblim (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Grodrive (Choc Spatio-Temporel 074)]]
+[[it:Drifblim (Scontro Spaziotemporale 74)]]
+[[ja:フワライド (ポケポケ A2)]]
+[[zh:随风球（A2）]]

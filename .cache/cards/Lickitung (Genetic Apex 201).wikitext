@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lickitung
+|ja name=ベロリンガ
+|trans name=Beroringa
+|species=Lickitung
+|type=Colorless
+|image=LickitungGeneticApex201.png
+|illustrator=Kagemaru Himeno
+|hp=90
+|weakness=Fighting
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=201/226|pack=Mewtwo|rarity=Diamond|rarity count=2}}
+}}
+
+'''Lickitung''' (Japanese: '''ベロリンガ''' ''Beroringa'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Continuous Lick
+|jname=れんぞくベロベロ
+|jtrans=Continuous Licking
+|damage=60×
+|effect=Flip a coin until you get tails. This attack does 60 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Lickitung
+|species=Licking
+|ndex=0108
+|height=3'11"
+|jheight=1.2
+|weight=144.4
+|jweight=65.5
+|dex=If this Pokémon's sticky saliva gets on you and you don't clean it off, an intense itch will set in. The itch won't go away, either.
+|jdex=ネバネバした　唾液に　触れたまま 放っておくと　ものすごい　痒みが はじまり　とまらなくなるぞ｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Majestic Dawn|Lickitung|39}} from the {{TCG|Majestic Dawn}} expansion.
+*'''Continuous Lick''' is an attack that first appeared on {{TCG ID|Detective Pikachu|Lickitung|16}} from the {{TCG|Detective Pikachu}} subset.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schlurp (Unschlagbare Gene 201)]]
+[[es:Lickitung (Genes Formidables TCG Pocket)]]
+[[fr:Excelangue (Puissance Génétique 201)]]
+[[it:Lickitung (Geni Supremi 201)]]
+[[ja:ベロリンガ (ポケポケ A1)]]
+[[zh:大舌头（A1）]]

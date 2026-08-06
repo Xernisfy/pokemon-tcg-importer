@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Probopass
+|ja name=ダイノーズ
+|trans name=Dainose
+|species=Probopass
+|type=Metal
+|image=ProbopassCrimsonBlaze53.png
+|illustrator=Anesaki Dynamic
+|hp=130
+|weakness=Fire
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Nosepass
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=053/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Probopass''' (Japanese: '''ダイノーズ''' ''Dainose'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}
+|name=Metallic Turbo
+|jname=メタルターボ
+|jtrans=Metal Turbo
+|damage=40
+|effect=Take 2 {{e|Metal}} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Probopass
+|species=Compass
+|ndex=476
+|height=4'7"
+|jheight=1.4
+|weight=749.6
+|jweight=340.0
+|dex=It exudes strong magnetism from all over. It controls three small units called Mini-Noses.
+|jdex=ぜんしんから つよい じりょくを だしている。３この チビノーズと よばれる ユニットを あやつる。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Rebel Clash|Probopass|131}} from the {{TCG|Rebel Clash}} expansion.
+*'''Metallic Turbo''' is an attack that first appeared on {{TCG ID|Space-Time Smackdown|Dialga ex|119}} from the {{TCG|Space-Time Smackdown}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Omega Ruby}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Voluminas (Feuerrote Flammen 053)]]
+[[fr:Tarinorme (Embrasement Écarlate 053)]]
+[[ja:ダイノーズ (ポケポケ B1a)]]
+[[zh:大朝北鼻（B1a）]]

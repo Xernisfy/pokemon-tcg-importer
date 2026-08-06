@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Vespiquen
+|ja name=ビークイン
+|trans name=Beequen
+|species=Vespiquen
+|type=Grass
+|image=VespiquenSpace-TimeSmackdown18.png
+|illustrator=chibi
+|hp=100
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Combee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Dialga|rarity=Diamond|rarity count=2|number=018/155}}
+}}
+
+'''Vespiquen''' (Japanese: '''ビークイン''' ''Beequen'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Pierce
+|jname=つきさす
+|jtrans=Pierce
+|damage=70
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Vespiquen
+|species=Beehive
+|ndex=0416
+|height=3'11"
+|jheight=1.2
+|weight=84.9
+|jweight=38.5
+|dex=It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.
+|jdex=胴体は 子どもたちの 巣穴。 いろんな フェロモンを 出して 子どもたちを 自由に 操る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Vespiquen|32}} from the {{TCG|Lost Thunder}} expansion.
+*'''Pierce''' is an attack that first appeared on {{TCG ID|EX Sandstorm|Anorith|27}} and {{TCG ID|EX Sandstorm|Kabuto|39}}, both from the {{TCG|EX Sandstorm}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Honweisel (Kollision von Raum und Zeit 018)]]
+[[es:Vespiquen (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Apireine (Choc Spatio-Temporel 018)]]
+[[it:Vespiquen (Scontro Spaziotemporale 18)]]
+[[ja:ビークイン (ポケポケ A2)]]
+[[zh:蜂女王（A2）]]

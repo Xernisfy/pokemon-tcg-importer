@@ -1,0 +1,51 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Hand Scope
+|ja name=ハンドスコープ
+|trans name=Hand Scope
+|subtype=Item
+|image=HandScopePromo-A3.png
+|illustrator=Toyste Beach
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=003/P-A}}
+}}
+
+'''Hand Scope''' (Japanese: '''ハンドスコープ''' ''Hand Scope'') is an {{TCGP|Item}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{TCGTrainerText
+|class=Item
+|rule=SWSH Item
+|effect=Your opponent reveals their hand.
+}}
+
+==Release information==
+Hand Scope cards were first made available to purchase from the in-game {{TCGP|shop}} on October 30, 2024 worldwide (September 26, 2024 in New Zealand) for 2 Shop Tickets each. One copy of Hand Scope is also awarded to players who complete the {{TCGP|Mission|mission}} "11: Attack the Weakness!" in the {{DL|Mission (TCG Pocket)|Battle Guide}}.
+
+==Trivia==
+This card's effect is identical to that of the {{TCG|Hand Scope}} card in the [[Pokémon Trading Card Game]].
+
+===Origin===
+* This card's illustration was first featured on {{TCG ID|Phantom Forces|Hand Scope|96}} from the {{TCG|Phantom Forces}} expansion.
+
+==In other languages==
+{{langtable|color={{TCG Item color}}|bordercolor={{TCG Item color dark}}|textcolor=FFF
+|ja=ハンドスコープ ''Hand Scope''
+|zh_yue=窺手鏡 ''Kwāi Sáu Geng''
+|zh_cmn=窺手鏡 ''Kuī Shǒu Jìng''
+|fr=Scrute Main
+|de=Handperiskop
+|it=Mirino Manuale
+|ko=핸드스코프 ''Hand Scope''
+|pt_br=Luneta
+|es=Periscopio
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Handperiskop (TCG Pocket)]]
+[[es:Periscopio (TCG Pocket)]]
+[[fr:Scrute Main (Promo-A 003)]]
+[[it:Mirino Manuale (Promo-A 3)]]
+[[ja:ハンドスコープ (ポケポケ)]]
+[[zh:窥手镜（TCGP）]]

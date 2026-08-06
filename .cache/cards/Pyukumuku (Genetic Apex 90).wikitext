@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pyukumuku
+|ja name=ナマコブシ
+|trans name=Namakobushi
+|species=Pyukumuku
+|type=Water
+|image=PyukumukuGeneticApex90.png
+|illustrator=OOYAMA
+|hp=70
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=090/226|pack=Charizard|rarity=Diamond|rarity count=1}}
+}}
+
+'''Pyukumuku''' (Japanese: '''ナマコブシ''' ''Namakobushi'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Rain Splash
+|jname=みずかけ
+|jtrans=Water Splash
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Pyukumuku
+|species=Sea Cucumber
+|ndex=0771
+|height=1'
+|jheight=0.3
+|weight=2.6
+|jweight=1.2
+|dex=It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.
+|jdex=温かい　浅瀬で　暮らす｡ 敵に　出会うと　体内器官を 口から　出して　殴りつける｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Pyukumuku|52}} from the {{TCG|Unified Minds}} expansion.
+**Both cards have the '''Rain Splash''' attack, which first appeared on {{TCG ID|EX Deoxys|Lotad|63}} from the {{TCG|EX Deoxys}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gufa (Unschlagbare Gene 090)]]
+[[es:Pyukumuku (Genes Formidables TCG Pocket)]]
+[[fr:Concombaffe (Puissance Génétique 090)]]
+[[it:Pyukumuku (Geni Supremi 90)]]
+[[ja:ナマコブシ (ポケポケ A1)]]
+[[zh:拳海参（A1）]]

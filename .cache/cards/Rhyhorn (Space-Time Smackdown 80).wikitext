@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rhyhorn
+|ja name=サイホーン
+|trans name=Sihorn
+|species=Rhyhorn
+|type=Fighting
+|image=RhyhornSpace-TimeSmackdown80.png
+|illustrator=otumami
+|hp=80
+|weakness=Grass
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=080/155|pack=Palkia|rarity=Diamond|rarity count=1}}
+}}
+
+'''Rhyhorn''' (Japanese: '''サイホーン''' ''Sihorn'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Colorless}}
+|name=Horn Attack
+|jname=つのでつく
+|jtrans=Horn Thrust
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Rhyhorn
+|species=Spikes
+|ndex=0111
+|height=3'3"
+|jheight=1
+|weight=253.5
+|jweight=115.0
+|dex=Strong, but not too bright, this Pokémon can shatter even a skyscraper with its charging tackles.
+|jdex=頭は　悪いが　力が　強く 高層ビルも　体当たりで コナゴナに　粉砕する｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unbroken Bonds|Rhyhorn|93}} from the {{TCG|Unbroken Bonds}} expansion; both cards have the Horn Attack attack.
+*{{m|Horn Attack}} is a [[move]] in the [[Pokémon games]] that {{p|Rhyhorn}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rihorn (Kollision von Raum und Zeit 080)]]
+[[es:Rhyhorn (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Rhinocorne (Choc Spatio-Temporel 080)]]
+[[it:Rhyhorn (Scontro Spaziotemporale 80)]]
+[[ja:サイホーン (ポケポケ A2)]]
+[[zh:独角犀牛（A2）]]

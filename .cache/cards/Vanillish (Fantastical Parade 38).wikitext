@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Vanillish
+|ja name=バニリッチ
+|trans name=Vanirich
+|species=Vanillish
+|type=Water
+|image=VanillishFantasticalParade38.png
+|illustrator=Shibuzoh.
+|hp=80
+|weakness=Metal
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Vanillite
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=038/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Vanillish''' (Japanese: '''バニリッチ''' ''Vanirich'') is a {{ct|Water}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Frost Breath
+|jname=こおりのいぶき
+|jtrans=Ice Breath
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Vanillish
+|species=Icy Snow
+|ndex=0583
+|height=3'7"
+|jheight=1.1
+|weight=90.4
+|jweight=41.0
+|dex=It blasts enemies with cold air reaching −148 degrees Fahrenheit, freezing them solid. But it spares their lives afterward—it's a kind Pokémon.
+|jdex=マイナス100度の 冷気で 敵を 凍らせるが 命までは 奪わない 優しい 気質。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Darkness Ablaze|Vanillish|46}} from the {{TCG|Darkness Ablaze}} expansion.
+*{{m|Frost Breath}} is a [[move]] in the [[Pokémon games]] that {{p|Vanillish}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Gelatroppo (Traumhafte Parade 038)]]
+[[fr:Sorboul (Parade Onirique 038)]]
+[[it:Vanillish (Parata Fantasmagorica 38)]]
+[[ja:バニリッチ (ポケポケ B2)]]
+[[zh:多多冰（B2）]]

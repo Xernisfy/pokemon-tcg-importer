@@ -1,0 +1,72 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Varoom
+|ja name=ブロロン
+|trans name=Buroron
+|species=Varoom
+|type=Metal
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VaroomShiningRevelry55.png|illustrator=Souichirou Gunjima|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=VaroomShiningRevelry105.png|illustrator=nagimiso|tab caption=Shiny Rare}}
+|hp=70
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Diamond|rarity count=1|number=055/072}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Shiny|rarity count=1|number=105/072}}
+}}
+
+'''Varoom''' (Japanese: '''ブロロン''' ''Buroron'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}
+|name=Headbutt
+|jname=ずつき
+|jtrans=Headbutt
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Varoom
+|species=Single-Cyl
+|ndex=0965
+|height=3'3"
+|jheight=1.0
+|weight=77.2
+|jweight=35.0
+|dex=It is said that this Pokémon was born when an unknown poison Pokémon entered and inspirited an engine left at a scrap-processing factory.
+|jdex=スクラップ工場に 放置された エンジンに 謎の 毒ポケモンが 入り込んで 生まれたと 言われる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Metal
+|image1=VaroomShiningRevelry55.png
+|caption1=Common card<br>Illus. [[Souichirou Gunjima]]
+|image2=VaroomShiningRevelry105.png
+|caption2=Shiny rare card<br>Illus. [[nagimiso]]
+}}
+
+==Trivia==
+===Origin===
+*This card's shiny rare print features a {{Shiny}} {{p|Varoom}}.
+*{{m|Headbutt}} is a [[move]] in the [[Pokémon games]] that {{p|Varoom}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Knattox (Glänzendes Festival 055)]]
+[[es:Varoom (Festival Brillante TCG Pocket)]]
+[[fr:Vrombi (Réjouissances Rayonnantes 055)]]
+[[it:Varoom (Tripudio Splendente 55)]]
+[[ja:ブロロン (ポケポケ A2b)]]
+[[zh:噗隆隆（A2b）]]

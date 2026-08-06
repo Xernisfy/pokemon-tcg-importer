@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Drifblim
+|ja name=フワライド
+|trans name=Fuwaride
+|species=Drifblim
+|type=Psychic
+|image=DrifblimShiningRevelry34.png
+|illustrator=Hajime Kusajima
+|hp=90
+|weakness=Darkness
+|retreat cost=0
+|evo stage=Stage 1
+|prevo name=Drifloon
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=034/072|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Drifblim''' (Japanese: '''フワライド''' ''Fuwaride'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Gust
+|jname=かぜおこし
+|jtrans=Stir Up Wind
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Drifblim
+|category=Blimp 
+|ndex=0426
+|height=3'11"
+|jheight=1.2
+|weight=33.1
+|jweight=15.0
+|dex=It can generate and release gas within its body. That's how it can control the altitude of its drift.
+|jdex=体の 中で ガスを 作ったり 吐き出したり することで 空を 飛ぶ 高さを 調節する。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Stormfront|Drifblim|16}} from the {{TCG|Stormfront}} expansion.
+*{{m|Gust}} is a [[move]] in the [[Pokémon games]] that {{p|Drifblim}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Drifzepeli (Glänzendes Festival 034)]]
+[[es:Drifblim (Festival Brillante TCG Pocket)]]
+[[fr:Grodrive (Réjouissances Rayonnantes 034)]]
+[[it:Drifblim (Tripudio Splendente 34)]]
+[[ja:フワライド (ポケポケ A2b)]]
+[[zh:隨風球（A2b）]]

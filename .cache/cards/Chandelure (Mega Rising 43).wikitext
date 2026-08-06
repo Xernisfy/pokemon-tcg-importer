@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Chandelure
+|ja name=シャンデラ
+|trans name=Chandela
+|species=Chandelure
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ChandelureMegaRising43.png|illustrator=Taira Akitsu|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ChandelureMegaRising231.png|illustrator=REND|tab caption=Illustration Rare}}
+|hp=140
+|weakness=Water
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Lampent
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=043/226|pack=Mega Altaria|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=231/226|pack=Mega Altaria|rarity=Star|rarity count=1}}
+}}
+
+'''Chandelure''' (Japanese: '''シャンデラ''' ''Chandela'') is a {{ct|Fire}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Ability/Pocket
+|type=Fire
+|name=Slow Sear
+|jname=じわじわあぶる
+|jtrans=Slow Roast
+|effect=Once during your turn, you may discard the top card of your opponent's deck.
+}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Heat Blast
+|jname=ヒートブラスト
+|jtrans=Heat Blast
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Chandelure
+|category=Luring
+|ndex=0609
+|height=3'3"
+|jheight=1.0
+|weight=75.6
+|jweight=34.3
+|dex=In homes illuminated by Chandelure instead of lights, funerals were a constant occurrence—or so it's said.
+|jdex=シャンデラを 灯りの かわりに していた 屋敷では 葬式が 絶えることが なかった という。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=ChandelureMegaRising43.png
+|caption1=Rare card<br>Illus. [[Taira Akitsu]]
+|image2=ChandelureMegaRising231.png
+|caption2=Illustration rare card<br>Illus. [[REND]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Rebel Clash|Chandelure|33}} from the {{TCG|Rebel Clash}} expansion.
+*'''Heat Blast''' is an attack that first appeared on {{TCG ID|Latias Half Deck|Latias|4}} from the {{TCG|EX Trainer Kit}}.
+*This card's [[Pokédex]] entry comes from {{g|Shield}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Skelabra (Mega-Aufstieg 043)]]
+[[es:Chandelure (Megaascenso TCG Pocket)]]
+[[fr:Lugulabre (Méga-Ascension 043)]]
+[[it:Chandelure (Mega Ascesa 43)]]
+[[ja:シャンデラ (ポケポケ B1)]]
+[[zh:水晶灯火灵（B1）]]

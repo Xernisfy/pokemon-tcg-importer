@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Krokorok
+|ja name=ワルビル
+|trans name=Waruvile
+|species=Krokorok
+|type=Darkness
+|image=KrokorokExtradimensionalCrisis40.png
+|illustrator=Akira Komayama
+|hp=90
+|weakness=Grass
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Sandile
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=040/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Krokorok''' (Japanese: '''ワルビル''' ''Waruvile'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}
+|name=Light Punch
+|jname=なぐる
+|jtrans=Strike
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Krokorok
+|category=Desert Croc 
+|ndex=0552
+|height=3'3"
+|jheight=1
+|weight=73.6
+|jweight=33.4
+|dex=Protected by thin membranes, their eyes can see even in the dead of night. They live in groups of a few individuals.
+|jdex=薄い 膜で 被われている 両目は 真夜中でも 見える。 数匹の 群れで 暮らしている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|XY|Krokorok|70}} from the {{TCG|XY}} expansion.
+*'''Light Punch''' is an attack that first appeared on {{TCG ID|VS|Bruno's Ursaring|85}} from the {{TCG|Pokémon VS}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rokkaiman (Dimensionale Krise 040)]]
+[[es:Krokorok (Crisis Dimensional TCG Pocket)]]
+[[fr:Escroco (Crise Interdimensionnelle 040)]]
+[[it:Krokorok (Crisi Ultradimensionale 40)]]
+[[ja:ワルビル (ポケポケ A3a)]]
+[[zh:混混鳄（A3a）]]

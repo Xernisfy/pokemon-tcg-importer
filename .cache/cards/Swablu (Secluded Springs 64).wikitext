@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Swablu
+|ja name=チルット
+|trans name=Tyltto
+|species=Swablu
+|type=Colorless
+|image=SwabluSecludedSprings64.png
+|illustrator=0313
+|hp=50
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=064/071|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Swablu''' (Japanese: '''チルット''' ''Tyltto'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Peck
+|jname=つつく
+|jtrans=Peck
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Swablu
+|category=Cotton Bird
+|ndex=0333
+|height=1'4"
+|jheight=0.4
+|weight=2.6
+|jweight=1.2
+|dex=It constantly grooms its cotton-like wings. It takes a shower to clean itself if it becomes dirty.
+|jdex=真綿のような 翼の 手入れは 絶対に 欠かさない。 汚れると 水浴びをして きれいに 洗う。
+}}
+
+==Trivia==
+===Origin===
+*This card is almost identical to {{TCG ID|Champion's Path|Swablu|48}} from the [[Pokémon Trading Card Game]]'s {{TCG|Champion's Path}} expansion, except for the {{TCG|Weakness}} modifier and {{TCG|Resistance}}; both cards feature the same illustration.
+*{{m|Peck}} is a [[move]] in the [[Pokémon games]] that {{p|Swablu}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wablu (Verborgene Quelle 064)]]
+[[es:Swablu (Manantial Oculto TCG Pocket)]]
+[[fr:Tylton (Source Secrète 064)]]
+[[it:Swablu (Sorgenti Recondite 64)]]
+[[ja:チルット (ポケポケ A4a)]]
+[[zh:青绵鸟（A4a）]]

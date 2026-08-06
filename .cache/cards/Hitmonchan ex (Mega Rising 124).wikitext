@@ -1,0 +1,64 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Hitmonchan {{TCGP Icon|ex}}
+|ja name=エビワラー{{TCGP Icon|ex}}
+|trans name=Ebiwalar {{TCGP Icon|ex}}
+|species=Hitmonchan
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HitmonchanexMegaRising124.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HitmonchanexMegaRising261.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=HitmonchanexMegaRising279.png|illustrator=nagimiso|tab caption=Special Illustration Rare}}
+|hp=130
+|weakness=Psychic
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=124/226|pack=Mega Blaziken|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=261/226|pack=Mega Blaziken|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=279/226|pack=Mega Blaziken|rarity=Star|rarity count=2}}
+}}
+
+'''Hitmonchan ex''' (Japanese: '''エビワラーex''' ''Ebiwalar ex'') is a {{ct|Fighting}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Quick Straight
+|jname=クイックストレート
+|jtrans=Quick Straight
+|damage=50
+|effect=This attack's damage isn't affected by Weakness.
+}}
+{{Cardtext/Pocket ex
+|type=Fighting
+|ndex=0107
+|name=Hitmonchan
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=HitmonchanexMegaRising124.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=HitmonchanexMegaRising261.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=HitmonchanexMegaRising279.png
+|caption3=Special illustration rare card<br>Illus. [[nagimiso]]
+}}
+
+==Trivia==
+===Origin===
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Nockchan-ex (Mega-Aufstieg 124)]]
+[[es:Hitmonchan ex (Megaascenso TCG Pocket)]]
+[[fr:Tygnon-ex (Méga-Ascension 124)]]
+[[it:Hitmonchan-ex (Mega Ascesa 124)]]
+[[ja:エビワラーex (ポケポケ B1)]]
+[[zh:快拳郎ex（B1）]]

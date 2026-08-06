@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Delcatty
+|ja name=エネコロロ
+|trans name=Enekororo
+|species=Delcatty
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DelcattyCelestialGuardians130.png|illustrator=0313|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DelcattyDeluxePackex293.png|illustrator=0313|tab caption=Parallel}}
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Skitty
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=130/155|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=292/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=293/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Delcatty''' (Japanese: '''エネコロロ''' ''Enekororo'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Energy Assist
+|jname=エネアシスト
+|jtrans=Ene Assist
+|damage=30
+|effect=Take a {{e|Colorless}} Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex
+|type=Colorless
+|name=Delcatty
+|species=Prim
+|ndex=0301
+|height=3'7"
+|jheight=1.1
+|weight=71.9
+|jweight=32.6
+|dex=It dislikes dirty places. It often searches for a comfortable place in which to groom itself.
+|jdex=汚い 場所が 大嫌い。 居心地の 良い 場所で いつも 毛並みを 手入れしている。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=DelcattyCelestialGuardians130.png
+|caption1=Standard card<br>Illus. [[0313]]
+|image2=DelcattyDeluxePackex293.png
+|caption2=Parallel foil card<br>Illus. [[0313]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|SM Promo|Delcatty|132}}, one of the {{TCG|SM Black Star Promos}}.
+*'''Energy Assist''' is an attack that first appeared on {{TCG ID|Legends Awakened|Delcatty|23}} from the {{TCG|Legends Awakened}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Enekoro (Hüter des Firmaments 130)]]
+[[es:Delcatty (Guardianes Celestiales TCG Pocket)]]
+[[fr:Delcatty (Gardiens Astraux 130)]]
+[[it:Delcatty (Guardiani Astrali 130)]]
+[[ja:エネコロロ (ポケポケ A3)]]
+[[zh:优雅猫（A3）]]

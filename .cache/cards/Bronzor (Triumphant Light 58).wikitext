@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bronzor
+|ja name=ドーミラー
+|trans name=Dohmirror
+|species=Bronzor
+|type=Metal
+|image=BronzorTriumphantLight58.png
+|illustrator=Miki Tanaka
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=058/075|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Bronzor''' (Japanese: '''ドーミラー''' ''Dohmirror'') is a {{ct|Metal}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Colorless}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Bronzor
+|species=Bronze
+|ndex=0436
+|height=1'8"
+|jheight=0.5
+|weight=133.4
+|jweight=60.5
+|dex=Ancient people believed that the pattern on Bronzor's back contained a mysterious power.
+|jdex=ドーミラーの 背中の 模様には 神秘的な 力が 宿ると 昔の 人たちは 信じていた。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Phantom Forces|Bronzor|60}} from the {{TCG|Phantom Forces}} expansion.
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Bronzel (Licht des Triumphs 058)]]
+[[es:Bronzor (Luz Triunfal TCG Pocket)]]
+[[fr:Archéomire (Lumière Triomphale 058)]]
+[[it:Bronzor (Luce Trionfale 58)]]
+[[ja:ドーミラー (ポケポケ A2a)]]
+[[zh:銅鏡怪（A2a）]]

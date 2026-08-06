@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Blaziken
+|ja name=バシャーモ
+|trans name=Bursyamo
+|species=Blaziken
+|type=Fire
+|image=BlazikenMegaRising35.png
+|illustrator=GOSSAN
+|hp=140
+|weakness=Water
+|retreat cost=1
+|evo stage=Stage 2
+|prevo name=Combusken
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=035/226|pack=Mega Blaziken|rarity=Diamond|rarity count=3}}
+}}
+
+'''Blaziken''' (Japanese: '''バシャーモ''' ''Bursyamo'') is a {{ct|Fire}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}{{e|Fire}}
+|name=Blaze Kick
+|jname=ブレイズキック
+|jtrans=Blaze Kick
+|damage=100
+|effect=Discard a {{e|Fire}} Energy from your this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Blaziken
+|category=Blaze
+|ndex=0257
+|height=6'3"
+|jheight=1.9
+|weight=114.6
+|jweight=52.0
+|dex=When facing a tough foe, it looses flames from its wrists. Its powerful legs let it jump clear over buildings.
+|jdex=強敵に 出会うと 手首から 炎を 噴き出す。 ジャンプで ビルを 跳び越す 脚力。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Blaze Kick}} is a [[move]] in the [[Pokémon games]] that {{p|Blaziken}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lohgock (Mega-Aufstieg 035)]]
+[[es:Blaziken (Megaascenso TCG Pocket)]]
+[[fr:Braségali (Méga-Ascension 035)]]
+[[it:Blaziken (Mega Ascesa 35)]]
+[[ja:バシャーモ (ポケポケ B1)]]
+[[zh:火焰鸡（B1）]]

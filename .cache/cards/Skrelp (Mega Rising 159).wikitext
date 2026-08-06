@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Skrelp
+|ja name=クズモー
+|trans name=Kuzumo
+|species=Skrelp
+|type=Darkness
+|image=SkrelpMegaRising159.png
+|illustrator=Mina Nakai
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=159/226|pack=Mega Blaziken|rarity=Diamond|rarity count=1}}
+}}
+
+'''Skrelp''' (Japanese: '''クズモー''' ''Kuzumo'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}
+|name=Razor Fin
+|jname=ひれカッター
+|jtrans=Fin Cutter
+|damage=40
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Skrelp
+|category=Mock Kelp
+|ndex=0690
+|height=1'8"
+|jheight=0.5
+|weight=16.1
+|jweight=7.3
+|dex=This Pokémon is a poor swimmer. If it's caught in a fierce storm, it will sometimes get washed far away and become unable to return to its home.
+|jdex=泳ぎは 苦手。 ひどい 嵐に 巻きこまれると 遠くまで 流され 棲み処に 戻れなくなることもある。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Forbidden Light|Skrelp|52}} from the {{TCG|Forbidden Light}} expansion.
+*'''Razor Fin''' is an attack that first appeared on {{TCG ID|EX Team Magma vs Team Aqua|Team Aqua's Carvanha|48}} from the {{TCG|EX Team Magma vs Team Aqua}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Algitt (Mega-Aufstieg 159)]]
+[[es:Skrelp (Megaascenso TCG Pocket)]]
+[[fr:Venalgue (Méga-Ascension 159)]]
+[[it:Skrelp (Mega Ascesa 159)]]
+[[ja:クズモー (ポケポケ B1)]]
+[[zh:垃垃藻（B1）]]

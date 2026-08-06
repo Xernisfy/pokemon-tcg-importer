@@ -1,0 +1,52 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lapras {{TCGP Icon|ex}}
+|ja name=ラプラス {{TCGP Icon|ex}}
+|trans name=Laplace {{TCGP Icon|ex}}
+|species=Lapras
+|type=Water
+|image=LaprasexPromo-A14.png
+|illustrator=PLANETA CG Works
+|hp=140
+|weakness=Lightning
+|retreat cost=3
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=014/P-A|pack=Vol. 1}}
+}}
+
+'''Lapras ex''' (Japanese: '''ラプラスex''' ''Laplace ex'') is a {{ct|Water}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Bubble Drain
+|jname=バブルドレイン
+|jtrans=Bubble Drain
+|damage=80
+|effect=Heal 20 damage from this Pokémon.
+}}
+{{Cardtext/Pocket ex
+|type=Water
+|ndex=0131
+|name=Lapras
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+This card was one of five cards that could be pulled from Promo-A Vol. 1 packs; these were made available as part of the [[Lapras ex Drop Event]], which ran from November 5 to 18, 2024.
+
+==Trivia==
+===Origin===
+*'''Bubble Drain''' is an attack that first appeared on {{TCG ID|Everyone's Exciting Battle|Azumarill|12}} from the {{TCG|Everyone's Exciting Battle}} collection.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lapras-ex (PROMO-A 014)]]
+[[es:Lapras ex (Promo-A 14 TCG Pocket)]]
+[[fr:Lokhlass-ex (Promo-A 014)]]
+[[it:Lapras-ex (Promo-A 14)]]
+[[ja:ラプラスex (ポケポケ P-A)]]
+[[zh:拉普拉斯ex（P-A）]]

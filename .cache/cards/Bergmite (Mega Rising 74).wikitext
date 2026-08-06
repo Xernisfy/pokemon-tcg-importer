@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Bergmite
+|ja name=カチコール
+|trans name=Kachikohru
+|species=Bergmite
+|type=Water
+|image=BergmiteMegaRising74.png
+|illustrator=Miki Tanaka
+|hp=70
+|weakness=Metal
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=074/226|pack=Mega Gyarados|rarity=Diamond|rarity count=1}}
+}}
+
+'''Bergmite''' (Japanese: '''カチコール''' ''Kachikohru'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Icicle
+|jname=つらら
+|jtrans=Icicle
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Bergmite
+|species=Ice Chunk
+|ndex=0712
+|height=3'3"
+|jheight=1.0
+|weight=219.4
+|jweight=99.5
+|dex=They live in mountainous regions of frigid cold. On rare occasions, they ride on the back of an Avalugg to cross seas and move to new habitats.
+|jdex=極寒の 山岳地で 暮らすが まれに クレベースの 背中に 乗り 海を 渡って 棲み処を 変える。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Forbidden Light|Bergmite|29}} from the {{TCG|Forbidden Light}} expansion.
+*'''Icicle''' is an attack that first appeared on {{TCG ID|Unified Minds|Snorunt|37}} from the {{TCG|Unified Minds}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Arktip (Mega-Aufstieg 074)]]
+[[es:Bergmite (Megaascenso TCG Pocket)]]
+[[fr:Grelaçon (Méga-Ascension 074)]]
+[[it:Bergmite (Mega Ascesa 74)]]
+[[ja:カチコール (ポケポケ B1)]]
+[[zh:冰宝（B1）]]

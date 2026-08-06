@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Skiploom
+|ja name=ポポッコ
+|trans name=Popocco
+|species=Skiploom
+|type=Grass
+|image=SkiploomSecludedSprings2.png
+|illustrator=Dsuke
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Hoppip
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=002/071|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Skiploom''' (Japanese: '''ポポッコ''' ''Popocco'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Secluded Springs}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Bounce
+|jname=とびはねる
+|jtrans=Bounce
+|damage=30
+|effect=Switch this Pokémon with one of your Benched Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Skiploom
+|category=Cottonweed
+|ndex=0188
+|height=2'
+|jheight=0.6
+|weight=2.2
+|jweight=1.0
+|dex=Skiploom enthusiasts can apparently tell where a Skiploom was born by the scent drifting from the flower on the Pokémon's head.
+|jdex=ポポッコの マニアは 頭の 花から 漂う 香りで どこで 生まれたか わかるらしい。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Bounce}} is a [[move]] in the [[Pokémon games]] that {{p|Skiploom}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Hubelupf (Verborgene Quelle 002)]]
+[[es:Skiploom (Manantial Oculto TCG Pocket)]]
+[[fr:Floravol (Source Secrète 002)]]
+[[it:Skiploom (Sorgenti Recondite 2)]]
+[[ja:ポポッコ (ポケポケ A4a)]]
+[[zh:毽子花（A4a）]]

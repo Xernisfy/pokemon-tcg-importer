@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Oddish
+|ja name=ナゾノクサ
+|trans name=Nazonokusa
+|species=Oddish
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OddishWisdomofSeaandSky1.png|illustrator=ryoma uratsuka|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=OddishCrimsonBlaze88.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=001/161|pack=Lugia|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=088/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Oddish''' (Japanese: '''ナゾノクサ''' ''Nazonokusa'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Poison Powder
+|jname=どくのこな
+|jtrans=Poison Powder
+|damage=10
+|effect=Your opponent's Active Pokémon is now {{TCG|Poisoned}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Oddish
+|species=Weed
+|ndex=0043
+|height=1'8"
+|jheight=0.5
+|weight=11.9
+|jweight=5.4
+|dex=If exposed to moonlight, it starts to move. It roams far and wide at night to scatter its seeds.
+|jdex=月の光を　浴びて　動きだす｡ 夜のあいだに　タネを　あちこちに ばらまくため　歩きまわる｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=OddishWisdomofSeaandSky1.png
+|caption1=Common card<br>Illus. [[ryoma uratsuka]]
+|image2=OddishCrimsonBlaze88.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+}}
+
+==Trivia==
+*The Shiny Rare print has an error where diagonal lines overlay the main body of the card.
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Crown Zenith|Oddish|1}} from the {{TCG|Crown Zenith}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Oddish}}.
+*{{m|Poison Powder}} is a [[move]] in the [[Pokémon games]] that {{p|Oddish}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Myrapla (Weisheit von Meer und Himmel 001)]]
+[[es:Oddish (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Mystherbe (Sagesse entre Ciel et Mer 001)]]
+[[it:Oddish (La Via del Cielo e del Mare 1)]]
+[[ja:ナゾノクサ (ポケポケ A4)]]
+[[zh:走路草（A4）]]

@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Rayquaza {{TCGP Icon|ex}}
+|ja name=レックウザ{{TCGP Icon|ex}}
+|trans name=Rayquaza {{TCGP Icon|ex}}
+|species=Rayquaza
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RayquazaexPromo-A64.png|illustrator=PLANETA CG Works|tab caption=Promo (064/P-A)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=RayquazaexPromo-A65.png|illustrator=PLANETA CG Works|tab caption=Promo (065/P-A)}}
+|hp=140
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=064/P-A|pack=Vol. 7}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=065/P-A}}
+}}
+
+'''Rayquaza ex''' (Japanese: '''レックウザex''' ''Rayquaza ex'') is a {{ct|Colorless}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Promo-A}} series of cards.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Draco Meteor
+|jname=りゅうせいぐん
+|jtrans=Meteor Shower
+|effect=1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 40 damage to it.
+}}
+{{Cardtext/Pocket ex
+|type=Colorless
+|ndex=0384
+|name=Rayquaza
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+The 064/P-A print of this card was one of five cards that could be pulled from Promo-A Vol. 7 packs; these were made available as part of the [[Rayquaza ex Drop Event]], which ran from April 30 to May 13, 2025. The 065/P-A print of this card was available through {{DL|Mission (TCG Pocket)|Special Missions 2025}}, which were available from April 30 to May 29, 2025.
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=RayquazaexPromo-A64.png
+|caption1={{TCGP|Promo-A}} print (064/P-A)<br>Illus. [[PLANETA CG Works]]
+|image2=RayquazaexPromo-A65.png
+|caption2={{TCGP|Promo-A}} print (065/P-A)<br>Illus. [[PLANETA CG Works]]
+}}
+
+==Trivia==
+===Origin===
+* {{m|Draco Meteor}} is a [[move]] in the [[Pokémon games]] that {{p|Rayquaza}} can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rayquaza-ex (PROMO-A 064)]]
+[[es:Rayquaza ex (Promo-A 64 TCG Pocket)]]
+[[fr:Rayquaza-ex (Promo-A 064)]]
+[[it:Rayquaza-ex (Promo-A 64)]]
+[[ja:レックウザex (ポケポケ P-A)]]
+[[zh:烈空坐ex（P-A）]]

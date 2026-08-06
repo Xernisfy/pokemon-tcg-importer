@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Raikou
+|ja name=ライコウ
+|trans name=Raikou
+|species=Raikou
+|type=Lightning
+|image=RaikouWisdomofSeaandSky71.png
+|illustrator=Kazumasa Yasukuni
+|hp=90
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=071/161|pack=Ho-Oh|rarity=Diamond|rarity count=3}}
+}}
+
+'''Raikou''' (Japanese: '''ライコウ''' ''Raikou'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}
+|name=Thunder
+|jname=かみなり
+|jtrans=Lightning
+|damage=70
+|effect=This Pokémon also does 20 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex
+|type=Lightning
+|name=Raikou
+|species=Thunder
+|ndex=0243
+|height=6'03"
+|jheight=1.9
+|weight=392.4
+|jweight=178.0
+|dex=The rain clouds it carries let it fire thunderbolts at will. They say that it descended with lightning.
+|jdex=雨雲を 背負っているので どんなときでも 雷を 出せる。雷とともに 落ちてきたという。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Thunder}} is a [[move]] in the [[Pokémon games]] that {{p|Raikou}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|X}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Raikou (Weisheit von Meer und Himmel 071)]]
+[[es:Raikou (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Raikou (Sagesse entre Ciel et Mer 071)]]
+[[it:Raikou (La Via del Cielo e del Mare 71)]]
+[[ja:ライコウ (ポケポケ A4)]]
+[[zh:雷公（A4）]]

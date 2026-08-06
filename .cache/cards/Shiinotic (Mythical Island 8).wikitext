@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Shiinotic
+|ja name=マシェード
+|trans name=Mashade
+|species=Shiinotic
+|type=Grass
+|image=ShiinoticMythicalIsland8.png
+|illustrator=Mizue
+|hp=90
+|weakness=Fire
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Morelull
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=008/068|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Shiinotic''' (Japanese: '''マシェード''' ''Mashade'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}
+|name=Flickering Spores
+|jname=ゆれるほうし
+|jtrans=Flickering Spores
+|damage=50
+|effect=Your opponent's Active Pokémon is now {{TCG|Asleep}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Shiinotic
+|species=Illuminating
+|ndex=0756
+|height=3'3"
+|jheight=1.0
+|weight=25.4
+|jweight=11.5
+|dex=Its flickering spores lure in prey and put them to sleep. Once this Pokémon has its prey snoozing, it drains their vitality with its fingertips.
+|jdex=点滅する 胞子の 光りで 獲物を おびき寄せて 眠らせる。 指先から 生気を 吸い取る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Sun & Moon|Shiinotic|17}} from the {{TCG|Sun & Moon}} expansion, as was its '''Flickering Spores''' attack.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lamellux (Mysteriöse Insel 008)]]
+[[es:Shiinotic (La Isla Singular TCG Pocket)]]
+[[fr:Lampignon (L'Île Fabuleuse 008)]]
+[[it:Shiinotic (L'Isola Misteriosa 8)]]
+[[ja:マシェード (ポケポケ A1a)]]
+[[zh:灯罩夜菇（A1a）]]

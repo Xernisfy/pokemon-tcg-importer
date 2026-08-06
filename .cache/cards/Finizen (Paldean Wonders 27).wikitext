@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Finizen
+|ja name=ナミイルカ
+|trans name=Namiiruka
+|species=Finizen
+|type=Water
+|image=FinizenPaldeanWonders27.png
+|illustrator=kodama
+|hp=60
+|weakness=Lightning
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=027/093|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Finizen''' (Japanese: '''ナミイルカ''' ''Namiiruka'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}
+|name=Razor Fin
+|jname=ひれカッター
+|jtrans=Fin Cutter
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Finizen
+|category=Dolphin
+|ndex=0963
+|height=4'3"
+|jheight=1.3
+|weight=132.7
+|jweight=60.2
+|dex=Its water ring is made from seawater mixed with a sticky fluid that Finizen secretes from its blowhole.
+|jdex=水のリングは 頭の 穴から 出る 粘着液と 海の水を 混ぜて 作り出したものなのだ。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Obsidian Flames|Finizen|60}} from the {{TCG|Obsidian Flames}} expansion.
+**Both cards have the '''Razor Fin''' attack, which first appeared on {{TCG ID|EX Team Magma vs Team Aqua|Team Aqua's Carvanha|48}} from the {{TCG|EX Team Magma vs Team Aqua}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Normifin (Wundervolles Paldea 027)]]
+[[fr:Dofin (Merveilles de Paldea 027)]]
+[[it:Finizen (Meraviglie di Paldea 27)]]
+[[ja:ナミイルカ (ポケポケ B2a)]]
+[[zh:波普海豚（B2a）]]

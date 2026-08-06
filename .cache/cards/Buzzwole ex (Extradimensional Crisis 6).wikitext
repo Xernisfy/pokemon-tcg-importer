@@ -1,0 +1,89 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Buzzwole {{TCGP Icon|ex}}
+|ja name=マッシブーン{{TCGP Icon|ex}}
+|trans name=Massivoon {{TCGP Icon|ex}}
+|species=Buzzwole
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BuzzwoleexExtradimensionalCrisis6.png|illustrator=PLANETA Mochizuki|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BuzzwoleexExtradimensionalCrisis76.png|illustrator=PLANETA Mochizuki|tab caption=Super Rare (A3a)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BuzzwoleexDeluxePackex360.png|illustrator=5ban Graphics|tab caption=Super Rare (A4b)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BuzzwoleexExtradimensionalCrisis88.png|illustrator=akagi|illustrator link=akagi (illustrator)|tab caption=Immersive}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BuzzwoleexCrimsonBlaze98.png|illustrator=PLANETA Mochizuki|tab caption=Shiny Super Rare}}
+|hp=140
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Extradimensional Crisis}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=006/069|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=076/069|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=088/069|pack=Any|rarity=Star|rarity count=3}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=044/353|pack=Any|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=360/353|pack=Any|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=098/069|pack=Any|rarity=Shiny|rarity count=2}}
+}}
+
+'''Buzzwole ex''' (Japanese: '''マッシブーンex''' ''Massivoon ex'') is a {{ct|Grass}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Extradimensional Crisis}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/UltraBeast/Pocket}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Punch
+|jname=パンチ
+|jtrans=Punch
+|damage=30
+|effect=
+}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=Big Beat
+|jname=ビッグビート
+|jtrans=Big Beat
+|damage=120
+|effect=During your next turn, this Pokémon can't use Big Beat.
+}}
+{{Cardtext/Pocket ex
+|type=Grass
+|ndex=0794
+|name=Buzzwole
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=BuzzwoleexExtradimensionalCrisis6.png
+|caption1=Double rare card<br>Illus. [[PLANETA Mochizuki]]
+|image2=BuzzwoleexExtradimensionalCrisis76.png
+|caption2=Super rare card<br>({{TCGP|Extradimensional Crisis}})<br>Illus. [[PLANETA Mochizuki]]
+|image3=BuzzwoleexExtradimensionalCrisis88.png
+|caption3={{TCGP|Immersive card}}<br>Illus. [[akagi (illustrator)|akagi]]
+|image4=BuzzwoleexDeluxePackex360.png
+|caption4=Super rare card<br>({{TCGP|Deluxe Pack: ex}})<br>Illus. [[5ban Graphics]]
+|image5=BuzzwoleexCrimsonBlaze98.png
+|caption5=Shiny super rare card<br>Illus. [[PLANETA Mochizuki]]
+}}
+
+==Trivia==
+===Origin===
+*This card's immersive illustration features all of the [[Ultra Beast]]s—{{p|Buzzwole}}, {{p|Nihilego}}, {{p|Pheromosa}}, {{p|Xurkitree}}, {{P|Celesteela}}, {{p|Kartana}}, {{P|Guzzlord}}, {{p|Poipole}}, {{p|Naganadel}}, {{p|Stakataka}}, and {{p|Blacephalon}}—appearing from an [[Ultra Wormhole]].
+*This card's shiny super rare illustration features a {{Shiny}} {{p|Buzzwole}}.
+*'''Punch''' is an attack that first appeared on {{TCG ID|Neo Genesis|Electabuzz|33}} from the {{TCG|Neo Genesis}} expansion.
+*The '''Big Beat''' attack is named after {{wp|big beat}}, a genre of music. The name may have been chosen in reference to {{p|Buzzwole}}'s size and physical strength.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Masskito-ex (Dimensionale Krise 006)]]
+[[es:Buzzwole ex (Crisis Dimensional TCG Pocket)]]
+[[fr:Mouscoto-ex (Crise Interdimensionnelle 006)]]
+[[it:Buzzwole-ex (Crisi Ultradimensionale 6)]]
+[[ja:マッシブーンex (ポケポケ A3a)]]
+[[zh:爆肌蚊ex（A3a）]]

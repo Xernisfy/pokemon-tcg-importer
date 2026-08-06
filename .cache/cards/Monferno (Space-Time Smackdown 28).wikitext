@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Monferno
+|ja name=モウカザル
+|trans name=Moukazaru
+|species=Monferno
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MonfernoSpace-TimeSmackdown28.png|illustrator=Masakazu Fukuda|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MonfernoDeluxePackex74.png|illustrator=Masakazu Fukuda|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MonfernoSecludedSprings92.png|illustrator=Souichirou Gunjima|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Water
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Chimchar
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=028/155|pack=Palkia|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Secluded Springs}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=092/071|pack=Any|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=073/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=074/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Monferno''' (Japanese: '''モウカザル''' ''Moukazaru'') is a {{ct|Fire}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Fiery Punch
+|jname=ほのおパンチ
+|jtrans=Flame Punch
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Monferno
+|species=Playful
+|ndex=0391
+|height=2'11"
+|jheight=0.9
+|weight=48.5
+|jweight=22.0
+|dex=It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.
+|jdex=尻尾の 炎の 勢いを うまく コントロールして 自分の 得意な 間合いで 戦うのだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=MonfernoSpace-TimeSmackdown28.png
+|caption1=Standard card<br>Illus. [[Masakazu Fukuda]]
+|image2=MonfernoSecludedSprings92.png
+|caption2=Shiny rare card<br>Illus. [[Souichirou Gunjima]]
+|image3=MonfernoDeluxePackex74.png
+|caption3=Parallel foil card<br>Illus. [[Masakazu Fukuda]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Plasma Storm|Monferno|16}} from the {{TCG|Plasma Storm}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Monferno}}.
+*'''Fiery Punch''' is an attack that first appeared on {{TCG ID|Brilliant Stars|Magmar|19}} from the {{TCG|Brilliant Stars}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Panpyro (Kollision von Raum und Zeit 028)]]
+[[es:Monferno (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Chimpenfeu (Choc Spatio-Temporel 028)]]
+[[it:Monferno (Scontro Spaziotemporale 28)]]
+[[ja:モウカザル (ポケポケ A2)]]
+[[zh:猛火猴（A2）]]

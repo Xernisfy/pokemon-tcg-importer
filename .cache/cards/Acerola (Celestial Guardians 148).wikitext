@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Acerola
+|ja name=アセロラ
+|trans name=Acerola
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AcerolaCelestialGuardians148.png|illustrator=Susumu Maeya|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=AcerolaCelestialGuardians190.png|illustrator=Susumu Maeya|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=148/155|pack=Lunala|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=190/155|pack=Lunala|rarity=Star|rarity count=2}}
+}}
+
+'''Acerola''' (Japanese: '''アセロラ''' ''Acerola'') is a {{TCGP|Supporter}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Choose 1 of your {{TCGP|Palossand}} or {{TCGP|Mimikyu}} that has damage on it, and move 40 of its damage to your opponent's Active Pokémon.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=AcerolaCelestialGuardians148.png
+|caption1=Uncommon card<br>Illus. [[Susumu Maeya]]
+|image2=AcerolaCelestialGuardians190.png
+|caption2=Super rare card<br>Illus. [[Susumu Maeya]]
+}}
+
+==Trivia==
+* {{TCG|Acerola}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*[[Acerola]] is the [[Trial Captain|captain]] of [[Ula'ula Island]]'s abandoned {{OBP|Thrifty Megamart|Abandoned Site}} and a member of the [[Alola]] [[Elite Four]]. The Thrifty Megamart is featured in the illustration.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=アセロラ ''Acerola''
+|zh_yue=阿塞蘿拉 ''Achoilòhlāai''
+|zh_cmn=阿塞蘿拉<!-- / 阿塞萝拉--> ''Āsāiluólā''
+|fr=Margie
+|de=Lola
+|it=Malpi
+|ko=아세로라 ''Aserora''
+|pt_br=Acerola
+|es=Zarala
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lola (TCG Pocket)]]
+[[es:Zarala (TCG Pocket)]]
+[[fr:Margie (Gardiens Astraux 148)]]
+[[it:Malpi (Guardiani Astrali 148)]]
+[[ja:アセロラ (ポケポケ)]]
+[[zh:阿塞萝拉（TCGP）]]

@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Leafeon
+|ja name=リーフィア
+|trans name=Leafia
+|species=Leafeon
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LeafeonEeveeGrove2.png|illustrator=chibi|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LeafeonEeveeGrove70.png|illustrator=Ryota Murayama|tab caption=Illustration Rare}}
+|hp=90
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Eevee
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=002/069|pack=Any|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=070/069|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Leafeon''' (Japanese: '''リーフィア''' ''Leafia'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Eevee Grove}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Leaf Blast
+|jname=リーフブラスト
+|jtrans=Leaf Blast
+|damage=10+
+|effect=This attack does 20 more damage for each {{e|Grass}} Energy attached to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Leafeon
+|category=Verdant 
+|ndex=0470
+|height=3'3"
+|jheight=1.0
+|weight=56.2
+|jweight=25.5
+|dex=When you see Leafeon asleep in a patch of sunshine, you'll know it is using photosynthesis to produce clean air.
+|jdex=晴れた 日に 寝ている リーフィアは 光合成をして きれいな 空気を 作り出しているのだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=LeafeonEeveeGrove2.png
+|caption1=Rare card<br>Illus. [[chibi]]
+|image2=LeafeonEeveeGrove70.png
+|caption2=Illustration rare card<br>Illus. [[Ryota Murayama]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|SM Promo|Leafeon|237}}, one of the {{TCG|SM Black Star Promos}}.
+*'''Leaf Blast''' is an attack that first appeared on {{TCG ID|Arceus|Sceptile|30}} from the {{TCG|Platinum: Arceus|Arceus}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Folipurba (Evoli-Hain 002)]]
+[[es:Leafeon (Arboleda de Eevee TCG Pocket)]]
+[[fr:Phyllali (La Clairière d'Évoli 002)]]
+[[it:Leafeon (Il Bosco di Eevee 2)]]
+[[ja:リーフィア (ポケポケ A3b)]]
+[[zh:叶伊布（A3b）]]

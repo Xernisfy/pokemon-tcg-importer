@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Burmy
+|ja name=ミノムッチ
+|trans name=Minomucchi
+|species=Burmy
+|type=Grass
+|image=BurmySpace-TimeSmackdown15.png
+|illustrator=Mugi Hamada
+|hp=60
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=015/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Burmy''' (Japanese: '''ミノムッチ''' ''Minomucchi'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Colorless}}
+|name=Tackle
+|jname=たいあたり
+|jtrans=Body Blow
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Burmy
+|species=Bagworm
+|ndex=0412
+|height=8"
+|jheight=0.2
+|weight=7.5
+|jweight=3.4
+|dex=To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.
+|jdex=つめたい こがらしを ふせぐため こえだや おちばを ざいりょうに ミノを つくり からだを おおう。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration features {{p|Burmy}} in its Plant Cloak, Sandy Cloak, and Trash Cloak {{form|Burmy|forms}}.
+*{{m|Tackle}} is a [[move]] in the [[Pokémon games]] that Burmy can learn.
+*This card's [[Pokédex]] entry comes from {{g|Brilliant Diamond}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Burmy (Kollision von Raum und Zeit 015)]]
+[[es:Burmy (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Cheniti (Choc Spatio-Temporel 015)]]
+[[it:Burmy (Scontro Spaziotemporale 15)]]
+[[ja:ミノムッチ (ポケポケ A2)]]
+[[zh:结草儿（A2）]]

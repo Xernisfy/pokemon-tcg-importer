@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Grumpig
+|ja name=ブーピッグ
+|trans name=Boopig
+|species=Grumpig
+|type=Psychic
+|image=GrumpigMegaShine32.png
+|illustrator=Sanosuke Sakuma
+|hp=110
+|weakness=Darkness
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Spoink
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=032/069|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Grumpig''' (Japanese: '''ブーピッグ''' ''Boopig'') is a {{ct|Psychic}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}
+|name=Swaying Dance
+|jname=ゆさぶるダンス
+|jtrans=Shaking Dance
+|damage=40+
+|effect=If your opponent has exactly 2, 4, or 6 cards in their hand, this attack does 40 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Grumpig
+|species=Manipulate
+|ndex=0326
+|height=2'11"
+|jheight=0.9
+|weight=157.6
+|jweight=71.5
+|dex=It uses black pearls to amplify its psychic power. It does an odd dance to gain control over foes.
+|jdex=黒真珠で サイコパワーを 増幅させる。不思議な ステップで 相手の 心を 操る。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Fates Collide|Grumpig|31}} from the {{TCG|Fates Collide}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Groink (Mega-Schillern 032)]]
+[[fr:Groret (Méga-Rayonnement 032)]]
+[[it:Grumpig (Mega Splendore 32)]]
+[[ja:ブーピッグ (ポケポケ B2b)]]
+[[zh:噗噗猪（B2b）]]

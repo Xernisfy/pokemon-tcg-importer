@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Drilbur
+|ja name=マクノシタ
+|trans name=Makunoshita
+|species=Drilbur
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DrilburCelestialGuardians93.png|illustrator=Tomokazu Komiya|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DrilburDeluxePackex217.png|illustrator=Tomokazu Komiya|tab caption=Parallel}}
+|hp=60
+|weakness=Grass
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=093/155|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=216/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=217/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Drilbur''' (Japanese: '''マクノシタ''' ''Makunoshita'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Colorless}}
+|name=Scratch
+|jname=ひっかく
+|jtrans=Scratch
+|damage=10
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Drilbur
+|species=Mole
+|ndex=0529
+|height=1'
+|jheight=0.3
+|weight=18.7
+|jweight=8.5
+|dex=It brings its claws together and whirls around at high speed before rushing toward its prey.
+|jdex=両手の ツメを 重ね合わせ 体を 高速回転 させると 獲物 めがけて 突っ込むのだ。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=DrilburCelestialGuardians93.png
+|caption1=Standard card<br>Illus. [[Tomokazu Komiya]]
+|image2=DrilburDeluxePackex217.png
+|caption2=Parallel foil card<br>Illus. [[Tomokazu Komiya]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Dark Explorers|Drilbur|55}} from the {{TCG|Dark Explorers}} expansion.
+*{{m|Scratch}} is a [[move]] in the [[Pokémon games]] that {{p|Drilbur}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rotomurf (Hüter des Firmaments 093)]]
+[[es:Drilbur (Guardianes Celestiales TCG Pocket)]]
+[[fr:Rototaupe (Gardiens Astraux 093)]]
+[[ja:モグリュー (ポケポケ A3)]]
+[[zh:螺钉地鼠（A3）]]

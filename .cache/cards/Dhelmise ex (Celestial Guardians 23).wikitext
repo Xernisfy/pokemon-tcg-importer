@@ -1,0 +1,67 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Dhelmise {{TCGP Icon|ex}}
+|ja name=ダダリン{{TCGP Icon|ex}}
+|trans name=Dadarin {{TCGP Icon|ex}}
+|species=Dhelmise
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DhelmiseexCelestialGuardians23.png|illustrator=PLANETA Tsuji|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DhelmiseexCelestialGuardians181.png|illustrator=PLANETA Tsuji|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=DhelmiseexCelestialGuardians199.png|illustrator=IKEDA Saki|tab caption=Special Illustration Rare}}
+|hp=140
+|weakness=Fire
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=023/155|pack=Solgaleo|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=181/155|pack=Solgaleo|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=199/155|pack=Solgaleo|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=043/353|pack=Any|rarity=Diamond|rarity count=4}}
+}}
+
+'''Dhelmise''' (Japanese: '''ダダリン''' ''Dadarin'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Grass}}{{e|Colorless}}
+|name=Anchor Shot
+|jname=アンカーショット
+|jtrans=Anchor Shot
+|damage=80
+|effect=During your opponent's next turn, the Defending Pokémon can't retreat.
+}}
+{{Cardtext/Pocket ex
+|type=Grass
+|ndex=0781
+|name=Dhelmise
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=DhelmiseexCelestialGuardians23.png
+|caption1=Double rare card<br>Illus. [[PLANETA Tsuji]]
+|image2=DhelmiseexCelestialGuardians181.png
+|caption2=Super rare card<br>Illus. [[PLANETA Tsuji]]
+|image3=DhelmiseexCelestialGuardians199.png
+|caption3=Special illustration rare card<br>Illus. [[IKEDA Saki]]
+}}
+
+==Trivia==
+===Origin===
+*{{m|Anchor Shot}} is a [[move]] in the [[Pokémon games]] that {{p|Dhelmise}} can learn.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Moruda-ex (Hüter des Firmaments 023)]]
+[[es:Dhelmise ex (Guardianes Celestiales TCG Pocket)]]
+[[fr:Sinistrail-ex (Gardiens Astraux 023)]]
+[[it:Dhelmise-ex (Guardiani Astrali 23)]]
+[[ja:ダダリンex (ポケポケ A3)]]
+[[zh:破破舵轮ex（A3）]]

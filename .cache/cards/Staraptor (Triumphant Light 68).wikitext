@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Staraptor
+|ja name=ムクホーク
+|trans name=Mukuhawk
+|species=Staraptor
+|type=Colorless
+|image=StaraptorTriumphantLight68.png
+|illustrator=Minahamu
+|hp=150
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Staravia
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Triumphant Light}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=068/075|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Staraptor''' (Japanese: '''ムクホーク''' ''Mukuhawk'') is a {{ct|Colorless}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Triumphant Light}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Brave Bird
+|jname=ブレイブバード
+|jtrans=Brave Bird
+|damage=130
+|effect=This Pokémon also does 20 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Staraptor
+|species=Predator
+|ndex=0398
+|height=3'11"
+|jheight=1.2
+|weight=54.9
+|jweight=24.9
+|dex=When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.
+|jdex=ムクホークになると 群れから 離れて １匹で 生きていく。 強靭な 翼を 持っている。
+}}
+
+==Trivia==
+===Origin===
+*{{m|Brave Bird}} is a [[move]] in the [[Pokémon games]] that {{p|Staraptor}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Staraptor (Licht des Triumphs 068)]]
+[[es:Staraptor (Luz Triunfal TCG Pocket)]]
+[[fr:Étouraptor (Lumière Triomphale 068)]]
+[[it:Staraptor (Luce Trionfale 68)]]
+[[ja:ムクホーク (ポケポケ A2a)]]
+[[zh:姆克鷹（A2a）]]

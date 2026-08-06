@@ -1,0 +1,70 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lapras
+|ja name=ラプラス
+|trans name=Laplace
+|species=Lapras
+|type=Water
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LaprasMegaShine17.png|illustrator=buchi|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=LaprasMegaShine70.png|illustrator=zig|tab caption=Illustration Rare}}
+|hp=100
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=017/069|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=070/069|pack=Any|rarity=Star|rarity count=1}}
+}}
+
+'''Lapras''' (Japanese: '''ラプラス''' ''Laplace'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Water}}{{e|Colorless}}
+|name=Raging Freeze
+|jname=レイジングフリーズ
+|jtrans=Raging Freeze
+|damage=60
+|effect=If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, your opponent's Active Pokémon is now {{TCG|Paralyzed}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Lapras
+|category=Transport
+|ndex=0131
+|height=8'2"
+|jheight=2.5
+|weight=485
+|jweight=220.0
+|dex=Able to understand human speech and very intelligent, it loves to swim in the sea with people on its back.
+|jdex=人の　言葉を　理解する　高い 知能を持ち　背中に　人を乗せて 海を泳ぐのが　好きな　ポケモン｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=LaprasMegaShine17.png
+|caption1=Uncommon card<br>Illus. [[buchi]]
+|image2=LaprasMegaShine70.png
+|caption2=Illustration rare card<br>Illus. [[zig]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration rare artwork was first featured on {{TCG ID|Crown Zenith|Lapras|GG5}} from the {{TCG|Crown Zenith}} expansion, as was its '''Raging Freeze''' attack.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Lapras (Mega-Schillern 017)]]
+[[fr:Lokhlass (Méga-Rayonnement 017)]]
+[[it:Lapras (Mega Splendore 17)]]
+[[ja:ラプラス (ポケポケ B2b)]]
+[[zh:拉普拉斯（B2b）]]

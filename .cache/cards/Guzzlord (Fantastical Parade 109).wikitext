@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Guzzlord
+|ja name=アクジキング
+|trans name=Akuziking
+|species=Guzzlord
+|type=Darkness
+|image=GuzzlordFantasticalParade109.png
+|illustrator=Anesaki Dynamic
+|hp=150
+|weakness=Grass
+|retreat cost=4
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=109/155|pack=Any|rarity=Diamond|rarity count=3}}
+}}
+
+'''Guzzlord''' (Japanese: '''アクジキング''' ''Akuziking'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/UltraBeast/Pocket}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Darkness}}{{e|Darkness}}{{e|Colorless}}
+|name=Breakcore
+|jname=ブレイクコア
+|jtrans=Breakcore
+|damage=
+|effect=Flip a coin. If heads, discard your opponent's Active Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Guzzlord
+|species=Junkivore
+|ndex=0799
+|height=18'01"
+|jheight=5.5
+|weight=1957.7
+|jweight=888.0
+|dex=An unknown life-form called a UB. It may be constantly hungry—it is certainly always devouring something. 
+|jdex=UBと 呼ばれる 未知の 生命。 常に 腹を すかせているのか ずっと なにかを 喰らっている。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Forbidden Light|Guzzlord|80}} from the {{TCG|Forbidden Light}} expansion.
+*The '''Breakcore''' attack is named after {{wp|breakcore}}, a genre of music.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Schlingking (Traumhafte Parade 109)]]
+[[fr:Engloutyran (Parade Onirique 109)]]
+[[it:Guzzlord (Parata Fantasmagorica 109)]]
+[[ja:アクジキング (ポケポケ B2)]]
+[[zh:恶食大王（B2）]]

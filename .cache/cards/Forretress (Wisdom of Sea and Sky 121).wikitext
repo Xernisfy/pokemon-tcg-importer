@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Forretress
+|ja name=フォレトス
+|trans name=Foretos
+|species=Forretress
+|type=Metal
+|image=ForretressWisdomofSeaandSky121.png
+|illustrator=Tomokazu Komiya
+|hp=130
+|weakness=Fire
+|retreat cost=3
+|evo stage=Stage 1
+|prevo name=Pineco
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=121/161|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Forretress''' (Japanese: '''フォレトス''' ''Foretos'') is a {{ct|Metal}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Metal}}
+{{Cardtext/Attack/Pocket
+|type=Metal
+|cost={{e|Metal}}{{e|Metal}}{{e|Colorless}}
+|name=Shell Crash
+|jname=シェルクラッシュ
+|jtrans=Shell Crash
+|damage=80
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Metal
+|name=Forretress
+|category=Bagworm 
+|ndex=0205
+|height=3'11"
+|jheight=1.2
+|weight=277.3
+|jweight=125.8
+|dex=It remains immovably rooted to its tree. It scatters pieces of its hard shell to drive its enemies away.
+|jdex=木に くっついたまま 動かない。 硬い殻の 破片を ばらまいて 近づくものを 追い払う。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Flashfire|Forretress|60}} from the {{TCG|Flashfire}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Forstellka (Weisheit von Meer und Himmel 121)]]
+[[es:Forretress (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Foretress (Sagesse entre Ciel et Mer 121)]]
+[[it:Forretress (La Via del Cielo e del Mare 121)]]
+[[ja:フォレトス (ポケポケ A4)]]
+[[zh:佛烈托斯（A4）]]

@@ -1,0 +1,73 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Blissey
+|ja name=ハピナス
+|trans name=Happinas
+|species=Blissey
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BlisseyWisdomofSeaandSky132.png|illustrator=Mizue|tab caption=Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=BlisseyWisdomofSeaandSky185.png|illustrator=Natsumi Yoshida|tab caption=Illustration Rare}}
+|hp=150
+|weakness=Fighting
+|retreat cost=4
+|evo stage=Stage 1
+|prevo name=Chansey
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Wisdom of Sea and Sky}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=132/161|pack=Ho-Oh|rarity=Diamond|rarity count=3}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=185/161|pack=Ho-Oh|rarity=Star|rarity count=1}}
+}}
+
+'''Blissey''' (Japanese: '''ハピナス''' ''Happinas'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Wisdom of Sea and Sky}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Energy Blow
+|jname=エナジーブロー
+|jtrans=Energy Blow
+|damage=20+
+|effect=This attack does 20 more damage for each Energy attached to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Blissey
+|category=Happiness 
+|ndex=0242
+|height=4'11"
+|jheight=1.5
+|weight=103.2
+|jweight=46.8
+|dex=Anyone who takes even one taste of Blissey's egg becomes unfailingly caring and pleasant to everyone.
+|jdex=ハピナスが 産んだ タマゴを ひとくちでも 食べた 人は だれにでも 優しく なれる。
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=BlisseyWisdomofSeaandSky132.png
+|caption1=Rare card<br>Illus. [[Mizue]]
+|image2=BlisseyWisdomofSeaandSky185.png
+|caption2=Illustration rare card<br>Illus. [[Natsumi Yoshida]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Fusion Strike|Blissey|203}} from the {{TCG|Fusion Strike}} expansion.
+*'''Energy Blow''' is an attack that first appeared on {{TCG ID|Platinum|Shaymin|38}} from the {{TCG|Platinum}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Heiteira (Weisheit von Meer und Himmel 132)]]
+[[es:Blissey (Saber Marino y Celeste TCG Pocket)]]
+[[fr:Leuphorie (Sagesse entre Ciel et Mer 132)]]
+[[it:Blissey (La Via del Cielo e del Mare 132)]]
+[[ja:ハピナス (ポケポケ A4)]]
+[[zh:幸福蛋（A4）]]

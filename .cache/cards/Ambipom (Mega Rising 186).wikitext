@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Ambipom
+|ja name=エテボース
+|trans name=Eteboth
+|species=Ambipom
+|type=Colorless
+|image=AmbipomMegaRising186.png
+|illustrator=Kouki Saitou
+|hp=100
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Aipom
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=186/226|pack=Mega Altaria|rarity=Diamond|rarity count=2}}
+}}
+
+'''Ambipom''' (Japanese: '''エテボース''' ''Eteboth'') is a {{ct|Colorless}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}
+|name=Excited Tail
+|jname=エキサイトテール
+|jtrans=Excite Tail
+|damage=30×
+|effect=Flip 2 coins. This attack does 30 damage for each heads. If this Pokémon has {{TCG ID|Mega Rising|Lucky Mittens|220}} attached, flip 4 coins instead.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Ambipom
+|category=Long Tail
+|ndex=0424
+|height=3'11"
+|jheight=1.2
+|weight=44.8
+|jweight=20.3
+|dex=It uses its tails for everything. If it wraps both of its tails around you and gives you a squeeze, that's proof it really likes you.
+|jdex=なにを するにも シッポを 使う。 2本の シッポで 抱きしめられたら 本当に 懐かれた 証。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Mysterious Treasures|Ambipom|3}} from the {{TCG|Mysterious Treasures}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Ambidiffel (Mega-Aufstieg 186)]]
+[[es:Ambipom (Megaascenso TCG Pocket)]]
+[[fr:Capidextre (Méga-Ascension 186)]]
+[[it:Ambipom (Mega Ascesa 186)]]
+[[ja:エテボース (ポケポケ B1)]]
+[[zh:双尾怪手（B1）]]

@@ -1,0 +1,80 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Machop
+|ja name=ワンリキー
+|trans name=Wanriky
+|species=Machop
+|type=Fighting
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MachopGeneticApex143.png|illustrator=Kyoko Umemoto|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MachopDeluxePackex190.png|illustrator=Kyoko Umemoto|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MachopCelestialGuardians223.png|illustrator=Shin Nagasawa|tab caption=Shiny Rare}}
+|hp=70
+|weakness=Psychic
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=143/226|pack=Charizard|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=223/155|pack=Solgaleo|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=189/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=190/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Machop''' (Japanese: '''ワンリキー''' ''Wanriky'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}
+|name=Knuckle Punch
+|jname=げんこつ
+|jtrans=Fist
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Machop
+|species=Superpower
+|ndex=0066
+|height=2'7"
+|jheight=0.8
+|weight=43
+|jweight=19.5
+|dex=Its whole body is composed of muscles. Even though it's the size of a human child, it can hurl 100 grown-ups.
+|jdex=全身が　筋肉になっており 子どもほどの　大きさしかないのに 大人　１００人を　投げ飛ばせる｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fighting
+|image1=MachopGeneticApex143.png
+|caption1=Standard card<br>Illus. [[Kyoko Umemoto]]
+|image2=MachopCelestialGuardians223.png
+|caption2=Shiny rare card<br>Illus. [[Shin Nagasawa]]
+|image3=MachopDeluxePackex190.png
+|caption3=Parallel foil card<br>Illus. [[Kyoko Umemoto]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Guardians Rising|Machop|62}} from the {{TCG|Guardians Rising}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Machop}}.
+*'''Knuckle Punch''' is an attack that first appeared on {{TCG ID|Neo Revelation|Geodude|44}} from the {{TCG|Neo Revelation}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Machollo (Unschlagbare Gene 143)]]
+[[es:Machop (Genes Formidables TCG Pocket)]]
+[[fr:Machoc (Puissance Génétique 143)]]
+[[it:Machop (Geni Supremi 143)]]
+[[ja:ワンリキー (ポケポケ A1)]]
+[[zh:腕力（A1）]]

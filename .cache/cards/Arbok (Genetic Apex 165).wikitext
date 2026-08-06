@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Arbok
+|ja name=アーボック
+|trans name=Arbok
+|species=Arbok
+|type=Darkness
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArbokGeneticApex165.png|illustrator=Naoki Saito|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ArbokEeveeGrove101.png|illustrator=SATOSHI NAKAI|tab caption=Shiny Rare}}
+|hp=100
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 1
+|prevo name=Ekans
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=165/226|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Eevee Grove}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=101/069|pack=Any|rarity=Shiny|rarity count=1}}
+}}
+
+'''Arbok''' (Japanese: '''アーボック''' ''Arbok'') is a {{ct|Darkness}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Darkness}}{{e|Colorless}}
+|name=Corner
+|jname=おいつめる
+|jtrans=Corner
+|damage=60
+|effect=During your opponent's next turn, the Defending Pokémon can't retreat.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Arbok
+|species=Cobra
+|ndex=0024
+|height=11'6"
+|jheight=3.5
+|weight=143.3
+|jweight=65.0
+|dex=The latest research has determined that there are over 20 possible arrangements of the patterns on its stomach.
+|jdex=最新の　研究で　お腹の 模様は　２０種類　以上の パターンが　あることが　判明｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Darkness
+|image1=ArbokGeneticApex165.png
+|caption1=Uncommon card<br>Illus. [[Naoki Saito]]
+|image2=ArbokEeveeGrove101.png
+|caption2=Shiny rare card<br>Illus. [[SATOSHI NAKAI]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|XY|Arbok|48}} from the {{TCG|XY}} expansion.
+*This card's shiny rare print features a {{Shiny}} {{p|Arbok}}.
+*'''Corner''' is an attack that first appeared on {{TCG ID|Neo Destiny|Houndour|43}} from the {{TCG|Neo Destiny}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Sun}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Arbok (Unschlagbare Gene 165)]]
+[[es:Arbok (Genes Formidables TCG Pocket)]]
+[[fr:Arbok (Puissance Génétique 165)]]
+[[it:Arbok (Geni Supremi 165)]]
+[[ja:アーボック (ポケポケ A1)]]
+[[zh:阿柏怪（A1）]]

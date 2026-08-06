@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Mr. Mime
+|ja name=バリヤード
+|trans name=Barrierd
+|species=Mr. Mime
+|type=Psychic
+|image=MrMimeShiningRevelry32.png
+|illustrator=Atsuko Nishida
+|hp=90
+|weakness=Darkness
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Shining Revelry}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=032/072|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Mr. Mime''' (Japanese: '''バリヤード''' ''Barrierd'') is a {{ct|Psychic}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Shining Revelry}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Psychic}}
+{{Cardtext/Attack/Pocket
+|type=Psychic
+|cost={{e|Psychic}}{{e|Colorless}}
+|name=Juggling
+|jname=ジャグリング
+|jtrans=Juggling
+|damage=20×
+|effect=Flip 4 coins. This attack does 20 damage for each heads.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Psychic
+|name=Mr. Mime
+|category=Barrier 
+|ndex=0122
+|height=4'3"
+|jheight=1.3
+|weight=120.2
+|jweight=54.5
+|dex=The broadness of its hands may be no coincidence—many scientists believe its palms became enlarged specifically for pantomiming.
+|jdex=大きな　手のひらは　パントマイムを するために　発達　したと 考える　学者も　多い｡
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Team Up|Mr. Mime|66}} from the {{TCG|Team Up}} expansion.
+*'''Juggling''' is an attack that first appeared on {{TCG ID|Vending|Mr. Mime|S1}} from {{TCG|Expansion Sheet 1}}.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pantimos (Glänzendes Festival 032)]]
+[[es:Mr. Mime (Festival Brillante TCG Pocket)]]
+[[fr:M. Mime (Réjouissances Rayonnantes 032)]]
+[[it:Mr. Mime (Tripudio Splendente 32)]]
+[[ja:バリヤード (ポケポケ A2b)]]
+[[zh:魔牆人偶（A2b）]]

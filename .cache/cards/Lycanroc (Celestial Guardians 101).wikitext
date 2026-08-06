@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Lycanroc
+|ja name=ルガルガン
+|trans name=Lugarugan
+|species=Lycanroc
+|type=Fighting
+|image=LycanrocCelestialGuardians101.png
+|illustrator=5ban Graphics
+|hp=100
+|weakness=Grass
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Rockruff
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Celestial Guardians}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=101/155|pack=Lunala|rarity=Diamond|rarity count=3}}
+}}
+
+'''Lycanroc''' (Japanese: '''ルガルガン''' ''Lugarugan'') is a {{ct|Fighting}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Celestial Guardians}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Blood Fang
+|jname=ブラッドファング
+|jtrans=Blood Fang
+|damage=50+
+|effect=If your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Lycanroc
+|species=Wolf
+|ndex=0745
+|height=3'7"
+|jheight=1.1
+|weight=55.1
+|jweight=25.0
+|dex=This Pokémon uses its rocky mane to slash any who approach. It will even disobey its Trainer if it dislikes the orders it was given.
+|jdex=岩の たてがみで 近づくものを 切りつける。 トレーナーの 指示も 気に入らなければ 従わない。
+}}
+
+==Trivia==
+===Origin===
+*This card features {{p|Lycanroc}} in its {{form|Lycanroc|Midnight Form}}.
+*This card's illustration was first featured on {{TCG ID|Lycanroc Half Deck|Lycanroc|16}} from the {{TCG|Sun & Moon Trainer Kit: Lycanroc & Alolan Raichu}}.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Wolwerock (Hüter des Firmaments 101)]]
+[[es:Lycanroc (Guardianes Celestiales 101 TCG Pocket)]]
+[[fr:Lougaroc (Gardiens Astraux 101)]]
+[[it:Lycanroc (Guardiani Astrali 101)]]
+[[ja:ルガルガン (ポケポケ A3 101)]]
+[[zh:鬃岩狼人（A3 101）]]

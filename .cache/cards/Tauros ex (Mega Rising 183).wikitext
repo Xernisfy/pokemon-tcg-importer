@@ -1,0 +1,65 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Tauros {{TCGP Icon|ex}}
+|ja name=ケンタロス{{TCGP Icon|ex}}
+|trans name=Kentauros {{TCGP Icon|ex}}
+|species=Tauros
+|type=Colorless
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TaurosexMegaRising183.png|illustrator=PLANETA CG Works|tab caption=Double Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TaurosexMegaRising265.png|illustrator=PLANETA CG Works|tab caption=Super Rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TaurosexMegaRising283.png|illustrator=Ounishi|tab caption=Special Illustration Rare}}
+|hp=140
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=183/226|pack=Mega Altaria|rarity=Diamond|rarity count=4}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=265/226|pack=Mega Altaria|rarity=Star|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=283/226|pack=Mega Altaria|rarity=Star|rarity count=2}}
+}}
+
+'''Tauros ex''' (Japanese: '''ケンタロスex''' ''Kentauros ex'') is a {{ct|Colorless}} Basic {{TCGP|Pokémon ex}} card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Wild Tackle
+|jname=ワイルドタックル
+|jtrans=Wild Tackle
+|damage=90
+|effect=Flip a coin. If tails, this Pokémon also does 30 damage to itself.
+}}
+{{Cardtext/Pocket ex
+|type=Colorless
+|ndex=0128
+|name=Tauros
+}}
+{{Cardtext/Footer}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Colorless
+|image1=TaurosexMegaRising183.png
+|caption1=Double rare card<br>Illus. [[PLANETA CG Works]]
+|image2=TaurosexMegaRising265.png
+|caption2=Super rare card<br>Illus. [[PLANETA CG Works]]
+|image3=TaurosexMegaRising283.png
+|caption3=Special illustration rare card<br>Illus. [[Ounishi]]
+}}
+
+==Trivia==
+===Origin===
+*'''Wild Tackle''' is an attack that first appeared on {{TCG ID|Boundaries Crossed|Stoutland|122}} from the {{TCG|Boundaries Crossed}} expansion.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Tauros-ex (Mega-Aufstieg 183)]]
+[[es:Tauros ex (Megaascenso TCG Pocket)]]
+[[fr:Tauros-ex (Méga-Ascension 183)]]
+[[it:Tauros-ex (Mega Ascesa 183)]]
+[[ja:ケンタロスex (ポケポケ B1)]]
+[[zh:肯泰罗ex（B1）]]

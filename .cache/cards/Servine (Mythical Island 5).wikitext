@@ -1,0 +1,75 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Servine
+|ja name=ジャノビー
+|trans name=Janovy
+|species=Servine
+|type=Grass
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ServineMythicalIsland5.png|illustrator=Shigenori Negishi|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=ServineDeluxePackex35.png|illustrator=Shigenori Negishi|tab caption=Parallel}}
+|hp=80
+|weakness=Fire
+|retreat cost=1
+|evo stage=Stage 1
+|prevo name=Snivy
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mythical Island}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=005/068|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=034/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=035/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Servine''' (Japanese: '''ジャノビー''' ''Janovy'') is a {{ct|Grass}} Stage 1 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Mythical Island}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}{{e|Colorless}}
+|name=Vine Whip
+|jname=つるのムチ
+|jtrans=Vine Whip
+|damage=50
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Servine
+|species=Grass Snake
+|ndex=0496
+|height=2'7"
+|jheight=0.8
+|weight=35.3
+|jweight=16.0
+|dex=It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.
+|jdex=地面を　滑るように　走る｡ 素早い　動きで　敵を　まどわせ つるのムチで　しとめるのだ｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Grass
+|image1=ServineMythicalIsland5.png
+|caption1=Standard card<br>Illus. [[Shigenori Negishi]]
+|image2=ServineDeluxePackex35.png
+|caption2=Parallel foil card<br>Illus. [[Shigenori Negishi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Legendary Treasures|Servine|7}} from the {{TCG|Legendary Treasures}} expansion.
+*{{m|Vine Whip}} is a [[move]] in the [[Pokémon games]] that {{p|Servine}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Omega Ruby}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Efoserp (Mysteriöse Insel 005)]]
+[[es:Servine (La Isla Singular TCG Pocket)]]
+[[fr:Lianaja (L'Île Fabuleuse 005)]]
+[[it:Servine (L'Isola Misteriosa 5)]]
+[[ja:ジャノビー (ポケポケ A1a)]]
+[[zh:青藤蛇（A1a）]]

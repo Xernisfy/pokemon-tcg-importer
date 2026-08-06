@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Alolan Grimer
+|ja name=アローラベトベター
+|trans name=Alolan Betbeter
+|species=Grimer
+|type=Darkness
+|image=AlolanGrimerFantasticalParade96.png
+|illustrator=Sekio
+|hp=80
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=096/155|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Alolan Grimer''' (Japanese: '''アローラベトベター''' ''Alolan Betbeter'') is a {{ct|Darkness}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Fantastical Parade}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Darkness}}
+{{Cardtext/Attack/Pocket
+|type=Darkness
+|cost={{e|Colorless}}{{e|Colorless}}
+|name=Pound
+|jname=はたく
+|jtrans=Pound
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Darkness
+|name=Grimer
+|category=Sludge
+|ndex=0088
+|height=2'04"
+|jheight=0.7
+|weight=92.6
+|jweight=42.0
+|dex=Alolan Grimer will gladly gobble up any kind of trash, making it a widely used and popular Pokémon at garbage disposal facilities.
+|jdex=どんな ゴミでも おいしく 食べて くれるので ゴミ処分場では 大活躍の 人気者。
+}}
+
+==Trivia==
+===Origin===
+*This card features the [[Alolan form]] of {{p|Grimer}}.
+*This card's illustration was first featured on {{TCG ID|Cosmic Eclipse|Alolan Grimer|130}} from the {{TCG|Cosmic Eclipse}} expansion.
+*{{m|Pound}} is a [[move]] in the [[Pokémon games]] that Alolan Grimer can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Alola-Sleima (Traumhafte Parade 096)]]
+[[fr:Tadmorv d'Alola (Parade Onirique 096)]]
+[[it:Grimer di Alola (Parata Fantasmagorica 96)]]
+[[ja:アローラベトベター (ポケポケ B2)]]
+[[zh:阿罗拉 臭泥（B2）]]

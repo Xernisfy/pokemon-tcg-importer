@@ -1,0 +1,59 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Spinarak
+|ja name=イトマル
+|trans name=Itomaru
+|species=Spinarak
+|type=Grass
+|image=SpinarakCrimsonBlaze5.png
+|illustrator=kodama
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Crimson Blaze}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=005/069|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Spinarak''' (Japanese: '''イトマル''' ''Itomaru'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Crimson Blaze}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Sting
+|jname=チクチクさす
+|jtrans=Stinging Stab
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Spinarak
+|species=String Spit
+|ndex=0167
+|height=1'8"
+|jheight=0.5
+|weight=18.7
+|jweight=8.5
+|dex=Although the poison from its fangs isn't that strong, it's potent enough to weaken prey that gets caught in its web.
+|jdex=キバの 毒は さほど 強くないが 巣に かかって 動けない 獲物を 弱らせるには 充分。
+}}
+
+==Trivia==
+===Origin===
+*'''Sting''' is an attack that first appeared on  {{TCG ID|Gym Challenge|Koga's Weedle|82}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Ultra Moon}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Webarak (Feuerrote Flammen 005)]]
+[[es:Spinarak (Fuego Carmesí TCG Pocket)]]
+[[fr:Mimigal (Embrasement Écarlate 005)]]
+[[it:Spinarak (Fiamme Cremisi 5)]]
+[[ja:イトマル (ポケポケ B1a)]]
+[[zh:圆丝蛛（B1a）]]

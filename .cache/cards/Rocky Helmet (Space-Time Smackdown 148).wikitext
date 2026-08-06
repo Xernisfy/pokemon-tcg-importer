@@ -1,0 +1,69 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Rocky Helmet
+|ja name=ゴツゴツメット
+|trans name=Rugged Helmet
+|subtype=Pokémon Tool
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket
+|image=RockyHelmetSpace-TimeSmackdown148.png
+|illustrator=Ayaka Yoshida
+|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket
+|image=RockyHelmetDeluxePackex323.png
+|illustrator=Ayaka Yoshida
+|tab caption=Parallel}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=148/155|pack=Palkia|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=322/353|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=323/353|pack=Any|rarity=Diamond|rarity count=2}}
+}}
+
+'''Rocky Helmet''' (Japanese: '''ゴツゴツメット''' ''Rugged Helmet'') is a {{TCGP|Pokémon Tool}} card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Tool
+|rule=Pocket Tool
+|effect=If the Pokémon this card is attached to is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon.
+}}
+
+==Release Information==
+===Gallery===
+{{TCGGallery
+|type=Pokémon Tool
+|image1=RockyHelmetSpace-TimeSmackdown148.png
+|caption1=Standard card<br>Illus. [[Ayaka Yoshida]]
+|image2=RockyHelmetDeluxePackex323.png
+|caption2=Parallel foil card<br>Illus. [[Ayaka Yoshida]]
+}}
+
+==Trivia==
+This card's effect is identical to that of the {{TCG|Rocky Helmet}} card in the [[Pokémon Trading Card Game]].
+
+===Origin===
+*The [[Rocky Helmet]] is a [[held item]] introduced in {{game|Black and White|s}}. It damages an attacker who makes [[contact]] with the holder.
+*This card's illustration was first featured on {{TCG ID|Scarlet & Violet|Rocky Helmet|193}} from the {{TCG|Scarlet & Violet}} expansion.
+
+==In other languages==
+{{langtable|color={{TCG Pokémon Tool color}}|bordercolor={{TCG Pokémon Tool color dark}}|textcolor=FFF
+|ja=ゴツゴツメット ''Gotsugotsu-met''
+|zh_yue=凸凸頭盔 ''Dahtdaht Tàuhkwāi''
+|zh_cmn=凸凸頭盔 ''Tútú Tóukuī''
+|fr=Casque Brut
+|de=Beulenhelm
+|it=Bitorzolelmo
+|ko=울퉁불퉁멧 ''Ultungbultung-met''
+|pt_br=Capacete de Pedra
+|es=Casco Dentado
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Beulenhelm (TCG Pocket)]]
+[[es:Casco Dentado (TCG Pocket)]]
+[[fr:Casque Brut (Choc Spatio-Temporel 148)]]
+[[it:Bitorzolelmo (Scontro Spaziotemporale 148)]]
+[[ja:ゴツゴツメット (ポケポケ)]]
+[[zh:凸凸头盔（TCGP）]]

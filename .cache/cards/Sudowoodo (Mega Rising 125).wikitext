@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Sudowoodo
+|ja name=ウソッキー
+|trans name=Usokkie
+|species=Sudowoodo
+|type=Fighting
+|image=SudowoodoMegaRising125.png
+|illustrator=Hitoshi Ariga
+|hp=90
+|weakness=Grass
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=125/226|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Sudowoodo''' (Japanese: '''ウソッキー''' ''Usokkie'') is a {{ct|Fighting}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fighting}}
+{{Cardtext/Attack/Pocket
+|type=Fighting
+|cost={{e|Fighting}}{{e|Fighting}}
+|name=Fight Back
+|jname=やりかえす
+|jtrans=Retort
+|damage=30+
+|effect=If this Pokémon has damage on it, this attack does 50 more damage.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fighting
+|name=Sudowoodo
+|category=Imitation
+|ndex=0185
+|height=3'11"
+|jheight=1.2
+|weight=83.8
+|jweight=38.0
+|dex=To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.
+|jdex=攻撃 されないように ひたすら 木のマネをしているが 水は苦手で 雨になると どこかに 逃げ出す。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|BREAKpoint|Sudowoodo|67}} from the {{TCG|BREAKpoint}} expansion.
+*'''Fight Back''' is an attack that first appeared on {{TCG ID|Platinum|Vigoroth|64}} from the {{TCG|Platinum}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Mogelbaum (Mega-Aufstieg 125)]]
+[[es:Sudowoodo (Megaascenso TCG Pocket)]]
+[[fr:Simularbre (Méga-Ascension 125)]]
+[[it:Sudowoodo (Mega Ascesa 125)]]
+[[ja:ウソッキー (ポケポケ B1)]]
+[[zh:树才怪（B1）]]

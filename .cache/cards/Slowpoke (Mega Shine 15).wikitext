@@ -1,0 +1,81 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Slowpoke
+|ja name=ヤドン
+|trans name=Yadon
+|species=Slowpoke
+|type=Water
+|image=SlowpokeMegaShine15.png 
+|illustrator=Narumi Sato
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SlowpokeMegaShine15.png|illustrator=Narumi Sato|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SlowpokeMegaShine95.png|illustrator=Shigenori Negishi|tab caption=Shiny rare}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=SlowpokePromo-B42.png|illustrator=Yoshimi Miyoshi|tab caption=Promo}}
+|hp=70
+|weakness=Lightning
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Shine}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=015/069|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=095/069|pack=Any|rarity=Shiny|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-B}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=042/P-B|pack=Vol. 6}}
+}}
+
+'''Slowpoke''' (Japanese: '''ヤドン''' ''Yadon'') is a {{ct|Water}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Shine}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Water}}
+{{Cardtext/Attack/Pocket
+|type=Water
+|cost={{e|Water}}{{e|Colorless}}
+|name=Headbutt
+|jname=ずつき
+|jtrans=Headbutt
+|damage=30
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Water
+|name=Slowpoke
+|category=Dopey
+|ndex=0079
+|height=3'11"
+|jheight=1.2
+|weight=79.4
+|jweight=36.0
+|dex=It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.
+|jdex=いつも ボーッとしていて なにを 考えているか 分からない。尻尾で エサを 釣るのが 得意。
+}}
+
+==Release information==
+The {{TCGP|Promo-B}} card was one of five that could be pulled from Promo-B Vol. 6 packs; these were made available as part of the [[Slowpoke Drop Event]], which ran from April 9 to 19, 2026.
+
+===Gallery===
+{{TCGGallery
+|type=Water
+|image1=SlowpokeMegaShine15.png
+|caption1=Common card<br>Illus. [[Narumi Sato]]
+|image2=SlowpokeMegaShine95.png
+|caption2=Shiny rare card<br>Illus. [[Shigenori Negishi]]
+|image3=SlowpokePromo-B42.png
+|caption3=Promo card<br>Illus. [[Yoshimi Miyoshi]]
+}}
+
+==Trivia==
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Scarlet & Violet|Slowpoke|42}} from the {{TCG|Scarlet & Violet}} expansion.
+*This card's shiny rare illustration features a {{Shiny}} {{p|Slowpoke}}.
+*{{m|Headbutt}} is a [[move]] in the [[Pokémon games]] that {{p|Slowpoke}} can learn.
+*This card's [[Pokédex]] entry comes from {{g|Violet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Flegmon (Mega-Schillern 015)]]
+[[fr:Ramoloss (Méga-Rayonnement 015)]]
+[[it:Slowpoke (Mega Splendore 15)]]
+[[ja:ヤドン (ポケポケ B2b)]]
+[[zh:呆呆兽（B2b）]]

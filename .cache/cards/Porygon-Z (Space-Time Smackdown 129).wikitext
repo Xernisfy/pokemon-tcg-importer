@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Porygon-Z
+|ja name=ポリゴンＺ
+|trans name=Porygon-Z
+|species=Porygon-Z
+|type=Colorless
+|image=Porygon-ZSpace-TimeSmackdown129.png
+|illustrator=Shin Nagasawa
+|hp=140
+|weakness=Fighting
+|retreat cost=2
+|evo stage=Stage 2
+|prevo name=Porygon2
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=129/155|pack=Palkia|rarity=Diamond|rarity count=3}}
+}}
+
+'''Porygon-Z''' (Japanese: '''ポリゴンＺ''' ''Porygon-Z'') is a {{ct|Colorless}} Stage 2 Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Colorless}}
+{{Cardtext/Attack/Pocket
+|type=Colorless
+|cost={{e|Colorless}}{{e|Colorless}}{{e|Colorless}}
+|name=Buggy Beam
+|jname=バグビーム
+|jtrans=Bug Beam
+|damage=80
+|effect=Change the type of the next Energy that will be generated for your opponent to 1 of the following at random: {{e|Grass}}, {{e|Fire}}, {{e|Water}}, {{e|Lightning}}, {{e|Psychic}}, {{e|Fighting}}, {{e|Darkness}}, or {{e|Metal}}.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Colorless
+|name=Porygon-Z
+|species=Virtual
+|ndex=0474
+|height=2'11"
+|jheight=0.9
+|weight=75
+|jweight=34.0
+|dex=Porygon-Z had a program installed to allow it to move between dimensions, but the program also caused instability in Porygon-Z's behavior.
+|jdex=異次元 空間に 出入りできる プログラムを 追加したところ 挙動が 不安定になった。
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Burning Shadows|Porygon-Z|105a}}, a {{TCG|Yellow A Alternate cards|Yellow A Alternate}} promotional card with the {{TCG|Burning Shadows}} expansion symbol.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Porygon-Z (Kollision von Raum und Zeit 129)]]
+[[es:Porygon-Z (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Porygon-Z (Choc Spatio-Temporel 129)]]
+[[it:Porygon-Z (Scontro Spaziotemporale 129)]]
+[[ja:ポリゴンZ (ポケポケ A2)]]
+[[zh:多邊獸Ｚ（A2）]]

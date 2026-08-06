@@ -1,0 +1,95 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Pikachu
+|ja name=ピカチュウ
+|trans name=Pikachu
+|species=Pikachu
+|type=Lightning
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PikachuGeneticApex94.png|illustrator=Mitsuhiro Arita|tab caption=Standard}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PikachuDeluxePackex129.png|illustrator=Mitsuhiro Arita|tab caption=Parallel}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PikachuPromo-A9.png|illustrator=Atsushi Furusawa|tab caption=Promo (009/P-A)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PikachuPromo-A15.png|illustrator=Kouki Saitou|tab caption=Promo (015/P-A)}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=PikachuPromo-A26.png|illustrator=Kouki Saitou|tab caption=Promo (026/P-A)}}
+|hp=60
+|weakness=Fighting
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Genetic Apex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=094/226|pack=Pikachu|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Promo-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=009/P-A}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=015/P-A|pack=Vol. 1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=026/P-A}}
+{{TCG Card Infobox/Expansion Header/Pocket|Deluxe Pack: ex}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=128/353|pack=Any|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=129/353|pack=Any|rarity=Diamond|rarity count=1}}
+}}
+
+'''Pikachu''' (Japanese: '''ピカチュウ''' ''Pikachu'') is a {{ct|Lightning}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Genetic Apex}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Lightning}}
+{{Cardtext/Attack/Pocket
+|type=Lightning
+|cost={{e|Lightning}}
+|name=Gnaw
+|jname=かじる
+|jtrans=Gnaw
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Lightning
+|name=Pikachu
+|species=Mouse
+|ndex=0025
+|height=1'4"
+|jheight=0.4
+|weight=13.2
+|jweight=6.0
+|dex=When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.
+|jdex=両頬には　電気を　溜めこむ 袋がある｡　怒ると　溜めこんだ 電気を　一気に　放ってくる｡
+}}
+
+==Release information==
+The first {{TCGP|Promo-A}} card (numbered 009/P-A) was first made available to purchase from the Premium section of the in-game {{TCGP|shop}} on October 30, 2024 worldwide (September 26, 2024 in New Zealand), at a cost of 1 Premium Ticket, a currency only available to players with a Premium Pass subscription. Only one copy of this card can be purchased in this way.
+
+The second Promo-A card (numbered 015/P-A) was one of five cards that could be pulled from Promo-A Vol. 1 packs; these were made available as part of the [[Lapras ex Drop Event]], which ran from November 5 to 18, 2024.
+
+The third Promo-A card (numbered 026/P-A) was available from January 1 to 8, 2025 as a login reward from the [[Mission (TCG Pocket)#New Year Event Missions|New Year Event Missions]].
+
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=PikachuGeneticApex94.png
+|caption1=Standard card<br>Illus. [[Mitsuhiro Arita]]
+|image2=PikachuPromo-A9.png
+|caption2={{TCGP|Promo-A}} card (009/P-A)<br>Illus. [[Atsushi Furusawa]]
+|image3=PikachuPromo-A15.png
+|caption3={{TCGP|Promo-A}} card (015/P-A)<br>Illus. [[Kouki Saitou]]
+|image4=PikachuPromo-A26.png
+|caption4={{TCGP|Promo-A}} card (026/P-A)<br>Illus. [[Kouki Saitou]]
+|image5=PikachuDeluxePackex129.png
+|caption5=Parallel foil card<br>Illus. [[Mitsuhiro Arita]]
+}}
+
+==Trivia==
+This card's {{TCGP|Promo-A}} (026/P-A) illustration features {{p|Pikachu}}, {{p|Bulbasaur}}, {{p|Charmander}}, {{p|Squirtle}} and {{p|Eevee}}, all of which are [[first partner Pokémon]] in the [[Kanto]] region.
+
+===Origin===
+*This card's standard illustration was first featured on {{TCG ID|Base Set|Pikachu|58}} from the {{TCG|Base Set}}, as was its '''Gnaw''' attack.
+*This card's {{TCGP|Promo-A}} (015/P-A) illustration was first featured on {{TCG ID|BREAKthrough|Pikachu|48}} from the {{TCG|BREAKthrough}} expansion, which also has the Gnaw attack.
+*This card's [[Pokédex]] entry comes from {{g|Scarlet}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Pikachu (Unschlagbare Gene 094)]]
+[[es:Pikachu (Genes Formidables TCG Pocket)]]
+[[fr:Pikachu (Puissance Génétique 094)]]
+[[it:Pikachu (Geni Supremi 94)]]
+[[ja:ピカチュウ (ポケポケ A1)]]
+[[zh:皮卡丘（A1）]]

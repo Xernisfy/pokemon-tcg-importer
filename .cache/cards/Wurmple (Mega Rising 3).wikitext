@@ -1,0 +1,60 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Wurmple
+|ja name=ケムッソ
+|trans name=Kemusso
+|species=Wurmple
+|type=Grass
+|image=WurmpleMegaRising3.png
+|illustrator=kirisAki
+|hp=50
+|weakness=Fire
+|retreat cost=1
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Mega Rising}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=003/226|pack=Mega Blaziken|rarity=Diamond|rarity count=1}}
+}}
+
+'''Wurmple''' (Japanese: '''ケムッソ''' ''Kemusso'') is a {{ct|Grass}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Mega Rising}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Grass}}
+{{Cardtext/Attack/Pocket
+|type=Grass
+|cost={{e|Grass}}
+|name=Ram
+|jname=ぶつかる
+|jtrans=Collide
+|damage=20
+|effect=
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Grass
+|name=Wurmple
+|category=Worm
+|ndex=0265
+|height=1'
+|jheight=0.3
+|weight=7.9
+|jweight=3.6
+|dex=It lives among the tall grass and in forests. It repels attacks by raising up the spikes on its rear.
+|jdex=森や 草むらに 生息。 敵に 襲われた ときは お尻の 毒の トゲで 対抗する。 
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Lost Thunder|Wurmple|23}} from the {{TCG|Lost Thunder}} expansion; both cards have the Ram attack.
+*'''Ram''' is an attack that first appeared on {{TCG ID|Team Rocket|Zubat|70}} from the {{TCG|Team Rocket}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Y}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Waumpel (Mega-Aufstieg 003)]]
+[[es:Wurmple (Megaascenso TCG Pocket)]]
+[[fr:Chenipotte (Méga-Ascension 003)]]
+[[it:Wurmple (Mega Ascesa 3)]]
+[[ja:ケムッソ (ポケポケ B1)]]
+[[zh:刺尾虫（B1）]]

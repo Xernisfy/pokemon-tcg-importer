@@ -1,0 +1,61 @@
+{{TCG Card Infobox/Trainer/Pocket
+|en name=Team Star Grunt
+|ja name=スター団のしたっぱ
+|trans name=Team Star Underling
+|subtype=Supporter
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TeamStarGruntPaldeanWonders88.png|illustrator=nagimiso|tab caption=Uncommon}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=TeamStarGruntPaldeanWonders105.png|illustrator=nagimiso|tab caption=Super Rare}}
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Paldean Wonders}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=088/093|pack=Any|rarity=Diamond|rarity count=2}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=105/093|pack=Any|rarity=Star|rarity count=2}}
+}}
+
+'''Team Star Grunt''' (Japanese: '''スター団のしたっぱ''' ''Team Star Underling'') is a {{TCGP|Supporter card}} in [[Pokémon Trading Card Game Pocket]]. It is part of the {{TCGP|Paldean Wonders}} expansion.
+
+==Card text==
+{{TCGTrainerText
+|class=Supporter
+|rule=SWSH Supporter
+|effect=Discard a random Energy from among the Energy attached to all of your opponent's Pokémon that have an {{TCG|Ability}}.
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Supporter
+|image1=TeamStarGruntPaldeanWonders88.png
+|caption1=Uncommon card<br>Illus. [[nagimiso]]
+|image2=TeamStarGruntPaldeanWonders105.png
+|caption2=Super rare card<br>Illus. [[nagimiso]]
+}}
+
+==Trivia==
+{{TCG|Team Star Grunt}} also exists in the [[Pokémon Trading Card Game]], but has a different effect.
+
+===Origin===
+*{{tc|Team Star Grunt}}s are [[grunt]] members of [[Team Star]]. Both male and female grunts, as they appear in {{g|Scarlet}}, are depicted in this card's illustrations.
+*Both of this card's illustrations were first featured on {{TCG ID|Scarlet & Violet|Team Star Grunt|195}} from the {{TCG|Scarlet & Violet}} expansion.
+
+==In other languages==
+{{langtable|color={{TCG Supporter color}}|bordercolor={{TCG Supporter color dark}}
+|ja=スター団のしたっぱ ''Star-dan no Shitappa''
+|zh_yue=天星隊手下 ''Tīnsīng Déui Sáuhah''
+|zh_cmn=天星隊手下<!-- / 天星队手下--> ''Tiānxīng Duì Shǒuxià''
+|fr=Sbire de la Team Star
+|de=Rüpel von Team Star
+|it=Recluta del Team Star
+|ko=스타단의 조무래기 ''Star-dan-ui Jomuraegi''
+|pt_br=Recruta da Equipe Star
+|es=Recluta del Team Star
+}}
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Rüpel von Team Star (TCG Pocket)]]
+[[es:Recluta del Team Star (TCG Pocket)]]
+[[fr:Sbire de la Team Star (Merveilles de Paldea 088)]]
+[[it:Recluta del Team Star (Meraviglie di Paldea 88)]]
+[[ja:スター団のしたっぱ (ポケポケ)]]
+[[zh:天星队手下（TCGP）]]

@@ -1,0 +1,74 @@
+{{TCG Card Infobox/Pokémon/Pocket
+|en name=Magmar
+|ja name=ブーバー
+|trans name=Boober
+|species=Magmar
+|type=Fire
+|image set=
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MagmarSpace-TimeSmackdown23.png|illustrator=Hiroki Asanuma|tab caption=Common}}
+{{TCG Card Infobox/Tabbed Image/Pocket|image=MagmarFantasticalParade207.png|illustrator=MAHOU|tab caption=Shiny Rare}}
+|hp=80
+|weakness=Water
+|retreat cost=2
+|evo stage=Basic
+|expansions=
+{{TCG Card Infobox/Expansion Header/Pocket|Space-Time Smackdown}}
+{{TCG Card Infobox/Expansion Entry/Pocket|number=023/155|pack=Palkia|rarity=Diamond|rarity count=1}}
+{{TCG Card Infobox/Expansion Header/Pocket|Fantastical Parade}}
+{{TCG Card Infobox/Expansion Entry/Pocket|pack=Any|rarity=Shiny|rarity count=1|number=207/155}}
+}}
+
+'''Magmar''' (Japanese: '''ブーバー''' ''Boober'') is a {{ct|Fire}} Basic Pokémon card in [[Pokémon Trading Card Game Pocket]]. It was first released as part of the {{TCGP|Space-Time Smackdown}} expansion.
+
+==Card text==
+{{Cardtext/Header/Pocket|type=Fire}}
+{{Cardtext/Attack/Pocket
+|type=Fire
+|cost={{e|Fire}}
+|name=Stoke
+|jname=もえあがる
+|jtrans=Flare Up
+|damage=
+|effect=Take a {{e|Fire}} Energy from your Energy Zone and attach it to this Pokémon.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data===
+{{Carddex/Pocket
+|type=Fire
+|name=Magmar
+|species=Spitfire
+|ndex=0126
+|height=4'3"
+|jheight=1.3
+|weight=98.1
+|jweight=44.5
+|dex=Magmar dispatches its prey with fire. But it regrets this habit once it realizes that it has burned its intended prey to a charred crisp.
+|jdex=炎で　獲物を　しとめる｡ ついつい　焼きすぎて 黒コゲに　してしまい　後悔する｡
+}}
+
+==Release information==
+===Gallery===
+{{TCGGallery
+|type=Fire
+|image1=MagmarSpace-TimeSmackdown23.png
+|caption1=Common card<br>Illus. [[Hiroki Asanuma]]
+|image3=MagmarFantasticalParade207.png
+|caption3=Shiny rare card<br>Illus. [[MAHOU]]
+}}
+
+==Trivia==
+===Origin===
+*This card's illustration was first featured on {{TCG ID|Unified Minds|Magmar|21}} from the {{TCG|Unified Minds}} expansion.
+*'''Stoke''' is an attack that first appeared on {{TCG ID|Gym Challenge|Blaine's Growlithe|62}} from the {{TCG|Gym Challenge}} expansion.
+*This card's [[Pokédex]] entry comes from {{g|Sword}}.
+*This card's {{TCGP|Fantastical Parade}} print features a {{Shiny}} {{p|Magmar}}.
+
+{{DoubleProjectTag|Sidegames|TCG|video games about the TCG.}}
+
+[[de:Magmar (Kollision von Raum und Zeit 023)]]
+[[es:Magmar (Pugna Espaciotemporal TCG Pocket)]]
+[[fr:Magmar (Choc Spatio-Temporel 023)]]
+[[it:Magmar (Scontro Spaziotemporale 23)]]
+[[ja:ブーバー (ポケポケ A2)]]
+[[zh:鸭嘴火兽（A2）]]
